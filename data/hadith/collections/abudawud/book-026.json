@@ -1,0 +1,1097 @@
+{
+  "collection": "abudawud",
+  "book": 26,
+  "name": {
+    "arabic": "كتاب Knowledge (Kitab Al-Ilm)",
+    "transliteration": "ilm (kitab al-ilm)",
+    "translation": "Knowledge (Kitab Al-Ilm)"
+  },
+  "totalHadith": 28,
+  "hadithNumberRange": {
+    "first": 3641,
+    "last": 3668
+  },
+  "content": [
+    {
+      "hadithNumber": 3641,
+      "arabicNumber": 3641,
+      "book": 26,
+      "hadithInBook": 1,
+      "text": {
+        "arabic": "حَدَّثَنَا مُسَدَّدُ بْنُ مُسَرْهَدٍ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ دَاوُدَ، سَمِعْتُ عَاصِمَ بْنَ رَجَاءِ بْنِ حَيْوَةَ، يُحَدِّثُ عَنْ دَاوُدَ بْنِ جَمِيلٍ، عَنْ كَثِيرِ بْنِ قَيْسٍ، قَالَ كُنْتُ جَالِسًا مَعَ أَبِي الدَّرْدَاءِ فِي مَسْجِدِ دِمَشْقَ فَجَاءَهُ رَجُلٌ فَقَالَ يَا أَبَا الدَّرْدَاءِ إِنِّي جِئْتُكَ مِنْ مَدِينَةِ الرَّسُولِ صلى الله عليه وسلم لِحَدِيثٍ بَلَغَنِي أَنَّكَ تُحَدِّثُهُ عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم مَا جِئْتُ لِحَاجَةٍ ‏.‏ قَالَ فَإِنِّي سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏ \"‏ مَنْ سَلَكَ طَرِيقًا يَطْلُبُ فِيهِ عِلْمًا سَلَكَ اللَّهُ بِهِ طَرِيقًا مِنْ طُرُقِ الْجَنَّةِ وَإِنَّ الْمَلاَئِكَةَ لَتَضَعُ أَجْنِحَتَهَا رِضًا لِطَالِبِ الْعِلْمِ وَإِنَّ الْعَالِمَ لَيَسْتَغْفِرُ لَهُ مَنْ فِي السَّمَوَاتِ وَمَنْ فِي الأَرْضِ وَالْحِيتَانُ فِي جَوْفِ الْمَاءِ وَإِنَّ فَضْلَ الْعَالِمِ عَلَى الْعَابِدِ كَفَضْلِ الْقَمَرِ لَيْلَةَ الْبَدْرِ عَلَى سَائِرِ الْكَوَاكِبِ وَإِنَّ الْعُلَمَاءَ وَرَثَةُ الأَنْبِيَاءِ وَإِنَّ الأَنْبِيَاءَ لَمْ يُوَرِّثُوا دِينَارًا وَلاَ دِرْهَمًا وَرَّثُوا الْعِلْمَ فَمَنْ أَخَذَهُ أَخَذَ بِحَظٍّ وَافِرٍ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Narrated Kathir ibn Qays: Kathir ibn Qays said: I was sitting with AbudDarda' in the mosque of Damascus. A man came to him and said: AbudDarda, I have come to you from the town of the Messenger of Allah (ﷺ) for a tradition that I have heard you relate from the Messenger of Allah (ﷺ). I have come for no other purpose. He said: I heard the Messenger of Allah (ﷺ) say: If anyone travels on a road in search of knowledge, Allah will cause him to travel on one of the roads of Paradise. The angels will lower their wings in their great pleasure with one who seeks knowledge, the inhabitants of the heavens and the Earth and the fish in the deep waters will ask forgiveness for the learned man. The superiority of the learned man over the devout is like that of the moon, on the night when it is full, over the rest of the stars. The learned are the heirs of the Prophets, and the Prophets leave neither dinar nor dirham, leaving only knowledge, and he who takes it takes an abundant portion",
+          "ur": "کثیر بن قیس کہتے ہیں کہ میں ابو الدرداء رضی اللہ عنہ کے ساتھ دمشق کی مسجد میں بیٹھا تھا کہ اتنے میں ان کے پاس ایک شخص آیا اور ان سے کہنے لگا: اے ابو الدرداء! میں آپ کے پاس رسول اللہ صلی اللہ علیہ وسلم کے شہر سے اس حدیث کے لیے آیا ہوں جس کے متعلق مجھے یہ خبر ملی ہے کہ آپ اسے نبی اکرم صلی اللہ علیہ وسلم سے روایت کرتے ہیں میں آپ کے پاس کسی اور غرض سے نہیں آیا ہوں، اس پر ابوالدرداء نے کہا: میں نے رسول اللہ صلی اللہ علیہ وسلم کو فرماتے ہوئے سنا ہے: جو شخص طلب علم کے لیے راستہ طے کرتا ہے اللہ تعالیٰ اس کے بدلے اسے جنت کی راہ چلاتا ہے اور فرشتے طالب علم کی بخشش کی دعا کرتے ہیں یہاں تک کہ مچھلیاں پانی میں دعائیں کرتی ہیں، اور عالم کی فضیلت عابد پر ایسے ہی ہے جیسے چودھویں رات کی تمام ستاروں پر، اور علماء انبیاء کے وارث ہیں، اور نبیوں نے اپنا وارث درہم و دینار کا نہیں بنایا بلکہ علم کا وارث بنایا تو جس نے علم حاصل کیا اس نے ایک وافر حصہ لیا ۔",
+          "fr": "Rapporté par Kathir ibn Qays : Kathir ibn Qays a dit : J’étais assis avec AbudDarda’ dans la mosquée de Damas. Un homme est venu vers lui et a dit : « AbudDarda, je viens de la ville du Messager d’Allah ﷺ pour une tradition que je t’ai entendu rapporter du Messager d’Allah ﷺ. Je ne suis venu que pour cela. » Il répondit : « J’ai entendu le Messager d’Allah ﷺ dire : “Celui qui emprunte un chemin pour rechercher la connaissance, Allah lui fera prendre un chemin vers le Paradis. Les anges abaissent leurs ailes par satisfaction pour celui qui cherche la connaissance. Les habitants des cieux et de la terre, et même les poissons dans l’eau profonde, demandent pardon pour l’homme savant. La supériorité de l’homme savant sur le dévot est comme celle de la lune, la nuit où elle est pleine, sur les autres étoiles. Les savants sont les héritiers des prophètes, et les prophètes n’ont laissé ni dinar ni dirham, mais seulement la connaissance. Celui qui la prend a pris une part abondante.” »",
+          "id": "Telah menceritakan kepada kami [Musaddad bin Musarhad] telah menceritakan kepada kami [Abdullah bin Daud] aku mendengar ['Ashim bin Raja bin Haiwah] menceritakan dari [Daud bin Jamil] dari [Katsir bin Qais] ia berkata, \"Aku pernah duduk bersama Abu Ad Darda di masjid Damaskus, lalu datanglah seorang laki-laki kepadanya dan berkata, \"Wahai Abu Ad Darda, sesungguhnya aku datang kepadamu dari kota Rasulullah shallallahu 'alaihi wasallam karena sebuah hadits yang sampai kepadaku bahwa engkau meriwayatannya dari Rasulullah shallallahu 'alaihi wasallam. Dan tidaklah aku datang kecuali untuk itu.\" Abu Ad Darda lalu berkata, \"Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: \"Barangsiapa meniti jalan untuk menuntut ilmu, maka Allah akan mempermudahnya jalan ke surga. Sungguh, para Malaikat merendahkan sayapnya sebagai keridlaan kepada penuntut ilmu. Orang yang berilmu akan dimintakan maaf oleh penduduk langit dan bumi hingga ikan yang ada di dasar laut. Kelebihan serang alim dibanding ahli ibadah seperti keutamaan rembulan pada malam purnama atas seluruh bintang. Para ulama adalah pewaris para nabi, dan para nabi tidak mewariskan dinar dan dirham, mereka hanyalah mewariskan ilmu. Barangsiapa mengambilnya maka ia telah mengambil bagian yang banyak.\" Telah menceritakan kepada kami [Muhammad bin Al Wazir Ad Dimasyqi] telah menceritakan kepada kami [Al Walid] ia berkata; aku berjumpa dengan [Syabib bin Syaibah] lalu ia menceritakannya kepadaku dari [Utsman bin Abu Saudah] dari [Abu Ad Darda] dari Nabi shallallahu 'alaihi wasallam dengan maknanya",
+          "tr": "Kesîr b. Kays'dan şöyle dediği rivayet olunmuştur: Ben Dımaşk mescidinde Ebu'd-Derdâ ile birlikte bulunuyordum. Ona bir adam gelip: Ey Ebû Derdâ, ben sana Nebi (s.a.v.)'in şehrinden bir hadis için geldim. İşittiğime göre bu hadisi Rasûlullah (s.a.v.)'den sen rivayet etmişsin. (Buraya) başka bir ihtiyaçtan dolayı gelmedim, dedi. Ebu'd-Derdâ da şöyle cevap verdi: Gerçekten ben Rasûlullah (s.a.v.)'i şöyle derken işittim: \"Her kim ilim tahsil etmek amacıyla bir yola gidecek olursa Allah onu cennet yollarından bir yol'a sokmuş olur. Kuşkusuz ki melekler ilim yolunda olan bir kimseden hoşnutluklarından dolayı (ona) kanatlarını sererler ve göklerde ve yerde bulunan (yaratık)larla suda bulunan balıklar (tümüyle Allah'tan) âlimin bağışlanmasını dilerler. Muhakkak ki âlimin âbid'e (olan) üstünlüğü ayın ondördüncü gecesindeki dolunayın diğer yıldızlara (olan) üstünlüğü gibidir. Âlimler, peygamberlerin vârisleridir. Nebiler miras olarak dinar ve dirhem bırakmazlar, ilim bırakırlar. Kim o ilmi elde ederse çok büyük bir nasip elde etmiş olur"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 26,
+        "hadith": 1
+      },
+      "narrator": {
+        "en": "Kathir ibn Qays"
+      }
+    },
+    {
+      "hadithNumber": 3642,
+      "arabicNumber": 3642,
+      "book": 26,
+      "hadithInBook": 2,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْوَزِيرِ الدِّمَشْقِيُّ، حَدَّثَنَا الْوَلِيدُ، قَالَ لَقِيتُ شَبِيبَ بْنَ شَيْبَةَ فَحَدَّثَنِي بِهِ، عَنْ عُثْمَانَ بْنِ أَبِي سَوْدَةَ، عَنْ أَبِي الدَّرْدَاءِ، - يَعْنِي عَنِ النَّبِيِّ صلى الله عليه وسلم - بِمَعْنَاهُ ‏.‏",
+        "translations": {
+          "en": "The tradition mentioned above has also been transmitted by Abu al-Darda through a different chain of narrators to the same effect from the Holy Prophet (ﷺ)",
+          "ur": "اس سند سے بھی ابو الدرداء رضی اللہ عنہ سے اسی مفہوم کی حدیث مرفوعاً مروی ہے۔",
+          "fr": "La tradition mentionnée ci-dessus a aussi été transmise par Abu al-Darda à travers une autre chaîne de rapporteurs, avec le même sens, du Prophète ﷺ",
+          "tr": "Eb'd-Derdâ (bir de) Nebi (s.a.v.)'den (bir önceki 3641. hadisin) manasını rivayet etmiştir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 26,
+        "hadith": 2
+      }
+    },
+    {
+      "hadithNumber": 3643,
+      "arabicNumber": 3643,
+      "book": 26,
+      "hadithInBook": 3,
+      "text": {
+        "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ يُونُسَ، حَدَّثَنَا زَائِدَةُ، عَنِ الأَعْمَشِ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ مَا مِنْ رَجُلٍ يَسْلُكُ طَرِيقًا يَطْلُبُ فِيهِ عِلْمًا إِلاَّ سَهَّلَ اللَّهُ لَهُ بِهِ طَرِيقَ الْجَنَّةِ وَمَنْ أَبْطَأَ بِهِ عَمَلُهُ لَمْ يُسْرِعْ بِهِ نَسَبُهُ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Abu Hurairah reported the Prophet (ﷺ) as saying:If anyone pursues a path in search of knowledge, Allah will thereby make easy for him a path to paradise; and he who is made slow by his actions will not be speeded by his genealogy",
+          "ur": "ابوہریرہ رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: جو شخص حصول علم کے لیے کوئی راستہ طے کرتا ہے تو اللہ تعالیٰ اس کی وجہ سے اس کے لیے جنت کا راستہ آسان کر دیتا ہے، اور جس کو اس کے عمل نے پیچھے کر دیا تو اسے اس کا نسب آگے نہیں کر سکے گا ۔",
+          "fr": "Abu Hurairah رضي الله عنه rapporte que le Prophète ﷺ a dit : « Celui qui suit un chemin pour rechercher la connaissance, Allah lui facilitera un chemin vers le Paradis ; et celui dont les actes sont lents ne sera pas rattrapé par sa lignée. »",
+          "id": "Telah menceritakan kepada kami [Ahmad bin Yunus] telah menceritakan kepada kami [Zaidah] dari [Al A'masy] dari [Abu Shalih] dari [Abu Hurairah] ia berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Tidaklah seorang laki-laki yang meniti jalan untuk mencari ilmu melainkan Allah akan mempermudah baginya jalan menuju Surga. Dan barangsiapa yang lambat amalannya maka nasabnya tidak akan memberinya manfaat",
+          "tr": "Ebû Hureyre'den (r.a) rivayet olunmuştur, dedi ki: Resûlullah (s.a.v.) şöyle buyurmuştur: \"İlim tahsil etmek için yola çıkan kimseye bu sebeple Allah cennet'in yolunu kolaylaştırır. Ameli, kendisinin (cennete erişmesini) geciktiren bir kimseyi nesebi (cennet'e girmekte) çabuklaştıramaz"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 26,
+        "hadith": 3
+      }
+    },
+    {
+      "hadithNumber": 3644,
+      "arabicNumber": 3644,
+      "book": 26,
+      "hadithInBook": 4,
+      "text": {
+        "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ مُحَمَّدِ بْنِ ثَابِتٍ الْمَرْوَزِيُّ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، أَخْبَرَنِي ابْنُ أَبِي نَمْلَةَ الأَنْصَارِيُّ، عَنْ أَبِيهِ، أَنَّهُ بَيْنَمَا هُوَ جَالِسٌ عِنْدَ رَسُولِ اللَّهِ صلى الله عليه وسلم وَعِنْدَهُ رَجُلٌ مِنَ الْيَهُودِ مُرَّ بِجَنَازَةٍ فَقَالَ يَا مُحَمَّدُ هَلْ تَتَكَلَّمُ هَذِهِ الْجَنَازَةُ فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ اللَّهُ أَعْلَمُ ‏\"‏ ‏.‏ فَقَالَ الْيَهُودِيُّ إِنَّهَا تَتَكَلَّمُ ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ مَا حَدَّثَكُمْ أَهْلُ الْكِتَابِ فَلاَ تُصَدِّقُوهُمْ وَلاَ تُكَذِّبُوهُمْ وَقُولُوا آمَنَّا بِاللَّهِ وَرُسُلِهِ فَإِنْ كَانَ بَاطِلاً لَمْ تُصَدِّقُوهُ وَإِنْ كَانَ حَقًّا لَمْ تُكَذِّبُوهُ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Narrated AbuNamlah al-Ansari: When he was sitting with the Messenger of Allah (ﷺ) and a Jew was also with him, a funeral passed by him. He (the Jew) asked (Him): Muhammad, does this funeral speak? The Prophet (ﷺ) said: Allah has more knowledge. The Jew said: It speaks. The Messenger of Allah (ﷺ) said: Whatever the people of the Book tell you, do not verify them, nor falsify them, but say: We believe in Allah and His Apostle. If it is false, do not confirm it, and if it is right, do not falsify it",
+          "ur": "ابونملہ انصاری رضی اللہ عنہ کہتے ہیں کہ وہ رسول اللہ صلی اللہ علیہ وسلم کے پاس بیٹھے ہوئے تھے اور آپ کے پاس ایک یہودی بھی تھا کہ اتنے میں ایک جنازہ لے جایا گیا تو یہودی نے کہا: اے محمد! کیا جنازہ بات کرتا ہے؟ آپ صلی اللہ علیہ وسلم نے فرمایا: اللہ بہتر جانتا ہے یہودی نے کہا: جنازہ بات کرتا ہے ( مگر دنیا کے لوگ نہیں سنتے ) رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: جو بات تم سے اہل کتاب بیان کریں نہ تو تم ان کی تصدیق کرو نہ تکذیب، بلکہ یوں کہو: ہم ایمان لائے اللہ اور اس کے رسولوں پر، اگر وہ بات جھوٹ ہو گی تو تم نے اس کی تصدیق نہیں کی، اور اگر سچ ہو گی تو تم نے اس کی تکذیب نہیں کی ۔",
+          "fr": "Rapporté par Abu Namlah al-Ansari : Alors qu’il était assis avec le Messager d’Allah ﷺ et qu’un Juif était aussi présent, un cortège funèbre passa devant eux. Le Juif demanda : « Muhammad, ce cortège parle-t-il ? » Le Prophète ﷺ répondit : « Allah en sait plus. » Le Juif dit : « Il parle. » Le Messager d’Allah ﷺ dit : « Quoi que les gens du Livre vous racontent, ne les croyez pas, ne les démentez pas, mais dites : “Nous croyons en Allah et en Son Messager.” Si c’est faux, ne le confirmez pas, et si c’est vrai, ne le niez pas. »",
+          "id": "Telah menceritakan kepada kami [Ahmad bin Muhammad bin Tsabit Al Marwazi] telah menceritakan kepada kami [Abdurrazzaq] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] telah mengabarkan kepadaku [Ibnu Abu Namlah Al Anshari] dari [Ayahnya] bahwa ketika ia sedang duduk di sisi Rasulullah shallallahu 'alaihi wasallam yang saat itu di sisi beliau ada seorang Yahudi, lewatnya jenazah di hadapan beliau. Lalu orang Yahudi itu berkata, \"Wahai Muhammad, apakah jenazah ini berbicara?\" Nabi shallallahu 'alaihi wasallam kemudian menjawab: \"Allah lebih mengetahui.\" Orang Yahudi itu pun berkata, \"Sesungguhnya jenazah tersebut berbicara.\" Rasulullah shallallahu 'alaihi wasallam bersabda: \"Apa yang diceritakan oleh orang-orang ahli kitab kepada kalian maka janganlah kalian percayai atau kalian dustakan. Tetapi katakanlah, 'aku beriman kepada Allah dan para Rasul-Nya'. Jika mereka dusta maka kalian tidak mempercayainya dan jika benar maka kalian tidak mendustakannya",
+          "tr": "İbn Ebî Nemle el-Ensârî'nin babasından rivayet olunduğuna göre; Kendisi (bir gün) Rasûlullah (s.a.v.)'in yanında oturuyormuş. (Hz Nebi'in) yanında bir yahudi varmış. Derken oradan bir cenaze geçmiş. Bunun üzerine (yahudi): Ey Muhammed, cenaze kabirde konuşur mu? diye sormuş.Rasûlullah (s.a.v.): \"Allah daha iyi bilir\" cevabını vermiş. Yahudi ise; Kesinlikle cenaze konuşur, demiş. Bunun üzerine Rasûlullah (s.a.v.) şöyle buyurmuş: \"Kitap ehlinin sözlerini ne tasdik ediniz, ne de yalanlayınız. (Ancak) biz Allah'a ve Nebilerine inandık deyiniz,(Eğer onların sözü) asılsız ise tasdik etmemiş olursunuz. Eğer doğru ise o sözü yalanlamamış olursunuz"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 26,
+        "hadith": 4
+      },
+      "narrator": {
+        "en": "AbuNamlah al-Ansari"
+      }
+    },
+    {
+      "hadithNumber": 3645,
+      "arabicNumber": 3645,
+      "book": 26,
+      "hadithInBook": 5,
+      "text": {
+        "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ يُونُسَ، حَدَّثَنَا ابْنُ أَبِي الزِّنَادِ، عَنْ أَبِيهِ، عَنْ خَارِجَةَ، - يَعْنِي ابْنَ زَيْدِ بْنِ ثَابِتٍ - قَالَ قَالَ زَيْدُ بْنُ ثَابِتٍ أَمَرَنِي رَسُولُ اللَّهِ صلى الله عليه وسلم فَتَعَلَّمْتُ لَهُ كِتَابَ يَهُودَ وَقَالَ ‏ \"‏ إِنِّي وَاللَّهِ مَا آمَنُ يَهُودَ عَلَى كِتَابِي ‏\"‏ ‏.‏ فَتَعَلَّمْتُهُ فَلَمْ يَمُرَّ بِي إِلاَّ نِصْفُ شَهْرٍ حَتَّى حَذَقْتُهُ فَكُنْتُ أَكْتُبُ لَهُ إِذَا كَتَبَ وَأَقْرَأُ لَهُ إِذَا كُتِبَ إِلَيْهِ ‏.‏",
+        "translations": {
+          "en": "Narrated Zayd ibn Thabit: The Messenger of Allah (ﷺ) ordered me (to learn the writing of the Jews), so I learnt for him the writing of the Jews. He said: I swear by Allah, I do not trust Jews in respect of writing for me. So I learnt it, and only a fortnight passed before I mastered it. I would write for him when he wrote (to them), and read to him when something was written to him",
+          "ur": "زید بن ثابت رضی اللہ عنہ کہتے ہیں اللہ کے رسول صلی اللہ علیہ وسلم نے مجھے حکم دیا تو میں نے آپ کی خاطر یہودیوں کی تحریر سیکھ لی، آپ صلی اللہ علیہ وسلم نے فرمایا: قسم اللہ کی میں اپنی خط و کتابت کے سلسلہ میں یہودیوں سے مامون نہیں ہوں تو میں اسے سیکھنے لگا، ابھی آدھا مہینہ بھی نہیں گزرا تھا کہ میں نے اس میں مہارت حاصل کر لی، پھر جب آپ صلی اللہ علیہ وسلم کو کچھ لکھوانا ہوتا تو میں ہی لکھتا اور جب کہیں سے کوئی مکتوب آتا تو اسے میں ہی پڑھتا۔",
+          "fr": "Rapporté par Zayd ibn Thabit : Le Messager d’Allah ﷺ m’a ordonné d’apprendre l’écriture des Juifs, alors je l’ai apprise pour lui. Il a dit : « Je jure par Allah, je ne fais pas confiance aux Juifs pour écrire pour moi. » J’ai donc appris, et en moins de quinze jours, j’ai maîtrisé cette écriture. J’écrivais pour lui quand il écrivait (aux Juifs), et je lui lisais ce qu’on lui écrivait",
+          "id": "Telah menceritakan kepada kami [Ahmad bin Yunus] telah menceritakan kepada kami [Ibnu Abu Az Zinad] dari [Ayahnya] dari [Kharijah bin Zaid bin Tsabit] ia berkata, [Zaid bin Tsabit] berkata, \"Rasulullah shallallahu 'alaihi wasallam memerintahkan aku untuk mempelajari tulisan orang-orang Yahudi. Lalu aku mempelajari penulisan orang-orang Yahudi untuk beliau.\" Zaid berkata, \"Demi Allah, sungguh aku tidak merasa aman kepada orang-orang Yahudi terhadap tulisanku. Lalu aku mempelajarinya, dan hanya berlalu setengah bulan aku telah menguasainya. Lalu aku menuliskan untuknya apabila Beliau (ingin) menulis dan aku membacakan untuknya jika beliau mendapat surat",
+          "tr": "Zeyd b. Sâbit'in (r.a) şöyle dediği rivayet olunmuştur: Rasûlullah (s.a.v.) bana emretti de ben kendisi (ne hizmet etmek) için yahudilerin yazısını öğrendim. (Hz. Nebi bu hususta bana) \"Vallahi yazışmalarım hususunda yahudilere güvenemiyorum\" dedi. Ben de yarım ay geçmeden yahudilerin yazısını iyice öğrendim. (Rasûlullah (s.a.v.) bir mektup) yaz (mak iste)diği zaman kendisine ben yazıveriyordum. Kendisine bir mektup yazıldığı zaman da ben okuyuveriyordum"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 26,
+        "hadith": 5
+      },
+      "narrator": {
+        "en": "Zayd ibn Thabit"
+      }
+    },
+    {
+      "hadithNumber": 3646,
+      "arabicNumber": 3646,
+      "book": 26,
+      "hadithInBook": 6,
+      "text": {
+        "arabic": "حَدَّثَنَا مُسَدَّدٌ، وَأَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ قَالاَ حَدَّثَنَا يَحْيَى، عَنْ عُبَيْدِ اللَّهِ بْنِ الأَخْنَسِ، عَنِ الْوَلِيدِ بْنِ عَبْدِ اللَّهِ بْنِ أَبِي مُغِيثٍ، عَنْ يُوسُفَ بْنِ مَاهَكَ، عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو، قَالَ كُنْتُ أَكْتُبُ كُلَّ شَىْءٍ أَسْمَعُهُ مِنْ رَسُولِ اللَّهِ صلى الله عليه وسلم أُرِيدُ حِفْظَهُ فَنَهَتْنِي قُرَيْشٌ وَقَالُوا أَتَكْتُبُ كُلَّ شَىْءٍ تَسْمَعُهُ وَرَسُولُ اللَّهِ صلى الله عليه وسلم بَشَرٌ يَتَكَلَّمُ فِي الْغَضَبِ وَالرِّضَا فَأَمْسَكْتُ عَنِ الْكِتَابِ فَذَكَرْتُ ذَلِكَ لِرَسُولِ اللَّهِ صلى الله عليه وسلم فَأَوْمَأَ بِأُصْبُعِهِ إِلَى فِيهِ فَقَالَ ‏ \"‏ اكْتُبْ فَوَالَّذِي نَفْسِي بِيَدِهِ مَا يَخْرُجُ مِنْهُ إِلاَّ حَقٌّ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Narrated Abdullah ibn Amr ibn al-'As: I used to write everything which I heard from the Messenger of Allah (ﷺ). I intended (by it) to memorise it. The Quraysh prohibited me saying: Do you write everything that you hear from him while the Messenger of Allah (ﷺ) is a human being: he speaks in anger and pleasure? So I stopped writing, and mentioned it to the Messenger of Allah (ﷺ). He signalled with his finger to him mouth and said: Write, by Him in Whose hand my soul lies, only right comes out from it",
+          "ur": "عبداللہ بن عمرو رضی اللہ عنہما کہتے ہیں میں ہر اس حدیث کو جو رسول اللہ صلی اللہ علیہ وسلم سے سنتا یاد رکھنے کے لیے لکھ لیتا، تو قریش کے لوگوں نے مجھے لکھنے سے منع کر دیا، اور کہا: کیا تم رسول اللہ صلی اللہ علیہ وسلم سے ہر سنی ہوئی بات کو لکھ لیتے ہو؟ حالانکہ رسول اللہ صلی اللہ علیہ وسلم بشر ہیں، غصے اور خوشی دونوں حالتوں میں باتیں کرتے ہیں، تو میں نے لکھنا چھوڑ دیا، پھر رسول اللہ صلی اللہ علیہ وسلم سے اس کا ذکر کیا، آپ صلی اللہ علیہ وسلم نے اپنی انگلی سے اپنے منہ کی طرف اشارہ کیا اور فرمایا: لکھا کرو، قسم اس ذات کی جس کے ہاتھ میں میری جان ہے اس سے حق بات کے سوا کچھ نہیں نکلتا ۔",
+          "fr": "Rapporté par Abdullah ibn Amr ibn al-‘As : J’écrivais tout ce que j’entendais du Messager d’Allah ﷺ, afin de le mémoriser. Les Quraysh m’ont interdit en disant : « Écris-tu tout ce que tu entends de lui alors que le Messager d’Allah ﷺ est un être humain : il parle dans la colère et dans la satisfaction ? » J’ai donc arrêté d’écrire, puis j’en ai parlé au Messager d’Allah ﷺ. Il a alors montré sa bouche du doigt et a dit : « Écris ! Par Celui qui détient mon âme dans Sa main, il n’en sort que la vérité. »",
+          "id": "Telah menceritakan kepada kami [Musaddad] dan [Abu Bakr bin Abu Syaibah] mereka berkata; telah menceritakan kepada kami [Yahya] dari ['Ubaidullah bin Al Akhnas] dari [Al Walid bin Abdullah bin Abu Mughits] dari [Yusuf bin Mahik] dari [Abdullah bin 'Amru] ia berkata, \"Aku menulis segala sesuatu yang aku dengar dari Rasulullah shallallahu 'alaihi wasallam, agar aku bisa menghafalnya. Kemudian orang-orang Quraisy melarangku dan mereka berkata, 'Apakah engkau akan menulis segala sesuatu yang engkau dengar, sementara Rasulullah shallallahu 'alaihi wasallam adalah seorang manusia yang berbicara dalam keadaan marah dan senang? ' Aku pun tidak menulis lagi, kemudian hal itu aku ceritakan kepada Rasulullah shallallahu 'alaihi wasallam. Beliau lalu berisyarat dengan meletakkan jarinya pada mulut, lalu bersabda: \"Tulislah, demi jiwaku yang ada di tangan-Nya, tidaklah keluar darinya (mulut) kecuali kebenaran",
+          "tr": "Abdullah b. Amr'dan (r.a.) şöyle dediği rivayet olunmuştur: Ben, muhafaza etme düşüncesiyle Rasulullah (s.a.v.)'den işittiklerimin hepsini yazıyordum. Kureyş (kabilesinden bazı müslümanlar) \"Rasülullah (s.a.v.) öfkeli halinde de sakin halinde de konuşan bir insan iken sen ondan duyduğunu yazıyor musun?\" diyerek beni bundan menettiler. Ben de yazmaktan vazgeçtim ve bu durumu Rasülullah (s.a.v.)'e anlattım. Parmağıyla ağzına işaret ederek; \"Sen yaz(maya devam et), varlığım elinde olan Allah'a yemin olsun ki bundan haktan başkası çıkmaz\" buyurdu"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 26,
+        "hadith": 6
+      },
+      "narrator": {
+        "en": "Abdullah ibn Amr ibn al-'As"
+      }
+    },
+    {
+      "hadithNumber": 3647,
+      "arabicNumber": 3647,
+      "book": 26,
+      "hadithInBook": 7,
+      "text": {
+        "arabic": "حَدَّثَنَا نَصْرُ بْنُ عَلِيٍّ، أَخْبَرَنَا أَبُو أَحْمَدَ، حَدَّثَنَا كَثِيرُ بْنُ زَيْدٍ، عَنِ الْمُطَّلِبِ بْنِ عَبْدِ اللَّهِ بْنِ حَنْطَبٍ، قَالَ دَخَلَ زَيْدُ بْنُ ثَابِتٍ عَلَى مُعَاوِيَةَ فَسَأَلَهُ عَنْ حَدِيثٍ، فَأَمَرَ إِنْسَانًا يَكْتُبُهُ فَقَالَ لَهُ زَيْدٌ إِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم أَمَرَنَا أَنْ لاَ نَكْتُبَ شَيْئًا مِنْ حَدِيثِهِ فَمَحَاهُ ‏.‏",
+        "translations": {
+          "en": "Narrated Al-Muttalib bin 'Abd Allah bin Hantab: Al-Muttalib ibn Abdullah ibn Hantab said: Zayd ibn Thabit entered upon Mu'awiyah and asked him about a tradition. He ordered a man to write it. Zayd said: The Messenger of Allah (ﷺ) ordered us not to write any of his traditions. So he erased it",
+          "ur": "مطلب بن عبداللہ بن حنطب کہتے ہیں کہ زید بن ثابت رضی اللہ عنہ معاویہ رضی اللہ عنہ کے پاس آئے اور ان سے ایک حدیث کے متعلق پوچھا، تو انہوں نے ایک شخص کو اس حدیث کے لکھنے کا حکم دیا، تو زید رضی اللہ عنہ نے ان سے کہا: رسول اللہ صلی اللہ علیہ وسلم نے ہمیں حکم دیا ہے کہ ہم آپ کی حدیثوں میں سے کچھ نہ لکھیں تو انہوں نے اسے مٹا دیا ۱؎۔",
+          "fr": "Rapporté par Al-Muttalib ibn Abdullah ibn Hantab : Al-Muttalib ibn Abdullah ibn Hantab a dit : Zayd ibn Thabit est entré auprès de Mu’awiyah et lui a demandé une tradition. Il a ordonné à un homme de l’écrire. Zayd a dit : « Le Messager d’Allah ﷺ nous a ordonné de ne pas écrire ses traditions. » Alors il l’a effacée",
+          "id": "Telah menceritakan kepada kami [Nashr bin Ali] telah mengabarkan kepada kami [Abu Ahmad] telah menceritakan kepada kami [Katsir bin Zaid] dari [Al Muththalib bin Abdullah bin Hanthab] ia berkata, \" [Zaid bin Tsabit] datang menemui Mu'awiyah dan bertanya kepadanya tentang suatu hadits, dan ia memerintahkan seseorang agar menulisnya. Zaid lalu berkata kepadanya, \"Sesungguhnya Rasulullah shallallahu 'alaihi wasallam memerintahkan kami agar tidak menulis apapun dari hadits beliau.\" Maka Mu'awiyah pun menghapusnya kembali",
+          "tr": "Muttalib b. Abdullah b. Hantab'tan rivayet olunmuştur; dedi ki: (Bir gün) Zeyd b. Sabit, Muâviye'nin yanına girmişti. (Muâviyç ona, Hz. Nebi'den rivayet ettiği) bir hadisi sordu. (Zeyd ona bu hadisi rivayet edince Mûaviye orada bulunan) bir adam'a bu hadisi yazmasını emretti. Bunun üzerine Zeyd ona: Rasülullah (s.a.v.) bize kendi sözlerinden hiçbirini yazmamamızı emretti, dedi. (O adam da yazmış olduğu) bu hadisi sildi"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 26,
+        "hadith": 7
+      },
+      "narrator": {
+        "en": "Al-Muttalib bin 'Abd Allah bin Hantab"
+      }
+    },
+    {
+      "hadithNumber": 3648,
+      "arabicNumber": 3648,
+      "book": 26,
+      "hadithInBook": 9,
+      "text": {
+        "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ يُونُسَ، حَدَّثَنَا أَبُو شِهَابٍ، عَنِ الْحَذَّاءِ، عَنْ أَبِي الْمُتَوَكِّلِ النَّاجِيِّ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، قَالَ مَا كُنَّا نَكْتُبُ غَيْرَ التَّشَهُّدِ وَالْقُرْآنِ ‏.‏",
+        "translations": {
+          "en": "It was narrated that Abu Saeed Al-Khudri said:\"We used not to write anything but the Tasha-hud and the Qur'an",
+          "ur": "ابو سعید خدری رضی اللہ عنہ کہتے ہیں ہم لوگ تشہد اور قرآن کے علاوہ کچھ نہیں لکھتے تھے۔",
+          "fr": "Abu Sa’id Al-Khudri رضي الله عنه a dit : « Nous n’écrivions rien d’autre que le tachahhud et le Coran. »",
+          "id": "Telah menceritakan kepada kami [Ahmad bin Yunus] telah menceritakan kepada kami [Abu Syihab] dari [Al Hadzdza] dari [Abu Al Mutawakkil An Naji] dari [Abu Sa'id Al Khudri] ia berkata, \"Kami tidak pernah menulis selain tasyahud dan Al Qur'an",
+          "tr": "Ebû Saîd el-Hudrî (r.a)'dan şöyle dediği rivayet olunmuştur: Biz (Hz. Nebi zamanında) Kur'an ve şahadet kelimesinden başka bir şey yazmadık"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Shadh"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Shadh"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 26,
+        "hadith": 9
+      }
+    },
+    {
+      "hadithNumber": 3649,
+      "arabicNumber": 3649,
+      "book": 26,
+      "hadithInBook": 8,
+      "text": {
+        "arabic": "حَدَّثَنَا مُؤَمَّلٌ، قَالَ حَدَّثَنَا الْوَلِيدُ، ح وَحَدَّثَنَا الْعَبَّاسُ بْنُ الْوَلِيدِ بْنِ مَزْيَدٍ، قَالَ أَخْبَرَنِي أَبِي، عَنِ الأَوْزَاعِيِّ، عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ، قَالَ حَدَّثَنَا أَبُو سَلَمَةَ، - يَعْنِي ابْنَ عَبْدِ الرَّحْمَنِ - قَالَ حَدَّثَنِي أَبُو هُرَيْرَةَ، قَالَ لَمَّا فُتِحَتْ مَكَّةُ قَامَ النَّبِيُّ صلى الله عليه وسلم فَذَكَرَ الْخُطْبَةَ خُطْبَةَ النَّبِيِّ صلى الله عليه وسلم قَالَ فَقَامَ رَجُلٌ مِنْ أَهْلِ الْيَمَنِ يُقَالُ لَهُ أَبُو شَاهٍ فَقَالَ يَا رَسُولَ اللَّهِ اكْتُبُوا لِي ‏.‏ فَقَالَ ‏ \"‏ اكْتُبُوا لأَبِي شَاهٍ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Abu Hurairah said :When Mecca was conquered, the Holy Prophet (peace be upon him) stood up. He (Abu Hurairah) then mentioned the sermon of the Holy Prophet (ﷺ). He said: A man of the Yemen, who was called Abu Shah, got up and said: Messenger of Allah! Write it for me. He said: Write it for Abu Shah",
+          "ur": "ابوہریرہ رضی اللہ عنہ کہتے ہیں جب مکہ فتح ہوا تو نبی اکرم صلی اللہ علیہ وسلم کھڑے ہوئے، پھر انہوں نے ( ابوہریرہ رضی اللہ عنہ نے ) نبی اکرم صلی اللہ علیہ وسلم کے خطبہ کا ذکر کیا، پھر کہا کہ ایک یمنی شخص کھڑا ہوا جسے ابو شاہ کہا جاتا تھا، اور اس نے عرض کیا: اللہ کے رسول! میرے لیے ( یہ خطبہ ) لکھ دیجئیے، آپ صلی اللہ علیہ وسلم نے فرمایا: ابو شاہ کے لیے لکھ دو ۔",
+          "fr": "Abu Hurairah رضي الله عنه a dit : Lorsque La Mecque fut conquise, le Prophète ﷺ se leva. Il (Abu Hurairah) mentionna alors le sermon du Prophète ﷺ. Un homme du Yémen, appelé Abu Shah, se leva et dit : « Ô Messager d’Allah ! Écris-le pour moi. » Il dit : « Écrivez-le pour Abu Shah. »",
+          "id": "Telah menceritakan kepada kami [Mu`ammal] ia berkata; telah menceritakan kepada kami [Al Walid]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Al 'Abbas bin Al Walid bin Mazyad] ia berkata; telah mengabarkan kepadaku [Ayahku] dari [Al Auza'i] dari [Yahya bin Abu Katsir] ia berkata; telah menceritakan kepada kami [Abu Salamah] -yaitu Ibnu Abdurrahman- ia berkata; telah menceritakan kepadaku [Abu Hurairah] ia berkata, \"Ketika Makkah ditaklukkan, Nabi shallallahu 'alaihi wasallam berdiri….. kemudian Abu Hurairah menyebutkan khutbah Nabi shallallahu 'alaihi wasallam, ia berkata, \"Kemudian seorang laki-laki dari penduduk Yaman yang bernama Abu Syah berdiri dab berkata, \"Wahai Rasulullah, tuliskan untukku! Lalu beliau bersabda: \"Tuliskan untuk Abu Syah",
+          "tr": "Ebû Hureyre (r.a)'den rivayet olunmuştur; dedi ki: Mekke feth edilince Nebi (s.a.v.) ayağa kalktı... (Ebû Hureyre sözlerine devam ederek) Hz. Nebi'in (orada) okuduğu bir hutbesini anlattı (ve şöyle) dedi: Bunun üzerine Yemen halkından Ebû Şâh denilen birisi ayağa kalkıp; Ey Allah'ın Rasûlü, (bu hutbeyi) bana yazıverin, dedi. (Hz. Nebi de orada bulunan kâtiplerine); \"- (Bunu) Ebû Şâh'a yazıverin\" buyurdu"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (2434) Sahih Muslim (1355)"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 26,
+        "hadith": 8
+      }
+    },
+    {
+      "hadithNumber": 3650,
+      "arabicNumber": 3650,
+      "book": 26,
+      "hadithInBook": 10,
+      "text": {
+        "arabic": "حَدَّثَنَا عَلِيُّ بْنُ سَهْلٍ الرَّمْلِيُّ، قَالَ حَدَّثَنَا الْوَلِيدُ، قَالَ قُلْتُ لأَبِي عَمْرٍو مَا يَكْتُبُوهُ قَالَ الْخُطْبَةَ الَّتِي سَمِعَهَا يَوْمَئِذٍ مِنْهُ ‏.‏",
+        "translations": {
+          "en": "Al-Walid said :I asked Abu `Amr: What are they writing? He said: The sermon which he heard that day",
+          "ur": "ولید (ولید بن مزید) کہتے ہیں میں نے ابوعمرو ( اوزاعی ) سے کہا: وہ لوگ لکھ دیں سے کیا مراد ہے؟ انہوں نے کہا: وہ خطبہ جسے آپ سے اس روز ابوشاہ نے سنا تھا۔",
+          "fr": "Al-Walid a dit : J’ai demandé à Abu ‘Amr : « Qu’écrivaient-ils ? » Il répondit : « Le sermon qu’il avait entendu ce jour-là. »",
+          "id": "Telah menceritakan kepada kami [Ali bin Sahl Ar Ramli] ia berkata; telah menceritakan kepada kami [Al Walid] ia berkata, \"Aku tanyakan kepada [Abu 'Amru], \"Apa yang mereka tulis?\" Ia menjawab, \"Khutbah yang ia dengar dari Rasulullah pada hari itu",
+          "tr": "Velîd'in şöyle dediği rivayet olunmuştur: Ben Ebû Amr'a; Onların yazdığı nedir? diye sordum. O gün Ebû Hureyre'nin, kendisinden (Nebi'den) duyduğu hutbedir, cevabını verdi"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih Maqtu"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih Maqtu"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 26,
+        "hadith": 10
+      }
+    },
+    {
+      "hadithNumber": 3651,
+      "arabicNumber": 3651,
+      "book": 26,
+      "hadithInBook": 11,
+      "text": {
+        "arabic": "حَدَّثَنَا عَمْرُو بْنُ عَوْنٍ، أَخْبَرَنَا خَالِدٌ، ح وَحَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا خَالِدٌ، - الْمَعْنَى - عَنْ بَيَانِ بْنِ بِشْرٍ، - قَالَ مُسَدَّدٌ أَبُو بِشْرٍ - عَنْ وَبَرَةَ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ عَامِرِ بْنِ عَبْدِ اللَّهِ بْنِ الزُّبَيْرِ، عَنْ أَبِيهِ، قَالَ قُلْتُ لِلزُّبَيْرِ مَا يَمْنَعُكَ أَنْ تُحَدِّثَ عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم كَمَا يُحَدِّثُ عَنْهُ أَصْحَابُهُ فَقَالَ أَمَا وَاللَّهِ لَقَدْ كَانَ لِي مِنْهُ وَجْهٌ وَمَنْزِلَةٌ وَلَكِنِّي سَمِعْتُهُ يَقُولُ ‏ \"‏ مَنْ كَذَبَ عَلَىَّ مُتَعَمِّدًا فَلْيَتَبَوَّأْ مَقْعَدَهُ مِنَ النَّارِ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Abd Allah bin al-Zubair said on the authority of the father :I asked al-Zubair : What prevents you from narrating traditions from the Messenger of Allah (ﷺ) as his Companions narrate from him? He said: By Allah I was very close to him. But I heard him (ﷺ) say: He who lies about me deliberately will certainly come to his abode in Hell",
+          "ur": "عبداللہ بن زبیر رضی اللہ عنہما کہتے ہیں کہ میں نے زبیر رضی اللہ عنہ سے پوچھا: آپ رسول اللہ صلی اللہ علیہ وسلم سے اور صحابہ کی طرح حدیثیں کیوں نہیں بیان کرتے؟ تو انہوں نے کہا: اللہ کی قسم مجھ کو رسول اللہ صلی اللہ علیہ وسلم سے ایک طرح کی قربت و منزلت حاصل تھی لیکن میں نے آپ کو بیان فرماتے ہوئے سنا ہے: جس نے مجھ پر جان بوجھ کر جھوٹ باندھا اس کا ٹھکانہ جہنم ہے ۔",
+          "fr": "Rapporté par Abd Allah ibn al-Zubair, d’après son père : J’ai demandé à al-Zubair : « Qu’est-ce qui t’empêche de rapporter des traditions du Messager d’Allah ﷺ comme le font ses Compagnons ? » Il répondit : « Par Allah, j’étais très proche de lui. Mais je l’ai entendu ﷺ dire : “Celui qui ment sciemment à mon sujet aura sa place en Enfer.” »",
+          "id": "Telah menceritakan kepada kami ['Amru bin 'Aun] telah mengabarkan kepada kami [Khalid]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Khalid] secara makna, dari [Bayan bin Bisyr], [Musaddad Abu Bisyr] berkata dari [Wabarah bin Abdurrahman] dari [Amir bin Abdullah bin Az Zubair] dari [Ayahnya] ia berkata, \"Aku tanyakan kepada [Az Zubair], \"Apa yang menghalangimu untuk menceritakan dari Rasulullah shallallahu 'alaihi wasallam sebagaimana yang diceritakan para sahabatnya?\" kemudian ia menjawab, \"Sungguh aku memiliki posisi dan kedudukan di sisi Rasulullah shallallahu 'alaihi wasallam, akan tetapi aku mendengar beliau mengatakan: \"Barangsiapa berdusta kepadaku dengan sengaja maka hendaknya ia mempersiapkan tempatnya di Neraka",
+          "tr": "Âmir b. Abdullah b. ez-Zübeyr'in, babasından şöyle naklettiği rivayet olunmuştur: (Babam) Zübeyr'e: Diğer sahâbîlerinin kendisinden rivayet ettikleri gibi seni hadis rivayet etmenden alıkoyan nedir? diye sordum, şöyle cevap verdi: Allah'a yemin olsun ki, (aslında) Rasûlullah (s.a.v.)'in yanında benim özel bir itibarım ve yerim vardır. Fakat ben onu, \"Kim benim adıma bile bile bir yalan söylerse cehennemden yerini hazırlasın\" buyururken işittim. (Bu yüzden hadisleri yanlış rivayet etme korkusundan buna yanaşamadım)"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (107)"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 26,
+        "hadith": 11
+      }
+    },
+    {
+      "hadithNumber": 3652,
+      "arabicNumber": 3652,
+      "book": 26,
+      "hadithInBook": 12,
+      "text": {
+        "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدِ بْنِ يَحْيَى، حَدَّثَنَا يَعْقُوبُ بْنُ إِسْحَاقَ الْمُقْرِئُ الْحَضْرَمِيُّ، حَدَّثَنَا سُهَيْلُ بْنُ مِهْرَانَ، - أَخُو حَزْمٍ الْقُطَعِيِّ - حَدَّثَنَا أَبُو عِمْرَانَ، عَنْ جُنْدُبٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ مَنْ قَالَ فِي كِتَابِ اللَّهِ عَزَّ وَجَلَّ بِرَأْيِهِ فَأَصَابَ فَقَدْ أَخْطَأَ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Narrated Jundub: The Prophet (ﷺ) said: If anyone interprets the Book of Allah in the light of his opinion even if he is right, he has erred",
+          "ur": "جندب رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: جس نے اللہ تعالیٰ کی کتاب میں اپنی عقل سے کوئی بات کہی اور درستگی کو پہنچ گیا تو بھی اس نے غلطی کی ۔",
+          "fr": "Rapporté par Jundub : Le Prophète ﷺ a dit : « Si quelqu’un interprète le Livre d’Allah selon sa propre opinion, même s’il a raison, il s’est trompé. »",
+          "id": "Telah menceritakan kepada kami [Abdullah bin Muhammad bin Yahya] telah menceritakan kepadaku [Ya'qub bin Ishaq Al Muqri` Al Hadlrami] telah menceritakan kepada kami [Suhail bin Mihran] saudara Hazm Al Qutha'I, telah menceritakan kepada kami [Abu 'Imran] dari [Jundub] ia berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Barangsiapa berbicara tentang Kitabullah 'azza wajalla menggunakan pendapatnya, meskipun benar maka ia telah salah",
+          "tr": "Cündüb (b. Abdillah el-Becelî)'den Rasulullah Sallallahu Aleyhi ve Sellem'in şöyle buyurduğu rivayet olunmuştur: \"Aziz ve Celil olan Allah'ın Kitabı üzerinde (sırf kendi) görüşüne dayanarak fikir beyan eden kimse, (konuşmasında) isabet bile etse yine de hata etmiş olur.\" Diğer tahric: Müslim, münafikîn; Tirmizî, tefsir; Darimî, mukaddime; Ahmed, b. Hanbel, V"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 26,
+        "hadith": 12
+      },
+      "narrator": {
+        "en": "Jundub"
+      }
+    },
+    {
+      "hadithNumber": 3653,
+      "arabicNumber": 3653,
+      "book": 26,
+      "hadithInBook": 13,
+      "text": {
+        "arabic": "حَدَّثَنَا عَمْرُو بْنُ مَرْزُوقٍ، أَخْبَرَنَا شُعْبَةُ، عَنْ أَبِي عَقِيلٍ، هَاشِمِ بْنِ بِلاَلٍ عَنْ سَابِقِ بْنِ نَاجِيَةَ، عَنْ أَبِي سَلاَّمٍ، عَنْ رَجُلٍ، خَدَمَ النَّبِيَّ صلى الله عليه وسلم أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ إِذَا حَدَّثَ حَدِيثًا أَعَادَهُ ثَلاَثَ مَرَّاتٍ ‏.‏",
+        "translations": {
+          "en": "AbuSallam said on the authority of a man who served the Holy Prophet (ﷺ) that whenever he talked, he repeated it three times",
+          "ur": "ابو سلام ایک شخص سے جس نے نبی اکرم صلی اللہ علیہ وسلم کی خدمت کی ہے روایت کرتے ہیں، وہ کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم جب کوئی ( اہم ) بات بیان کرتے تو اسے تین مرتبہ دہراتے ( تاکہ اچھی طرح سامع کی سمجھ میں آ جائے ) ۔",
+          "fr": "Abu Sallam a rapporté d’un homme qui servait le Prophète ﷺ que chaque fois qu’il parlait, il répétait ses paroles trois fois",
+          "id": "Telah menceritakan kepada kami ['Amru bin Marzuq] telah mengabarkan kepada kami [Syu'bah] dari [Abu 'Aqil Hasyim bin Bilal] dari [Sabiq bin Najiyah] dari [Abu Sallam] dari [Seorang laki-laki] yang melayani Nabi shallallahu 'alaihi wasallam, bahwa Nabi shallallahu 'alaihi wasallam apabila menceritakan suatu hadits maka beliau mengulanginya sebanyak tiga kali",
+          "tr": "Nebi (s.a.v.)'in hizmetçilerinin birinden rivayet olunduğuna göre; Nebi (s.a.v.) bir söz söylediği zaman onu üç defa tekrarlarmış"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan Lighairihi"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 26,
+        "hadith": 13
+      }
+    },
+    {
+      "hadithNumber": 3654,
+      "arabicNumber": 3654,
+      "book": 26,
+      "hadithInBook": 14,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ مَنْصُورٍ الطُّوسِيُّ، حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنِ الزُّهْرِيِّ، عَنْ عُرْوَةَ، قَالَ جَلَسَ أَبُو هُرَيْرَةَ إِلَى جَنْبِ حُجْرَةِ عَائِشَةَ - رضى الله عنها - وَهِيَ تُصَلِّي فَجَعَلَ يَقُولُ اسْمَعِي يَا رَبَّةَ الْحُجْرَةِ مَرَّتَيْنِ ‏.‏ فَلَمَّا قَضَتْ صَلاَتَهَا قَالَتْ أَلاَ تَعْجَبُ إِلَى هَذَا وَحَدِيثِهِ إِنْ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم لَيُحَدِّثُ الْحَدِيثَ لَوْ شَاءَ الْعَادُّ أَنْ يُحْصِيَهُ أَحْصَاهُ ‏.‏",
+        "translations": {
+          "en": "Urwah said:Abu Hurairah sat beside the apartment of `A’ishah while she was praying. He then began to say: Listen, O lady of the apartment, saying it twice (in quick succession). When she finished her prayer, she said: Are you not surprised at him and the way he narrates traditions from the Apostle of the Allah (ﷺ). When the Apostle of the Allah (ﷺ) gave a talk, a man could count his words if he wished to count",
+          "ur": "عروہ کہتے ہیں ابوہریرہ رضی اللہ عنہ ام المؤمنین عائشہ رضی اللہ عنہا کے حجرے کے بغل میں بیٹھے تھے اور وہ نماز پڑھ رہی تھیں تو وہ کہنے لگے: سن اے حجرے والی! دو بار یہ جملہ کہا، جب ام المؤمنین عائشہ رضی اللہ عنہا نماز سے فارغ ہوئیں تو کہنے لگیں: کیا تمہیں اس پر اور اس کی حدیث پر تعجب نہیں کہ وہ کیسے جلدی جلدی بیان کر رہا ہے، رسول اللہ صلی اللہ علیہ وسلم جب کلام کرتے تو اگر شمار کرنے والا اسے شمار کرنا چاہتا تو شمار کر لیتا ( یعنی آپ صلی اللہ علیہ وسلم صاف صاف اور بالکل واضح انداز میں بات کرتے تھے ) ۔",
+          "fr": "Rapporté par Urwah : Abu Huraira s’est assis près de l’appartement de `A’ishah pendant qu’elle priait. Il s’est alors mis à dire : « Écoute, ô dame de l’appartement », et il l’a répété deux fois rapidement. Quand elle a terminé sa prière, elle a dit : « N’es-tu pas étonné de lui et de la façon dont il rapporte les traditions du Messager d’Allah ﷺ ? Quand le Messager d’Allah ﷺ parlait, on pouvait compter ses paroles si on voulait. »",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Manshur Ath Thusi] telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari [Az Zuhri] dari ['Urwah] ia berkata, \"Abu Hurairah duduk di samping kamar Aisyah radliallahu 'anha, sementara ia sedang melakukan shalat, Abu Hurairah lalu berkata, \"Dengarkan wahai pemilik kamar!\" Abu Hurairah mengucapkannya dua kali. Ketika [Aisyah] selesai shalat, ia pun berkata, \"Tidakkah engkau (Urwah) kagum terhadap orang ini (Abu Hurairah) dan pembicaraannya? Seandainya Rasulullah shallallahu 'alaihi wasallam menceritakan sebuah hadits jika ada orang yang menghitung ingin menghitung maka ia mampu untuk menghitungnya",
+          "tr": "Urve (r.a)'den rivayet olunmuştur, dedi ki: (Bir gün) Ebû Hureyre namaz kılmakta olan Âişe (r.anha)'nın odasının yanına oturup iki defa: \"Ey odanın sahibi, (beni iyi) dinle\" diyerek söze başladı (ve Hz. Nebi'den bir hadis nakledip gitti). (Hz. Âişe,) namazını bitirince; (Ey Urve), sen (Ebû Hureyre'nin) şu (davranışı)nı ve sözünü (söyleyiş tarzını) beğendin mi? (Şunu iyi bil ki) Rasûlulah (s.a.v.) bir söz söylediği zaman onu saymak isteyen bir kimse sayabilirdi, dedi"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (3567) Sahih Muslim (2493)"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 26,
+        "hadith": 14
+      }
+    },
+    {
+      "hadithNumber": 3655,
+      "arabicNumber": 3655,
+      "book": 26,
+      "hadithInBook": 15,
+      "text": {
+        "arabic": "حَدَّثَنَا سُلَيْمَانُ بْنُ دَاوُدَ الْمَهْرِيُّ، أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ، أَنَّ عُرْوَةَ بْنَ الزُّبَيْرِ، حَدَّثَهُ أَنَّ عَائِشَةَ زَوْجَ النَّبِيِّ صلى الله عليه وسلم قَالَتْ أَلاَ يُعْجِبُكَ أَبُو هُرَيْرَةَ جَاءَ فَجَلَسَ إِلَى جَانِبِ حُجْرَتِي يُحَدِّثُ عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم يُسْمِعُنِي ذَلِكَ وَكُنْتُ أُسَبِّحُ فَقَامَ قَبْلَ أَنْ أَقْضِيَ سُبْحَتِي وَلَوْ أَدْرَكْتُهُ لَرَدَدْتُ عَلَيْهِ إِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم لَمْ يَكُنْ يَسْرُدُ الْحَدِيثَ مِثْلَ سَرْدِكُمْ ‏.‏",
+        "translations": {
+          "en": "Narrated Aisha, Ummul Mu'minin: Are you not surprised at AbuHurayrah? He came and sat beside my apartment, and began to narrate traditions from the Messenger of Allah (ﷺ) making me hear them. I was saying supererogatory prayer. He got up (and went away) before I finished my prayer. Had I found him, I would have replied to him. The Messenger of Allah (ﷺ) did not narrate traditions quickly one after another as you narrate quickly",
+          "ur": "عروہ بن زبیر کہتے ہیں کہ ام المؤمنین عائشہ رضی اللہ عنہا نے کہا: کیا تمہیں ابوہریرہ رضی اللہ عنہ پر تعجب نہیں کہ وہ آئے اور میرے حجرے کے ایک جانب بیٹھے اور مجھے سنانے کے لیے رسول اللہ صلی اللہ علیہ وسلم سے حدیث بیان کرنے لگے، میں نفل نماز پڑھ رہی تھی، تو وہ قبل اس کے کہ میں اپنی نماز سے فارغ ہوتی اٹھے ( اور چلے گئے ) اور اگر میں انہیں پاتی تو ان سے کہتی کہ رسول اللہ صلی اللہ علیہ وسلم تمہاری طرح جلدی جلدی باتیں نہیں کرتے تھے۔",
+          "fr": "Rapporté par Aisha, la mère des croyants رضي الله عنها : « N’es-tu pas étonné d’Abu Hurayrah ? Il est venu s’asseoir près de mon appartement et a commencé à rapporter des traditions du Messager d’Allah ﷺ pour que je les entende, alors que j’étais en train de faire une prière surérogatoire. Il est parti avant que je termine ma prière. Si je l’avais trouvé, je lui aurais répondu. Le Messager d’Allah ﷺ ne rapportait pas les traditions rapidement les unes après les autres comme tu le fais. »",
+          "id": "Telah menceritakan kepada kami [Sulaiman bin Daud Al Mahri] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] bahwa ['Urwah bin Az Zubair] menceritakan kepadanya bahwa [Aisyah] isteri Nabi shallallahu 'alaihi wasallam berkata, \"Tidakkah engkau kagum kepada Abu Hurairah? Ia datang dan duduk di samping kamarku menceritakan dari Rasulullah shallallahu 'alaihi wasallam, ia memperdengarkannya kepadaku saat aku sedang melakukan shalat, lalu ia berdiri sebelum aku menyelesaikan shalatku, dan seandainya aku dapat mendapatinya niscaya aku akan menjawabnya, sesungguhnya Rasulullah shallallahu 'alaihi wasallam tidak tergesa-gesa seperti kalian tergesa-gesa",
+          "tr": "Urve b. Zübeyr'in şöyle dediği rivayet olunmuştur: Peygamber (s.a.v.)'in hanımı Âişe dedi ki: (Ey Urve, şu davranışıyla) Ebû Hureyre (senin) hoşuna gitti mi? (Bak) ben tesbih çekerken oda'mın yanına oturmuş, Peygamber(s.a.v.)'den hadis rivayet ediyor ve bunu işittirmeye çalışıyor. Ben tesbihimi bitirmeden de kalkıp gitti. Eğer ona yetişebilseydim kendisine; kuşkusuz Rasûlullah (s.a.v.) hadisi sizin serdettiğiniz gibi serdetmezdi diye cevap verecektim"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim (2493)"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 26,
+        "hadith": 15
+      },
+      "narrator": {
+        "en": "Aisha, Ummul Mu'minin"
+      }
+    },
+    {
+      "hadithNumber": 3656,
+      "arabicNumber": 3656,
+      "book": 26,
+      "hadithInBook": 16,
+      "text": {
+        "arabic": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ مُوسَى الرَّازِيُّ، حَدَّثَنَا عِيسَى، عَنِ الأَوْزَاعِيِّ، عَنْ عَبْدِ اللَّهِ بْنِ سَعْدٍ، عَنِ الصُّنَابِحِيِّ، عَنْ مُعَاوِيَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم نَهَى عَنِ الْغَلُوطَاتِ ‏.‏",
+        "translations": {
+          "en": "Narrated Mu'awiyah: The Holy Prophet (ﷺ) forbade the discussion of thorny questions",
+          "ur": "معاویہ رضی اللہ عنہ کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم نے ایسی باتوں سے منع فرمایا ہے جس میں بکثرت غلطی واقع ہو ۱؎۔",
+          "fr": "Rapporté par Mu’awiyah : Le Prophète ﷺ a interdit de discuter des questions épineuses",
+          "id": "Telah menceritakan kepada kami [Ibrahim bin Musa Ar Razi] telah menceritakan kepada kami [Isa] dari [Al Auza'i] dari [Abdullah bin Sa'dan] dari [Ash Shunabihi] dari [Mu'awiyah] bahwa Nabi shallallahu 'alaihi wasallam telah melarang dari permasalahan-permasalahan yang sulit",
+          "tr": "Muâviye (r.a)'den rivayet olunduğuna göre; Nebi (sallallahu aleyhi ve sellem) (ümmetine), yanıltıcı sorular sormayı yasaklamıştır"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 26,
+        "hadith": 16
+      },
+      "narrator": {
+        "en": "Mu'awiyah"
+      }
+    },
+    {
+      "hadithNumber": 3657,
+      "arabicNumber": 3657,
+      "book": 26,
+      "hadithInBook": 17,
+      "text": {
+        "arabic": "حَدَّثَنَا الْحَسَنُ بْنُ عَلِيٍّ، حَدَّثَنَا أَبُو عَبْدِ الرَّحْمَنِ الْمُقْرِئُ، حَدَّثَنَا سَعِيدٌ، - يَعْنِي ابْنَ أَبِي أَيُّوبَ - عَنْ بَكْرِ بْنِ عَمْرٍو، عَنْ مُسْلِمِ بْنِ يَسَارٍ أَبِي عُثْمَانَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ مَنْ أَفْتَى ‏\"‏ ‏.‏ ح وَحَدَّثَنَا سُلَيْمَانُ بْنُ دَاوُدَ أَخْبَرَنَا ابْنُ وَهْبٍ حَدَّثَنِي يَحْيَى بْنُ أَيُّوبَ عَنْ بَكْرِ بْنِ عَمْرٍو عَنْ عَمْرِو بْنِ أَبِي نُعَيْمَةَ عَنْ أَبِي عُثْمَانَ الطُّنْبُذِيِّ - رَضِيعِ عَبْدِ الْمَلِكِ بْنِ مَرْوَانَ - قَالَ سَمِعْتُ أَبَا هُرَيْرَةَ يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ مَنْ أُفْتِيَ بِغَيْرِ عِلْمٍ كَانَ إِثْمُهُ عَلَى مَنْ أَفْتَاهُ ‏\"‏ ‏.‏ زَادَ سُلَيْمَانُ الْمَهْرِيُّ فِي حَدِيثِهِ ‏\"‏ وَمَنْ أَشَارَ عَلَى أَخِيهِ بِأَمْرٍ يَعْلَمُ أَنَّ الرُّشْدَ فِي غَيْرِهِ فَقَدْ خَانَهُ ‏\"‏ ‏.‏ وَهَذَا لَفْظُ سُلَيْمَانَ ‏.‏",
+        "translations": {
+          "en": "Narrated AbuHurayrah: The Prophet (ﷺ) said: If anyone is given a legal decision ignorantly, the sin rests on the one who gave it. Sulayman al-Mahri added in his version: If anyone advises his brother, knowing that guidance lies in another direction, he has deceived him. These are the wordings of Sulayman",
+          "ur": "ابوہریرہ رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: جس نے فتوی دیا اور سلیمان بن داود مہری کی روایت میں ہے جس کو بغیر علم کے فتوی دیا گیا۔ تو اس کا گناہ فتوی دینے والے پر ہو گا ۔ سلیمان مہری نے اپنی روایت میں اتنا اضافہ کیا ہے کہ جس نے اپنے بھائی کو کسی ایسے امر کا مشورہ دیا جس کے متعلق وہ یہ جانتا ہو کہ بھلائی اس کے علاوہ دوسرے میں ہے تو اس نے اس کے ساتھ خیانت کی۔",
+          "fr": "Rapporté par Abu Hurayrah : Le Prophète ﷺ a dit : « Si quelqu’un rend un jugement religieux sans connaissance, le péché retombe sur celui qui l’a donné. » Sulayman al-Mahri a ajouté dans sa version : « Si quelqu’un conseille son frère alors qu’il sait que la bonne direction est ailleurs, il l’a trompé. » Ce sont les paroles de Sulayman",
+          "id": "Telah menceritakan kepada kami [Al Hasan bin Ali] telah menceritakan kepada kami [Abu Abdurrahman Al Muqri`] telah menceritakan kepada kami [Sa'id bin Abu Ayyub] dari [Bakr bin 'Amru] dari [Muslim bin Yasar Abu Utsman] dari [Abu Hurairah] ia berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Barangsiapa yang memberi fatwa…..\". (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Sulaiman bin Daud] telah mengabarkan kepada kami [Ibnu Wahb] telah menceritakan kepadaku [Yahya bin Ayyub] dari [Bakr bin 'Amru] dari ['Amru bin Abu Nu'aimah] dari [Abu Utsman Athunbudzi] orang yang disusui isteri Abdul Malik bin Marwan, ia berkata, \"Aku mendengar [Abu Hurairah] berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Barangsiapa diberi fatwa tanpa dengan ilmu maka dosanya ditanggung orang yang memberi fatwa.\" Sulaiman Al Mahri menambahkan dalam hadits, \"Barangsiapa memberi isyarat kepada saudaranya dalam suatu perkara dan ia mengetahui bahwa yang benar ada pada orang lain, maka sungguh ia telah berkhianat kepadanya.\" Dan Ini adalah lafazh Sulaiman",
+          "tr": "Ebû Hureyre (r.a)'den, rivayet olduğuna göre, Rasûlullah (s.a.v.) şöyle buyurmuştur: \"Bir kimseye, ilimsiz olarak fetva verilirse, bu fetva (ile amel etme) nin günahı onu veren kimsenin üzerine olur.\" Süleyman el-Mehrî (yukarıdaki hadise) ilâve olarak şunları da rivayet etti: \"Her kim (kendisine danışan din) kardeşine bir işte gerçek olmadığını bildiği halde bîr şeyi tavsiye ederse (tavsiyede bulunduğu) kardeşine ihanet etmiş olur.\" Süleyman'ın (rivayet ettiği) hadisin metni budur"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 26,
+        "hadith": 17
+      },
+      "narrator": {
+        "en": "AbuHurayrah"
+      }
+    },
+    {
+      "hadithNumber": 3658,
+      "arabicNumber": 3658,
+      "book": 26,
+      "hadithInBook": 18,
+      "text": {
+        "arabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا حَمَّادٌ، أَخْبَرَنَا عَلِيُّ بْنُ الْحَكَمِ، عَنْ عَطَاءٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ مَنْ سُئِلَ عَنْ عِلْمٍ فَكَتَمَهُ أَلْجَمَهُ اللَّهُ بِلِجَامٍ مِنْ نَارٍ يَوْمَ الْقِيَامَةِ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Narrated AbuHurayrah: The Prophet (ﷺ) said: He who is asked something he knows and conceals it will have a bridle of fire put on him on the Day of Resurrection",
+          "ur": "ابوہریرہ رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: جس سے کوئی دین کا مسئلہ پوچھا گیا اور اس نے اسے چھپا لیا تو اللہ تعالیٰ قیامت کے دن اسے آگ کی لگام پہنائے گا ۔",
+          "fr": "Rapporté par Abu Hurayrah : Le Prophète ﷺ a dit : « Celui à qui l’on pose une question sur un sujet qu’il connaît et qui la cache aura un mors de feu mis dans sa bouche le Jour de la Résurrection. »",
+          "id": "Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Hammad] telah mengabarkan kepada kami [Ali bin Al Hakam] dari ['Atha] dari [Abu Hurairah] ia berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Barangsiapa ditanya mengenai suatu ilmu dan ia menyembunyikannya, maka ia akan dicambuk dengan cambuk dari api neraka pada hari kiamat",
+          "tr": "Ebu Hureyre(r.a)'den rivayet olunduğuna göre, Rasulullah Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: \"Bir kimse kendisinden sorulan bir meseleyi gizler de cevap vermezse, Allah, kıyamet gününde ona ateşten bir gem vurur.\" Diğer tahric: Tirmizî, ilim; İbn Mace, mukaddime; Ahmed b. Hanbel, II"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 26,
+        "hadith": 18
+      },
+      "narrator": {
+        "en": "AbuHurayrah"
+      }
+    },
+    {
+      "hadithNumber": 3659,
+      "arabicNumber": 3659,
+      "book": 26,
+      "hadithInBook": 19,
+      "text": {
+        "arabic": "حَدَّثَنَا زُهَيْرُ بْنُ حَرْبٍ، وَعُثْمَانُ بْنُ أَبِي شَيْبَةَ، قَالاَ حَدَّثَنَا جَرِيرٌ، عَنِ الأَعْمَشِ، عَنْ عَبْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ تَسْمَعُونَ وَيُسْمَعُ مِنْكُمْ وَيُسْمَعُ مِمَّنْ سَمِعَ مِنْكُمْ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Narrated Abdullah ibn Abbas: The Prophet (ﷺ) said: You hear (from me), and others will hear from you; and people will hear from them who heard from you",
+          "ur": "عبداللہ بن عباس رضی اللہ عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: تم لوگ ( علم دین ) مجھ سے سنتے ہو اور لوگ تم سے سنیں گے اور پھر جن لوگوں نے تم سے سنا ہے لوگ ان سے سنیں گے ۔",
+          "fr": "Rapporté par Abdullah ibn Abbas : Le Prophète ﷺ a dit : « Vous entendez de moi, d’autres entendront de vous, et des gens entendront de ceux qui auront entendu de vous. »",
+          "id": "Telah menceritakan kepada kami [Zuhair bin Harb] dan [Utsman bin Abu Syaibah] mereka berkata; telah menceritakan kepada kami [Jarir] dari [Al A'masy] dari [Abdullah bin Abdullah] dari [Sa'id bin Jubair] dari [Ibnu Abbas] ia berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Kalian mendengarkan dan akan didengar dari kalian, dan akan didengar dari orang yang mendengar dari kalian",
+          "tr": "Abdullah b. Abbas (r.a.)'dan rivayet olunduğuna göre, Rasûlullah (s.a.v.) şöyle buyurmuştur: \"Siz (bir hadisi) benden işitirsiniz, (sonra siz onu bir yerde rivayet edince) sizden işitilir. (Sonra sizden işiten kimse onu nakleder de) sizden işitenden işitilir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 26,
+        "hadith": 19
+      },
+      "narrator": {
+        "en": "Abdullah ibn Abbas"
+      }
+    },
+    {
+      "hadithNumber": 3660,
+      "arabicNumber": 3660,
+      "book": 26,
+      "hadithInBook": 20,
+      "text": {
+        "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنْ شُعْبَةَ، حَدَّثَنِي عُمَرُ بْنُ سُلَيْمَانَ، - مِنْ وَلَدِ عُمَرَ بْنِ الْخَطَّابِ - عَنْ عَبْدِ الرَّحْمَنِ بْنِ أَبَانَ، عَنْ أَبِيهِ، عَنْ زَيْدِ بْنِ ثَابِتٍ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏ \"‏ نَضَّرَ اللَّهُ امْرَأً سَمِعَ مِنَّا حَدِيثًا فَحَفِظَهُ حَتَّى يُبَلِّغَهُ فَرُبَّ حَامِلِ فِقْهٍ إِلَى مَنْ هُوَ أَفْقَهُ مِنْهُ وَرُبَّ حَامِلِ فِقْهٍ لَيْسَ بِفَقِيهٍ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Narrated Zayd ibn Thabit: I heard the Messenger of Allah (ﷺ) say: May Allah brighten a man who hears a tradition from us, gets it by heart and passes it on to others. Many a bearer of knowledge conveys it to one who is more versed than he is; and many a bearer of knowledge is not versed in it",
+          "ur": "زید بن ثابت رضی اللہ عنہ کہتے ہیں کہ میں نے رسول اللہ صلی اللہ علیہ وسلم کو فرماتے ہوئے سنا: اللہ تعالیٰ اس شخص کو تروتازہ رکھے جس نے ہم سے کوئی بات سنی اور اسے یاد رکھا یہاں تک کہ اسے دوسروں تک پہنچا دیا کیونکہ بہت سے حاملین فقہ ایسے ہیں جو فقہ کو اپنے سے زیادہ فقہ و بصیرت والے کو پہنچا دیتے ہیں، اور بہت سے فقہ کے حاملین خود فقیہ نہیں ہوتے ہیں ۔",
+          "fr": "Rapporté par Zayd ibn Thabit : J’ai entendu le Messager d’Allah ﷺ dire : « Qu’Allah illumine celui qui entend une tradition de nous, la retient et la transmet à d’autres. Il arrive qu’une personne porteuse de savoir le transmette à quelqu’un de plus savant qu’elle, et il arrive qu’une personne porteuse de savoir ne comprenne pas elle-même ce qu’elle transmet. »",
+          "id": "Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari [Syu'bah] telah menceritakan kepadaku [Umar bin Sulaiman] dari putera Umar bin Al Khathab, dari [Abdurrahman bin Aban] dari [Ayahnya] dari [Zaid bin Tsabit] ia berkata, \"Saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: \"Semoga Allah memperindah orang yang mendengar hadits dariku lalu menghafal dan menyampaikannya kepada orang lain, berapa banyak orang menyampaikan ilmu kepada orang yang lebih berilmu, dan berapa banyak pembawa ilmu yang tidak berilmu",
+          "tr": "Zeyd b. Sabit (r.a)'ten rivayet olunmuştur; dedi ki: Ben Rasûlullah (s.a.v.)'i şöyle derken işittim: \"Allah, benden bir hadisi işitip de onu (güzelce) ezberleyip başkasına (eksiksizce) aktaran kimsenin yüzünü ak etsin. Nice fıkıh ilmine (esas teşkil eden hadislere) sahip olup da onu kendisinden daha anlayışlı bir kişiye aktaran kimseler vardır. (Bu bilgiyi aktardığı kimseler de onun inceliklerini kavrayıp halka açıklar.) Nice fıkıh ilimine (esas teşkil eden hadislere) sahip olup da (o hadislerin inciliklerine nüfuz edecek şekilde) anlayışlı olmayan kişiler de vardır.\" Ayrıca bu hadis'i Tirmizî, ilim; İbn Mâce, mukaddime, menâsik; Dârimî, mukaddime; Ahme b. Hanbel, I, 437, III, 225, IV, 80, 82, V, 183. te tahric ettiler"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 26,
+        "hadith": 20
+      },
+      "narrator": {
+        "en": "Zayd ibn Thabit"
+      }
+    },
+    {
+      "hadithNumber": 3661,
+      "arabicNumber": 3661,
+      "book": 26,
+      "hadithInBook": 21,
+      "text": {
+        "arabic": "حَدَّثَنَا سَعِيدُ بْنُ مَنْصُورٍ، حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ أَبِي حَازِمٍ، عَنْ أَبِيهِ، عَنْ سَهْلٍ، - يَعْنِي ابْنَ سَعْدٍ - عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ وَاللَّهِ لأَنْ يُهْدَى بِهُدَاكَ رَجْلٌ وَاحِدٌ خَيْرٌ لَكَ مِنْ حُمْرِ النَّعَمِ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Sahl b. Sa’d reported the prophet (ﷺ) as saying:I swear on Allah, it will be better for you that Allah should give guidance to one man through your agency than that you should acquire the red ones among the camels",
+          "ur": "سہل بن سعد رضی اللہ عنہ سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: قسم اللہ کی، اگر تیری رہنمائی سے اللہ تعالیٰ ایک آدمی کو بھی ہدایت دیدے تو یہ تیرے لیے سرخ اونٹ سے ( جو بہت قیمتی اور عزیز ہوتے ہیں ) بہتر ہے ۔",
+          "fr": "Rapporté par Sahl ibn Sa’d : Le Prophète ﷺ a dit : « Par Allah, il vaut mieux pour toi qu’Allah guide une seule personne par ton intermédiaire que de posséder les plus précieuses des chamelles rouges. »",
+          "id": "Telah menceritakan kepada kami [Sa'id bin Manshur] telah menceritakan kepada kami [Abdul Aziz bin Abu Hazim] dari [Ayahnya] dari [Sahl bin Sa'dan] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: \"Demi Allah, sekiranya Allah memberi petunjuk kepada seorang laki-laki melalui perantaramu, maka itu lebih baik bagimu dari unta merah",
+          "tr": "Sehl b. Sa'd (r.a)'dan rivayet olduğuna göre Nebi (s.a.v.) şöyle buyurmuştur: \"Allah'a yemin olsun ki senin hidayete vesile olman sayesinde Allah'ın bir adam'a hidayet vermesi, senin için kırmızı develer(i elde etmenden daha hayırlıdır)"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (3701) Sahih Muslim (2406)"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 26,
+        "hadith": 21
+      }
+    },
+    {
+      "hadithNumber": 3662,
+      "arabicNumber": 3662,
+      "book": 26,
+      "hadithInBook": 22,
+      "text": {
+        "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَلِيُّ بْنُ مُسْهِرٍ، عَنْ مُحَمَّدِ بْنِ عَمْرٍو، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ حَدِّثُوا عَنْ بَنِي إِسْرَائِيلَ وَلاَ حَرَجَ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Narrated AbuHurayrah: The Prophet (ﷺ) said: relate traditions from the children of Isra'il; there is no harm",
+          "ur": "ابوہریرہ رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: بنی اسرائیل سے روایت کرو، اس میں کوئی مضائقہ نہیں ۔",
+          "fr": "Rapporté par Abu Hurayrah : Le Prophète ﷺ a dit : « Racontez les traditions des enfants d’Israël, il n’y a pas de mal à cela. »",
+          "id": "Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Ali bin Mushir] dari [Muhammad bin 'Amru] dari [Abu Salamah] dari [Abu Hurairah] ia berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Ceritakanlah riwayat dari Bani Israil Israil, dan itu tidak mengapa",
+          "tr": "Ebû Hureyre (r.a)'den rivayet olunduğuna göre Rasûiul-lah (s.a.v.) şöyle buyurmuştur: “İsrail oğullarından (geçmiş devirlere ait haberler) rivayet etmenizde bir sakınca yoktur"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 26,
+        "hadith": 22
+      },
+      "narrator": {
+        "en": "AbuHurayrah"
+      }
+    },
+    {
+      "hadithNumber": 3663,
+      "arabicNumber": 3663,
+      "book": 26,
+      "hadithInBook": 23,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا مُعَاذٌ، حَدَّثَنِي أَبِي، عَنْ قَتَادَةَ، عَنْ أَبِي حَسَّانَ، عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو، قَالَ كَانَ نَبِيُّ اللَّهِ صلى الله عليه وسلم يُحَدِّثُنَا عَنْ بَنِي إِسْرَائِيلَ حَتَّى يُصْبِحَ مَا يَقُومُ إِلاَّ إِلَى عُظْمِ صَلاَةٍ ‏.‏",
+        "translations": {
+          "en": "Narrated Abdullah ibn Amr ibn al-'As: The Prophet (ﷺ) used to relate to us traditions from the children of Isra'il till morning came; he would not get up except for obligatory prayer",
+          "ur": "عبداللہ بن عمرو رضی اللہ عنہما کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم ہم سے بنی اسرائیل کی باتیں اس قدر بیان کرتے کہ صبح ہو جاتی اور صرف فرض نماز ہی کے لیے اٹھتے۔",
+          "fr": "Rapporté par Abdullah ibn Amr ibn al-‘As : Le Prophète ﷺ nous racontait des histoires sur les enfants d’Israël jusqu’à l’aube, et il ne se levait que pour la prière obligatoire",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Mu'adz] telah menceritakan kepadaku [Ayahku] dari [Qatadah] dari [Abu Hassan] dari [Abdullah bin 'Amru] ia berkata, \"Nabi shallallahu 'alaihi wasallam pernah menceritakan kepada kami dari Bani Israil hingga pagi hari, dan beliau tidak berdiri kecuali untuk melakukan shalat fardlu",
+          "tr": "Abdullah b. Amr'dan şöyle dediği rivayet olunmuştur: Allah'ın Nebi bize sabaha kadar İsrail oğulları (nın kıssaları)nı anlatırdı. Namazın büyüğü (olan sabah namazının yahutta teheccüd namazının vakti gire)ne kadar (bu sohbetten) kalkmazdı"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 26,
+        "hadith": 23
+      },
+      "narrator": {
+        "en": "Abdullah ibn Amr ibn al-'As"
+      }
+    },
+    {
+      "hadithNumber": 3664,
+      "arabicNumber": 3664,
+      "book": 26,
+      "hadithInBook": 24,
+      "text": {
+        "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا سُرَيْجُ بْنُ النُّعْمَانِ، حَدَّثَنَا فُلَيْحٌ، عَنْ أَبِي طُوَالَةَ عَبْدِ اللَّهِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ مَعْمَرٍ الأَنْصَارِيِّ، عَنْ سَعِيدِ بْنِ يَسَارٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ مَنْ تَعَلَّمَ عِلْمًا مِمَّا يُبْتَغَى بِهِ وَجْهُ اللَّهِ عَزَّ وَجَلَّ لاَ يَتَعَلَّمُهُ إِلاَّ لِيُصِيبَ بِهِ عَرَضًا مِنَ الدُّنْيَا لَمْ يَجِدْ عَرْفَ الْجَنَّةِ يَوْمَ الْقِيَامَةِ ‏\"‏ ‏.‏ يَعْنِي رِيحَهَا ‏.‏",
+        "translations": {
+          "en": "Narrated Abu Hurayrah: The Prophet (ﷺ) said: If anyone acquires knowledge that should be sought seeking the Face of Allah, but he acquires it only to get some worldly advantage, he will not experience the arf, i.e. the fragrance, of Paradise",
+          "ur": "ابوہریرہ رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: جس شخص نے ایسا علم صرف دنیاوی مقصد کے لیے سیکھا جس سے اللہ تعالیٰ کی خوشنودی حاصل کی جاتی ہے تو وہ قیامت کے دن جنت کی خوشبو تک نہیں پائے گا ۔",
+          "fr": "Rapporté par Abu Hurayrah : Le Prophète ﷺ a dit : « Celui qui acquiert un savoir qui doit être recherché pour Allah, mais qui ne le fait que pour un avantage de ce monde, ne sentira pas le parfum du Paradis. »",
+          "id": "Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Suraij bin An Nu'man] telah menceritakan kepada kami [Fulaih] dari [Abu Thuwalah Abdullah bin Abdurrahman bin Ma'mar Al Anshari] dari [Sa'id bin Yasar] dari [Abu Hurairah] ia berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Barangsiapa mempelajari suatu ilmu yang seharusnya karena Allah Azza Wa Jalla, namun ia tidak mempelajarinya kecuali untuk mendapatkan sebagian dari dunia, maka ia tidak akan mendapatkan baunya Surga pada Hari Kiamat",
+          "tr": "Ebû Hureyre (r.a)'den rivayet olunduğuna göre, Nebi (s.a.v.) şöyle buyurmuştur: \"Kendisi ile Allah'ın rızası kazanılan bir ilmi, sırf dünya menfaati elde etmek için öğrenen bir kimse kıyamet günü cennet kokusu bulamayacaktır"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 26,
+        "hadith": 24
+      },
+      "narrator": {
+        "en": "Abu Hurayrah"
+      }
+    },
+    {
+      "hadithNumber": 3665,
+      "arabicNumber": 3665,
+      "book": 26,
+      "hadithInBook": 25,
+      "text": {
+        "arabic": "حَدَّثَنَا مَحْمُودُ بْنُ خَالِدٍ، حَدَّثَنَا أَبُو مُسْهِرٍ، حَدَّثَنِي عَبَّادُ بْنُ عَبَّادٍ الْخَوَّاصُ، عَنْ يَحْيَى بْنِ أَبِي عَمْرٍو السَّيْبَانِيِّ، عَنْ عَمْرِو بْنِ عَبْدِ اللَّهِ السَّيْبَانِيِّ، عَنْ عَوْفِ بْنِ مَالِكٍ الأَشْجَعِيِّ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏ \"‏ لاَ يَقُصُّ إِلاَّ أَمِيرٌ أَوْ مَأْمُورٌ أَوْ مُخْتَالٌ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Narrated Awf ibn Malik al-Ashja'i: I heard the Messenger of Allah (ﷺ) say: Only a ruler, or one put in charge, or one who is presumptuous, gives instructions",
+          "ur": "عوف بن مالک اشجعی رضی اللہ عنہ کہتے ہیں کہ میں نے رسول اللہ صلی اللہ علیہ وسلم کو فرماتے ہوئے سنا: وعظ و نصیحت وہی کرتا ہے جو امیر ہو یا مامور ہو یا فریبی ۔",
+          "fr": "Rapporté par Awf ibn Malik al-Ashja’i : J’ai entendu le Messager d’Allah ﷺ dire : « Seul un dirigeant, une personne chargée d’une responsabilité ou quelqu’un de présomptueux donne des instructions. »",
+          "id": "Telah menceritakan kepada kami [Mahmud bin Khalid] telah menceritakan kepada kami [Abu Mushir] telah menceritakan kepadaku ['Abbad bin 'Abbad Al Khawwash] dari [Yahya bin Abu 'Amru As Saibani] dari ['Amru bin Abdullah As Saibani] dari ['Auf bin Malik Al Asyja'i] ia berkata, \"Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: \"Tidak ada yang memberi nasihat kecuali seorang pemimpin, atau orang yang diperintah (oleh Amir), atau orang yang ingin dipuji",
+          "tr": "Avf b. Mâlik el-Eşcaî'den, ben Rasûlullah (s.a.v.)'i şöyle buyururken işittim dediği rivayet olunmuştur: \"Devlet başkanı, memur ve büyüklük taslayandan başka vaaz eden olmaz"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 26,
+        "hadith": 25
+      },
+      "narrator": {
+        "en": "Awf ibn Malik al-Ashja'i"
+      }
+    },
+    {
+      "hadithNumber": 3666,
+      "arabicNumber": 3666,
+      "book": 26,
+      "hadithInBook": 26,
+      "text": {
+        "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا جَعْفَرُ بْنُ سُلَيْمَانَ، عَنِ الْمُعَلَّى بْنِ زِيَادٍ، عَنِ الْعَلاَءِ بْنِ بَشِيرٍ الْمُزَنِيِّ، عَنْ أَبِي الصِّدِّيقِ النَّاجِيِّ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، قَالَ جَلَسْتُ فِي عِصَابَةٍ مِنْ ضُعَفَاءِ الْمُهَاجِرِينَ وَإِنَّ بَعْضَهُمْ لَيَسْتَتِرُ بِبَعْضٍ مِنَ الْعُرْىِ وَقَارِئٌ يَقْرَأُ عَلَيْنَا إِذْ جَاءَ رَسُولُ اللَّهِ صلى الله عليه وسلم فَقَامَ عَلَيْنَا فَلَمَّا قَامَ رَسُولُ اللَّهِ صلى الله عليه وسلم سَكَتَ الْقَارِئُ فَسَلَّمَ ثُمَّ قَالَ ‏\"‏ مَا كُنْتُمْ تَصْنَعُونَ ‏\"‏ ‏.‏ قُلْنَا يَا رَسُولَ اللَّهِ إِنَّهُ كَانَ قَارِئٌ لَنَا يَقْرَأُ عَلَيْنَا فَكُنَّا نَسْتَمِعُ إِلَى كِتَابِ اللَّهِ ‏.‏ قَالَ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ الْحَمْدُ لِلَّهِ الَّذِي جَعَلَ مِنْ أُمَّتِي مَنْ أُمِرْتُ أَنْ أَصْبِرَ نَفْسِي مَعَهُمْ ‏\"‏ ‏.‏ قَالَ فَجَلَسَ رَسُولُ اللَّهِ صلى الله عليه وسلم وَسَطَنَا لِيَعْدِلَ بِنَفْسِهِ فِينَا ثُمَّ قَالَ بِيَدِهِ هَكَذَا فَتَحَلَّقُوا وَبَرَزَتْ وُجُوهُهُمْ لَهُ - قَالَ - فَمَا رَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم عَرَفَ مِنْهُمْ أَحَدًا غَيْرِي ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ أَبْشِرُوا يَا مَعْشَرَ صَعَالِيكِ الْمُهَاجِرِينَ بِالنُّورِ التَّامِّ يَوْمَ الْقِيَامَةِ تَدْخُلُونَ الْجَنَّةَ قَبْلَ أَغْنِيَاءِ النَّاسِ بِنِصْفِ يَوْمٍ وَذَاكَ خَمْسُمِائَةِ سَنَةٍ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Narrated AbuSa'id al-Khudri: I was sitting in the company of the poor members of the emigrants. Some of them were sitting together because of lack of clothing while a reader was reciting to us. All of a sudden the Messenger of Allah (ﷺ) came along and stood beside us. When the Messenger of Allah (ﷺ) stood, the reader stopped and greeted him. He asked: What were you doing? We said: Messenger of Allah! We had a reader who was reciting to us and we were listening to the Book of Allah, the Exalted. The Messenger of Allah (ﷺ) then said: Praise be to Allah Who has put among my people those with whom I have been ordered to stay. The Messenger of Allah (ﷺ) then sat among us so as to be like one of us, and when he had made a sign with his hand they sat in a circle with their faces turned towards him. The narrator said: I think that the Messenger of Allah (ﷺ) did not recognize any of them except me. The Messenger of Allah (ﷺ) then said: Rejoice, you group of poor emigrants, in the announcement that you will have perfect light on the Day of Resurrection. You will enter Paradise half a day before the rich, and that is five hundred years",
+          "ur": "ابو سعید خدری رضی اللہ عنہ کہتے ہیں میں غریب و خستہ حال مہاجرین کی جماعت میں جا بیٹھا، ان میں بعض بعض کی آڑ میں برہنگی کے سبب چھپتا تھا اور ایک قاری ہم میں قرآن پڑھ رہا تھا، اتنے میں رسول اللہ صلی اللہ علیہ وسلم تشریف لائے اور ہمارے درمیان آ کر کھڑے ہو گئے، جب آپ صلی اللہ علیہ وسلم کھڑے ہو گئے تو قاری خاموش ہو گیا، آپ نے ہمیں سلام کیا پھر فرمایا: تم لوگ کیا کر رہے تھے؟ ہم نے عرض کیا: ہمارے یہ قاری ہیں ہمیں قرآن پڑھ کر سنا رہے تھے اور ہم اللہ کی کتاب سن رہے تھے۔ تو رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: سبھی تعریفیں اس اللہ تعالیٰ کے لیے ہیں جس نے میری امت میں ایسے لوگوں کو پیدا کیا کہ مجھے حکم دیا گیا کہ میں اپنے آپ کو ان کے ساتھ روکے رکھوں ۔ پھر آپ صلی اللہ علیہ وسلم ہمارے درمیان میں آ کر بیٹھ گئے تاکہ اپنے آپ کو ہمارے برابر کر لیں، آپ صلی اللہ علیہ وسلم نے اپنے ہاتھ کے اشارے سے حلقہ بنا کر بیٹھنے کا اشارہ کیا، تو سبھی لوگ حلقہ بنا کر بیٹھ گئے اور ان سب کا رخ آپ کی طرف ہو گیا۔ ابو سعید خدری رضی اللہ عنہ کہتے ہیں: تو میرے علاوہ رسول اللہ صلی اللہ علیہ وسلم نے کسی کو نہیں پہچانا، پھر آپ صلی اللہ علیہ وسلم نے فرمایا: اے فقرائے مہاجرین کی جماعت! تمہارے لیے قیامت کے دن نور کامل کی بشارت ہے، تم لوگ جنت میں مالداروں سے آدھے دن پہلے داخل ہو گے، اور یہ پانچ سو برس ہو گا ۱؎ ۔",
+          "fr": "Rapporté par Abu Sa’id al-Khudri : J’étais assis avec les pauvres parmi les émigrants. Certains étaient regroupés à cause du manque de vêtements, pendant qu’un lecteur nous récitait. Soudain, le Messager d’Allah ﷺ est venu et s’est tenu près de nous. Quand il s’est arrêté, le lecteur s’est interrompu et l’a salué. Il a demandé : « Que faisiez-vous ? » Nous avons répondu : « Messager d’Allah ! Nous avions un lecteur qui nous récitait le Livre d’Allah, l’Exalté, et nous l’écoutions. » Le Messager d’Allah ﷺ a alors dit : « Louange à Allah qui a placé parmi ma communauté des gens avec qui j’ai été ordonné de rester. » Il s’est assis parmi nous, comme l’un d’entre nous, et quand il a fait un signe de la main, ils se sont assis en cercle face à lui. Le narrateur dit : « Je pense que le Messager d’Allah ﷺ n’a reconnu personne d’autre que moi. » Le Messager d’Allah ﷺ a ensuite dit : « Réjouissez-vous, groupe de pauvres émigrants, car il vous est annoncé que vous aurez une lumière parfaite le Jour de la Résurrection. Vous entrerez au Paradis une demi-journée avant les riches, ce qui équivaut à cinq cents ans. »",
+          "id": "Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Ja'far bin Sulaiman] dari [Al Mu'allim bin Ziyad] dari [Al 'Ala bin Basyir Al Muzni] dari [Abu Ash Shiddiq An Nahi] dari [Abu Sa'id Al Khudri] ia berkata, \"Aku duduk di antara beberapa orang lemah dari kalangan orang-orang muhajirin, dan sebagian mereka menutupi sebagian aurat sementara sebagian yang lain membacakan Al Qur'an kepada kami, tiba-tiba Rasulullah shallallahu 'alaihi wasallam datang dan berdiri di sisi kami. Tatkala Rasulullah shallallahu 'alaihi wasallam berdiri orang-orang yang membaca Al Qur'an diam. Lalu beliau mengucapkan salam dan bertanya: \"Apakah yang kalian lakukan?\" Kami menjawab, \"Wahai Rasulullah, dia adalah orang yang pandai membaca Al-Qur'an di antara kami, ia membacakan kepada kami dan yang mendengarnya.\" Abu Sa'id berkata, \"Rasulullah shallallahu 'alaihi wasallam lalu bersabda: \"Segala puji bagi Allah Yang telah menjadikan di antara umatku, seseorang yang aku diperintahkan untuk bersabar bersama mereka.\" Abu Sa'id berkata, \"Kemudian Rasulullah shallallahu 'alaihi wasallam duduk di tengah-tengah kami agar bisa bersama kami.\" Kemudian bersabda dengan isyarat tangannya seperti ini -mereka lalu melingkar dan wajah-wajah mereka nampak bagi beliau-.\" Abu Sa'id berkata, \"Aku tidak melihat Rasulullah shallallahu 'alaihi wasallam mengetahui seorangpun di antara mereka selain diriku. Kemudian beliau bersabda: \"Bergembiralah kalian wahai orang-orang fakir muhajirin dengan mendapatkan cahaya sempurna pada Hari Kiamat, kalian akan masuk Surga setengah hari sebelum orang-orang kaya, dan setengah hari itu adalah lima ratus ribu tahun",
+          "tr": "Ebû Saîd el-Hudrî(r.a)'den şöyle dediği rivayet olunmuştur: Muhacirlerin fakirlerinden oluşan bir cemaatle birlikte oturuyordum. Onlardan bazıları (avret mahallerine yakın olan) bazı çıplak yerlerini (üzerleri iyi örtülü olan) bazı (arkadaşlarının arkalarına gizlenmek suretiyle) örtüyorlardı. (Orada bulunan bir Kur'an) okuyucu (su) bize (Kur'an) okuyordu. O sırada Rasûlullah (s.a.v.) çıkageldi ve yanımıza gelip durdu. Rasûlullah (s.a.v.) gelince (Kur'an) okuyan (kimse okumayı bırakıp) sustu. Bunun üzerine (Hz. Nebi bize) selâm verdi ve, \"Ne yapıyorsunuz?\" diye sordu. (Biz de) \"Ey Allah'ın Rasıilu, bu bizim okuyucumuzdur. Bize Kur'an okuyordu, biz de yüce Allah'ın kitabını dinliyorduk\" cevabını verdik. Bunun üzerine Allah'ın Rasûlu (s.a.v.), \"Ümmetimden, kendileri ile birlikte sabretmekle emrolunduğum kimseler yaratan Allah'a hamd olsun\" diye hamdü senada bulundu. Aramızda kendisini (yakınlık bakımından hepimize) eşit (derecede) tutabilmek için (tam) ortamıza oturdu. (Ravi Hz. Nebi'in aralarına oturuş şeklini anlatabilmek için) eliyle, \"İşte şöyle\" diye işaret etti, (sonra sözlerine devamla şöyle dedi: Orada bulunan halk) hemen (onun etrafında) halka oldular, (hepsinin yüzleri) onun karşısına geldi. (Fakat) Rasûlullah (s.a.v.)'in karanlıkta onlardan, benden başka birini tanıyabildiğini zannetmiyordum. Rasûlullah (s.a.v.) (bizi karşısında bu şekilde görünce); \"Ey muhacirlerin fakirleri, sizi kıyamet gününde (kavuşacağınız) tam bir nurla müjdeliyorum. Siz cennet'e zenginlerden yarım gün önce gireceksiniz. Bir (tam) gün (dünya senesiyle) beşyüz senedir\" buyurdu"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 26,
+        "hadith": 26
+      },
+      "narrator": {
+        "en": "AbuSa'id al-Khudri"
+      }
+    },
+    {
+      "hadithNumber": 3667,
+      "arabicNumber": 3667,
+      "book": 26,
+      "hadithInBook": 27,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنِي عَبْدُ السَّلاَمِ، - يَعْنِي ابْنَ مُطَهَّرٍ أَبُو ظَفَرٍ - حَدَّثَنَا مُوسَى بْنُ خَلَفٍ الْعَمِّيُّ، عَنْ قَتَادَةَ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ لأَنْ أَقْعُدَ مَعَ قَوْمٍ يَذْكُرُونَ اللَّهَ تَعَالَى مِنْ صَلاَةِ الْغَدَاةِ حَتَّى تَطْلُعَ الشَّمْسُ أَحَبُّ إِلَىَّ مِنْ أَنْ أُعْتِقَ أَرْبَعَةً مِنْ وَلَدِ إِسْمَاعِيلَ وَلأَنْ أَقْعُدَ مَعَ قَوْمٍ يَذْكُرُونَ اللَّهَ مِنْ صَلاَةِ الْعَصْرِ إِلَى أَنْ تَغْرُبَ الشَّمْسُ أَحَبُّ إِلَىَّ مِنْ أَنْ أُعْتِقَ أَرْبَعَةً ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Narrated Anas ibn Malik: The Prophet (ﷺ) said: That I sit in the company of the people who remember Allah the Exalted from morning prayer till the sun rises is dearer to me than that I emancipate four slaves from the children of Isma`il, and that I sit with the people who remember Allah from afternoon prayer till the sun sets is dearer to me than that I emancipate four slaves",
+          "ur": "انس بن مالک رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: میرا ایسی قوم کے ساتھ بیٹھنا جو فجر سے لے کر طلوع شمس تک اللہ کا ذکر کرتی ہو میرے نزدیک اسماعیل علیہ السلام کی اولاد سے چار غلام آزاد کرنے سے زیادہ پسندیدہ امر ہے، اور میرا ایسی قوم کے ساتھ بیٹھنا جو نماز عصر سے غروب آفتاب تک اللہ کے ذکرو اذکار میں منہمک رہتی ہو میرے نزدیک چار غلام آزاد کرنے سے زیادہ محبوب ہے ۔",
+          "fr": "Rapporté par Anas ibn Malik : Le Prophète ﷺ a dit : « Rester assis avec des gens qui se rappellent Allah, l’Exalté, depuis la prière du matin jusqu’au lever du soleil m’est plus cher que d’affranchir quatre esclaves parmi les enfants d’Isma‘il. Et rester assis avec ceux qui se rappellent Allah de la prière de l’après-midi jusqu’au coucher du soleil m’est plus cher que d’affranchir quatre esclaves. »",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepadaku [Abdussalam bin Muthahhar Abu Zhafar] telah menceritakan kepada kami [Musa bin Khalaf Al 'Ammi] dari [Qatadah] dari [Anas bin Malik] ia berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Sungguh, aku duduk bersama kaum yang berdzikir kepada Allah Ta'ala dari shalat Subuh hingga terbit matahari lebih aku sukai daripada aku membebaskan empat anak Isma'il. Dan sungguh aku duduk bersama suatu kaum yang berdzikir kepada Allah dari Shalat 'Ashar hingga matahari tenggelam adalah lebih aku sukai daripada aku membebaskan empat orang budak",
+          "tr": "Enes b. Mâlik (r.a)'den rivayet olunduğuna göre Rasûlul­lah (s.a.v.) şöyle buyurmuştur: \"Sabah namazından sonra güneş doğ(up ta bir mızrak boyu çıkıncaya kadar Allah'ı zikreden bir toplulukla beraber oturmam bana İsmail (a.s)'ın çocuklarından dördünü kölelikten kurtarmamdan daha sevimlidir. İkindi namazından sonra güneş batıncaya kadar Allah'ı zikreden bir cemaatle beraber oturmam ise bana dört insanı kölelikten kurtarmamdan daha sevimlidir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 26,
+        "hadith": 27
+      },
+      "narrator": {
+        "en": "Anas ibn Malik"
+      }
+    },
+    {
+      "hadithNumber": 3668,
+      "arabicNumber": 3668,
+      "book": 26,
+      "hadithInBook": 28,
+      "text": {
+        "arabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا حَفْصُ بْنُ غِيَاثٍ، عَنِ الأَعْمَشِ، عَنْ إِبْرَاهِيمَ، عَنْ عُبَيْدَةَ، عَنْ عَبْدِ اللَّهِ، قَالَ قَالَ لِي رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ اقْرَأْ عَلَىَّ سُورَةَ النِّسَاءِ ‏\"‏ ‏.‏ قَالَ قُلْتُ أَقْرَأُ عَلَيْكَ وَعَلَيْكَ أُنْزِلَ قَالَ ‏\"‏ إِنِّي أُحِبُّ أَنْ أَسْمَعَهُ مِنْ غَيْرِي ‏\"‏ ‏.‏ قَالَ فَقَرَأْتُ عَلَيْهِ حَتَّى إِذَا انْتَهَيْتُ إِلَى قَوْلِهِ ‏{‏ فَكَيْفَ إِذَا جِئْنَا مِنْ كُلِّ أُمَّةٍ بِشَهِيدٍ ‏}‏ الآيَةَ فَرَفَعْتُ رَأْسِي فَإِذَا عَيْنَاهُ تَهْمِلاَنِ ‏.‏",
+        "translations": {
+          "en": "Abd Allah (b. Mas`ud) said:The Messenger of Allah (ﷺ) said to me: recite Surat al-Nisa’. I asked: Shall I recite to you what was sent down to you? He replied: I like to here it from someone else. So I recited (it) until I reached this verse “How then shall it be when We bring from every people a witness?”. Then I raised my head and saw tears falling from his eyes",
+          "ur": "عبداللہ بن مسعود رضی اللہ عنہ کہتے ہیں مجھ سے رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: تم مجھ پر سورۃ نساء پڑھو میں نے عرض کیا: کیا میں آپ کو پڑھ کے سناؤں؟ جب کہ وہ آپ پر اتاری گئی ہے، آپ صلی اللہ علیہ وسلم نے فرمایا: میں چاہتا ہوں کہ میں اوروں سے سنوں پھر میں نے آپ کو «فكيف إذا جئنا من كل أمة بشهيد» اس وقت کیا ہو گا جب ہم ہر امت سے ایک گواہ لائیں گے ( سورة النساء: ۴۱ ) تک پڑھ کر سنایا، اور اپنا سر اٹھایا تو کیا دیکھتا ہوں کہ آپ کی دونوں آنکھوں سے آنسو جاری ہے۔",
+          "fr": "Abd Allah ibn Mas‘ud a dit : Le Messager d’Allah ﷺ m’a dit : « Récite la sourate an-Nisa’. » J’ai demandé : « Dois-je te réciter ce qui t’a été révélé ? » Il a répondu : « J’aime l’entendre d’une autre personne. » J’ai donc récité jusqu’à ce que j’arrive au verset : “Comment sera-ce quand Nous ferons venir de chaque communauté un témoin ?” Puis j’ai levé la tête et j’ai vu des larmes couler de ses yeux",
+          "id": "Telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepada kami [Hafsh bin Ghiyats] dari [Al A'masy] dari [Ibrahim] dari ['Abidah] dari [Abdullah] ia berkata, \"Rasulullah shallallahu 'alaihi wasallam berkata kepadaku: \"Bacakan kepadaku Surat An Nisa!\" Aku katakan, \"Apakah aku akan membacakan kepadamu sementara Al Qur'an turun kepadamu?\" Beliau bersabda: \"Aku senang untuk mendengarnya dari selainku.\" Abdullah berkata, \"Kemudian aku membacakan Al Qur'an kepadanya hingga sampai pada firman-Nya: '(Maka bagaimanakah (halnya orang kafir nanti), apabila Kami mendatangkan seseorang saksi (rasul) …) ' (Qs. An Nisa: 41) Kemudian aku angkat kepalaku dan ternyata kedua mata beliau telah berurai dengan air mata",
+          "tr": "Abdullah (b. Mes'ud) (r.anhüma)'dan şöyle dediği rivayet olunmuştur: Rasûlullah (s.a.v.) bana (bir gün); \"Bana Nisa sûresini oku\" buyurdu. Ben de, Kur'an sana indirildiği halde (onu) sana ben mi okuyayım? dedim. (Hz. Nebi); “Gerçekten onu ben başkasından dinlemeyi (çok) seviyorum\" buyurdu. Bunun üzerine kendisine (bu sûreyi ) \"Her ümmetten bir şahit getirdiğimiz zaman (halleri) nice olur?\"[Nisa 41] âyetine kadar okudum. Sonra başımı kaldırınca bir de baktım ki (Rasûlullah'ın) gözlerinden yaş akıyordu"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (5049) Sahih Muslim (800)"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 26,
+        "hadith": 28
+      }
+    }
+  ],
+  "metadata": {
+    "averageLength": "medium",
+    "size": "23KB"
+  }
+}

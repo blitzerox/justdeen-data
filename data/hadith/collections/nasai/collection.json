@@ -1,0 +1,23 @@
+{
+  "collection": "nasai",
+  "name": {
+    "arabic": "سنن النسائي",
+    "transliteration": "Sunan an-Nasa'i",
+    "translation": "The Sunan of an-Nasa'i"
+  },
+  "compiler": {
+    "arabic": "أحمد بن شعيب النسائي",
+    "transliteration": "Ahmad ibn Shu'ayb an-Nasa'i",
+    "dates": "215-303 AH"
+  },
+  "authenticity": "sahih-hasan",
+  "totalBooks": 52,
+  "totalHadith": 5765,
+  "metadata": {
+    "extractedFrom": "ara-nasai",
+    "sourceFormat": "hadith-api-1",
+    "extractionDate": "2025-09-19T23:58:45.433Z",
+    "description": "Collection known for strict authenticity standards",
+    "priority": 2
+  }
+}

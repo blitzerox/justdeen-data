@@ -1,0 +1,1634 @@
+{
+  "collection": "majah",
+  "book": 26,
+  "name": {
+    "arabic": "كتاب Chapters on Sacrifices",
+    "transliteration": "chapters on sacrifices",
+    "translation": "Chapters on Sacrifices"
+  },
+  "totalHadith": 42,
+  "hadithNumberRange": {
+    "first": 3120,
+    "last": 3161
+  },
+  "content": [
+    {
+      "hadithNumber": 3120,
+      "arabicNumber": 3120,
+      "book": 26,
+      "hadithInBook": 1,
+      "text": {
+        "arabic": "حَدَّثَنَا نَصْرُ بْنُ عَلِيٍّ الْجَهْضَمِيُّ، حَدَّثَنِي أَبِي ح، وَحَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، قَالاَ حَدَّثَنَا شُعْبَةُ، سَمِعْتُ قَتَادَةَ، يُحَدِّثُ عَنْ أَنَسِ بْنِ مَالِكٍ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ كَانَ يُضَحِّي بِكَبْشَيْنِ أَمْلَحَيْنِ أَقْرَنَيْنِ وَيُسَمِّي وَيُكَبِّرُ وَلَقَدْ رَأَيْتُهُ يَذْبَحُ بِيَدِهِ وَاضِعًا قَدَمَهُ عَلَى صِفَاحِهِمَا ‏.‏",
+        "translations": {
+          "en": "It was narrated from Anas bin Malik:“The Messenger of Allah (ﷺ) used to sacrifice two horned, black-and-white rams and he would say the Name of Allah and pronounce His greatness. I saw him slaughtering them with his own hand, putting his foot on their sides.”",
+          "ur": "انس بن مالک رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم دو چتکبرے سینگ دار مینڈھوں کی قربانی کرتے، ( ذبح کے وقت ) «بسم الله» اور «الله أكبر» کہتے تھے، اور میں نے آپ کو اپنا پاؤں جانور کے پٹھوں پر رکھ کر اپنے ہاتھوں سے ذبح کرتے ہوئے دیکھا ۱؎۔",
+          "fr": "Rapporté par Anas bin Malik : Le Messager d’Allah (ﷺ) sacrifiait deux béliers noirs et blancs, cornus, en prononçant le nom d’Allah et en proclamant Sa grandeur. Je l’ai vu les égorger lui-même, en posant son pied sur leur flanc",
+          "id": "Telah menceritakan kepada kami [Nahsr bin Ali Al Jahdlami] telah menceritakan kepadaku [Ayahku]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada kami [Muhammad bin Ja'far] keduanya berkata; telah menceritakan kepada kami [Syu'bah] saya mendengar [Qatadah] menceritakan dari [Anas bin Malik], bahwa Rasulullah shallallahu 'alaihi wasallam menyembelih dua ekor kambing belang (putih hitam) dan bertanduk, lalu beliau membaca basmallah dan bertakbir. Sungguh aku telah melihat beliau menyembelih hewan kurbannya dengan tangannya sendiri sambil meletakkan kakinya di atas leher hean kurbannya",
+          "tr": "Enes bin Mâlik (r.a.)'den rivayet edildiğine göre: Resulullah (Sallallahu Aleyhi ve Sellem) Kurban bayramında iki boynuzlu, alaca iki aded koç kurban ederdi ve (kurbanları keseceği zaman): \"Bismillah vallahu ekber\" derdi. And olsun ki ben O'nu, ayağını kurbanların (sağ) yanlarına basarak kendi eliyle keserken gördüm"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 26,
+        "hadith": 1
+      }
+    },
+    {
+      "hadithNumber": 3121,
+      "arabicNumber": 3121,
+      "book": 26,
+      "hadithInBook": 2,
+      "text": {
+        "arabic": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ، حَدَّثَنَا إِسْمَاعِيلُ بْنُ عَيَّاشٍ، حَدَّثَنَا مُحَمَّدُ بْنُ إِسْحَاقَ، عَنْ يَزِيدَ بْنِ أَبِي حَبِيبٍ، عَنْ أَبِي عَيَّاشٍ الزُّرَقِيِّ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، قَالَ ضَحَّى رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ يَوْمَ عِيدٍ بِكَبْشَيْنِ فَقَالَ حِينَ وَجَّهَهُمَا ‏ \"‏ إِنِّي وَجَّهْتُ وَجْهِيَ لِلَّذِي فَطَرَ السَّمَوَاتِ وَالأَرْضَ حَنِيفًا وَمَا أَنَا مِنَ الْمُشْرِكِينَ إِنَّ صَلاَتِي وَنُسُكِي وَمَحْيَاىَ وَمَمَاتِي لِلَّهِ رَبِّ الْعَالَمِينَ لاَ شَرِيكَ لَهُ وَبِذَلِكَ أُمِرْتُ وَأَنَا أَوَّلُ الْمُسْلِمِينَ اللَّهُمَّ مِنْكَ وَلَكَ عَنْ مُحَمَّدٍ وَأُمَّتِهِ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated that Jabir bin ‘Abdullah said:“The Messenger of Allah (ﷺ) sacrificed two rams on the Day of ‘Eid. When he turned them to face towards the prayer direction he said: ‘Verily, I have turned my face towards Him Who has created the heavens and the earth, as a monotheist, and I am not of the polytheists. Verily, my prayer, my sacrifice, my living, and my dying are for Allah, the Lord of all that exists. He has no partner. And of this I have been commanded, and I am the first of the Muslims. [6:79,162-163] O Allah, from You to You, on behalf of Muhammad and his nation.’”",
+          "ur": "جابر بن عبداللہ رضی اللہ عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے عید الاضحی کے دن دو مینڈھوں کی قربانی کی، اور جس وقت ان کا منہ قبلے کی طرف کیا تو فرمایا: «إني وجهت وجهي للذي فطر السموات والأرض حنيفا وما أنا من المشركين إن صلاتي ونسكي ومحياي ومماتي لله رب العالمين لا شريك له وبذلك أمرت وأنا أول المسلمين اللهم منك ولك عن محمد وأمته» میں اپنا رخ اس ذات کی طرف کرتا ہوں جس نے آسمانوں اور زمین کو پیدا کیا، اور میں شرک کرنے والوں میں سے نہیں ہوں، بیشک میری نماز، میری قربانی، میرا جینا اور مرنا سب اللہ ہی کے لیے ہے، جو سارے جہان کا رب ہے، اس کا کوئی شریک نہیں، اور مجھے اسی کا حکم ہے اور سب سے پہلے میں اس کے تابعداروں میں سے ہوں، اے اللہ! یہ قربانی تیری ہی طرف سے ہے، اور تیرے ہی واسطے ہے، محمد اور اس کی امت کی طرف سے اسے قبول فرما ۱؎۔",
+          "fr": "Rapporté par Jabir bin ‘Abdullah : Le Messager d’Allah (ﷺ) a sacrifié deux béliers le jour de l’Aïd. Quand il les a tournés vers la direction de la prière, il a dit : « En vérité, j’oriente mon visage vers Celui qui a créé les cieux et la terre, en pur monothéiste, et je ne suis pas du nombre des polythéistes. En vérité, ma prière, mon sacrifice, ma vie et ma mort sont pour Allah, le Seigneur de tout ce qui existe. Il n’a pas d’associé. Et c’est ce qui m’a été ordonné, et je suis le premier des musulmans. [6:79,162-163] Ô Allah, de Toi à Toi, de la part de Muhammad et de sa communauté. »",
+          "id": "Telah menceritakan kepada kami [Hisyam bin 'Ammar] telah menceritakan kepada kami [Isma'il bin 'Ayyasy] telah menceritakan kepada kami [Muhammad bin Ishaq] dari [Yazid bin Abu Habib] dari [Abu 'Ayyasy Az Zuraqi] dari [Jabir bin Abdullah] dia berkata, \"Rasulullah shallallahu 'alaihi wasallam menyembelih dua ekor kambing kurban pada waktu Idul Kurban. Saat menghadapkan keduanya beliau mengucapkan: \"Sesungguhnya Aku menghadapkan diriku kepada Rabb yang menciptakan langit dan bumi, dengan cenderung kepada agama yang benar, dan aku bukanlah termasuk orang-orang yang mempersekutukan Allah. Sesungguhnya shalatku, ibadatku, hidupku dan matiku hanyalah untuk Allah, Tuhan semesta alam. Tiada sekutu bagi-Nya; dan demikian Itulah yang diperintahkan kepadaku dan aku adalah orang yang pertama-tama menyerahkan diri (kepada Allah). Ya Allah (ini adalah) dari-Mu dan untuk-Mu, dari Muhammad dan ummatnya",
+          "tr": "Câbir bin AbdilUh (r.a.}'dan; Şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem) bir Kurban bayramı günün iki aded koç kurban etti ve onları kıbleye yönelttiği zaman şöyle dedi: «Ben bütün dinlerden yüz çevirip İbrâhîm'in dîni (yâni İslâmiyet) üzerinde olup müşriklerden olmadığım halde, gökleri ve yeri yaratan (Allah)'a şüphesiz tüm kalbimle yöneldim. Şüphesiz namazım, diğer bütün ibâdetlerim, hayatım ve ölümüm âlemlerin Rabbi olan Allah içindir. Hiçbir ortağı yoktur. Ben ancak bununla (yâni tevhîd ve ihlâsla) emrolundum ve ben müslumanların ilkiyim. Allahım (bu kurban) senden (bana bir nimet)dir ve Muhammed ile ümmeti (tarafın) dan sırf senin (rızan) içindir.»"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 26,
+        "hadith": 2
+      }
+    },
+    {
+      "hadithNumber": 3122,
+      "arabicNumber": 3122,
+      "book": 26,
+      "hadithInBook": 3,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَنْبَأَنَا سُفْيَانُ الثَّوْرِيُّ، عَنْ عَبْدِ اللَّهِ بْنِ مُحَمَّدِ بْنِ عَقِيلٍ، عَنْ أَبِي سَلَمَةَ، عَنْ عَائِشَةَ، وَعَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ كَانَ إِذَا أَرَادَ أَنْ يُضَحِّيَ اشْتَرَى كَبْشَيْنِ عَظِيمَيْنِ سَمِينَيْنِ أَقْرَنَيْنِ أَمْلَحَيْنِ مَوْجُوءَيْنِ فَذَبَحَ أَحَدَهُمَا عَنْ أُمَّتِهِ لِمَنْ شَهِدَ لِلَّهِ بِالتَّوْحِيدِ وَشَهِدَ لَهُ بِالْبَلاَغِ وَذَبَحَ الآخَرَ عَنْ مُحَمَّدٍ وَعَنْ آلِ مُحَمَّدٍ ـ صلى الله عليه وسلم ـ ‏.‏",
+        "translations": {
+          "en": "It was narrated from ‘Aishah and Abu Hurairah that when the Messenger of Allah (ﷺ) wanted to offer a sacrifice, he brought two large, fat, horned, black-and-white, castrated rams. He slaughtered one on behalf of his nation, for whoever testified to Allah with monotheism and that he had conveyed (the Message), and he slaughtered the other on behalf of Muhammad and the family of Muhammad (ﷺ)",
+          "ur": "ام المؤمنین عائشہ اور ابوہریرہ رضی اللہ عنہما سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم جب قربانی کا ارادہ فرماتے تو دو بڑے، موٹے سینگ دار، چتکبرے، خصی کئے ہوئے مینڈھے خریدتے، ان میں سے ایک اپنی امت کے ان لوگوں کی طرف سے ذبح فرماتے، جو اللہ کی توحید اور آپ صلی اللہ علیہ وسلم کی رسالت کی گواہی دیتے ہیں، اور دوسرا محمد اور آل محمد صلی اللہ علیہ وسلم کی طرف سے ذبح فرماتے۔",
+          "fr": "Rapporté par ‘Aishah et Abu Hurairah : Quand le Messager d’Allah (ﷺ) voulait offrir un sacrifice, il amenait deux grands béliers noirs et blancs, cornus et castrés. Il en sacrifiait un pour sa communauté, pour tous ceux qui témoignaient de l’unicité d’Allah et qu’il avait transmis le message, et il sacrifiait l’autre pour Muhammad et la famille de Muhammad (ﷺ)",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Yahya] telah menceritakan kepada kami [Abdurrazaq] telah memberitakan kepada kami [Sufyan Ats Tsauri] dari [Abdullah bin Muhammad bin 'Aqil] dari [Abu Salamah] dari [Aisyah] dan dari [Abu Hurairah], bahwa apabila Rasulullah shallallahu 'alaihi wasallam hendak melaksanakan kurban, maka beliau membeli dua ekor domba yang besar, gemuk, bertanduk dan berwarna belang (hitam dan putih). Kemudian beliau menyembelih salah satunya untuk umatnya yang telah bersaksi akan keesaan Allah dan bersaksi atas risalah beliau, lalu menyembelih yang satunya untuk Muhammad dan keluarga Muhammad shallallahu 'alaihi wasallam",
+          "tr": "Aişe ve Ebû Hureyre (r.a.)'dan; Şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem) Kurban bayramında kurban kesmek istediği zaman iri, semiz, çift boynuzlu, alaca ve taşakları burkulmuş iki aded koç alırdı. Bunlardan birisini Allah'ın birliğine şehâdetle, O'nun (yâni Nebi (Sallallahu Aleyhi ve Sellem)'in) elçiliğine şehâdet eden ümmeti yerine, diğerini de Hz, Muhammed ve Muhammed (Sallallahu Aleyhi ve Sellem)'in âl'ı (yani ailesi) yerine boğazlardı Not: Zevaid'de şöyle denilmiştir: Bunun senedinde Abdullah bin Muhammed bulunur. Bu ravi'nin güvenilirliği ihtilaflıdır"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 26,
+        "hadith": 3
+      }
+    },
+    {
+      "hadithNumber": 3123,
+      "arabicNumber": 3123,
+      "book": 26,
+      "hadithInBook": 4,
+      "text": {
+        "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا زَيْدُ بْنُ الْحُبَابِ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ عَيَّاشٍ، عَنْ عَبْدِ الرَّحْمَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ قَالَ ‏ \"‏ مَنْ كَانَ لَهُ سَعَةٌ وَلَمْ يُضَحِّ فَلاَ يَقْرَبَنَّ مُصَلاَّنَا ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated from Abu Hurairah that the Messenger of Allah (ﷺ) said:“Whoever can afford it, but does not offer a sacrifice, let him not come near our prayer place.”",
+          "ur": "ابوہریرہ رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: جس شخص کو ( قربانی کی ) وسعت ہو اور وہ قربانی نہ کرے، تو وہ ہماری عید گاہ کے قریب نہ پھٹکے ۔",
+          "fr": "Rapporté par Abu Hurairah : Le Messager d’Allah (ﷺ) a dit : « Celui qui en a les moyens mais n’offre pas de sacrifice, qu’il ne s’approche pas de notre lieu de prière. »",
+          "id": "Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Zaid bin Al Hubbab] telah menceritakan kepada kami [Abdullah bin 'Ayyasy] dari [Abdurrahman Al A'raj] dari [Abu Hurairah], bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: \"Barangsiapa memiliki keluasaan (untuk berkorban) namun tidak berkorban, maka janganlah ia mendekati tempat shalat kami",
+          "tr": "Ebû Hureyre (r.a.)'den rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurmuştur: «Varlıklı (mâlî durumu kurban kesmeye müsâid) olup da Kurban bayramında kurban kesmeyen kimse bizim musalla'mıza yaklaşmasın.» Not: Zevaid'de şöyle denilmiştir: Bunun senedinde Abdullah bin Ayyaş bulunur. Müslim bunun rivayetlerini almış ise de ancak mütaba' ve şevühid kısmında (yani başka ravilerle teyid edilmiş kısımda) ki rivayetlerini almış, diğerlerini almamıştır. Ebu Davud ve Nesai bu ravinin zayıf olduğunu söylemişlerdir. Ebu Hatim ise bunun çok doğru olduğunu söylemiştir. İbn-i Yunus ise bunun hadislerinin münker olduğunu söylemiştir. İbn-i Hibban ise bunu sıka, yani güvenilir raviler arasında anmıştır"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 26,
+        "hadith": 4
+      }
+    },
+    {
+      "hadithNumber": 3124,
+      "arabicNumber": 3124,
+      "book": 26,
+      "hadithInBook": 5,
+      "text": {
+        "arabic": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ، حَدَّثَنَا إِسْمَاعِيلُ بْنُ عَيَّاشٍ، حَدَّثَنَا ابْنُ عَوْنٍ، عَنْ مُحَمَّدِ بْنِ سِيرِينَ، قَالَ سَأَلْتُ ابْنَ عُمَرَ عَنِ الضَّحَايَا، أَوَاجِبَةٌ هِيَ قَالَ ضَحَّى رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ وَالْمُسْلِمُونَ مِنْ بَعْدِهِ وَجَرَتْ بِهِ السُّنَّةُ ‏.‏ حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ، حَدَّثَنَا إِسْمَاعِيلُ بْنُ عَيَّاشٍ، حَدَّثَنَا الْحَجَّاجُ بْنُ أَرْطَاةَ، حَدَّثَنَا جَبَلَةُ بْنُ سُحَيْمٍ، قَالَ سَأَلْتُ ابْنَ عُمَرَ ‏.‏ فَذَكَرَ مِثْلَهُ سَوَاءً ‏.‏",
+        "translations": {
+          "en": "It was narrated that Muhammad bin Sirin said:“I asked Ibn ‘Umar about sacrifices and whether they are obligatory. He said: ‘The Messenger of Allah (ﷺ) and the Muslims after him offered sacrifices, and this is the Sunnah.’” Another chain reports exactly the same",
+          "ur": "محمد بن سیرین کہتے ہیں کہ میں نے ابن عمر رضی اللہ عنہما سے پوچھا: کیا قربانی واجب ہے؟ تو جواب دیا کہ رسول اللہ صلی اللہ علیہ وسلم نے قربانی کی ہے، اور آپ کے بعد مسلمانوں نے کی ہے، اور یہ سنت جاری ہے۔",
+          "fr": "Rapporté par Muhammad bin Sirin : « J’ai demandé à Ibn ‘Umar au sujet des sacrifices et s’ils étaient obligatoires. Il a répondu : “Le Messager d’Allah (ﷺ) et les musulmans après lui ont offert des sacrifices, et c’est la Sunna.” » Un autre rapport donne exactement la même chose",
+          "id": "Telah menceritakan kepada kami [Hisyam bin 'Ammar] telah menceritakan kepada kami [Isma'il bin 'Ayyasy] telah menceritakan kepada kami [Ibnu 'Aun] dari [Muhammad bin Sirin] dia berkata, \"Saya bertanya [Ibnu Umar] mengenai kurban, apakah ia wajib?\" Ibnu Umar lalu menjawab, \"Rasulullah shallallahu 'alaihi wasallam dan orang-orang muslim setelahnya melaksanakan kurban, namun mereka memberlakukannya sebagai sunnah.\" Telah menceritakan kepada kami [Hisyam bin 'Ammar] telah menceritakan kepada kami [Isma'il bin 'Ayyasy] telah menceritakan kepada kami [Al Hajjaj bin Arthah] telah menceritakan kepada kami [Jabalah bin Suhaim] dia berkata, \"Saya bertanya [Ibnu Umar] …lalu dia menyebutkan hadits seperti di atas",
+          "tr": "Muhammed bin Sirin (r.a.)'den şöyle demiştir: Ben kurban bayramında kesilen kurbanlar vacipmidir? diye İbn-i Ömer (r.a.)'e soru sordum. İbn-i Ömer (r.a.) Resulullah (Sallallahu Aleyhi ve Sellem) Kurban bayramında kurban kesti. Ondan sonra da Müslümanlar kestiler ve sünnet kurban kesmekle cereyan etti, dedi. Cebele bin Suhaym (r.a.)'den rivayet edildiğine göre: Kendisi İbn-i Ömer (r.a.)'e (aynı şeyi) sormuş ve Muhammed bin Sirin'in rivayet ettiğinin aynısını rivayet etmiştir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 26,
+        "hadith": 5
+      }
+    },
+    {
+      "hadithNumber": 3125,
+      "arabicNumber": 3125,
+      "book": 26,
+      "hadithInBook": 6,
+      "text": {
+        "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا مُعَاذُ بْنُ مُعَاذٍ، عَنِ ابْنِ عَوْنٍ، قَالَ أَنْبَأَنَا أَبُو رَمْلَةَ، عَنْ مِخْنَفِ بْنِ سُلَيْمٍ، قَالَ كُنَّا وُقُوفًا عِنْدَ النَّبِيِّ ـ صلى الله عليه وسلم ـ بِعَرَفَةَ فَقَالَ ‏ \"‏ يَا أَيُّهَا النَّاسُ إِنَّ عَلَى كُلِّ أَهْلِ بَيْتٍ فِي كُلِّ عَامٍ أُضْحِيَّةً وَعَتِيرَةً ‏\"‏ ‏.‏ أَتَدْرُونَ مَا الْعَتِيرَةُ هِيَ الَّتِي يُسَمِّيهَا النَّاسُ الرَّجَبِيَّةَ ‏.‏",
+        "translations": {
+          "en": "It was narrated that Mikhnaf bin Sulaim said:“We were standing with the Prophet (ﷺ) at ‘Arafat and he said: ‘O people, each family, each year, must offer Udhiyah and ‘Atirah.’",
+          "ur": "مخنف بن سلیم رضی اللہ عنہ کہتے ہیں کہ ہم لوگ عرفہ کے دن رسول اللہ صلی اللہ علیہ وسلم کے پاس کھڑے تھے کہ اسی دوران آپ نے فرمایا: لوگو! ہر گھر والوں پر ہر سال ایک قربانی ۱؎ اور ایک «عتیرہ» ہے ، تم جانتے ہو کہ «عتیرہ» کیا ہے؟ یہ وہی ہے جسے لوگ «رجبیہ» کہتے ہیں ۔",
+          "fr": "Rapporté par Mikhnaf bin Sulaim : « Nous étions debout avec le Prophète (ﷺ) à ‘Arafat et il a dit : “Ô gens, chaque famille, chaque année, doit offrir l’Udhiyah et l’‘Atirah.” »",
+          "id": "Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Mu'adz bin Mu'adz] dari [Ibnu 'Aun] dia berkata; telah memberitakan kepada kami [Abu Ramlah] dari [Mikhnaf bin Sulaim] dia berkata, \"Kami sedang wukuf di Arafah di sisi Nabi shallallahu 'alaihi wasallam, lalu beliau bersabda: \"Wahai manusia, sesungguhnya wajib atas setiap keluarga untuk berkurban dan menyembelih hewan kurban setiap tahunnya, tahukah kalian apa yang dimaksud dengan menyembelih hewan? Itulah yang biasa disebut-sebut oleh orang-orang dengan sebutan Rajabiyah (menyembelih hewan pada bulan Rajab)",
+          "tr": "Mihnef bin Süleym (r.a.)'den; Şöyle demiştir: Biz (Veda haccında) Arafat'ta Nebi (Sallallahu Aleyhi ve Sellem)'in yanında duruyorduk. Şöyle buyurdu: «Ey insanlar! Şüphesiz, her yıl her ev halkı üzerinde bir udhiyye (Kurban bayramı günü kesilen kurban) ve bir atîre vardır. Atîre'nin ne olduğunu bilir misiniz? Atîre, halkın Recebiyye ismini verdikleri (kurban) dır.»"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 26,
+        "hadith": 6
+      }
+    },
+    {
+      "hadithNumber": 3126,
+      "arabicNumber": 3126,
+      "book": 26,
+      "hadithInBook": 7,
+      "text": {
+        "arabic": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ إِبْرَاهِيمَ الدِّمَشْقِيُّ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ نَافِعٍ، حَدَّثَنِي أَبُو الْمُثَنَّى، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، أَنَّ النَّبِيَّ ـ صلى الله عليه وسلم ـ قَالَ ‏ \"‏ مَا عَمِلَ ابْنُ آدَمَ يَوْمَ النَّحْرِ عَمَلاً أَحَبَّ إِلَى اللَّهِ عَزَّ وَجَلَّ مِنْ هِرَاقَةِ دَمٍ وَإِنَّهُ لَيَأْتِي يَوْمَ الْقِيَامَةِ بِقُرُونِهَا وَأَظْلاَفِهَا وَأَشْعَارِهَا وَإِنَّ الدَّمَ لَيَقَعُ مِنَ اللَّهِ عَزَّ وَجَلَّ بِمَكَانٍ قَبْلَ أَنْ يَقَعَ عَلَى الأَرْضِ فَطِيبُوا بِهَا نَفْسًا ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated from ’Aishah that the Prophet (ﷺ) said:“The son of Adam does not do any deed on the Day of Sacrifice that is dearer to Allah than shedding blood. It will come on the Day of Resurrection with its horns and cloven hoofs and hair. Its blood is accepted by Allah before it reaches the ground. So be content when you do it.”",
+          "ur": "ام المؤمنین عائشہ رضی اللہ عنہا کہتی ہیں کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: یوم النحر ( دسویں ذی الحجہ ) کو ابن آدم کا کوئی بھی عمل اللہ تعالیٰ کے نزدیک خون بہانے سے زیادہ محبوب نہیں، اور قربانی کا جانور قیامت کے دن اپنی سینگ، کھر اور بالوں سمیت ( جوں کا توں ) آئے گا، اور بیشک زمین پر خون گرنے سے پہلے اللہ تعالیٰ کے نزدیک مقام پیدا کر لیتا ہے، پس اپنے دل کو قربانی سے خوش کرو ۱؎۔",
+          "fr": "Rapporté par ’Aishah : Le Prophète (ﷺ) a dit : « Le fils d’Adam ne fait aucune action le jour du sacrifice qui soit plus aimée d’Allah que de verser le sang (de l’animal). Il viendra au Jour de la Résurrection avec ses cornes, ses sabots fendus et ses poils. Son sang est accepté par Allah avant même de toucher le sol. Soyez donc satisfaits quand vous le faites. »",
+          "id": "Telah menceritakan kepada kami [Abdurrahman bin Ibrahim Ad Dimasyqi] telah menceritakan kepada kami [Abdullah bin Nafi'] telah menceritakan kepadaku [Abu Al Mutsanna] dari [Hisyam bin 'Urwah] dari [Ayahnya] dari [Aisyah], bahwa Nabi shallallahu 'alaihi wasallam bersabda: \"Tidak ada amalan yang dikerjakan anak Adam ketika hari (raya) kurban yang lebih dicintai oleh Allah Azza Wa Jalla dari mengalirkan darah, sesungguhnya pada hari kiamat ia akan datang dengan tanduk-tanduknya, kuku-kukunya dan bulu-bulunya. Dan sesungguhnya darah tersebut akan sampai kepada Allah Azza Wa Jalla sebelum jatuh ke tanah, maka perbaguslah jiwa kalian dengannya",
+          "tr": "Âişe (r.anha)'dan rivayet edildiğine göre; Nebi (Sallallahu Aleyhi ve Sellem) şöyle buyurmuştur: «Âdem oğlu Kurban bayramı günü kan akıtmaktan fazla Allah (Azze ve Celle) katında sevimli hiç bir amel işlememiştir. Şüphesiz o (yani kesilen kurban), kıyamet günü boynuzları, tırnakları ve kıllarıyla gelir. Şüphesiz kurbanın kanı da yere düşmeden önce, Allah (Azze ve Celle) katında kabul olunur. Artık (sevabı böyle olunca), gönülleriniz kurban (kesmek sebebi) ile (sıkıntılı değil) hoş olsun.»"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 26,
+        "hadith": 7
+      }
+    },
+    {
+      "hadithNumber": 3127,
+      "arabicNumber": 3127,
+      "book": 26,
+      "hadithInBook": 8,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ خَلَفٍ الْعَسْقَلاَنِيُّ، حَدَّثَنَا آدَمُ بْنُ أَبِي إِيَاسٍ، حَدَّثَنَا سَلاَّمُ بْنُ مِسْكِينٍ، حَدَّثَنَا عَائِذُ اللَّهِ، عَنْ أَبِي دَاوُدَ، عَنْ زَيْدِ بْنِ أَرْقَمَ، قَالَ قَالَ أَصْحَابُ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ يَا رَسُولَ اللَّهِ مَا هَذِهِ الأَضَاحِيُّ قَالَ ‏\"‏ سُنَّةُ أَبِيكُمْ إِبْرَاهِيمَ ‏\"‏ ‏.‏ قَالُوا فَمَا لَنَا فِيهَا يَا رَسُولَ اللَّهِ قَالَ ‏\"‏ بِكُلِّ شَعَرَةٍ حَسَنَةٌ ‏\"‏ ‏.‏ قَالُوا فَالصُّوفُ يَا رَسُولَ اللَّهِ قَالَ ‏\"‏ بِكُلِّ شَعَرَةٍ مِنَ الصُّوفِ حَسَنَةٌ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated that Zaid bin Arqam said:“The Companions of the Messenger of Allah (ﷺ) said: ‘O Messenger of Allah, what are these sacrifices?’ He said: ‘The Sunnah of your father Ibrahim.’ They said: ‘What is there for us in them, O Messenger of Allah?’ He said: ‘For every hair, one merit.’ They said: ‘What about wool, O Messenger of Allah?’ He said: ‘For every hair of wool, one merit.’”",
+          "ur": "زید بن ارقم رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم کے صحابہ نے عرض کیا: اللہ کے رسول! ان قربانیوں کی کیا حقیقت ہے؟ آپ صلی اللہ علیہ وسلم نے فرمایا: تمہارے والد ابراہیم علیہ السلام کی سنت ہے ، لوگوں نے عرض کیا: تو ہم کو اس میں کیا ملے گا؟ آپ صلی اللہ علیہ وسلم نے فرمایا: ہر بال کے بدلے ایک نیکی ملے گی لوگوں نے عرض کیا: اور بھیڑ میں اللہ کے رسول! آپ صلی اللہ علیہ وسلم نے فرمایا: بھیڑ میں ( بھی ) ہر بال کے بدلے ایک نیکی ہے ۔",
+          "fr": "Rapporté par Zaid bin Arqam : Les compagnons du Messager d’Allah (ﷺ) ont demandé : « Ô Messager d’Allah, que sont ces sacrifices ? » Il a répondu : « C’est la tradition de votre père Ibrahim. » Ils ont dit : « Qu’obtenons-nous grâce à eux, ô Messager d’Allah ? » Il a dit : « Pour chaque poil, une récompense. » Ils ont demandé : « Et pour la laine, ô Messager d’Allah ? » Il a dit : « Pour chaque poil de laine, une récompense. »",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Khalaf Al 'Asqalani] telah menceritakan kepada kami [Adam bin Abu Iyas] telah menceritakan kepada kami [Sallam bin Miskin] telah menceritakan kepada kami [A'idzullah] dari [Abu Daud] dari [Zaid bin Arqam] dia berkata, \"Para sahabat Rasulullah shallallahu 'alaihi wasallam bertanya, \"Wahai Rasulullah, apakah maksud dari hewan-hewan kurban seperti ini?\" beliau bersabda: \"Ini merupakan sunnah (ajaran) bapak kalian, Ibrahim.\" Mereka bertanya, \"Wahai Rasulullah, lantas apa yang akan kami dapatkan dengannya?\" beliau menjawab: \"Setiap rambut terdapat kebaikan.\" Mereka berkata, \"Bagaimana dengan bulu-bulunya wahai Rasulullah?\" beliau menjawab: \"Dari setiap rambut pada bulu-bulunya terdapat suatu kebaikan",
+          "tr": "Zeyd bin Erkam (r.a.)'den; Şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem)'in ashâb'i; Yâ Resûlallah! Şu udhiyyeler (yâni bayramda kesilen kurbanlar) nedir? dediler. Resûl-i Ekrem (Sallallahu Aleyhi ve Sellem): «Babanız İbrahim'in sünnetidir» diye cevab verdi. Sahâbîler: Peki. Kurbanlarda bizim için ne (sevab) var? Yâ Resûlallah, dediler. Resûl-i Ekrem (Sallallahu Aleyhi ve Sellem): «Her kıl'a karşılık bir hasene var» buyurdu. Sahâbîler: Ya yün (Yâni kesilen kurban koyun - kuzu olunca sevab nasıl) ? dediler. Resûl-i Ekrem (Sallallahu Aleyhi ve Sellem): «Yünden her taneye karşılık bir hasene (var) dır» buyurdu. Not: Zevaid'de şöyle denilmiştir: Bunun senedinde Ebu Davud bulunur. Bunun adı NÜley' bin el-Haris'dir. rivayetleri terkediImiştir ve hadis uydurmakla ith am edilmiştir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Very Daif"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Very Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Very Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 26,
+        "hadith": 8
+      }
+    },
+    {
+      "hadithNumber": 3128,
+      "arabicNumber": 3128,
+      "book": 26,
+      "hadithInBook": 9,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ نُمَيْرٍ، حَدَّثَنَا حَفْصُ بْنُ غِيَاثٍ، عَنْ جَعْفَرِ بْنِ مُحَمَّدٍ، عَنْ أَبِيهِ، عَنْ أَبِي سَعِيدٍ، قَالَ ضَحَّى رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ بِكَبْشٍ أَقْرَنَ فَحِيلٍ يَأْكُلُ فِي سَوَادٍ وَيَمْشِي فِي سَوَادٍ وَيَنْظُرُ فِي سَوَادٍ ‏.‏",
+        "translations": {
+          "en": "It was narrated that Abu Sa’eed said:“The Messenger of Allah (ﷺ) sacrificed a horned, defectless ram with a black stomach, black feet and black around its eyes.”",
+          "ur": "ابو سعید خدری رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے ایک ایسے مینڈھے کی قربانی کی جو سینگ دار نر تھا، اس کا منہ اور پیر کالے تھے، اور آنکھیں بھی کالی تھیں ( یعنی چتکبرا تھا ) ۔",
+          "fr": "Rapporté par Abu Sa’eed : Le Messager d’Allah (ﷺ) a sacrifié un bélier cornu, sans défaut, avec le ventre noir, les pattes noires et du noir autour des yeux",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair] telah menceritakan kepada kami [Hafsh bin Ghiyast] dari [Ja'far bin Muhammad] dari [Ayahnya] dari [Abu Sa'id] dia berkata, \"Rasulullah shallallahu 'alaihi wasallam berkurban dengan seekor kambing kibas pejantan (kuat) yang bertanduk dan sekitar mulutnya berwarna hitam, kaki-kakinya berwarna hitam dan di sekitar matanya juga berwarna hitam",
+          "tr": "Ebû Saîd(-i Hudrî) (r.a.)'den rivayet edildiğine göre: Nebi (Sallallahu Aleyhi ve Sellem), karnında, ayaklarında ve gözlerinde siyahlık bulunan, çift boynuzlu ve döl bir koç'u (kurban bayramında) kurban etti"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 26,
+        "hadith": 9
+      }
+    },
+    {
+      "hadithNumber": 3129,
+      "arabicNumber": 3129,
+      "book": 26,
+      "hadithInBook": 10,
+      "text": {
+        "arabic": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا مُحَمَّدُ بْنُ شُعَيْبٍ، أَخْبَرَنِي سَعِيدُ بْنُ عَبْدِ الْعَزِيزِ، حَدَّثَنَا يُونُسُ بْنُ مَيْسَرَةَ بْنِ حَلْبَسٍ، قَالَ خَرَجْنَا مَعَ أَبِي سَعِيدٍ الزُّرَقِيِّ - صَاحِبِ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ - إِلَى شِرَاءِ الضَّحَايَا ‏.‏ قَالَ يُونُسُ فَأَشَارَ أَبُو سَعِيدٍ إِلَى كَبْشٍ أَدْغَمَ لَيْسَ بِالْمُرْتَفِعِ وَلاَ الْمُتَّضِعِ فِي جِسْمِهِ فَقَالَ لِي اشْتَرِ لِي هَذَا ‏.‏ كَأَنَّهُ شَبَّهَهُ بِكَبْشِ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ ‏.‏",
+        "translations": {
+          "en": "Yunus bin Maisarah bin Halbas said:“I went out with Abu Sa’eed Az- Zuraqi, the Companion of the Messenger of Allah (ﷺ), to buy animals or sacrifice.” Yunus said: “Abu Sa’eed pointed to a ram that had some blackness around its ears and jaw, and was neither too big nor too small, and said to me: ‘Buy this one for them, as it seems to resemble the ram of the Messenger of Allah (ﷺ).’”",
+          "ur": "یونس بن میسرہ بن حلبس کہتے ہیں کہ میں صحابی رسول ابوسعید زرقی رضی اللہ عنہ کے ساتھ قربانی کے جانور خریدنے گیا، تو آپ نے ایک ایسے مینڈھے کی نشاندہی کی جس کی ٹھوڑی اور کانوں میں کچھ سیاہی تھی، اور وہ جسمانی طور پر نہ زیادہ بلند تھا، نہ ہی زیادہ پست، انہوں نے مجھ سے کہا: میرے لیے اسے خرید لو، شاید انہوں نے اس جانور کو رسول اللہ صلی اللہعلیہ وسلم کے مینڈھے کے مشابہ سمجھا ۱؎۔",
+          "fr": "Rapporté par Yunus bin Maisarah bin Halbas : « Je suis sorti avec Abu Sa’eed Az-Zuraqi, un Compagnon du Messager d’Allah (ﷺ), pour acheter des animaux ou pour le sacrifice. » Yunus a dit : « Abu Sa’eed a montré un bélier qui avait du noir autour des oreilles et de la mâchoire, qui n’était ni trop grand ni trop petit, et il m’a dit : “Achète celui-ci pour eux, car il ressemble au bélier du Messager d’Allah (ﷺ).” »",
+          "id": "Telah menceritakan kepada kami [Abdurrahman bin Ibrahim] telah menceritakan kepada kami [Muhammad bin Syu'aib] telah mengabarkan kepadaku [Sa'id bin Abdul Aziz] telah menceritakan kepada kami [Yunus bin Maisarah bin Halbas] dia berkata, \"Aku pergi bersama [Abu Sa'id Az Zuraqi] seorang sahabat Rasulullah shallallahu 'alaihi wasallam, untuk membeli beberapa hewan kurban.\" Yunus melanjutkan, \"Abu Sa'id lalu menunjuk ke arah seekor kambing kibas yang sedikit warna hitamnya, yang tidak tinggi dan tidak kurus badannya, lalu ia berkata kepadaku, 'Belikanlah saya yang seperti ini.' Sepertinya dia menyamakan dengan kibas Rasulullah shallallahu 'alaihi wasallam",
+          "tr": "Yunus bin Meysere bin Halbes (r.a.)'den; Şöyle demiştir: Ben Resulullah (Sallallahu Aleyhi ve Sellem)'in sahâbîlerinden Ebû Said-i Zurakî (r.a.)'ın beraberinde kurbanları almaya çıktım. Yûnus demiştir ki: Ebû Said, vücûtça ne iri ne de alçak olan siyah nişanlı bir koç'a işaret ederek bana dedi ki: Şu koç'u benim için satın al. (Yûnus elemiştir ki:) Bana öyle geliyor ki, Ebû Said o koç'u Resulullah (Sallallahu Aleyhi ve Sellem)'in (kurban ettiği) koç'a benzetti. Not: Zevaid'de, bunun senedinin sahih olduğu belirtilmiştir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 26,
+        "hadith": 10
+      }
+    },
+    {
+      "hadithNumber": 3130,
+      "arabicNumber": 3130,
+      "book": 26,
+      "hadithInBook": 11,
+      "text": {
+        "arabic": "حَدَّثَنَا الْعَبَّاسُ بْنُ عُثْمَانَ الدِّمَشْقِيُّ، حَدَّثَنَا الْوَلِيدُ بْنُ مُسْلِمٍ، حَدَّثَنَا أَبُو عَائِذٍ، أَنَّهُ سَمِعَ سُلَيْمَ بْنَ عَامِرٍ، يُحَدِّثُ عَنْ أَبِي أُمَامَةَ الْبَاهِلِيِّ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ قَالَ ‏ \"‏ خَيْرُ الْكَفَنِ الْحُلَّةُ وَخَيْرُ الضَّحَايَا الْكَبْشُ الأَقْرَنُ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated from Abu Umamah Al-Bahili that the Messenger of Allah (ﷺ) said:“The best of shrouds is a two piece Najrani garment and the best of sacrifices is a horned ram.”",
+          "ur": "ابوامامہ باہلی رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: بہترین کفن جوڑا ( تہبند اور چادر ) ہے، اور بہترین قربانی سینگ دار مینڈھا ہے ۔",
+          "fr": "Rapporté par Abu Umamah Al-Bahili : Le Messager d’Allah (ﷺ) a dit : « Le meilleur linceul est un vêtement Najrani en deux pièces, et le meilleur sacrifice est un bélier cornu. »",
+          "id": "Telah menceritakan kepada kami [Al 'Abbas bin Utsman Ad Dimasyqi] telah menceritakan kepada kami [Al Walid bin Muslim] telah menceritakan kepada kami [Abu A'idz] bahwa dia mendengar [Sulaim bin 'Amir] menceritakan dari [Abu Umamah Al Bahili], bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: \"Sebaik-baik kain kafan adalah hullah (kain yang lembut) dan sebaik-baik kurban adalah kambing kibasyang bertanduk",
+          "tr": "Ebû Ümâme el-Bâhili (r.a.)'den rivayet edildiğine yöre; Resulullah (Sallallahu Aleyhi ve Sellem) sjiiyle buyurmuştur: «Kefenin en hayırlısı hülle (yâni iki parçadan ibaret takım elbise) dir. Bayramda kesilen kurbanların en hayırlısı da iki boynuzlu koçtur.»"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sanad Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 26,
+        "hadith": 11
+      }
+    },
+    {
+      "hadithNumber": 3131,
+      "arabicNumber": 3131,
+      "book": 26,
+      "hadithInBook": 12,
+      "text": {
+        "arabic": "حَدَّثَنَا هَدِيَّةُ بْنُ عَبْدِ الْوَهَّابِ، أَنْبَأَنَا الْفَضْلُ بْنُ مُوسَى، أَنْبَأَنَا الْحُسَيْنُ بْنُ وَاقِدٍ، عَنْ عِلْبَاءَ بْنِ أَحْمَرَ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، قَالَ كُنَّا مَعَ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ فِي سَفَرٍ فَحَضَرَ الأَضْحَى فَاشْتَرَكْنَا فِي الْجَزُورِ عَنْ عَشَرَةٍ وَالَبَقَرَةِ عَنْ سَبْعَةٍ ‏.‏",
+        "translations": {
+          "en": "it was narrated that Ibn ‘Abbas said:“We were with the Messenger of Allah (ﷺ) on a journey, and the (day of) Al-Adha came. We (sacrificed) one camel on behalf of ten (people) and one cow on behalf of seven.”",
+          "ur": "عبداللہ بن عباس رضی اللہ عنہما کہتے ہیں کہ ہم رسول اللہ صلی اللہ علیہ وسلم کے ساتھ ایک سفر میں تھے کہ اتنے میں عید الاضحی آ گئی، تو ہم اونٹ میں دس آدمی، اور گائے میں سات آدمی شریک ہو گئے ۱؎۔",
+          "fr": "Rapporté par Ibn ‘Abbas : « Nous étions avec le Messager d’Allah (ﷺ) en voyage, et le jour de l’Aïd Al-Adha est arrivé. Nous avons sacrifié un chameau pour dix personnes et une vache pour sept. »",
+          "id": "Telah menceritakan kepada kami [Hadiyyah bin Abdul Wahhab] telah memberitakan kepada kami [Al Fadl bin Musa] telah memberitakan kepada kami [Al Husain bin Waqid] dari ['Ilba` bin Ahmar] dari [Ikrimah] dari [Ibnu Abbas] dia berkata, \"Kami bersama Rasulullah shallallahu 'alaihi wasallam dalam suatu perjalanan, kemudian beliau mendatangi hewan kurban (menyembelih). Maka kami turut berkurban dengan seekor unta betina untuk sepuluh orang dan seekor sapi untuk tujuh orang",
+          "tr": "İbn-i Abbâs (r.a.)'dan; Şöyle demiştir: Biz bir yolculukta Resulullah (Sallallahu Aleyhi ve Sellem)'in beraberinde idik. Kurban bayramı günü geldi. Devede on kişi ve sığırda yedi kişi olarak ortaklaştık (yâni kurbanları böylece kestik)"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 26,
+        "hadith": 12
+      }
+    },
+    {
+      "hadithNumber": 3132,
+      "arabicNumber": 3132,
+      "book": 26,
+      "hadithInBook": 13,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، عَنْ مَالِكِ بْنِ أَنَسٍ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرٍ، قَالَ نَحَرْنَا بِالْحُدَيْبِيَةِ مَعَ النَّبِيِّ ـ صلى الله عليه وسلم ـ الْبَدَنَةَ عَنْ سَبْعَةٍ وَالْبَقَرَةَ عَنْ سَبْعَةٍ ‏.‏",
+        "translations": {
+          "en": "It was narrated that Jabir said:“We offered sacrifices at Al- Hudaibiyah with the Prophet (ﷺ), a camel on behalf of seven (people) and a cow on behalf of seven.”",
+          "ur": "جابر رضی اللہ عنہ کہتے ہیں کہ ہم نے نبی اکرم صلی اللہ علیہ وسلم کے ساتھ حدیبیہ میں اونٹ کو سات آدمیوں کی طرف سے نحر کیا، اور گائے کو بھی سات آدمیوں کی طرف سے ۱؎۔",
+          "fr": "Rapporté par Jabir : « Nous avons offert des sacrifices à Al-Hudaibiyah avec le Prophète (ﷺ) : un chameau pour sept personnes et une vache pour sept. »",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Yahya] telah menceritakan kepada kami [Abdurrazaq] dari [Malik bin Anas] dari [Abu Az Zubair] dari [Jabir] dia berkata, \"Kami berkurban seekor unta untuk tujuh orang dan sapi juga untuk tujuh orang ketika berada di Hudaibiyyah",
+          "tr": "Câbir (bin Abdillah) (r.a.)'dan; Şöyle demiştir: Biz Hudeybiye (umresin) de Resulullah (Sallallahu Aleyhi ve Sellem)'in beraberinde iken, deveyi yedi kişi adına ve sığırı yedi kişi adına (kurban olarak) kestik"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 26,
+        "hadith": 13
+      }
+    },
+    {
+      "hadithNumber": 3133,
+      "arabicNumber": 3133,
+      "book": 26,
+      "hadithInBook": 14,
+      "text": {
+        "arabic": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا الْوَلِيدُ بْنُ مُسْلِمٍ، حَدَّثَنَا الأَوْزَاعِيُّ، عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ ذَبَحَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ عَمَّنِ اعْتَمَرَ مِنْ نِسَائِهِ فِي حَجَّةِ الْوَدَاعِ بَقَرَةً بَيْنَهُنَّ ‏.‏",
+        "translations": {
+          "en": "It was narrated that Abu Hurairah said:“The Messenger of Allah (ﷺ) slaughtered a cow on behalf of all his wives who had performed ‘Umrah, during the Farewell Pilgrimage.”",
+          "ur": "ابوہریرہ رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے حجۃ الوداع میں اپنی ان ساری بیویوں کی طرف سے جنہوں نے حجۃالوداع میں عمرہ کیا تھا، ایک ہی گائے ذبح کی ۱؎۔",
+          "fr": "Rapporté par Abu Hurairah : « Le Messager d’Allah (ﷺ) a sacrifié une vache pour toutes ses femmes qui avaient accompli la ‘Umrah, lors du Pèlerinage d’Adieu. »",
+          "id": "Telah menceritakan kepada kami [Abdurrahman bin Ibrahim] telah menceritakan kepada kami [Al Walid bin Muslim] telah menceritakan kepada kami [Al Auza'i] dari [Yahya bin Abu Katsir] dari [Abu Salamah] dari [Abu Hurairah] dia berkata, \"Rasulullah shallallahu 'alaihi wasallam menyembelih seekor sapi untuk isteri-isteri yang sedang menunaikan 'Umrah di waktu haji Wada",
+          "tr": "Ebû Hureyre (r.a.)'den rivayet edildiğine göre: Resulullah (Sallallahu Aleyhi ve Sellem) Veda haccında temettu eden zevceleri yerine aralarında (bölüşülmek üzere) bir sığır boğazladı"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 26,
+        "hadith": 14
+      }
+    },
+    {
+      "hadithNumber": 3134,
+      "arabicNumber": 3134,
+      "book": 26,
+      "hadithInBook": 15,
+      "text": {
+        "arabic": "حَدَّثَنَا هَنَّادُ بْنُ السَّرِيِّ، حَدَّثَنَا أَبُو بَكْرِ بْنُ عَيَّاشٍ، عَنْ عَمْرِو بْنِ مَيْمُونٍ، عَنْ أَبِي حَاضِرٍ الأَزْدِيِّ، عَنِ ابْنِ عَبَّاسٍ، قَالَ قَلَّتِ الإِبِلُ عَلَى عَهْدِ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ فَأَمَرَهُمْ أَنْ يَنْحَرُوا الْبَقَرَ ‏.‏",
+        "translations": {
+          "en": "It was narrated that Ibn ‘Abbas said:“Camels became scarce at the time of the Messenger of Allah (ﷺ), so he commanded them to sacrifice cows.”",
+          "ur": "عبداللہ بن عباس رضی اللہ عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم کے زمانہ میں اونٹ کم ہو گئے، تو آپ صلی اللہ علیہ وسلم نے انہیں گائے ذبح کرنے کا حکم دیا۔",
+          "fr": "Rapporté par Ibn ‘Abbas : « Les chameaux sont devenus rares à l’époque du Messager d’Allah (ﷺ), alors il a ordonné de sacrifier des vaches. »",
+          "id": "Telah menceritakan kepada kami [Hannad bin As Sarri] telah menceritakan kepada kami [Abu Bakar bin 'Ayyasy] dari ['Amru bin Maimun] dari [Abu Hadlir Al Azdi] dari [Ibnu Abbas] dia berkata, \"Saat jumlah unta terbatas pada zaman Rasulullah shallallahu 'alaihi wasallam, maka beliau memerintahkan mereka menyembelih sapi",
+          "tr": "İbn-i Abbâs (r.a.)'dan, Şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem) hayatta iken develer azaldı. Bunun üzerine sahâbîlere sığır kesmelerini emretti. Not: Zevaid'de şöyle denilmiştir: Bunun senedi sahih ve ravileri sıka. (güvenilir) zatlardır. Ravi Ebü Hadır'ın adı, Osman bin Hadır'dır"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 26,
+        "hadith": 15
+      }
+    },
+    {
+      "hadithNumber": 3135,
+      "arabicNumber": 3135,
+      "book": 26,
+      "hadithInBook": 16,
+      "text": {
+        "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ عَمْرِو بْنِ السَّرْحِ الْمِصْرِيُّ أَبُو طَاهِرٍ، أَنْبَأَنَا ابْنُ وَهْبٍ، أَنْبَأَنَا يُونُسُ، عَنِ ابْنِ شِهَابٍ، عَنْ عَمْرَةَ، عَنْ عَائِشَةَ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ نَحَرَ عَنْ آلِ مُحَمَّدٍ ـ صلى الله عليه وسلم ـ فِي حَجَّةِ الْوَدَاعِ بَقَرَةً وَاحِدَةً ‏.‏",
+        "translations": {
+          "en": "It was narrated from ‘Aishah that the Messenger of Allah (ﷺ) sacrificed one cow during the Farewell Pilgrimage on behalf of the family of Muhammad (ﷺ)",
+          "ur": "ام المؤمنین عائشہ رضی اللہ عنہا سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے حجۃ الوداع میں آل محمد کی طرف سے ایک گائے کی قربانی کی۔",
+          "fr": "Rapporté par ‘Aishah : Le Messager d’Allah (ﷺ) a sacrifié une vache lors du Pèlerinage d’Adieu pour la famille de Muhammad (ﷺ)",
+          "id": "Telah menceritakan kepada kami [Ahmad bin 'Amru bin As Sarh Al Mishri Abu Thahir] telah memberitakan kepada kami [Ibnu Wahb] telah memberitakan kepada kami [Yunus] dari [Ibnu Syihab] dari ['Amrah] dari [Asiyah], bahwa Rasulullah shallallahu 'alaihi wasallam menyembelih seekor sapi untuk keluarga Muhammad shallallahu 'alaihi wasallam saat melaksanakan haji wada",
+          "tr": "Aişe (r.anha)'dan rivayet edildiğine göre: Resulullah (Sallallahu Aleyhi ve Sellem), Veda haccında Muhammed (Sallallahu Aleyhi ve Sellem)'in Âl'ı (yâni eşleri) yerine tek bir sığır kurban etti"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 26,
+        "hadith": 16
+      }
+    },
+    {
+      "hadithNumber": 3136,
+      "arabicNumber": 3136,
+      "book": 26,
+      "hadithInBook": 17,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ مَعْمَرٍ، حَدَّثَنَا مُحَمَّدُ بْنُ بَكْرٍ الْبُرْسَانِيُّ، حَدَّثَنَا ابْنُ جُرَيْجٍ، قَالَ قَالَ عَطَاءٌ الْخُرَاسَانِيُّ عَنِ ابْنِ عَبَّاسٍ، أَنَّ النَّبِيَّ ـ صلى الله عليه وسلم ـ أَتَاهُ رَجُلٌ فَقَالَ إِنَّ عَلَىَّ بَدَنَةً وَأَنَا مُوسِرٌ بِهَا وَلاَ أَجِدُهَا فَأَشْتَرِيَهَا ‏.‏ فَأَمَرَهُ النَّبِيُّ ـ صلى الله عليه وسلم ـ أَنْ يَبْتَاعَ سَبْعَ شِيَاهٍ فَيَذْبَحَهُنَّ ‏.‏",
+        "translations": {
+          "en": "It was narrated from Ibn ‘Abbas that a man came to the Prophet (ﷺ) and said:“I have to offer a sacrifice and I can afford it, but I cannot find (a camel) to buy.” The Prophet (ﷺ) told him to buy seven sheep and slaughter them",
+          "ur": "عبداللہ بن عباس رضی اللہ عنہما سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم کی خدمت میں ایک شخص آیا، اور اس نے عرض کیا کہ میرے ذمہ ایک اونٹ کی ( قربانی ) ہے، اور میں اس کی استطاعت بھی رکھتا ہوں، لیکن اونٹ دستیاب نہیں کہ میں اسے خرید سکوں، تو نبی اکرم صلی اللہ علیہ وسلم نے اسے سات بکریاں خریدنے اور انہیں ذبح کرنے کا حکم دیا۔",
+          "fr": "Rapporté par Ibn ‘Abbas : Un homme est venu voir le Prophète (ﷺ) et a dit : « Je dois offrir un sacrifice et j’en ai les moyens, mais je ne trouve pas de chameau à acheter. » Le Prophète (ﷺ) lui a dit d’acheter sept moutons et de les sacrifier",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Ma'mar] telah menceritakan kepada kami [Muhammad bin Bakr Al Bursani] telah menceritakan kepada kami [Ibnu Juraij] dia berkata; ['Atha Al Khurasani] berkata dari [Ibnu Abbas], bahwa Nabi shallallahu 'alaihi wasallam didatangi oleh seorang laki-laki seraya berkata, \"Aku berkewajiban untuk menyembelih seekor unta dan aku mampu untuk membelinya, namun aku tidak bisa mendapatkannya?\" Nabi shallallahu 'alaihi wasallam lalu memerintahkannya untuk membeli tujuh ekor kambing dan menyembelihnya",
+          "tr": "İbn-i Abbâs (r.a.)'dan rivayet edildiğine göre bir adam Nebi (Salîallahu Aleyhi ve Sellem)'e gelerek: Benim boynumda bir deve (boğazlama borcu) var ve ben deve almak varlığına sahibim. Fakat deve bulamıyorum ki satın alayım, dedi. Bunun üzerine Nebi (Salîallahu Aleyhi ve Sellem) ona yedi davar satın alıp boğazlamasını emretti. Not: Zevaid'de şöyle denilmiştir: Bunun ravileri sahih hadis ri'ı.vileridir. Fakat Ata el-Hurasani, İbn-i Abbas (r.a.)'den hadis işitmemiştir. Bunu imam Ahmed, söylemiştir. Lakin şeyhimiz Ebu Zur'a: Bu ravinin İbn-i Abbas'tan rivayeli, Buhiri'nin Sahih'inde mevcuttur, demiştir. Yani bu durum, Ata'nın İbn-l Abbis'tan hadis işitmesine delalet eder. Zevaid yazarı: Rüvi İbn-i Cüreyc, tedlisçidir ve bu hadisi ari'ane ile rivayet etmiştir. Yahya bin Said el-Kattan da demiş kı: Ata. el-Hun\\sanl'den İbn-I Cüreyc'in rivayeti zayıftır. Çünkü bu, sadece İbn-l Cüreyc'jn yazıp Ata'ya isnad ettiği bir kitabtan ibarettir, diye bilgi verir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 26,
+        "hadith": 17
+      }
+    },
+    {
+      "hadithNumber": 3137,
+      "arabicNumber": 3137,
+      "book": 26,
+      "hadithInBook": 18,
+      "text": {
+        "arabic": "حَدَّثَنَا أَبُو كُرَيْبٍ، حَدَّثَنَا الْمُحَارِبِيُّ، وَعَبْدُ الرَّحِيمِ، عَنْ سُفْيَانَ الثَّوْرِيِّ، عَنْ سَعِيدِ بْنِ مَسْرُوقٍ، وَحَدَّثَنَا الْحُسَيْنُ بْنُ عَلِيٍّ، عَنْ زَائِدَةَ، عَنْ سَعِيدِ بْنِ مَسْرُوقٍ، عَنْ عَبَايَةَ بْنِ رِفَاعَةَ، عَنْ رَافِعِ بْنِ خَدِيجٍ، قَالَ كُنَّا مَعَ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ وَنَحْنُ بِذِي الْحُلَيْفَةِ مِنْ تِهَامَةَ فَأَصَبْنَا إِبِلاً وَغَنَمًا فَعَجِلَ الْقَوْمُ فَأَغْلَيْنَا الْقُدُورَ قَبْلَ أَنْ تُقْسَمَ فَأَتَانَا رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ فَأَمَرَ بِهَا فَأُكْفِئَتْ ثُمَّ عَدَلَ الْجَزُورَ بِعَشَرَةٍ مِنَ الْغَنَمِ ‏.‏",
+        "translations": {
+          "en": "It was narrated that Rafi’ bin Khadij said:“We were with the Messenger of Allah (ﷺ) in Dhul-Hulaifah in (the land of) Tihamah. We acquired sheep and camels and the people hastened to put cooking pots on the fires before they had been distributed. The Messenger of Allah (ﷺ) came to us and ordered that they be overturned,* then he made one camel equivalent to ten sheep.”",
+          "ur": "رافع بن خدیج رضی اللہ عنہ کہتے ہیں کہ ہم لوگ رسول اللہ صلی اللہ علیہ وسلم کے ساتھ تہامہ کے ذوالحلیفہ نامی جگہ میں تھے، ہم نے اونٹ اور بکریاں مال غنیمت میں پائیں، پھر لوگوں نے ( گوشت کاٹنے میں ) عجلت سے کام لیا، اور ہم نے ( مال غنیمت ) کی تقسیم سے پہلے ہی ہانڈیاں چڑھا دیں، پھر ہمارے پاس رسول اللہ صلی اللہ علیہ وسلم تشریف لائے، اور ہانڈیوں کو الٹ دینے کا حکم دیا، تو وہ الٹ دی گئیں، پھر آپ صلی اللہ علیہ وسلم نے ایک اونٹ کو دس بکریوں کے برابر ٹھہرایا ۱؎۔",
+          "fr": "Rapporté par Rafi’ bin Khadij : « Nous étions avec le Messager d’Allah (ﷺ) à Dhul-Hulaifah, dans la région de Tihamah. Nous avons acquis des moutons et des chameaux, et les gens se sont précipités pour mettre les marmites sur le feu avant que la distribution ne soit faite. Le Messager d’Allah (ﷺ) est venu vers nous et a ordonné de les renverser, puis il a considéré qu’un chameau équivalait à dix moutons. »",
+          "id": "Telah menceritakan kepada kami [Abu Kuraib] telah menceritakan kepada kami [Al Muharibi] dan [Abdurrahim] dari [Sufyan At Tsauri] dari [Sa'id bin Masruq] dan telah menceritakan kepada kami [Al Husain bin Ali] dari [Zaidah] dari [Sa'id bin Masruq] dari ['Abayah bin Rifa'ah] dari [Rafi' bin Khadij] dia berkata, \"Ketika kami bersama Rasulullah shallallahu 'alaihi wasallam di Dzul Khulaifah -bagian dari daerah Tihamah-, kami menangkap seekor unta dan kambing, maka orang-orang pun segera menyembelihnya dan menyalakan tungku api (untuk masak) sebelum dibagi-bagikan. Kemudian Rasulullah shallallahu 'alaihi wasallam mendatangi kami dan memerintahkan untuk menumpahkannya, maka periuk itu pun ditumpahkan. Kemudian beliau menyamakan (dalam pembagiannya) satu ekor unta dengan sepuluh kambing",
+          "tr": "Râfi' bin Hadîc (r.a.)'den; Şöyle demidir: Biz Resulullah (Sallallahu Aleyhi ve Sellem)'in beraberinde (Yemen'deki) Tihâme'nin Zu'l-Huleyfe de idik. O esnada (düşmana âit) bir sürü deve ve davarı ele geçirdik. Arkadaşlarımız (ın bir kısmı) acele etti ve (ganimet malı olan) bu hayvanlar henüz taksim edilmeden önce (hayvanlardan boğazlayıp etini) çömleklerde pişirmeye başladık. Sonra Resulullah (Sallallahu Aleyhi ve Sellem), yanımıza geldi de çömlekler O'nun emriyle ters çevrildi . Sonra (hayvanlar taksim edilirken) Resûl-i Ekrem deveyi on davara denk kıldı"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 26,
+        "hadith": 18
+      }
+    },
+    {
+      "hadithNumber": 3138,
+      "arabicNumber": 3138,
+      "book": 26,
+      "hadithInBook": 19,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ رُمْحٍ، أَنْبَأَنَا اللَّيْثُ بْنُ سَعْدٍ، عَنْ يَزِيدَ بْنِ أَبِي حَبِيبٍ، عَنْ أَبِي الْخَيْرِ، عَنْ عُقْبَةَ بْنِ عَامِرٍ الْجُهَنِيِّ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ أَعْطَاهُ غَنَمًا فَقَسَمَهَا عَلَى أَصْحَابِهِ ضَحَايَا فَبَقِيَ عَتُودٌ فَذَكَرَهُ لِرَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ فَقَالَ ‏ \"‏ ضَحِّ بِهِ أَنْتَ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated from ‘Uqbah bin ‘Amir Al-Juhani that the Messenger of Allah (ﷺ) gave him some sheep, and he distributed them among his Companions to be sacrificed. There remained an ‘Atud.* He mentioned that to the Messenger of Allah (ﷺ) and he said:“You sacrifice it yourself.”",
+          "ur": "عقبہ بن عامر جہنی رضی اللہ عنہ سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے انہیں بکریاں عنایت کیں، تو انہوں نے ان کو اپنے ساتھیوں میں قربانی کے لیے تقسیم کر دیا، ایک بکری کا بچہ بچ رہا، تو انہوں نے رسول اللہ صلی اللہ علیہ وسلم سے اس کا ذکر کیا، آپ صلی اللہ علیہ وسلم نے فرمایا: اس کی قربانی تم کر لو ۱؎۔",
+          "fr": "Rapporté par ‘Uqbah bin ‘Amir Al-Juhani : Le Messager d’Allah (ﷺ) lui a donné des moutons, et il les a distribués à ses Compagnons pour le sacrifice. Il restait un ‘Atud. Il en a parlé au Messager d’Allah (ﷺ) qui lui a dit : « Sacrifie-le toi-même. »",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Rumh] telah memberitakan kepada kami [Al Laits bin Sa'd] dari [Yazid bin Abu Habib] dari [Abu Al Khair] dari ['Uqbah bin 'Amir Al Juhani], bahwa Rasulullah shallallahu 'alaihi wasallam memberinya beberapa ekor kambing, lalu beliau membagi-bagikannya kepada para sahabat hingga tidak ada yang tersisa kecuali hanya seekor kambing yang masih muda. Kemudian hal itu diberitahukan kepada Rasulullah shallallahu 'alaihi wasallam, maka beliau bersabda: \"Berkurbanlah kamu dengan kambing itu",
+          "tr": "Ukbe bin Amir el-Cühenî (r.a.)'den rivayet edildiğine göre: Resulullah (Sallallahu Aleyhi ve Sellem), (sahâbîler arasında vekâleten taksim etmek üzere) kendisine bir mikdar (kurbanlık) davar vermiş. Kendisi de bunları kurbanlık olarak sahâbîlere taksim etmiş ve bir tane atûd (yâni ikinci yaşına basmış, kuvvetli keçi oğlağı) geri kalmıştı. Ukbe bunu Resulullah (Sallallahu Aleyhi ve Sellem)'e arz etmiş. Resulullah (Sallallahu Aleyhi ve Sellem) da: «Onu da sen kendine kurban et», buyurmuştur"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 26,
+        "hadith": 19
+      }
+    },
+    {
+      "hadithNumber": 3139,
+      "arabicNumber": 3139,
+      "book": 26,
+      "hadithInBook": 20,
+      "text": {
+        "arabic": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ إِبْرَاهِيمَ الدِّمَشْقِيُّ، حَدَّثَنَا أَنَسُ بْنُ عِيَاضٍ، حَدَّثَنِي مُحَمَّدُ بْنُ أَبِي يَحْيَى، - مَوْلَى الأَسْلَمِيِّينَ - عَنْ أُمِّهِ، قَالَتْ حَدَّثَتْنِي أُمُّ بِلاَلٍ بِنْتُ هِلاَلٍ، عَنْ أَبِيهَا، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ قَالَ ‏ \"‏ يَجُوزُ الْجَذَعُ مِنَ الضَّأْنِ أُضْحِيَّةً ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Umm Bilal bint Hilal narrated from her father that the Messenger of Allah (ﷺ) said:“It is permissible to offer a Jadha’a* among sheep as a sacrifice.”",
+          "ur": "ہلال اسلمی رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: بھیڑ کے ایک سالہ بچے کی قربانی جائز ہے ۱؎۔",
+          "fr": "Rapporté par Umm Bilal bint Hilal, de la part de son père : Le Messager d’Allah (ﷺ) a dit : « Il est permis d’offrir un Jadha’a parmi les moutons en sacrifice. »",
+          "id": "Telah menceritakan kepada kami [Abdurrahman bin Ibrahim Ad Dimasyqi] telah menceritakan kepada kami [Anas bin 'Iyadl] telah menceritakan kepadaku [Muhammad bin Abu Yahya] bekas budak Al Aslamiyyiin, dari [ibunya] dia berkata, telah menceritakan kepadaku [Ummu Bilal binti Hilal] dari [Ayahnya], bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: \"Al Jad'u (kambing yang berusia enam bulan hingga satu tahun) dari seekor kambing boleh digunakan untuk berkurban",
+          "tr": "Ümmü Bilâl bint-i Hilâl'in babası (r.a.)'dan rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurmuştur: «Koyun nevinden ceza' (yâni altı ayını doldurmuş ve bir yılını doldurandan farksız, kuvvetli kuzun) un bayram kurbanı olması caizdir.» Not: Sindi şöyle demiştir: Bu hadis Zevaid nevindendir. Zevaid kitabında bunun senedinin durumuna değinilmemiştir. Ed-Dümeyri: İbn-i Hazm demiş ki: Bu hadis sakıttır. Çünkü Muhammed bin Ebi Yahya'nın anası mechuldür. Bilal'ın anası da mechüldür., şahabi olup olmadığı bilinmiyor, der. Sindi daha sonra şöyle der: İbn-i Hazm böyle demiştir. İlk sözünde isabet etmiş ise de ikinci sözünde hata etmiştir. Çünkü ibrd Müneddeh, Ebu Nuaym ve İbn-i Abdilber, Bilal'ın anasını sahabiler arasında anmışlardır. Sonra Zehebi, el-Mizan'da, Bilal'ıri anasının tanınmadığını, fakat el-İcli onu sıka saydığını söylemiştir. Zevaid yazarı, bu hadisin aslının Ebu Davud ile Tirmizi'nin sünenlerinde mevcut olduğunu ve senedinin sahih olduğunu ifade etmiştir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 26,
+        "hadith": 20
+      }
+    },
+    {
+      "hadithNumber": 3140,
+      "arabicNumber": 3140,
+      "book": 26,
+      "hadithInBook": 21,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَنْبَأَنَا الثَّوْرِيُّ، عَنْ عَاصِمِ بْنِ كُلَيْبٍ، عَنْ أَبِيهِ، قَالَ كُنَّا مَعَ رَجُلٍ مِنْ أَصْحَابِ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ يُقَالُ لَهُ مُجَاشِعٌ مِنْ بَنِي سُلَيْمٍ فَعَزَّتِ الْغَنَمُ فَأَمَرَ مُنَادِيًا فَنَادَى أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ كَانَ يَقُولُ ‏ \"‏ إِنَّ الْجَذَعَ يُوفِي مِمَّا تُوفِي مِنْهُ الثَّنِيَّةُ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated from ‘Asim bin Kulaib that his father said:“We were with a man from among the Companions of the Messenger of Allah (ﷺ) who was called Mujashi’, from Banu Sulaim, and sheep became scarce. He ordered a caller to call out that the Messenger of Allah (ﷺ) used to say: ‘A Jadha’a suffices for whatever a two-year-old sheep suffices.’”",
+          "ur": "کلیب کہتے ہیں کہ ہم لوگ رسول اللہ صلی اللہ علیہ وسلم کے اصحاب میں سے بنی سلیم کے مجاشع نامی ایک شخص کے ساتھ تھے، بکریوں کی قلت ہو گئی، تو انہوں نے ایک منادی کو حکم دیا، جس نے پکار کر کہا کہ رسول اللہ صلی اللہ علیہ وسلم فرماتے تھے: ( قربانی کے لیے ) بھیڑ کا ایک سالہ بچہ دانتی بکری کی جگہ پر کافی ہے ۔",
+          "fr": "Rapporté par ‘Asim bin Kulaib, de la part de son père : « Nous étions avec un homme parmi les Compagnons du Messager d’Allah (ﷺ), appelé Mujashi’, de Banu Sulaim, et les moutons sont devenus rares. Il a ordonné à quelqu’un d’annoncer que le Messager d’Allah (ﷺ) disait : “Un Jadha’a suffit là où un mouton de deux ans suffit.” »",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Yahya] telah menceritakan kepada kami [Abdurrazaq] telah memberitakan kepada kami [Ats Tsauri] dari ['Ashim bin Kulaib] dari [Ayahnya] dia berkata, \"Kami bersama dengan salah seorang dari sahabat Nabi shallallahu 'alaihi wasallam yang dikenal dengan [Mujasyi'] dari Bani Sulaim, saat kambing sangat sulit didapat maka ia memerintahkan seseorang untuk berseru, \"Sesungguhnya Rasulullah shallallahu 'alaihi wasallam bersabda: \"Sesungguhnya al Jadza' dapat menggantikan kambing yang berumur dua tahun",
+          "tr": "Âsim bin Kuleyb'in babası (Kuleyb bin Şihâb) (r.a.)'dan: Şöyle demiştir: Biz, Resulullah (Sallallahu Aleyhi ve Sellem)'in sahâbüerinden, Süleym oğullarından Müşâcf isimli bir zât ile beraber idik. (O esnada) davarlar az idi. Bunun üzerine Müşâci' bir adama emretti. Adam (da halka) şu duyuruyu yaptı: Resulullah (Sallallahu Aleyhi ve Sellem): Seniyye'nin (yâni iki yaşına basmış koyunun) yettiği şeye, ceza'ın (yâni altı ayını doldurup bir yaşını tamamlayandan farksız görülen kuvvetli kuzunun) yettiğini buyuruyordu"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 26,
+        "hadith": 21
+      }
+    },
+    {
+      "hadithNumber": 3141,
+      "arabicNumber": 3141,
+      "book": 26,
+      "hadithInBook": 22,
+      "text": {
+        "arabic": "حَدَّثَنَا هَارُونُ بْنُ حَيَّانَ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ عَبْدِ اللَّهِ، أَنْبَأَنَا زُهَيْرٌ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرٍ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏ \"‏ لاَ تَذْبَحُوا إِلاَّ مُسِنَّةً إِلاَّ أَنْ يَعْسُرَ عَلَيْكُمْ فَتَذْبَحُوا جَذَعَةً مِنَ الضَّأْنِ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated from Jabir that the Messenger of Allah (ﷺ) said:‘Do not slaughter anything but a Musinnah,* unless there is none available, in which case you can slaughter a Jadha’a among sheep.”",
+          "ur": "جابر رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: صرف مسنہ ( دانتا جانور ) ذبح کرو، البتہ جب وہ تم پر دشوار ہو تو بھیڑ کا جذعہ ( ایک سالہ بچہ ) ذبح کرو ۱؎۔",
+          "fr": "Rapporté par Jabir : Le Messager d’Allah (ﷺ) a dit : « Ne sacrifiez qu’un Musinnah, sauf si vous n’en trouvez pas, alors vous pouvez sacrifier un Jadha’a parmi les moutons. »",
+          "id": "Telah menceritakan kepada kami [Harun bin Hayyan] telah menceritakan kepada kami [Abdurrahman bin Abdullah] telah memberitakan kepada kami [Zuhair] dari [Abu Az Zubair] dari [Jabir] dia berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Janganlah kalian menyembelih kecuali Musinnah (kambing yang telah berusia dua tahun), kecuali jika kalian kesulitan mendapatkannya, maka sembelihlah kambing jadza'ah",
+          "tr": "Câbir (bin Abdillah) (r.a.)'dân rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir; «Siz (kurban olarak) yalnız müsinne (yâni yaşça büyük hayvanı) kesiniz. Meğer ki, (bulamamaktan dolayı) bunu kesmek size güç ola. O takdirde koyun nevinden cezaa (yâni altı ayını doldurup bir yılını doldurandan farksız ve kuvvetli görülen kuzu) kesebilirsiniz.»"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 26,
+        "hadith": 22
+      }
+    },
+    {
+      "hadithNumber": 3142,
+      "arabicNumber": 3142,
+      "book": 26,
+      "hadithInBook": 23,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الصَّبَّاحِ، حَدَّثَنَا أَبُو بَكْرِ بْنُ عَيَّاشٍ، عَنْ أَبِي إِسْحَاقَ، عَنْ شُرَيْحِ بْنِ النُّعْمَانِ، عَنْ عَلِيٍّ، قَالَ نَهَى رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ أَنْ يُضَحَّى بِمُقَابَلَةٍ أَوْ مُدَابَرَةٍ أَوْ شَرْقَاءَ أَوْ خَرْقَاءَ أَوْ جَدْعَاءَ ‏.‏",
+        "translations": {
+          "en": "It was narrated that ‘Ali said:“The Messenger of Allah (ﷺ) forbade sacrificing the Muqabalah, the Mudabarah, the Sharqa’, the Kharqa’ and the Jad’a’.”",
+          "ur": "علی رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے ایسے جانور کی قربانی سے منع فرمایا جس کا کان آگے سے یا پیچھے سے کٹا ہو، یا وہ پھٹا ہو یا اس میں گول سوراخ ہو، یا ناک کان اور ہونٹ میں سے کوئی عضو کٹا ہو۔",
+          "fr": "Rapporté par ‘Ali : Le Messager d’Allah (ﷺ) a interdit de sacrifier le Muqabalah, le Mudabarah, le Sharqa’, le Kharqa’ et le Jad’a’. »",
+          "id": "Telah menceritakan kepada kami [Muhammad bin As Shabah] telah menceritakan kepada kami [Abu Bakar bin 'Ayyasy] dari [Abu Ishaq] dari [Syuraih bin An Nu'man] dari [Ali] dia berkata, \"Rasulullah shallallahu 'alaihi wasallam melarang menyembelih hewan kurban yang ujung telinganya terpotong, pangkal telinganya terpotong, telinganya terbelah, kharqa` (yang telinganya dibakar sebagai tanda) atau Jad'a` (hewan telinga atau hidungnya terpotong)",
+          "tr": "Ali (r.a.)'den rivayet edildiğine göre: Resulullah (Sallallahu Aleyhi ve Sellem), kulağının ön kısmı kesilen veya kulağının arka kısmı kesilen veya kulağı uzunlamasına yarılıp ikiye bölünen, ya da kulağı delinen veya burnu kesilen hayvanı bayramda kurban etmeyi yasaklamıştır"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 26,
+        "hadith": 23
+      }
+    },
+    {
+      "hadithNumber": 3143,
+      "arabicNumber": 3143,
+      "book": 26,
+      "hadithInBook": 24,
+      "text": {
+        "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا وَكِيعٌ، حَدَّثَنَا سُفْيَانُ، عَنْ سَلَمَةَ بْنِ كُهَيْلٍ، عَنْ حُجَيَّةَ بْنِ عَدِيٍّ، عَنْ عَلِيٍّ، قَالَ أَمَرَنَا رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ أَنْ نَسْتَشْرِفَ الْعَيْنَ وَالأُذُنَ ‏.‏",
+        "translations": {
+          "en": "It was narrated that ‘Ali said:“The Messenger of Allah (ﷺ) commanded us to examine the eyes and ears.”",
+          "ur": "علی رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے ہمیں حکم دیا کہ ( قربانی کے جانور ) کی آنکھ اور کان غور سے دیکھ لیں ( آیا وہ سلامت ہیں یا نہیں ) ۔",
+          "fr": "Rapporté par ‘Ali : Le Messager d’Allah (ﷺ) nous a ordonné d’examiner les yeux et les oreilles",
+          "id": "Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Waki'] telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari [Salamah bin Kuhail] dari [Hujjayah bin 'Adi] dari [Ali] dia berkata, \"Rasulullah shallallahu 'alaihi wasallam memerintahkan kami supaya meneliti mata dan telinga (hewan kurban)",
+          "tr": "Ali (r.a.)'den; Şöyle demiştir; Resulullah (Sallallahu Aleyhi ve Sellem), bize (kurban edeceğimiz) hayvanın gözüne ve kulağına iyice bakıp incelememizi emretti"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 26,
+        "hadith": 24
+      }
+    },
+    {
+      "hadithNumber": 3144,
+      "arabicNumber": 3144,
+      "book": 26,
+      "hadithInBook": 25,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، وَمُحَمَّدُ بْنُ جَعْفَرٍ، وَعَبْدُ الرَّحْمَنِ، وَأَبُو دَاوُدَ وَابْنُ أَبِي عَدِيٍّ وَأَبُو الْوَلِيدِ قَالُوا حَدَّثَنَا شُعْبَةُ، سَمِعْتُ سُلَيْمَانَ بْنَ عَبْدِ الرَّحْمَنِ، قَالَ سَمِعْتُ عُبَيْدَ بْنَ فَيْرُوزَ، قَالَ قُلْتُ لِلْبَرَاءِ بْنِ عَازِبٍ حَدِّثْنِي بِمَا، كَرِهَ أَوْ نَهَى عَنْهُ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ مِنَ الأَضَاحِيِّ ‏.‏ فَقَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ هَكَذَا بِيَدِهِ وَيَدِي أَقْصَرُ مِنْ يَدِهِ ‏ \"‏ أَرْبَعٌ لاَ تُجْزِئُ فِي الأَضَاحِيِّ الْعَوْرَاءُ الْبَيِّنُ عَوَرُهَا وَالْمَرِيضَةُ الْبَيِّنُ مَرَضُهَا وَالْعَرْجَاءُ الْبَيِّنُ ظَلْعُهَا وَالْكَسِيرَةُ الَّتِي لاَ تُنْقِي ‏\"‏ ‏.‏ قَالَ فَإِنِّي أَكْرَهُ أَنْ يَكُونَ نَقْصٌ فِي الأُذُنِ ‏.‏ قَالَ فَمَا كَرِهْتَ مِنْهُ فَدَعْهُ وَلاَ تُحَرِّمْهُ عَلَى أَحَدٍ ‏.‏",
+        "translations": {
+          "en": "Sulaiman bin ‘Abdur-Rahman said:“I heard ‘Ubaid bin Fairuz say: ‘I said to Bara’ bin ‘Azib: “Tell us of the sacrificial animals that the Messenger of Allah (ﷺ) disliked or forbade.” He said: “Allah’s Messenger (ﷺ) said like this with his hand. And my hand is shorter than his hand:* ‘There are four that will not be accepted as sacrifices: The one-eyed animal that is obviously blind in one eye; the sick animal that is obviously sick; the lame animal with an obvious limp; and the animal that is so emaciated that it is as if there is no marrow in its bones.’” He said:** “And I dislike that the animal should have some fault in its ears.” He said: “What you dislike, forget about it and do not make it forbidden to anyone.”",
+          "ur": "عبید بن فیروز کہتے ہیں کہ میں نے براء بن عازب رضی اللہ عنہما سے عرض کیا: مجھ سے قربانی کے ان جانوروں کو بیان کیجئیے جنہیں رسول اللہ صلی اللہ علیہ وسلم نے ناپسند فرمایا، یا منع کیا ہے؟ تو براء بن عازب رضی اللہ عنہما نے کہا: رسول اللہ صلی اللہ علیہ وسلم نے اپنے ہاتھ سے اس طرح اشارہ کرتے ہوئے ( جب کہ میرا ہاتھ آپ کے ہاتھ سے چھوٹا ہے ) فرمایا: چار قسم کے جانوروں کی قربانی درست نہیں: ایک کانا جس کا کانا پن واضح ہو، دوسرے بیمار جس کی بیماری عیاں اور ظاہر ہو، تیسرے لنگڑا جس کا لنگڑا پن نمایاں ہو، چوتھا ایسا لاغر اور دبلا پتلا جس کی ہڈیوں میں گودا نہ ہو ۱؎۔ عبید نے کہا: میں اس جانور کو بھی مکروہ جانتا ہوں جس کے کان میں نقص ہو تو براء رضی اللہ عنہ نے کہا: جسے تم ناپسند کرو اسے چھوڑ دو، لیکن دوسروں پر اسے حرام نہ کرو ۔",
+          "fr": "Rapporté par Sulaiman bin ‘Abdur-Rahman : « J’ai entendu ‘Ubaid bin Fairuz dire : ‘J’ai dit à Bara’ bin ‘Azib : “Parle-nous des animaux de sacrifice que le Messager d’Allah (ﷺ) n’aimait pas ou a interdits.” Il a dit : Le Messager d’Allah (ﷺ) a fait ce geste avec sa main. Et ma main est plus courte que la sienne : “Il y a quatre animaux qui ne sont pas acceptés en sacrifice : l’animal borgne qui est clairement aveugle d’un œil ; l’animal malade dont la maladie est évidente ; l’animal boiteux qui boite clairement ; et l’animal si maigre qu’on dirait qu’il n’a pas de moelle dans les os.”’ Il a ajouté : “Et je n’aime pas que l’animal ait un défaut à l’oreille.” Il a dit : “Ce que tu n’aimes pas, laisse-le de côté et ne l’interdis à personne.” »",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada kami [Yahya bin Sa'id] dan [Muhammad bin Ja'far] dan [Abdurrahman] dan [Abu Daud] dan [Ibnu Abu 'Adi] dan [Abu Al Walid] mereka berkata; telah menceritakan kepada kami [Syu'bah] saya mendengar [Sulaiman bin Abdurrahman] berkata; saya mendengar ['Ubaid bin Fairuz] berkata, \"Saya berkata kepada [Al Barra` bin 'Azib], \"Bacakanlah kepadaku hadits tentang apa yang dibenci atau dilarang oleh Rasulullah shallallahu 'alaihi wasallam dari hewan kurban! \" Al Barra` menjawab, \"Rasulullah shallallahu 'alaihi wasallam bersabda seperti ini -sambil memperagakan dengan tangannya, dan tanganku lebih pendek dari tangan beliau- beliau katakan: \"Empat jenis yang tidak bisa dijadikan hewan kurban; hewan yang matanya buta sebelah dan kebutaannya itu nampak jelas, hewan yang jelas-jelas sakit, yang jelas-jelas pincangnya dan yang patah sumsumnya.\" Al Barra` berkata, \"Aku sungguh membenci hewan yang cacat pada telinganya.\" Dia berkata, \"Apa yang kamu benci tinggalkanlah dan janganlah kamu mengharamkannya kepada siapa pun juga",
+          "tr": "Ubeyd bin Feyruz (r.a.)'den; Şöyle demiştir: Ben, Berâ bin Âzib (r.a.)'a: Resulullah (Sallallahu Aleyhi ve Sellem)'in hoş görmediği veya yasakladığı kurbanlıkları bana anlat, dedim. Bunun üzerine Berâ, şöyle dedi: Resulullah (Sallallahu Aleyhi ve Sellem) eliyle (dört sayısını) şöyle işaret etti. Benim elim O'nun elinden kısadır ve şöyle buyurdu: «Dört hayvan vardır ki kurban olamaz: Bir gözünün görmediği apaçık belli tek gözlü hayvan, hastalığı besbelli hasta hayvan, topallığı açıkça görülen topal hayvan ve kemiklerinde ilik kalmamış derecede zayıf olan hayvan.» Ubeyd bin Feyrûz (Berâ'a): Ben kurbanlık hayvan'ın kulağında bir eksiklik olmasından hoşlanmam, demiş. Berâ (da buna cevaben): Sen (kurbanlık olmasından) hoşlanmadığın (hayvan)ı bırak. Fakat onu hiç kimseye yasaklama, demiştir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 26,
+        "hadith": 25
+      }
+    },
+    {
+      "hadithNumber": 3145,
+      "arabicNumber": 3145,
+      "book": 26,
+      "hadithInBook": 26,
+      "text": {
+        "arabic": "حَدَّثَنَا حُمَيْدُ بْنُ مَسْعَدَةَ، حَدَّثَنَا خَالِدُ بْنُ الْحَارِثِ، حَدَّثَنَا سَعِيدٌ، عَنْ قَتَادَةَ، أَنَّهُ ذَكَرَ أَنَّهُ سَمِعَ جُرَىَّ بْنَ كُلَيْبٍ، يُحَدِّثُ أَنَّهُ سَمِعَ عَلِيًّا، يُحَدِّثُ أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ نَهَى أَنْ يُضَحَّى بِأَعْضَبِ الْقَرْنِ وَالأُذُنِ ‏.‏",
+        "translations": {
+          "en": "It was narrated from Qatadah that he said that he heard Juray bin Kulaib narrate that he heard ‘Ali narrate that the Messenger of Allah (ﷺ) forbade sacrificing animals with broken horns and ears",
+          "ur": "علی رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے سینگ ٹوٹے اور کن کٹے جانور کی قربانی سے منع فرمایا ہے ۱؎۔",
+          "fr": "Rapporté par Qatadah, qui a entendu Juray bin Kulaib rapporter qu’il a entendu ‘Ali dire : Le Messager d’Allah (ﷺ) a interdit de sacrifier des animaux ayant les cornes ou les oreilles cassées",
+          "id": "Telah menceritakan kepada kami [Humaid bin Mas'adah] telah menceritakan kepada kami [Khalid bin Al Harits] telah menceritakan kepada kami [Sa'id] dari [Qatadah] dia menyebutkan bahwa dirinya pernah mendengar [Jurayya bin Kulaib] menceritakan bahwa dia mendengar [Ali] menceritakan, bahwa Rasulullah shallallahu 'alaihi wasallam melarang berkurban dengan hewan yang tanduk dan telinganya terpotong (cacat)",
+          "tr": "Alî (r.a.)'den rivayet edildiğine göre: Resulullah (Sallallahu Aleyhi ve Sellem), boynuzunun veya kulağının yarısından fazlası kesilmiş olan hayvanı kurban etmeyi yasaklamıştır"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 26,
+        "hadith": 26
+      }
+    },
+    {
+      "hadithNumber": 3146,
+      "arabicNumber": 3146,
+      "book": 26,
+      "hadithInBook": 27,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى، وَمُحَمَّدُ بْنُ عَبْدِ الْمَلِكِ أَبُو بَكْرٍ، قَالاَ حَدَّثَنَا عَبْدُ الرَّزَّاقِ، عَنِ الثَّوْرِيِّ، عَنْ جَابِرِ بْنِ يَزِيدَ، عَنْ مُحَمَّدِ بْنِ قَرَظَةَ الأَنْصَارِيِّ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، قَالَ ابْتَعْنَا كَبْشًا نُضَحِّي بِهِ فَأَصَابَ الذِّئْبُ مِنْ أَلْيَتِهِ أَوْ أُذُنِهِ فَسَأَلْنَا النَّبِيَّ ـ صلى الله عليه وسلم ـ فَأَمَرَنَا أَنْ نُضَحِّيَ بِهِ ‏.‏",
+        "translations": {
+          "en": "It was narrated that Abu Sa’eed Al-Khudri said:“We bought a ram for sacrifice, then a wolf tore some flesh from its rump and ears. We asked the Prophet (ﷺ) and he told us to offer it as a sacrifice.”",
+          "ur": "ابو سعید خدری رضی اللہ عنہ کہتے ہیں کہ ہم نے قربانی کے لیے ایک مینڈھا خریدا، پھر بھیڑئیے نے اس کے سرین یا کان کو زخمی کر دیا، ہم نے نبی اکرم صلی اللہ علیہ وسلم سے ( اس سلسلے میں ) سوال کیا، تو آپ صلی اللہ علیہ وسلم نے ہمیں حکم دیا کہ ہم اسی کی قربانی کریں۔",
+          "fr": "Rapporté par Abu Sa’eed Al-Khudri : « Nous avons acheté un bélier pour le sacrifice, puis un loup a arraché de la chair à sa croupe et à ses oreilles. Nous avons demandé au Prophète (ﷺ) et il nous a dit de l’offrir en sacrifice. »",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Yahya] dan [Muhammad bin Abdul Malik Abu Bakr] keduanya berkata; telah menceritakan kepada kami [Abdurrazaq] dari [Ats Tsauri] dari [Jabir bin Yazid] dari [Muhammad bin Qarazhah Al Anshari] dari [Abu Sa'id Al Khudri] dia berkata, \"Kami membeli kambing untuk berkurban, lantas ada seekor serigala yang memakan ekor kambing tersebut atau telinganya, maka kami bertanya kepada Nabi shallallahu 'alaihi wasallam, beliau pun memerintahkan supaya kami menyembelihnya (berkurban dengannya)",
+          "tr": "Ebû Saîd-i Hudrî (r.a.)'den; Şöyle demiştir: Biz kurban etmek üzere bir koç satın aldık. Sonra kurt onun kuyruğundan (veya butundan) ya da kulağından bir parça kaptı. Biz durumu Nebi (Sallallahu Aleyhi ve Sellem)'e sorduk. Resûl-i Ekrem (Sallallahu Aleyhi ve Sellem), onu kurban etmemizi emretti. Not: Zevaid'de şöyle denilmiştir: Bunun senedinde Cabir el-Ca'fi bulunur. Bu ravi, zayıftır, hadis uydurmakla itham edilmiştir. Ed-Dümeyri'nin dediğine göre İbn-i Hazm demiş ki: Bu, bir eserdir, senedinde Cabir el-Ca'n vardır. Bu ravi, kezzab'tır (yani çok yalancıdır)"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Very Daif Isnaad"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Very Daif Isnaad"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 26,
+        "hadith": 27
+      }
+    },
+    {
+      "hadithNumber": 3147,
+      "arabicNumber": 3147,
+      "book": 26,
+      "hadithInBook": 28,
+      "text": {
+        "arabic": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا ابْنُ أَبِي فُدَيْكٍ، حَدَّثَنِي الضَّحَّاكُ بْنُ عُثْمَانَ، عَنْ عُمَارَةَ بْنِ عَبْدِ اللَّهِ بْنِ صَيَّادٍ، عَنْ عَطَاءِ بْنِ يَسَارٍ، قَالَ سَأَلْتُ أَبَا أَيُّوبَ الأَنْصَارِيَّ كَيْفَ كَانَتِ الضَّحَايَا فِيكُمْ عَلَى عَهْدِ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ قَالَ كَانَ الرَّجُلُ فِي عَهْدِ النَّبِيِّ ـ صلى الله عليه وسلم ـ يُضَحِّي بِالشَّاةِ عَنْهُ وَعَنْ أَهْلِ بَيْتِهِ فَيَأْكُلُونَ وَيُطْعِمُونَ ثُمَّ تَبَاهَى النَّاسُ فَصَارَ كَمَا تَرَى ‏.‏",
+        "translations": {
+          "en": "It was narrated that ‘Ata’ bin Yasar said:“I asked Abu Ayyub Al- Ansari: ‘How were sacrifices offered among you at the time of the Messenger of Allah (ﷺ)?’ He said: ‘At the time of the Prophet (ﷺ), a man would sacrifice a sheep on behalf of himself and the members of his household, and they would eat some of it and give some to others. Then people started to compete and it because as you see (nowadays).’”",
+          "ur": "عطا بن یسار کہتے ہیں کہ میں نے ابوایوب انصاری رضی اللہ عنہ سے پوچھا کہ رسول اللہ صلی اللہ علیہ وسلم کے زمانے میں آپ لوگوں کی قربانیاں کیسی ہوتی تھیں؟ تو انہوں نے کہا کہ آپ صلی اللہ علیہ وسلم کے زمانے میں آدمی اپنے اور اپنے گھر والوں کی طرف سے ایک بکری قربانی کرتا تھا تو اسے سارے گھر والے کھاتے اور لوگوں کو کھلاتے، پھر لوگ فخر و مباہات کرنے لگے، تو معاملہ ایسا ہو گیا جو تم دیکھ رہے ہو۔",
+          "fr": "Rapporté par ‘Ata’ bin Yasar : « J’ai demandé à Abu Ayyub Al-Ansari : “Comment faisiez-vous le sacrifice à l’époque du Messager d’Allah (ﷺ) ?” Il a répondu : “À l’époque du Prophète (ﷺ), un homme sacrifiait un mouton pour lui-même et les membres de sa famille, ils en mangeaient et en donnaient aux autres. Ensuite, les gens ont commencé à rivaliser et c’est devenu comme tu le vois aujourd’hui.” »",
+          "id": "Telah menceritakan kepada kami [Abdurrahman bin Ibrahim] telah menceritakan kepada kami [Ibnu Abu Fudaik] telah menceritakan kepadaku [Adl Dlahak bin Utsman] dari ['Umarah bin Abdullah bin Shayyad] dari ['Atha bin Yasar] dia berkata, \"Saya bertanya kepada [Abu Ayyub Al Anshari], \"Bagaimanakah dengan hewan kurban kalian pada masa Rasulullah shallallahu 'alaihi wasallam?\" dia menjawab, \"Pada masa Nabi shallallahu 'alaihi wasallam, seseorang berkurban dengan seekor kambing untuk dirinya sendiri dan keluarganya, lalu mereka memakan (sebagiannya) dan memberi makan kepada orang lain sehingga orang-orang pun bergembira karenanya. Dan hal itu terus berlanjut sebagaimana yang kamu lihat seperti saat ini",
+          "tr": "Ata bin Yesâr (r.a.)'den; Şöyle demiştir: Ben Ebû Eyyûb el-Ensâri (r.a.)'a: Resulullah (Sallallahu Aleyhi ve Sellem), hayatta iken sizde (sayı bakımından) bayram kurbanları nasıl idi? diye sordum. Ebû Eyyûb (r.a.): Nebi (Sallallahu Aleyhi ve Sellemî, hayatta iken adam kendisi ve ev halkı için bir aded davan bayramda kurban ederdi, (ve ondan) yiyerlerdi, yedirirlerdi. (O devirden) sonra halk (çok sayıda kurban kesmekle) iftihar etmeye başladı ve durum gördüğün hale dönüştü, dedi"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 26,
+        "hadith": 28
+      }
+    },
+    {
+      "hadithNumber": 3148,
+      "arabicNumber": 3148,
+      "book": 26,
+      "hadithInBook": 29,
+      "text": {
+        "arabic": "حَدَّثَنَا إِسْحَاقُ بْنُ مَنْصُورٍ، أَنْبَأَنَا عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ، وَمُحَمَّدُ بْنُ يُوسُفَ، ح وَحَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، جَمِيعًا عَنْ سُفْيَانَ الثَّوْرِيِّ، عَنْ بَيَانٍ، عَنِ الشَّعْبِيِّ، عَنْ أَبِي سَرِيحَةَ، قَالَ حَمَلَنِي أَهْلِي عَلَى الْجَفَاءِ بَعْدَمَا عَلِمْتُ مِنَ السُّنَّةِ كَانَ أَهْلُ الْبَيْتِ يُضَحُّونَ بِالشَّاةِ وَالشَّاتَيْنِ وَالآنَ يُبَخِّلُنَا جِيرَانُنَا ‏.‏",
+        "translations": {
+          "en": "It was narrated that Abu Sarihah said:“My family started to put pressure on me after I came to know the Sunnah. People used to sacrifice one or two sheep, but now our neighbors call us stingy.”",
+          "ur": "ابوسریحہ کہتے ہیں کہ سنت کا طریقہ معلوم ہو جانے کے بعد بھی ہمارے اہل نے ہمیں زیادتی پر مجبور کیا، حال یہ تھا کہ ایک گھر والے ایک یا دو بکریوں کی قربانی کرتے تھے، اور اب ( اگر ہم ایسا کرتے ہیں ) تو ہمارے ہمسائے ہمیں بخیل کہتے ہیں ۱؎۔",
+          "fr": "Rapporté par Abu Sarihah : « Ma famille a commencé à me mettre la pression après que j’ai appris la Sunna. Les gens sacrifiaient un ou deux moutons, mais maintenant nos voisins nous traitent de radins. »",
+          "id": "Telah menceritakan kepada kami [Ishaq bin Manshur] telah memberitakan kepada kami [Abdurrahman bin Mahdi] dan [Muhammad bin Yusuf]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Muhammad bin Yahya] telah menceritakan kepada kami [Abdurrazaq] semuanya dari [Sufyan Ats Tsauri] dari [Bayan] dari [As Sya'bi] dari [Abu Sarihah] dia berkata, \"Keluargaku membuatku marah setelah kuketahui sunnah bahwa ahlul bait berkurban dengan satu atau dua kambing, dan sekarang tetangga kami menganggap bahwa kami adalah orang yang bakhil",
+          "tr": "Ebû Serîha (Huzeyfe bin Esîd (r.a.)'den; Şöyle demiştir: Ben sünneti bildikten sonra ev halkım beni (çok sayıda kurban kesmeye) zorladılar. Ev halkı bir davarı veya iki davarı bayramda kurban ederlerdi. Şimdi (bir veya iki davarı kurban etmekle yetinirsek) komşularımız bizi cimrilikle itham ederler. Not: Zevaid'de şöyle denilmiştir: Bunun senedi sahih ve ravileri sıka (güvenilir) zatlardır"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 26,
+        "hadith": 29
+      }
+    },
+    {
+      "hadithNumber": 3149,
+      "arabicNumber": 3149,
+      "book": 26,
+      "hadithInBook": 30,
+      "text": {
+        "arabic": "حَدَّثَنَا هَارُونُ بْنُ عَبْدِ اللَّهِ الْحَمَّالُ، حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ حُمَيْدِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، عَنْ أُمِّ سَلَمَةَ، أَنَّ النَّبِيَّ ـ صلى الله عليه وسلم ـ قَالَ ‏ \"‏ إِذَا دَخَلَ الْعَشْرُ وَأَرَادَ أَحَدُكُمْ أَنْ يُضَحِّيَ فَلاَ يَمَسَّ مِنْ شَعَرِهِ وَلاَ بَشَرِهِ شَيْئًا ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated from Umm Salamah that the Prophet (ﷺ) said:“When the ten days (of Dhul-Hijjah) begin, and one of you wants to offer a sacrifice, let him not remove anything from his hair or skin.”",
+          "ur": "ام المؤمنین ام سلمہ رضی اللہ عنہا کہتی ہیں کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: جب ذی الحجہ کا پہلا عشرہ شروع ہو جائے اور تم میں کا کوئی قربانی کا ارادہ رکھتا ہو، تو اسے اپنے بال اور اپنی کھال سے کچھ نہیں چھونا چاہیئے ۱؎۔",
+          "fr": "Rapporté par Umm Salamah : Le Prophète (ﷺ) a dit : « Quand les dix jours (de Dhul-Hijjah) commencent, et que l’un de vous veut offrir un sacrifice, qu’il ne retire rien de ses cheveux ni de sa peau. »",
+          "id": "Telah menceritakan kepada kami [Harun bin Abdullah Al Hammal] telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari [Abdurrahman bin Humaid bin Abdurrahman bin 'Auf] dari [Sa'id bin Al Musayyab] dari [Ummu Salamah], bahwa Nabi shallallahu 'alaihi wasallam bersabda: \"Jika telah masuk tanggal sepuluh (Dzul Hijjah), dan salah seorang dari kalian ingin berkurban, maka janganlah ia menyentuh rambut dan kulitnya (hewan kurban yang hendak disembelih) sedikitpun",
+          "tr": "Ümmü Seleme (r.anha)'dan rivayet edildiğine göre; Nebi (Sallallahu Aleyhi ve Seliem) şöyle buyurmuştur: «Zilhicce ayının ilk on günü girip de biriniz bayramda kurban kesmek istediği zaman artık (kurbanını kesinceye kadar) kendi vücûdunun kıllarından ve derisinden hiç bir şeye dokunmasın.»"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 26,
+        "hadith": 30
+      }
+    },
+    {
+      "hadithNumber": 3150,
+      "arabicNumber": 3150,
+      "book": 26,
+      "hadithInBook": 31,
+      "text": {
+        "arabic": "حَدَّثَنَا حَاتِمُ بْنُ بَكْرٍ الضَّبِّيُّ أَبُو عَمْرٍو، حَدَّثَنَا مُحَمَّدُ بْنُ بَكْرٍ الْبُرْسَانِيُّ، ح وَحَدَّثَنَا مُحَمَّدُ بْنُ سَعِيدِ بْنِ يَزِيدَ بْنِ إِبْرَاهِيمَ، حَدَّثَنَا أَبُو قُتَيْبَةَ، وَيَحْيَى بْنُ كَثِيرٍ، قَالُوا حَدَّثَنَا شُعْبَةُ، عَنْ مَالِكِ بْنِ أَنَسٍ، عَنْ عَمْرِو بْنِ مُسْلِمٍ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، عَنْ أُمِّ سَلَمَةَ، قَالَتْ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏ \"‏ مَنْ رَأَى مِنْكُمْ هِلاَلَ ذِي الْحِجَّةِ فَأَرَادَ أَنْ يُضَحِّيَ فَلاَ يَقْرَبَنَّ لَهُ شَعَرًا وَلاَ ظُفْرًا ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated from Umm Salamah that the Messenger of Allah (ﷺ) said:“Whoever among you sees the new crescent of Dhul-Hijjah and wants to offer a sacrifice, let him not take anything from his hair or nails.”",
+          "ur": "ام المؤمنین ام سلمہ رضی اللہ عنہا کہتی ہیں کہ رسول اللہ صلیاللہ علیہ وسلم نے فرمایا: جو شخص ذی الحجہ کا چاند دیکھے، اور قربانی کا ارادہ رکھتا ہو تو وہ اپنے بال اور ناخن کے قریب نہ پھٹکے ۔",
+          "fr": "Rapporté par Umm Salamah : Le Messager d’Allah (ﷺ) a dit : « Celui d’entre vous qui voit le nouveau croissant de Dhul-Hijjah et veut offrir un sacrifice, qu’il ne coupe rien de ses cheveux ni de ses ongles. »",
+          "id": "Telah menceritakan kepada kami [Hatim bin Bakr Ad Dlabbi Abu 'Amru] telah menceritakan kepada kami [Muhammad bin Bakr Al Bursani]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Muhammad bin Sa'id bin Yazid bin Ibrahim] telah menceritakan kepada kami [Abu Qutaibah] dan [Yahya bin Katsir] mereka berkata; telah menceritakan kepada kami [Syu'bah] dari [Malik bin Anas] dari ['Amru bin Muslim] dari [Sa'id bin Musayyab] dari [Ummu Salamah] dia berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Barangsiapa salah seorang dari kalian melihat hilal di bulan Dzul Hijjah dan ia hendak berkurban, maka hendaknya ia tidak mendekati rambut dan kukunya",
+          "tr": "Ümmü Seleme (r.anha)'dan rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: «Sizden kim Zilhicce ayının hilâlini görüp de bayramda kurban kesmek isterse artık (kurbanını kesinceye kadar) vücudundaki kıllara ve tırnaklara yaklaşmasın.»"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 26,
+        "hadith": 31
+      }
+    },
+    {
+      "hadithNumber": 3151,
+      "arabicNumber": 3151,
+      "book": 26,
+      "hadithInBook": 32,
+      "text": {
+        "arabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا إِسْمَاعِيلُ ابْنُ عُلَيَّةَ، عَنْ أَيُّوبَ، عَنْ مُحَمَّدِ بْنِ سِيرِينَ، عَنْ أَنَسِ بْنِ مَالِكٍ، أَنَّ رَجُلاً، ذَبَحَ يَوْمَ النَّحْرِ قَبْلَ الصَّلاَةِ فَأَمَرَهُ النَّبِيُّ ـ صلى الله عليه وسلم ـ أَنْ يُعِيدَ ‏.‏",
+        "translations": {
+          "en": "It was narrated from Anas bin Malik that a man slaughtered on the Day of Sacrifice, (meaning) before the ‘Eid prayer, and the Prophet (ﷺ) ordered him to do it again",
+          "ur": "انس بن مالک رضی اللہ عنہ کہتے ہیں کہ ایک شخص نے قربانی کے دن قربانی کر لی یعنی نماز عید سے پہلے تو نبی اکرم صلی اللہ علیہ وسلم نے اسے دوبارہ قربانی کرنے کا حکم دیا ۱؎۔",
+          "fr": "Rapporté par Anas bin Malik : Un homme a égorgé (son animal) le jour du sacrifice, c’est-à-dire avant la prière de l’Aïd, et le Prophète (ﷺ) lui a ordonné de recommencer",
+          "id": "Telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepada kami [Isma'il bin 'Ulayyah] dari [Ayyub] dari [Muhammad bin Sirin] dari [Anas bin Malik], bahwa pada hari raya kurban seorang laki-laki menyembelih hewan kurbannya sebelum shalat, maka Nabi shallallahu 'alaihi wasallam memerintahkan kepadanya untuk mengulangi kurbannya",
+          "tr": "Enes bin Mâlik (r.a.)'den rivayet edildiğine göre: Bir adam kurban bayramının ilk günü, yâni bayram namazından önce kurban kesti. Sonra Nebi (Sallallahu Aleyhi ve Sellem), ona (kurban kesmeyi) iade etmesini (yâni yeniden kurban kesmesini) emretti"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 26,
+        "hadith": 32
+      }
+    },
+    {
+      "hadithNumber": 3152,
+      "arabicNumber": 3152,
+      "book": 26,
+      "hadithInBook": 33,
+      "text": {
+        "arabic": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ، حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنِ الأَسْوَدِ بْنِ قَيْسٍ، عَنْ جُنْدَبٍ الْبَجَلِيِّ، أَنَّهُ سَمِعَهُ يَقُولُ شَهِدْتُ الأَضْحَى مَعَ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ فَذَبَحَ أُنَاسٌ قَبْلَ الصَّلاَةِ فَقَالَ النَّبِيُّ ـ صلى الله عليه وسلم ـ ‏ \"‏ مَنْ كَانَ ذَبَحَ مِنْكُمْ قَبْلَ الصَّلاَةِ فَلْيُعِدْ أُضْحِيَّتَهُ وَمَنْ لاَ فَلْيَذْبَحْ عَلَى اسْمِ اللَّهِ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated from Aswad bin Qais that he heard Jundub Al-Bajali say:“I was present on Adha day with the Messenger of Allah (ﷺ), and some people slaughtered before the prayer. The Prophet (ﷺ) said: ‘Whoever among you has slaughtered before the prayer, let him repeat his sacrifice, and whoever has not, let him offer his sacrifice in the Name of Allah.’”",
+          "ur": "جندب بجلی رضی اللہ عنہ کہتے ہیں کہ میں عید الاضحی میں رسول اللہ صلی اللہ علیہ وسلم کے ساتھ موجود تھا، کچھ لوگوں نے نماز عید سے پہلے قربانی کر لی، نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: جس نے نماز عید سے پہلے ذبح کیا ہو وہ دوبارہ قربانی کرے، اور جس نے نہ ذبح کیا ہو وہ اللہ کے نام پر ذبح کرے ۔",
+          "fr": "Rapporté par Aswad bin Qais, qui a entendu Jundub Al-Bajali dire : « J’étais présent le jour de l’Adha avec le Messager d’Allah (ﷺ), et certaines personnes ont sacrifié avant la prière. Le Prophète (ﷺ) a dit : “Celui d’entre vous qui a sacrifié avant la prière, qu’il recommence son sacrifice, et celui qui ne l’a pas encore fait, qu’il offre son sacrifice au nom d’Allah.” »",
+          "id": "Telah menceritakan kepada kami [Hisyam bin 'Ammar] telah menceritakan kepada kami [Sufyan bin Uyainah] dari [Al Aswad bin Qais] dari [Jundub Al Bajjali] bahwa dia mendengar darinya berkata, \"Saya menyaksikan penyembelihan kurban bersama Rasulullah shallallahu 'alaihi wasallam, dan orang-orang menyembelih sebelum shalat. Maka Nabi shallallahu 'alaihi wasallam bersabda: \"Barangsiapa di antara kalian menyembelih sebelum shalat hendaknya ia mengulangi kurbannya, dan barangsiapa belum menyembelih hendaknya menyembelih dengan menyebut nama Allah",
+          "tr": "Cündeb (bin Abdillah bin Süfyân) el-Becelî (r.a.)'den; Şöyle demiştir: Ben Kurban bayramının ilk günü Resulullah (Sallallahu Aleyhi ve Sellem)'in beraberinde idim. Bâzı kimseler kurbanlarını bayram namazından önce kestiler. Bunun üzerine Nebi (Sallallahu Aleyhi ve Sellem) şöyle buyurdu: «Sizden kim kurbanını bayram namazından önce kestiyse kurbanını iade etsin (yani yeniden kurban kessin). Kim de henüz kesmemiş ise Bismillah diyerek kessin.»"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 26,
+        "hadith": 33
+      }
+    },
+    {
+      "hadithNumber": 3153,
+      "arabicNumber": 3153,
+      "book": 26,
+      "hadithInBook": 34,
+      "text": {
+        "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا أَبُو خَالِدٍ الأَحْمَرُ، عَنْ يَحْيَى بْنِ سَعِيدٍ، عَنْ عَبَّادِ بْنِ تَمِيمٍ، عَنْ عُوَيْمِرِ بْنِ أَشْقَرَ، أَنَّهُ ذَبَحَ قَبْلَ الصَّلاَةِ فَذَكَرَهُ لِلنَّبِيِّ ـ صلى الله عليه وسلم ـ فَقَالَ ‏ \"‏ أَعِدْ أُضْحِيَّتَكَ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated from ‘Uwaimir bin Ashqar that he slaughtered before the prayer, and he mentioned that to the Prophet (ﷺ) who said:“Repeat your sacrifice.”",
+          "ur": "عویمر بن اشقر رضی اللہ عنہ کہتے کہ انہوں نے نماز عید سے پہلے قربانی کر لی، پھر نبی اکرم صلی اللہ علیہ وسلم سے اس کا ذکر کیا تو آپ صلی اللہ علیہ وسلم نے فرمایا: اپنی قربانی دوبارہ کرو ۔",
+          "fr": "Rapporté par ‘Uwaimir bin Ashqar : Il a sacrifié avant la prière, et il en a parlé au Prophète (ﷺ) qui lui a dit : « Recommence ton sacrifice. »",
+          "id": "Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Abu Khalid Al Ahmar] dari [Yahya bin Sa'id] dari ['Abbad bin Tamim] dari ['Uwaimir bin Asyqar], bahwa dia menyembelih kurbannya sebelum shalat (ied), lantas hal itu diberitahukan kepada Nabi shallallahu 'alaihi wasallam hingga beliau pun bersabda: \"Ulangilah kurbanmu itu",
+          "tr": "Uveymir bin Eşkar (r.a.)'dea rivayet edildiğine göre kendisi kurbanını bayram namazından önce kesmiş, sonra durumu Nebi (Sallallahu Aleyhi ve Sellem)'e arzetmiş. Bunun üzerine Nebi (Sallallahu Aleyhi ve Sellem): «Tekrar kurban kes» buyurmuştur. Not: Zevaid'de şöyle denilmiştir: Bunun ravlleri sıka. (güvenilir) kimselerdir. Fakat sened munkati (kesik)dir. Çünkü el-Harız bin Hacer, Abbad bin Temim'in Uveymir bin Eşkar'den hadIs işitmediğini söylemiştir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 26,
+        "hadith": 34
+      }
+    },
+    {
+      "hadithNumber": 3154,
+      "arabicNumber": 3154,
+      "book": 26,
+      "hadithInBook": 35,
+      "text": {
+        "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَبْدُ الأَعْلَى، عَنْ خَالِدٍ الْحَذَّاءِ، عَنْ أَبِي قِلاَبَةَ، عَنْ أَبِي زَيْدٍ، - قَالَ أَبُو بَكْرٍ وَقَالَ غَيْرُ عَبْدِ الأَعْلَى عَنْ عَمْرِو بْنِ بُجْدَانَ، عَنْ أَبِي زَيْدٍ، - ح وَحَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى أَبُو مُوسَى، حَدَّثَنَا عَبْدُ الصَّمَدِ بْنُ عَبْدِ الْوَارِثِ، حَدَّثَنَا أَبِي، عَنْ خَالِدٍ الْحَذَّاءِ، عَنْ أَبِي قِلاَبَةَ، عَنْ عَمْرِو بْنِ بُجْدَانَ، عَنْ أَبِي زَيْدٍ الأَنْصَارِيِّ، قَالَ مَرَّ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ بِدَارٍ مِنْ دُورِ الأَنْصَارِ فَوَجَدَ رِيحَ قُتَارٍ فَقَالَ ‏\"‏ مَنْ هَذَا الَّذِي ذَبَحَ ‏\"‏ ‏.‏ فَخَرَجَ إِلَيْهِ رَجُلٌ مِنَّا فَقَالَ أَنَا يَا رَسُولَ اللَّهِ ذَبَحْتُ قَبْلَ أَنْ أُصَلِّيَ لأُطْعِمَ أَهْلِي وَجِيرَانِي ‏.‏ فَأَمَرَهُ أَنْ يُعِيدَ ‏.‏ فَقَالَ لاَ وَاللَّهِ الَّذِي لاَ إِلَهَ إِلاَّ هُوَ مَا عِنْدِي إِلاَّ جَذَعٌ أَوْ حَمَلٌ مِنَ الضَّأْنِ ‏.‏ قَالَ ‏\"‏ اذْبَحْهَا وَلَنْ تُجْزِئَ جَذَعَةٌ عَنْ أَحَدٍ بَعْدَكَ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated that Abu Zaid Al-Ansari said:“The Messenger of Allah (ﷺ) passed by one of the houses of the Ansar and noticed the smell of a cooking pot. He said: ‘Who is this who has slaughtered?’ A man from among us came out and said: ‘It is me, O Messenger of Allah, I slaughtered before the prayer so that I could feed my family and neighbors.’ He commanded him to repeat it. He said: ‘No, by the One besides Whom there is none worthy of worship, I do not have anything but a one-year-old sheep or a lamb.’ He (ﷺ) said: ‘Sacrifice it, but a one-year-old sheep will not do for anyone after you.’”",
+          "ur": "ابوزید انصاری رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم کا گزر انصار کے گھروں میں سے ایک گھر سے ہوا، تو آپ نے وہاں گوشت بھوننے کی خوشبو پائی، آپ صلی اللہ علیہ وسلم نے فرمایا: کس شخص نے ذبح کیا ہے ؟ ہم میں سے ایک شخص آپ کی طرف نکلا، اور آ کر اس نے عرض کیا کہ اللہ کے رسول! میں نے نماز عید سے پہلے ذبح کر لیا، تاکہ گھر والوں اور پڑوسیوں کو کھلا سکوں، آپ صلی اللہ علیہ وسلم نے اسے دوبارہ قربانی کا حکم دیا، اس شخص نے عرض کیا: قسم ہے اس ذات کی جس کے سوا کوئی سچا معبود نہیں، میرے پاس ایک جذعہ یا بھیڑ کے بچہ کے علاوہ کچھ بھی نہیں، آپ صلی اللہ علیہ وسلم نے فرمایا: اسی کو ذبح کر لو اور تمہارے بعد کسی کے لیے جذعہ کافی نہیں ہو گا ۔",
+          "fr": "Rapporté par Abu Zaid Al-Ansari : Le Messager d'Allah (ﷺ) passa devant l’une des maisons des Ansar et remarqua l’odeur d’une marmite en train de cuire. Il dit : “Qui a fait un sacrifice ?” Un homme parmi nous sortit et dit : “C’est moi, ô Messager d’Allah, j’ai sacrifié avant la prière pour pouvoir nourrir ma famille et mes voisins.” Le Prophète lui ordonna de recommencer. L’homme répondit : “Non, par Celui en dehors de Qui il n’y a aucune divinité digne d’adoration, je n’ai qu’une brebis d’un an ou un agneau.” Le Prophète (ﷺ) dit : “Sacrifie-la, mais après toi, une brebis d’un an ne suffira à personne.”",
+          "id": "Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Abdul A'la] dari [Khalid Al Khadza`] dari [Abu Qilabah] dari [Abu Zaid], [Abu Bakar] mengatakan -selain Abdul A'la juga berkata- dari ['Amru bin Bujdan] dari [Abu Zaid]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Muhammad bin Al Mutsanna Abu Musa] telah menceritakan kepada kami [Abdush Shamad bin Abdul Warits] telah menceritakan kepada kami [Ayahku] dari [Khalid Al Khaddza`] dari [Abu Qilabah] dari ['Amru bin Bujdan] dari [Abu Zaid Al Anshari] dia berkata, \"Rasulullah shallallahu 'alaihi wasallam melewati rumah dari rumah-rumah penduduk Anshar, lalu beliau mencium aroma masakan, beliau pun bertanya: \"Siapakah orang yang sudah menyembelih?\" maka keluarlah seorang laki-laki Anshar seraya berkata, \"Aku wahai Rasulullah, aku menyembelih sebelum shalat karena hendak memberi makan keluarga dan tetanggaku.\" Maka beliau memerintahkan kepadanya untuk kembali mengulangi kurbannya, laki-laki itu berkata, \"Tidak, demi Allah yang tidak ada tuhan yang berhak disembah selain Dia, aku tidak memiliki kecuali Jadza' atau kambing yang lebih muda dari Jadza'.\" Maka beliau bersabda: \"Sembelihlah ia, dan tidak boleh ada lagi orang yang menyembelih Jadza' setelahmu",
+          "tr": "Ebû Zeyd el-Ensârî (r.a.)'den; Şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem) Ensâr'ın evlerinden birinin yanından geçti de pişirilmekte olan et kokusunu duydu da bunun üzerine: «Şu boğazlayan adam kimdir?» diye sordu. Bizden bir adam Onun huzuruna çıkarak: Benim, Yâ Resûlallah. Çoluk çocuğuma ve komşularıma (et) yedireyim diye ben bayram namazını kılmadan önce kurbanımı boğazladım, dedi. Resul i Ekrem (Sallallahu Aleyhi ve Sellem) de adam'a yeniden kurban kesmesini emretti. Adam da: Kendisinden başka ilâh olmayan Allah'a yemin ederim ki (kurban edeceğim başka hayvan) yoktur. Benim yanımda ceza' (yâni yaşça küçük hayvan) veya kuzudan başkası yoktur, dedi. Resul i Ekrem (Sallallahu Aleyhi ve Sellem): Cezaa'yı boğazla, fakat cezaa, senden sonra hiç kimse için kifayet etmez (yâni kurban olamaz), buyurdu"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 26,
+        "hadith": 35
+      }
+    },
+    {
+      "hadithNumber": 3155,
+      "arabicNumber": 3155,
+      "book": 26,
+      "hadithInBook": 36,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، سَمِعْتُ قَتَادَةَ، يُحَدِّثُ عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ لَقَدْ رَأَيْتُ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ يَذْبَحُ أُضْحِيَّتَهُ بِيَدِهِ وَاضِعًا قَدَمَهُ عَلَى صِفَاحِهَا ‏.‏",
+        "translations": {
+          "en": "It was narrated that Anas bin Malik said:“I saw the Messenger of Allah (ﷺ) slaughter his sacrifice with his own hand, placing his foot on its side.”",
+          "ur": "انس بن مالک رضی اللہ عنہ کہتے ہیں کہ میں نے رسول اللہ صلی اللہ علیہ وسلم کو اپنی قربانی اپنے ہاتھ سے ذبح کرتے ہوئے دیکھا آپ اپنا پاؤں اس کے پٹھے پر رکھے ہوئے تھے ۱؎۔",
+          "fr": "Rapporté par Anas bin Malik : J’ai vu le Messager d’Allah (ﷺ) sacrifier lui-même son offrande, en posant son pied sur le côté de l’animal",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] saya mendengar [Qatadah] menceritakan dari [Anas bin Malik] dia berkata, \"Sungguh saya telah melihat Rasulullah shallallahu 'alaihi wasallam menyembelih hewan kurbannya dengan tangan beliau sendiri sambil meletakkan kaki beliau di leher hewan kurban tersebut",
+          "tr": "Enes bin Mâlik (r.a.)'den; Şöyle demiştir: And olsun ki ben Resulullah (Sallallahu Aleyhi ve Sellem)'i ayağını kurbanının (sağ) yanına basarak, kendi eliyle onu boğazlarken gördüm"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 26,
+        "hadith": 36
+      }
+    },
+    {
+      "hadithNumber": 3156,
+      "arabicNumber": 3156,
+      "book": 26,
+      "hadithInBook": 37,
+      "text": {
+        "arabic": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ سَعْدِ بْنِ عَمَّارِ بْنِ سَعْدٍ، مُؤَذِّنِ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ حَدَّثَنِي أَبِي عَنْ أَبِيهِ عَنْ جَدِّهِ أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ ذَبَحَ أُضْحِيَّتَهُ عِنْدَ طَرَفِ الزُّقَاقِ طَرِيقِ بَنِي زُرَيْقٍ بِيَدِهِ بِشَفْرَةٍ ‏.‏",
+        "translations": {
+          "en": "‘Abdur-Rahman bin Sa’d bin ‘Ammar bin Sa’d, the Mu’adhdhin of the Messenger of Allah (ﷺ), told us:“My father told me, from my grandfather, that the Messenger of Allah (ﷺ) slaughtered his sacrifice at the side of an alley, on the road of Banu Zuraiq, with his own hand, using a blade.”",
+          "ur": "مؤذن رسول سعد رضی اللہ عنہ سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے بنی زریق کے راستے میں گلی کے کنارے اپنی قربانی اپنے ہاتھ سے ایک چھری سے ذبح کی۔",
+          "fr": "Rapporté par ‘Abdur-Rahman bin Sa’d bin ‘Ammar bin Sa’d, le muezzin du Messager d’Allah (ﷺ) : Mon père m’a raconté, de la part de mon grand-père, que le Messager d’Allah (ﷺ) a sacrifié son offrande au bord d’une ruelle, sur la route des Banu Zuraiq, de sa propre main, avec une lame",
+          "id": "Telah menceritakan kepada kami [Hisyam bin 'Ammar] telah menceritakan kepada kami [Abdurrahman bin Sa'd bin 'Ammar bin Sa'd] muadzin Rasulullah shallallahu 'alaihi wasallam, telah menceritakan kepada kami [Ayahku] dari [Ayahnya] dari [Kakeknya], bahwa Rasulullah shallallahu 'alaihi wasallam menyembelih hewan kurban disamping ujung lorong jalan Bani Zuraiq, dengan tangan beliau sendiri menggunakan parang",
+          "tr": "Resulullah (Sallallahu Aleyhi ve Sellem)\"in müezzini Sa'd (bin Aiz el-Karaz) (r.a.)*den rivayet edildiğine göre: Resulullah (Sallallahu Aleyhi ve Sellem), kurbanını Zürayk oğulları yolu olan sokağın kenarında kendi eliyle, keskin bir bıçakla boğazladı"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 26,
+        "hadith": 37
+      }
+    },
+    {
+      "hadithNumber": 3157,
+      "arabicNumber": 3157,
+      "book": 26,
+      "hadithInBook": 38,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ مَعْمَرٍ، حَدَّثَنَا مُحَمَّدُ بْنُ بَكْرٍ الْبُرْسَانِيُّ، أَنْبَأَنَا ابْنُ جُرَيْجٍ، أَخْبَرَنِي الْحَسَنُ بْنُ مُسْلِمٍ، أَنَّ مُجَاهِدًا، أَخْبَرَهُ أَنَّ عَبْدَ الرَّحْمَنِ بْنَ أَبِي لَيْلَى أَخْبَرَهُ أَنَّ عَلِيَّ بْنَ أَبِي طَالِبٍ أَخْبَرَهُ أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ أَمَرَهُ أَنْ يَقْسِمَ بُدْنَهُ كُلَّهَا لُحُومَهَا وَجُلُودَهَا وَجِلاَلَهَا لِلْمَسَاكِينِ ‏.‏",
+        "translations": {
+          "en": "‘Ali bin Abu Talib narrated that the Messenger of Allah (ﷺ) commanded him to distribute the entire sacrificial camel – its meat, skin and covers – among the poor",
+          "ur": "علی رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے قربانی کے اونٹ کے سبھی اجزاء، اس کے گوشت، اس کی کھالوں اور جھولوں سمیت سبھی کچھ مساکین کے درمیان تقسیم کرنے کا حکم دیا۔",
+          "fr": "Rapporté par ‘Ali bin Abu Talib : Le Messager d’Allah (ﷺ) m’a ordonné de distribuer tout le chameau sacrifié – sa viande, sa peau et ses couvertures – aux pauvres",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Ma'mar] telah menceritakan kepada kami [Muhammad bin Bakr Al Bursani] telah memberitakan kepada kami [Ibnu Juraij] telah mengabarkan kepadaku [Al Hasan bin Muslim] bahwa [Mujahid] mengabarkan kepadanya, bahwa [Abdurrahman bin Abu Laila] telah mengabarkan kepadanya, bahwa [Ali bin Abu Thalib] mengabarkan kepadanya, bahwa Rasulullah shallallahu 'alaihi wasallam memerintahkan agar dia membagi-bagikan semua dari unta (kurbannya) baik berupa daging, kulit dan pelananya kepada orang-orang miskin",
+          "tr": "Alî bin Ebî Tâlib (r.a.)'dan rivayet edildiğine göre: Resulullah (Sallallahu Aleyhi ve Sellem) kendisine. Haremi Şerife (Veda Haccında) sevkettiği bütün kurbanlarının etlerini, derilerini ve çullarını fakirlere dağıtmasını emretmiştir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih Agreed Upon"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 26,
+        "hadith": 38
+      }
+    },
+    {
+      "hadithNumber": 3158,
+      "arabicNumber": 3158,
+      "book": 26,
+      "hadithInBook": 39,
+      "text": {
+        "arabic": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ، حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنْ جَعْفَرِ بْنِ مُحَمَّدٍ، عَنْ أَبِيهِ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ أَمَرَ مِنْ كُلِّ جَزُورٍ بِبَضْعَةٍ فَجُعِلَتْ فِي قِدْرٍ فَأَكَلُوا مِنَ اللَّحْمِ وَحَسَوْا مِنَ الْمَرَقِ ‏.‏",
+        "translations": {
+          "en": "It was narrated from Jabir bin ‘Abdullah that the Messenger of Allah (ﷺ) ordered that a piece from every camel that had been slaughtered be brought and placed in a pot, then they ate from its meat and drank some of the broth",
+          "ur": "جابر بن عبداللہ رضی اللہ عنہما سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے قربانی کے ہر اونٹ کا ایک ٹکڑا منگایا، پھر ان سب ٹکڑوں کو ایک ہانڈی میں پکانے کا حکم دیا، تو وہ ایک ہانڈی میں رکھ کر پکایا گیا، پھر سبھی لوگوں نے اس کا گوشت کھایا، اور اس کا شوربہ پیا۔",
+          "fr": "Rapporté par Jabir bin ‘Abdullah : Le Messager d’Allah (ﷺ) a ordonné qu’un morceau de chaque chameau sacrifié soit apporté et mis dans une marmite, puis ils ont mangé de la viande et bu du bouillon",
+          "id": "Telah menceritakan kepada kami [Hisyam bin 'Ammar] telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari [Ja'far bin Muhammad] dari [Ayahnya] dari [Jabir bin Abdullah], bahwa Rasulullah shallallahu 'alaihi wasallam memerintahkan dari setiap unta yang besar agar diambil sepotong dagingnya, kemudian sepotong daging tersebut diletakkan di dalam periuk, setelah itu mereka memakan dagingnya dan menghirup kuahnya (setelah masak)",
+          "tr": "Câbir bin Abdillah (r.a.)'dan rivayet edildiğine göre: Resulullah (Sallallahu Aleyhi ve Sellem) kurban ettiği her deveden bir parça etin alınmasını emretti. (Toplanan) etler bir çömleğe konulup pişirildi. Sonra Resul-i Ekrem (Sallallahu Aleyhi ve Sellem) ve beraberindekiler etten yediler ve et suyundan içtiler. Not: Bu senedin ravilerinin sıka (güvenilir) zatlar olduğu, Zevaid'de bildirilmiştir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 26,
+        "hadith": 39
+      }
+    },
+    {
+      "hadithNumber": 3159,
+      "arabicNumber": 3159,
+      "book": 26,
+      "hadithInBook": 40,
+      "text": {
+        "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا وَكِيعٌ، عَنْ سُفْيَانَ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ عَابِسٍ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، قَالَتْ إِنَّمَا نَهَى رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ عَنْ لُحُومِ الأَضَاحِيِّ لِجَهْدِ النَّاسِ ثُمَّ رَخَّصَ فِيهَا ‏.‏",
+        "translations": {
+          "en": "It was narrated that ‘Aishah said:“The Messenger of Allah (ﷺ) only forbade storing the meat of the sacrifices because the people were facing hardship. Then later he permitted that.”",
+          "ur": "ام المؤمنین عائشہ رضی اللہ عنہا کہتی ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے لوگوں کی محتاجی اور فقر کی وجہ سے قربانی کے گوشت کی ذخیرہ اندوزی سے منع فرما دیا تھا، پھر آپ صلی اللہ علیہ وسلم نے اس کی اجازت دے دی۔",
+          "fr": "Rapporté par ‘Aishah : Le Messager d’Allah (ﷺ) n’a interdit de conserver la viande des sacrifices que parce que les gens traversaient des difficultés. Plus tard, il a permis de le faire",
+          "id": "Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Waki'] dari [Sufyan] dari [Abdurrahman bin 'Abis] dari [Ayahnya] dari [Aisyah] dia berkata, \"Nabi shallallahu 'alaihi wasallam melarang menyimpan daging kurban ketika orang-orang mengalami kesusahan hidup, kemudian beliau memberi keringanan (untuk menyimpannya)",
+          "tr": "Âişe (r.anha)'dan rivayet edildiğine göre: Resulullah (Sallallahu Aleyhi ve Sellem), halk'ın maddi sıkıntısı nedeniyle kurbanların etlerini (saklamayı) yasaklamış. Sonra (sıkıntı kalmayınca) kurban etleri (ni saklamak) hakkında ruhsat vermiştir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 26,
+        "hadith": 40
+      }
+    },
+    {
+      "hadithNumber": 3160,
+      "arabicNumber": 3160,
+      "book": 26,
+      "hadithInBook": 41,
+      "text": {
+        "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَبْدُ الأَعْلَى بْنُ عَبْدِ الأَعْلَى، عَنْ خَالِدٍ الْحَذَّاءِ، عَنْ أَبِي الْمَلِيحِ، عَنْ نُبَيْشَةَ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ قَالَ ‏ \"‏ كُنْتُ نَهَيْتُكُمْ عَنْ لُحُومِ الأَضَاحِيِّ فَوْقَ ثَلاَثَةِ أَيَّامٍ فَكُلُوا وَادَّخِرُوا ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated from Nubaishah that the Messenger of Allah (ﷺ) said:“I used to forbid you to store the meat of the sacrifices for more than three days, but (now) eat some and store some.”",
+          "ur": "نبیشہ (نبیشہ بن عبداللہ الہذلی) رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: میں نے تمہیں قربانی کا گوشت تین دن سے زیادہ رکھنے سے منع کیا تھا، لیکن اب اسے کھاؤ اور ذخیرہ اندوزی کرو ۱؎۔",
+          "fr": "Rapporté par Nubaishah : Le Messager d’Allah (ﷺ) a dit : “Je vous interdisais de conserver la viande des sacrifices plus de trois jours, mais (maintenant) mangez-en et gardez-en.”",
+          "id": "Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Abdul A'la bin Abdul A'la] dari [Khalid Al Khaddza`] dari [Abu Al Malih] dari [Nubaisyah], bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: \"Aku pernah melarang kalian menyimpan daging kurban lebih dari tiga hari, sekarang makan dan simpanlah",
+          "tr": "Nübeyşe (bin Abdİllah bin Amr) (r.a.)'den ri-vâyet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurmuştur: Ben sizi üç günden fazla kurban etlerinden (yâni saklayıp yemekten) menetmiştûn. Bundan sonra yeyiniz ve saklayınız.»"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 26,
+        "hadith": 41
+      }
+    },
+    {
+      "hadithNumber": 3161,
+      "arabicNumber": 3161,
+      "book": 26,
+      "hadithInBook": 42,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا أَبُو بَكْرٍ الْحَنَفِيُّ، حَدَّثَنَا أُسَامَةُ بْنُ زَيْدٍ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، عَنِ النَّبِيِّ ـ صلى الله عليه وسلم ـ أَنَّهُ كَانَ يَذْبَحُ بِالْمُصَلَّى ‏.‏",
+        "translations": {
+          "en": "It was narrated from Ibn ‘Umar that the Prophet (ﷺ) used to slaughter at the prayer place (of the ‘Eid congregation)",
+          "ur": "عبداللہ بن عمر رضی اللہ عنہما کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم عید گاہ میں ذبح کرتے تھے۔",
+          "fr": "Rapporté par Ibn ‘Umar : Le Prophète (ﷺ) avait l’habitude de sacrifier à l’endroit où l’on priait (‘Eid)",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada kami [Abu Bakar Al Hanafi] telah menceritakan kepada kami [Usamah bin Zaid] dari [Nafi'] dari [Ibnu Umar] dari Nabi shallallahu 'alaihi wasallam, bahwa beliau menyembelih kurbannya di tempat shalat",
+          "tr": "İbn-i Ömer (r.a.)'dan rivayet edildiğine göre: Nebi (Sallallahu Aleyhi ve Sellem), kurbanını musalla'da (yâni bayram namazını kıldırdığı alanda) boğazlardı"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 26,
+        "hadith": 42
+      }
+    }
+  ],
+  "metadata": {
+    "averageLength": "medium",
+    "size": "31KB"
+  }
+}

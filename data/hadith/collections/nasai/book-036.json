@@ -1,0 +1,928 @@
+{
+  "collection": "nasai",
+  "book": 36,
+  "name": {
+    "arabic": "كتاب The Book of the Kind Treatment of Women",
+    "transliteration": "kitab the kind treatment of women",
+    "translation": "The Book of the Kind Treatment of Women"
+  },
+  "totalHadith": 27,
+  "hadithNumberRange": {
+    "first": 3939,
+    "last": 3965
+  },
+  "content": [
+    {
+      "hadithNumber": 3939,
+      "arabicNumber": 3939,
+      "book": 36,
+      "hadithInBook": 1,
+      "text": {
+        "arabic": "حَدَّثَنِي الشَّيْخُ الإِمَامُ أَبُو عَبْدِ الرَّحْمَنِ النَّسَائِيُّ، قَالَ أَخْبَرَنَا الْحُسَيْنُ بْنُ عِيسَى الْقُومَسِيُّ، قَالَ حَدَّثَنَا عَفَّانُ بْنُ مُسْلِمٍ، قَالَ حَدَّثَنَا سَلاَّمٌ أَبُو الْمُنْذِرِ، عَنْ ثَابِتٍ، عَنْ أَنَسٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ حُبِّبَ إِلَىَّ مِنَ الدُّنْيَا النِّسَاءُ وَالطِّيبُ وَجُعِلَ قُرَّةُ عَيْنِي فِي الصَّلاَةِ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated that Anas said:\"The Messenger of Allah said: 'In this world, women and perfume have been made dear to me, and my comfort has been provided in prayer",
+          "ur": "انس رضی الله عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”دنیا کی چیزوں میں سے عورتیں اور خوشبو میرے لیے محبوب بنا دی گئی ہیں اور میری آنکھوں کی ٹھنڈک نماز میں رکھی گئی ہے“۔",
+          "fr": "Rapporté par Anas : Le Messager d'Allah a dit : \"Dans ce monde, les femmes et le parfum m’ont été rendus chers, et mon réconfort se trouve dans la prière",
+          "id": "Telah mengabarkan kepada kami Syekh Imam Abu Abdur Rahman An Nasai telah mengabarkan kepada kami [Al Husain bin Isa Al Qumasi] telah menceritakan kepada kami ['Affan bin Muslim] telah menceritakan kepada kami [Sallam Abu Al Mundzir] dari [Tsabit] dari [Anas], dia berkata; \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Dijadikan kesenanganku dari dunia ada pada wanita dan minyak wangi, dan dijadikan penyejuk hatiku ada dalam shalat"
+        }
+      },
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "nasai",
+        "book": 36,
+        "hadith": 1
+      }
+    },
+    {
+      "hadithNumber": 3940,
+      "arabicNumber": 3940,
+      "book": 36,
+      "hadithInBook": 2,
+      "text": {
+        "arabic": "أَخْبَرَنَا عَلِيُّ بْنُ مُسْلِمٍ الطُّوسِيُّ، قَالَ حَدَّثَنَا سَيَّارٌ، قَالَ حَدَّثَنَا جَعْفَرٌ، قَالَ حَدَّثَنَا ثَابِتٌ، عَنْ أَنَسٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ حُبِّبَ إِلَىَّ النِّسَاءُ وَالطِّيبُ وَجُعِلَتْ قُرَّةُ عَيْنِي فِي الصَّلاَةِ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated that Anas said:\"The Messenger of Allah said: 'Women and perfume have been made dear to me, but my comfort has been provided in prayer",
+          "ur": "انس رضی الله عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”عورتیں اور خوشبو میرے لیے محبوب بنا دی گئی ہیں اور میری آنکھوں کی ٹھنڈک نماز میں رکھی گئی ہے“۔",
+          "fr": "Rapporté par Anas : Le Messager d'Allah a dit : \"Les femmes et le parfum m’ont été rendus chers, mais mon réconfort se trouve dans la prière",
+          "id": "Telah mengabarkan kepada kami [Ali bin Muslim Ath Thusi] telah menceritakan kepada kami [Sayyar] telah menceritakan kepada kami [Ja'far] telah menceritakan kepada kami [Tsabit] dari [Anas], dia berkata; \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Dijadikan kesenanganku dari dunia ada pada wanita dan minyak wangi, dan dijadikan penyejuk hatiku ada dalam shalat"
+        }
+      },
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "nasai",
+        "book": 36,
+        "hadith": 2
+      }
+    },
+    {
+      "hadithNumber": 3941,
+      "arabicNumber": 3941,
+      "book": 36,
+      "hadithInBook": 3,
+      "text": {
+        "arabic": "أَخْبَرَنَا أَحْمَدُ بْنُ حَفْصِ بْنِ عَبْدِ اللَّهِ، قَالَ حَدَّثَنِي أَبِي قَالَ، حَدَّثَنِي إِبْرَاهِيمُ بْنُ طَهْمَانَ، عَنْ سَعِيدِ بْنِ أَبِي عَرُوبَةَ، عَنْ قَتَادَةَ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ لَمْ يَكُنْ شَىْءٌ أَحَبَّ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم بَعْدَ النِّسَاءِ مِنَ الْخَيْلِ ‏.‏",
+        "translations": {
+          "en": "It was narrated that Anas bin Malik said:\"Nothing was dearer to the Messenger of Allah after women than horses",
+          "ur": "انس بن مالک رضی الله عنہ کہتے ہیں کہ عورتوں کے بعد گھوڑوں سے زیادہ کوئی چیز رسول اللہ صلی اللہ علیہ وسلم کو محبوب نہ تھی۔",
+          "fr": "Rapporté par Anas bin Malik : Rien n’était plus cher au Messager d’Allah après les femmes que les chevaux",
+          "id": "Telah mengabarkan kepada kami [Ahmad bin Hafsh bin Abdullah] telah menceritakan kepadaku [ayahku] telah menceritakan kepadaku [Ibarahim bin Thahman] dari [Sa'id bin Abi 'Arubah] dari [Qatadah] dari [Anas bin Malik], dia berkata; \"Tidak ada sesuatu yang lebih disukai Rasulullah shallallahu 'alaihi wasallam setelah para isteri daripada kuda perang"
+        }
+      },
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Daif"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "nasai",
+        "book": 36,
+        "hadith": 3
+      }
+    },
+    {
+      "hadithNumber": 3942,
+      "arabicNumber": 3942,
+      "book": 36,
+      "hadithInBook": 4,
+      "text": {
+        "arabic": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، قَالَ حَدَّثَنَا عَبْدُ الرَّحْمَنِ، قَالَ حَدَّثَنَا هَمَّامٌ، عَنْ قَتَادَةَ، عَنِ النَّضْرِ بْنِ أَنَسٍ، عَنْ بَشِيرِ بْنِ نَهِيكٍ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ مَنْ كَانَ لَهُ امْرَأَتَانِ يَمِيلُ لإِحْدَاهُمَا عَلَى الأُخْرَى جَاءَ يَوْمَ الْقِيَامَةِ أَحَدُ شِقَّيْهِ مَائِلٌ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated from Abu Hurairah that the Prophet said:\"Whoever has two wives and is inclined to favor one of them over the other, he will come on the Day of Resurrection with half of his body leaning",
+          "ur": "ابوہریرہ رضی الله عنہ کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: ”جس کی دو بیویاں ہوں اور وہ ایک کے مقابلے دوسری طرف زیادہ میلان رکھے تو قیامت کے دن وہ اس طرح آئے گا کہ اس کا ایک پہلو جھکا ہوا ہو گا“۔",
+          "fr": "Rapporté par Abu Hurairah : Le Prophète a dit : \"Celui qui a deux femmes et penche en faveur de l’une d’elles par rapport à l’autre viendra le Jour de la Résurrection avec la moitié de son corps penchée",
+          "id": "Telah mengabarkan kepada kami ['Amru bin Ali] telah menceritakan kepada kami [Abdur Rahman] telah menceritakan kepada kami [Hammam] dari [Qatadah] dari [An Nadhr bin Anas] dari [Basyir bin Nahik] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: \"Barang siapa yang memiliki dua orang isteri dan dia lebih condong kepada salah seorang di antara mereka maka dia akan datang pada Hari Kiamat dalam keadaan salah satu sisinya miring"
+        }
+      },
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "nasai",
+        "book": 36,
+        "hadith": 4
+      }
+    },
+    {
+      "hadithNumber": 3943,
+      "arabicNumber": 3943,
+      "book": 36,
+      "hadithInBook": 5,
+      "text": {
+        "arabic": "أَخْبَرَنِي مُحَمَّدُ بْنُ إِسْمَاعِيلَ بْنِ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا يَزِيدُ، قَالَ أَنْبَأَنَا حَمَّادُ بْنُ سَلَمَةَ، عَنْ أَيُّوبَ، عَنْ أَبِي قِلاَبَةَ، عَنْ عَبْدِ اللَّهِ بْنِ يَزِيدَ، عَنْ عَائِشَةَ، قَالَتْ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَقْسِمُ بَيْنَ نِسَائِهِ ثُمَّ يَعْدِلُ ثُمَّ يَقُولُ ‏ \"‏ اللَّهُمَّ هَذَا فِعْلِي فِيمَا أَمْلِكُ فَلاَ تَلُمْنِي فِيمَا تَمْلِكُ وَلاَ أَمْلِكُ ‏\"‏ ‏.‏ أَرْسَلَهُ حَمَّادُ بْنُ زَيْدٍ ‏.‏",
+        "translations": {
+          "en": "It was narrated that 'Aishah said:\"The Messenger of Allah used to divide his time equally among his wives then he would say: 'O Allah, this is what I have done with regard to that over which I have control, so do not blame me for that over which You have control and I do not.'\" Hammad bin Zaid narrated it in Mursal form",
+          "ur": "ام المؤمنین عائشہ رضی الله عنہا کہتی ہیں کہ رسول اللہ صلی اللہ علیہ وسلم اپنی بیویوں کے درمیان کچھ تقسیم کرتے تو برابر برابر کرتے، پھر فرماتے: اللہ! میرا یہ کام تو میرے دائرہ اختیار میں ہے، لہٰذا تو مجھے ملامت نہ کر ایسے کام کے سلسلے میں جو تیرے اختیار کا ہے اور مجھے اس میں کوئی اختیار نہیں۔ حماد بن زید نے یہ حدیث مرسل روایت کی ہے۔",
+          "fr": "Rapporté par 'Aishah : Le Messager d’Allah partageait équitablement son temps entre ses épouses puis il disait : \"Ô Allah, ceci est ce que j’ai pu faire concernant ce qui est en mon pouvoir, alors ne me reproche pas ce qui est en Ton pouvoir et pas dans le mien.\" Hammad bin Zaid l’a rapporté sous forme Mursal",
+          "id": "Telah mengabarkan kepada kami [Muhammad bin Isma'il bin Ibrahim] telah menceritakan kepada kami [Yazid] telah memberitakan kepada kami [Hammad bin Salamah] dari [Ayyub] dari [Abu Qilabah] dari [Abdullah bin Yazid] dari ['Aisyah], dia berkata; \"Rasulullah shallallahu 'alaihi wasallam membagi di antara isteri-isteri beliau kemudian beliau berbuat adil dan bersabda: \"Ya Allah, inilah yang bisa saya lakukan dalam perkara yang saya mampu dan janganlah Engkau cela diriku dalam perkara yang Engkau mampu dan tidak saya mampu.\" Hadits tersebut dimursalkan oleh Hammad bin Zaid"
+        }
+      },
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Daif"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "nasai",
+        "book": 36,
+        "hadith": 5
+      }
+    },
+    {
+      "hadithNumber": 3944,
+      "arabicNumber": 3944,
+      "book": 36,
+      "hadithInBook": 6,
+      "text": {
+        "arabic": "أَخْبَرَنِي عُبَيْدُ اللَّهِ بْنُ سَعْدِ بْنِ إِبْرَاهِيمَ بْنِ سَعْدٍ، قَالَ حَدَّثَنَا عَمِّي، قَالَ حَدَّثَنَا أَبِي، عَنْ صَالِحٍ، عَنِ ابْنِ شِهَابٍ، قَالَ أَخْبَرَنِي مُحَمَّدُ بْنُ عَبْدِ الرَّحْمَنِ بْنِ الْحَارِثِ بْنِ هِشَامٍ، أَنَّ عَائِشَةَ، قَالَتْ أَرْسَلَ أَزْوَاجُ النَّبِيِّ صلى الله عليه وسلم فَاطِمَةَ بِنْتَ رَسُولِ اللَّهِ صلى الله عليه وسلم إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَاسْتَأْذَنَتْ عَلَيْهِ وَهُوَ مُضْطَجِعٌ مَعِي فِي مِرْطِي فَأَذِنَ لَهَا فَقَالَتْ يَا رَسُولَ اللَّهِ إِنَّ أَزْوَاجَكَ أَرْسَلْنَنِي إِلَيْكَ يَسْأَلْنَكَ الْعَدْلَ فِي ابْنَةِ أَبِي قُحَافَةَ ‏.‏ وَأَنَا سَاكِتَةٌ فَقَالَ لَهَا رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ أَىْ بُنَيَّةُ أَلَسْتِ تُحِبِّينَ مَنْ أُحِبُّ ‏\"‏ ‏.‏ قَالَتْ بَلَى ‏.‏ قَالَ ‏\"‏ فَأَحِبِّي هَذِهِ ‏\"‏ ‏.‏ فَقَامَتْ فَاطِمَةُ حِينَ سَمِعَتْ ذَلِكَ مِنْ رَسُولِ اللَّهِ صلى الله عليه وسلم فَرَجَعَتْ إِلَى أَزْوَاجِ النَّبِيِّ صلى الله عليه وسلم فَأَخْبَرَتْهُنَّ بِالَّذِي قَالَتْ وَالَّذِي قَالَ لَهَا فَقُلْنَ لَهَا مَا نَرَاكِ أَغْنَيْتِ عَنَّا مِنْ شَىْءٍ فَارْجِعِي إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَقُولِي لَهُ إِنَّ أَزْوَاجَكَ يَنْشُدْنَكَ الْعَدْلَ فِي ابْنَةِ أَبِي قُحَافَةَ ‏.‏ قَالَتْ فَاطِمَةُ لاَ وَاللَّهِ لاَ أُكَلِّمُهُ فِيهَا أَبَدًا ‏.‏ قَالَتْ عَائِشَةُ فَأَرْسَلَ أَزْوَاجُ النَّبِيِّ صلى الله عليه وسلم زَيْنَبَ بِنْتَ جَحْشٍ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم وَهِيَ الَّتِي كَانَتْ تُسَامِينِي مِنْ أَزْوَاجِ النَّبِيِّ صلى الله عليه وسلم فِي الْمَنْزِلَةِ عِنْدَ رَسُولِ اللَّهِ صلى الله عليه وسلم وَلَمْ أَرَ امْرَأَةً قَطُّ خَيْرًا فِي الدِّينِ مِنْ زَيْنَبَ وَأَتْقَى لِلَّهِ عَزَّ وَجَلَّ وَأَصْدَقَ حَدِيثًا وَأَوْصَلَ لِلرَّحِمِ وَأَعْظَمَ صَدَقَةً وَأَشَدَّ ابْتِذَالاً لِنَفْسِهَا فِي الْعَمَلِ الَّذِي تَصَدَّقُ بِهِ وَتَقَرَّبُ بِهِ مَا عَدَا سَوْرَةً مِنْ حِدَّةٍ كَانَتْ فِيهَا تُسْرِعُ مِنْهَا الْفَيْأَةَ فَاسْتَأْذَنَتْ عَلَى رَسُولِ اللَّهِ صلى الله عليه وسلم وَرَسُولُ اللَّهِ صلى الله عليه وسلم مَعَ عَائِشَةَ فِي مِرْطِهَا عَلَى الْحَالِ الَّتِي كَانَتْ دَخَلَتْ فَاطِمَةُ عَلَيْهَا فَأَذِنَ لَهَا رَسُولُ اللَّهِ صلى الله عليه وسلم فَقَالَتْ يَا رَسُولَ اللَّهِ إِنَّ أَزْوَاجَكَ أَرْسَلْنَنِي يَسْأَلْنَكَ الْعَدْلَ فِي ابْنَةِ أَبِي قُحَافَةَ وَوَقَعَتْ بِي فَاسْتَطَالَتْ وَأَنَا أَرْقُبُ رَسُولَ اللَّهِ صلى الله عليه وسلم وَأَرْقُبُ طَرْفَهُ هَلْ أَذِنَ لِي فِيهَا فَلَمْ تَبْرَحْ زَيْنَبُ حَتَّى عَرَفْتُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم لاَ يَكْرَهُ أَنْ أَنْتَصِرَ فَلَمَّا وَقَعْتُ بِهَا لَمْ أَنْشَبْهَا بِشَىْءٍ حَتَّى أَنْحَيْتُ عَلَيْهَا فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ إِنَّهَا ابْنَةُ أَبِي بَكْرٍ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Aishah said:\"The wives of the Prophet sent Fatimah, the daughter of the Messenger of Allah, to the Messenger of Allah. She asked permission to enter when he was lying with me under my cover. He gave her permission to enter, and she said: 'O Messenger of Allah, your wives have sent me to you to ask you to be equitable with regard to the matter of the daughter of Abu Quhafah.' I ('Aishah) kept quiet and the Messenger of Allah said to her: 'O my daughter! Do you not love the one whom I love?' She said: 'Yes.' He said: 'Then love this one.' Fatimah stood up when she heard this and left the Messenger of Allah, and went back to the wives of the Prophet. She told them what she had said, and what he had said to her. They said to her: 'We do not think that you have been of any avail to us. Go back to the Messenger of Allah and say to him: Your wives are urging you to be equitable with regard to the matter of the daughter of Abu Quhafah.' Fatimah said: 'No, by Allah; I will never speak to him about her again.'\" 'Aishah said: \"So the wives of the Prophet sent Zainab bint Jahsh to the Messenger of Allah; she was one who was somewhat equal to me in rank in the eyes of the Messenger of Allah. And I have never seen a woman who was better in religious commitment than Zainab, more fearing of Allah, more honest in speech, more dutiful in upholding the ties of kinship, more generous in giving charity, and devoted in giving of herself in acts of charity, by means of which she sought to draw closer to Allah. But she was quick-tempered; however, she was also quick to calm down. She asked permission to enter upon the Messenger of Allah when he was with 'Aishah under her cover, in the same situation as when Fatimah had entered. The Messenger of Allah gave her permission to enter and she said: 'O Messenger of Allah, your wives have sent me to ask you to be equitable with regard to the matter of the daughter of Abu Quhafah.' Then she verbally abused me at length, and I was watching the Messenger of Allah to see if he would allow me to respond. Zainab went on until I realized that the Messenger of Allah would not disapprove if I responded. Then I spoke back to her in such a way, until I silenced her. Then the Messenger of Allah said: 'She is the daughter of Abu Bakr",
+          "ur": "ام المؤمنین عائشہ رضی الله عنہا کہتی ہیں کہ نبی اکرم صلی اللہ علیہ وسلم کی بیویوں نے فاطمہ بنت رسول صلی اللہ علیہ وسلم کو رسول اللہ صلی اللہ علیہ وسلم کے پاس بھیجا، انہوں نے آپ سے اجازت طلب کی، آپ میرے ساتھ چادر میں لیٹے ہوئے تھے، آپ نے انہیں اجازت دی، وہ بولیں: اللہ کے رسول! آپ کی بیویوں نے مجھے آپ کے پاس بھیجا ہے وہ ابوقحافہ کی بیٹی ( عائشہ ) کے سلسلے میں آپ سے ۱؎ عدل کا مطالبہ کر رہی ہیں، اور میں خاموش ہوں، تو رسول اللہ صلی اللہ علیہ وسلم نے فاطمہ رضی اللہ عنہا سے فرمایا: اے میری بیٹی! کیا تم اس سے محبت نہیں کرتیں جس سے مجھے محبت ہے؟ وہ بولیں: کیوں نہیں! آپ نے فرمایا: تو تم بھی ان سے محبت کرو، فاطمہ رضی اللہ عنہا نے رسول اللہ صلی اللہ علیہ وسلم سے جب یہ بات سنی تو اٹھیں اور نبی اکرم صلی اللہ علیہ وسلم کی بیویوں کے پاس واپس آ کر انہیں وہ ساری بات بتائی جو انہوں نے آپ صلی اللہ علیہ وسلم سے کہی اور جو آپ نے ان ( فاطمہ ) سے کہی۔ وہ سب بولیں: ہم نہیں سمجھتے کہ تم نے ہمارا کام کر دیا، تم پھر رسول اللہ صلی اللہ علیہ وسلم کے پاس جاؤ اور آپ سے کہو: آپ کی بیویاں آپ سے ابوقحافہ کی بیٹی کے تعلق سے عدل کی اپیل کرتی ہیں۔ فاطمہ رضی اللہ عنہا نے کہا: نہیں، اللہ کی قسم! میں ان کے سلسلے میں آپ سے کبھی کوئی بات نہیں کروں گی۔ عائشہ رضی اللہ عنہا کہتی ہیں: اب نبی اکرم صلی اللہ علیہ وسلم کی ازواج نے رسول اللہ صلی اللہ علیہ وسلم کے پاس زینب بنت جحش کو بھیجا اور زینب ہی ایسی تھیں جو نبی اکرم صلی اللہ علیہ وسلم کی بیویوں میں رسول اللہ صلی اللہ علیہ وسلم کے نزدیک میرے برابر کا درجہ رکھتی تھیں۔ میں نے کبھی بھی دین کے معاملے میں بہتر، اللہ سے ڈرنے والی، سچ بات کہنے والی، صلہ رحمی کرنے والی، بڑے بڑے صدقات کرنے والی، صدقہ و خیرات اور قرب الٰہی کے کاموں میں خود کو سب سے زیادہ کمتر کرنے والی زینب سے بڑھ کر کوئی عورت نہیں دیکھی سوائے اس کے کہ وہ مزاج کی تیز طرار تھیں لیکن ان کا غصہ بہت جلد رفع ہو جاتا تھا۔ چنانچہ انہوں نے رسول اللہ صلی اللہ علیہ وسلم سے اجازت طلب کی، رسول اللہ صلی اللہ علیہ وسلم عائشہ رضی اللہ عنہا کے ساتھ چادر میں اسی طرح تھے کہ جب فاطمہ رضی اللہ عنہا آپ کے پاس آئی تھیں، رسول اللہ صلی اللہ علیہ وسلم نے انہیں اجازت دے دی، وہ بولیں: اللہ کے رسول! آپ کی بیویوں نے مجھے آپ کے پاس اس لیے بھیجا ہے کہ وہ سب ابوقحافہ کی بیٹی کے تعلق سے آپ سے عدل و انصاف کا مطالبہ کر رہی ہیں اور وہ مجھے برا بھلا کہنے لگیں اور خوب زبان درازی کی، میں رسول اللہ صلی اللہ علیہ وسلم کو دیکھ رہی تھی اور آپ کی نگاہ دیکھ رہی تھی کہ آیا آپ مجھے بھی ان کا جواب دینے کی اجازت دیتے ہیں، زینب رضی اللہ عنہا ابھی وہیں پر تھیں کہ میں نے اندازہ کر لیا کہ اگر میں انہیں جواب دوں تو رسول اللہ صلی اللہ علیہ وسلم کو برا نہیں لگے گا۔ چنانچہ جب میں نے انہیں برا بھلا کہا تو میں نے انہیں ذرا بھی ٹکنے نہیں دیا یہاں تک کہ میں ان سے آگے نکل گئی۔ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”یہ ابوبکر کی بیٹی ہے“۔",
+          "fr": "Rapporté par 'Aishah : Les épouses du Prophète ont envoyé Fatimah, la fille du Messager d’Allah, auprès du Messager d’Allah. Elle a demandé la permission d’entrer alors qu’il était allongé avec moi sous ma couverture. Il lui a donné la permission d’entrer, et elle a dit : \"Ô Messager d’Allah, tes épouses m’ont envoyée pour te demander d’être juste concernant la fille d’Abu Quhafah.\" Je ('Aishah) suis restée silencieuse et le Messager d’Allah lui a dit : \"Ô ma fille ! N’aimes-tu pas celle que j’aime ?\" Elle a répondu : \"Oui.\" Il a dit : \"Alors aime-la.\" Fatimah s’est levée en entendant cela et a quitté le Messager d’Allah, puis elle est retournée auprès des épouses du Prophète. Elle leur a raconté ce qu’elle avait dit et ce qu’il lui avait répondu. Elles lui ont dit : \"Nous pensons que tu ne nous as pas aidées. Retourne voir le Messager d’Allah et dis-lui : Tes épouses te demandent d’être juste concernant la fille d’Abu Quhafah.\" Fatimah a dit : \"Non, par Allah ; je ne lui parlerai plus jamais d’elle.\" 'Aishah a dit : \"Alors les épouses du Prophète ont envoyé Zaynab bint Jahsh auprès du Messager d’Allah ; elle était à peu près mon égale aux yeux du Messager d’Allah. Je n’ai jamais vu de femme meilleure dans la foi que Zaynab, plus pieuse envers Allah, plus honnête dans ses paroles, plus attentive à maintenir les liens de parenté, plus généreuse en aumône, et plus dévouée dans ses œuvres pour se rapprocher d’Allah. Mais elle était prompte à se mettre en colère ; cependant, elle se calmait aussi rapidement. Elle a demandé la permission d’entrer auprès du Messager d’Allah alors qu’il était avec 'Aishah sous sa couverture, dans la même situation que lorsque Fatimah était entrée. Le Messager d’Allah lui a donné la permission d’entrer et elle a dit : \"Ô Messager d’Allah, tes épouses m’ont envoyée pour te demander d’être juste concernant la fille d’Abu Quhafah.\" Puis elle m’a insultée longuement, et j’observais le Messager d’Allah pour voir s’il me permettrait de répondre. Zaynab a continué jusqu’à ce que je comprenne que le Messager d’Allah ne désapprouverait pas si je répondais. Alors je lui ai répondu de telle manière que je l’ai réduite au silence. Puis le Messager d’Allah a dit : \"C’est la fille d’Abu Bakr",
+          "id": "Telah mengabarkan kepada kami ['Ubaidullah bin Sa'd bin Ibrahim bin Sa'd] telah menceritakan kepada kami [pamanku] telah menceritakan kepada kami [ayahku] dari [Shalih] dari [Ibnu Syihab] telah mengabarkan kepadaku [Muhammad bin Abdur Rahman bin Al Harits bin Hisyam] bahwa [Aisyah] berkata; \"Para isteri Nabi shallallahu 'alaihi wasallam mengirim Fathimah binti Rasulullah shallallahu 'alaihi wasallam kepada Rasulullah shallallahu 'alaihi wasallam, kemudian dia meminta izin kepada beiau sedang beliau dalam keadaan berbaring bersamaku dalam pakaian buluku. Kemudian beliau memberikan izin kepadanya, lalu Fatimah berkata; \"Wahai Rasulullah, sesungguhnya para isteri Tuan mengirimku kepada Tuan, mereka meminta keadilan mengenai anak Abu Quhafah. Dan saya dalam keadaan diam, kemudian Rasulullah shallallahu 'alaihi wasallam bersabda kepadanya: \"Wahai anakku, bukankah engkau mencintai orang yang saya cintai?\" Dia berkata; \"Ya.' Beliau bersabda: \"Maka cintailah orang ini.\" Kemudian Fathimah bangkit ketika dia mendengar hal tersebut dari Rasulullah shallallahu 'alaihi wasallam. Kemudian dia kembali kepada para isteri Nabi shallallahu 'alaihi wasallam dan mengabarkan kepada mereka apa yang telah dia katakan dan apa yang beliau sabdakan kepadanya. Kemudian mereka berkata; kami tidak melihat dirimu memuaskan kami sedikitpun, maka kembalilah kepada Rasulullah shallallahu 'alaihi wasallam dan katakan kepada beliau; sesungguhnya isteri-isteri Tuan menuntut keadilan mengenai anak Abu Quhafah.\" Fathimah berkata; \"Tidak. Demi Allah saya tidak akan berbicara dengan beliau mengenainya selamanya. 'Aisyah berkata; \"Kemudian isteri-isteri Nabi shallallahu 'alaihi wasallam mengirim Zainab binti Jahsy kepada Rasulullah shallallahu 'alaihi wasallam dan dia adalah orang yang menjadi sainganku di antara isteri-isteri Nabi shallallahu 'alaihi wasallam di dalam kedudukan di sisi Rasulullah shallallahu 'alaihi wasallam, saya tidak melihat seorang wanita yang paling baik dalam agama lebih baik daripada Zainab dan lebih bertakwa kepada Allah 'azza wajalla, lebih jujur perkataannya, lebih sering menyambung ikatan kekerabatan, lebih besar sedekahnya, dan lebih rendah diri dalam hal amalan yang dia sedekahkan dan dia gunakan untuk mendekatkan diri kepada Allah selain cepat marah karena keras budi pekertinya, namun dia cepat menarik diri dari kemarahan. Dia meminta izin kepada Rasulullah shallallahu 'alaihi wasallam, sedang Rasulullah shallallahu 'alaihi wasallam tengah bersama Aisyah dalam baju bulunya sebagaimana ketika Fathimah menemui beliau. Kemudian Rasulullah shallallahu 'alaihi wasallam memberikan izin kepadanya, kemudian dia berkata; \"Wahai Rasulullah shallallahu 'alaihi wasallam, sesungguhnya isteri-isteri Tuan mengirimku, mereka meminta keadilan mengenai anak Abu Quhafah.\" Dan dia mencelaku, dia berbicara lama sedang saya memperhatikan Rasulullah shallallahu 'alaihi wasallam dan memperhatikan ujung matanya, apakah beliau mengizinkan saya (membalas) ucapannya. Zainab tidak kunjung pergi hingga saya mengetahui bahwa Rasulullah shallallahu 'alaihi wasallam tidak membenci saya jika saya membalasnya Kemudian tatkala saya mencelanya saya tidak diam begitu saja (mendengar celaannya) hingga (kemudian) saya menyerangnya. Kemudian Rasulullah shallallahu 'alaihi wasallam bersabda: \"Sesungguhnya dia adalah anak Abu Bakar.\" [Imran bin Bakkar Al Himshi] telah mengabarkan kepadaku, dia berkata; telah menceritakan kepada kami [Abu Al Yaman] telah memberitakan kepada kami [Syu'aib] dari [Az Zuhri] telah mengabarkan kepadaku [Muhammad bin Abdur Rahman bin Al Harits bin Hisyam] bahwa [Aisyah] berkata;...(dia menyebutkan seperti di atas). Dan dia berkata; \"Para isteri Nabi shallallahu 'alaihi wasallam mengirim Zainab kemudian dia meminta izin dan beliau mengizinkannya kemudian dia masuk dan berkata seperti itu. Ma'mar menyelisihi keduanya, dia meriwayatkannya dari Az Zuhri dari 'Urwah dari 'Aisyah"
+        }
+      },
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ],
+      "reference": {
+        "collection": "nasai",
+        "book": 36,
+        "hadith": 6
+      }
+    },
+    {
+      "hadithNumber": 3945,
+      "arabicNumber": 3945,
+      "book": 36,
+      "hadithInBook": 7,
+      "text": {
+        "arabic": "أَخْبَرَنِي عِمْرَانُ بْنُ بَكَّارٍ الْحِمْصِيُّ، قَالَ حَدَّثَنَا أَبُو الْيَمَانِ، قَالَ أَنْبَأَنَا شُعَيْبٌ، عَنِ الزُّهْرِيِّ، قَالَ أَخْبَرَنِي مُحَمَّدُ بْنُ عَبْدِ الرَّحْمَنِ بْنِ الْحَارِثِ بْنِ هِشَامٍ، أَنَّ عَائِشَةَ، قَالَتْ فَذَكَرَتْ نَحْوَهُ وَقَالَتْ أَرْسَلَ أَزْوَاجُ النَّبِيِّ صلى الله عليه وسلم زَيْنَبَ فَاسْتَأْذَنَتْ فَأَذِنَ لَهَا فَدَخَلَتْ فَقَالَتْ نَحْوَهُ ‏.‏ خَالَفَهُمَا مَعْمَرٌ رَوَاهُ عَنِ الزُّهْرِيِّ عَنْ عُرْوَةَ عَنْ عَائِشَةَ ‏.‏",
+        "translations": {
+          "en": "It was narrated that 'Aishah mentioned a similar report and said:\"The wives of the Prophet sent Zainab and she asked him permission to enter and she entered.\" And she said something similar. Ma'mar contradicted the two of them; he reported it from Az-Zuhri, from 'Urwah, from 'Aishah",
+          "ur": "اس سند سے بھی ہے کہ عائشہ رضی اللہ عنہا کہتی ہیں کہ پھر انہوں نے اسی طرح بیان کیا اور وہ اس میں ( صرف اتنا ) کہتی ہیں: نبی اکرم صلی اللہ علیہ وسلم کی بیویوں نے زینب کو بھیجا تو انہوں نے اجازت طلب کی، آپ نے انہیں اجازت دی، پھر وہ اسی طرح آگے کہتی ہیں، معمر نے اس کے برعکس عن الزہری، عن عروۃ، عن عائشہ کہہ کر روایت کی ہے۔",
+          "fr": "Rapporté par 'Aishah : 'Aishah a rapporté un récit similaire et a dit : \"Les épouses du Prophète ont envoyé Zaynab et elle lui a demandé la permission d’entrer et elle est entrée.\" Et elle a dit quelque chose de similaire. Ma’mar a rapporté différemment ; il l’a transmis d’Az-Zuhri, de 'Urwah, de 'Aishah"
+        }
+      },
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "nasai",
+        "book": 36,
+        "hadith": 7
+      }
+    },
+    {
+      "hadithNumber": 3946,
+      "arabicNumber": 3946,
+      "book": 36,
+      "hadithInBook": 8,
+      "text": {
+        "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ رَافِعٍ النَّيْسَابُورِيُّ الثِّقَةُ الْمَأْمُونُ، قَالَ حَدَّثَنَا عَبْدُ الرَّزَّاقِ، عَنْ مَعْمَرٍ، عَنِ الزُّهْرِيِّ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، قَالَتِ اجْتَمَعْنَ أَزْوَاجُ النَّبِيِّ صلى الله عليه وسلم فَأَرْسَلْنَ فَاطِمَةَ إِلَى النَّبِيِّ صلى الله عليه وسلم فَقُلْنَ لَهَا إِنَّ نِسَاءَكَ وَذَكَرَ كَلِمَةً مَعْنَاهَا يَنْشُدْنَكَ الْعَدْلَ فِي ابْنَةِ أَبِي قُحَافَةَ ‏.‏ قَالَتْ فَدَخَلَتْ عَلَى النَّبِيِّ صلى الله عليه وسلم وَهُوَ مَعَ عَائِشَةَ فِي مِرْطِهَا فَقَالَتْ لَهُ إِنَّ نِسَاءَكَ أَرْسَلْنَنِي وَهُنَّ يَنْشُدْنَكَ الْعَدْلَ فِي ابْنَةِ أَبِي قُحَافَةَ ‏.‏ فَقَالَ لَهَا النَّبِيُّ صلى الله عليه وسلم ‏\"‏ أَتُحِبِّينِي ‏\"‏ ‏.‏ قَالَتْ نَعَمْ قَالَ ‏\"‏ فَأَحِبِّيهَا ‏\"‏ ‏.‏ قَالَتْ فَرَجَعَتْ إِلَيْهِنَّ فَأَخْبَرَتْهُنَّ مَا قَالَ فَقُلْنَ لَهَا إِنَّكِ لَمْ تَصْنَعِي شَيْئًا فَارْجِعِي إِلَيْهِ ‏.‏ فَقَالَتْ وَاللَّهِ لاَ أَرْجِعُ إِلَيْهِ فِيهَا أَبَدًا ‏.‏ وَكَانَتِ ابْنَةَ رَسُولِ اللَّهِ صلى الله عليه وسلم حَقًّا فَأَرْسَلْنَ زَيْنَبَ بِنْتَ جَحْشٍ قَالَتْ عَائِشَةُ وَهِيَ الَّتِي كَانَتْ تُسَامِينِي مِنْ أَزْوَاجِ النَّبِيِّ صلى الله عليه وسلم فَقَالَتْ أَزْوَاجُكَ أَرْسَلْنَنِي وَهُنَّ يَنْشُدْنَكَ الْعَدْلَ فِي ابْنَةِ أَبِي قُحَافَةَ ‏.‏ ثُمَّ أَقْبَلَتْ عَلَىَّ تَشْتِمُنِي فَجَعَلْتُ أُرَاقِبُ النَّبِيَّ صلى الله عليه وسلم وَأَنْظُرُ طَرْفَهُ هَلْ يَأْذَنُ لِي مِنْ أَنْ أَنْتَصِرَ مِنْهَا - قَالَتْ - فَشَتَمَتْنِي حَتَّى ظَنَنْتُ أَنَّهُ لاَ يَكْرَهُ أَنْ أَنْتَصِرَ مِنْهَا فَاسْتَقْبَلْتُهَا فَلَمْ أَلْبَثْ أَنْ أَفْحَمْتُهَا فَقَالَ لَهَا النَّبِيُّ صلى الله عليه وسلم ‏\"‏ إِنَّهَا ابْنَةُ أَبِي بَكْرٍ ‏\"‏ ‏.‏ قَالَتْ عَائِشَةُ فَلَمْ أَرَ امْرَأَةً خَيْرًا وَلاَ أَكْثَرَ صَدَقَةً وَلاَ أَوْصَلَ لِلرَّحِمِ وَأَبْذَلَ لِنَفْسِهَا فِي كُلِّ شَىْءٍ يُتَقَرَّبُ بِهِ إِلَى اللَّهِ تَعَالَى مِنْ زَيْنَبَ مَا عَدَا سَوْرَةً مِنْ حِدَّةٍ كَانَتْ فِيهَا تُوشِكُ مِنْهَا الْفَيأَةَ ‏.‏ قَالَ أَبُو عَبْدِ الرَّحْمَنِ هَذَا خَطَأٌ وَالصَّوَابُ الَّذِي قَبْلَهُ ‏.‏",
+        "translations": {
+          "en": "It was narrated that 'Aishah said:\"The wives of the Prophet got together and sent Fatimah to the Prophet. They told her to say: 'Your wives'\" -and he (the narrator) said something to the effect that they are urging you to be equitable with regard to the matter of the daughter of Abu Quhafah. She said: \"So she entered upon the Prophet when he was with 'Aishah under her cover. She said to him: 'Your wives have sent me and they are urging you to be equitable with regard to the matter of the daughter of Abu Quhafah.' The Prophet said to her: 'Do you love me?' She said: 'Yes.' He said: 'Then love her.' So she went back to them and told them what he said. They said to her: 'You did not do anything; go back to him.' She said: 'By Allah, I will never go back (and speak to him) about her again.' She was truly the daughter of the Messenger of Allah. So they sent Zainab bint Jahsh.\" 'Aishah said: \"She was somewhat my equal among the wives of the Prophet. She said: 'Your wives have sent me to urge you to be equitable with regard to the matter of the daughter of Abu Quhafa.' Then she swooped on me and abused me, and I started watching the Prophet to see if he would give me permission to respond to her. She insulted me and I started to think that he would not disapprove if I responded to her. So I insulted her and I soon silenced her. Then the Prophet said to her: 'She is the daughter of Abu Bakr.'\" 'Aishah said: \"And I never saw any woman who was better, more generous in giving charity, more keen to uphold the ties of kinship, and more generous in giving of herself in everything by means of which she could draw closer to Allah than Zainab. But she had a quick temper; however, she was also quick to calm down",
+          "ur": "ام المؤمنین عائشہ رضی الله عنہا کہتی ہیں کہ نبی اکرم صلی اللہ علیہ وسلم کی بیویاں اکٹھا ہوئیں اور انہوں نے فاطمہ رضی اللہ عنہا کو نبی اکرم صلی اللہ علیہ وسلم کے پاس بھیجا اور ان سے کہا: آپ کی بیویاں – اور ایسا کلمہ کہا جس کا مفہوم یہ ہے – ابوقحافہ کی بیٹی کے تعلق سے آپ سے مطالبہ کرتی ہیں کہ انصاف سے کام لیجئیے۔ چنانچہ وہ نبی اکرم صلی اللہ علیہ وسلم کے پاس گئیں، آپ عائشہ رضی اللہ عنہا کے ساتھ ان کی چادر میں تھے۔ انہوں نے آپ سے کہا: ( اللہ کے رسول! ) آپ کی بیویوں نے مجھے آپ کے پاس بھیجا ہے وہ ابوقحافہ کی بیٹی ( عائشہ ) کے سلسلے میں آپ سے عدل کا مطالبہ کر رہی ہیں، نبی اکرم صلی اللہ علیہ وسلم نے ان سے فرمایا: ”کیا تمہیں مجھ سے محبت ہے؟“ کہا: جی ہاں! آپ نے فرمایا: ”تو تم بھی ان ( عائشہ ) سے محبت کرو“، عائشہ رضی اللہ عنہا کہتی ہیں: فاطمہ رضی اللہ عنہا نے نبی اکرم صلی اللہ علیہ وسلم کی بیویوں کے پاس واپس آ کر انہیں وہ ساری بات بتائی جو آپ نے ( فاطمہ سے ) کہی، وہ سب بولیں: تم نے ہمارے لیے کچھ بھی نہیں کیا، تم پھر رسول اللہ صلی اللہ علیہ وسلم کے پاس جاؤ۔ فاطمہ نے کہا: نہیں، اللہ کی قسم! میں ان کے سلسلے میں آپ کے پاس کبھی نہیں جاؤں گی اور درحقیقت وہ اللہ کے رسول صلی اللہ علیہ وسلم کی بیٹی تھیں ۱؎، اب نبی اکرم صلی اللہ علیہ وسلم کی ازواج مطہرات نے ( رسول اللہ صلی اللہ علیہ وسلم کے پاس ) زینب بنت جحش رضی اللہ عنہا کو بھیجا۔ اور زینب ہی ایسی تھیں جو نبی اکرم صلی اللہ علیہ وسلم کی بیویوں میں ( رسول اللہ صلی اللہ علیہ وسلم کے نزدیک ) میرے برابر کا درجہ رکھتی تھیں۔ وہ بولیں: ( اللہ کے رسول! ) آپ کی بیویوں نے مجھے آپ کے پاس اس لیے بھیجا ہے کہ وہ سب ابوقحافہ کی بیٹی کے تعلق سے آپ سے عدل و انصاف کا مطالبہ کر رہی ہیں اور وہ مجھے برا بھلا کہنے لگیں۔ میں نبی اکرم صلی اللہ علیہ وسلم کو دیکھ رہی تھی اور آپ کی نگاہ دیکھ رہی تھی کہ آیا آپ مجھے بھی ان کا جواب دینے کی اجازت دیتے ہیں؟ زینب رضی اللہ عنہا ابھی وہیں پر تھیں کہ میں نے اندازہ کر لیا کہ اگر میں انہیں جواب دوں تو رسول اللہ صلی اللہ علیہ وسلم کو برا نہیں لگے گا۔ چنانچہ ( جب ) میں نے انہیں برا بھلا کہا ( تو میں نے انہیں ذرا بھی ٹکنے نہیں دیا ) یہاں تک کہ میں ان سے آگے نکل گئی، نبی اکرم صلی اللہ علیہ وسلم نے زینب رضی اللہ عنہا سے فرمایا: ”یہ ابوبکر کی بیٹی ہے“۔ عائشہ رضی اللہ عنہا کہتی ہیں: میں نے کبھی بھی دین کے معاملے میں بہتر، اللہ سے ڈرنے والی، سچ بات کہنے والی اور صلہ رحمی کرنے والی، بڑے بڑے صدقات کرنے والی، صدقہ و خیرات اور قرب الٰہی کے کاموں میں خود کو سب سے زیادہ کمتر کرنے والی زینب رضی اللہ عنہا سے بڑھ کر کوئی عورت نہیں دیکھا سوائے اس کے کہ وہ مزاج کی تیز طرار تھیں لیکن ان کا غصہ بہت جلد رفع ہو جاتا تھا۔ ابوعبدالرحمٰن نسائی کہتے ہیں: اس ( روایت ) میں غلطی ہے صحیح وہی ہے جو اس سے پہلے گزری۔",
+          "fr": "Rapporté par 'Aishah : Les épouses du Prophète se sont réunies et ont envoyé Fatimah auprès du Prophète. Elles lui ont dit de dire : \"Tes épouses\" – et il (le rapporteur) a dit quelque chose dans le sens qu’elles te demandent d’être juste concernant la fille d’Abu Quhafah. Elle a dit : \"Elle est donc entrée auprès du Prophète alors qu’il était avec 'Aishah sous sa couverture. Elle lui a dit : 'Tes épouses m’ont envoyée et elles te demandent d’être juste concernant la fille d’Abu Quhafah.' Le Prophète lui a dit : 'M’aimes-tu ?' Elle a répondu : 'Oui.' Il a dit : 'Alors aime-la.' Elle est donc retournée auprès d’elles et leur a raconté ce qu’il avait dit. Elles lui ont dit : 'Tu n’as rien fait ; retourne le voir.' Elle a dit : 'Par Allah, je ne retournerai jamais (lui parler) d’elle.' Elle était vraiment la fille du Messager d’Allah. Alors elles ont envoyé Zaynab bint Jahsh.\" 'Aishah a dit : \"Elle était à peu près mon égale parmi les épouses du Prophète. Elle a dit : 'Tes épouses m’ont envoyée pour te demander d’être juste concernant la fille d’Abu Quhafa.' Puis elle s’est jetée sur moi et m’a insultée, et j’ai commencé à observer le Prophète pour voir s’il me permettrait de lui répondre. Elle m’a insultée et j’ai pensé qu’il ne désapprouverait pas si je lui répondais. Alors je l’ai insultée et je l’ai vite réduite au silence. Puis le Prophète lui a dit : 'C’est la fille d’Abu Bakr.'\" 'Aishah a dit : \"Et je n’ai jamais vu de femme meilleure, plus généreuse en aumône, plus soucieuse de maintenir les liens de parenté, et plus dévouée dans tout ce qui pouvait la rapprocher d’Allah que Zaynab. Mais elle avait un tempérament vif ; cependant, elle se calmait aussi rapidement",
+          "id": "Telah mengabarkan kepada kami [Muhammad bin Rafi' An Naisaburi Ats Tsiqqah Al Makmun] telah menceritakan kepada kami [Abdur Razzaq] dari [Ma'mar] dari [Az Zuhri] dari ['Urwah] dari [Aisyah], dia berkata; \"Isteri-isteri Nabi shallallahu 'alaihi wasallam berkumpul dan mengirim Fathimah kepada Nabi shallallahu 'alaihi wasallam. Mereka berkata; \"Sesungguhnya isteri-isterimu..dan Az Zuhri menyebutkan suatu kalimat yang maknanya adalah; meminta keadilan mengenai anak Abi Quhafah. Aisyah berkata; kemudian Fathimah menemui Nabi shallallahu 'alaihi wasallam ketika beliau tengah bersama Aisyah dalam pakaian bulunya, kemudian dia berkata; \"Sesungguhnya para isteri Tuan mengirimku kepada Tuan, mereka meminta keadilan mengenai anak Abu Quhafah.\" Kemudian beliau bersabda kepadanya: \"Apakah engkau mencintaiku?\" Dia berkata; \"Ya.\" Beliau bersabda: \"Maka cintailah dia.\" Aisyah berkata; \"Kemudian Fathimah kembali kepada para isteri Nabi shallallahu 'alaihi wasallam dan mengabarkan kepada mereka apa yang beliau sabdakan. Kemudian mereka berkata; \"Sesungguhnya engkau belum melakukan apa-apa, maka kembalilah kepadanya.\" Fathimah berkata; \"Demi Allah, saya tidak akan kembali kepada beliau mengadukan tentang hal ini selamanya.\" dia adalah benar-benar puteri Nabi shallallahu 'alaihi wasallam yang sejati. Kemudian mereka mengirim Zainab binti Jahsy. Aisyah berkata; \"Dia adalah orang yang menjadi sainganku di antara isteri-isteri Nabi shallallahu 'alaihi wasallam. Kemudian dia berkata; \"Sesungguhnya isteri-isteri Tuan mengirimku, mereka meminta keadilan mengenai anak Abu Quhafah. Kemudian dia menghadap kepadaku dan mencelaku, saya memperhatikan Rasulullah shallallahu 'alaihi wasallam dan memperhatikan sudut matanya, apakah beliau mengizinkan saya untuk menanggapinya? Aisyah berkata; kemudian dia mencelaku hingga saya yakin bahwa beliau tidak membenci saya ketika saya menanggapinya. Kemudian saya menghadapinya dan tidak lama sayapun membuatnya tak berkutik. Kemudian Rasulullah shallallahu 'alaihi wasallam bersabda: \"Sesungguhnya dia adalah anak Abu Bakar.\" Aisyah berkata; \"Saya belum melihat wanita yang lebih baik dan lebih banyak bersedekah, lebih sering menyambung hubungan kekerabatan, dan merendahkan diri dalam segala sesuatu untuk mendekatkan diri kepada Allah ta'ala dari Zainab selain sikap cepat marah karena kerasnya budi pekertinya, dan dia bersegera menarik diri darinya. Abu Abdur Rahman berkata; \"Ini adalah suatu kesalahan dan yang benar adalah yang sebelumnya"
+        }
+      },
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "nasai",
+        "book": 36,
+        "hadith": 8
+      }
+    },
+    {
+      "hadithNumber": 3947,
+      "arabicNumber": 3947,
+      "book": 36,
+      "hadithInBook": 9,
+      "text": {
+        "arabic": "أَخْبَرَنَا إِسْمَاعِيلُ بْنُ مَسْعُودٍ، قَالَ حَدَّثَنَا بِشْرٌ، - يَعْنِي ابْنَ الْمُفَضَّلِ - قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ عَمْرِو بْنِ مُرَّةَ، ‏{‏ عَنْ مُرَّةَ، ‏}‏ عَنْ أَبِي مُوسَى، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ فَضْلُ عَائِشَةَ عَلَى النِّسَاءِ كَفَضْلِ الثَّرِيدِ عَلَى سَائِرِ الطَّعَامِ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated from Abu Musa that the Prophet said:\"The superiority of 'Aishah to other women is like the superiority of Tharid to other kinds of food",
+          "ur": "ابوموسیٰ اشعری رضی الله عنہ کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: ”عورتوں پر عائشہ کی فضیلت ایسے ہی ہے جیسے ثرید کی تمام کھانوں پر“ ۱؎۔",
+          "fr": "Rapporté par Abu Musa : Le Prophète a dit : \"La supériorité de 'Aishah sur les autres femmes est comme la supériorité du tharid sur les autres types de nourriture",
+          "id": "Telah mengabarkan kepada kami [Isma'il bin Mas'ud] telah menceritakan kepada kami [Bisyr yaitu Ibnu Al Mufadhdhal] telah menceritakan kepada kami [Syu'bah] dari ['Amru bin Murrah] dari [Murrah Al Juhani] dari [Abu Musa] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: \" Keutamaan Aisyah atas wanita yang lain seperti keutamaan bubur atas makanan yang lain"
+        }
+      },
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "collection": "nasai",
+        "book": 36,
+        "hadith": 9
+      }
+    },
+    {
+      "hadithNumber": 3948,
+      "arabicNumber": 3948,
+      "book": 36,
+      "hadithInBook": 10,
+      "text": {
+        "arabic": "أَخْبَرَنَا عَلِيُّ بْنُ خَشْرَمٍ، قَالَ أَنْبَأَنَا عِيسَى بْنُ يُونُسَ، عَنِ ابْنِ أَبِي ذِئْبٍ، عَنِ الْحَارِثِ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ أَبِي سَلَمَةَ، عَنْ عَائِشَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏ \"‏ فَضْلُ عَائِشَةَ عَلَى النِّسَاءِ كَفَضْلِ الثَّرِيدِ عَلَى سَائِرِ الطَّعَامِ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated from 'Aishah that the Prophet said:\"The superiority of 'Aishah to other women is like the superiority of Tharid to other kinds of food",
+          "ur": "ام المؤمنین عائشہ رضی الله عنہا سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: ”عورتوں پر عائشہ کی فضیلت ایسے ہی ہے جیسے ثرید کی سارے کھانوں پر“۔",
+          "fr": "Rapporté par 'Aishah : Le Prophète a dit : \"La supériorité de 'Aishah sur les autres femmes est comme la supériorité du tharid sur les autres types de nourriture",
+          "id": "Telah mengabarkan kepada kami [Ali bin Khasyram] telah memberitakan kepada kami [Isa bin Yunus] dari [Ibnu Abu Dzi`b] dari [Al Harits bin Abdur Rahman] dari [Abu Salamah] dari [Aisyah] bahwa Nabi shallallahu 'alaihi wasallam bersabda: \"Keutamaan Aisyah atas wanita yang lain seperti keutamaan bubur atas makanan yang lain"
+        }
+      },
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "nasai",
+        "book": 36,
+        "hadith": 10
+      }
+    },
+    {
+      "hadithNumber": 3949,
+      "arabicNumber": 3949,
+      "book": 36,
+      "hadithInBook": 11,
+      "text": {
+        "arabic": "أَخْبَرَنَا أَبُو بَكْرِ بْنُ إِسْحَاقَ الصَّغَانِيُّ، قَالَ حَدَّثَنَا شَاذَانُ، قَالَ حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، قَالَتْ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ يَا أُمَّ سَلَمَةَ لاَ تُؤْذِينِي فِي عَائِشَةَ فَإِنَّهُ وَاللَّهِ مَا أَتَانِي الْوَحْىُ فِي لِحَافِ امْرَأَةٍ مِنْكُنَّ إِلاَّ هِيَ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated that 'Aishah said:\"The Messenger of Allah said: 'O Umm Salamah, do not bother me about 'Aishah, for by Allah, the Revelation has never come to me under the blanket of any of you apart from her",
+          "ur": "ام المؤمنین عائشہ رضی الله عنہا کہتی ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”اے ام سلمہ! مجھے عائشہ کے تعلق سے ایذا نہ دو، اس لیے کہ اللہ کی قسم! اس کے علاوہ کوئی عورت تم میں سے ایسی نہیں ہے جس کے لحاف میں میرے پاس وحی آئی ہو“۔",
+          "fr": "Rapporté par 'Aishah : Le Messager d’Allah a dit : \"Ô Umm Salamah, ne me dérange pas au sujet de 'Aishah, car par Allah, la Révélation n’est jamais venue à moi sous la couverture de l’une d’entre vous sauf sous la sienne",
+          "id": "Telah mengabarkan kepada kami [Abu Bakar bin Ishaq Ash Shaghani] telah menceritakan kepada kami [Syadzan] telah menceritakan kepada kami [Hammad bin Zaid] dari [Hisyam bin 'Urwah] dari [ayahnya] dari [Aisyah], dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \" wahai Ummu Salamah, janganlah engkau menyakitiku mengenai diri Aisyah, karena demi Allah, sesungguhnya tidaklah datang kepadaku wahyu dalam selimut seorang wanita diantara kalian kecuali dia"
+        }
+      },
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih Sahih Bukhari"
+        }
+      ],
+      "reference": {
+        "collection": "nasai",
+        "book": 36,
+        "hadith": 11
+      }
+    },
+    {
+      "hadithNumber": 3950,
+      "arabicNumber": 3950,
+      "book": 36,
+      "hadithInBook": 12,
+      "text": {
+        "arabic": "أَخْبَرَنِي مُحَمَّدُ بْنُ آدَمَ، عَنْ عَبْدَةَ، عَنْ هِشَامٍ، عَنْ عَوْفِ بْنِ الْحَارِثِ، عَنْ رُمَيْثَةَ، عَنْ أُمِّ سَلَمَةَ، أَنَّ نِسَاءَ النَّبِيِّ، صلى الله عليه وسلم كَلَّمْنَهَا أَنْ تُكَلِّمَ النَّبِيَّ صلى الله عليه وسلم أَنَّ النَّاسَ كَانُوا يَتَحَرَّوْنَ بِهَدَايَاهُمْ يَوْمَ عَائِشَةَ وَتَقُولُ لَهُ إِنَّا نُحِبُّ الْخَيْرَ كَمَا تُحِبُّ عَائِشَةَ فَكَلَّمَتْهُ فَلَمْ يُجِبْهَا فَلَمَّا دَارَ عَلَيْهَا كَلَّمَتْهُ أَيْضًا فَلَمْ يُجِبْهَا وَقُلْنَ مَا رَدَّ عَلَيْكِ قَالَتْ لَمْ يُجِبْنِي ‏.‏ قُلْنَ لاَ تَدَعِيهِ حَتَّى يَرُدَّ عَلَيْكِ أَوْ تَنْظُرِينَ مَا يَقُولُ ‏.‏ فَلَمَّا دَارَ عَلَيْهَا كَلَّمَتْهُ فَقَالَ ‏ \"‏ لاَ تُؤْذِينِي فِي عَائِشَةَ فَإِنَّهُ لَمْ يَنْزِلْ عَلَىَّ الْوَحْىُ وَأَنَا فِي لِحَافِ امْرَأَةٍ مِنْكُنَّ إِلاَّ فِي لِحَافِ عَائِشَةَ ‏\"‏ ‏.‏ قَالَ أَبُو عَبْدِ الرَّحْمَنِ هَذَانِ الْحَدِيثَانِ صَحِيحَانِ عَنْ عَبْدَةَ ‏.‏",
+        "translations": {
+          "en": "It was narrated from Umm Salamah that the wives of the Prophet asked her to speak to the Prophet and tell him, that the people were trying to bring their gifts to him when it was 'Aishah's day, and to say to him:\"We love good things as much as 'Aishah does.\" So she spoke to him, but he did not reply her. When her turn came again, she spoke to him again, but he did not reply her. They said to her: \"How did he respond?\" She said: \"He did not answer me.\" They said: \"Do not leave him alone until he answers you or you comprehend what he says.\" When her turn came again, she spoke to him and he said: 'Do not bother me about 'Aishah, for the Revelation has never come to me under the blanket of any of you apart from the blanket of 'Aishah",
+          "ur": "ام المؤمنین ام سلمہ رضی الله عنہا سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم کی بیویوں نے ان سے بات کی کہ وہ نبی اکرم صلی اللہ علیہ وسلم سے بات کریں کہ لوگ عائشہ کی باری کے دن ہدیے اور تحفے بھیجتے ہیں اور آپ سے کہیں کہ ہمیں بھی خیر سے اسی طرح محبت ہے جیسے آپ کو عائشہ سے ہے، چنانچہ انہوں نے آپ سے گفتگو کی لیکن آپ نے انہیں کوئی جواب نہیں دیا، جب ان کی باری کا دن آیا تو انہوں نے پھر بات کی، آپ نے انہیں جواب نہیں دیا۔ انہوں ( بیویوں ) نے کہا: آپ صلی اللہ علیہ وسلم نے تمہیں کوئی جواب دیا؟ وہ بولیں: کوئی جواب نہیں دیا۔ انہوں نے کہا: تم چھوڑنا مت، جب تک کوئی جواب نہ دے دیں۔ ( یا یوں کہا: ) جب تک تم دیکھ نہ لو کہ آپ کیا جواب دیتے ہیں۔ جب پھر ان کی باری آئی تو انہوں نے آپ سے گفتگو کی، آپ صلی اللہ علیہ وسلم نے فرمایا: ”عائشہ کے تعلق سے مجھے اذیت نہ دو، اس لیے کہ عائشہ کے لحاف کے علاوہ تم میں سے کسی عورت کے لحاف میں ہوتے ہوئے میرے پاس وحی نہیں آئی“۔ ابوعبدالرحمٰن نسائی کہتے ہیں: عبدہ سے مروی یہ دونوں حدیثیں صحیح ہیں۔",
+          "fr": "Rapporté par Umm Salamah : Les épouses du Prophète lui ont demandé de parler au Prophète et de lui dire que les gens essayaient d’apporter leurs cadeaux chez lui quand c’était le jour de 'Aishah, et de lui dire : \"Nous aimons les bonnes choses autant que 'Aishah.\" Elle lui en a parlé, mais il ne lui a pas répondu. Quand son tour est revenu, elle lui en a reparlé, mais il ne lui a pas répondu. Elles lui ont demandé : \"Qu’a-t-il répondu ?\" Elle a dit : \"Il ne m’a pas répondu.\" Elles ont dit : \"Ne le laisse pas tranquille jusqu’à ce qu’il te réponde ou que tu comprennes ce qu’il dit.\" Quand son tour est revenu, elle lui en a reparlé et il a dit : \"Ne me dérange pas au sujet de 'Aishah, car la Révélation n’est jamais venue à moi sous la couverture de l’une d’entre vous sauf sous la couverture de 'Aishah",
+          "id": "Telah mengabarkan kepada kami [Muhammad bin Adam] dari ['Abdah] dari [Hisyam] dari ['Auf bin Al Harits] dari [Rumaitsah] dari [Ummu Salamah] bahwa para isteri Nabi shallallahu 'alaihi wasallam berbicara kepadanya agar dia berbicara kepada Nabi shallallahu 'alaihi wasallam bahwa orang-orang mengkhususkan hadiah mereka pada hari giliran Aisyah dan berkata kepada beliau; \"Sesungguhnya kami mencintai kebaikan sebagaimana Tuan mencintai Aisyah.\" Kemudian Ummu Salamah berbicara kepada beliau tetapi beliau tidak menjawabnya. Kemudian ketika tiba hari gilirannya, Ummu Salamah mengatakannya kembali kepada beliau, tetapi beliau tidak menjawabnya. Para isteri beliau berkata; \"Beliau tidak menjawabmu.\" Dia berkata; \"Beliau tidak menjawabku.\" Mereka berkata; \"Janganlah engkau tinggalkan beliau hingga beliau menjawabmu atau engkau melihat apa yang beliau katakan. Kemudian tatkala tiba hari gilirannya dia mengatakannya lagi kepada beliau. Kemudian beliau bersabda: \"Janganlah engkau menyakitiku mengenai diri Aisyah, demi Allah tidaklah datang kepadaku wahyu dalam selimut seorang wanita diantara kalian kecuali dia.\" Abu Abdur Rahman berkata; \"Ini adalah dua hadits shohih dari 'Abdah"
+        }
+      },
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "nasai",
+        "book": 36,
+        "hadith": 12
+      }
+    },
+    {
+      "hadithNumber": 3951,
+      "arabicNumber": 3951,
+      "book": 36,
+      "hadithInBook": 13,
+      "text": {
+        "arabic": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ أَنْبَأَنَا عَبْدَةُ بْنُ سُلَيْمَانَ، قَالَ حَدَّثَنَا هِشَامٌ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، قَالَتْ كَانَ النَّاسُ يَتَحَرَّوْنَ بِهَدَايَاهُمْ يَوْمَ عَائِشَةَ يَبْتَغُونَ بِذَلِكَ مَرْضَاةَ رَسُولِ اللَّهِ صلى الله عليه وسلم ‏.‏",
+        "translations": {
+          "en": "It was narrated that 'Aishah said:\"The people used to try to bring their gifts (to the Prophet) on 'Aishah's day, hoping thereby to earn the pleasure of the Messenger of Allah",
+          "ur": "ام المؤمنین عائشہ رضی الله عنہا کہتی ہیں کہ لوگ ہدیے اور تحفے بھیجتے جس دن عائشہ کی باری ہوتی، وہ اس طرح رسول اللہ صلی اللہ علیہ وسلم کی خوشی چاہتے تھے۔",
+          "fr": "Rapporté par 'Aishah : Les gens essayaient d’apporter leurs cadeaux (au Prophète) le jour de 'Aishah, espérant ainsi obtenir la satisfaction du Messager d’Allah",
+          "id": "Telah mengabarkan kepada kami [Ishaq bin Ibrahim] telah memberitakan kepada kami ['Abdah bin Sulaiman] telah menceritakan kepada kami [Hisyam] dari [ayahnya] dari ['Aisyah], dia berkata; \"Orang-orang mengkhususkan hadiah mereka ketika hari giliran 'Aisyah, mereka mengharapkan keridhaan Rasulullah shallallahu 'alaihi wasallam"
+        }
+      },
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "collection": "nasai",
+        "book": 36,
+        "hadith": 13
+      }
+    },
+    {
+      "hadithNumber": 3952,
+      "arabicNumber": 3952,
+      "book": 36,
+      "hadithInBook": 14,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ آدَمَ، عَنْ عَبْدَةَ، عَنْ هِشَامٍ، عَنْ صَالِحِ بْنِ رَبِيعَةَ بْنِ هُدَيْرٍ، عَنْ عَائِشَةَ، قَالَتْ أَوْحَى اللَّهُ إِلَى النَّبِيِّ صلى الله عليه وسلم وَأَنَا مَعَهُ فَقُمْتُ فَأَجَفْتُ الْبَابَ بَيْنِي وَبَيْنَهُ فَلَمَّا رُفِّهَ عَنْهُ قَالَ لِي ‏ \"‏ يَا عَائِشَةُ إِنَّ جِبْرِيلَ يُقْرِئُكِ السَّلاَمَ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated that 'Aishah said:\"Allah sent Revelation to the Prophet when I was with him, so I got up and closed the door between him and I. When it was taken off him, he said to me: 'O 'Aishah, Jibril sends greetings of Salam to you",
+          "ur": "ام المؤمنین عائشہ رضی الله عنہا کہتی ہیں کہ اللہ تعالیٰ نے نبی اکرم صلی اللہ علیہ وسلم پر وحی نازل کی، میں آپ کے ساتھ تھی، میں اٹھی اور اپنے اور آپ کے درمیان دروازہ بند کر دیا، جب وحی ختم ہو گئی تو آپ نے مجھ سے فرمایا: ”عائشہ! جبرائیل تمہیں سلام کہہ رہے ہیں“۔",
+          "fr": "Rapporté par 'Aishah : Allah a envoyé la Révélation au Prophète alors que j’étais avec lui, alors je me suis levée et j’ai fermé la porte entre lui et moi. Quand la Révélation a été levée, il m’a dit : \"Ô 'Aishah, Jibril te passe le Salam",
+          "id": "Telah mengabarkan kepada kami [Muhammad bin Adam] dari ['Abdah] dari [Hisyam] dari [Shalih bin Rabi'ah bin Hudair] dari [Aisyah], dia berkata; \"Allah mewahyukan kepada Nabi shallallahu 'alaihi wasallam ketika saya tengah bersama beliau kemudian saya berdiri dan menutup pintu antara diriku dan beliau, kemudian tatkala beliau beristirahat darinya (selesai menerima wahyu) beliau bersabda kepadaku: \"Wahai Aisyah, sesungguhnya Jibril mengucapkan salam kepadamu"
+        }
+      },
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "nasai",
+        "book": 36,
+        "hadith": 14
+      }
+    },
+    {
+      "hadithNumber": 3953,
+      "arabicNumber": 3953,
+      "book": 36,
+      "hadithInBook": 15,
+      "text": {
+        "arabic": "أَخْبَرَنَا نُوحُ بْنُ حَبِيبٍ، قَالَ حَدَّثَنَا عَبْدُ الرَّزَّاقِ، قَالَ حَدَّثَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ لَهَا ‏ \"‏ إِنَّ جِبْرِيلَ يَقْرَأُ عَلَيْكِ السَّلاَمَ ‏\"‏ ‏.‏ قَالَتْ وَعَلَيْهِ السَّلاَمُ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ تَرَى مَا لاَ نَرَى ‏.‏",
+        "translations": {
+          "en": "It was narrated from 'Aishah that the Prophet said to her:\"Jibril sends greetings of Salam to you.\" She said: \"And upon him be peace and the mercy of Allah and His blessings; you see what we do not",
+          "ur": "ام المؤمنین عائشہ رضی الله عنہا سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم نے ان سے فرمایا: ”جبرائیل تمہیں سلام کہہ رہے ہیں“، انہوں نے کہا: «وعلیکم السلام ورحمۃ اللہ وبرکاتہ» ( جبرائیل کو عائشہ نے سلام کا جواب دیا اور کہا: ) آپ تو وہ دیکھتے ہیں جو ہم نہیں دیکھتے“ ۱؎۔",
+          "fr": "Rapporté par 'Aishah : Le Prophète lui a dit : \"Jibril te passe le Salam.\" Elle a répondu : \"Que la paix soit sur lui, ainsi que la miséricorde d’Allah et Ses bénédictions ; tu vois ce que nous ne voyons pas",
+          "id": "Telah mengabarkan kepada kami [Nuh bin Habib] telah menceritakan kepada kami [Abdurrazzaq] telah menceritakan kepada kami [Ma'mar] dari [Az Zuhri] dari ['Urwah] dari [Aisyah] bahwa Nabi shallallahu 'alaihi wasallam bersabda kepadanya: \"sesungguhnya Jibril mengucapkan salam kepadamu.\" 'Aisyah berkata; wa 'alaihis salaam wa rahmatullaahi wa barakaatuh. Tuan melihat apa yang tidak kami lihat"
+        }
+      },
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "nasai",
+        "book": 36,
+        "hadith": 15
+      }
+    },
+    {
+      "hadithNumber": 3954,
+      "arabicNumber": 3954,
+      "book": 36,
+      "hadithInBook": 16,
+      "text": {
+        "arabic": "أَخْبَرَنَا عَمْرُو بْنُ مَنْصُورٍ، قَالَ حَدَّثَنَا الْحَكَمُ بْنُ نَافِعٍ، قَالَ أَنْبَأَنَا شُعَيْبٌ، عَنِ الزُّهْرِيِّ، قَالَ أَخْبَرَنِي أَبُو سَلَمَةَ، عَنْ عَائِشَةَ، قَالَتْ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ يَا عَائِشَةُ هَذَا جِبْرِيلُ وَهُوَ يَقْرَأُ عَلَيْكِ السَّلاَمَ ‏\"‏ ‏.‏ مِثْلَهُ سَوَاءٌ ‏.‏ قَالَ أَبُو عَبْدِ الرَّحْمَنِ هَذَا الصَّوَابُ وَالَّذِي قَبْلَهُ خَطَأٌ ‏.‏",
+        "translations": {
+          "en": "It was narrated that 'Aishah said:\"The Messenger of Allah said: 'O 'Aishah, this is Jibril and he is sending greetings of Salam to you.'\" The same",
+          "ur": "ام المؤمنین عائشہ رضی الله عنہا کہتی ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”عائشہ! یہ جبرائیل ہیں، تمہیں سلام کہہ رہے ہیں۔ اور آگے ویسے ہی ہے جیسے اوپر گزرا“۔ ابوعبدالرحمٰن نسائی کہتے ہیں: یہ روایت ٹھیک ہے، پہلی والی غلط ہے ۱؎۔",
+          "fr": "Rapporté par 'Aishah : Le Messager d’Allah a dit : \"Ô 'Aishah, voici Jibril, il te passe le Salam.\" Même chose",
+          "id": "Telah mengabarkan kepada kami ['Amru bin Manshur] telah menceritakan kepada kami [Al Hakam bin Nafi'] telah memberitakan kepada kami [Syu'aib] dari [Az Zuhri] telah memberitakan kepada kami [Abu Salamah] dari ['Aisyah], dia berkata; \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Wahai Aisyah, ini Jibril dia mengucapkan salam kepadamu.\" sama seperti hadits sebelumnya. Abu Abdurrahman berkata; \"Ini adalah yang benar dan yang sebelumnya adalah salah"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "collection": "nasai",
+        "book": 36,
+        "hadith": 16
+      }
+    },
+    {
+      "hadithNumber": 3955,
+      "arabicNumber": 3955,
+      "book": 36,
+      "hadithInBook": 17,
+      "text": {
+        "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، قَالَ حَدَّثَنَا خَالِدٌ، قَالَ حَدَّثَنَا حُمَيْدٌ، قَالَ حَدَّثَنَا أَنَسٌ، قَالَ كَانَ النَّبِيُّ صلى الله عليه وسلم عِنْدَ إِحْدَى أُمَّهَاتِ الْمُؤْمِنِينَ فَأَرْسَلَتْ أُخْرَى بِقَصْعَةٍ فِيهَا طَعَامٌ فَضَرَبَتْ يَدَ الرَّسُولِ فَسَقَطَتِ الْقَصْعَةُ فَانْكَسَرَتْ فَأَخَذَ النَّبِيُّ صلى الله عليه وسلم الْكِسْرَتَيْنِ فَضَمَّ إِحْدَاهُمَا إِلَى الأُخْرَى فَجَعَلَ يَجْمَعُ فِيهَا الطَّعَامَ وَيَقُولُ ‏ \"‏ غَارَتْ أُمُّكُمْ كُلُوا ‏\"‏ ‏.‏ فَأَكَلُوا فَأَمْسَكَ حَتَّى جَاءَتْ بِقَصْعَتِهَا الَّتِي فِي بَيْتِهَا فَدَفَعَ الْقَصْعَةَ الصَّحِيحَةَ إِلَى الرَّسُولِ وَتَرَكَ الْمَكْسُورَةَ فِي بَيْتِ الَّتِي كَسَرَتْهَا ‏.‏",
+        "translations": {
+          "en": "Anas said:\"The Prophet was with one of the Mothers of the Believers when another one sent a wooden bowl in which was some food. She struck the hand of the Prophet and the bowl fell and broke. The Prophet picked up the two pieces and put them together, then he started to gather up the food and said: 'Your mother got jealous; eat.' So they ate. He waited until she brought the wooden bowl that was in her house, then he gave the sound bowl to the messenger and left the broken bowl in the house of the one who had broken it",
+          "ur": "انس بن مالک رضی الله عنہ کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم امہات المؤمنین میں سے ایک کے پاس تھے، آپ کی کسی دوسری بیوی نے ایک پیالہ کھانا بھیجا، پہلی بیوی نے ( غصہ سے کھانا لانے والے ) کے ہاتھ پر مارا اور پیالہ گر کر ٹوٹ گیا۔ نبی اکرم صلی اللہ علیہ وسلم نے برتن کے دونوں ٹکڑوں کو اٹھا کر ایک کو دوسرے سے جوڑا اور اس میں کھانا اکٹھا کرنے لگے اور فرماتے جاتے تھے: تمہاری ماں کو غیرت آ گئی ہے ( کہ میرے گھر اس نے کھانا کیوں بھیجا ) ، تم لوگ کھانا کھاؤ۔ لوگوں نے کھایا، پھر قاصد کو آپ نے روکے رکھا یہاں تک کہ جن کے گھر میں آپ تھے اپنا پیالہ لائیں تو آپ نے یہ صحیح سالم پیالہ قاصد کو عنایت کر دیا ۱؎ اور ٹوٹا ہوا پیالہ اس بیوی کے گھر میں رکھ چھوڑا جس نے اسے توڑا تھا۔",
+          "fr": "Rapporté par Anas : Le Prophète était avec l’une des Mères des Croyants quand une autre a envoyé un bol en bois contenant de la nourriture. Elle a frappé la main du Prophète et le bol est tombé et s’est cassé. Le Prophète a ramassé les deux morceaux et les a mis ensemble, puis il a commencé à ramasser la nourriture et a dit : \"Ta mère a été jalouse ; mangez.\" Alors ils ont mangé. Il a attendu qu’elle apporte le bol en bois qui était dans sa maison, puis il a donné le bol intact au messager et a laissé le bol cassé dans la maison de celle qui l’avait cassé",
+          "id": "Telah mengabarkan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Khalid] telah menceritakan kepada kami [Humaid] telah menceritakan kepada kami [Anas], dia berkata; \"Nabi shallallahu 'alaihi wasallam pernah berada pada salah satu Ummul mukminin, kemudian ummul mukminin yang lain mengirimkan nampan yang berisi makanan. Kemudian dia memukul tangan Rasulullah shallallahu 'alaihi wasallam sehingga nampan tersebut terjatuh dan pecah. Lalu Nabi shallallahu 'alaihi wasallam mengambil dua pecahan tersebut dan menggabungkan satu dengan yang lainnya. Kemudian beliau mengumpulkan makanan yang ada dalamnya dan bersabda: \"Ibu kalian telah cemburu, makanlah, makanlah.\" Kemudian beliau memegang hingga ummul mukminin datang membawa nampan yang ada di rumahnya. Kemudian beliau menyerahkan nampan yang baik kepada seorang utusan dan meninggalkan nampan yang pecah di rumah isteri beliau yang memecahkannya"
+        }
+      },
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "nasai",
+        "book": 36,
+        "hadith": 17
+      }
+    },
+    {
+      "hadithNumber": 3956,
+      "arabicNumber": 3956,
+      "book": 36,
+      "hadithInBook": 18,
+      "text": {
+        "arabic": "أَخْبَرَنَا الرَّبِيعُ بْنُ سُلَيْمَانَ، قَالَ حَدَّثَنَا أَسَدُ بْنُ مُوسَى، قَالَ حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ، عَنْ ثَابِتٍ، عَنْ أَبِي الْمُتَوَكِّلِ، عَنْ أُمِّ سَلَمَةَ، أَنَّهَا - يَعْنِي - أَتَتْ بِطَعَامٍ فِي صَحْفَةٍ لَهَا إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم وَأَصْحَابِهِ فَجَاءَتْ عَائِشَةُ مُتَّزِرَةً بِكِسَاءٍ وَمَعَهَا فِهْرٌ فَفَلَقَتْ بِهِ الصَّحْفَةَ فَجَمَعَ النَّبِيُّ صلى الله عليه وسلم بَيْنَ فِلْقَتَىِ الصَّحْفَةِ وَيَقُولُ ‏ \"‏ كُلُوا غَارَتْ أُمُّكُمْ ‏\"‏ ‏.‏ مَرَّتَيْنِ ثُمَّ أَخَذَ رَسُولُ اللَّهِ صلى الله عليه وسلم صَحْفَةَ عَائِشَةَ فَبَعَثَ بِهَا إِلَى أُمِّ سَلَمَةَ وَأَعْطَى صَحْفَةَ أُمِّ سَلَمَةَ عَائِشَةَ ‏.‏",
+        "translations": {
+          "en": "It was narrated from Umm Salamah that she brought some food in a dish of hers to the Messenger of Allah and his Companions, then 'Aishah came, wrapped up in a garment, with a stone pestle and broke the dish. The Prophet gathered the broken pieces of the dish and said:\"Eat; your mother got jealous,\" twice. Then the Messenger of Allah took the dish of 'Aishah and sent it to Umm Salamah and he gave the dish of Umm Salamah to 'Aishah",
+          "ur": "ام المؤمنین ام سلمہ رضی الله عنہا سے روایت ہے کہ وہ ایک پیالے میں کھانا لے کر رسول اللہ صلی اللہ علیہ وسلم اور آپ کے صحابہ کے پاس آئیں۔ اتنے میں عائشہ رضی اللہ عنہا ایک چادر پہنے ہوئے آئیں، ان کے پاس ایک پتھر تھا، جس سے انہوں نے وہ پیالا مار کر دو ٹکرے کر دیا۔ نبی اکرم صلی اللہ علیہ وسلم پیالے کے دونوں ٹکڑے جوڑنے لگے اور کہہ رہے تھے: تم لوگ کھاؤ، تمہاری ماں کو غیرت آ گئی، آپ نے دو بار کہا۔ پھر رسول اللہ صلی اللہ علیہ وسلم نے عائشہ رضی اللہ عنہا کا پیالا لیا اور وہ ام سلمہ رضی اللہ عنہا کو بھجوا دیا اور ام سلمہ رضی اللہ عنہا کا پیالا عائشہ رضی اللہ عنہا کو دے دیا۔",
+          "fr": "Rapporté par Umm Salamah : Elle a apporté un plat de nourriture au Messager d’Allah et à ses compagnons, puis ‘Aïcha est arrivée, enveloppée dans un vêtement, avec un pilon de pierre et a cassé le plat. Le Prophète a ramassé les morceaux du plat cassé et a dit deux fois : \"Mangez ; votre mère a été jalouse.\" Ensuite, le Messager d’Allah a pris le plat de ‘Aïcha et l’a envoyé à Umm Salamah, et il a donné le plat d’Umm Salamah à ‘Aïcha",
+          "id": "Telah mengabarkan kepada kami [Ar Rabi' bin Sulaiman] telah menceritakan kepada kami [Asad bin Musa] telah menceritakan kepada kami [Hammad bin Salamah] dari [Tsabit] dari [Abu Al Mutawakkil] dari [Ummu Salamah] bahwa dia datang dengan membawa makanan di atas piringnya kepada Rasulullah shallallahu 'alaihi wasallam dan para sahabat beliau, lalu datanglah 'Aisyah dengan bersarungkan pakaian, dia datang membawa batu, lalu memecah piring itu dengannya, kemudian Nabi shallallahu 'alaihi wasallam mengumpulkan dua pecahan piring dan bersabda: \" Makanlah, ibu kalian telah cemburu, \" dua kali, lalu Rasulullah shallallahu 'alaihi wasallam mengambil piring 'Aisyah dan mengirimnya kepada Ummu Salamah dan memberikan piring Ummu Salamah kepada 'Aisyah"
+        }
+      },
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "nasai",
+        "book": 36,
+        "hadith": 18
+      }
+    },
+    {
+      "hadithNumber": 3957,
+      "arabicNumber": 3957,
+      "book": 36,
+      "hadithInBook": 19,
+      "text": {
+        "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، عَنْ عَبْدِ الرَّحْمَنِ، عَنْ سُفْيَانَ، عَنْ فُلَيْتٍ، عَنْ جَسْرَةَ بِنْتِ دِجَاجَةَ، عَنْ عَائِشَةَ، قَالَتْ مَا رَأَيْتُ صَانِعَةَ طَعَامٍ مِثْلَ صَفِيَّةَ أَهْدَتْ إِلَى النَّبِيِّ صلى الله عليه وسلم إِنَاءً فِيهِ طَعَامٌ فَمَا مَلَكْتُ نَفْسِي أَنْ كَسَرْتُهُ فَسَأَلْتُ النَّبِيَّ صلى الله عليه وسلم عَنْ كَفَّارَتِهِ فَقَالَ ‏ \"‏ إِنَاءٌ كَإِنَاءٍ وَطَعَامٌ كَطَعَامٍ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated that 'Aishah said:\"I never saw any woman who made food like Safiyyah. She sent a dish to the Prophet in which was some food, and I could not keep myself from breaking it. I asked the Prophet what the expiation was for that, and he said: 'A dish like that dish, and food like that food",
+          "ur": "ام المؤمنین عائشہ رضی الله عنہا کہتی ہیں کہ میں نے ام المؤمنین صفیہ رضی اللہ عنہا کے جیسی کھانا بنانے والی کوئی عورت نہیں دیکھی، انہوں نے نبی اکرم صلی اللہ علیہ وسلم کے پاس ایک برتن بھیجا جس میں کھانا تھا، میں اپنے کو قابو میں نہ رکھ سکی اور میں نے برتن توڑ دیا پھر میں نے نبی اکرم صلی اللہ علیہ وسلم سے اس کے کفارے کے متعلق پوچھا تو آپ نے فرمایا: ”برتن کے جیسا برتن اور کھانے کے جیسا کھانا“۔",
+          "fr": "Rapporté par ‘Aïcha : \"Je n’ai jamais vu de femme qui préparait la nourriture comme Safiyyah. Elle a envoyé un plat au Prophète avec de la nourriture, et je n’ai pas pu m’empêcher de le casser. J’ai demandé au Prophète quelle était l’expiation pour cela, et il a dit : \"Un plat comme ce plat, et une nourriture comme cette nourriture",
+          "id": "Telah mengabarkan kepada kami [Muhammad bin Al Mutsanna] dari [Abdurrahman] dari [Sufyan] dari [Fulait] dari [Jasrah binti Dajajah] dari [Aisyah], dia berkata; \"Saya tidak melihat seorang wanita pembuat makanan seperti Shafiyah, dia memberikan hadiah kepada Nabi shallallahu 'alaihi wasallam bejana yang berisi makanan, kemudian saya tidak dapat menahan diriku untuk memecahkannya. Lalu saya bertanya kepada Nabi shallallahu 'alaihi wasallam mengenai kafarah hal tersebut maka beliau bersabda: \"Bejana seperti bejana dan makanan seperti makanan"
+        }
+      },
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Daif"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "nasai",
+        "book": 36,
+        "hadith": 19
+      }
+    },
+    {
+      "hadithNumber": 3958,
+      "arabicNumber": 3958,
+      "book": 36,
+      "hadithInBook": 20,
+      "text": {
+        "arabic": "أَخْبَرَنَا الْحَسَنُ بْنُ مُحَمَّدٍ الزَّعْفَرَانِيُّ، قَالَ حَدَّثَنَا حَجَّاجٌ، عَنِ ابْنِ جُرَيْجٍ، عَنْ عَطَاءٍ، أَنَّهُ سَمِعَ عُبَيْدَ بْنَ عُمَيْرٍ، يَقُولُ سَمِعْتُ عَائِشَةَ، تَزْعُمُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ يَمْكُثُ عِنْدَ زَيْنَبَ بِنْتِ جَحْشٍ فَيَشْرَبُ عِنْدَهَا عَسَلاً فَتَوَاصَيْتُ أَنَا وَحَفْصَةُ أَنَّ أَيَّتَنَا دَخَلَ عَلَيْهَا النَّبِيُّ صلى الله عليه وسلم فَلْتَقُلْ إِنِّي أَجِدُ مِنْكَ رِيحَ مَغَافِيرَ أَكَلْتَ مَغَافِيرَ فَدَخَلَ عَلَى إِحْدَاهُمَا فَقَالَتْ ذَلِكَ لَهُ فَقَالَ ‏\"‏ لاَ بَلْ شَرِبْتُ عَسَلاً عِنْدَ زَيْنَبَ بِنْتِ جَحْشٍ وَلَنْ أَعُودَ لَهُ ‏\"‏ ‏.‏ فَنَزَلَتْ ‏{‏ يَا أَيُّهَا النَّبِيُّ لِمَ تُحَرِّمُ مَا أَحَلَّ اللَّهُ لَكَ ‏}‏ ‏{‏ إِنْ تَتُوبَا إِلَى اللَّهِ ‏}‏ لِعَائِشَةَ وَحَفْصَةَ ‏{‏ وَإِذْ أَسَرَّ النَّبِيُّ إِلَى بَعْضِ أَزْوَاجِهِ حَدِيثًا ‏}‏ لِقَوْلِهِ ‏\"‏ بَلْ شَرِبْتُ عَسَلاً ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Aishah said that the Messenger of Allah used to stay with Zainab bint Jahsh and drink honey at her house. Hafsah and I agreed that if the Prophet entered upon either of us, she would say:\"I perceive the smell of Maghafir (a nasty-smelling gum) on you; have you eaten Maghafir?\" He came in to one of them, and she said that to him. He said: \"No, rather I drank honey at the house of Zainab bint Jahsh, but I will never do it again.\" Then the following was revealed: 'O Prophet! Why do you forbid (for yourself) that which Allah has allowed to you.' 'If you two turn in repentance to Allah, (it will be better for you)' about 'Aishah and Hafsah, 'And (remember) when the Prophet disclosed a matter in confidence to one of his wives' refers to him saying: \"No, rather I drank honey",
+          "ur": "ام المؤمنین عائشہ رضی الله عنہا بیان کرتی ہیں کہ رسول اللہ صلی اللہ علیہ وسلم ام المؤمنین زینب بنت جحش رضی اللہ عنہا کے پاس ٹھہرے ہوئے تھے اور ان کے ہاں شہد پی رہے تھے، میں نے اور حفصہ رضی اللہ عنہا نے باہم مشورہ کیا کہ ہم میں سے جس کے پاس نبی اکرم صلی اللہ علیہ وسلم آئیں تو وہ کہے: مجھے آپ سے مغافیر ۱؎ کی بو آ رہی ہے، آپ نے مغافیر کھایا ہے۔ آپ ان میں سے ایک کے پاس گئے تو اس نے یہی کہا، آپ نے فرمایا: ”نہیں، میں نے تو زینب بنت جحش کے پاس شہد پیا ہے اور اب آئندہ نہیں پیوں گا“۔ تو عائشہ اور حفصہ ( رضی اللہ عنہما ) کی وجہ سے یہ آیت «يا أيها النبي لم تحرم ما أحل اللہ لك» ”اے نبی! جس چیز کو اللہ تعالیٰ نے حلال کر دیا ہے اسے آپ کیوں حرام کرتے ہیں“۔ ( التحریم: ۱ ) اور «إن تتوبا إلى اللہ» ” ( اے نبی کی دونوں بیویو! ) اگر تم دونوں اللہ کے سامنے توبہ کر لو ( تو بہت بہتر ہے ) “۔ ( التحریم: ۴ ) نازل ہوئی اور آپ صلی اللہ علیہ وسلم کے اس قول: میں نے تو شہد پیا ہے کی وجہ سے یہ آیت: «وإذ أسر النبي إلى بعض أزواجه حديثا» ”اور یاد کر جب نبی نے اپنی بعض عورتوں سے ایک پوشیدہ بات کہی“ ( التحریم: ۳ ) نازل ہوئی ہے۔",
+          "fr": "Rapporté par ‘Aïcha : Le Messager d’Allah avait l’habitude de rester chez Zaynab bint Jahsh et de boire du miel chez elle. Hafsa et moi avons convenu que si le Prophète entrait chez l’une de nous, elle dirait : \"Je sens l’odeur du Maghafir (une gomme à l’odeur désagréable) sur toi ; as-tu mangé du Maghafir ?\" Il est entré chez l’une d’entre nous, et elle lui a dit cela. Il a répondu : \"Non, j’ai seulement bu du miel chez Zaynab bint Jahsh, mais je n’en boirai plus jamais.\" Ensuite, ce verset a été révélé : \"Ô Prophète ! Pourquoi t’interdis-tu ce qu’Allah t’a permis ?\" \"Si vous vous repentez toutes deux à Allah, ce sera mieux pour vous\" à propos de ‘Aïcha et Hafsa, et \"Et quand le Prophète confia un secret à l’une de ses épouses\" fait référence à sa parole : \"Non, j’ai seulement bu du miel",
+          "id": "Telah mengabarkan kepada kami [Al Hasan bin Muhammad Az Za'farani] telah menceritakan kepada kami [Hajjaj] dari [Ibnu Juraij] dari ['Atho`] bahwa dia mendengar ['Ubaid bin 'Umair] berkata; \"Saya mendengar [Aisyah] mengaku bahwa Rasulullah shallallahu 'alaihi wasallam pernah tinggal di rumah Zainab binti Jahsy dan beliau minum madu di rumahnya. Kemudian saya dan Hafshah bersepakat bahwa siapapun diantara kami yang ditemui Nabi shallallahu 'alaihi wasallam hendaknya dia mengatakan; \"Sesungguhnya saya mendapatkan bau maghafir (tumbuhan bergetah yang manis rasanya tapi baunya tak sedap), Tuan telah memakan maghafir. Kemudian beliau menemui salah seorang dari mereka, kemudian dia mengatakan hal tersebut kepada beliau. Kemudian beliau bersabda: \"Tidak, melainkan saya minum madu di rumah Zainab binti Jahsy, dan saya tidak akan mengulanginya lagi.\" Kemudian turunlah ayat: \"Hai Nabi, mengapa kamu mengharamkan apa yang Allah halalkan bagimu' dan ayat 'Jika kamu berdua bertaubat kepada Allah..' untuk Aisyah dan Hafshah, serta ayat: 'Dan ingatlah ketika Nabi membicarakan secara rahasia kepada salah seorang isterinya (Hafsah) suatu peristiwa. Karena sabda beliau: melainkan saya minum madu"
+        }
+      },
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "nasai",
+        "book": 36,
+        "hadith": 20
+      }
+    },
+    {
+      "hadithNumber": 3959,
+      "arabicNumber": 3959,
+      "book": 36,
+      "hadithInBook": 21,
+      "text": {
+        "arabic": "أَخْبَرَنِي إِبْرَاهِيمُ بْنُ يُونُسَ بْنِ مُحَمَّدٍ، حَرَمِيٌّ - هُوَ لَقَبُهُ - قَالَ حَدَّثَنَا أَبِي قَالَ، حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ، عَنْ ثَابِتٍ، عَنْ أَنَسٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَتْ لَهُ أَمَةٌ يَطَؤُهَا فَلَمْ تَزَلْ بِهِ عَائِشَةُ وَحَفْصَةُ حَتَّى حَرَّمَهَا عَلَى نَفْسِهِ فَأَنْزَلَ اللَّهُ عَزَّ وَجَلَّ ‏{‏ يَا أَيُّهَا النَّبِيُّ لِمَ تُحَرِّمُ مَا أَحَلَّ اللَّهُ لَكَ ‏}‏ إِلَى آخِرِ الآيَةِ ‏.‏",
+        "translations": {
+          "en": "It was narrated from Anas, that the Messenger of Allah had a female slave with whom he had intercourse, but 'Aishah and Hafsah would not leave him alone until he said that she was forbidden for him. Then Allah, the Mighty and Sublime, revealed:\"O Prophet! Why do you forbid (for yourself) that which Allah has allowed to you.' until the end of the Verse",
+          "ur": "انس رضی الله عنہ سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم کی ایک لونڈی تھی، آپ اس سے مجامعت فرماتے تھے۔ عائشہ اور حفصہ رضی اللہ عنہا ایک دن آپ کے پاس بیٹھی رہیں یہاں تک کہ آپ نے اسے اپنے اوپر حرام کر لی، تو اللہ تعالیٰ نے یہ آیت: «يا أيها النبي لم تحرم ما أحل اللہ لك» إِلَى آخِرِ الآيَةِ ”اے نبی! آپ اس چیز کو اپنے لیے کیوں حرام قرار دے رہے ہیں جسے اللہ تعالیٰ نے آپ کے لیے حلال رکھا ہے“۔ ( التحریم: ۱ ) مکمل آیت نازل فرمائی ۱؎۔",
+          "fr": "Rapporté par Anas : Le Messager d’Allah avait une esclave avec qui il avait des relations, mais ‘Aïcha et Hafsa ne le laissaient pas tranquille jusqu’à ce qu’il dise qu’elle lui était interdite. Alors Allah, le Puissant et Majestueux, a révélé : \"Ô Prophète ! Pourquoi t’interdis-tu ce qu’Allah t’a permis ?\" jusqu’à la fin du verset",
+          "id": "Telah mengabarkan kepada kami [Ibrahim bin Yunus bin Muhammad Harami] itu adalah julukannya, ia berkata; telah menceritakan kepada kami [ayahku], ia berkata; telah menceritakan kepada kami [Hammad bin Salamah] dari [Tsabit] dari [Anas] bahwa Rasulullah shallallahu 'alaihi wasallam memiliki budak yang beliau gauli, dan 'Aisyah serta Hafshoh masih berada bersama beliau hingga beliau mengharamkan atas diri beliau, kemudian Allah Azza wa jalla menurunkan ayat: Hai Nabi, mengapa kamu mengharamkan apa yang Allah halalkan bagimu... sampai akhir ayat"
+        }
+      },
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "nasai",
+        "book": 36,
+        "hadith": 21
+      }
+    },
+    {
+      "hadithNumber": 3960,
+      "arabicNumber": 3960,
+      "book": 36,
+      "hadithInBook": 22,
+      "text": {
+        "arabic": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا اللَّيْثُ، عَنْ يَحْيَى، - هُوَ ابْنُ سَعِيدٍ الأَنْصَارِيُّ - عَنْ عُبَادَةَ بْنِ الْوَلِيدِ بْنِ عُبَادَةَ بْنِ الصَّامِتِ، أَنَّ عَائِشَةَ، قَالَتِ الْتَمَسْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم فَأَدْخَلْتُ يَدِي فى شَعْرِهِ فَقَالَ ‏\"‏ قَدْ جَاءَكِ شَيْطَانُكِ ‏\"‏ ‏.‏ فَقُلْتُ أَمَا لَكَ شَيْطَانٌ فَقَالَ ‏\"‏ بَلَى وَلَكِنَّ اللَّهَ أَعَانَنِي عَلَيْهِ فَأَسْلَمَ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated from 'Ubadah bin Al-Walid bin 'Ubadah bin As-Samit that 'Aishah said:\"I looked for the Messenger of Allah and I put my hand on his hair.\" He said: \"Your Shaitan has come to you.\" I said: \"Don't you have a Shaitan?\" He said: \"Yes, but Allah helped me with him, so he submitted",
+          "ur": "ام المؤمنین عائشہ رضی الله عنہا کہتی ہیں کہ میں رسول اللہ صلی اللہ علیہ وسلم کی تفتیش کر رہی تھی چنانچہ میں نے اپنا ہاتھ آپ کے بالوں میں داخل کیا تو آپ نے فرمایا: ”تمہارے پاس تمہارا شیطان آ گیا ہے“۔ میں نے عرض کیا: کیا آپ کا شیطان نہیں ہے؟ آپ نے فرمایا: ”کیوں نہیں، اللہ کی قسم، لیکن اللہ تعالیٰ نے مجھے اس سے محفوظ رکھا ہے لہٰذا میں اس سے محفوظ رہتا ہوں“۔",
+          "fr": "Rapporté par ‘Ubadah bin Al-Walid bin ‘Ubadah bin As-Samit que ‘Aïcha a dit : \"J’ai cherché le Messager d’Allah et j’ai posé ma main sur ses cheveux.\" Il a dit : \"Ton Chaytan est venu vers toi.\" J’ai dit : \"N’as-tu pas de Chaytan ?\" Il a dit : \"Si, mais Allah m’a aidé contre lui, alors il s’est soumis",
+          "id": "Telah mengabarkan kepada kami [Qutaibah], ia berkata; telah menceritakan kepada kami [Al Laits] dari [Yahya bin Sa'id Al Anshari] dari ['Ubadah bin Al Walid bin 'Ubadah bin Ash Shamit] bahwa [Aisyah] berkata; saya mencari Rasulullah shallallahu 'alaihi wasallam kemudian memasukkan tanganku pada rambutnya, kemudian beliau bersabda: \"Telah datang kepadamu syetanmu.\" Kemudian saya katakan; apakah engkau memilki syetan? Beliau bersabda: \"Benar, akan tetapi Allah telah membantuku untuk menundukkannya sehingga ia masuk Islam"
+        }
+      },
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "nasai",
+        "book": 36,
+        "hadith": 22
+      }
+    },
+    {
+      "hadithNumber": 3961,
+      "arabicNumber": 3961,
+      "book": 36,
+      "hadithInBook": 23,
+      "text": {
+        "arabic": "أَخْبَرَنِي إِبْرَاهِيمُ بْنُ الْحَسَنِ الْمِقْسَمِيُّ، عَنْ حَجَّاجٍ، عَنِ ابْنِ جُرَيْجٍ، عَنْ عَطَاءٍ، أَخْبَرَنِي ابْنُ أَبِي مُلَيْكَةَ، عَنْ عَائِشَةَ، قَالَتْ فَقَدْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم ذَاتَ لَيْلَةٍ فَظَنَنْتُ أَنَّهُ ذَهَبَ إِلَى بَعْضِ نِسَائِهِ فَتَجَسَّسْتُهُ فَإِذَا هُوَ رَاكِعٌ أَوْ سَاجِدٌ يَقُولُ ‏ \"‏ سُبْحَانَكَ وَبِحَمْدِكَ لاَ إِلَهَ إِلاَّ أَنْتَ ‏\"‏ ‏.‏ فَقُلْتُ بِأَبِي وَأُمِّي إِنَّكَ لَفِي شَأْنٍ وَإِنِّي لَفِي شَأْنٍ آخَرَ ‏.‏",
+        "translations": {
+          "en": "It was narrated that 'Aishah said:\"I noticed that the Messenger of Allah was not there one night, and I thought that he had gone to one of his other wives, so I reached out for him, and found him bowing or prostrating, and saying: 'Subhanaka wa bi hamdika la ilaha illa anta (Glory and praise be to You, there is none worthy of worship but You).' I said: 'May my father and mother be sacrificed for you; you were doing one thing, and I was thinking of something else",
+          "ur": "ام المؤمنین عائشہ رضی الله عنہا کہتی ہیں کہ ایک رات میں نے رسول اللہ صلی اللہ علیہ وسلم کو غائب پایا، مجھے گمان ہوا کہ آپ کسی بیوی کے پاس گئے ہوں گے۔ میں آپ کو تلاش کرنے لگی، دیکھا کہ آپ رکوع یا سجدہ میں ہیں اور کہہ رہے ہیں: «سبحانك و بحمدك لا إله إلا أنت» ”پاک ہے تیری ذات، تیری ہی تعریف ہے اور تیرے سوا کوئی حقیقی معبود نہیں“۔ میں نے کہا: میرے ماں باپ آپ پر قربان ہوں، آپ کچھ کر رہے ہیں اور میں کچھ اور ہی گمان کر رہی تھی۔",
+          "fr": "Rapporté par ‘Aïcha : \"J’ai remarqué que le Messager d’Allah n’était pas là une nuit, et j’ai pensé qu’il était allé chez une de ses autres épouses. Je l’ai cherché, et je l’ai trouvé en train de s’incliner ou de se prosterner, et il disait : \"Subhanaka wa bi hamdika la ilaha illa anta (Gloire et louange à Toi, il n’y a pas de divinité en dehors de Toi).\" J’ai dit : \"Que mon père et ma mère soient sacrifiés pour toi ; tu faisais une chose, et je pensais à autre chose",
+          "id": "Telah mengabarkan kepada kami [Ibrahim bin Al Hasan Al Miqsami] dari [Hajjaj] dari [Ibnu Juraij] dari ['Atho`], telah mengabarkan kepadaku [Ibnu Abi Mulaikah] dari [Aisyah], ia berkata; saya kehilangan Rasulullah shallallahu 'alaihi wasallam pada suatu malam, dan saya mengira bahwa beliau pergi kepada sebagian isterinya kemudian saya meraba-raba, ternyata beliau sedang melakukan ruku' atau sujud. Beliau mengucapkan: Subhaanaka wa bihamdika laa ilaaha illaa anta.\" Dan saya katakan; dengan ayah dan ibuku, sesungguhnya engkau berada dalam suatu keadaan dan saya dalam keadaan yang lain"
+        }
+      },
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "nasai",
+        "book": 36,
+        "hadith": 23
+      }
+    },
+    {
+      "hadithNumber": 3962,
+      "arabicNumber": 3962,
+      "book": 36,
+      "hadithInBook": 24,
+      "text": {
+        "arabic": "أَخْبَرَنَا إِسْحَاقُ بْنُ مَنْصُورٍ، قَالَ حَدَّثَنَا عَبْدُ الرَّزَّاقِ، قَالَ أَنْبَأَنَا ابْنُ جُرَيْجٍ، ‏{‏ عَنْ عَطَاءٍ، ‏}‏ قَالَ أَخْبَرَنِي ابْنُ أَبِي مُلَيْكَةَ، أَنَّ عَائِشَةَ، قَالَتِ افْتَقَدْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم ذَاتَ لَيْلَةٍ فَظَنَنْتُ أَنَّهُ ذَهَبَ إِلَى بَعْضِ نِسَائِهِ فَتَجَسَّسْتُ ثُمَّ رَجَعْتُ فَإِذَا هُوَ رَاكِعٌ أَوْ سَاجِدٌ يَقُولُ ‏ \"‏ سُبْحَانَكَ وَبِحَمْدِكَ لاَ إِلَهَ إِلاَّ أَنْتَ ‏\"‏ ‏.‏ فَقُلْتُ بِأَبِي وَأُمِّي إِنَّكَ لَفِي شَأْنٍ وَإِنِّي لَفِي آخَرَ ‏.‏",
+        "translations": {
+          "en": "Aishah said:\"I noticed that the Messenger of Allah was not there one night, and I thought that he had gone to one of his other wives. I looked for him then I came back, and there he was, bowing or prostrating and saying: 'Subhanaka wa bi hamdika la ilaha illa anta (Glory and praise be to You, there is none worthy of worship but You).' I said: 'May my father and mother be sacrificed for you; you were doing one thing and I was thinking of something else",
+          "ur": "ام المؤمنین عائشہ رضی الله عنہا کہتی ہیں کہ ایک رات میں نے رسول اللہ صلی اللہ علیہ وسلم کو غائب پایا، مجھے گمان ہوا کہ آپ اپنی کسی بیوی کے پاس گئے ہوں گے، میں آپ کو تلاش کرنے لگی پھر میں لوٹی تو دیکھا کہ آپ رکوع یا سجدے میں ہیں، آپ کہہ رہے ہیں: «سبحانك و بحمدك لا إله إلا أنت» میں نے عرض کیا: میرے ماں باپ آپ پر قربان ہوں، آپ کچھ کر رہے ہیں اور میں کچھ اور ہی گمان کر رہی تھی۔",
+          "fr": "Rapporté par ‘Aïcha : \"J’ai remarqué que le Messager d’Allah n’était pas là une nuit, et j’ai pensé qu’il était allé chez une de ses autres épouses. Je l’ai cherché puis je suis revenue, et là, il était en train de s’incliner ou de se prosterner et il disait : \"Subhanaka wa bi hamdika la ilaha illa anta (Gloire et louange à Toi, il n’y a pas de divinité en dehors de Toi).\" J’ai dit : \"Que mon père et ma mère soient sacrifiés pour toi ; tu faisais une chose et je pensais à autre chose",
+          "id": "Telah mengabarkan kepada kami [Ishaq bin Manshur], ia berkata; telah menceritakan kepada kami [Abdur Razzaq], ia berkata; telah memberitakan kepada kami [Ibnu Juraij], ia berkata; telah mengabarkan kepadaku [Ibnu Mulaikah] bahwa [Aisyah] berkata; saya mencari-cari Rasulullah shallallahu 'alaihi wasallam pada suatu malam, dan saya mengira bahwa beliau pergi kepada sebagian isterinya kemudian saya meraba-raba kemudian kembali, ternyata beliau sedang melakukan ruku' atau sujud. Beliau mengucapkan: Subhaanaka wa bihamdika laa ilaaha illaa anta.\" Dan saya katakan; dengan ayah dan ibuku, sesungguhnya engkau berada dalam suatu keadaan dan saya dalam keadaan yang lain"
+        }
+      },
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "nasai",
+        "book": 36,
+        "hadith": 24
+      }
+    },
+    {
+      "hadithNumber": 3963,
+      "arabicNumber": 3963,
+      "book": 36,
+      "hadithInBook": 25,
+      "text": {
+        "arabic": "أَخْبَرَنَا سُلَيْمَانُ بْنُ دَاوُدَ، قَالَ أَنْبَأَنَا ابْنُ وَهْبٍ، قَالَ أَخْبَرَنِي ابْنُ جُرَيْجٍ، عَنْ عَبْدِ اللَّهِ بْنِ كَثِيرٍ، أَنَّهُ سَمِعَ مُحَمَّدَ بْنَ قَيْسٍ، يَقُولُ سَمِعْتُ عَائِشَةَ، تَقُولُ أَلاَ أُحَدِّثُكُمْ عَنِ النَّبِيِّ صلى الله عليه وسلم وَعَنِّي قُلْنَا بَلَى ‏.‏ قَالَتْ لَمَّا كَانَتْ لَيْلَتِي انْقَلَبَ فَوَضَعَ نَعْلَيْهِ عِنْدَ رِجْلَيْهِ وَوَضَعَ رِدَاءَهُ وَبَسَطَ إِزَارَهُ عَلَى فِرَاشِهِ وَلَمْ يَلْبَثْ إِلاَّ رَيْثَمَا ظَنَّ أَنِّي قَدْ رَقَدْتُ ثُمَّ انْتَعَلَ رُوَيْدًا وَأَخَذَ رِدَاءَهُ رُوَيْدًا ثُمَّ فَتَحَ الْبَابَ رُوَيْدًا وَخَرَجَ وَأَجَافَهُ رُوَيْدًا وَجَعَلْتُ دِرْعِي فِي رَأْسِي فَاخْتَمَرْتُ وَتَقَنَّعْتُ إِزَارِي وَانْطَلَقْتُ فِي إِثْرِهِ حَتَّى جَاءَ الْبَقِيعَ فَرَفَعَ يَدَيْهِ ثَلاَثَ مَرَّاتٍ وَأَطَالَ الْقِيَامَ ثُمَّ انْحَرَفَ وَانْحَرَفْتُ فَأَسْرَعَ فَأَسْرَعْتُ فَهَرْوَلَ فَهَرْوَلْتُ فَأَحْضَرَ فَأَحْضَرْتُ وَسَبَقْتُهُ فَدَخَلْتُ وَلَيْسَ إِلاَّ أَنِ اضْطَجَعْتُ فَدَخَلَ فَقَالَ ‏\"‏ مَا لَكِ يَا عَائِشُ رَابِيَةً ‏\"‏ ‏.‏ قَالَ سُلَيْمَانُ حَسِبْتُهُ قَالَ حَشْيَا قَالَ ‏\"‏ لَتُخْبِرِنِّي أَوْ لَيُخْبِرَنِّي اللَّطِيفُ الْخَبِيرُ ‏\"‏ ‏.‏ قُلْتُ يَا رَسُولَ اللَّهِ بِأَبِي أَنْتَ وَأُمِّي فَأَخْبَرْتُهُ الْخَبَرَ قَالَ ‏\"‏ أَنْتِ السَّوَادُ الَّذِي رَأَيْتُ أَمَامِي ‏\"‏ ‏.‏ قُلْتُ نَعَمْ - قَالَتْ - فَلَهَدَنِي لَهْدَةً فِي صَدْرِي أَوْجَعَتْنِي ‏.‏ قَالَ ‏\"‏ أَظَنَنْتِ أَنْ يَحِيفَ اللَّهُ عَلَيْكِ وَرَسُولُهُ ‏\"‏ ‏.‏ قَالَتْ مَهْمَا يَكْتُمِ النَّاسُ فَقَدْ عَلِمَهُ اللَّهُ عَزَّ وَجَلَّ ‏.‏ قَالَ ‏\"‏ نَعَمْ - قَالَ - فَإِنَّ جِبْرِيلَ عَلَيْهِ السَّلاَمُ أَتَانِي حِينَ رَأَيْتِ وَلَمْ يَكُنْ يَدْخُلُ عَلَيْكِ وَقَدْ وَضَعْتِ ثِيَابَكِ فَنَادَانِي فَأَخْفَى مِنْكِ فَأَجَبْتُهُ وَأَخْفَيْتُهُ مِنْكِ وَظَنَنْتُ أَنَّكِ قَدْ رَقَدْتِ فَكَرِهْتُ أَنْ أُوقِظَكِ وَخَشِيتُ أَنْ تَسْتَوْحِشِي فَأَمَرَنِي أَنْ آتِيَ أَهْلَ الْبَقِيعِ فَأَسْتَغْفِرَ لَهُمْ ‏\"‏ ‏.‏ خَالَفَهُ حَجَّاجُ بْنُ مُحَمَّدٍ فَقَالَ عَنِ ابْنِ جُرَيْجٍ عَنِ ابْنِ أَبِي مُلَيْكَةَ عَنْ مُحَمَّدِ بْنِ قَيْسٍ ‏.‏",
+        "translations": {
+          "en": "Aishah said:\"Shall I not tell you about the Prophet and I?\" We said: \"Yes.\" She said: \"When it was my night, he came in, placed his shoes by his feet, lay down his Rida' (upper garment), and spread his Izar (lower garment) on his bed. As soon as he thought that I had gone to sleep, he put his shoes on slowly and picked up his Rida' slowly. Then he opened the door slowly, went out and shut it slowly. I put my garment over my head, covered myself and put on my Izar (lower garment), and I set out after him until he came to Al-Baqi', raised his hands three times and stood there for a long time. Then he left and I left, he hurried and I hurried, he ran and I ran, and I got there before him and entered (the house). I had only just laid down when he came in and said: 'O 'Aishah, why are you out of breath?' (one of the reporters) Sulaiman said: I thought he (Ibn Wahb) said: 'short of breath.' He said: 'Either you tell me or the All-Aware, All-Knowing will tell me.' I said: 'O Messenger of Allah, may my father and mother be sacrificed for you;' and I told him the story. He said: 'You were the black shape I saw in front of me?' I said: 'Yes.'\" She said: \"He gave me a shove in the chest that hurt me and said: 'You thought that Allah and His Messenger would be unfair to you.' She said: 'Whatever people conceal, Allah, the Mighty and Sublime, knows it.' He said: 'Yes.' He said: 'Jibril came to me when you saw (me leave) but he did not enter upon you because you have taken off your garments. So he called me but he concealed himself from you, and I answered him but I concealed it from you. I thought that you had gone to sleep and I did not want to wake you and I was afraid that you would feel lonely. He told me to go to Al-Baqi' and pray for forgiveness for them.'\" Hajjaj bin Muhammad contradicted him (Ibn Wahb), he said: \"From Ibn Juraij, from Ibn Abi Mulaikah, from Muhammad bin Qais",
+          "ur": "محمد بن قیس سے روایت ہے کہ انہوں نے ام المؤمنین عائشہ رضی اللہ عنہا کو کہتے ہوئے سنا کہ کیا میں تم سے نبی اکرم صلی اللہ علیہ وسلم کا اور اپنا ایک واقعہ نہ بیان کروں؟ ہم نے عرض کیا: کیوں نہیں؟ وہ بولیں: جس رات میری باری تھی، آپ عشاء سے لوٹے اور جوتے اپنے پیروں کے پاس رکھ لیے، اپنی چادر رکھی اور بستر پر اپنا تہبند بچھایا، ابھی تھوڑی ہی دیر ہوئی تھی، جب آپ کو اندازہ ہوا کہ میں سو چکی ہوں، تو آپ نے آہستہ سے جوتے پہنے اور آہستہ سے چادر لی پھر دھیرے سے دروازہ کھولا اور باہر نکل کر دھیرے سے بند کر دیا۔ میں نے بھی اوڑھنی اپنے سر پر ڈالی، چادر اوڑھی اور پھر تہبند پہن کر آپ کے پیچھے پیچھے چل پڑی، یہاں تک کہ آپ مقبرہ بقیع آئے، تو آپ نے اپنے ہاتھ تین بار اٹھائے، قیام کو طویل کیا پھر پلٹے تو میں بھی پلٹی، اور تیزی سے چلے، میں بھی تیزی سے چلی، پھر آپ نے رفتار کچھ اور تیز کر دی تو میں نے بھی تیز کر دی پھر آپ دوڑنے لگے تو میں بھی دوڑنے لگی، میں آپ سے آگے نکل گئی اور اندر داخل ہو گئی اور اب میں لیٹی ہی تھی کہ آپ اندر آ گئے اور فرمایا: ”کیا بات ہے عائشہ! سانس کیوں پھولی ہے؟ ( سلیمان بن داود نے کہا: میرا خیال ہے کہ میرے شیخ نے یوں فرمایا: «حشیا»،‏‏‏‏ یعنی ) تمہاری سانسیں کیوں پھول رہی ہیں؟“ آپ نے فرمایا: ”بتاؤ ورنہ مجھے لطیف و خبیر یعنی اللہ بتا دے گا“۔ میں نے کہا: اللہ کے رسول! میرے ماں باپ آپ پر قربان ہوں، پھر انہوں نے آپ کو پورا واقعہ بتایا، آپ نے فرمایا: ”تو تمہارا ہی سایہ تھا جو میں نے اپنے آگے دیکھا؟“ میں نے کہا: ہاں، پھر آپ نے میرے سینے پر ایک ایسی تھپکی ماری کہ مجھے تکلیف ہوئی اور فرمایا: ”کیا تم سمجھتی ہو کہ اللہ اور اس کا رسول تم پر ظلم کرے گا؟“ عائشہ رضی اللہ عنہا نے کہا: کوئی بات چاہے لوگوں سے کتنی ہی مخفی رہے، لیکن اللہ تعالیٰ تو اسے بخوبی جانتا ہے۔ آپ صلی اللہ علیہ وسلم نے فرمایا: ”ہاں، پھر فرمایا: جبرائیل علیہ السلام میرے پاس آئے جب تم نے مجھے دیکھا، لیکن وہ اندر تمہارے سامنے نہیں آ سکتے تھے کہ تم اپنے کپڑے اتار چکی تھیں، انہوں نے مجھے پکارا اور تم سے چھپایا، میں نے انہیں جواب دیا اور میں نے اسے تم سے چھپایا ( یعنی دھیرے سے کہا ) اور میں سمجھا کہ تم سو چکی ہو، تو میں نے مناسب نہیں سمجھا کہ تمہیں جگاؤں۔ اور مجھے ڈر تھا کہ تم تنہائی میں وحشت نہ کھاؤ، تو انہوں ( جبرائیل ) نے مجھے حکم دیا کہ میں اہل بقیع کے پاس جاؤں اور ان کے لیے استغفار کروں“۔ حجاج بن محمد نے سند اس کے برعکس یوں بیان کی «عن ابن جریج، عن ابن ابی ملیکۃ، عن محمد بن قیس» ۔",
+          "fr": "Rapporté par ‘Aïcha : \"Voulez-vous que je vous raconte une histoire à propos du Prophète et moi ?\" Nous avons dit : \"Oui.\" Elle a dit : \"Quand c’était ma nuit, il est entré, a posé ses chaussures près de ses pieds, a enlevé son manteau et a étendu son vêtement sur le lit. Dès qu’il a pensé que je dormais, il a remis ses chaussures doucement, a pris son manteau doucement, a ouvert la porte doucement, est sorti et l’a refermée doucement. J’ai mis mon vêtement sur ma tête, je me suis couverte et j’ai mis mon vêtement du bas, puis je l’ai suivi jusqu’à ce qu’il arrive à Al-Baqi’, il a levé les mains trois fois et il est resté longtemps. Ensuite, il est parti et je suis partie, il s’est dépêché et je me suis dépêchée, il a couru et j’ai couru, et je suis arrivée avant lui et je suis entrée (dans la maison). Je venais à peine de m’allonger quand il est entré et a dit : \"Ô ‘Aïcha, pourquoi es-tu essoufflée ?\" (Un des rapporteurs, Souleiman, a dit : Je crois qu’il a dit : \"à bout de souffle.\") Il a dit : \"Soit tu me dis la vérité, soit l’Omniscient, le Savant me le dira.\" J’ai dit : \"Ô Messager d’Allah, que mon père et ma mère soient sacrifiés pour toi ;\" et je lui ai raconté l’histoire. Il a dit : \"C’était donc toi la forme noire que j’ai vue devant moi ?\" J’ai dit : \"Oui.\" Elle a dit : \"Il m’a donné une petite tape sur la poitrine qui m’a fait mal et a dit : \"Tu as pensé qu’Allah et Son Messager seraient injustes envers toi.\" Elle a dit : \"Tout ce que les gens cachent, Allah, le Puissant et Majestueux, le sait.\" Il a dit : \"Oui.\" Il a dit : \"Jibril est venu à moi quand tu m’as vu partir, mais il n’est pas entré chez toi parce que tu avais enlevé tes vêtements. Alors il m’a appelé mais il s’est caché de toi, et je lui ai répondu mais je l’ai caché de toi. Je pensais que tu dormais et je ne voulais pas te réveiller, et j’avais peur que tu te sentes seule. Il m’a dit d’aller à Al-Baqi’ et de demander pardon pour eux.\" Hajjaj bin Muhammad l’a contredit (Ibn Wahb), il a dit : \"De Ibn Juraij, de Ibn Abi Mulaikah, de Muhammad bin Qais",
+          "id": "Telah mengabarkan kepada kami [Sulaiman bin Daud], ia berkata; telah memberitakan kepada kami [Ibnu Wahb], ia berkata; telah mengabarkan kepadaku [Ibnu Juraij] dari [Abdullah bin Katsir] bahwa ia mendengar [Muhammad bin Qais] berkata; saya mendengar [Aisyah] berkata; maukah saya ceritakan kepada kalian mengenai Nabi shallallahu 'alaihi wasallam dan dariku? Kami mengatakan; ya. Ia berkata; ketika datang malam giliranku beliau berbalik kemudian beliau meletakkan kedua sandalnya di kedua kakinya, dan meletakkan selendangnya di tengah sarungnya di atas kasurnya. Dan tidak lama kemudian beliau menyangka bahwa saya telah tertidur kemudian beliau memakai sandalnya perlahan dan mengambil selendangnya kemudian membuka pintu perlahan, dan keluar dan menutupnya perlahan. Dan saya meletakkan bajuku di kepala dan menutupi kepalaku dengan sarungku, dan pergi menikuti beliau hingga beliau sampai di Baqi' kemudian mengangkat kedua tangannya tiga kali dan beliau berdiri lama. Kemudian beliau pergi dan berjalan cepat dan saya berjalan cepat, beliau berlari-lari kecil dan sayapun berlari-lari kecil. Kemudian sampai rumah dan sayapun telah sampai dan mendahului beliau. Beliau bersabda: \"Engkau terengah-engah, sungguh engkau memberitahuku atau Allah yang Maha Lembut dan Mengetahui akan memberitahuku?\" saya katakan; wahai Rasulullah, tebusanmu dengan ayah dan ibuku.... kemudian saya beritahu beliau. Beliau bersabda: \"Apakah engkau bayangan hitam yang saya lihat di depanku?\" saya katakan; ya. Aisyah berkata; kemudian beliau dadaku dengan pulukan yang membuatku merasa sakit. Beliau bersabda: \"Engkau menyangka bahwa Allah dan RasulullahNya akan berlaku sewenang-wenang kepadamu?\" Aisyah berkata; bagaimanapun orang menyembunyikan sungguh Allah 'azza wajalla telah mengetahuinya. Beliau bersabda: \"Ya, sesungguhnya Jibril 'alaihis salam telah datang kepadaku ketika engkau melihat dan ia tidak menemuimu sedang engkau telah meletakkan pakaianmu. Kemudian ia memanggilku dan menyembunyikannya darimu. Kemudian saya menjawabnya dan menyembunyikannya darimu. Saya mengira bahwa engkau telah tertidur, sehingga tidak inggin membangunkanmu karena khawatir engkau merasa kesepian. Kemudian ia memerintahkanku agar mendatangi penghuni Baqi' dan memintakan ampunan untuk mereka.\" Hajjaj bin Muhammad telah menyelisihinya, ia berkata; dari Ibnu Juraij dari Ibnu Mulaikah dari Muhammad bin Qais"
+        }
+      },
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "nasai",
+        "book": 36,
+        "hadith": 25
+      }
+    },
+    {
+      "hadithNumber": 3964,
+      "arabicNumber": 3964,
+      "book": 36,
+      "hadithInBook": 26,
+      "text": {
+        "arabic": "حَدَّثَنَا يُوسُفُ بْنُ سَعِيدِ بْنِ مُسْلَّمٍ الْمِصِّيصِيُّ، قَالَ حَدَّثَنَا حَجَّاجٌ، عَنِ ابْنِ جُرَيْجٍ، أَخْبَرَنِي عَبْدُ اللَّهِ بْنُ أَبِي مُلَيْكَةَ، أَنَّهُ سَمِعَ مُحَمَّدَ بْنَ قَيْسِ بْنِ مَخْرَمَةَ، يَقُولُ سَمِعْتُ عَائِشَةَ، تُحَدِّثُ قَالَتْ أَلاَ أُحَدِّثُكُمْ عَنِّي وَعَنِ النَّبِيِّ صلى الله عليه وسلم قُلْنَا بَلَى ‏.‏ قَالَتْ لَمَّا كَانَتْ لَيْلَتِي الَّتِي هُوَ عِنْدِي تَعْنِي النَّبِيَّ صلى الله عليه وسلم انْقَلَبَ فَوَضَعَ نَعْلَيْهِ عِنْدَ رِجْلَيْهِ وَوَضَعَ رِدَاءَهُ وَبَسَطَ طَرَفَ إِزَارِهِ عَلَى فِرَاشِهِ فَلَمْ يَلْبَثْ إِلاَّ رَيْثَمَا ظَنَّ أَنِّي قَدْ رَقَدْتُ ثُمَّ انْتَعَلَ رُوَيْدًا وَأَخَذَ رِدَاءَهُ رُوَيْدًا ثُمَّ فَتَحَ الْبَابَ رُوَيْدًا وَخَرَجَ وَأَجَافَهُ رُوَيْدًا وَجَعَلْتُ دِرْعِي فِي رَأْسِي وَاخْتَمَرْتُ وَتَقَنَّعْتُ إِزَارِي فَانْطَلَقْتُ فِي إِثْرِهِ حَتَّى جَاءَ الْبَقِيعَ فَرَفَعَ يَدَيْهِ ثَلاَثَ مَرَّاتٍ وَأَطَالَ الْقِيَامَ ثُمَّ انْحَرَفَ فَانْحَرَفْتُ فَأَسْرَعَ فَأَسْرَعْتُ فَهَرْوَلَ فَهَرْوَلْتُ فَأَحْضَرَ فَأَحْضَرْتُ وَسَبَقْتُهُ فَدَخَلْتُ فَلَيْسَ إِلاَّ أَنِ اضْطَجَعْتُ فَدَخَلَ فَقَالَ ‏\"‏ مَا لَكِ يَا عَائِشَةُ حَشْيَا رَابِيَةً ‏\"‏ ‏.‏ قَالَتْ لاَ ‏.‏ قَالَ ‏\"‏ لَتُخْبِرِنِّي أَوْ لَيُخْبِرَنِّي اللَّطِيفُ الْخَبِيرُ ‏\"‏ ‏.‏ قُلْتُ يَا رَسُولَ اللَّهِ بِأَبِي أَنْتَ وَأُمِّي فَأَخْبَرْتُهُ الْخَبَرَ ‏.‏ قَالَ ‏\"‏ فَأَنْتِ السَّوَادُ الَّذِي رَأَيْتُهُ أَمَامِي ‏\"‏ ‏.‏ قَالَتْ نَعَمْ - قَالَتْ - فَلَهَدَنِي فِي صَدْرِي لَهْدَةً أَوْجَعَتْنِي ثُمَّ قَالَ ‏\"‏ أَظَنَنْتِ أَنْ يَحِيفَ اللَّهُ عَلَيْكِ وَرَسُولُهُ ‏\"‏ ‏.‏ قَالَتْ مَهْمَا يَكْتُمِ النَّاسُ فَقَدْ عَلِمَهُ اللَّهُ ‏.‏ قَالَ ‏\"‏ نَعَمْ - قَالَ - فَإِنَّ جِبْرِيلَ عَلَيْهِ السَّلاَمُ أَتَانِي حِينَ رَأَيْتِ وَلَمْ يَكُنْ يَدْخُلُ عَلَيْكِ وَقَدْ وَضَعْتِ ثِيَابَكِ فَنَادَانِي فَأَخْفَى مِنْكِ فَأَجَبْتُهُ فَأَخْفَيْتُ مِنْكِ فَظَنَنْتُ أَنْ قَدْ رَقَدْتِ وَخَشِيتُ أَنْ تَسْتَوْحِشِي فَأَمَرَنِي أَنْ آتِيَ أَهْلَ الْبَقِيعِ فَأَسْتَغْفِرَ لَهُمْ ‏\"‏ ‏.‏ رَوَاهُ عَاصِمٌ عَنْ عَبْدِ اللَّهِ بْنِ عَامِرٍ عَنْ عَائِشَةَ عَلَى غَيْرِ هَذَا اللَّفْظِ ‏.‏",
+        "translations": {
+          "en": "Aishah said:\"Shall I not tell you about the Prophet and I?\" We said: \"Yes.\" She said: \"When it was my night when he\" -meaning the Prophet- \"was with me, he came in, placed his shoes by his feet, lay down his Rida' (upper garment), and spread the edge of his Izar (lower garment) on his bed. As soon as he thought that I had gone to sleep, he put his shoes on slowly, and picked up his Rida' slowly. Then he opened the door slowly, went out and shut it slowly. I put my garment over my head, covered myself and put on my Izar (lower garment), and I set out after him until he came to Al-Baqi', raised his hands three times and stood there for a long time. Then he left and I left, he hurried and I hurried, he ran and I ran, and I got there before him and entered (the house). I had only just laid down when he came in and said: 'O 'Aishah, why are you out of breath?' She said: 'No.' He said: 'Either you tell me or Allah, the All-Aware, All-Knowing, will tell me.' I said: 'O Messenger of Allah, may my father and mother be sacrificed for you;' and I told him the story. He said: 'You were the black shape I saw in front of me?' I said: 'Yes.'\" She said: \"He gave me a shove in the chest that hurt me and said: 'You thought that Allah and His Messenger would be unfair to you.' She said: 'Whatever people conceal, Allah knows it.' He said: 'Yes.' He said: 'Jibril came to me when you saw (me leave) but he did not enter upon you because you have taken off your garments. So he called me but he concealed himself from you, and I answered him, but I concealed it from you. I thought that you had gone to sleep and I did not want to wake you, and I was afraid that you would feel lonely. He told me to go to Al-Baqi' and pray for forgiveness for them.'\" 'Asim reported it from 'Abdullah bin 'Amir, from 'Aishah, with a wording different from this",
+          "ur": "محمد بن قیس بن مخرمہ کہتے ہیں کہ انہوں نے ام المؤمنین عائشہ رضی اللہ عنہا کو کہتے ہوئے سنا: کیا میں تم سے نبی اکرم صلی اللہ علیہ وسلم کا اور اپنا ایک واقعہ نہ بیان کروں؟ ہم نے عرض کیا: کیوں نہیں؟ وہ بولیں: جس رات میری باری تھی، نبی اکرم صلی اللہ علیہ وسلم میرے یہاں تھے، آپ عشاء سے لوٹے اور جوتے اپنے پیروں کے پاس رکھ لیے، اپنی چادر رکھی اور بستر پر تہبند بچھایا، ابھی تھوڑی ہی دیر ہوئی تھی جب آپ کو اندازہ ہوا کہ میں سو چکی ہوں، آپ نے آہستہ سے جوتے پہنے اور آہستہ سے چادر لی پھر دھیرے سے دروازہ کھولا اور باہر نکل کر دھیرے سے بھیڑ دیا، میں نے بھی اوڑھنی اپنے سر پر ڈالی، چادر اوڑھی، پھر تہبند پہن کر آپ کے پیچھے پیچھے چل پڑی، یہاں تک کہ آپ مقبرہ بقیع آئے، تو آپ نے اپنے ہاتھ تین بار اٹھائے، قیام کو طویل کیا پھر پلٹے تو میں بھی پلٹی، اور تیزی سے چلے، میں بھی تیزی سے چلی، پھر آپ نے رفتار کچھ اور تیز کر دی تو میں نے بھی رفتار تیز کر دی پھر آپ دوڑنے لگے تو میں بھی دوڑنے لگی اور میں آپ سے آگے نکل گئی اور اندر داخل ہو گئی اور اب میں لیٹی ہی تھی کہ آپ اندر آ گئے اور فرمایا: ”کیا بات ہے عائشہ! پیٹ کیسا پھولا ہے، تمہاری سانسیں کیوں پھول رہی ہیں؟ بتاؤ ورنہ مجھے لطیف و خبیر یعنی اللہ تعالیٰ بتا دے گا“۔ میں نے کہا: اللہ کے رسول! میرے ماں باپ آپ پر قربان ہوں، پھر انہوں نے آپ کو پورا واقعہ بتایا۔ آپ صلی اللہ علیہ وسلم نے فرمایا: ”تو تمہارا ہی سایہ تھا جو میں نے اپنے آگے دیکھا؟“ میں نے کہا: ہاں، پھر آپ نے میرے سینے پر ایک ایسی تھپکی ماری کہ مجھے تکلیف ہوئی اور فرمایا: ”کیا تم سمجھتی ہو کہ اللہ اور اس کا رسول تم پر ظلم کرے گا؟“ انہوں نے کہا: کوئی بات چاہے لوگوں سے کتنی ہی مخفی رہے، لیکن اللہ تعالیٰ تو اسے جان ہی لے گا۔ آپ صلی اللہ علیہ وسلم نے فرمایا: ہاں، ( اور ) کہا: جبرائیل میرے پاس آئے جب تم نے مجھے دیکھا، لیکن وہ اندر تمہارے سامنے نہیں آ سکتے تھے کہ تم اپنے کپڑے اتار چکی تھیں۔ انہوں نے مجھے پکارا اور تم سے چھپایا، میں نے انہیں جواب دیا اور میں نے اسے تم سے چھپایا ( یعنی دھیرے سے کہا ) اور میں سمجھا کہ تم سو چکی ہو، اور مجھے ڈر تھا کہ تم تنہائی میں وحشت نہ کھاؤ، تو انہوں ( جبرائیل ) نے مجھے حکم دیا کہ میں اہل بقیع کے پاس جاؤں اور ان کے لیے استغفار کروں۔ عاصم نے یہ حدیث دوسرے الفاظ کے ساتھ عبداللہ بن عامر سے اور انہوں نے عائشہ رضی اللہ عنہا سے روایت کی ہے۔",
+          "fr": "Rapporté par ‘Aïcha : \"Voulez-vous que je vous raconte une histoire à propos du Prophète et moi ?\" Nous avons dit : \"Oui.\" Elle a dit : \"Quand c’était ma nuit où il\" – c’est-à-dire le Prophète – \"était avec moi, il est entré, a posé ses chaussures près de ses pieds, a enlevé son manteau et a étendu le bord de son vêtement du bas sur le lit. Dès qu’il a pensé que je dormais, il a remis ses chaussures doucement, a pris son manteau doucement, a ouvert la porte doucement, est sorti et l’a refermée doucement. J’ai mis mon vêtement sur ma tête, je me suis couverte et j’ai mis mon vêtement du bas, puis je l’ai suivi jusqu’à ce qu’il arrive à Al-Baqi’, il a levé les mains trois fois et il est resté longtemps. Ensuite, il est parti et je suis partie, il s’est dépêché et je me suis dépêchée, il a couru et j’ai couru, et je suis arrivée avant lui et je suis entrée (dans la maison). Je venais à peine de m’allonger quand il est entré et a dit : \"Ô ‘Aïcha, pourquoi es-tu essoufflée ?\" Elle a dit : \"Non.\" Il a dit : \"Soit tu me dis la vérité, soit Allah, l’Omniscient, le Savant, me le dira.\" J’ai dit : \"Ô Messager d’Allah, que mon père et ma mère soient sacrifiés pour toi ;\" et je lui ai raconté l’histoire. Il a dit : \"C’était donc toi la forme noire que j’ai vue devant moi ?\" J’ai dit : \"Oui.\" Elle a dit : \"Il m’a donné une petite tape sur la poitrine qui m’a fait mal et a dit : \"Tu as pensé qu’Allah et Son Messager seraient injustes envers toi.\" Elle a dit : \"Tout ce que les gens cachent, Allah le sait.\" Il a dit : \"Oui.\" Il a dit : \"Jibril est venu à moi quand tu m’as vu partir, mais il n’est pas entré chez toi parce que tu avais enlevé tes vêtements. Alors il m’a appelé mais il s’est caché de toi, et je lui ai répondu mais je l’ai caché de toi. Je pensais que tu dormais et je ne voulais pas te réveiller, et j’avais peur que tu te sentes seule. Il m’a dit d’aller à Al-Baqi’ et de demander pardon pour eux.\" ‘Asim l’a rapporté de ‘Abdullah bin ‘Amir, de ‘Aïcha, avec un texte différent",
+          "id": "Telah mengabarkan kepada kami [Yusuf bin Sa'id bin Muslim Al Mishshishi], ia berkata; telah menceritakan kepada kami [Hajjaj] dari [Ibnu Juraij] telah mengabarkan kepadaku [Abdullah bin Abi Mulaikah] bahwa ia mendengar [Muhammad bin Qais bin Makhramah] berkata; saya mendengar [Aisyah] menceritakan, ia berkata; maukah kalian saya ceritakan kepada kalian mengenai diriku dan Rasulullah shallallahu 'alaihi wasallam? Kami mengatakan; ya. Ia berkata; di saat malamku yang mana beliau ada di sisiku yaitu Nabi shallallahu 'alaihi wasallam, beliau berbalik dan meletakkan kedua sandalnya di kedua kakinya dan meletakkan selendangnya di tengah ujung sarungnya di atas kasurnya. Dan tidak lama kemudian beliau menyangka bahwa saya telah tertidur kemudian beliau memakai sandalnya perlahan dan mengambil selendangnya kemudian membuka pintu perlahan, dan keluar dan menutupnya perlahan. Dan saya meletakkan bajuku di kepala dan menutupi kepalaku dengan sarungku, dan pergi menikuti beliau hingga beliau sampai di Baqi' kemudian mengangkat kedua tangannya tiga kali dan beliau berdiri lama. Kemudian beliau pergi dan berjalan cepat dan saya berjalan cepat, beliau berlari-lari kecil dan sayapun berlari-lari kecil. Kemudian sampai rumah dan sayapun telah sampai dan mendahului beliau. Beliau bersabda: \"Engkau terengah-engah, sungguh engkau memberitahuku atau Allah yang Maha Lembut dan Mengetahui akan memberitahuku?\" saya katakan; wahai Rasulullah, tebusanmu dengan ayah dan ibuku.... kemudian saya beritahu beliau. Beliau bersabda: \"Apakah engkau bayangan hitam yang saya lihat di depanku?\" saya katakan; ya. Aisyah berkata; kemudian beliau dadaku dengan pulukan yang membuatku merasa sakit. Beliau bersabda: \"Engkau menyangka bahwa Allah dan RasulullahNya akan berlaku sewenang-wenang kepadamu?\" Aisyah berkata; bagaimanapun orang menyembunyikan sungguh Allah 'azza wajalla telah mengetahuinya. Beliau bersabda: \"Ya, sesungguhnya Jibril 'alaihis salam telah datang kepadaku ketika engkau melihat dan ia tidak menemuimu sedang engkau telah meletakkan pakaianmu. Kemudian ia memanggilku dan menyembunyikannya darimu. Kemudian saya menjawabnya dan menyembunyikannya darimu. Saya mengira bahwa engkau telah tertidur, sehingga tidak inggin membangunkanmu karena khawatir engkau merasa kesepian. Kemudian ia memerintahkanku agar mendatangi penghuni Baqi' dan memintakan ampunan untuk mereka.\" Ashim telah meriwayatkannya dari Abdullah bin 'Amir bin Rabi'ah dari Aisyah dengan lafadz yang lain. Telah mengabarkan kepada kami [Ali bin Hujr] dia berkata; telah memberitakan kepada kami [Syarik] dari [Ashim] dari [Abdullah bin Amir bin Rabi'ah] dari [Aisyah], ia berkata; saya kehilangan beliau pada suatu malam....dan ia menyebutkan hadits tersebut"
+        }
+      },
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "nasai",
+        "book": 36,
+        "hadith": 26
+      }
+    },
+    {
+      "hadithNumber": 3965,
+      "arabicNumber": 3965,
+      "book": 36,
+      "hadithInBook": 27,
+      "text": {
+        "arabic": "أَخْبَرَنَا عَلِيُّ بْنُ حُجْرٍ، قَالَ أَنْبَأَنَا شَرِيكٌ، عَنْ عَاصِمٍ، عَنْ عَبْدِ اللَّهِ بْنِ عَامِرِ بْنِ رَبِيعَةَ، عَنْ عَائِشَةَ، قَالَتْ فَقَدْتُهُ مِنَ اللَّيْلِ وَسَاقَ الْحَدِيثَ ‏.‏",
+        "translations": {
+          "en": "It was narrated that 'Aishah said:\"I noticed that he was not there one night\" and he quoted the rest of the Hadith",
+          "ur": "اس سند سے بھی عائشہ رضی الله عنہا کہتی ہیں کہ رات کو آپ صلی اللہ علیہ وسلم نے مجھے غائب پایا اور پھر پوری حدیث بیان کی۔",
+          "fr": "Rapporté par ‘Aïcha : \"J’ai remarqué qu’il n’était pas là une nuit\" et il a rapporté le reste du hadith"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "nasai",
+        "book": 36,
+        "hadith": 27
+      }
+    }
+  ],
+  "metadata": {
+    "averageLength": "long",
+    "size": "26KB"
+  }
+}

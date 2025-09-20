@@ -1,0 +1,239 @@
+{
+  "collection": "muslim",
+  "book": 41,
+  "name": {
+    "arabic": "كتاب The Book of Poetry",
+    "transliteration": "kitab poetry",
+    "translation": "The Book of Poetry"
+  },
+  "totalHadith": 10,
+  "hadithNumberRange": {
+    "first": 5887,
+    "last": 5896
+  },
+  "content": [
+    {
+      "hadithNumber": 5887,
+      "arabicNumber": "2255.03",
+      "book": 41,
+      "hadithInBook": 2,
+      "text": {
+        "arabic": "وَحَدَّثَنَا يَحْيَى بْنُ يَحْيَى، أَخْبَرَنَا الْمُعْتَمِرُ بْنُ سُلَيْمَانَ، ح وَحَدَّثَنَا زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ، كِلاَهُمَا عَنْ عَبْدِ اللَّهِ بْنِ عَبْدِ الرَّحْمَنِ الطَّائِفِيِّ، عَنْ عَمْرِو، بْنِ الشَّرِيدِ عَنْ أَبِيهِ، قَالَ اسْتَنْشَدَنِي رَسُولُ اللَّهِ صلى الله عليه وسلم ‏.‏ بِمِثْلِ حَدِيثِ إِبْرَاهِيمَ بْنِ مَيْسَرَةَ وَزَادَ قَالَ ‏\"‏ إِنْ كَادَ لَيُسْلِمُ ‏\"‏ ‏.‏ وَفِي حَدِيثِ ابْنِ مَهْدِيٍّ قَالَ ‏\"‏ فَلَقَدْ كَادَ يُسْلِمُ فِي شِعْرِهِ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Amr b. Sharid reported on the authority of his father that Allah's Messenger (ﷺ) asked him to recite poetry, the rest of the hadith is the same, but with this addition:\"He (that is Umayya b. Abu Salt) was about to become a Muslim\", and in the hadith transmitted on the authority of Ibn Mahdi (the words are) \"He was almost a Muslim in his poetry",
+          "ur": "معتمر بن سلیمان اور عبد الرحمٰن بن مہدی دونوں نے عبد اللہ بن عبد الرحمٰن طائفی سے ، انھوں نے عمروبن شریدسے ، انھوں نے اپنے والد سے روایت کی ، کہا : رسول اللہ صلی اللہ علیہ وسلم نے مجھے شعر سنانے کے لیے فرما یا ، ابرا ہیم بن میسرہ کی روایت کے مانند اور مزید یوں کہا : آپ صلی اللہ علیہ وسلم نے فر مایا \" قریب تھا کہ وہ مسلمان ہو جاتا ۔ \" اور ابن مہدی کی حدیث میں ہے : \" وہ اپنے اشعار میں مسلمان ہو نے کے قریب تھا ۔ \" ( اس نے تقریباً وہی باتیں کیں جو ایک مسلمان کہہ سکتا ہے ۔)",
+          "fr": "Rapporté par ‘Amr b. Sharid d’après son père رضي الله عنه : Le Messager d’Allah ﷺ lui a demandé de réciter de la poésie. Le reste du hadith est le même, avec cette addition : « Il (c’est-à-dire Umayya b. Abu Salt) était sur le point de devenir musulman. » Et dans le hadith transmis par Ibn Mahdi, les mots sont : « Il était presque musulman dans sa poésie. »",
+          "tr": "{M-1-2} Bize Yahya b. Yahya da rivayet etti. (Dediki): Bize Mu'temir b. Süleyman haber verdi. H. Bana Züheyr b. Harb dahî rivayet etti. (Dediki): Bize Abdurrahman b. Mehdî rivayet etti. Her iki râvi Abdullah b. Abdirrahman Et-Tâifî'den, o da Amr b. Şerîd'den, o da babasından naklen rivayet etmişlerdir. Şöyle demiş: Resûlullah (Sallallahu Aleyhi ve Sellem) benden şiir okumamı istedi... Râvi İbrahim b. Meysera'nın hadîsi gibi rivayette bulunmuş, şunu da ziyâde etmiştir : «Az daha müslüman oluyordu,» buyurdu. İbni Mehdî'nin hadîsinde : «Yemin olsun şirinde az daha müslüman oluyordu.» buyurdu cümlesi vardır. izah: Kastalâni diyor ki: «Ümeyye b. Ebi's-Salt câhiliyyet devri şairlerindendir. İslâm'ın ilk devirlerine de yetişmiştir. Nebi (Sallallahu Aleyhi ve Sellem)'in hak dinle gönderildiğini duymuş, fakat ona îmân etmek kendisine nasîb olmamıştır. Câhiliyyet devrinde ibâdet ederdi. Şiirinde Allah'ın birliğine dâir çok söz etmiştir. Mânâların derinliğine dalar, hakikatlere dikkat gösterirdi. Bundan dolayıdır ki: Resûlullah (Sallallahu Aleyhi ve Sellem) onun şiirini beğenmiş, okundukça daha fazlasını dinlemek istemiştir.» Hıh kelimesinin aslı ih'dir. Bundan murad anlattığın şeyi ziyâde et, daha anlat, demektir. Türkçede de bu mânâda burundan konuşmak şartiyle hî denilir, Hadîs-i şeriften maksat Nebi (Sallallahu Aleyhi ve Sellem)'in Ümeyye b. Ebî Salt'in şiirlerini beğendiğini anlatmaktır. Çünkü bu şiirlerde Allah'ın birliğini ikrar vardır. Bu hadîs içerisinde kötü sözler bulunmayan şiiri okumanın ve dinlemenin caiz olduğuna delildir. Okunan şiirin İslâmiyet veya Câhiliyet devrine ait olması hükmen müsâvîdir. Şiirin içerisinde kötü ve müstehcen sözler olmasa bile fazlası mezmumdur. Azını okuyup dinlemekte beis yoktur. Bu hadîsteki «şey'en» lâfzı bâzı nüshalarda «şey'ün» şeklinde merfu' olarak rivayet edilmiştir. Mansub yâni «şey'en» okunduğuna göre cümlede mahzuf olduğu kabul edilir. Ve «Hatırında bir şey var mı ki, bana bir şey okuyasın.» şeklinde takdir olunur"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "muslim",
+        "book": 41,
+        "hadith": 2
+      }
+    },
+    {
+      "hadithNumber": 5888,
+      "arabicNumber": "2256.01",
+      "book": 41,
+      "hadithInBook": 3,
+      "text": {
+        "arabic": "حَدَّثَنِي أَبُو جَعْفَرٍ، مُحَمَّدُ بْنُ الصَّبَّاحِ وَعَلِيُّ بْنُ حُجْرٍ السَّعْدِيُّ جَمِيعًا عَنْ شَرِيكٍ، قَالَ ابْنُ حُجْرٍ أَخْبَرَنَا شَرِيكٌ، عَنْ عَبْدِ الْمَلِكِ بْنِ عُمَيْرٍ، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ أَشْعَرُ كَلِمَةٍ تَكَلَّمَتْ بِهَا الْعَرَبُ كَلِمَةُ لَبِيدٍ أَلاَ كُلُّ شَىْءٍ مَا خَلاَ اللَّهَ بَاطِلٌ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Abu Huraira reported Allah's Messenger (ﷺ) as saying:The truest word spoken by an Arab (pre-Islamic) in poetry is this verse of Labid: \"Behold! apart from Allah everything is vain",
+          "ur": "شریک نے عبد الملک بن عمیر سے انھوں نے ابو سلمہ سے ، انھوں نے حضرت ابو ہریرہ رضی اللہ تعالیٰ عنہ سے اور انھوں نے رسول اللہ صلی اللہ علیہ وسلم سے روایت کی کہ آپ نے فر ما یا : \" عربوں نے شعر میں جو سب سے عمدہ بات کہی وہ بات لبید کا یہ جملہ ہے : \" سن رکھو !اللہ کے سوا ہر چیز ( جس کی عبادت کی جا تی ہے ) باطل ہے ۔ \" ( دوسرا مصرع ہے : وكلُّ نعيمٍ لا مَحالة َ زائِلُ \" اور ہر نعمت لا زمی طور پر زائل ہو نے والی ہے)",
+          "fr": "Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « La parole la plus véridique prononcée par un Arabe (avant l’Islam) dans la poésie est ce vers de Labid : “En vérité, en dehors d’Allah tout est vain.” »",
+          "id": "Telah menceritakan kepadaku [Abu Ja'far Muhammad bin Ash Shabbah] dan ['Ali bin Hujr As Sa'di] seluruhnya dari [Syarik]. [Ibnu Hujr] berkata; Telah mengabarkan kepada kami [Syarik] dari ['Abdul Malik bin 'Umair] dari [Abu Salamah] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: \"Sya'ir (atau sajak) paling indah yang pernah diungkapkan orang Arab ialah sajaknya Labid. Labid bersya'ir: Alaa, kullu syaiin maa khalallaha bathil (Ketahuilah, segala sesuatu selain Allah itu pasti binasa)",
+          "tr": "Bana Ebû Cafer Muhammed b. Sabbah ile Alî b. Hucr Es-Sa'dî hep birden Şerîk'den rivayet ettiler. İbni Hucr dediki: Bize Şerik, Abdü'l-Melîk b. Umeyr'den, o da Ebû Seleme'den, o da Ebû Hureyre'den, o da Nebi (Sallallahu Aleyhi ve Sellem)'den naklen haber verdi: «Arabın söylediği sözlerin en şâirânesi Lubîd'in şu sözüdür: Dikkat et ki Allah'dan başka her şey bâtıldır.» buyurmuşlar"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "muslim",
+        "book": 41,
+        "hadith": 3
+      }
+    },
+    {
+      "hadithNumber": 5889,
+      "arabicNumber": "2256.02",
+      "book": 41,
+      "hadithInBook": 4,
+      "text": {
+        "arabic": "وَحَدَّثَنِي مُحَمَّدُ بْنُ حَاتِمِ بْنِ مَيْمُونٍ، حَدَّثَنَا ابْنُ مَهْدِيٍّ، عَنْ سُفْيَانَ، عَنْ عَبْدِ الْمَلِكِ، بْنِ عُمَيْرٍ حَدَّثَنَا أَبُو سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ أَصْدَقُ كَلِمَةٍ قَالَهَا شَاعِرٌ كَلِمَةُ لَبِيدٍ أَلاَ كُلُّ شَىْءٍ مَا خَلاَ اللَّهَ بَاطِلٌ وَكَادَ أُمَيَّةُ بْنُ أَبِي الصَّلْتِ أَنْ يُسْلِمَ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Abu Huraira reported Allah's Messenger (ﷺ) as saying:The truest word uttered by a poet is this verse of Labid: \"Behold! apart from Allah everything is vain,\" and Umayya b. Abu Salt was almost a Muslim",
+          "ur": "سفیان نے عبد الملک بن عمیر سے روایت کی ، کہا : ہمیں ابوسلمہ نے حضرت ابو ہریرہ رضی اللہ تعالیٰ عنہ سے حدیث بیان کی ، کہا : رسول اللہ صلی اللہ علیہ وسلم نے فر ما یا : \" سب سے سچی بات جو کسی شاعر نے کہی لبید کی بات ہے ۔ \" سن رکھو!اللہ کے سوا ہر چیز ( جس کی عبادت کی جا تی ہے ) باطل ہے ۔ \" اور قریب تھا کہ امیہ بن ابی صلت مسلمان ہوجاتا ۔",
+          "fr": "Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « La parole la plus véridique prononcée par un poète est ce vers de Labid : “En vérité, en dehors d’Allah tout est vain.” » Et Umayya b. Abu Salt était presque musulman",
+          "id": "Dan telah menceritakan kepadaku [Muhammad bin Hatim bin Maimun]; Telah menceritakan kepada kami [Ibnu Mahdi] dari [Sufyan] dari ['Abdul Malik bin 'Umair]; Telah menceritakan kepada kami [Abu Salamah] dari [Abu Hurairah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Sya'ir paling benar yang pernah di ucapkan oleh penyair adalah syairnya Labid. Labid bersya'ir: Alaa, kullu syaiin maa khalallaha bathil (Ketahuilah, segala sesuatu selain Allah itu pasti binasa). Dan hampir saja Umayyah bin Abu Shalt masuk Islam",
+          "tr": "Bana Muhammed b. Hatim b. Meymûn da rivayet etti. (Dediki): Bize İbni Mehdî Süfyân'dan, o da AbdülMelîk b. Umeyr'den naklen rivayet etti. (Demişki): Bize Ebû Seleme, Ebû Hureyre'den rivâye etti. Şöyle demiş: Resûlullah (Sallallahu Aleyhi ve Sellem): «Şâirin söylediği en doğru söz Lebîd'in şu sözüdür: Dikkat et ki, Allah'dan başka her şey bâtıldır. Umeyye b. Ebi's-Salt ise az daha müslüman oluyordu.» buyurdular"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "muslim",
+        "book": 41,
+        "hadith": 4
+      }
+    },
+    {
+      "hadithNumber": 5890,
+      "arabicNumber": "2256.03",
+      "book": 41,
+      "hadithInBook": 5,
+      "text": {
+        "arabic": "وَحَدَّثَنِي ابْنُ أَبِي عُمَرَ، حَدَّثَنَا سُفْيَانُ، عَنْ زَائِدَةَ، عَنْ عَبْدِ الْمَلِكِ بْنِ عُمَيْرٍ، عَنْ أَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ أَصْدَقُ بَيْتٍ قَالَهُ الشَّاعِرُ أَلاَ كُلُّ شَىْءٍ مَا خَلاَ اللَّهَ بَاطِلٌ وَكَادَ ابْنُ أَبِي الصَّلْتِ أَنْ يُسْلِمَ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Abu Huraira reported Allah's Messenger (ﷺ) as saying:The truest verse recited by a poet is: \"Behold! apart from Allah everything is vain,\" and Ibn Abu Salt was almost a Muslim",
+          "ur": "زائد ہ نے عبد الملک بن عمیر سے ، انھوں نے ابو سلمہ بن عبدالرحمٰن سے ، انھوں نے حضرت ابو ہریرہ رضی اللہ تعالیٰ عنہ سے روایت کی ، کہ رسول اللہ صلی اللہ علیہ وسلم نے فرما یا : \" کسی بھی شاعرکا کہا ہوا سب سے سچا شعر وہ ہے جو لبید نے کہا ہے ۔ \" سنو اللہ کے سوا ہر چیز باطل ہے ۔ \" اور قریب تھا کہ امیہ بن ابی صلت مسلمان ہو جا تا ۔",
+          "fr": "Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Le vers le plus véridique récité par un poète est : “En vérité, en dehors d’Allah tout est vain.” » Et Ibn Abu Salt était presque musulman",
+          "id": "Dan telah menceritakan kepadaku [Ibnu Abu 'Umar]; Telah menceritakan kepada kami [Sufyan] dari [Zaidah] dari ['Abdul Malik bin 'Umair] dari [Abu Salamah bin 'Abdur Rahman] dari [Abu Hurairah] bahwa Nabi shallallahu 'alaihi wasallam bersabda: \"Sya'ir paling benar yang pernah di ucapkan oleh penyair adalah syair: \"Alaa, kullu syaiin maa khalallaha bathil (Ketahuilah, segala sesuatu selain Allah itu pasti binasa).\" Hingga hampir saja Umayyah bin Abu Shalt masuk Islam",
+          "tr": "Bana İbni Ebî Ömer de rivayet etti. (Dediki): Bize Süfyân Zâide'den, o dâ Abdü'I-Melîk b. Umeyr'den, o da Ebû Seleme b. Abdirrahman'dan, o da Ebû Hureyre'den, o da Resûlullah (Sallallahu Aleyhi ve Sellem)'den naklen rivayet etti. «Şâirin söylediği en doğru beyt: Dikkat et ki, Allah'dan başka her şey bâtıldır, beytidir. İbni Ebi's-Salt ise az daha müslüman oluyordu.» buyurmuşlar"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "muslim",
+        "book": 41,
+        "hadith": 5
+      }
+    },
+    {
+      "hadithNumber": 5891,
+      "arabicNumber": "2256.04",
+      "book": 41,
+      "hadithInBook": 6,
+      "text": {
+        "arabic": "وَحَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، عَنْ عَبْدِ الْمَلِكِ بْنِ، عُمَيْرٍ عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ أَصْدَقُ بَيْتٍ قَالَتْهُ الشُّعَرَاءُ أَلاَ كُلُّ شَىْءٍ مَا خَلاَ اللَّهَ بَاطِلٌ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Abu Huraira reported Allah's Apostle (ﷺ) as saying:The truest couplet recited by a poet is: \"Behold! apart from Allah everything is vain,\" and he made no addition to it",
+          "ur": "شعبہ نے عبدالملک بن عمیر سے ، انھوں نے ابو سلمہ سے انھو ں نے حضرت ابو ہریرہ رضی اللہ تعالیٰ عنہ سے انھوں نے نبی صلی اللہ علیہ وسلم سے روایت کی ، کہ آپ نے فرما یا : \" شاعروں کے کلا م میں سب سے سچا شعر لبید کا ہے ۔ \" سن رکھو! اللہ کے سوا ہر چیز باطل ہے ۔",
+          "fr": "Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Le couplet le plus véridique récité par un poète est : “En vérité, en dehors d’Allah tout est vain.” » Et il n’a rien ajouté d’autre",
+          "id": "Dan telah menceritakan kepada kami [Muhammad bin Al Mutsanna]; Telah menceritakan kepada kami [Muhammad bin Ja'far]; Telah menceritakan kepada kami [Syu'bah] dari ['Abdul Malik bin 'Umair] dari [Abu Salamah] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: \"Sya'ir paling benar yang pernah di ucapkan oleh para penyair adalah syair: \"Alaa, kullu syaiin maa khalallaha bathil (Ketahuilah, segala sesuatu selain Allah itu pasti binasa)",
+          "tr": "Bize Muhammed b. Müsennâ da rivayet etti. (Dediki): Bize Muhammed b. Cafer rivayet etti. (Dediki): Bize Şu'be, Abdü'l-Melik b. Umeyr'den, o da Ebû Seleme'den, o da Ebû Hureyre'den, o da Nebi (Sallallahu Aleyhi ve Sellem)'den naklen rivayet etti: «Şâirlerin söylediği en doğru beyt: Dikkat et ki, Allah'tan başka her şey bâtıldır, sözüdür.» buyurmuşlar"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "muslim",
+        "book": 41,
+        "hadith": 6
+      }
+    },
+    {
+      "hadithNumber": 5892,
+      "arabicNumber": "2256.05",
+      "book": 41,
+      "hadithInBook": 7,
+      "text": {
+        "arabic": "وَحَدَّثَنَا يَحْيَى بْنُ يَحْيَى، أَخْبَرَنَا يَحْيَى بْنُ زَكَرِيَّاءَ، عَنْ إِسْرَائِيلَ، عَنْ عَبْدِ الْمَلِكِ، بْنِ عُمَيْرٍ عَنْ أَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ، قَالَ سَمِعْتُ أَبَا هُرَيْرَةَ، يَقُولُ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏ \"‏ إِنَّ أَصْدَقَ كَلِمَةٍ قَالَهَا شَاعِرٌ كَلِمَةُ لَبِيدٍ أَلاَ كُلُّ شَىْءٍ مَا خَلاَ اللَّهَ بَاطِلٌ ‏\"‏ ‏.‏ مَا زَادَ عَلَى ذَلِكَ ‏.‏",
+        "translations": {
+          "en": "Abu Huraira reported:I heard Allah's Messenger (ﷺ) as saying: The truest word which the poet stated is the word of Labid: \"Behold! apart from Allah everything is vain",
+          "ur": "اسرائیل نے عبد الملک بن عمیر سے ، انھوں نے ابو سلمہ بن عبدالرحمٰن سےروایت کی ، ، کہا : میں نے حضرت ابو ہریرہ رضی اللہ تعالیٰ عنہ سے سنا ، کہہ رہے تھے : میں نے رسول اللہ صلی اللہ علیہ وسلم سے سنا ، آپ فر ما رہے تھے : \" سب سے سچی بات جو کسی شاعر نے کہی لبید کی بات ہے ۔ \" سن رکھو!اللہ کے سوا ہر چیز باطل ہے ۔ \" انھوں ( اسرائیل ) نے اس پر کو ئی اضافہ نہیں کیا ۔",
+          "fr": "Rapporté par Abu Huraira رضي الله عنه : J’ai entendu le Messager d’Allah ﷺ dire : « La parole la plus véridique qu’un poète ait dite est celle de Labid : “En vérité, en dehors d’Allah tout est vain.” »",
+          "id": "Dan telah menceritakan kepada kami [Yahya bin Yahya]; Telah mengabarkan kepada kami [Yahya bin Zakaria] dari [Israil] dari ['Abdul Malik bin 'Umair] dari [Abu Salamah bin 'Abdur Rahman] dia berkata; Aku mendengar [Abu Hurairah] berkata; Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: \"Sya'ir paling benar yang pernah di ucapkan oleh seorang penyair adalah syairnya Labid, dia bersyair: \"Alaa, kullu syaiin maa khalallaha bathil (Ketahuilah, segala sesuatu selain Allah itu pasti binasa).\" Dan beliau tidak menambahkan lebih dari itu",
+          "tr": "Bize Yahya b. Yahya dahî rivayet etti. (Dediki): Bize Yahya b. Zekeriyyâ, İsrail'den, o da Abdü'l-Melik b. Umeyr'den, o da Ebû Seleme b. Abdirrahman'dan naklen haber verdi. (Demişki): Ben Ebû Hureyre'yi şunu söylerken işittim; Ben Resûlullah (Sallallahu Aleyhi ve Sellem) «Gerçekten bir şâirin söyleyeceği en doğru söz Lebîd'in: Dikkat et ki, Allah'dan başka her şey bâtıldır, sözüdür.» buyururken işittim. Râvi bundan fazla bir şey söylememiştir"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "muslim",
+        "book": 41,
+        "hadith": 7
+      }
+    },
+    {
+      "hadithNumber": 5893,
+      "arabicNumber": "2257",
+      "book": 41,
+      "hadithInBook": 8,
+      "text": {
+        "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا حَفْصٌ، وَأَبُو مُعَاوِيَةَ ح وَحَدَّثَنَا أَبُو كُرَيْبٍ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، كِلاَهُمَا عَنِ الأَعْمَشِ، ح وَحَدَّثَنَا أَبُو سَعِيدٍ الأَشَجُّ، حَدَّثَنَا وَكِيعٌ، حَدَّثَنَا الأَعْمَشُ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ لأَنْ يَمْتَلِئَ جَوْفُ الرَّجُلِ قَيْحًا يَرِيهِ خَيْرٌ مِنْ أَنْ يَمْتَلِئَ شِعْرًا ‏\"‏ ‏.‏ قَالَ أَبُو بَكْرٍ إِلاَّ أَنَّ حَفْصًا لَمْ يَقُلْ ‏\"‏ يَرِيهِ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Abu Huraira reported Allah's Messenger (ﷺ) as saying:It is better for a man's belly to be stuffed with pus which corrodes it than to stuff (one's mind) with frivolous poetry. Abu Bakr has reported it with a slight variation of wording",
+          "ur": "ابو بکر بن ابی شیبہ نے کہا ہمیں حفص اور ابو معاویہ نے حدیث بیان کی ۔ ابو کریب نے کہا : ہمیں ابو معاویہ نے حدیث بیان کی ، ان دونوں ( ابو معاویہ اور حفص ) نے اعمش سے روایت کی ، ابو سعید اشج نے کہا : ہمیں وکیع نے حدیث بیان کی کہا : ہمیں اعمش نے ابو صالح سے ، انھوں نے حضرت ابو ہریرہ رضی اللہ تعالیٰ عنہ سے روایت کی ، کہا : رسول اللہ صلی اللہ علیہ وسلم نے فر ما یا : \" کسی انسا ن کے پیٹ میں پیپ بھر جا نا جو اس کے پیٹ کو تباہ کردے ، شعر کے ساتھ بھر جا نے کی نسبت بہتر ہے ۔ \" ابو بکر نے کہا : مگر حفص نے \" يَريهِ \" ( جو اس کے پیٹ کو تباہ کردے ) کے الفا ظ روایت نہیں کیے ۔",
+          "fr": "Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Il vaut mieux que le ventre d’un homme soit rempli de pus qui le ronge, plutôt que de remplir (son esprit) de poésie futile. » Abu Bakr a rapporté ce hadith avec une légère variation dans les mots",
+          "id": "Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan kepada kami [Hafsh] dan [Abu Mu'awiyah]; Dan telah menceritakan kepada kami [Abu Kuraib]; Telah menceritakan kepada kami [Abu Mu'awiyah] keduanya dari [Al 'masy]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Abu Sa'id Al Asyaj]; Telah menceritakan kepada kami [Waki']; Telah menceritakan kepada kami [Al A'masy] dari [Abu Shalih] dari [Abu Hurairah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Sesungguhnya perut orang yang penuh muntah hingga kenyang lebih baik daripada perut yang penuh dengan sya'ir (sajak).\" Abu Bakr berkata; 'Namun Hafs tidak mengatakan kalimat 'Yurihi",
+          "tr": "Bize Ebû Bekr b. Ebî Şeybe rivayet etti. (Dediki): Bize Hafs ile Ebû Muâviye rivayet ettiler. H. Bize Ebû Kureyb dahî rivayet etti. (Dediki): Bize Ebû Muâviye rivayet etti. Her iki râvi A'meş'den rivayette bulunmuşlardır. H. Bize Ebû Saîd El-Eşecc de rivayet etti. (Dediki): Bize Veki' rivayet etti. (Dediki): Bize A'meş, Ebû Sâlih'den, o da Ebû Hureyre'den naklen rivayet etti. Ebû Hureyre şöyle demiş: Resûlullah (Sallallahu Aleyhi ve Sellem): «Bir kimsenin içinin onu bozacak irinle dolması şiirle dolmasından daha hayırlıdır.» buyurdular. Ebû Bekr: «Şu kadar var ki Hafs (onu bozacak) ifâdesini söylemedi.» dedi. İzah 2259 da"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "muslim",
+        "book": 41,
+        "hadith": 8
+      }
+    },
+    {
+      "hadithNumber": 5894,
+      "arabicNumber": "2258",
+      "book": 41,
+      "hadithInBook": 9,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، وَمُحَمَّدُ بْنُ بَشَّارٍ، قَالاَ حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، عَنْ قَتَادَةَ، عَنْ يُونُسَ بْنِ جُبَيْرٍ، عَنْ مُحَمَّدِ بْنِ سَعْدٍ، عَنْ سَعْدٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ لأَنْ يَمْتَلِئَ جَوْفُ أَحَدِكُمْ قَيْحًا يَرِيهِ خَيْرٌ مِنْ أَنْ يَمْتَلِئَ شِعْرًا ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Sa`d reported Allah's Apostle (ﷺ) as saying:It is better for the belly of any one of you to be stuffed with pus rather than to stuff (one's mind) with poetry",
+          "ur": "حضرت سعد رضی اللہ تعالیٰ عنہ نے رسول اللہ صلی اللہ علیہ وسلم سے روایت کی کہ آپ نے فر ما یا : \" تم میں سے کسی شخص کا پیٹ پیپ سے بھر جا ئے وہ اس سے بہتر ہے کہ اس کا پیٹ شعر سے بھر جا ئے ۔",
+          "fr": "Rapporté par Sa’d رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Il vaut mieux que le ventre de l’un d’entre vous soit rempli de pus, plutôt que de remplir (son esprit) de poésie. »",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Muhammad bin Basysyar] keduanya berkata; Telah menceritakan kepada kami [Muhammad bin Ja'far]; Telah menceritakan kepada kami [Syu'bah] dari [Qatadah] dari [Yunus bin Jubair] dari [Muhammad bin Sa'd] dari [Sa'ad] dari Nabi shallallahu 'alaihi wasallam: \"Sesungguhnya perut orang yang penuh muntah hingga kenyang di antara kalian lebih baik daripada perut yang penuh dengan sya'ir (sajak)",
+          "tr": "Bize Muhammed b. Müsennâ ile Muhammed b. Beşşâr rivayet ettiler. (Dedilerki): Bize Muhammed b. Ca'fer rivayet etti. (Dediki): Bize Şu'be, Katâde'den, o da Yûnus b. Cübeyr'den, o da Muhammed b. Sa'd'dan, o da Sa'd'dan, o da Nebi (Sallallahu Aleyhi ve Sellem)'den naklen rivayet etti: «Birinizin içinin onu bozacak irinle dolması, şiirle dolmasından daha hayırlıdır.» buyurmuşlar. İzah 2259 da"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "muslim",
+        "book": 41,
+        "hadith": 9
+      }
+    },
+    {
+      "hadithNumber": 5895,
+      "arabicNumber": "2259",
+      "book": 41,
+      "hadithInBook": 10,
+      "text": {
+        "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ الثَّقَفِيُّ، حَدَّثَنَا لَيْثٌ، عَنِ ابْنِ الْهَادِ، عَنْ يُحَنِّسَ، مَوْلَى مُصْعَبِ بْنِ الزُّبَيْرِ عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، قَالَ بَيْنَا نَحْنُ نَسِيرُ مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم بِالْعَرْجِ إِذْ عَرَضَ شَاعِرٌ يُنْشِدُ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ خُذُوا الشَّيْطَانَ أَوْ أَمْسِكُوا الشَّيْطَانَ لأَنْ يَمْتَلِئَ جَوْفُ رَجُلٍ قَيْحًا خَيْرٌ لَهُ مِنْ أَنْ يَمْتَلِئَ شِعْرًا ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Abu Sa`id Al-Khudri reported:We were going with Allah's Messenger (ﷺ). As we reached the place (known as) `Arj there met (us) a poet who had been reciting poetry. Thereupon Allah's Messenger (ﷺ) said: Catch the satan or detain the satan, for filling the belly of a man with pus is better than stuffing his brain with poetry",
+          "ur": "حضرت ابو سعید خدری رضی اللہ تعالیٰ عنہ سے روایت ہے کہا : ایک بار رسول اللہ صلی اللہ علیہ وسلم کے ساتھ \" عرج \" کے علاقے میں جا رہے تھے کہ ایک شاعر شعر پڑھتا ہوا سامنے سے گزرا تو رسول اللہ صلی اللہ علیہ وسلم نے فر ما یا : \" شیطان کو پکڑو ، یا ( فرما یا ) شیطان کوروکو ، انسان کے پیٹ کا پیپ سے بھر جا نا اس سے بہتر ہے کہ وہ شعر سے بھرے ۔",
+          "fr": "Rapporté par Abu Sa’id Al-Khudri رضي الله عنه : Nous étions avec le Messager d’Allah ﷺ. Quand nous sommes arrivés à l’endroit appelé ‘Arj, un poète qui récitait de la poésie est venu à notre rencontre. Le Messager d’Allah ﷺ a alors dit : « Attrapez le diable ou retenez le diable, car il vaut mieux remplir le ventre d’un homme de pus que de remplir son cerveau de poésie. »",
+          "id": "Telah menceritakan kepada kami [Qutaibah bin Sa'is Ats Tsaqafi]; Telah menceritakan kepada kami [Laits] dari [Ibnu Al Had] dari [Yuhannas] budak Mush'ab bin Az Zubair dari [Abu Sa'id Al Khudri] dia berkata; \"Ketika kami sedang berjalan bersama-sama Rasulullah shallallahu 'alaihi wasallam di 'Arj, tiba-tiba datang seorang penyair bersenandung. Maka Rasulullah shallallahu 'alaihi wasallam bersabda: \"Tangkap setan itu! Sesungguhnya perut orang yang dipenuhi muntah lebih baik daripada perut yang penuh dengan sya'ir (sajak)",
+          "tr": "Bize Kuteybe b. Saîd Es-Sekafî rivayet etti. (Dediki): Bize Leys, İbnü'l-Hâd'dan, o da Mus'ab b. Zübeyr'in azatlısı Yuhannis'den, o da Ebû Saîdi Hudrî'den, naklen rivayet etti. Ebû Saîd şöyle demiş: Bir defa biz Arc denilen yerde Resûlullah (Sallallahu Aleyhi ve Sellem) ile birlikte yürürken aniden önümüze şiir okuyan bir şâir çıktı. Bunun üzerine Resûlullah (Sallallahu Aleyhi ve Sellem): «Bu şeytanı alın! Yahut bu şeytanı tutun! Bir adamın içinin İrinle dolması, şiirle dolmasından kendisi için daha hayırlıdır.» buyurdular"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "muslim",
+        "book": 41,
+        "hadith": 10
+      }
+    },
+    {
+      "hadithNumber": 5896,
+      "arabicNumber": "2260",
+      "book": 41,
+      "hadithInBook": 11,
+      "text": {
+        "arabic": "حَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ، عَنْ سُفْيَانَ، عَنْ عَلْقَمَةَ بْنِ، مَرْثَدٍ عَنْ سُلَيْمَانَ بْنِ بُرَيْدَةَ، عَنْ أَبِيهِ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏ \"‏ مَنْ لَعِبَ بِالنَّرْدَشِيرِ فَكَأَنَّمَا صَبَغَ يَدَهُ فِي لَحْمِ خِنْزِيرٍ وَدَمِهِ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Buraida reported on the authority of his father that Allah's Apostle (ﷺ) said:He who played Nardashir (a game similar to backgammon) is like one who dyed his hand with the flesh and blood of swine",
+          "ur": "سلیمان کے والد حضرت بریدہ رضی اللہ تعالیٰ عنہ سے روایت ہے کہ نبی صلی اللہ علیہ وسلم نے فر ما یا : \" جس شخص نے چوسر کھیلی تو گویا اس نے اپنے ہاتھ کو خنزیر کے خون اور گو شت سے رنگ لیا ۔",
+          "fr": "Rapporté par Buraida d’après son père رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Celui qui joue à Nardashir (un jeu semblable au backgammon) est comme celui qui se teint la main avec la chair et le sang du porc. »",
+          "id": "Telah menceritakan kepadaku [Zuhair bin Harb]; Telah menceritakan kepada kami ['Abdur Rahman bin Mahdi] dari [Sufyan] dari ['Alqamah bin Martsad] dari [Sulaiman bin Buraidah] dari [Bapaknya] bahwa Nabi shallallahu 'alaihi wasallam bersabda: \"Barang Siapa yang bermain dengan permainan Nardasyir (sejenis catur), maka seolah-olah ia telah melumuri tangannya dengan daging dan darah babi",
+          "tr": "Bana Züheyr b. Harb rivayet etti. (Dediki): Bize Abdurrahman b. Mebdî, Süfyan'dan, o da Alkame b. Mersed'den, o da Süleyman b. Büreyde'den, o da babasından naklen rivayet ettiki: Nebi (Sallallahu Aleyhi ve Sellem): «Her kim tavla oynarsa, elini domuz eti ve domuz kanıyla boyamış gibi olur.» buyurmuşlardır"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "muslim",
+        "book": 41,
+        "hadith": 11
+      }
+    }
+  ],
+  "metadata": {
+    "averageLength": "medium",
+    "size": "6KB"
+  }
+}

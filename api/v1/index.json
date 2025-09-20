@@ -1,0 +1,55 @@
+{
+  "api": {
+    "version": "1.0.0",
+    "baseUrl": "https://cdn.jsdelivr.net/gh/username/islamic-data@main/api/v1",
+    "lastUpdated": "2025-09-16T21:00:00Z",
+    "rateLimit": "1000/hour",
+    "compression": "gzip",
+    "caching": "24h"
+  },
+  "endpoints": {
+    "content": {
+      "quran": {
+        "index": "/quran/index",
+        "chapter": "/quran/chapters/{id}",
+        "verse": "/quran/chapters/{chapter}/verses/{verse}",
+        "search": "/quran/search?q={query}&lang={lang}"
+      },
+      "hadith": {
+        "index": "/hadith/index",
+        "collection": "/hadith/collections/{collection}",
+        "book": "/hadith/collections/{collection}/books/{book}",
+        "hadith": "/hadith/collections/{collection}/books/{book}/hadith/{id}",
+        "search": "/hadith/search?q={query}&collection={collection}"
+      },
+      "duas": {
+        "index": "/duas/index",
+        "category": "/duas/categories/{category}",
+        "dua": "/duas/categories/{category}/duas/{id}",
+        "search": "/duas/search?occasion={occasion}&difficulty={level}"
+      }
+    },
+    "metadata": {
+      "versions": "/versions",
+      "updates": "/updates",
+      "stats": "/stats"
+    }
+  },
+  "examples": [
+    {
+      "name": "Get Al-Fatihah",
+      "url": "/quran/chapters/1",
+      "response": "Complete chapter with verses, translations, and metadata"
+    },
+    {
+      "name": "Get Bukhari Book 1",
+      "url": "/hadith/collections/bukhari/books/1",
+      "response": "All hadith in the book with translations and grading"
+    },
+    {
+      "name": "Get Daily Duas",
+      "url": "/duas/categories/daily",
+      "response": "All daily supplications with translations and sources"
+    }
+  ]
+}

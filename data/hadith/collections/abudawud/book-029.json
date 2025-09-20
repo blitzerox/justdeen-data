@@ -1,0 +1,1914 @@
+{
+  "collection": "abudawud",
+  "book": 29,
+  "name": {
+    "arabic": "كتاب Medicine (Kitab Al-Tibb)",
+    "transliteration": "medicine (kitab al-tibb)",
+    "translation": "Medicine (Kitab Al-Tibb)"
+  },
+  "totalHadith": 49,
+  "hadithNumberRange": {
+    "first": 3855,
+    "last": 3903
+  },
+  "content": [
+    {
+      "hadithNumber": 3855,
+      "arabicNumber": 3855,
+      "book": 29,
+      "hadithInBook": 1,
+      "text": {
+        "arabic": "حَدَّثَنَا حَفْصُ بْنُ عُمَرَ النَّمَرِيُّ، حَدَّثَنَا شُعْبَةُ، عَنْ زِيَادِ بْنِ عِلاَقَةَ، عَنْ أُسَامَةَ بْنِ شَرِيكٍ، قَالَ أَتَيْتُ النَّبِيَّ صلى الله عليه وسلم وَأَصْحَابُهُ كَأَنَّمَا عَلَى رُءُوسِهِمُ الطَّيْرُ فَسَلَّمْتُ ثُمَّ قَعَدْتُ فَجَاءَ الأَعْرَابُ مِنْ هَا هُنَا وَهَا هُنَا فَقَالُوا يَا رَسُولَ اللَّهِ أَنَتَدَاوَى فَقَالَ ‏ \"‏ تَدَاوَوْا فَإِنَّ اللَّهَ عَزَّ وَجَلَّ لَمْ يَضَعْ دَاءً إِلاَّ وَضَعَ لَهُ دَوَاءً غَيْرَ دَاءٍ وَاحِدٍ الْهَرَمُ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Narrated Usamah ibn Sharik: I came to the Prophet (ﷺ) and his Companions were sitting as if they had birds on their heads. I saluted and sat down. The desert Arabs then came from here and there. They asked: Messenger of Allah, should we make use of medical treatment? He replied: Make use of medical treatment, for Allah has not made a disease without appointing a remedy for it, with the exception of one disease, namely old age",
+          "ur": "اسامہ بن شریک رضی اللہ عنہ کہتے ہیں کہ میں نبی اکرم صلی اللہ علیہ وسلم کے پاس آیا آپ کے اصحاب اس طرح ( بیٹھے ) تھے گویا ان کے سروں پر پرندے بیٹھے ہیں، تو میں نے سلام کیا پھر میں بیٹھ گیا، اتنے میں ادھر ادھر سے کچھ دیہاتی آئے اور انہوں نے عرض کیا: اللہ کے رسول! کیا ہم دوا کریں؟ آپ صلی اللہ علیہ وسلم نے فرمایا: دوا کرو اس لیے کہ اللہ نے کوئی بیماری ایسی نہیں پیدا کی ہے جس کی دوا نہ پیدا کی ہو، سوائے ایک بیماری کے اور وہ بڑھاپا ہے ۔",
+          "fr": "Rapporté par Usamah ibn Sharik رضي الله عنه : Je suis venu auprès du Prophète ﷺ, et ses Compagnons étaient assis, immobiles comme s’ils avaient des oiseaux sur la tête. J’ai salué et me suis assis. Ensuite, des Bédouins sont venus de tous côtés. Ils demandèrent : « Ô Messager d’Allah, devons-nous utiliser des traitements médicaux ? » Il répondit : « Utilisez des traitements médicaux, car Allah n’a pas créé de maladie sans lui donner un remède, sauf une seule : la vieillesse. »",
+          "id": "Telah menceritakan kepada kami [Hafsh bin Umar An Namari] telah menceritakan kepada kami [Syu'bah] dari [Ziyad bin 'Ilaqah] dari [Usamah bin Syarik] ia berkata, \"Aku pernah mendatangi Nabi shallallahu 'alaihi wasallam dan para sahabatnya, dan seolah-olah di atas kepala mereka terdapat burung. Aku kemudian mengucapkan salam dan duduk, lalu ada seorang Arab badui datang dari arah ini dan ini, mereka lalu berkata, \"Wahai Rasulullah, apakah boleh kami berobat?\" Beliau menjawab: \"Berobatlah, sesungguhnya Allah 'azza wajalla tidak menciptakan penyakit melainkan menciptakan juga obatnya, kecuali satu penyakit, yaitu pikun",
+          "tr": "Usame b. Şerik'ten rivayet olmuştur; dedi ki: Nebi (s.a.v.)'in yanına varmıştım. Sahâbîleri (onun yanında) sanki başlarının üzerinde bir kuş varmış gibi (sessiz ve hareketsiz durmakta) idiler. Selâm verip (yanlarına) oturdum. Şuradan buradan (bir takım) bedeviler gelip; Ey Allah'ın Rasûlü, tedavi olabilir miyiz? diye sormaya başladılar. (Hz. Nebi de); \"Tedavi olunuz. Çünkü aziz ve celil olan Allah, şifasını yaratmadığı bir hastalık yaratmamıştır. Ancak bir hastalık müstesna o da ihtiyarlıktır\" buyurdu"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 29,
+        "hadith": 1
+      },
+      "narrator": {
+        "en": "Usamah ibn Sharik"
+      }
+    },
+    {
+      "hadithNumber": 3856,
+      "arabicNumber": 3856,
+      "book": 29,
+      "hadithInBook": 2,
+      "text": {
+        "arabic": "حَدَّثَنَا هَارُونُ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا أَبُو دَاوُدَ، وَأَبُو عَامِرٍ - وَهَذَا لَفْظُ أَبِي عَامِرٍ - عَنْ فُلَيْحِ بْنِ سُلَيْمَانَ، عَنْ أَيُّوبَ بْنِ عَبْدِ الرَّحْمَنِ بْنِ صَعْصَعَةَ الأَنْصَارِيِّ، عَنْ يَعْقُوبَ بْنِ أَبِي يَعْقُوبَ، عَنْ أُمِّ الْمُنْذِرِ بِنْتِ قَيْسٍ الأَنْصَارِيَّةِ، قَالَتْ دَخَلَ عَلَىَّ رَسُولُ اللَّهِ صلى الله عليه وسلم وَمَعَهُ عَلِيٌّ عَلَيْهِ السَّلاَمُ وَعَلِيٌّ نَاقِهٌ وَلَنَا دَوَالِي مُعَلَّقَةٌ فَقَامَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَأْكُلُ مِنْهَا وَقَامَ عَلِيٌّ لِيَأْكُلَ فَطَفِقَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَقُولُ لِعَلِيٍّ ‏\"‏ مَهْ إِنَّكَ نَاقِهٌ ‏\"‏ ‏.‏ حَتَّى كَفَّ عَلِيٌّ عَلَيْهِ السَّلاَمُ ‏.‏ قَالَتْ وَصَنَعْتُ شَعِيرًا وَسِلْقًا فَجِئْتُ بِهِ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ يَا عَلِيُّ أَصِبْ مِنْ هَذَا فَهُوَ أَنْفَعُ لَكَ ‏\"‏ ‏.‏ قَالَ أَبُو دَاوُدَ قَالَ هَارُونُ الْعَدَوِيَّةِ ‏.‏",
+        "translations": {
+          "en": "Narrated Umm al-Mundhar bint Qays al-Ansariyyah: The Messenger of Allah (ﷺ) came to visit me, accompanied by Ali who was convalescing. We had some ripe dates hung up. The Messenger of Allah (ﷺ) got up and began to eat from them. Ali also got up to eat, but the Messenger of Allah (ﷺ) said repeatedly to Ali: Stop, Ali, for you are convalescing, and Ali stopped. She said: I then prepared some barley and beer-root and brought it. The Messenger of Allah (ﷺ) then said: Take some of this, Ali, for it will be more beneficial for you. AbuDawud said: The narrator Harun said: al-Adawiyyah (i.e. Umm al-Mundhar)",
+          "ur": "ام منذر بنت قیس انصاریہ رضی اللہ عنہا کہتی ہیں کہ میرے پاس رسول اللہ صلی اللہ علیہ وسلم تشریف لائے، آپ کے ساتھ علی رضی اللہ عنہ تھے، ان پر کمزوری طاری تھی ہمارے پاس کھجور کے خوشے لٹک رہے تھے، رسول اللہ صلی اللہ علیہ وسلم کھڑے ہو کر انہیں کھانے لگے، علی رضی اللہ عنہ بھی کھانے کے لیے کھڑے ہوئے تو آپ نے علی رضی اللہ عنہ سے فرمایا: ٹھہرو ( تم نہ کھاؤ ) کیونکہ تم ابھی کمزور ہو یہاں تک کہ علی رضی اللہ عنہ رک گئے، میں نے جو اور چقندر پکایا تھا تو اسے لے کر میں آپ کے پاس آئی تو آپ صلی اللہ علیہ وسلم نے فرمایا: علی! اس میں سے کھاؤ یہ تمہارے لیے مفید ہے ۔ ابوداؤد کہتے ہیں: ہارون کی روایت میں «انصاریہ» کے بجائے«عدویہ» ہے۔",
+          "fr": "Rapporté par Umm al-Mundhar bint Qays al-Ansariyyah رضي الله عنها : Le Messager d’Allah ﷺ est venu me rendre visite, accompagné de Ali رضي الله عنه qui était convalescent. Nous avions des dattes mûres suspendues. Le Messager d’Allah ﷺ se leva et commença à en manger. Ali رضي الله عنه voulut aussi en manger, mais le Messager d’Allah ﷺ lui dit à plusieurs reprises : « Arrête, Ali, car tu es en convalescence. » Ali رضي الله عنه s’arrêta. Elle dit : « J’ai alors préparé de l’orge et de la betterave et je les ai apportés. » Le Messager d’Allah ﷺ dit alors : « Prends de cela, Ali, car ce sera meilleur pour toi. »",
+          "id": "Telah menceritakan kepada kami [Harun bin Abdullah] telah menceritakan kepada kami [Abu Daud] dan [Abu 'Amir] hadits ini adalah lafazh Abu 'Amir, dari [Fulaih bin Sulaiman] dari [Ayyub bin Abdurrahman bin Sha'sha'ah Al Anshari] dari [Ya'qub bin Abu Ya'qub] dari [Ummu Al Mundzir binti Qais Al Anshariyyah] ia berkata, \"Rasulullah shallallahu 'alaihi wasallam menemuiku bersama Ali radliallahu 'anhu, sementara Ali yang sedang sakit. Saat itu kami memiliki buah kurma yang tergantung, Rasulullah shallallahu 'alaihi wasallam lalu berdiri dan makan sebagian darinya. Ketika Ali berdiri untuk makan, Rasulullah shallallahu 'alaihi wasallam berkata kepada Ali: \"Tahanlah, sesungguhnya engkau baru saja sembuh dari sakit!\" Hingga Ali menahan diri.\" Ummu Al Mundzir berkata, \"Aku lalu masak gandum dan rebusan sayur. Setelah itu aku membawanya dan Rasulullah shallallahu 'alaihi wasallam pun berkata: \"Wahai Ali, makanlah dari makanan ini, makanan tersebut lebih bermanfaat bagimu.\" Abu Daud berkata, \"Harun berkata, \"Ia adalah Ummu Al Mundzir Al Anshariyyah Al 'Adawiyyah",
+          "tr": "Ümmü Münzir binti Kays el-Ensâriyye'den rivayet olunmuştur; dedi ki: Rasûlullah (s.a.v.) (bir gün) yanıma geldi. Henüz hastalıktan yeni kurtulmak üzere olan Ali (a.s) beraberindeydi. (O sırada) bizim asılı (hurma) salkımlarımız vardı. Rasûlullah (s.a.v.) kalkıp onlardan yemeye başladı. Ali (R.A.) da (onlardan) yemek için ayağa kalktı. Bunun üzerine Rasûlullah (s.a.v.) Ali'ye: \"Sakın ha, sen hastalıktan yeni kurtuluyorsun\" buyurdu. Ali (r.a.) de (onlardan yemekten) vazgeçti. Ben (onlara) arpa ve şalgam (yemeği) yapıp getirdim. Bunun üzerine Rasûlullah (s.a.v.) (benim hazırladığım bu yemeği göstererek): \"Ey Ali, (işte) bundan ye, bu senin için daha faydalıdır\" buyurdu. Ebû Dâvud dedi ki; (Bu hadisi rivayet eden) Harun, (hadisi kendisine rivayet eden Ebû Davud'un, Ebû Davûd et-Tayâlisî olmayıp) Ebû Dâvûd el-Adeviyye (olduğunu) söyledi"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 29,
+        "hadith": 2
+      },
+      "narrator": {
+        "en": "Umm al-Mundhar bint Qays al-Ansariyyah"
+      }
+    },
+    {
+      "hadithNumber": 3857,
+      "arabicNumber": 3857,
+      "book": 29,
+      "hadithInBook": 3,
+      "text": {
+        "arabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا حَمَّادٌ، عَنْ مُحَمَّدِ بْنِ عَمْرٍو، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ إِنْ كَانَ فِي شَىْءٍ مِمَّا تَدَاوَيْتُمْ بِهِ خَيْرٌ فَالْحِجَامَةُ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Narrated Abu Hurayrah: The Prophet (ﷺ) said: The best medical treatment you apply is cupping",
+          "ur": "ابوہریرہ رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: جن دواؤں سے تم علاج کرتے ہو اگر ان میں سے کسی میں خیر ( بھلائی ) ہے تو وہ سینگی ( پچھنے ) لگوانا ہے ۔",
+          "fr": "Rapporté par Abu Hurayrah رضي الله عنه : Le Prophète ﷺ a dit : « Le meilleur traitement médical que vous utilisez est la saignée (cupping). »",
+          "id": "Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Hammad] dari [Muhammad bin 'Amru] dari [Abu Salamah] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: \"Apabila ada sesuatu yang lebih baik untuk kalian gunakan berobat, maka sesuatu tersebut adalah bekam",
+          "tr": "Ebû Hureyre'den rivayet olunduğuna göre; Nebi (s.a.v.): “Sizin tedavi olduğunuz şeylerde hayırlı olan biri varsa o da kan aldırmadır\" buyurmuştur. Ayrıca bu hadis'i Buharı, tıb; Müslim, mü'sâkât; Ebû Dâvûd, nikâh; Tirmizî, buyu', tıb; İbn Mâce, tıb; Muvatta, isti'zan; Ahmed b. Hanbel, I, 18, III, 108, 182, V, 9, 15, 19. da tahric etti. İzah; 3958 de"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 29,
+        "hadith": 3
+      },
+      "narrator": {
+        "en": "Abu Hurayrah"
+      }
+    },
+    {
+      "hadithNumber": 3858,
+      "arabicNumber": 3858,
+      "book": 29,
+      "hadithInBook": 4,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْوَزِيرِ الدِّمَشْقِيُّ، حَدَّثَنَا يَحْيَى، - يَعْنِي ابْنَ حَسَّانَ - حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ أَبِي الْمَوَالِي، حَدَّثَنَا فَائِدٌ، مَوْلَى عُبَيْدِ اللَّهِ بْنِ عَلِيِّ بْنِ أَبِي رَافِعٍ عَنْ مَوْلاَهُ، عُبَيْدِ اللَّهِ بْنِ عَلِيِّ بْنِ أَبِي رَافِعٍ عَنْ جَدَّتِهِ، سَلْمَى خَادِمِ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَتْ مَا كَانَ أَحَدٌ يَشْتَكِي إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم وَجَعًا فِي رَأْسِهِ إِلاَّ قَالَ ‏\"‏ احْتَجِمْ ‏\"‏ ‏.‏ وَلاَ وَجَعًا فِي رِجْلَيْهِ إِلاَّ قَالَ ‏\"‏ اخْضِبْهُمَا ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Narrated Salmah: the maid-servant of the Messenger of Allah (ﷺ), said: No one complained to the Messenger of Allah (ﷺ) of a headache but he told him to get himself cupped, or of a pain in his legs but he told him to dye them with henna",
+          "ur": "رسول اللہ صلی اللہ علیہ وسلم کی خادمہ سلمی رضی اللہ عنہا سے روایت ہے کہ جو شخص بھی اپنے سر درد کی شکایت لے کر رسول اللہ صلی اللہ علیہ وسلم کے پاس آتا آپ اسے فرماتے: سینگی لگواؤ اور جو شخص اپنے پیروں میں درد کی شکایت لے کر آتا آپ صلی اللہ علیہ وسلم اس سے فرماتے: ان میں خضاب ( مہندی ) لگاؤ ۔",
+          "fr": "Rapporté par Salmah, la servante du Messager d’Allah ﷺ : Personne ne se plaignait d’un mal de tête auprès du Messager d’Allah ﷺ sans qu’il ne lui conseille de se faire saigner (cupping), ni d’une douleur aux jambes sans qu’il ne lui dise de les teindre au henné",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Al Wazir Ad Dimasyqi] telah menceritakan kepada kami [Yahya bin Hassan] telah menceritakan kepada kami [Abdurrahman bin Abu Al Mawali] telah menceritakan kepada kami [Faid] mantan budak 'Ubaidullah bin Ali bin Abu Rafi', dari [Ubaidullah bin Abu Rafi'] dari neneknya [Salma] pelayan Rasulullah shallallahu 'alaihi wasallam, Ia berkata, \"Tidak ada seorangpun yang mengeluhkan penyakit kepada Rasulullah shallallahu 'alaihi wasallam pada kepalanya melainkan beliau berkata: \"Berbekamlah!\" Dan tidaklah ia mengeluhkan sakit pada kedua kakinya melainkan beliau berkata: \"Warnailah dengan pacar",
+          "tr": "(Ubeydullah b. Ali b. Ebû Râfi'in) ninesi ve Rasûlullah (s.a.v.)'in hizmetçisi Selmâ'dan rivayet olunmuştur; dedi ki: Rasûlullah (s.a.v.), başındaki ağrıdan şikâyet eden bir kişi yoktur ki ona \"Kan aldır\" dememiş olsun. Ayaklarındaki ağrıdan sızlanan bir kişi de yoktur ki ona, \"Onlara kına yak\" dememiş olsun"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 29,
+        "hadith": 4
+      },
+      "narrator": {
+        "en": "Salmah"
+      }
+    },
+    {
+      "hadithNumber": 3859,
+      "arabicNumber": 3859,
+      "book": 29,
+      "hadithInBook": 5,
+      "text": {
+        "arabic": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ إِبْرَاهِيمَ الدِّمَشْقِيُّ، وَكَثِيرُ بْنُ عُبَيْدٍ، قَالاَ حَدَّثَنَا الْوَلِيدُ، عَنِ ابْنِ ثَوْبَانَ، عَنْ أَبِيهِ، عَنْ أَبِي كَبْشَةَ الأَنْمَارِيِّ، - قَالَ كَثِيرٌ إِنَّهُ حَدَّثَهُ - أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ يَحْتَجِمُ عَلَى هَامَتِهِ وَبَيْنَ كَتِفَيْهِ وَهُوَ يَقُولُ ‏ \"‏ مَنْ أَهْرَاقَ مِنْ هَذِهِ الدِّمَاءِ فَلاَ يَضُرُّهُ أَنْ لاَ يَتَدَاوَى بِشَىْءٍ لِشَىْءٍ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Narrated Abu Kabshah al-Ansari: The Messenger of Allah (ﷺ) used to have himself cupped on the top of his head and between his shoulders, and that he used to say: If anyone pours out any of his blood, he will not suffer if he applies no medical treatment for anything",
+          "ur": "ابوکبشہ انماری رضی اللہ عنہ کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم اپنے سر پر اور اپنے دونوں مونڈھوں کے درمیان سینگی ( پچھنے ) لگواتے اور فرماتے: جو ان جگہوں کا خون نکلوالے تو اسے کسی بیماری کی کوئی دوا نہ کرنے سے کوئی نقصان نہ ہو گا ۔",
+          "fr": "Rapporté par Abu Kabshah al-Ansari رضي الله عنه : Le Messager d’Allah ﷺ avait l’habitude de se faire saigner (cupping) sur le sommet de la tête et entre les épaules, et il disait : « Si quelqu’un fait sortir un peu de son sang, il ne souffrira pas même s’il ne prend aucun autre traitement. »",
+          "id": "Telah menceritakan kepada kami [Abdurrahman bin Ibrahim Ad Dimasyqi] dan [Katsir bin 'Ubaid] mereka berkata; telah menceritakan kepada kami [Al Walid] dari [Ibnu Tsauban] dari [Abu Kabsyah Al Anmari] [Katsir] berkata, \"Sesungguhnya ia telah meriwayatkannya bahwa Nabi shallallahu 'alaihi wasallam berbekam pada kepalanya, dan di antara kedua pundanya. Beliau bersabda: \"Barangsiapa mengalirkan sebagian dari darah ini, maka ia tidak akan terkena bahaya sekiranya tidak berobat dengan sesuatu, untuk suatu penyakit tertentu",
+          "tr": "Ebu Kebşe el-Emmari, İbn sevban’a şöyle demiştir: Nebi (s.a.v.) başından ve iki omuzu arasından kan aldırır ve (alınan kan'a işaret ederek): “Kim (kendisinden) şu kanları (dışarı) akıtırsa, artık başka bir hastalık için bir başka yolla tedavi olmaması ona zarar vermez.” buyururdu. Ayrıca bu hadis'i İbn Mace, tıb da tahric etti. İzah; 3960 ta"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 29,
+        "hadith": 5
+      },
+      "narrator": {
+        "en": "Abu Kabshah al-Ansari"
+      }
+    },
+    {
+      "hadithNumber": 3860,
+      "arabicNumber": 3860,
+      "book": 29,
+      "hadithInBook": 6,
+      "text": {
+        "arabic": "حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا جَرِيرٌ، - يَعْنِي ابْنَ حَازِمٍ - حَدَّثَنَا قَتَادَةُ، عَنْ أَنَسٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم احْتَجَمَ ثَلاَثًا فِي الأَخْدَعَيْنِ وَالْكَاهِلِ ‏.‏ قَالَ مَعْمَرٌ احْتَجَمْتُ فَذَهَبَ عَقْلِي حَتَّى كُنْتُ أُلَقَّنُ فَاتِحَةَ الْكِتَابِ فِي صَلاَتِي ‏.‏ وَكَانَ احْتَجَمَ عَلَى هَامَتِهِ ‏.‏",
+        "translations": {
+          "en": "Narrated Anas ibn Malik: The Prophet (ﷺ) had himself cupped three times in the veins at the sides of the neck and on the shoulder. Ma'mar said: I got myself cupped, and I lost my memory so much so that I was instructed Surat al-Fatihah by others in my prayer. He had himself cupped at the top of his head",
+          "ur": "انس رضی اللہ عنہ کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم نے گردن کے دونوں پٹھوں میں اور دونوں کندھوں کے بیچ میں تین پچھنے لگوائے۔ ایک بوڑھے کا بیان ہے: میں نے پچھنا لگوائے تو میری عقل جاتی رہی یہاں تک کہ میں نماز میں سورۃ فاتحہ لوگوں کے بتانے سے پڑھتا، بوڑھے نے پچھنا اپنے سر پر لگوایا تھا۔",
+          "fr": "Rapporté par Anas ibn Malik رضي الله عنه : Le Prophète ﷺ s’est fait saigner (cupping) trois fois sur les veines des côtés du cou et sur l’épaule. Ma’mar a dit : « Je me suis fait saigner, et j’ai tellement perdu la mémoire qu’on devait me rappeler la sourate al-Fatiha pendant la prière. » Il s’est aussi fait saigner sur le sommet de la tête",
+          "id": "Telah menceritakan kepada kami [Muslim bin Ibrahim] telah menceritakan kepada kami [Jarir bin Hazim] telah menceritakan kepada kami [Qatadah] dari [Anas] bahwa Nabi shallallahu 'alaihi wasallam pernah berbekam pada tiga tempat; pada kedua urat leher dan kahil (bagian punggung antara dua pundak).\" Mu'ammar berkata, \"Ketika aku berbekam, akalku kemudian hilang hingga aku dibacakan Surat Al Fatihah dalam shalatku.\" Mu'ammar berbekam pada kepalanya",
+          "tr": "Enes (r.a.)’den rivayet olunduğuna göre; Nebi (s.a.v.), (boynun iki tarafında bulunan) ahdan (isimli iki damarın bulunduğu yer)den ve iki omuz arasından üç defa kan aldırmıştır. Ma’mer dedi ki: “(Bir gün) kan aldırmıştım.Aklım (başımdan) gitti. Öyle ki namazımda Fatiha’yı bile ezbere okuyamıyordum.” Ma’mer başından kan aldırmıştı"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 29,
+        "hadith": 6
+      },
+      "narrator": {
+        "en": "Anas ibn Malik"
+      }
+    },
+    {
+      "hadithNumber": 3861,
+      "arabicNumber": 3861,
+      "book": 29,
+      "hadithInBook": 7,
+      "text": {
+        "arabic": "حَدَّثَنَا أَبُو تَوْبَةَ الرَّبِيعُ بْنُ نَافِعٍ، حَدَّثَنَا سَعِيدُ بْنُ عَبْدِ الرَّحْمَنِ الْجُمَحِيُّ، عَنْ سُهَيْلٍ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ مَنِ احْتَجَمَ لِسَبْعَ عَشْرَةَ وَتِسْعَ عَشْرَةَ وَإِحْدَى وَعِشْرِينَ كَانَ شِفَاءً مِنْ كُلِّ دَاءٍ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Narrated Abu Hurayrah: The Prophet (ﷺ) said: If anyone has himself cupped on the 17th, 19th and 21st it will be a remedy for every disease",
+          "ur": "ابوہریرہ رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: جو سترہویں، انیسویں اور اکیسویں تاریخ کو پچھنا لگوائے تو اسے ہر بیماری سے شفاء ہو گی ۔",
+          "fr": "Rapporté par Abu Hurayrah رضي الله عنه : Le Prophète ﷺ a dit : « Si quelqu’un se fait saigner (cupping) le 17e, le 19e ou le 21e (du mois lunaire), cela sera un remède pour toute maladie. »",
+          "id": "Telah menceritakan kepada kami [Abu Taubah Ar Rabi' bin Nafi'] telah menceritakan kepada kami [Sa'id bin Abdurrahman Al Jumahi] dari [Suhail] dari [Ayahnya] dari [Abu Hurairah] ia berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Barangsiapa berbekam pada tanggal tujuh belas, sembilan belas dan dua puluh satu, maka bekam tersebut menjadi obat dari segala penyakit",
+          "tr": "Ebû Hureyre'den rivayet edildiğine göre; Rasûlullah (s.a.v.) şöyle buyurmuştur: \"Kim (kamerî ayların) onyedi, ondokuz ve yirmi bir (inci günlerinden bir)inde kan aldırırsa (bu, kanın çoğalmasından ve bozulma­sından doğan) her hastalığa şifa olur.\" Ayrıca bu hadis'i Tirmizi, tıb; İbn Mace, tıb İzah; 3963 te"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 29,
+        "hadith": 7
+      },
+      "narrator": {
+        "en": "Abu Hurayrah"
+      }
+    },
+    {
+      "hadithNumber": 3862,
+      "arabicNumber": 3862,
+      "book": 29,
+      "hadithInBook": 8,
+      "text": {
+        "arabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، أَخْبَرَنِي أَبُو بَكْرَةَ، بَكَّارُ بْنُ عَبْدِ الْعَزِيزِ أَخْبَرَتْنِي عَمَّتِي، كَبْشَةُ بِنْتُ أَبِي بَكْرَةَ - وَقَالَ غَيْرُ مُوسَى كَيِّسَةُ بِنْتُ أَبِي بَكْرَةَ - أَنَّ أَبَاهَا، كَانَ يَنْهَى أَهْلَهُ عَنِ الْحِجَامَةِ، يَوْمَ الثُّلاَثَاءِ وَيَزْعُمُ عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم أَنَّ يَوْمَ الثُّلاَثَاءِ يَوْمُ الدَّمِ وَفِيهِ سَاعَةٌ لاَ يَرْقَأُ ‏.‏",
+        "translations": {
+          "en": "Narrated Kabshah daughter of AbuBakrah: (the narrator other than Musa said that Kayyisah daughter of AbuBakrah) She said that her father used to forbid his family to have themselves cupped on a Tuesday, and used to assert on the authority of the Messenger of Allah (ﷺ) that Tuesday is the day of blood in which there is an hour when it does not stop",
+          "ur": "کبشہ بنت ابی بکرہ نے خبر دی ہے ۱؎ کہ ان کے والد اپنے گھر والوں کو منگل کے دن پچھنا لگوانے سے منع کرتے تھے اور رسول اللہ صلی اللہ علیہ وسلم سے نقل کرتے تھے: منگل کا دن خون کا دن ہے اس میں ایک ایسی گھڑی ہے جس میں خون بہنا بند نہیں ہوتا ۔",
+          "fr": "Rapporté par Kabshah, fille d’Abu Bakrah رضي الله عنها : (Le narrateur autre que Moussa a dit : Kayyisah, fille d’Abu Bakrah) Elle dit que son père interdisait à sa famille de se faire saigner (cupping) un mardi, et il affirmait d’après le Messager d’Allah ﷺ que le mardi est le jour du sang, où il y a une heure pendant laquelle il ne s’arrête pas",
+          "id": "Telah menceritakan kepada kami [Musa bin Isma'il] telah mengabarkan kepadaku [Abu Bakrah Bakkar bin Abdul Aziz] telah mengabarkan kepadaku bibiku [Kabsyah binti Abu Bakrah] -dan selain Musa berkata; Ia adalah Kayyisah binti Abu Bakrah-, bahwa [Ayahnya] melarang keluarganya untuk melakukan bekam pada hari Selasa, dan ia mengaku berasal dari Rasulullah shallallahu 'alaihi wasallam bahwa hari Selasa adalah hari yang tubuh banyak mengandung darah, dan tidak terputus (aliran darah dalam pembuluh sangat kuat)",
+          "tr": "Keyyise binti Ebû Bekre'nin haber verdiğine göre; babası, aile halkını salı günü kan aldırmaktan nehyeder ve Rasûlullah (s.a.v.)'in: \"Salı günü kan(ların artma) günüdür. Salı gününde bir saat vardır ki (o saatte akıtılan kan bir daha) dinmez” dediğini söylermiş. İzah; 3963 te"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 29,
+        "hadith": 8
+      },
+      "narrator": {
+        "en": "Kabshah daughter of AbuBakrah"
+      }
+    },
+    {
+      "hadithNumber": 3863,
+      "arabicNumber": 3863,
+      "book": 29,
+      "hadithInBook": 9,
+      "text": {
+        "arabic": "حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا هِشَامٌ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم احْتَجَمَ عَلَى وَرِكِهِ مِنْ وَثْءٍ كَانَ بِهِ ‏.‏",
+        "translations": {
+          "en": "Narrated Jabir ibn Abdullah: The Messenger of Allah (ﷺ) had himself cupped above the thigh for a contusion from which he suffered",
+          "ur": "جابر رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے اس درد کی وجہ سے جو آپ کو تھا اپنی سرین پر پچھنے لگوائے۔",
+          "fr": "Rapporté par Jabir ibn Abdullah رضي الله عنه : Le Messager d’Allah ﷺ s’est fait saigner (cupping) au-dessus de la cuisse à cause d’une contusion dont il souffrait",
+          "id": "Telah menceritakan kepada kami [Muslim bin Ibrahim] telah menceritakan kepada kami [Hisyam] dari [Abu Az Zubair] dari [Jabir] bahwa Rasulullah shallallahu 'alaihi wasallam berbekam pada sisi pantatnya karena penyakit cacar yang beliau derita",
+          "tr": "Câbir (r.a)'den rivayet olunduğuna göre; Rasûlullah (s.a.v.) kendisinde bulunan bir ağrıdan dolayı kalçasından kan aldırmıştır"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 29,
+        "hadith": 9
+      },
+      "narrator": {
+        "en": "Jabir ibn Abdullah"
+      }
+    },
+    {
+      "hadithNumber": 3864,
+      "arabicNumber": 3864,
+      "book": 29,
+      "hadithInBook": 10,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ سُلَيْمَانَ الأَنْبَارِيُّ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ، عَنْ أَبِي سُفْيَانَ، عَنْ جَابِرٍ، قَالَ بَعَثَ النَّبِيُّ صلى الله عليه وسلم إِلَى أُبَىٍّ طَبِيبًا فَقَطَعَ مِنْهُ عِرْقًا ‏.‏",
+        "translations": {
+          "en": "Narrated Jabir ibn Abdullah: The Prophet (ﷺ) sent a physician to Ubayy (ibn Ka'b), and he cut his vein",
+          "ur": "جابر رضی اللہ عنہ کہتے ہیں نبی اکرم صلی اللہ علیہ وسلم نے ابی رضی اللہ عنہ کے پاس ایک طبیب بھیجا تو اس نے ان کی ایک رگ کاٹ دی ۱؎۔",
+          "fr": "Rapporté par Jabir ibn Abdullah رضي الله عنه : Le Prophète ﷺ a envoyé un médecin auprès de Ubayy ibn Ka’b, et il lui a ouvert une veine",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Sulaiman Al Anbari] telah menceritakan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dari [Abu Sufyan] dari [Jabir] ia berkata, \"Nabi shallallahu 'alaihi wasallam mengutus seorang dokter kepada Ubai, kemudian dokter tersebut memotong uratnya",
+          "tr": "Câbir (r.a)'den rivayet olunmuştur; dedi ki: Nebi (s.a.v.) Übeyy'e bir doktor gönderdi. (Doktor tedavi maksadıyla) onun bir damarını kesti"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim (2207)"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 29,
+        "hadith": 10
+      },
+      "narrator": {
+        "en": "Jabir ibn Abdullah"
+      }
+    },
+    {
+      "hadithNumber": 3865,
+      "arabicNumber": 3865,
+      "book": 29,
+      "hadithInBook": 11,
+      "text": {
+        "arabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا حَمَّادٌ، عَنْ ثَابِتٍ، عَنْ مُطَرِّفٍ، عَنْ عِمْرَانَ بْنِ حُصَيْنٍ، قَالَ نَهَى النَّبِيُّ صلى الله عليه وسلم عَنِ الْكَىِّ فَاكْتَوَيْنَا فَمَا أَفْلَحْنَ وَلاَ أَنْجَحْنَ ‏.‏ قَالَ أَبُو دَاوُدَ وَكَانَ يَسْمَعُ تَسْلِيمَ الْمَلاَئِكَةِ فَلَمَّا اكْتَوَى انْقَطَعَ عَنْهُ فَلَمَّا تَرَكَ رَجَعَ إِلَيْهِ ‏.‏",
+        "translations": {
+          "en": "Narrated Imran ibn Husayn: The Prophet (ﷺ) forbade to cauterise; we cauterised but they (cauterisation) did not benefit us, nor proved useful for us. Abu Dawud said: He used to hear the salutation of the angels: When he cauterized, it stopped. When he abandoned, it returned to him",
+          "ur": "عمران بن حصین رضی اللہ عنہما کہتے ہیں نبی اکرم صلی اللہ علیہ وسلم نے داغنے سے منع فرمایا، اور ہم نے داغ لگایا تو نہ تو اس سے ہمیں کوئی فائدہ ہوا، نہ وہ ہمارے کسی کام آیا۔ ابوداؤد کہتے ہیں: وہ فرشتوں کا سلام سنتے تھے جب داغ لگوانے لگے تو سننا بند ہو گیا، پھر جب اس سے رک گئے تو سابقہ حالت کی طرف لوٹ آئے ( یعنی پھر ان کا سلام سننے لگے ) ۔",
+          "fr": "Rapporté par Imran ibn Husayn رضي الله عنه : Le Prophète ﷺ a interdit la cautérisation ; nous avons essayé, mais cela ne nous a pas été bénéfique ni utile. Abu Dawud a dit : Il entendait la salutation des anges ; quand il s’est fait cautériser, cela s’est arrêté. Quand il a arrêté la cautérisation, cela lui est revenu",
+          "id": "Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Hammad] dari [Tsabit] dari [Mutharrif] dari [Imran bin Hushain] ia berkata, \"Nabi shallallahu 'alaihi wasallam melarang dari kay (pengobatan dengan sengatan besi panas), kemudian kami melakukan kay, maka kay itu tidak beruntung dan tidak berhasil.\" Abu Daud berkata, \"Rasulullah shallallahu 'alaihi wasallam mendengar salam para Malaikat, ketika beliau melakukan kay suara itu hilang, dan ketika beliau meninggalkan pengobatan kay, beliau dapat mendengar suara Malaikat kembali",
+          "tr": "İmrân b. Husayn'dan rivayet olunmuştur: Nebi (s.a.v.) (bize) dağla(mak suretiyle tedavi yap)mayı yasakladı. (Biz ise tedavi için) dağlama yoluna başvurduk. (Fakat bu rahasızlıklarımız) ne iyileşti, ne de şifa buldu. Ebû Dâvûd dedi ki: (îmrân b. Husayn, Hz. Nebi'in yasakladığı bu dağlama ile tedavi etme yoluna başvurmadan) önce meleklerin selâmını işitirdi. Dağlandıktan sonra bu halden mahrum oldu. Dağlanmayı bırakınca eski hali tekrar kendisine döndü. Ayrıca bu hadis'i Buharî, tıb; Tirmizî, tıb; İbn Mâce, tıb; Ahmed b. Hanbel, IV, 156, 427, 430, 444, 446. İzah; 3966 da"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 29,
+        "hadith": 11
+      },
+      "narrator": {
+        "en": "Imran ibn Husayn"
+      }
+    },
+    {
+      "hadithNumber": 3866,
+      "arabicNumber": 3866,
+      "book": 29,
+      "hadithInBook": 12,
+      "text": {
+        "arabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا حَمَّادٌ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم كَوَى سَعْدَ بْنَ مُعَاذٍ مِنْ رَمِيَّتِهِ ‏.‏",
+        "translations": {
+          "en": "Jabir said:The Prophet (ﷺ) cauterized Sa’d b. Mu’adh from the wound of an arrow",
+          "ur": "جابر رضی اللہ عنہ کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم نے سعد بن معاذ رضی اللہ عنہ کو تیر کے زخم کی وجہ سے جو انہیں لگا تھا داغا۱؎۔",
+          "fr": "Jabir رضي الله عنه a dit : Le Prophète ﷺ a cautérisé Sa’d ibn Mu’adh à cause d’une blessure par flèche",
+          "id": "Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Hammad] dari [Abu Az Zubair] dari [Jabir] bahwa Nabi shallallahu 'alaihi wasallam pernah melakukan pengobatan kay untuk Sa'd bin Mu'adz karena luka panah yang ia derita",
+          "tr": "Câbir (r.a)'den rivayet olunduğuna göre; Nebi (s.a.v.), ok yarasından dolayı Sa'd b. Muaz'ı dağlamıştır"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim (2208)"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 29,
+        "hadith": 12
+      }
+    },
+    {
+      "hadithNumber": 3867,
+      "arabicNumber": 3867,
+      "book": 29,
+      "hadithInBook": 13,
+      "text": {
+        "arabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا أَحْمَدُ بْنُ إِسْحَاقَ، حَدَّثَنَا وُهَيْبٌ، عَنْ عَبْدِ اللَّهِ بْنِ طَاوُسٍ، عَنْ أَبِيهِ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم اسْتَعَطَ ‏.‏",
+        "translations": {
+          "en": "Ibn’Abbas said:The Messenger of Allah (ﷺ) snuffed medicine",
+          "ur": "عبداللہ بن عباس رضی اللہ عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے ناک میں دوا ڈالی۔",
+          "fr": "Ibn ‘Abbas رضي الله عنه a dit : Le Messager d’Allah ﷺ a pris un médicament par le nez",
+          "id": "Telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepadaku [Ahmad bin Ishaq] telah menceritakan kepada kami [Wuhaib] dari [Abdullah bin Thawus] dari [Ayahnya] dari [Ibnu Abbas] bahwa Rasulullah shallallahu 'alaihi wasallam memakai obat yang dimasukkan ke hidung",
+          "tr": "İbn Abbas'dan rivayet olunduğuna göre; Rasûlullah (s.a.v.), buruna ilaç damlatırmış"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (5691) Sahih Muslim (1202 After  1577)"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 29,
+        "hadith": 13
+      }
+    },
+    {
+      "hadithNumber": 3868,
+      "arabicNumber": 3868,
+      "book": 29,
+      "hadithInBook": 14,
+      "text": {
+        "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ حَنْبَلٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، حَدَّثَنَا عَقِيلُ بْنُ مَعْقِلٍ، قَالَ سَمِعْتُ وَهْبَ بْنَ مُنَبِّهٍ، يُحَدِّثُ عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، قَالَ سُئِلَ رَسُولُ اللَّهِ صلى الله عليه وسلم عَنِ النُّشْرَةِ فَقَالَ ‏ \"‏ هُوَ مِنْ عَمَلِ الشَّيْطَانِ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Narrated Jabir ibn Abdullah: The Messenger of Allah (ﷺ) was asked about a charm for one who is possessed (nashrah). He replied: It pertains to the work of the devil",
+          "ur": "جابر بن عبداللہ رضی اللہ عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم سے «نشرہ» ۱؎ کے متعلق پوچھا گیا تو آپ نے فرمایا: یہ شیطانی کام ہے ۔",
+          "fr": "Rapporté par Jabir ibn Abdullah رضي الله عنه : On interrogea le Messager d’Allah ﷺ au sujet d’un charme pour celui qui est possédé (nashrah). Il répondit : « Cela fait partie des œuvres du diable. »",
+          "id": "Telah menceritakan kepada kami [Ahmad bin Hanbal] telah menceritakan kepada kami [Abdurrazzaq] telah menceritakan kepada kami ['Aqil bin Ma'qil] ia berkata; aku pernah mendengar [Wahb bin Munabbih] menceritakan dari [Jabir bin Abdullah] ia berkata, \"Rasulullah shallallahu 'alaihi wasallam pernah ditanya mengenai nusyrah (jampi), kemudian beliau menjawab: \"Itu adalah perbuatan setan",
+          "tr": "Câbir b. Abdullah'dan rivayet olunduğuna göre; Rasûlullah (s.a.v.)'e nuşre (denilen tedavi usulü) sorulmuş da: \"O şeytan işidir\" cevabını vermiş"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 29,
+        "hadith": 14
+      },
+      "narrator": {
+        "en": "Jabir ibn Abdullah"
+      }
+    },
+    {
+      "hadithNumber": 3869,
+      "arabicNumber": 3869,
+      "book": 29,
+      "hadithInBook": 15,
+      "text": {
+        "arabic": "حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ عُمَرَ بْنِ مَيْسَرَةَ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يَزِيدَ، حَدَّثَنَا سَعِيدُ بْنُ أَبِي أَيُّوبَ، حَدَّثَنَا شُرَحْبِيلُ بْنُ يَزِيدَ الْمَعَافِرِيُّ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ رَافِعٍ التَّنُوخِيِّ، قَالَ سَمِعْتُ عَبْدَ اللَّهِ بْنَ عَمْرٍو، يَقُولُ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏ \"‏ مَا أُبَالِي مَا أَتَيْتُ إِنْ أَنَا شَرِبْتُ تِرْيَاقًا أَوْ تَعَلَّقْتُ تَمِيمَةً أَوْ قُلْتُ الشِّعْرَ مِنْ قِبَلِ نَفْسِي ‏\"‏ ‏.‏ قَالَ أَبُو دَاوُدَ هَذَا كَانَ لِلنَّبِيِّ صلى الله عليه وسلم خَاصَّةً وَقَدْ رَخَّصَ فِيهِ قَوْمٌ يَعْنِي التِّرْيَاقَ ‏.‏",
+        "translations": {
+          "en": "Narrated Abdullah ibn Amr ibn al-'As: I heard the Messenger of Allah (ﷺ) say: If I drink an antidote, or tie an amulet, or compose poetry, I am the type who does not care what he does. Abu Dawud said: THis was peculiar to the Prophet (ﷺ), but some people have allowed to use it, i.e. antidote",
+          "ur": "عبدالرحمٰن بن رافع تنوخی کہتے ہیں: میں نے عبداللہ بن عمرو رضی اللہ عنہما کو کہتے سنا کہ میں نے رسول اللہ صلی اللہ علیہ وسلم سے سنا ہے آپ فرما رہے تھے: مجھے پرواہ نہیں جو بھی میرا حال ہو اگر میں تریاق پیوں یا تعویذ گنڈا لٹکاؤں یا اپنی طرف سے شعر کہوں ۔ ابوداؤد کہتے ہیں: یہ نبی اکرم صلی اللہ علیہ وسلم کے ساتھ مخصوص تھا، کچھ لوگوں نے تریاق پینے کی رخصت دی ہے۔",
+          "fr": "Rapporté par Abdullah ibn Amr ibn al-‘As رضي الله عنه : J’ai entendu le Messager d’Allah ﷺ dire : « Si je bois un antidote, ou porte un talisman, ou compose de la poésie, je fais partie de ceux qui ne se soucient pas de ce qu’ils font. » Abu Dawud a dit : Cela était propre au Prophète ﷺ, mais certains ont autorisé l’usage de l’antidote",
+          "id": "Telah menceritakan kepada kami ['Ubaidullah bin Umar bin Maisarah] telah menceritakan kepada kami [Abdullah bin Yazid] telah menceritakan kepada kami [Sa'id bin Abu Ayyub] telah menceritakan kepada kami [Syurahbil bin Yazid Al Mu'afiri] dari [Abdurrahman bin Rafi' At Tanukhi] ia berkata; aku pernah mendengar [Abdullah bin 'Amru] berkata, \"Aku pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: \"Jika aku minum tiryaq (penawar racun), aku tidak peduli dengan yang aku lakukan; menggantungkan jimat atau mengucapkan kata-kata syair dari diriku.\" Abu Daud berkata, \"Ini khusus untuk Nabi shallallahu 'alaihi wasallam, namun sebagian orang memberikan keringanan dalam hal itu, yakni saat minum obat penghilang racun",
+          "tr": "Abdullah b. Amr, Rasûlullah (s.a.v.)'i şöyle derken işittiğini söylemiştir: \"Eğer ben panzehir içersem veya muska takınırsam ya da kendi kafamdan şiir söylersem (artık islâmî ölçülerin dışına çıkmış olacağımdan bir daha) yaptıklarımın islâmî ölçülere uyup uymadığın)a aldırış etmem.\" Ebû Dâvûd dedi ki: Bu yasak sadece Nebi (s.a.v.)'e aittir. (İslâm âlimlerinden) bir topluluk buna, yani panzehir kullanmaya cevaz vermiştir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 29,
+        "hadith": 15
+      },
+      "narrator": {
+        "en": "Abdullah ibn Amr ibn al-'As"
+      }
+    },
+    {
+      "hadithNumber": 3870,
+      "arabicNumber": 3870,
+      "book": 29,
+      "hadithInBook": 16,
+      "text": {
+        "arabic": "حَدَّثَنَا هَارُونُ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا مُحَمَّدُ بْنُ بِشْرٍ، حَدَّثَنَا يُونُسُ بْنُ أَبِي إِسْحَاقَ، عَنْ مُجَاهِدٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ نَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم عَنِ الدَّوَاءِ الْخَبِيثِ ‏.‏",
+        "translations": {
+          "en": "Narrated Abu Hurayrah: The Messenger of Allah (ﷺ) prohibited unclean medicine",
+          "ur": "ابوہریرہ رضی اللہ عنہ کہتے ہیں رسول اللہ صلی اللہ علیہ وسلم نے نجس یا حرام دوا سے منع فرمایا ہے ۱؎۔",
+          "fr": "Rapporté par Abu Hurayrah رضي الله عنه : Le Messager d’Allah ﷺ a interdit les médicaments impurs",
+          "id": "Ia telah berkata kepada kami; telah menceritakan kepada kami [Harun bin Abdullah] telah menceritakan kepada kami [Muhammad bin Bisyr] telah menceritakan kepada kami [Yunus bin Abu Ishaq] dari [Mujahid] dari [Abu Hurairah] ia berkata, \"Rasulullah shallallahu 'alaihi wasallam melarang mengunakan obat yang telah diharamkan",
+          "tr": "Ebû Hureyre (r.a)'den rivayet olunduğuna göre; Rasûkıllah (s.a.v.) kötü ilaç (kullanmayı) yasaklamıştır. Ayrıca bu hadisi Tirmizî, tıb; İbn Mâce; Ahmed b. Hanbel, II, 305, 444, 478. de tahric etti. İzah; 3974 te"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 29,
+        "hadith": 16
+      },
+      "narrator": {
+        "en": "Abu Hurayrah"
+      }
+    },
+    {
+      "hadithNumber": 3871,
+      "arabicNumber": 3871,
+      "book": 29,
+      "hadithInBook": 17,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ، أَخْبَرَنَا سُفْيَانُ، عَنِ ابْنِ أَبِي ذِئْبٍ، عَنْ سَعِيدِ بْنِ خَالِدٍ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ عُثْمَانَ، أَنَّ طَبِيبًا، سَأَلَ النَّبِيَّ صلى الله عليه وسلم عَنْ ضِفْدَعٍ يَجْعَلُهَا فِي دَوَاءٍ فَنَهَاهُ النَّبِيُّ صلى الله عليه وسلم عَنْ قَتْلِهَا ‏.‏",
+        "translations": {
+          "en": "Narrated AbdurRahman ibn Uthman: When a physician consulted the Prophet (ﷺ) about putting frogs in medicine, he forbade him to kill them",
+          "ur": "عبدالرحمٰن بن عثمان رضی اللہ عنہ کہتے ہیں کہ ایک طبیب نے نبی اکرم صلی اللہ علیہ وسلم سے دوا میں مینڈک کے استعمال کے متعلق پوچھا تو آپ صلی اللہ علیہ وسلم نے مینڈک قتل کرنے سے منع فرمایا۔",
+          "fr": "Rapporté par AbdurRahman ibn Uthman رضي الله عنه : Lorsqu’un médecin consulta le Prophète ﷺ au sujet de l’utilisation de grenouilles dans un médicament, il lui interdit de les tuer",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Katsir] telah mengabarkan kepada kami [Sufyan] dari [Ibnu Abu Dzi`b] dari [Sa'id bin Khalid] dari [Sa'id bin Al Musayyab] dari [Abdurrahman bin Utsman] bahwa seorang dokter pernah bertanya kepada Nabi shallallahu 'alaihi wasallam mengenai katak yang ia jadikan sebagai campuran obat. Kemudian Nabi shallallahu 'alaihi wasallam melarang dari membunuhnya",
+          "tr": "Abdurrahman b. Osman (r.a)'dan rivayet olunduğuna göre; Bir doktor ilaca kurbağa (eti) koymanın hükmünü sordu. Nebi (s.a.v.) kurbağayı öldürmekten nehyetti. Ayrıca bu hadis'i İbn Mâce, sayd; Nesâî, sayd; Dârimî, edâhi; Ahmed b. Hanbel, III, 453, 499. da tahric etti. İzah; 3974 te"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 29,
+        "hadith": 17
+      },
+      "narrator": {
+        "en": "AbdurRahman ibn Uthman"
+      }
+    },
+    {
+      "hadithNumber": 3872,
+      "arabicNumber": 3872,
+      "book": 29,
+      "hadithInBook": 18,
+      "text": {
+        "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ حَنْبَلٍ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، حَدَّثَنَا الأَعْمَشُ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ مَنْ حَسَا سُمًّا فَسُمُّهُ فِي يَدِهِ يَتَحَسَّاهُ فِي نَارِ جَهَنَّمَ خَالِدًا مُخَلَّدًا فِيهَا أَبَدًا ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Abu Hurairah reported the Messenger of Allah (ﷺ) as saying:If anyone drinks poison, the poison will be in his hand (on the Day of Judgement) and he will drink it in Hell-fire and he will live in it eternally",
+          "ur": "ابوہریرہ رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: جو زہر پیے گا تو قیامت کے دن وہ زہر اس کے ہاتھ میں ہو گا اور اسے جہنم میں پیا کرے گا اور ہمیشہ ہمیش اسی میں پڑا رہے گا کبھی باہر نہ آ سکے گا ۔",
+          "fr": "Abu Hurairah رضي الله عنه a rapporté que le Messager d’Allah ﷺ a dit : « Si quelqu’un boit du poison, le poison sera dans sa main (le Jour du Jugement), et il le boira dans le Feu de l’Enfer où il restera éternellement. »",
+          "id": "Telah menceritakan kepada kami [Ahmad bin Hanbal] telah menceritakan kepada kami [Abu Mu'awiyah] telah menceritakan kepada kami [Al A'masy] dari [Abu Shalih] dari [Abu Hurairah] ia berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Barangsiapa meneguk racun, maka di neraka Jahannam ia akan meneguk racun yang ada di tangannya tersebut, ia kekal di dalamnya selama-lamanya",
+          "tr": "Ebû Hureyre'den rivayet olunduğuna göre; Rasûlullah (s.a.v.): \"Zehir yut (up da canına kıy) an cehennem ateşi içinde ebedi kalarak o zehiri yutmaya çalışmakla meşgul olacaktır\" buyurmuştur. Ayrıca bu hadis'i Buharı, tıb; Müslim, imân; Tirmizî, tıb; Nesâî, cenâiz; Dârimî, diyât; Ahmed b. Hanbel, II, 254, 478. de tahric etti. İzah; 3974 te"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 29,
+        "hadith": 18
+      }
+    },
+    {
+      "hadithNumber": 3873,
+      "arabicNumber": 3873,
+      "book": 29,
+      "hadithInBook": 19,
+      "text": {
+        "arabic": "حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا شُعْبَةُ، عَنْ سِمَاكٍ، عَنْ عَلْقَمَةَ بْنِ وَائِلٍ، عَنْ أَبِيهِ، ذَكَرَ طَارِقَ بْنَ سُوَيْدٍ أَوْ سُوَيْدَ بْنَ طَارِقٍ سَأَلَ النَّبِيَّ صلى الله عليه وسلم عَنِ الْخَمْرِ فَنَهَاهُ ثُمَّ سَأَلَهُ فَنَهَاهُ فَقَالَ لَهُ يَا نَبِيَّ اللَّهِ إِنَّهَا دَوَاءٌ ‏.‏ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏ \"‏ لاَ وَلَكِنَّهَا دَاءٌ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Narrated Tariq ibn Suwayd or Suwayd ibn Tariq: Wa'il said: Tariq ibn Suwayd or Suwayd ibn Tariq asked the Prophet (ﷺ) about wine, but he forbade it. He again asked him, but he forbade him. He said to him: Prophet of Allah, it is a medicine. The Prophet (ﷺ) said: No it is a disease",
+          "ur": "وائل بن حجر رضی اللہ عنہ سے روایت ہے، طارق بن سوید یا سوید بن طارق نے ذکر کیا کہ انہوں نے نبی اکرم صلی اللہ علیہ وسلم سے شراب کے متعلق پوچھا تو آپ نے انہیں منع فرمایا، انہوں نے پھر پوچھا آپ صلی اللہ علیہ وسلم نے انہیں پھر منع فرمایا تو انہوں نے آپ سے کہا: اللہ کے نبی! وہ تو دوا ہے؟ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: نہیں بلکہ بیماری ہے ۔",
+          "fr": "Rapporté par Tariq ibn Suwayd ou Suwayd ibn Tariq رضي الله عنه : Wa’il a dit : Tariq ibn Suwayd ou Suwayd ibn Tariq a interrogé le Prophète ﷺ au sujet du vin, mais il le lui a interdit. Il l’a questionné à nouveau, mais il le lui a encore interdit. Il lui dit : « Ô Prophète d’Allah, c’est un médicament. » Le Prophète ﷺ répondit : « Non, c’est une maladie. »",
+          "id": "Telah menceritakan kepada kami [Muslim bin Ibrahim] telah menceritakan kepada kami [Syu'bah] dari [Simak] dari ['Alqamah bin Wail] dari [Ayahnya] [Thariq bin Suwaid] atau Suwaid bin Thariq menyebutkan, \"Ia bertanya kepada Nabi shallallahu 'alaihi wasallam mengenai khamer, kemudian beliau melarangnya. Lalu ia bertanya lagi kepada beliau, kemudian beliau melarangnya. Lalu ia berkata lagi kepada beliau, \"Wahai Nabi Allah, sesungguhnya khamer adalah obat!\" Maka Nabi shallallahu 'alaihi wasallam bersabda: \"Tidak! Tetapi dia adalah penyakit",
+          "tr": "Simâk'dan rivayet olunduğuna göre; Târik b. Süveyd, Nebi (s.a.v.)'e, (tedavi için) şarap (kullanmayı) sormuş, (Hz. Nebi) onu (bundan) nehyetmiş. Sonra o (bunu) Hz. Nebi'e (tekrar) sormuş. (Hz. Nebi) onu (yine) nehyetmiş. Sonra o, Hz. Nebi'e: Ey Allah'ın Nebii, şarap gerçekten şifadır, demiş. Peygamber (s.a.v.) de: \"Hayır, (o şifa değildir) fakat hastalıktır\" buyurmuş. Ayrıca bu hadis'i Müslim, eşribe; İbn Mâce, tıb; Tirmizî, tıb; Ahmed b. Hanbel, III, 311, 317, IV, 293, VI, 399. da tahric etti. İzah; 3974 te"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim (1984)"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 29,
+        "hadith": 19
+      },
+      "narrator": {
+        "en": "Tariq ibn Suwayd or Suwayd ibn Tariq"
+      }
+    },
+    {
+      "hadithNumber": 3874,
+      "arabicNumber": 3874,
+      "book": 29,
+      "hadithInBook": 20,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبَادَةَ الْوَاسِطِيُّ، حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، أَخْبَرَنَا إِسْمَاعِيلُ بْنُ عَيَّاشٍ، عَنْ ثَعْلَبَةَ بْنِ مُسْلِمٍ، عَنْ أَبِي عِمْرَانَ الأَنْصَارِيِّ، عَنْ أُمِّ الدَّرْدَاءِ، عَنْ أَبِي الدَّرْدَاءِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ إِنَّ اللَّهَ أَنْزَلَ الدَّاءَ وَالدَّوَاءَ وَجَعَلَ لِكُلِّ دَاءٍ دَوَاءً فَتَدَاوَوْا وَلاَ تَدَاوَوْا بِحَرَامٍ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Narrated Abu al-Darda: The Prophet (ﷺ) said: Allah has sent down both the disease and the cure, and He has appointed a cure for every disease, so treat yourselves medically, but use nothing unlawful",
+          "ur": "ابوالدرداء رضی اللہ عنہ کہتے ہیں رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: اللہ نے بیماری اور دوا ( علاج ) دونوں اتارا ہے اور ہر بیماری کی ایک دوا پیدا کی ہے لہٰذا تم دوا کرو لیکن حرام سے دوا نہ کرو ۔",
+          "fr": "Rapporté par Abu al-Darda رضي الله عنه : Le Prophète ﷺ a dit : « Allah a fait descendre à la fois la maladie et le remède, et Il a prévu un remède pour chaque maladie. Soignez-vous donc, mais n’utilisez rien d’illicite. »",
+          "id": "Telah menceritakan kepada kami [Muhammad bin 'Ubadah Al Wasithi] telah menceritakan kepada kami [Yazid bin Harun] telah mengabarkan kepada kami [Isma'il bin 'Ayyasy] dari [Tsa'labah bin Muslim] dari [Abu Imran Al Anshari] dari [Ummu Ad Darda] dari [Abu Ad Darda] ia berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Sesungguhnya Allah telah menurunkan penyakit dan obat, dan menjadikan bagi setiap penyakit terdapat obatnya, maka berobatlah dan jangan berobat dengan sesuatu yang haram",
+          "tr": "Ebu'd-Derdâ'dan rivayet olunduğuna göre, Rasûlullah (s.a.v.): \"Kuşkusuz Allah hastalığı da şifayı da yarattı ve her dert için bir derman yarattı. Binaenaleyh (Allah'ın yarattığı bu şifalı ilaçlarla) tedavi olmaya çalışınız, (fakat) haramla tedavi olmaya kalkışmayınız\" buyurmuştur"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 29,
+        "hadith": 20
+      },
+      "narrator": {
+        "en": "Abu al-Darda"
+      }
+    },
+    {
+      "hadithNumber": 3875,
+      "arabicNumber": 3875,
+      "book": 29,
+      "hadithInBook": 21,
+      "text": {
+        "arabic": "حَدَّثَنَا إِسْحَاقُ بْنُ إِسْمَاعِيلَ، حَدَّثَنَا سُفْيَانُ، عَنِ ابْنِ أَبِي نَجِيحٍ، عَنْ مُجَاهِدٍ، عَنْ سَعْدٍ، قَالَ مَرِضْتُ مَرَضًا أَتَانِي رَسُولُ اللَّهِ صلى الله عليه وسلم يَعُودُنِي فَوَضَعَ يَدَهُ بَيْنَ ثَدْيَىَّ حَتَّى وَجَدْتُ بَرْدَهَا عَلَى فُؤَادِي فَقَالَ ‏ \"‏ إِنَّكَ رَجُلٌ مَفْئُودٌ ائْتِ الْحَارِثَ بْنَ كَلَدَةَ أَخَا ثَقِيفٍ فَإِنَّهُ رَجْلٌ يَتَطَبَّبُ فَلْيَأْخُذْ سَبْعَ تَمَرَاتٍ مِنْ عَجْوَةِ الْمَدِينَةِ فَلْيَجَأْهُنَّ بِنَوَاهُنَّ ثُمَّ لِيَلُدَّكَ بِهِنَّ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Narrated Sa'd: I suffered from an illness. The Messenger of Allah (ﷺ) came to pay a visit to me. He put his hands between my nipples and I felt its coolness at my heart. He said: You are a man suffering from heart sickness. Go to al-Harith ibn Kaladah, brother of Thaqif. He is a man who gives medical treatment. He should take seven ajwah dates of Medina and grind them with their kernels, and then put them into your mouth",
+          "ur": "سعد رضی اللہ عنہ کہتے ہیں میں بیمار ہوا تو رسول اللہ صلی اللہ علیہ وسلم میری عیادت کے لیے آئے، آپ نے میری دونوں چھاتیوں کے درمیان اپنا ہاتھ رکھا میں نے اس کی ٹھنڈک اپنے دل میں محسوس کی، آپ صلی اللہ علیہ وسلم نے فرمایا: تمہیں دل کی بیماری ہے حارث بن کلدہ کے پاس جاؤ جو قبیلہ ثقیف کے ہیں، وہ دوا علاج کرتے ہیں، ان کو چاہیئے کہ مدینہ کی عجوہ کھجوروں میں سات کھجوریں لیں اور انہیں گٹھلیوں سمیت کوٹ ڈالیں پھر اس کا «لدود» بنا کر تمہارے منہ میں ڈالیں ۔",
+          "fr": "Rapporté par Sa’d رضي الله عنه : Je souffrais d’une maladie. Le Messager d’Allah ﷺ est venu me rendre visite. Il a posé ses mains entre mes seins et j’ai ressenti leur fraîcheur dans mon cœur. Il a dit : « Tu souffres d’un mal au cœur. Va voir al-Harith ibn Kaladah, le frère de Thaqif. C’est un homme qui soigne. Il doit prendre sept dattes ajwah de Médine, les broyer avec leurs noyaux, puis te les faire avaler. »",
+          "id": "Telah menceritakan kepada kami [Ishaq bin Isma'il] telah menceritakan kepada kami [Sufyan] dari [Ibnu Abu Najih] dari [Mujahid] dari [Sa'd] ia berkata, \"Aku pernah mengalami sakit, Rasulullah shallallahu 'alaihi wasallam lalu datang menjengukku, beliau kemudian meletakkan tangannya di antara kedua dadaku hingga aku merasakan dinginnya tangan beliau pada dadaku. Kemudian beliau bersabda: \"Sesungguhnya engkau adalah seorang laki-laki yang terkena penyakit pada hatinya, datanglah kepada Al Harits bin Kaladah saudara Tsaqif, ia orang yang bisa kedokteran. Hendaknya ia mengambil tujuh buah kurma 'ajwah Madinah, hendaknya ia tumbuk bersamaan dengan bijinya, kemudian meminumkannya kepadamu",
+          "tr": "Sa'd (b. Ebî Vakkâs)'dan rivayet olunmuştur; dedi ki: Bir gün iyice hastalanmıştım. Rasûlullah (s.a.v.) ziyaretime geldi ve elini göğsümün üzerine koyup; \"Sen kalp hastası bir adamsın. Sakîf'in kardeşi Haris b. Kelede'nin yanına git. Çünkü o hastalıklara ilaç yapmakla uğraşan bir kimsedir. (Ona şöyle) Medine'nin Acve (denilen bir hurma) sından yedi tane alsın, çekirdekleriyle (birlikte) dövsün, sonra onları suya koyup sana içirsin\" buyurdu. İzah; 3975 te"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 29,
+        "hadith": 21
+      },
+      "narrator": {
+        "en": "Sa'd"
+      }
+    },
+    {
+      "hadithNumber": 3876,
+      "arabicNumber": 3876,
+      "book": 29,
+      "hadithInBook": 22,
+      "text": {
+        "arabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا أَبُو أُسَامَةَ، حَدَّثَنَا هَاشِمُ بْنُ هَاشِمٍ، عَنْ عَامِرِ بْنِ سَعْدِ بْنِ أَبِي وَقَّاصٍ، عَنْ أَبِيهِ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ مَنْ تَصَبَّحَ سَبْعَ تَمَرَاتِ عَجْوَةٍ لَمْ يَضُرُّهُ ذَلِكَ الْيَوْمَ سَمٌّ وَلاَ سِحْرٌ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Sa’d b. Abl Waqqas reported the prophet (ﷺ) as saying:He who has a morning meal of seven ‘Ajwah dates will not suffer from any harm that day through poison or magic",
+          "ur": "سعد بن ابی وقاص رضی اللہ عنہ سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: جو سات عجوہ کھجوریں نہار منہ کھائے گا تو اس دن اسے نہ کوئی زہر نقصان پہنچائے گا، نہ جادو ۔",
+          "fr": "Rapporté par Sa’d ibn Abi Waqqas رضي الله عنه : Le Prophète ﷺ a dit : « Celui qui mange sept dattes ‘Ajwah au petit matin ne subira aucun mal ce jour-là, ni par le poison ni par la sorcellerie. »",
+          "id": "Telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepada kami [Abu Usamah] telah menceritakan kepada kami [Hasyim bin Hasyim] dari ['Amir bin Sa'd bin Abu Waqqash] dari [Ayahnya] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: \"Barangsiapa pada pagi hari makan tujuh butir kurma 'ajwah, maka pada hari itu ia tidak akan terkena racun dan sihir",
+          "tr": "Sa'd b. Ebî Vakkâs'dan rivayet olunduğuna göre; Nebi (s.a.v.) şöyle buyurmuştur: \"Kim her sabah (aç karnına Medine'nin en iyi hurması olan) Acve'den yedi tane yerse ona o gün zehir de zarar vermez, sihir de"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (5769) Sahih Muslim (2047)"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 29,
+        "hadith": 22
+      }
+    },
+    {
+      "hadithNumber": 3877,
+      "arabicNumber": 3877,
+      "book": 29,
+      "hadithInBook": 23,
+      "text": {
+        "arabic": "حَدَّثَنَا مُسَدَّدٌ، وَحَامِدُ بْنُ يَحْيَى، قَالاَ حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ، عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ، عَنْ أُمِّ قَيْسٍ بِنْتِ مِحْصَنٍ، قَالَتْ دَخَلْتُ عَلَى رَسُولِ اللَّهِ صلى الله عليه وسلم بِابْنٍ لِي قَدْ أَعْلَقْتُ عَلَيْهِ مِنَ الْعُذْرَةِ فَقَالَ ‏ \"‏ عَلاَمَ تَدْغَرْنَ أَوْلاَدَكُنَّ بِهَذَا الْعِلاَقِ عَلَيْكُنَّ بِهَذَا الْعُودِ الْهِنْدِيِّ فَإِنَّ فِيهِ سَبْعَةَ أَشْفِيَةٍ مِنْهَا ذَاتُ الْجَنْبِ يُسْعَطُ مِنَ الْعُذْرَةِ وَيُلَدُّ مِنْ ذَاتِ الْجَنْبِ ‏\"‏ ‏.‏ قَالَ أَبُو دَاوُدَ يَعْنِي بِالْعُودِ الْقُسْطَ ‏.‏",
+        "translations": {
+          "en": "Umm Qasis, daughter of Mihsan said :I brought my son to the Messenger of Allah (ﷺ) while I had compressed his uvula for its swelling. He said : Why do you afflict your children by squeezing for a swelling in the Uvula ? Apply this Indian aloes wood, for it contain seven types of remedies, among them being a remedy for pleurisy. It is applied through the nose for a swelling of the uvula poured into the side of the mouth for pleurisy. Abu Dawud said : By aloes wood he meant costus",
+          "ur": "ام قیس بنت محصن رضی اللہ عنہا کہتی ہیں کہ میں رسول اللہ صلی اللہ علیہ وسلم کے پاس اپنے بچے کو لے کر آئی، کوا بڑھ جانے کی وجہ سے میں نے اس کے حلق کو دبا دیا تھا، آپ صلی اللہ علیہ وسلم نے پوچھا: تم اپنے بچوں کے حلق کس لیے دباتی ہو؟ تم اس عود ہندی کو لازماً استعمال کرو کیونکہ اس میں سات بیماریوں سے شفاء ہے جس میں ذات الجنب ( نمونیہ ) بھی ہے، کوا بڑھنے پر ناک سے دوا داخل کی جائے، اور ذات الجنب میں «لدود» ۱؎ بنا کر پلایا جائے ۔ ابوداؤد کہتے ہیں: «عود» سے مراد «قسط» ہے۔",
+          "fr": "Rapporté par Umm Qasis, fille de Mihsan رضي الله عنها : J’ai amené mon fils au Messager d’Allah ﷺ alors que j’avais comprimé son voile du palais à cause de son gonflement. Il a dit : « Pourquoi faites-vous souffrir vos enfants en pressant leur voile du palais quand il est enflé ? Utilisez ce bois d’aloès indien, car il contient sept sortes de remèdes, dont un contre la pleurésie. On l’applique dans le nez pour le gonflement du voile du palais, et on le verse dans le coin de la bouche pour la pleurésie. » Abu Dawud a précisé : Par “bois d’aloès”, il voulait dire le costus",
+          "id": "Telah menceritakan kepada kami [Musaddad] dan [Hamid bin Yahya] mereka berkata; telah menceritakan kepada kami [Sufyan] dari [Az Zuhri] dari ['Ubaidullah bin Abdullah] dari [Ummu Qais binti Mihshan] ia berkata, \"Aku pernah menemui Rasulullah shallallahu 'alaihi wasallam membawa anakku yang telah aku obati dari penyakit radang kelenjar leher (amandel). Kemudian beliau berkata: \"Atas dasar apakah kalian menekan dan mengangkat tenggorokan anak kalian dengan mengangkat dagu mereka? Hendaknya kalian menggunakan gaharu India, karena sesungguhnya padanya terdapat tujuh macam obat, diantaranya adalah obat penyakit tulang rusuk, digunakan sebagai obat radang amandel yang dimasukkan dari hidung, serta obat penyakit rusuk yang dimasukkan lewat mulut.\" Abu Daud berkata, \"Yang dimaksud dengan 'ud adalah gaharu",
+          "tr": "Ümmü Kays binti'l-Mıhsân'dan rivayet olunmuştur; dedi ki: Üzre (denilen boğaz hastalığı) sebebiyle parmağını boğazına sokarak bademciğini çekip almış olduğum oğlumla birlikte Rasûlullah (s.a.v.)'in yanına girmiştim. \"Niçin çocuklarınızın ağzına parmak sokarak bademciklerini çekip alıyorsunuz? Çocuklarınızın bu hastalığını tedavi etmek için size gereken şu ûd-i hindî (denilen bitki) dir. Onda yedi (çeşit şifa vardır), bu şifalardan biri de zâtülcenb hastalığının şifasıdır. (Bu bitki) üzre (hastalığını tedavi) için buruna çekilir.” buyurdu. Ebû Dâvûd dedi ki: Ûd (-i hindî demlen bitkijden maksat, topalak (denilen ot)tur"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (5713) Sahih Muslim (2214)"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 29,
+        "hadith": 23
+      }
+    },
+    {
+      "hadithNumber": 3878,
+      "arabicNumber": 3878,
+      "book": 29,
+      "hadithInBook": 24,
+      "text": {
+        "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ يُونُسَ، حَدَّثَنَا زُهَيْرٌ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ عُثْمَانَ بْنِ خُثَيْمٍ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ الْبَسُوا مِنْ ثِيَابِكُمُ الْبَيَاضَ فَإِنَّهَا مِنْ خَيْرِ ثِيَابِكُمْ وَكَفِّنُوا فِيهَا مَوْتَاكُمْ وَإِنَّ خَيْرَ أَكْحَالِكُمُ الإِثْمِدُ يَجْلُو الْبَصَرَ وَيُنْبِتُ الشَّعْرَ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Narrated Abdullah ibn Abbas: The Prophet (ﷺ) said: Wear your white garments, for they are among your best garments, and shroud your dead in them. Among the best types of collyrium you use is antimony (ithmid): it clears the vision and makes the hair sprout",
+          "ur": "عبداللہ بن عباس رضی اللہ عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: تم سفید رنگ کے کپڑے پہنا کرو کیونکہ یہ تمہارے کپڑوں میں سب سے بہتر کپڑا ہے، اور اسی میں اپنے مردوں کو کفنایا کرو، اور تمہارے سرموں میں سب سے اچھا اثمد ہے، وہ روشنی بڑھاتا اور ( پلک کے ) بالوں کو اگاتا ہے ۔",
+          "fr": "Rapporté par Abdullah ibn Abbas رضي الله عنه : Le Prophète ﷺ a dit : « Portez vos vêtements blancs, car ce sont parmi vos meilleurs vêtements, et enveloppez vos morts dedans. Parmi les meilleurs collyres que vous utilisez, il y a l’antimoine (ithmid) : il clarifie la vue et fait pousser les cils. »",
+          "id": "Telah menceritakan kepada kami [Ahmad bin Yunus] telah menceritakan kepada kami [Zuhair] telah menceritakan kepada kami [Abdullah bin Utsman bin Khutsaim] dari [Sa'id bin Jubair] dari [Ibnu Abbas] ia berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Pakailah pakaian yang putih, sebab ia adalah sebaik-baik pakaian kalian, dan kafanilah jenazah kalian dengannya. Sesungguhnya sebaik-baik celak kalian adalah itsmid (sejenis tumbuhan), itsmid dapat mempertajam pandangan dan menumbuhkan rambut",
+          "tr": "İbn Abbas (r.a)'dan rivayet olunduğuna göre; Rasûlullah (s.a.v.) şöyle buyurmuştur: \"Beyaz elbise giyiniz. Çünkü beyaz elbise, elbiselerinizin en hayırlılarındandır. Ölülerinizi de beyaz kumaşlarla kefenleyiniz. Sürmelerinizin en hayırlısı ismid (denilen sürme taşı) dır. O gözün nurunu artırır, kirpikleri kuvvetlendirir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 29,
+        "hadith": 24
+      },
+      "narrator": {
+        "en": "Abdullah ibn Abbas"
+      }
+    },
+    {
+      "hadithNumber": 3879,
+      "arabicNumber": 3879,
+      "book": 29,
+      "hadithInBook": 25,
+      "text": {
+        "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ حَنْبَلٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، حَدَّثَنَا مَعْمَرٌ، عَنْ هَمَّامِ بْنِ مُنَبِّهٍ، قَالَ هَذَا مَا حَدَّثَنَا أَبُو هُرَيْرَةَ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ الْعَيْنُ حَقٌّ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Abu Hurairah reported the Messenger of Allah (ﷺ) as saying :The evil is genuine",
+          "ur": "ابوہریرہ رضی اللہ عنہ سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: نظر بد حق ہے ۔",
+          "fr": "Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Le mal existe vraiment. »",
+          "id": "Telah menceritakan kepada kami [Ahmad bin Hanbal] telah menceritakan kepada kami [Abdurrazzaq] telah menceritakan kepada kami [Ma'mar] dari [Hammam bin Munabbih] ia berkata; Ini adalah hadits yang telah diceritakan [Abu Hurairah] kepada kami dari Rasulullah, \"Beliau bersabda: \"Penyakit Ain (pengaruh mata orang yang dengki) itu benar adanya",
+          "tr": "Ebû Hureyre (r.a)'den rivayet olunduğuna göre; Rasûlul­lah (s.a.v.): \"Göz (değmesi olayı) doğrudur\" buyurmuştur. Ayrıca bu hadis'i Buharî, tıb, libas; Müslim, selâm; Tirmizî, tıb; Muvatta, ayn; Ah­med b. Hanbel, I, 274, 294, II, 222, 289, 319, 420, 439, 487, IV, 56, V, 80, 379. da tahric etti. İzah; 3980 de"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih Mutawatir"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih Mutawatir"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (5740) Sahih Muslim (2187)"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 29,
+        "hadith": 25
+      }
+    },
+    {
+      "hadithNumber": 3880,
+      "arabicNumber": 3880,
+      "book": 29,
+      "hadithInBook": 26,
+      "text": {
+        "arabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا جَرِيرٌ، عَنِ الأَعْمَشِ، عَنْ إِبْرَاهِيمَ، عَنِ الأَسْوَدِ، عَنْ عَائِشَةَ، رضى الله عنها قَالَتْ كَانَ يُؤْمَرُ الْعَائِنُ فَيَتَوَضَّأُ ثُمَّ يَغْتَسِلُ مِنْهُ الْمَعِينُ ‏.‏",
+        "translations": {
+          "en": "Narrated Aisha, Ummul Mu'minin: The man casting evil would be commanded to perform ablution, and then the man affected was washed with it",
+          "ur": "ام المؤمنین عائشہ رضی اللہ عنہا کہتی ہیں کہ نظر بد لگانے والے کو حکم دیا جاتا تھا کہ وہ وضو کرے پھر جسے نظر لگی ہوتی اس پانی سے غسل کرتا۔",
+          "fr": "Rapporté par Aisha, la mère des croyants رضي الله عنها : On ordonnait à l’homme qui jetait le mauvais œil de faire ses ablutions, puis on lavait la personne touchée avec cette eau",
+          "id": "Telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepada kami [Jarir] dari [Al A'masy] dari [Ibrahim] dari [Al Aswad] dari [Aisyah] radliallahu 'anha, ia berkata, \"Orang yang menimbulkan penyakit Ain diperintahkan untuk berwudlu, kemudian orang yang menderita penyakit Ain diperintahkan untuk mandi dengan air sisa wudlunya",
+          "tr": "Âişe (r.anha)'nın şöyle dediği rivayet olunmuştur: (Hz. Nebi zamanında bir göz değmesi hadisesi olduğunda) gözü değen kimseye (abdest alması) emredilirdi de o abdest alırdı. Sonra (o'nun abdest suyu bir kapta toplanırdı). Göz değdirilen kimse de (başı üzerine dökerek) bu suyla yıkanırdı"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 29,
+        "hadith": 26
+      },
+      "narrator": {
+        "en": "Aisha, Ummul Mu'minin"
+      }
+    },
+    {
+      "hadithNumber": 3881,
+      "arabicNumber": 3881,
+      "book": 29,
+      "hadithInBook": 27,
+      "text": {
+        "arabic": "حَدَّثَنَا الرَّبِيعُ بْنُ نَافِعٍ أَبُو تَوْبَةَ، حَدَّثَنَا مُحَمَّدُ بْنُ مُهَاجِرٍ، عَنْ أَبِيهِ، عَنْ أَسْمَاءَ بِنْتِ يَزِيدَ بْنِ السَّكَنِ، قَالَتْ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏ \"‏ لاَ تَقْتُلُوا أَوْلاَدَكُمْ سِرًّا فَإِنَّ الْغَيْلَ يُدْرِكُ الْفَارِسَ فَيُدَعْثِرُهُ عَنْ فَرَسِهِ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Narrated Asma', daughter of Yazid ibn as-Sakan,: I heard the Messenger of Allah (ﷺ) as saying: Do not kill your children secretly, for the milk, with which a child is suckled while his mother is pregnant, overtakes the horseman and throws him from his horse",
+          "ur": "اسماء بنت یزید بن سکن رضی اللہ عنہا کہتی ہیں میں نے رسول اللہ صلی اللہ علیہ وسلم کو فرماتے ہوئے سنا: اپنی اولاد کو خفیہ قتل نہ کرو کیونکہ رضاعت کے دنوں میں مجامعت شہسوار کو پاتی ہے تو اسے اس کے گھوڑے سے گرا دیتا ہے ۔",
+          "fr": "Rapporté par Asma’, fille de Yazid ibn as-Sakan رضي الله عنها : J’ai entendu le Messager d’Allah ﷺ dire : « Ne tuez pas vos enfants en secret, car le lait avec lequel un enfant est allaité alors que sa mère est enceinte rattrape le cavalier et le fait tomber de son cheval. »",
+          "id": "Telah menceritakan kepada kami [Ar Rabi' bin Nafi' Abu Taubah] telah menceritakan kepada kami [Muhammad bin Muhajir] dari [Ayahnya] dari [Asma` binti Yazid bin As Sakan] ia berkata, \"Aku pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: \"Janganlah kalian membunuh anak-anak kalian secara rahasia, sesungguhnya pengaruh menggauli isteri pada waktu menyusui akan menimpa penunggang kuda sehingga menyebabkannya lemah dan terjatuh dari kudanya",
+          "tr": "Esma binti Yezid b. Seken'den rivayet olunmuştur; dedi ki: Ben Rasûlullah (s.a.v.)'i şöyle derken işittim: \"(Emzikli kadınlarınızla cima etmek suretiyle) çocuklarınızı gizlice öldürmeyiniz. Çünkü emzikli kadınla cinsel temasta bulunma (nın tesiri öylesine büyük ki) atlıya (arkasından) yetişir ve onu atından (yere) düşürür.\" Bir sonraki yani 3982 nolu. hadis’i oku zira geçerli hüküm o dur. Ayrıca bu hadisi İbn Mâce, nikâh; Ahmed b. Hanbel, VI, 453, 457, 458. de tahric etti. İzah; 3982 de"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 29,
+        "hadith": 27
+      },
+      "narrator": {
+        "en": "Asma', daughter of Yazid ibn as-Sakan,"
+      }
+    },
+    {
+      "hadithNumber": 3882,
+      "arabicNumber": 3882,
+      "book": 29,
+      "hadithInBook": 28,
+      "text": {
+        "arabic": "حَدَّثَنَا الْقَعْنَبِيُّ، عَنْ مَالِكٍ، عَنْ مُحَمَّدِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ نَوْفَلٍ، أَخْبَرَنِي عُرْوَةُ بْنُ الزُّبَيْرِ، عَنْ عَائِشَةَ، زَوْجِ النَّبِيِّ صلى الله عليه وسلم عَنْ جُدَامَةَ الأَسَدِيَّةِ أَنَّهَا سَمِعَتْ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏ \"‏ لَقَدْ هَمَمْتُ أَنْ أَنْهَى عَنِ الْغَيْلَةِ حَتَّى ذُكِّرْتُ أَنَّ الرُّومَ وَفَارِسَ يَفْعَلُونَ ذَلِكَ فَلاَ يَضُرُّ أَوْلاَدَهُمْ ‏\"‏ ‏.‏ قَالَ مَالِكٌ الْغَيْلَةُ أَنْ يَمَسَّ الرَّجُلُ امْرَأَتَهُ وَهِيَ تُرْضِعُ ‏.‏",
+        "translations": {
+          "en": "Judamat al-Asadiyyah said that she heard the Messenger of Allah (May peace be upon him) Say:I intended to prohibit suckling during pregnancy (ghailah), but I considered the Greeks and the Persians and saw that they practiced it, without any injury being caused to their children thereby. Malik said : Ghailah means that a man has intercourse with a women while she is suckling a child",
+          "ur": "جدامہ اسدیہ رضی اللہ عنہا سے روایت ہے کہ انہوں نے رسول اللہ صلی اللہ علیہ وسلم کو فرماتے ہوئے سنا: میں نے قصد کر لیا تھا کہ«غیلہ» سے منع کر دوں پھر مجھے یاد آیا کہ روم اور فارس کے لوگ ایسا کرتے ہیں اور ان کی اولاد کو اس سے کوئی ضرر نہیں پہنچتا ۔ مالک کہتے ہیں: «غیلہ» یہ ہے کہ آدمی اپنی بیوی سے حالت رضاعت میں جماع کرے ۱؎۔",
+          "fr": "Rapporté par Judamat al-Asadiyyah رضي الله عنها : Elle a entendu le Messager d’Allah ﷺ dire : « J’avais l’intention d’interdire l’allaitement pendant la grossesse (ghailah), mais j’ai pensé aux Grecs et aux Perses et j’ai vu qu’ils le pratiquaient sans que cela nuise à leurs enfants. » Malik a expliqué : Ghailah signifie qu’un homme a des rapports avec sa femme alors qu’elle allaite un enfant",
+          "id": "Telah menceritakan kepada kami [Al Qa'nabi] dari [Malik] dari [Muhammad bin Abdurrahman bin Naufal] telah mengabarkan kepadaku ['Urwah bin Az Zubair] dari [Aisyah] isteri Nabi shallallahu 'alaihi wasallam, dari [Judamah Al Asadiyyah] bahwa ia pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: \"Sungguh aku telah berniat untuk melarang dari menggauli isteri pada waktu menyusui, hingga aku ingat bahwa orang-orang Romawi dan Persia melakukan hal tersebut dan tidak membahayakan anak-anak mereka.\" Malik berkata, \"Ghailah adalah seorang laki-laki menggauli isterinya ketika dalam keadaan menyusui",
+          "tr": "Cüdâme el-Esediyye (r.anha)'den rivayet olunduğuna göre; Kendisi Rasûlullah (s.a.v.)'i şöyle derken işitmiş: \"Vallahi, ben erkeğin emzikli kadınla cinsi münasebette bulunmasını yasaklamayı (epeyce) düşündüm. Nihayet Rumlarla İranlıların bunu yaptıklarını ve çocuklarına (hiç) zarar vermediğini hatırla (yıp bundan vazgeç) tim.\" (İmam) Mâlik; \"gfle\" kelimesinin emzikli kadınla cinsi temasta bulunmak anlamına geldiğini söylemiştir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim (1442)"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 29,
+        "hadith": 28
+      }
+    },
+    {
+      "hadithNumber": 3883,
+      "arabicNumber": 3883,
+      "book": 29,
+      "hadithInBook": 29,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْعَلاَءِ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، حَدَّثَنَا الأَعْمَشُ، عَنْ عَمْرِو بْنِ مُرَّةَ، عَنْ يَحْيَى بْنِ الْجَزَّارِ، عَنِ ابْنِ أَخِي، زَيْنَبَ امْرَأَةِ عَبْدِ اللَّهِ عَنْ زَيْنَبَ، امْرَأَةِ عَبْدِ اللَّهِ عَنْ عَبْدِ اللَّهِ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\"‏ إِنَّ الرُّقَى وَالتَّمَائِمَ وَالتِّوَلَةَ شِرْكٌ ‏\"‏ ‏.‏ قَالَتْ قُلْتُ لِمَ تَقُولُ هَذَا وَاللَّهِ لَقَدْ كَانَتْ عَيْنِي تَقْذِفُ وَكُنْتُ أَخْتَلِفُ إِلَى فُلاَنٍ الْيَهُودِيِّ يَرْقِينِي فَإِذَا رَقَانِي سَكَنَتْ ‏.‏ فَقَالَ عَبْدُ اللَّهِ إِنَّمَا ذَاكِ عَمَلُ الشَّيْطَانِ كَانَ يَنْخَسُهَا بِيَدِهِ فَإِذَا رَقَاهَا كَفَّ عَنْهَا إِنَّمَا كَانَ يَكْفِيكِ أَنْ تَقُولِي كَمَا كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\"‏ أَذْهِبِ الْبَاسَ رَبَّ النَّاسِ اشْفِ أَنْتَ الشَّافِي لاَ شِفَاءَ إِلاَّ شِفَاؤُكَ شِفَاءً لاَ يُغَادِرُ سَقَمًا ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Narrated Abdullah ibn Mas'ud: Zaynab, the wife of Abdullah ibn Mas'ud, told that Abdullah said: I heard the Messenger of Allah (ﷺ) saying: spells, charms and love-potions are polytheism. I asked: Why do you say this? I swear by Allah, when my eye was discharging I used to go to so-and-so, the Jew, who applied a spell to me. When he applied the spell to me, it calmed down. Abdullah said: That was just the work of the Devil who was picking it with his hand, and when he uttered the spell on it, he desisted. All you need to do is to say as the Messenger of Allah (ﷺ) used to say: Remove the harm, O Lord of men, and heal. Thou art the Healer. There is no remedy but Thine which leaves no disease behind",
+          "ur": "عبداللہ بن مسعود رضی اللہ عنہ کہتے ہیں کہ میں نے رسول اللہ صلی اللہ علیہ وسلم سے سنا آپ فرما رہے تھے: جھاڑ پھونک ( منتر ) ۱؎ گنڈا ( تعویذ ) اور تولہ ۲؎ شرک ہیں عبداللہ بن مسعود رضی اللہ عنہ کی بیوی زینب رضی اللہ عنہا کہتی ہیں: میں نے کہا: آپ ایسا کیوں کہتے ہیں؟ قسم اللہ کی میری آنکھ درد کی شدت سے نکلی آتی تھی اور میں فلاں یہودی کے پاس دم کرانے آتی تھی تو جب وہ دم کر دیتا تھا تو میرا درد بند ہو جاتا تھا، عبداللہ رضی اللہ عنہ بولے: یہ کام تو شیطان ہی کا تھا وہ اپنے ہاتھ سے آنکھ چھوتا تھا تو جب وہ دم کر دیتا تھا تو وہ اس سے رک جاتا تھا، تیرے لیے تو بس ویسا ہی کہنا کافی تھا جیسا رسول اللہ صلی اللہ علیہ وسلم کہتے تھے: «ذهب الباس رب الناس اشف أنت الشافي لا شفاء إلا شفاؤك شفاء لا يغادر سقما» لوگوں کے رب! بیماری کو دور فرما، شفاء دے، تو ہی شفاء دینے والا ہے، ایسی شفاء جو کسی بیماری کو نہ رہنے دے ۔",
+          "fr": "Rapporté par Abdullah ibn Mas’ud رضي الله عنه : Zaynab, l’épouse d’Abdullah ibn Mas’ud, a rapporté qu’Abdullah a dit : « J’ai entendu le Messager d’Allah ﷺ dire : les incantations, les amulettes et les philtres d’amour sont du polythéisme. » J’ai demandé : « Pourquoi dis-tu cela ? Par Allah, quand mon œil coulait, j’allais voir untel, le Juif, qui récitait une incantation sur moi. Quand il le faisait, cela se calmait. » Abdullah a dit : « C’était simplement l’œuvre du Diable qui manipulait cela, et quand il récitait l’incantation, il arrêtait. Il te suffit de dire comme le Messager d’Allah ﷺ disait : “Ô Seigneur des hommes, enlève le mal et guéris. Tu es le Guérisseur. Il n’y a de remède que le tien, qui ne laisse aucune maladie derrière lui.” »",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Al 'Ala] telah menceritakan kepada kami [Abu Mu'awiyah] telah menceritakan kepada kami [Al A'masy] dari ['Amru bin Murrah] dari [Yahya bin Al Jazzar] dari [anak saudara Zainab] isteri Abdullah, dari [Zainab] dari [Abdullah] ia berkata, \"Aku pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: \"Sesungguhnya jampi-jampi, jimat dan tiwalah (menjadikan seorang wanita mencintai suaminya) adalah bentuk kesyirikan.\" Zainab berkata, \"Aku katakan, 'Kenapa engkau mengucapkan hal ini? Demi Allah! Sungguh, mataku telah mengeluarkan air mata dan kotoran. Dan aku bolak-balik datang kepada Fulan seorang Yahudi yang menjampiku, apabila ia menjampiku maka mataku menjadi tenang?\" Kemudian Abdullah menjawab, 'Sesungguhnya hal tersebut adalah perbuatan setan. Setan telah menusuk matanya menggunakan tangannya, kemudian apabila orang yahudi tersebut menjampinya maka setan menahan tusukannya. Sebenarnya cukup bagimu mengucapkan sebagaimana yang diucapkan Rasulullah shallallahu 'alaihi wasallam: 'ADZHIBIL BA`SA RABBAN NAASA ISYFI ANTA ASY SYAAFII LAA SYIFAA A ILLAA SYIFAA`UKA SYIFAA`AN LAA YUGHAADIRU SAQAMAN (Wahai Tuhan manusia, hilangkanlah penyakit, sesungguhnya Engkau Pemberi kesembuhan, tidak ada kesembuhan kecuali kesembuhan dari-Mu, kesembuhan yang tidak meninggalkan efek penyakit)",
+          "tr": "Abdullah (bin Mes'ud)'un hanımı Zeyneb r.anha’nın şöyle dediği rivayet olunmuştur: Abdullah (bin Mes'ud): Ben Rasulullah Sallallahu Aleyhi ve Sellem'i \" (İçerisinde sihir ya da küfür ihtimali bulunan anlaşılmaz sözleri) okuyarak tedavi etmek, muska takmak ve sevgi ilacı yapmak şirktir\" buyururken işittim, dedi. (Zeyneb r.anha) dedi ki: (Bunun üzerine ben Abdullah'a dönerek; \"Acaba Rasûlullah Sallallahu Aleyhi ve Sellem) bunu niçin söylüyor? Vallahi (benim) gözüm (bir ağrıdan dolayı) çapaklamyordu da ben (tedavi için) falanca yahudi’ye gidip geliyordum (o da) bana okuyordu. (Bu sayede gözümün ağrısı) dindi\" dedim. Abdullah da (şöyle) cevap verdi: Bu şeytan’ın işinden başka bir şey değildir. (Şeytan seni buna inandırmak için senin) gözünü eliyle (devamlı) dürtüyor (ve onu ağrıtıyor). Sen (yahudinin yanına varıp da yahudi senin) gözüne okuyunca (şeytan elini) gözünden çekiyor. Oysa senin sadece Rasûlullah (s.a.v.)'in dediği gibi; \"Ey tüm insanların Rabbi (olan Allah'ım. Benden) bu sıkıntıyı gider, (yegâne) şifa verici sensin. Senin şifandan başka şifa yoktur. (Bana) hiç hastalık bırakmayacak bir şifa ver\" diyerek dua etmen sana yeter. Bu hadis ayrıca Buhari, merda; Müslim, selam; Tirmizî, da'avât; İbn Mace, cenaiz, tıb; Ahmed b. Hanbel, IV, 259, VI, 44, 45, 50, 108, 109, 114, 120, 125, 126, 127, 131, 208, 261, 278, 280. de tahric edildi. İzah; 3984 te"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 29,
+        "hadith": 29
+      },
+      "narrator": {
+        "en": "Abdullah ibn Mas'ud"
+      }
+    },
+    {
+      "hadithNumber": 3884,
+      "arabicNumber": 3884,
+      "book": 29,
+      "hadithInBook": 30,
+      "text": {
+        "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ دَاوُدَ، عَنْ مَالِكِ بْنِ مِغْوَلٍ، عَنْ حُصَيْنٍ، عَنِ الشَّعْبِيِّ، عَنْ عِمْرَانَ بْنِ حُصَيْنٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ لاَ رُقْيَةَ إِلاَّ مِنْ عَيْنٍ أَوْ حُمَةٍ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Narrated Imran ibn Husayn: The Prophet (ﷺ) said: No spell is to be used except for the evil eye or a scorpion sting",
+          "ur": "عمران بن حصین رضی اللہ عنہما سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: جھاڑ پھونک، نظر بد یا زہریلے ڈنک کے علاوہ کسی اور چیز کے لیے نہیں ۔",
+          "fr": "Rapporté par Imran ibn Husayn رضي الله عنه : Le Prophète ﷺ a dit : « On ne doit utiliser d’incantation que pour le mauvais œil ou une piqûre de scorpion. »",
+          "id": "Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Abdullah bin Daud] dari [Malik bin Mighwal] dari [Hushain] dari [Asy Sya'bi] dari [Imran bin Hushain] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: \"Tidak ada jampi kecuali karena 'ain (pengaruh mata orang yang dengki), atau dari racun",
+          "tr": "İmrân b. Husayn'dan rivayet olunduğuna göre Peygamber (s.a.v.): \"Okuyarak tedavi etme usulü (nün) göz değmesinden ve zehirli böceklerin sokmasından başka (hiçbir hastalıkta bu iki hastalık kadar olumlu tesiri) yoktur\" buyurmuştur"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 29,
+        "hadith": 30
+      },
+      "narrator": {
+        "en": "Imran ibn Husayn"
+      }
+    },
+    {
+      "hadithNumber": 3885,
+      "arabicNumber": 3885,
+      "book": 29,
+      "hadithInBook": 31,
+      "text": {
+        "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ صَالِحٍ، وَابْنُ السَّرْحِ، - قَالَ أَحْمَدُ حَدَّثَنَا ابْنُ وَهْبٍ، وَقَالَ ابْنُ السَّرْحِ، - أَخْبَرَنَا ابْنُ وَهْبٍ، حَدَّثَنَا دَاوُدُ بْنُ عَبْدِ الرَّحْمَنِ، عَنْ عَمْرِو بْنِ يَحْيَى، عَنْ يُوسُفَ بْنِ مُحَمَّدٍ، - وَقَالَ ابْنُ صَالِحٍ مُحَمَّدِ بْنِ يُوسُفَ بْنِ ثَابِتِ بْنِ قَيْسِ بْنِ شَمَّاسٍ - عَنْ أَبِيهِ، عَنْ جَدِّهِ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم أَنَّهُ دَخَلَ عَلَى ثَابِتِ بْنِ قَيْسٍ - قَالَ أَحْمَدُ - وَهُوَ مَرِيضٌ فَقَالَ ‏ \"‏ اكْشِفِ الْبَاسَ رَبَّ النَّاسِ ‏\"‏ ‏.‏ عَنْ ثَابِتِ بْنِ قَيْسٍ ثُمَّ أَخَذَ تُرَابًا مِنْ بَطْحَانَ فَجَعَلَهُ فِي قَدَحٍ ثُمَّ نَفَثَ عَلَيْهِ بِمَاءٍ وَصَبَّهُ عَلَيْهِ ‏.‏ قَالَ أَبُو دَاوُدَ قَالَ ابْنُ السَّرْحِ يُوسُفُ بْنُ مُحَمَّدٍ وَهُوَ الصَّوَابُ ‏.‏",
+        "translations": {
+          "en": "Narrated Thabit ibn Qays ibn Shammas: The Messenger of Allah (ﷺ) entered upon Thabit ibn Qays. The version of Ahmad (ibn Salih) has: When he was ill He (the Prophet) said: Remove the harm, O Lord of men, from Thabit ibn Qays ibn Shammas. He then took some dust of Bathan, and put it in a bowel, and then mixed it with water and blew in it, and poured it on him. Abu Dawud said: Ibn al-Sarh said: Yusuf bin Muhammad is correct (and not Muhammad bin Yusuf)",
+          "ur": "ثابت بن قیس رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم ان کے پاس تشریف لائے، وہ بیمار تھے تو آپ نے فرمایا: «اكشف الباس رب الناس ‏ ‏ ‏.‏ عن ثابت بن قيس» لوگوں کے رب! اس بیماری کو ثابت بن قیس سے دور فرما دے پھر آپ نے وادی بطحان کی تھوڑی سی مٹی لی اور اسے ایک پیالہ میں رکھا پھر اس میں تھوڑا سا پانی ڈال کر اس پر دم کیا اور اسے ان پر ڈال دیا۔ ابوداؤد کہتے ہیں: ابن سرح کی روایت میں یوسف بن محمد ہے اور یہی صحیح ہے۔",
+          "fr": "Rapporté par Thabit ibn Qays ibn Shammas رضي الله عنه : Le Messager d’Allah ﷺ est entré auprès de Thabit ibn Qays. Dans la version d’Ahmad ibn Salih : alors qu’il était malade, le Prophète ﷺ a dit : « Ô Seigneur des hommes, enlève le mal de Thabit ibn Qays ibn Shammas. » Il a ensuite pris un peu de poussière de Bathan, l’a mise dans un bol, l’a mélangée avec de l’eau, a soufflé dedans, puis l’a versée sur lui. Abu Dawud a dit : Ibn al-Sarh a dit : Yusuf bin Muhammad est correct (et non Muhammad bin Yusuf)",
+          "id": "Telah menceritakan kepada kami [Ahmad bin Shalih] dan [Ibnu As Sarh] [Ahmad] berkata; telah menceritakan kepada kami [Ibnu Wahb] dan [Ibnu As Sarh] berkata; telah mengabarkan kepada kami [Ibnu Wahb] telah menceritakan kepada kami [Daud bin Abdurrahman] dari ['Amru bin Yahya] dari [Yusuf bin Muhammad] -Ibnu Shalih Muhammad bin Yusuf bin Tsabit bin Qais bin Syammas berkata- dari [Ayahnya] dari [Kakeknya] dari Rasulullah shallallahu 'alaihi wasallam, bahwa beliau pernah menemui Tsabit bin Qais -Ahmad berkata; saat ia sedang sakit-, lalu beliau mengucapkan: 'IKSYIFIL BA`SA RABBAN NAASI (Hilangkan penyakit wahai Tuhan manusia!) '. Dari Tsabit bin Qais bin Syammas, \"Kemudian beliau mengambil tanah dari Bathhan dan memasukkannya ke dalam sebuah gelas, beliau kemudian menyemburkan air ke dalamnya, lalu menuangkannya kepadanya.\" Abu Daud berkata; Ibnu As As Sarh berkata, \"Yang benar adalah Yusuf bin Muhammad",
+          "tr": "Sabit b. Kays'dan rivayet olunduğuna göre; Rasûlullah (s.a.v.) bir gün kendisinin yanına girmiş. -Ahmed (b. Salih, o sırada) Sâbit'in hasta olduğunu söylüyor- Ve (Hz. Nebi): \"Ey insanların Rabbi, (bu hastalığı) Sabit b. Kays b. Şemmâs'dan gider\" diye dua etmiş. Sonra (Medine'deki) Bathâ (denilen vadi)den toprak alıp onu bir bardağa koymuş, sonra (o toprağın) üzerine (birazcık) su ile birlikte üflemiş ve bu (suyla karışık) toprağı Sâbit'in üzerine dökmüş. Ebû Dâvûd dedi ki: (Hadisin senedinde bulunan) İbn es-Serh (den maksad), Yusuf b. Muhammed'dir. Doğrusu budur"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 29,
+        "hadith": 31
+      },
+      "narrator": {
+        "en": "Thabit ibn Qays ibn Shammas"
+      }
+    },
+    {
+      "hadithNumber": 3886,
+      "arabicNumber": 3886,
+      "book": 29,
+      "hadithInBook": 32,
+      "text": {
+        "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ صَالِحٍ، حَدَّثَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي مُعَاوِيَةُ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ جُبَيْرٍ، عَنْ أَبِيهِ، عَنْ عَوْفِ بْنِ مَالِكٍ، قَالَ كُنَّا نَرْقِي فِي الْجَاهِلِيَّةِ فَقُلْنَا يَا رَسُولَ اللَّهِ كَيْفَ تَرَى فِي ذَلِكَ فَقَالَ ‏ \"‏ اعْرِضُوا عَلَىَّ رُقَاكُمْ لاَ بَأْسَ بِالرُّقَى مَا لَمْ تَكُنْ شِرْكًا ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "‘Awf b. Malik said :In the pre-Islamic period we used to apply spells and we asked: Messenger of Allah ! how do you look upon it ? He replied : Submit your spells to me. There is no harm in spells so long as they involve no polytheism",
+          "ur": "عوف بن مالک رضی اللہ عنہ کہتے ہیں ہم جاہلیت میں جھاڑ پھونک کرتے تھے تو ہم نے رسول اللہ صلی اللہ علیہ وسلم سے عرض کیا: اللہ کے رسول! آپ اسے کیسا سمجھتے ہیں؟ آپ صلی اللہ علیہ وسلم نے فرمایا: تم اپنا منتر میرے اوپر پیش کرو جھاڑ پھونک میں کوئی حرج نہیں بشرطیکہ وہ شرک نہ ہو ۔",
+          "fr": "Rapporté par ‘Awf ibn Malik رضي الله عنه : À l’époque préislamique, nous utilisions des incantations et nous avons demandé : « Ô Messager d’Allah, qu’en penses-tu ? » Il a répondu : « Montrez-moi vos incantations. Il n’y a pas de mal à les utiliser tant qu’elles ne comportent pas de polythéisme. »",
+          "id": "Telah menceritakan kepada kami [Ahmad bin Shalih] telah menceritakan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Mu'awiyah] dari [Abdurrahman bin Jubair] dari [Ayahnya] dari ['Auf bin Malik] ia berkata, \"Pada masa jahiliyah aku pernah melakukan penjampian, lalu aku berkata, \"Wahai Rasulullah, bagaimana pendapat anda mengenai hal tersebut?\" Beliau menjawab: \"Perlihatkan jampi kalian kepadaku! Tidak mengapa dengan jampi selama bukan perbuatan syirik",
+          "tr": "Avf b. Mâlik'den rivayet olunmuştur; dedi ki: Biz cahiliye döneminde okuyup üfleyerek hastaları tedavi ederdik. (Bir gün); Ey Allah'ın Rasûlü, bu hususta ne buyurursun? dedik. \"Bana (yaptığınız bu tedavi şeklini) gösteriniz. İçerisinde şirk olmadıkça, okuyup üfleyerek tedavi etmede bir sakınca yoktur” buyurdu. Bu hadis Müslim, selâm da da tahric edildi"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim (2200)"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 29,
+        "hadith": 32
+      }
+    },
+    {
+      "hadithNumber": 3887,
+      "arabicNumber": 3887,
+      "book": 29,
+      "hadithInBook": 33,
+      "text": {
+        "arabic": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ مَهْدِيٍّ الْمِصِّيصِيُّ، حَدَّثَنَا عَلِيُّ بْنُ مُسْهِرٍ، عَنْ عَبْدِ الْعَزِيزِ بْنِ عُمَرَ بْنِ عَبْدِ الْعَزِيزِ، عَنْ صَالِحِ بْنِ كَيْسَانَ، عَنْ أَبِي بَكْرِ بْنِ سُلَيْمَانَ بْنِ أَبِي حَثْمَةَ، عَنِ الشِّفَاءِ بِنْتِ عَبْدِ اللَّهِ، قَالَتْ دَخَلَ عَلَىَّ رَسُولُ اللَّهِ صلى الله عليه وسلم وَأَنَا عِنْدَ حَفْصَةَ فَقَالَ لِي ‏ \"‏ أَلاَ تُعَلِّمِينَ هَذِهِ رُقْيَةَ النَّمْلَةِ كَمَا عَلَّمْتِيهَا الْكِتَابَةَ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Narrated Ash-Shifa', daughter of Abdullah,: The Messenger of Allah (ﷺ) entered when I was with Hafsah, and he said to me: Why do you not teach this one the spell for skin eruptions as you taught her writing",
+          "ur": "شفاء بنت عبداللہ رضی اللہ عنہا کہتی ہیں کہ رسول اللہ صلی اللہ علیہ وسلم میرے پاس تشریف لائے، میں ام المؤمنین حفصہ رضی اللہ عنہا کے پاس تھی، تو آپ صلی اللہ علیہ وسلم نے مجھ سے فرمایا: «نملہ» ۱؎ کا منتر اس کو کیوں نہیں سکھا دیتی جیسے تم نے اس کو لکھنا سکھایا ہے ۔",
+          "fr": "Rapporté par Ash-Shifa’, fille de Abdullah رضي الله عنها : Le Messager d’Allah ﷺ est entré alors que j’étais avec Hafsah, et il m’a dit : « Pourquoi n’enseignes-tu pas à celle-ci l’incantation contre les éruptions cutanées, comme tu lui as appris à écrire ? »",
+          "id": "Telah menceritakan kepada kami [Ibrahim bin Mahdi Al Mishshi] telah menceritakan kepada kami [Ali bin Mushir] dan [Abdul Aziz bin Umar bin Abdul Aziz] dari [Shalih bin Kaisan] dari [Abu Bakr bin Sulaiman bin Abu Hatsmah] dari [Asy Syifa` binti Abdullah] ia berkata, \"Rasulullah shallallahu 'alaihi wasallam pernah menemuiku, sementara aku sedang berada di rumah Hafshah. Lalu beliau berkata kepadaku: \"Tidakkah engkau ajari dia jampi namlah sebagaimana engkau mengajarinya menulis?",
+          "tr": "Şifâ binti Abdullah'dan rivayet olunmuştur; dedi ki: (Bir gün) ben Hafsa'nın yanında iken Rasûlullah (s.a.v.) yanıma geldi ve bana: \"Şu Hafsa'ya yazı yazmayı öğrettiğin gibi (insanın böğürlerinde çıkan) karınca (şeklindeki yaraların) duasını da öğretsen ya\" buyurdu. Bu hadis Ahmed b. Hanbel, IV, 372. dede tahric edildi"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 29,
+        "hadith": 33
+      },
+      "narrator": {
+        "en": "Ash-Shifa', daughter of Abdullah,"
+      }
+    },
+    {
+      "hadithNumber": 3888,
+      "arabicNumber": 3888,
+      "book": 29,
+      "hadithInBook": 34,
+      "text": {
+        "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا عَبْدُ الْوَاحِدِ بْنُ زِيَادٍ، حَدَّثَنَا عُثْمَانُ بْنُ حَكِيمٍ، حَدَّثَتْنِي جَدَّتِي الرَّبَابُ، قَالَتْ سَمِعْتُ سَهْلَ بْنَ حُنَيْفٍ، يَقُولُ مَرَرْنَا بِسَيْلٍ فَدَخَلْتُ فَاغْتَسَلْتُ فِيهِ فَخَرَجْتُ مَحْمُومًا فَنُمِيَ ذَلِكَ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَ ‏\"‏ مُرُوا أَبَا ثَابِتٍ يَتَعَوَّذْ ‏\"‏ ‏.‏ قَالَتْ فَقُلْتُ يَا سَيِّدِي وَالرُّقَى صَالِحَةٌ فَقَالَ ‏\"‏ لاَ رُقْيَةَ إِلاَّ فِي نَفْسٍ أَوْ حُمَةٍ أَوْ لَدْغَةٍ ‏\"‏ ‏.‏ قَالَ أَبُو دَاوُدَ الْحُمَةُ مِنَ الْحَيَّاتِ وَمَا يَلْسَعُ ‏.‏",
+        "translations": {
+          "en": "Narrated Sahl ibn Hunayf: I passed by a river. I entered it and took a bath in it. When I came out, I had fever. The Messenger of Allah (ﷺ) was informed about it. He said: Ask AbuThabit to seek refuge in Allah from that I asked: O my Lord, will the spell be useful? He replied: No, the spell is to be used except for the evil eye or a snake bite or a scorpion sting. Abu Dawud said: Humah means the biting of snakes and sting of the poisonous insects",
+          "ur": "سہل بن حنیف رضی اللہ عنہ کہتے ہیں کہ ہم ایک ندی پر سے گزرے تو میں نے اس میں غسل کیا، اور بخار لے کر باہر نکلا، اس کی خبر رسول اللہ صلی اللہ علیہ وسلم کو پہنچی تو آپ نے فرمایا: ابوثابت کو شیطان سے پناہ مانگنے کے لیے کہو ۔ عثمان کی دادی کہتی ہیں کہ میں نے عرض کیا: میرے آقا! جھاڑ پھونک بھی تو مفید ہے، اس پر آپ صلی اللہ علیہ وسلم نے فرمایا: جھاڑ پھونک تو صرف نظر بد کے لیے یا سانپ کے ڈسنے یا بچھو کے ڈنک مارنے کے لیے ہے ( ان کے علاوہ جو بیماریاں ہیں ان میں دوا یا دعا کام آتی ہے ) ۔ ابوداؤد کہتے ہیں:«حمہ» سانپ کے ڈسنے کو کہتے ہیں۔",
+          "fr": "Rapporté par Sahl ibn Hunayf رضي الله عنه : Je suis passé près d’une rivière, j’y suis entré et je m’y suis baigné. En sortant, j’ai eu de la fièvre. On en a informé le Messager d’Allah ﷺ. Il a dit : « Demandez à Abu Thabit de demander la protection d’Allah contre cela. » J’ai demandé : « Ô mon Seigneur, l’incantation est-elle utile ? » Il a répondu : « Non, l’incantation ne doit être utilisée que pour le mauvais œil, une morsure de serpent ou une piqûre de scorpion. » Abu Dawud a précisé : “Humah” signifie la morsure de serpent ou la piqûre d’insectes venimeux",
+          "id": "Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Abdul Wahid bin Ziyad] telah menceritakan kepada kami [Utsman bin Hakim] telah menceritakan kepadaku [Nenekku] ia berkata; Aku pernah mendengar [Sahl bin Hunaif] berkata, \"Kami pernah melewati sebuah air yang mengalir (banjir), kemudian aku mencebur dan mandi di dalamnya, setelah itu aku keluar dan dalam keadaan terserang demam. Hal itu lalu sampai kepada Rasulullah shallallahu 'alaihi wasallam hingga beliau pun bersabda: \"Perintahkan Abu Tsabit agar membaca ta'awwudz!\" Nenekku berkata, \"Lalu aku katakan, \"Wahai tuanku, apakah jampi diperbolehkan?\" Beliau bersabda: \"Tidak ada jampi kecuali karena pengaruh perbuatan dengki, atau racun, atau sengatan hewan.\" Abu Daud berkata, \"(Yaitu) racun ular dan apa yang menyengat",
+          "tr": "Sehl b. Huneyf şöyle demiştir: Biz (yolculuğumuzda) bir akarsuya rastlamıştık. Ben (bu suya) girip içerisinde yıkandım. (Fakat sudan) rahatsızlanarak çıktım. Bir tedavi çaresi bulma ümidiyle, durum Rasûlullah (s.a.v.)'e bildirildi. (Hz. Nebi beni kastederek): \"Ebû Sâbit'e söyleyin, (kendisine isabet eden bu göz değmesin­den okunarak Allah'a) sığınsın\" buyurdu. Bunun üzerine ben; Ey efendim, okunarak tedavi olmak caiz midir? diye sordum. \"Okuyup üfleyerek tedavi etme (nin); göz değmesinin, (zehirli böceklerin sokması neticesinde meydana gelen) zehirlenmenin, -ya da zehirli böcek sokmasının- dışında (o kadar tesiri) yoktur\" buyurdu. Ebû Dövûd dedi ki: Hume; yılanın ve (diğer) sokucu böceklerin sokmasından meydana gelen zehirlenmedir. Bu hadis Ahmed b. Hanbel, III, 486. dada tahric edildi"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 29,
+        "hadith": 34
+      },
+      "narrator": {
+        "en": "Sahl ibn Hunayf"
+      }
+    },
+    {
+      "hadithNumber": 3889,
+      "arabicNumber": 3889,
+      "book": 29,
+      "hadithInBook": 35,
+      "text": {
+        "arabic": "حَدَّثَنَا سُلَيْمَانُ بْنُ دَاوُدَ، حَدَّثَنَا شَرِيكٌ، ح وَحَدَّثَنَا الْعَبَّاسُ الْعَنْبَرِيُّ، حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، أَخْبَرَنَا شَرِيكٌ، عَنِ الْعَبَّاسِ بْنِ ذَرِيحٍ، عَنِ الشَّعْبِيِّ، - قَالَ الْعَبَّاسُ - عَنْ أَنَسٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ لاَ رُقْيَةَ إِلاَّ مِنْ عَيْنٍ أَوْ حُمَةٍ أَوْ دَمٍ يَرْقَأُ ‏\"‏ ‏.‏ لَمْ يَذْكُرِ الْعَبَّاسُ الْعَيْنَ وَهَذَا لَفْظُ سُلَيْمَانَ بْنِ دَاوُدَ ‏.‏",
+        "translations": {
+          "en": "Anas reported the Prophet (ﷺ) as saying :No spell is to be used except for the evil eye, or sting of poisonous insects, or bleeding. The narrator al-‘Abhas did mention the words “evil eye”. The is the version of Sulaiman b. Dawud",
+          "ur": "انس رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: جھاڑ پھونک صرف نظر بد کے لیے یا زہریلے جانوروں کے کاٹنے کے لیے یا ایسے خون کے لیے ہے جو تھمتا نہ ہو ۔ عباس نے نظر بد کا ذکر نہیں کیا ہے یہ سلیمان بن داود کے الفاظ ہیں۔",
+          "fr": "Rapporté par Anas رضي الله عنه : Le Prophète ﷺ a dit : « On ne doit utiliser d’incantation que pour le mauvais œil, une piqûre d’insecte venimeux ou un saignement. » Le narrateur al-‘Abhas a bien mentionné les mots “mauvais œil”. Ceci est la version de Sulaiman ibn Dawud",
+          "id": "Telah menceritakan kepada kami [Sulaiman bin Daud] telah menceritakan kepada kami [Syarik]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Al 'Abbas Al 'Anbari] telah menceritakan kepada kami [Yazid bin Harun] telah mengabarkan kepada kami [Syarik] dari [Al 'Abbas bin Dzarih] dari [Asy Sya'bi] [Al 'Abbas] menyebutkan dari [Anas] ia berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Tidak ada jampi kecuali karena 'ain (pengaruh mata orang yang dengki), atau racun, atau darah yang terhenti.\" Al 'Abbas tidak menyebutkan 'ain, dan ini adalah lafazh Sulaiman bin Daud",
+          "tr": "Enes (r.a)'den rivayet olunduğuna göre; Rasûlullah (s.a.v.) şöyle buyurmuştur: \"Okuyup üflemekle tedavi etme (nin), göz değmesinin, (zehirli böceklerin sokmasıyla meydana gelen) zehirlenmenin ve kanamanın dışında (bu hastalıklardaki kadar tesiri) yoktur. (Okuyup üfleme kanamayı) keser.\" (Ebû Dâvûd dedi ki: Bu hadisi bana rivayet eden iki raviden biri olan) el-Abbas, (metinde geçen) göz değmesini rivayet etmedi. (Benim naklettiğim) bu (hadisteki sözler) Süleyman b. Davud'un (bana riva­yet ettiği hadisin sözleridir)"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 29,
+        "hadith": 35
+      }
+    },
+    {
+      "hadithNumber": 3890,
+      "arabicNumber": 3890,
+      "book": 29,
+      "hadithInBook": 36,
+      "text": {
+        "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا عَبْدُ الْوَارِثِ، عَنْ عَبْدِ الْعَزِيزِ بْنِ صُهَيْبٍ، قَالَ قَالَ أَنَسٌ - يَعْنِي - لِثَابِتٍ أَلاَ أَرْقِيكَ بِرُقْيَةِ رَسُولِ اللَّهِ قَالَ بَلَى ‏.‏ قَالَ فَقَالَ ‏ \"‏ اللَّهُمَّ رَبَّ النَّاسِ مُذْهِبَ الْبَاسِ اشْفِ أَنْتَ الشَّافِي لاَ شَافِيَ إِلاَّ أَنْتَ اشْفِهِ شِفَاءً لاَ يُغَادِرُ سَقَمًا ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Anas said to Thabit :Should I not use the spell of the Messenger of Allah (ﷺ) for you ? He said : Yes. He then said : O Allah, Lord of men, Remover of the harm, heal, Thou art the healer. There is no healer but Thou; given him a remedy which leaves no disease behind",
+          "ur": "عبدالعزیز بن صہیب کہتے ہیں کہ انس رضی اللہ عنہ نے ثابت سے کہا: کیا میں تم پر دم نہ کروں جو رسول اللہ صلی اللہ علیہ وسلم کیا کرتے تھے؟ انہوں نے کہا: کیوں نہیں ضرور کیجئے، تو انس رضی اللہ عنہ نے کہا: «اللهم رب الناس مذهب الباس اشف أنت الشافي لا شافي إلا أنت اشفه شفاء لا يغادر سقما» اے اللہ! لوگوں کے رب! بیماری کو دور فرمانے والے شفاء دے تو ہی شفاء دینے والا ہے نہیں کوئی شفاء دینے والا سوائے تیرے تو اسے ایسی شفاء دے جو بیماری کو باقی نہ رہنے دے ۔",
+          "fr": "Anas رضي الله عنه dit à Thabit رضي الله عنه : « Veux-tu que je récite pour toi l’incantation du Messager d’Allah ﷺ ? » Il répondit : « Oui. » Il dit alors : « Ô Allah, Seigneur des hommes, Toi qui enlèves le mal, guéris, Tu es le Guérisseur. Il n’y a de guérisseur que Toi ; accorde-lui un remède qui ne laisse aucune maladie. »",
+          "id": "Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Abdul Warits] dari [Abdul Aziz bin Shuhaib] ia berkata, \" [Anas] berkata kepada Tsabit, \"Maukah aku jampi engkau dengan jampi yang dilakukan Rasulullah shallallahu 'alaihi wasallam?\" Tsabit menjawab, \"Ya.\" Anas lalu mengucapkan, \"ALLAAHUMMA RABBAN NAASI, MUDZHIBIL BA`SI ISYFI ANTA ASY SYAAFII LAA SYAAFIYA ILLAA ANTA ISYFIHI SYIFAA AN LAA YUGHAADIRU SAQAMAN (Ya Allah, Tuhan manusia, Penghilang penyakit, sembuhkanlah. Engkau adalah Pemberi kesembuhan, tidak ada yang dapat menyembuhkan kecuali Engkau. Sembuhkanlah dia dengan kesembuhan yang tidak meninggalkan efek sakit)",
+          "tr": "Abdülaziz b. Suheyb (r.a)'den rivayet olunduğuna göre; Enes, Sabit (el-Bünânî)ye: \"Seni Rasûlullah (s.a.v.)'in duası ile tedavi edeyim mi?\" demiş. O da \"Evet\" demiş. Bunun üzerine (Enes): \"Ey insanların Rabbi ve sıkıntıların gidericisi olan Allah'ım. Sen den başka bir şifa verici yoktur. Buna hiç hastalık bırakmayan bir şifa ver\" diyerek dua etmiş"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (5742)"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 29,
+        "hadith": 36
+      }
+    },
+    {
+      "hadithNumber": 3891,
+      "arabicNumber": 3891,
+      "book": 29,
+      "hadithInBook": 37,
+      "text": {
+        "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ الْقَعْنَبِيُّ، عَنْ مَالِكٍ، عَنْ يَزِيدَ بْنِ خُصَيْفَةَ، أَنَّ عَمْرَو بْنَ عَبْدِ اللَّهِ بْنِ كَعْبٍ السُّلَمِيَّ، أَخْبَرَهُ أَنَّ نَافِعَ بْنَ جُبَيْرٍ أَخْبَرَهُ عَنْ عُثْمَانَ بْنِ أَبِي الْعَاصِ، أَنَّهُ أَتَى النَّبِيَّ صلى الله عليه وسلم قَالَ عُثْمَانُ وَبِي وَجَعٌ قَدْ كَادَ يُهْلِكُنِي قَالَ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ امْسَحْهُ بِيَمِينِكَ سَبْعَ مَرَّاتٍ وَقُلْ أَعُوذُ بِعِزَّةِ اللَّهِ وَقُدْرَتِهِ مِنْ شَرِّ مَا أَجِدُ ‏\"‏ ‏.‏ قَالَ فَفَعَلْتُ ذَلِكَ فَأَذْهَبَ اللَّهُ عَزَّ وَجَلَّ مَا كَانَ بِي فَلَمْ أَزَلْ آمُرُ بِهِ أَهْلِي وَغَيْرَهُمْ ‏.‏",
+        "translations": {
+          "en": "‘Uthman b. Abl al-As said that he came to the Messenger of Allah (ﷺ). ‘Uthman said :I had a pain which was about to destroy me. So the Prophet (ﷺ) said : Wipe it with your right hand seven times and say : “I seek refuge in the dominance of Allah, and His might from the evil of what I find.” Then I did it. Allah removed (the pain) that I had, and I kept on suggesting it to my family and to others",
+          "ur": "عثمان رضی اللہ عنہ کہتے ہیں کہ وہ نبی اکرم صلی اللہ علیہ وسلم کے پاس آئے، عثمان کہتے ہیں: اس وقت مجھے ایسا درد ہو رہا تھا کہ لگتا تھا کہ وہ مجھے ہلاک کر دے گا، تو رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: اپنا داہنا ہاتھ اس پر سات مرتبہ پھیرو اور کہو: «أعوذ بعزة الله وقدرته من شر ما أجد» میں اللہ کی عزت اور اس کی قدرت کی پناہ چاہتا ہوں اس چیز کی برائی سے جو میں پاتا ہوں ۔ میں نے اسے کیا تو اللہ تعالیٰ نے مجھے جو تکلیف تھی وہ دور فرما دی اس وقت سے میں برابر اپنے گھر والوں کو اور دوسروں کو اس کا حکم دیا کرتا ہوں۔",
+          "fr": "Rapporté par ‘Uthman ibn Abi al-‘As رضي الله عنه : Il est venu voir le Messager d’Allah ﷺ et a dit : « J’avais une douleur qui était sur le point de me détruire. » Le Prophète ﷺ a dit : « Passe ta main droite sur l’endroit sept fois et dis : “Je cherche refuge dans la puissance d’Allah et Sa force contre le mal que je ressens.” » Je l’ai fait, et Allah a fait disparaître la douleur que j’avais. J’ai continué à conseiller cela à ma famille et à d’autres",
+          "id": "Telah menceritakan kepada kami [Abdullah Al Qa'nabi] dari [Malik] dari [Yazid bin Khushaifah] bahwa ['Amru bin Abdullah bin Ka'b As Sulami] telah mengabarkan kepadanya, bahwa [Nafi' bin Jubair] mengabarkan kepadanya dari [Utsman bin Abu Al 'Ash] bahwa ia telah datang kepada Nabi shallallahu 'alaihi wasallam -Utsman berkata; sementara aku sedang sakit yang hampir membinasakanku- Utsman berkata, \"Kemudian Rasulullah shallallahu 'alaihi wasallam bersabda: \"Usaplah menggunakan tangan kananmu sebanyak tujuh kali, lalu ucapkanlah: A'UUDZU BI'IZZATILLAAHI WA QUDRATIHI MIN SYARRI MAA AJIDU (aku berlindung kepada kemuliaan Allah dan kemampuan-Nya dari keburukan yang aku temui) '.\" Utsman berkata, \"Lalu aku melakukan hal tersebut, maka Allah 'azza wajalla menghilangkan apa yang ada padaku, dan aku selalu memerintahkan keluargaku dan yang lainnya untuk mengucapkannya",
+          "tr": "Osman b. Ebi'l-Âs(r.a)'dan rivayet edildiğine göre; Kendisi (bir gün rahatsızlığından dolayı) Rasûlullah (s.a.v.)'in yanına varmış. Osman (başından geçen hâdiseyi anlatırken şöyle) dedi: Bende bir ağrı vardı, neredeyse canımı alacaktı, Nebi (s.a.v.): \"Bu ağrıyan yeri sağ (el)inle yedi defa ov (ve her defasında): 'Duyduğum ağrının şerrinden Allah'ın izzet ve kudretine sığınırım' diye dua et\" buyurdu. Ben bunu yaptım, Aziz ve Celîl olan Allah bendeki olan (bu ağrıy)ı giderdi. (O günden beri) aileme ve başkalarına sürekli bunu tavsiye ediyorum"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 29,
+        "hadith": 37
+      }
+    },
+    {
+      "hadithNumber": 3892,
+      "arabicNumber": 3892,
+      "book": 29,
+      "hadithInBook": 38,
+      "text": {
+        "arabic": "حَدَّثَنَا يَزِيدُ بْنُ خَالِدِ بْنِ مَوْهَبٍ الرَّمْلِيُّ، حَدَّثَنَا اللَّيْثُ، عَنْ زِيَادِ بْنِ مُحَمَّدٍ، عَنْ مُحَمَّدِ بْنِ كَعْبٍ الْقُرَظِيِّ، عَنْ فَضَالَةَ بْنِ عُبَيْدٍ، عَنْ أَبِي الدَّرْدَاءِ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏ \"‏ مَنِ اشْتَكَى مِنْكُمْ شَيْئًا أَوِ اشْتَكَاهُ أَخٌ لَهُ فَلْيَقُلْ رَبُّنَا اللَّهُ الَّذِي فِي السَّمَاءِ تَقَدَّسَ اسْمُكَ أَمْرُكَ فِي السَّمَاءِ وَالأَرْضِ كَمَا رَحْمَتُكَ فِي السَّمَاءِ فَاجْعَلْ رَحْمَتَكَ فِي الأَرْضِ اغْفِرْ لَنَا حُوبَنَا وَخَطَايَانَا أَنْتَ رَبُّ الطَّيِّبِينَ أَنْزِلْ رَحْمَةً مِنْ رَحْمَتِكَ وَشِفَاءً مِنْ شِفَائِكَ عَلَى هَذَا الْوَجَعِ فَيَبْرَأُ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Narrated AbudDarda': I heard the Messenger of Allah (ﷺ) say: If any of you is suffering from anything or his brother is suffering, he should say: Our Lord is Allah Who is in the heaven, holy is Thy name, Thy command reigns supreme in the heaven and the earth, as Thy mercy in the heaven, make Thy mercy in the earth; forgive us our sins, and our errors; Thou art the Lord of good men; send down mercy from Thy mercy, and remedy, and remedy from Thy remedy on this pain so that it is healed up",
+          "ur": "ابو الدرداء رضی اللہ عنہ کہتے ہیں کہ میں نے رسول اللہ صلی اللہ علیہ وسلم کو فرماتے ہوئے سنا: تم میں سے جو بیمار ہو یا جس کا کوئی بھائی بیمار ہو تو چاہیئے کہ وہ کہے: «ربنا الله الذي في السماء تقدس اسمك أمرك في السماء والأرض كما رحمتك في السماء فاجعل رحمتك في الأرض اغفر لنا حوبنا وخطايانا أنت رب الطيبين أنزل رحمة من رحمتك وشفاء من شفائك على هذا الوجع» ‏‏‏‏ ہمارے رب! جو آسمان کے اوپر ہے تیرا نام پاک ہے، تیرا ہی اختیار ہے آسمان اور زمین میں، جیسی تیری رحمت آسمان میں ہے ویسی ہی رحمت زمین پر بھی نازل فرما، ہمارے گناہوں اور خطاؤں کو بخش دے، تو ( رب پروردگار ) ہے پاک اور اچھے لوگوں کا، اپنی رحمتوں میں سے ایک رحمت اور اپنی شفاء میں سے ایک شفاء اس درد پر بھی نازل فرما تو وہ صحت یاب ہو جائے گا ۔",
+          "fr": "Rapporté par AbudDarda’ رضي الله عنه : J’ai entendu le Messager d’Allah ﷺ dire : « Si l’un de vous souffre de quelque chose, ou si son frère souffre, qu’il dise : “Notre Seigneur est Allah qui est dans le ciel, que Ton nom soit sanctifié, Ton ordre domine dans le ciel et sur la terre. Comme Ta miséricorde est dans le ciel, fais que Ta miséricorde soit sur la terre ; pardonne-nous nos péchés et nos erreurs. Tu es le Seigneur des gens de bien. Fais descendre une miséricorde de Ta miséricorde et un remède de Ton remède sur cette douleur pour qu’elle guérisse.” »",
+          "id": "Telah menceritakan kepada kami [Yazid bin Khalid bin Mauhib Ar Ramli] telah menceritakan kepada kami [Al Laits] dari [Ziyadah bin Muhammad] dari [Muhammad bin Ka'b Al Qurazhi] dari [Fadlalah bin 'Ubaid] dari [Abu Darda] ia berkata, \"Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: \"Barangsiapa di antara kalian mengeluhkan sesuatu atau saudaranya mengeluhkannya, maka hendaknya ia mengucapkan: RABBANALLAAHULLADZII FIS SAMAA`I TAQADDASA ISMUKA AMRUKA FIS SAMAA`I WAL ARDLI KAMAA RAHMATUKA FIS SAMAA`I, FAJ'AL RAHMATAKA FIL ARDLI, IGHFIR LANAA HUUBANAA WA KHATHAAYAANAA, ANTA RABBUTH THAYYIBIINA, ANZIL RAHMATAN MIN RAHMATIKA WA SYIFAA`AN MIN SYIFAA`IKA 'ALAA HAADZAL WAJA'I (Tuhanku adalah Allah yang berada di langit, Maha Suci nama-Mu, urusan-Mu berada di langit dan bumi. Sebagaimana rahmat-Mu berada di langit, maka jadikanlah rahmat-Mu berada di bumi! Ampunilah dosa dan kesalahan kami! Engkau Tuhan orang-orang yang baik, turunkan rahmat di antara rahmat-Mu, serta kesembuhan di antara kesembuhan-Mu kepada penyakit ini) ' maka ia akan sembuh",
+          "tr": "Ebu'd-Derdâ'dan rivayet olunmuştur; dedi ki: Rasûlullah (s.a.v.)'i şöyle derken işittim: \"Sizden kimin bir tarafı ağınrsa, veya bir (din) kardeşi, ona hastalığından dolayı müracaat edecek olursa; “Ey göklerdeki Rabbimiz, (senin) ismin ve zâtın (noksan sıfatlardan) münezzehtir. Rahmetin gökte (her tarafa şamil) olduğu gibi emrin de hem gökte hem de yerde (hâkim) dir. Rahmetini yere de indir. Bizim (büyük olan günah (lar) ımızı ve hatalarımızı bağışla. Sen temiz kimselerin Rabbisin. Şu ağrıya rahmet (denizinden) bir rahmet, şifa (hazine)nden bir şifa indir' diye dua etsin. (Allah'ın izniyle) ağrıdan kurtulur"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 29,
+        "hadith": 38
+      },
+      "narrator": {
+        "en": "AbudDarda'"
+      }
+    },
+    {
+      "hadithNumber": 3893,
+      "arabicNumber": 3893,
+      "book": 29,
+      "hadithInBook": 39,
+      "text": {
+        "arabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا حَمَّادٌ، عَنْ مُحَمَّدِ بْنِ إِسْحَاقَ، عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ يُعَلِّمُهُمْ مِنَ الْفَزَعِ كَلِمَاتٍ ‏ \"‏ أَعُوذُ بِكَلِمَاتِ اللَّهِ التَّامَّةِ مِنْ غَضَبِهِ وَشَرِّ عِبَادِهِ وَمِنْ هَمَزَاتِ الشَّيَاطِينِ وَأَنْ يَحْضُرُونِ ‏\"‏ ‏.‏ وَكَانَ عَبْدُ اللَّهِ بْنُ عَمْرٍو يُعَلِّمُهُنَّ مَنْ عَقَلَ مِنْ بَنِيهِ وَمَنْ لَمْ يَعْقِلْ كَتَبَهُ فَأَعْلَقَهُ عَلَيْهِ ‏.‏",
+        "translations": {
+          "en": "Narrated Abdullah ibn Amr ibn al-'As: The Messenger of Allah (ﷺ) sued to teach them the following words in the case of alarm: I seek refuge in Allah's perfect words from His anger, the evil of His servants, the evil suggestions of the devils and their presence. Abdullah ibn Amr used to teach them to those of his children who had reached puberty, and he wrote them down (on some material) and hung on the child who had not reached puberty",
+          "ur": "عبداللہ بن عمر رضی اللہ عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم انہیں ( خواب میں ) ڈرنے پر یہ کلمات کہنے کو سکھلاتے تھے:«أعوذ بكلمات الله التامة من غضبه وشر عباده ومن همزات الشياطين وأن يحضرون» میں پناہ مانگتا ہوں اللہ کے پورے کلموں کی اس کے غصہ سے اور اس کے بندوں کے شر سے اور شیاطین کے وسوسوں سے اور ان کے میرے پاس آنے سے ۔ عبداللہ بن عمرو رضی اللہ عنہما اپنے ان بیٹوں کو جو سمجھنے لگتے یہ دعا سکھاتے اور جو نہ سمجھتے تو ان کے گلے میں اسے لکھ کر لٹکا دیتے۔",
+          "fr": "Rapporté par Abdullah ibn Amr ibn al-‘As رضي الله عنه : Le Messager d’Allah ﷺ leur enseignait ces paroles en cas de peur : « Je cherche refuge dans les paroles parfaites d’Allah contre Sa colère, le mal de Ses serviteurs, les mauvaises suggestions des diables et leur présence. » Abdullah ibn Amr les enseignait à ses enfants qui avaient atteint la puberté, et il les écrivait et les accrochait à ceux qui ne l’avaient pas encore atteinte",
+          "id": "Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Hammad] dari [Muhammad bin Ishaq] dari ['Amru bin Syu'aib] dari [Ayahnya] dari [Kakeknya] bahwa Rasulullah shallallahu 'alaihi wasallam pernah mengajari mereka beberapa kalimat karena adanya rasa takut, yaitu: A'UUDZU BIKALIMAATILLAAHIT TAAMMATI MIN GHADLABIHI WA SYARRI 'IBAADIHI WA MIN HAMAZAATISY SYAYAATHIINI WA AN YAHDLURUUNA (Aku berlindung kepada kalimat-kalimat Allah yang sempurna dari kemurkaan-Nya serta kejahatan para hamba-Nya, dan dari bisikan setan serta kedatangan mereka kepadaku) '. Abdullah bin Umar mengajarkan kalimat-kalimat tersebut kepada orang yang telah berakal di antara anak-anaknya serta orang yang belum berakal. Ia menulisnya dan menggantungkannya kepadanya",
+          "tr": "(Şu'ayb b. Abdullah b. Amr b. Âs'ın) dedesinden rivayet olunduğuna göre; Rasûlullah (s.a.v.) kendilerine korkudan (kurtulmaları için şu) sözleri öğretirmiş: \"Allah'ın gazabından, kullarının şerrinden, şeytanların vesveselerinden ve (onların) bana uğramalarından, Allah'ın tam olan kelimelerine sığınırım.\" (Ravi sözlerine devam ederek dedi ki): Abdullah b. Amr (b.Âs), bu sözleri çocuklarından aklı eren kimselere öğretir, aklı ermeyenlere de yazıp üzerine asardı"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 29,
+        "hadith": 39
+      },
+      "narrator": {
+        "en": "Abdullah ibn Amr ibn al-'As"
+      }
+    },
+    {
+      "hadithNumber": 3894,
+      "arabicNumber": 3894,
+      "book": 29,
+      "hadithInBook": 40,
+      "text": {
+        "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ أَبِي سُرَيْجٍ الرَّازِيُّ، أَخْبَرَنَا مَكِّيُّ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا يَزِيدُ بْنُ أَبِي عُبَيْدٍ، قَالَ رَأَيْتُ أَثَرَ ضَرْبَةٍ فِي سَاقِ سَلَمَةَ فَقُلْتُ مَا هَذِهِ قَالَ أَصَابَتْنِي يَوْمَ خَيْبَرَ فَقَالَ النَّاسُ أُصِيبَ سَلَمَةُ فَأُتِيَ بِي رَسُولُ اللَّهِ صلى الله عليه وسلم فَنَفَثَ فِيَّ ثَلاَثَ نَفَثَاتٍ فَمَا اشْتَكَيْتُهَا حَتَّى السَّاعَةِ ‏.‏",
+        "translations": {
+          "en": "Yazid b. Abi ‘Ubaid said :I saw a sign of injury in the shin of Salamah. I asked : What is this ? He replied : I was afflicted. I was afflicted by it on the day of Khaibar. The people said : Salamah has been afflicted. I was then brought to the Prophet (ﷺ). He blew on me three times. I did not feel any pain up till now",
+          "ur": "یزید بن ابی عبید کہتے ہیں کہ میں نے سلمہ رضی اللہ عنہ کی پنڈلی میں چوٹ کا ایک نشان دیکھا تو میں نے پوچھا: یہ کیا ہے؟ انہوں نے کہا: مجھے یہ چوٹ خیبر کے دن لگی تھی، لوگ کہنے لگے تھے: سلمہ رضی اللہ عنہ کو ایسی چوٹ لگی ہے ( اب بچ نہیں سکیں گے ) تو مجھے نبی اکرم صلی اللہ علیہ وسلم کے پاس لایا گیا، آپ نے تین بار مجھ پر دم کیا اس کے بعد سے اب تک مجھے اس میں کوئی تکلیف نہیں محسوس ہوئی۔",
+          "fr": "Rapporté par Yazid ibn Abi ‘Ubaid رضي الله عنه : J’ai vu une cicatrice sur le tibia de Salamah رضي الله عنه. J’ai demandé : « Qu’est-ce que c’est ? » Il a répondu : « J’ai été touché à cause de cela le jour de Khaybar. Les gens ont dit : “Salamah a été touché.” On m’a alors amené au Prophète ﷺ. Il a soufflé sur moi trois fois. Je n’ai plus ressenti de douleur jusqu’à maintenant. »",
+          "id": "Telah menceritakan kepada kami [Ahmad bin Abu Suraih Ar Razi] telah mengabarkan kepada kami [Makki bin Ibrahim] telah menceritakan kepada kami [Yazid bin 'Ubaid] ia berkata, \"Aku melihat pengaruh pukulan pada betis [Salamah], lalu aku katakan, 'Apakah ini? ' Ia menjawab, 'Aku mendapatkan luka ini saat perang Khaibar. ' Kemudian orang-orang berkata, 'Salamah telah terkena musibah'. Kemudian aku dibawa ke hadapkan Rasulullah shallallahu 'alaihi wasallam. Lalu beliau meludah padaku sebanyak tiga kali, kemudian aku tidak mengeluhkannya hingga saat ini",
+          "tr": "Yezid b. Ebî Ubeyd'den rivayet olunmuştur; dedi ki: Seleme (b. el-Ekvâ')'nın dizinde bir darbe (izi) gördüm ve, \"bu nedir?\" diye (kendisine sordum). Şöyle cevapladı: (Bu darbe) bana Hayber (savaşı) günü isabet etti. Bunun üzerine (orada bulunan) halk 'Seleme vuruldu' diye feryada başladılar. Derken Nebi (s.a.v.) yanıma getirildi ve bana üç defa nefes etti. Nihayet bir saat sonra hiç rahatsızlığım kalmadı"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (4206)"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 29,
+        "hadith": 40
+      }
+    },
+    {
+      "hadithNumber": 3895,
+      "arabicNumber": 3895,
+      "book": 29,
+      "hadithInBook": 41,
+      "text": {
+        "arabic": "حَدَّثَنَا زُهَيْرُ بْنُ حَرْبٍ، وَعُثْمَانُ بْنُ أَبِي شَيْبَةَ، قَالاَ حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنْ عَبْدِ رَبِّهِ، - يَعْنِي ابْنَ سَعِيدٍ - عَنْ عَمْرَةَ، عَنْ عَائِشَةَ، قَالَتْ كَانَ النَّبِيُّ صلى الله عليه وسلم يَقُولُ لِلإِنْسَانِ إِذَا اشْتَكَى يَقُولُ بِرِيقِهِ ثُمَّ قَالَ بِهِ فِي التُّرَابِ ‏ \"‏ تُرْبَةُ أَرْضِنَا بِرِيقَةِ بَعْضِنَا يُشْفَى سَقِيمُنَا بِإِذْنِ رَبِّنَا ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "‘A’ishah said :When a man complained of pain the Prophet (ﷺ) said to him pointing to his saliva and mixing it with dust :(This is) the dust of our earth, mixed with saliva of us, so that our sick is remedied with the permission of our lord",
+          "ur": "ام المؤمنین عائشہ رضی اللہ عنہا کہتی ہیں کہ نبی اکرم صلی اللہ علیہ وسلم سے جب کوئی اپنی بیماری کی شکایت کرتا تو آپ اپنا لعاب مبارک لیتے پھر اسے مٹی میں لگا کر فرماتے: «تربة أرضنا بريقة بعضنا يشفى سقيمنا بإذن ربنا» یہ ہماری زمین کی خاک ہے ہم میں سے بعض کے لعاب سے ملی ہوئی ہے تاکہ ہمارا بیمار ہمارے رب کے حکم سے شفاء پا جائے ۔",
+          "fr": "Rapporté par Aishah رضي الله عنها : Quand un homme se plaignait de douleur, le Prophète ﷺ lui disait en montrant sa salive et en la mélangeant à de la poussière : « Ceci est la poussière de notre terre, mélangée à notre salive, pour que notre malade guérisse avec la permission de notre Seigneur. »",
+          "id": "Telah menceritakan kepada kami [Zuhair bin Kharb] dan [Utsman bin Abu Syaibah] mereka berkata; telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari ['Abdu Rabbih bin Sa'id] dari ['Amrah] dari [Aisyah] ia berkata, \"Jika ada orang yang mengeluhkan sakit, Nabi shallallahu 'alaihi wasallam meludah ke tanah lalu berdoa: 'TURBATU ARDHINAA BIRIIQATI BA'DHINAA YUSYFAA SAQIIMUNAA BI IDZNI RABBINAA (Ini adalah debu tanah kami, dengan ludah sebagian kami maka tersembuhkan orang sakit kami dengan izin Tuhan kami)",
+          "tr": "Âişe (r.anha)'nın şöyle dediği rivayet olunmuştur: Nebi (s.a.v.), bir insan hastalandığı zaman (önce) tükrüğü ile (toprağa) bir işaret (çizgi) çizerdi. - (Ravi bu işareti göstermek için kendisi de) tükrükle toprağı çizdi.- Sonra; \"Yerimizin toprağı, bazılarımızın tükrüğü ile, Rabbimizin izni ile hastalarımıza şifa verir\" diye dua ederdi"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (5745) Sahih Muslim (2194)"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 29,
+        "hadith": 41
+      }
+    },
+    {
+      "hadithNumber": 3896,
+      "arabicNumber": 3896,
+      "book": 29,
+      "hadithInBook": 42,
+      "text": {
+        "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنْ زَكَرِيَّا، قَالَ حَدَّثَنِي عَامِرٌ، عَنْ خَارِجَةَ بْنِ الصَّلْتِ التَّمِيمِيِّ، عَنْ عَمِّهِ، أَنَّهُ أَتَى رَسُولَ اللَّهِ صلى الله عليه وسلم فَأَسْلَمَ ثُمَّ أَقْبَلَ رَاجِعًا مِنْ عِنْدِهِ فَمَرَّ عَلَى قَوْمٍ عِنْدَهُمْ رَجُلٌ مَجْنُونٌ مُوثَقٌ بِالْحَدِيدِ فَقَالَ أَهْلُهُ إِنَّا حُدِّثْنَا أَنَّ صَاحِبَكُمْ هَذَا قَدْ جَاءَ بِخَيْرٍ فَهَلْ عِنْدَكَ شَىْءٌ تُدَاوِيهِ فَرَقَيْتُهُ بِفَاتِحَةِ الْكِتَابِ فَبَرَأَ فَأَعْطُونِي مِائَةَ شَاةٍ فَأَتَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم فَأَخْبَرْتُهُ فَقَالَ ‏\"‏ هَلْ إِلاَّ هَذَا ‏\"‏ ‏.‏ وَقَالَ مُسَدَّدٌ فِي مَوْضِعٍ آخَرَ ‏\"‏ هَلْ قُلْتَ غَيْرَ هَذَا ‏\"‏ ‏.‏ قُلْتُ لاَ ‏.‏ قَالَ ‏\"‏ خُذْهَا فَلَعَمْرِي لَمَنْ أَكَلَ بِرُقْيَةِ بَاطِلٍ لَقَدْ أَكَلْتَ بِرُقْيَةِ حَقٍّ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Narrated Alaqah ibn Sahar at-Tamimi: Alaqah came to the Messenger of Allah (ﷺ) and embraced Islam. He then came back from him and passed some people who had a lunatic fettered in chains. His people said: We are told that your companion has brought some good. Have you something with which you can cure him? I then recited Surat al-Fatihah and he was cured. They gave me one hundred sheep. I then came to the Messenger of Allah (ﷺ) and informed him of it. He asked: Is it only this? The narrator, Musaddad, said in his other version: Did you say anything other than this? I said: No. He said: Take it, for by my life, some accept if for a worthless chain, but you have done so for a genuine one",
+          "ur": "خارجہ بن صلت تمیمی اپنے چچا سے روایت کرتے ہیں کہ وہ رسول اللہ صلی اللہ علیہ وسلم کے پاس آئے اور انہوں نے اسلام قبول کر لیا، پھر لوٹ کر جب آپ کے پاس سے جانے لگے تو ایک قوم پر سے گزرے جن میں ایک شخص دیوانہ تھا زنجیر سے بندھا ہوا تھا تو اس کے گھر والے کہنے لگے کہ ہم نے سنا ہے کہ آپ کے یہ ساتھی ( رسول اللہ صلی اللہ علیہ وسلم ) خیر و بھلائی لے کر آئے ہیں تو کیا آپ کے پاس کوئی چیز ہے جس سے تم اس شخص کا علاج کریں؟ میں نے سورۃ فاتحہ پڑھ کر اس پر دم کر دیا تو وہ اچھا ہو گیا، تو ان لوگوں نے مجھے سو بکریاں دیں، میں رسول اللہ صلی اللہ علیہ وسلم کے پاس آیا اور آپ کو اس کی خبر دی، آپ صلی اللہ علیہ وسلم نے فرمایا: تم نے صرف یہی سورت پڑھی ہے؟ ۔ ( مسدد کی ایک دوسری روایت میں: «هل إلا هذا» کے بجائے: «هل قلت غير هذا» ہے یعنی کیا تو نے اس کے علاوہ کچھ اور نہیں پڑھا؟ ) میں نے عرض کیا: نہیں، آپ صلی اللہ علیہ وسلم نے فرمایا: انہیں لے لو، قسم ہے میری عمر کی لوگ تو ناجائز جھاڑ پھونک کی روٹی کھاتے ہیں اور تم نے تو جائز جھاڑ پھونک پر کھایا ہے ۔",
+          "fr": "Rapporté par Alaqah ibn Sahar at-Tamimi رضي الله عنه : Alaqah est venu voir le Messager d’Allah ﷺ et a embrassé l’islam. En repartant, il est passé devant des gens qui avaient un homme fou attaché avec des chaînes. Ils ont dit : « On nous a dit que ton compagnon a apporté du bien. As-tu quelque chose pour le guérir ? » J’ai alors récité la sourate al-Fatiha et il a été guéri. Ils m’ont donné cent moutons. Je suis ensuite allé voir le Messager d’Allah ﷺ et je l’en ai informé. Il a demandé : « C’est tout ? » Le narrateur Musaddad a dit dans une autre version : « As-tu dit autre chose que cela ? » J’ai répondu : « Non. » Il a dit : « Prends-les, car par ma vie, certains l’acceptent pour une chaîne sans valeur, mais toi tu l’as fait pour une vraie raison. »",
+          "id": "Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari [Zakaria] ia berkata; telah menceritakan kepadaku ['Amir] dari [Kharijah bin Ash Shalt At Tamimi] dari [Pamannya] bahwa ia datang kepada Rasulullah shallallahu 'alaihi wasallam lalu masuk Islam, kemudian kembali dari sisinya dan melewati sebuah kaum yang pada mereka terdapat orang gila yang diikat dengan sebuah besi. Keluarganya lalu berkata, \"Telah sampai kabar kepada kami bahwa sahabat kalian ini datang dengan membawa kebaikan, apakah kalian memiliki sesuatu yang dapat engkau gunakan untuk mengobati? ' Lalu aku menjampinya menggunakan Surat Al Fatihah sehingga orang itu pun sembuh. Kemudian mereka memberiku seratus ekor kambing. Setelah itu aku datang kepada Rasulullah shallallahu 'alaihi wasallam dan mengabarkan hal tersebut, beliau lantas bertanya: \"Apakah engkau hanya mengucapkan ini?\" Musaddad pada tempat yang lain menyebutkan, 'Apakah engkau mengucapkan selain hal ini? ' Maka aku jawab, \"Tidak.\" Beliau lalu bersabda: \"Demi Dzat yang memanjangkan umurku, ambillah! Sungguh, orang makan dengan jampi batil sedangkan engkau makan dengan jampi yang benar.\" Telah menceritakan kepada kami ['Ubaidullah bin Mu'adz] telah menceritakan kepada kami [Ayahku]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ibnu Basysyar] telah menceritakan kepada kami [Ibnu Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Abdullah bin Abu As Safar] dari [Asy Sya'bi] dari [Kharijah bin Ash Shalt] dari [Pamannya] bahwa ia lewat, Kharijah berkata, \"Kemudian ia menjampi orang tersebut menggunakan Surat Al Fatihah selama tiga hari pagi dan sore, setiap kali ia menyelesaikannya maka ia mengumpulkan ludahnya kemudian meludah. Maka orang tersebut seolah-olah telah terbebas dari ikatan, kemudian mereka memberinya sesuatu. Lalu ia datang kepada Nabi shallallahu 'alaihi wasallam… lalu ia menyebutkan makna hadits Musaddad",
+          "tr": "(Hârice b. es-Salt et-Temîmmin) amcası (İlâka b. Sahr)'dan rivayet olunduğuna göre; Kendisi Rasûlullah (s.a.v.)'e gelmiş, sonra onun yanından ayrılıp geri dönmüş. Daha sonra yanlarında demirle bağlı deli bir adam bulunan bir topluluğa uğramış. (Bu adam'ın) ailesi (ona): \"Bize anlatıldığına göre şu sizin arkadaşınız (Allah'tan bir takım) hayır (lar) getirmiş. Senin yanında bu deliyi tedavi edecek bir şifa var mı?\" diye sormuşlar. (İlâka sözlerine devam ederek olayı şöyle anlattı): Bunun üzerine ben de (deliye) Fâtihatü'l-Kitâb’ı okudum, (deli) iyi oldu. Bana (okumanın karşılığı olarak) yüz koyun verdiler. Rasûlullah (s.a.v.)'e varıp bunu anlattım. “Bundan başka (okuduğun bir şey) var mı?” dedi. (Ravi) Müsedded (bu hadisi) başka bir yerde (Hz. Nebi'in bu sorusunu): \"Başka bir şey demedin mi?\" şeklinde rivayet etti. (İlâka sözlerine devam ederek şöyle dedi:) Ben de (Hz.Nebi'in bu sorusuna); \"Hayır\" cevabını verdim. (Hz. Nebi de): \"Vallahi, bâtıl bir şey okuyup üfleme karşılığında (ücret alıp) yiyen kimse (kuşkusuz bunun günahını çekecektir. Sen ise) hak olan bir duayı okuyup üfleme ile (yaptığın) tedavi karşılığında (aldığın ücreti) yiyorsun\" buyurdu"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 29,
+        "hadith": 42
+      },
+      "narrator": {
+        "en": "Alaqah ibn Sahar at-Tamimi"
+      }
+    },
+    {
+      "hadithNumber": 3897,
+      "arabicNumber": 3897,
+      "book": 29,
+      "hadithInBook": 43,
+      "text": {
+        "arabic": "حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مُعَاذٍ، حَدَّثَنَا أَبِي ح، وَحَدَّثَنَا ابْنُ بَشَّارٍ، حَدَّثَنَا ابْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، عَنْ عَبْدِ اللَّهِ بْنِ أَبِي السَّفَرِ، عَنِ الشَّعْبِيِّ، عَنْ خَارِجَةَ بْنِ الصَّلْتِ، عَنْ عَمِّهِ، أَنَّهُ مَرَّ - قَالَ - فَرَقَاهُ بِفَاتِحَةِ الْكِتَابِ ثَلاَثَةَ أَيَّامٍ غُدْوَةً وَعَشِيَّةً كُلَّمَا خَتَمَهَا جَمَعَ بُزَاقَهُ ثُمَّ تَفَلَ فَكَأَنَّمَا أُنْشِطَ مِنْ عِقَالٍ فَأَعْطَوْهُ شَيْئًا فَأَتَى النَّبِيَّ صلى الله عليه وسلم ثُمَّ ذَكَرَ مَعْنَى حَدِيثِ مُسَدَّدٍ ‏.‏",
+        "translations": {
+          "en": "Kharijah b. al-Salt quoted his parental uncle as saying that he passed (some people) :He recited Surat al-Fatihah over him for three days morning and evening. Whenever he finished it, he collected some of his saliva and spat it out, and he seemed as if he were set free from a bond. They gave him something as payment. He then came to the Prophet (ﷺ). He then transmitted the rest of the tradition to the same effect as Musaddad narrated",
+          "ur": "خارجہ بن صلت سے روایت ہے، وہ اپنے چچا سے روایت کرتے ہیں کہ وہ ( کچھ لوگوں پر سے ) گزرے ( ان میں ایک دیوانہ شخص تھا ) جس پر وہ صبح و شام فاتحہ پڑھ کر تین دن تک دم کرتے رہے، جب سورۃ فاتحہ پڑھ چکتے تو اپنا تھوک جمع کر کے اس پر تھو تھو کر دیتے، پھر وہ اچھا ہو گیا جیسے کوئی رسیوں میں جکڑا ہوا کھل جائے، تو ان لوگوں نے ایک چیز دی تو وہ نبی اکرم صلی اللہ علیہ وسلم کے پاس آئے، پھر انہوں نے وہی بات ذکر کی جو مسدد کی حدیث میں ہے۔",
+          "fr": "Rapporté par Kharijah ibn al-Salt رضي الله عنه, citant son oncle paternel : Il est passé devant des gens et a récité la sourate al-Fatiha sur un malade pendant trois jours, matin et soir. À chaque fois qu’il terminait, il recueillait un peu de sa salive et la recrachait, et il semblait que la personne était libérée de ses liens. Ils lui ont donné une récompense. Il est ensuite allé voir le Prophète ﷺ. Il a raconté le reste du récit comme Musaddad l’a rapporté",
+          "tr": "(Hârice b. es-Salt)'m amcasından rivayet olunduğuna göre; Kendisi (bir kavme) uğramış (ve onların arasında bulunan) bir deliyi) üç gün sabah akşam Fatiha okumak suretiyle tedavi etmiş, Fâtiha'yı her bitirişinde (ağzında) tükrüğünü toplayıp (deliye) tükürmüş. (Üç gün sonra deli içinde bulunduğu sıkıntılı durumdan) sanki bağlandığı iplerden kurtulur gibi kurtulmuş. Onlar da kendisine (bu tedavisine karşılık olmak,üzere) bir ücret vermişler. Bunun üzerine (kalkıp) Hz. Nebi'e gelmiş... (Hârice'nin amcası İlâka, sözlerinin bundan) sonra(ki kısmında bir önceki 3896.) Müsedded hadisin manasını (ifade eden sözler) söylemiştir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 29,
+        "hadith": 43
+      }
+    },
+    {
+      "hadithNumber": 3898,
+      "arabicNumber": 3898,
+      "book": 29,
+      "hadithInBook": 44,
+      "text": {
+        "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ يُونُسَ، حَدَّثَنَا زُهَيْرٌ، حَدَّثَنَا سُهَيْلُ بْنُ أَبِي صَالِحٍ، عَنْ أَبِيهِ، قَالَ سَمِعْتُ رَجُلاً، مِنْ أَسْلَمَ قَالَ كُنْتُ جَالِسًا عِنْدَ رَسُولِ اللَّهِ صلى الله عليه وسلم فَجَاءَ رَجُلٌ مِنْ أَصْحَابِهِ فَقَالَ يَا رَسُولَ اللَّهِ لُدِغْتُ اللَّيْلَةَ فَلَمْ أَنَمْ حَتَّى أَصْبَحْتُ ‏.‏ قَالَ ‏\"‏ مَاذَا ‏\"‏ ‏.‏ قَالَ عَقْرَبٌ ‏.‏ قَالَ ‏\"‏ أَمَا إِنَّكَ لَوْ قُلْتَ حِينَ أَمْسَيْتَ أَعُوذُ بِكَلِمَاتِ اللَّهِ التَّامَّاتِ مِنْ شَرِّ مَا خَلَقَ لَمْ تَضُرَّكَ إِنْ شَاءَ اللَّهُ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Narrated AbuSalih Zakwan as-Samman: A man from Aslam tribe said: I was sitting with the Messenger of Allah (ﷺ). A man from among his Companions came and said: Messenger of Allah! I have been stung last night, and I could not sleep till morning. He asked: What was that? He replied: A scorpion. He said: Oh, had you said in the evening: \"I take refuge in the perfect words of Allah from the evil of what He created,\" nothing would have harmed you, Allah willing",
+          "ur": "ابوصالح کہتے ہیں کہ میں نے قبیلہ اسلم کے ایک شخص سے سنا: اس نے کہا کہ میں رسول اللہ صلی اللہ علیہ وسلم کے پاس بیٹھا ہوا تھا اتنے میں آپ کے اصحاب میں سے ایک شخص آیا اور اس نے عرض کیا: اللہ کے رسول! آج رات مجھے کسی چیز نے کاٹ لیا تو رات بھر نہیں سویا یہاں تک کہ صبح ہو گئی، آپ صلی اللہ علیہ وسلم نے فرمایا: کس چیز نے؟ اس نے عرض کیا: بچھو نے، آپ صلی اللہ علیہ وسلم نے فرمایا: سنو اگر تم شام کو یہ دعا پڑھ لیتے: «أعوذ بكلمات الله التامات من شر ما خلق» میں اللہ کے کامل کلمات کی پناہ چاہتا ہوں اس کی تمام مخلوقات کی برائی سے تو ان شاءاللہ ( اللہ چاہتا تو ) وہ تم کو نقصان نہ پہنچاتا ۔",
+          "fr": "Rapporté par Abu Salih Zakwan as-Samman رضي الله عنه : Un homme de la tribu d’Aslam a dit : « J’étais assis avec le Messager d’Allah ﷺ. Un de ses Compagnons est venu et a dit : “Messager d’Allah, j’ai été piqué cette nuit et je n’ai pas pu dormir jusqu’au matin.” Il a demandé : “Qu’est-ce que c’était ?” Il a répondu : “Un scorpion.” Le Prophète ﷺ a dit : “Si tu avais dit le soir : ‘Je me réfugie dans les paroles parfaites d’Allah contre le mal de ce qu’Il a créé’, rien ne t’aurait fait de mal, si Allah le veut.” »",
+          "tr": "(Ebû Salih'in) babasından rivayet olunduğuna göre; Eslem (kabilesin)den bir adam şöyle demiştir: Rasûlullah (s.a.v.)'in yanında oturuyordum. Sahâbîlerden biri gelip: Ey Allah'ın Rasûlü, bu gece (bir hayvan tarafından) sokuldum, sabah'a kadar uyuyamadım, dedi. (Hz.Nebi): \"(Seni sokan) nedir?'1 dedi. (Sahâbî): Akreptir, cevabını verdi. (Bunun üzerine Hz. Nebi); \"Şunu bil ki, eğer sen ikindi ile akşam arasında; ''Auzu bi kelimatillahi tammati min şerri ma halak'' ='Yarattığı şeylerin şerrinden Allah'ın tam olan kelimelerine sığınırım' diye dua etmiş olsaydın sana inşallah (o akrep) zarar veremezdi\" buyurmuş. Bu hadis Müslim, zikr, İbn Mâce, tıb dada zikredildi"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 29,
+        "hadith": 44
+      },
+      "narrator": {
+        "en": "AbuSalih Zakwan as-Samman"
+      }
+    },
+    {
+      "hadithNumber": 3899,
+      "arabicNumber": 3899,
+      "book": 29,
+      "hadithInBook": 45,
+      "text": {
+        "arabic": "حَدَّثَنَا حَيْوَةُ بْنُ شُرَيْحٍ، حَدَّثَنَا بَقِيَّةُ، حَدَّثَنِي الزُّبَيْدِيُّ، عَنِ الزُّهْرِيِّ، عَنْ طَارِقٍ، - يَعْنِي ابْنَ مُخَاشِنٍ - عَنْ أَبِي هُرَيْرَةَ، قَالَ أُتِيَ النَّبِيُّ صلى الله عليه وسلم بِلَدِيغٍ لَدَغَتْهُ عَقْرَبٌ قَالَ فَقَالَ ‏\"‏ لَوْ قَالَ أَعُوذُ بِكَلِمَاتِ اللَّهِ التَّامَّةِ مِنْ شَرِّ مَا خَلَقَ لَمْ يُلْدَغْ ‏\"‏ ‏.‏ أَوْ ‏\"‏ لَمْ تَضُرَّهُ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Narrated AbuHurayrah: A man who was stung by a scorpion was brought to the Prophet (ﷺ). He said: Had he said the word: \"I seek refuge in the perfect words of Allah from the evil of what He created, \"he would not have been stung, or he said, \"It would not have harmed him",
+          "ur": "ابوہریرہ رضی اللہ عنہ کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم کے پاس ایک شخص لایا گیا جسے بچھو نے کاٹ لیا تھا تو آپ نے فرمایا: اگر وہ یہ دعا پڑھ لیتا: «أعوذ بكلمات الله التامة من شر ما خلق» میں اللہ کے کامل کلمات کی پناہ چاہتا ہوں اس کی تمام مخلوقات کی برائی سے تو وہ نہ کاٹتا یا اسے نقصان نہ پہنچاتا ۔",
+          "fr": "Rapporté par Abu Huraira رضي الله عنه : Un homme piqué par un scorpion a été amené au Prophète ﷺ. Il a dit : « S’il avait dit : ‘Je me réfugie dans les paroles parfaites d’Allah contre le mal de ce qu’Il a créé’, il n’aurait pas été piqué, ou bien cela ne lui aurait pas fait de mal. »",
+          "id": "Telah menceritakan kepada kami [Haiwah bin Syuraih] telah menceritakan kepada kami [Baqiyyah] telah menceritakan kepadaku [Az Zubaidi] dari [Az Zuhri] dari [Thariq bin Makhasyin] dari [Abu Hurairah] ia berkata, \"Seorang laki-laki yang terkena sengatan kalajengking datang menemui Nabi shallallahu 'alaihi wasallam.\" Abu Hurairah berkata, \"Kemudian beliau bersabda: \"Seandainya ia mengucapkan A'UUDZU BIKALIMAATILLAAHIT TAAMMAATI MIN SYARRI MAA KHALAQ (Aku berlindung kepada kalimat-kalimat Allah yang sempurna dari keburukan makhluk yang Allah ciptakan) ', maka ia tidak akan tersengat, atau kalajengking tersebut tidak akan membahayakannya",
+          "tr": "Ebû Hureyre (r.a)'den rivayet olunmuştur; dedi ki: Nebi (s.a.v.)'e akrep sokmuş bir adam getirildi. \"Eğer (bu kimse); ''Auzu bi kelimatillahi tammati min şerri ma halak'' = 'Yarattığı şeylerin şerrinden Allah'ın tam olan kelimelerine sığınırım' diye dua edeydi sokulmazdı -yahutta kendisine (hiç bir şey) zarar veremezdi-.\" buyurdu"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 29,
+        "hadith": 45
+      },
+      "narrator": {
+        "en": "AbuHurayrah"
+      }
+    },
+    {
+      "hadithNumber": 3900,
+      "arabicNumber": 3900,
+      "book": 29,
+      "hadithInBook": 46,
+      "text": {
+        "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ أَبِي بِشْرٍ، عَنْ أَبِي الْمُتَوَكِّلِ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، أَنَّ رَهْطًا، مِنْ أَصْحَابِ النَّبِيِّ صلى الله عليه وسلم انْطَلَقُوا فِي سَفْرَةٍ سَافَرُوهَا فَنَزَلُوا بِحَىٍّ مِنْ أَحْيَاءِ الْعَرَبِ فَقَالَ بَعْضُهُمْ إِنَّ سَيِّدَنَا لُدِغَ فَهَلْ عِنْدَ أَحَدٍ مِنْكُمْ شَىْءٌ يَنْفَعُ صَاحِبَنَا فَقَالَ رَجُلٌ مِنَ الْقَوْمِ نَعَمْ وَاللَّهِ إِنِّي لأَرْقِي وَلَكِنِ اسْتَضَفْنَاكُمْ فَأَبَيْتُمْ أَنْ تُضَيِّفُونَا مَا أَنَا بِرَاقٍ حَتَّى تَجْعَلُوا لِي جُعْلاً ‏.‏ فَجَعَلُوا لَهُ قَطِيعًا مِنَ الشَّاءِ فَأَتَاهُ فَقَرَأَ عَلَيْهِ أُمَّ الْكِتَابِ وَيَتْفُلُ حَتَّى بَرَأَ كَأَنَّمَا أُنْشِطَ مِنْ عِقَالٍ ‏.‏ قَالَ فَأَوْفَاهُمْ جُعْلَهُمُ الَّذِي صَالَحُوهُمْ عَلَيْهِ فَقَالُوا اقْتَسِمُوا ‏.‏ فَقَالَ الَّذِي رَقَى لاَ تَفْعَلُوا حَتَّى نَأْتِيَ رَسُولَ اللَّهِ صلى الله عليه وسلم فَنَسْتَأْمِرَهُ ‏.‏ فَغَدَوْا عَلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَذَكَرُوا لَهُ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ مِنْ أَيْنَ عَلِمْتُمْ أَنَّهَا رُقْيَةٌ أَحْسَنْتُمُ اقْتَسِمُوا وَاضْرِبُوا لِي مَعَكُمْ بِسَهْمٍ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Abu Sa’d al-KHudri said :Some of the Companions of the Prophet (ﷺ) went on a journey. They alighted with a certain clan of the Arabs. Someone of them said : Our chief has been stung by a scorpion or bitten by a snake. Has any of you something which gives relief to our chief? A man of the people said : Yes, I swear by Allah. I shall apply charm ; but we asked you for hospitality and you denied it to us. I shall not apply charm until you give me some payment. So they promised to give some sheep to him. He came to him and recited Surat al-Fatihah over him and spat till he was cured, and ha seemed as if he were set free from a bond. So they gave him the payment that was agreed between them. They said : Apportion them. The man who applied charm said : Do not do it until we approach the Apostle of allah (ﷺ) said: From where did you learn that it was a charm ? you have done right. Apportion them, and give me a share along with you",
+          "ur": "ابو سعید خدری رضی اللہ عنہ کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم کے اصحاب کی ایک جماعت ایک سفر پر نکلی اور وہ عرب کے قبیلوں میں سے ایک قبیلہ میں اتری، ان میں سے بعض نے آ کر کہا: ہمارے سردار کو بچھو یا سانپ نے کاٹ لیا ہے، کیا تمہارے پاس کوئی ایسی چیز ہے جو انہیں فائدہ دے؟ تو ہم میں سے ایک شخص نے کہا: ہاں قسم اللہ کی میں جھاڑ پھونک کرتا ہوں لیکن ہم نے تم سے ضیافت کے لیے کہا تو تم نے ہماری ضیافت سے انکار کیا، اس لیے اب میں اس وقت تک جھاڑ پھونک نہیں کر سکتا جب تک تم مجھے اس کی اجرت نہیں دو گے، تو انہوں نے ان کے لیے بکریوں کا ایک ریوڑ اجرت ٹھہرائی، چنانچہ وہ آئے اور سورۃ فاتحہ پڑھ کر اس پر دم کرنے لگے یہاں تک کہ وہ اچھا ہو گیا گویا وہ رسی سے بندھا ہوا تھا چھوٹ گیا، پھر ان لوگوں نے جو اجرت ٹھہرائی تھی پوری ادا کر دی، لوگوں نے کہا: اسے آپس میں تقسیم کر لو، تو جس نے جھاڑ پھونک کیا تھا وہ بولا: اس وقت تک ایسا نہ کرو جب تک کہ ہم رسول اللہ صلی اللہ علیہ وسلم کے پاس آ کر آپ سے اجازت نہ لے لیں، چنانچہ وہ سب رسول اللہ صلی اللہ علیہ وسلم کے پاس آئے اور آپ سے ذکر کیا تو رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: تمہیں کہاں سے معلوم ہوا کہ یہ منتر ہے؟ تم نے بہت اچھا کیا، تم اسے آپس میں تقسیم کر لو اور اپنے ساتھ میرا بھی ایک حصہ لگانا ۔",
+          "fr": "Rapporté par Abu Sa’d al-Khudri رضي الله عنه : Des Compagnons du Prophète ﷺ sont partis en voyage. Ils se sont arrêtés chez une tribu arabe. Quelqu’un a dit : « Notre chef a été piqué par un scorpion ou mordu par un serpent. L’un de vous a-t-il quelque chose pour le soulager ? » Un homme du groupe a dit : « Oui, par Allah, je vais faire une incantation ; mais nous vous avons demandé l’hospitalité et vous nous l’avez refusée. Je ne ferai rien tant que vous ne me donnerez pas une récompense. » Ils lui ont promis des moutons. Il est venu, a récité la sourate al-Fatiha sur le malade et a soufflé jusqu’à ce qu’il soit guéri, comme s’il était libéré de ses liens. Ils lui ont donné la récompense convenue. Ils ont dit : « Partage-les. » Celui qui avait fait l’incantation a dit : « Ne le faites pas avant que nous consultions l’Envoyé d’Allah ﷺ. » Le Prophète ﷺ a dit : « D’où as-tu appris que c’était une incantation ? Tu as bien fait. Partagez-les, et donnez-m’en une part avec vous. »",
+          "id": "Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Abu 'Awanah] dari [Abu Bisyr] dari [Abu Al Mutawakkil] dari [Abu Sa'id Al Khudri] bahwa beberapa sahabat Nabi shallallahu 'alaihi wasallam pergi dalam suatu perjalanan yang mereka lakukan. Kemudian mereka singgah di sebuah kampung Arab, sebagian penduduk kampung tersebut lalu berkata, \"Sesungguhnya pemimpin kami tersengat, apakah salah seorang di antara kalian memiliki sesuatu yang bermanfaat bagi sahabat kami tersebut?\" Kemudian salah seorang dari para sahabat tersebut menjawab, \"Ya. Demi Allah, sesungguhnya aku akan menjampi, akan tetapi kami telah meminta kalian agar menjamu kami namun kalian menolak untuk menjadikan kami sebagai tamu. Aku tidak akan menjampi hingga kalian memberikan hadiah kepadaku.\" Penduduk kampung tersebut kemudian memberikan hadiah sekumpulan kambing kepadanya, lalu sahabat tersebut datang kepada orang yang tersengat dan membacakan Surat Al Fatihah kepadanya, lalu meniupkan hingga orang tersebut sembuh seolah-olah telah terbebas dari ikatan.\" Abu Sa'id Al Khudri berkata, \"Kemudian mereka memenuhi janjinya untuk memberikan hadiah kepada para sahabat sebagaimana yang mereka janjikan. Kemudian para sahabat berkata, \"Bagilah kambing-kambing tersebut!\" Lalu sahabat yang telah membacakan jampi mengatakan, \"Kalian jangan melakukannya hingga kita datang kepada Rasulullah shallallahu 'alaihi wasallam dan minta pertimbangannya.\" Lalu mereka pergi menemui Rasulullah shallallahu 'alaihi wasallam dan menyebutkan hal tersebut kepada beliau. Rasulullah shallallahu 'alaihi wasallam lalu bersabda: \"Dari mana kalian mengetahui bahwa Al Fatihah adalah jampi? Kalian telah berbuat baik, bagilah dan berilah aku bagian bersama kalian",
+          "tr": "Ebû Saîd e-Hudrî (r.a)'den rivayet olunduğuna göre; Nebi (s.a.v.)'in sahâbîlerinden küçük bir topluluk çıktıkları bir yolculukta arap kabilelerinden birine uğramışlar. (Kabilenin fertlerinden) biri (onlara); Bizim başkanımız (zehirli bir böcek tarafından) sokuldu. Birinizin yanında (bizim bu) arkadaşımıza yarayacak (şifalı) bir şey var mıdır? demiş. Yolculardan bir adam da: Evet (var), vallahi ben (hastaları) okuyarak tedavi ederim. Fakat biz size misafir olmak istediğimiz halde siz bizi misafir etmek istemediniz. (Bu sebeple) siz (yapacağım tedaviye karşılık) bana bir ücret, tayin etmedikçe ben nefes etmem, diye karşılık vermiş. Bunun üzerine (kabile mensupları tutmuşlar) bu adam (ın edeceği nefes) için (ortaya) bir koyun sürüsü koymuşlar. (Tedavi edeceğini söyleyen bu yolcu) hastanın yanına varıp ona Fatiha sûresini okumuş ve üfürmüş. Nihayet adam ipten kurtulmuş gibi olmuş. Bunun üzerine (yukarıda sözü geçen şahıs) kabilenin (vermek için) üzerinde anlaşmış oldukları ücreti yolculara ödemiş. (Ücreti alan) yolcular, (birbirlerine) \"Bunu bölüşünüz\" demeye başlamışlar. Nefes ederek (hastayı) tedavi eden şahıs, \"Rasûlullah (s.a.v.)'e varıp kendisine danışıncaya kadar (bunu) yapmayınız\" demiş. Rasûlullah (s.a.v.)'e varıp bunu (kendisine) arzetmişler. Rasülullah (s.a.v.): \"Fâtiha'nın tedaviye yaradığını nereden bildin? Aferin size, (haydi bu koyunları) bölüşünüz. Sizinle beraber bana da bir pay ayırınız\" buyurmuş. Bu hadis Buhari, icâre, tıb; Müslim, selâm; Ebû Dâvûd, buyu', tıb; Tirmizî, tıb; İbn Mace, ticârât; Ahmed b. Hanbel, III, 3, 10, 44. te de var"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (2276) Sahih Muslim (2201)"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 29,
+        "hadith": 46
+      }
+    },
+    {
+      "hadithNumber": 3901,
+      "arabicNumber": 3901,
+      "book": 29,
+      "hadithInBook": 47,
+      "text": {
+        "arabic": "حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مُعَاذٍ، حَدَّثَنَا أَبِي ح، وَحَدَّثَنَا ابْنُ بَشَّارٍ، حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ عَبْدِ اللَّهِ بْنِ أَبِي السَّفَرِ، عَنِ الشَّعْبِيِّ، عَنْ خَارِجَةَ بْنِ الصَّلْتِ التَّمِيمِيِّ، عَنْ عَمِّهِ، قَالَ أَقْبَلْنَا مِنْ عِنْدِ رَسُولِ اللَّهِ صلى الله عليه وسلم فَأَتَيْنَا عَلَى حَىٍّ مِنَ الْعَرَبِ فَقَالُوا إِنَّا أُنْبِئْنَا أَنَّكُمْ جِئْتُمْ مِنْ عِنْدِ هَذَا الرَّجُلِ بِخَيْرٍ فَهَلْ عِنْدَكُمْ مِنْ دَوَاءٍ أَوْ رُقْيَةٍ فَإِنَّ عِنْدَنَا مَعْتُوهًا فِي الْقُيُودِ قَالَ فَقُلْنَا نَعَمْ ‏.‏ قَالَ فَجَاءُوا بِمَعْتُوهٍ فِي الْقُيُودِ - قَالَ - فَقَرَأْتُ عَلَيْهِ فَاتِحَةَ الْكِتَابِ ثَلاَثَةَ أَيَّامٍ غُدْوَةً وَعَشِيَّةً كُلَّمَا خَتَمْتُهَا أَجْمَعُ بُزَاقِي ثُمَّ أَتْفُلُ فَكَأَنَّمَا نُشِطَ مِنْ عِقَالٍ قَالَ فَأَعْطَوْنِي جُعْلاً فَقُلْتُ لاَ حَتَّى أَسْأَلَ رَسُولَ اللَّهِ صلى الله عليه وسلم فَقَالَ ‏ \"‏ كُلْ فَلَعَمْرِي مَنْ أَكَلَ بِرُقْيَةِ بَاطِلٍ لَقَدْ أَكَلْتَ بِرُقْيَةِ حَقٍّ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Narrated Alaqah ibn Sahar at-Tamimi: We proceeded from the Messenger of Allah (ﷺ) and came to a clan of the Arabs. They said: We have been told that you have brought what is good from this man. Have you any medicine or a charm, for we have a lunatic in chains? We said: Yes. Then they brought a lunatic in chains. He said: I recited Surat al-Fatihah over him for three days, morning and evening. Whenever I finished it, I would collect my saliva and spit it out, and he seemed as if he were set free from a bond. He said: They gave me some payment, but I said: No, not until I ask the Messenger of Allah (ﷺ). He (the Prophet) said: Accept it, for, by my life, some accept it for a worthless charm, but you have done so for a genuine one",
+          "ur": "خارجہ بن صلت تمیمی اپنے چچا سے روایت کرتے ہیں، وہ کہتے ہیں ہم رسول اللہ صلی اللہ علیہ وسلم کے پاس سے چلے اور عرب کے ایک قبیلہ کے پاس آئے تو وہ لوگ کہنے لگے: ہمیں معلوم ہوا ہے کہ آپ اس شخص کے پاس سے آ رہے ہیں جو خیر و بھلائی لے کر آیا ہے تو کیا آپ کے پاس کوئی دوا یا منتر ہے؟ کیونکہ ہمارے پاس ایک دیوانہ ہے جو بیڑیوں میں جکڑا ہوا ہے، ہم نے کہا: ہاں، تو وہ اس پاگل کو بیڑیوں میں جکڑا ہوا لے کر آئے، میں اس پر تین دن تک سورۃ فاتحہ پڑھ کر دم کرتا رہا، وہ اچھا ہو گیا جیسے کوئی قید سے چھوٹ گیا ہو، پھر انہوں نے مجھے اس کی اجرت دی، میں نے کہا: میں نہیں لوں گا جب تک میں رسول اللہ صلی اللہ علیہ وسلم سے پوچھ نہ لوں، چنانچہ میں نے رسول اللہ صلی اللہ علیہ وسلم سے پوچھا تو آپ نے فرمایا: کھاؤ، قسم ہے میری عمر کی لوگ تو جھوٹا منتر کر کے کھاتے ہیں تم نے تو جائز منتر کر کے کھایا ہے ۔",
+          "fr": "Rapporté par Alaqah ibn Sahar at-Tamimi : Nous sommes partis du Messager d’Allah ﷺ et nous sommes arrivés chez une tribu arabe. Ils nous ont dit : « On nous a dit que vous avez apporté du bien de la part de cet homme. Avez-vous un remède ou une incantation, car nous avons un fou enchaîné ? » Nous avons répondu : « Oui. » Ils ont alors amené le fou enchaîné. Il a dit : « J’ai récité la sourate Al-Fatiha sur lui pendant trois jours, matin et soir. À chaque fois que je terminais, je recueillais ma salive et la recrachais, et il semblait être libéré de ses liens. » Il a ajouté : « Ils m’ont donné une récompense, mais j’ai dit : “Non, pas avant de demander au Messager d’Allah ﷺ.” » Le Prophète ﷺ a dit : « Accepte-la, car, par ma vie, certains l’acceptent pour une incantation sans valeur, mais toi, tu l’as fait pour une vraie. »",
+          "tr": "(Hârice b. Salt et-Temîmî'nin İlâka isimli) amcasından rivayet olunmuştur; dedi ki: Biz Rasûlullah (s.a.v.)'in yanından dönüyorduk. (Yolda) bir arap kabilesine rastladık. \"Bize gelen habere göre siz şu hayırlı adamın yanından geliyormuşsunuz. Sizin yanınızda bir ilaç yahutta bir dua var mıdır (bizim buna çok ihtiyacımız var)? Çünkü bizim yanımızda bağlı bir deli bulunuyor\" dediler. (Biz de) \"Evet\" cevabını verdik. Kalkıp deliyi bağlı olarak getirdiler. Bunun üzerine ona sabah akşam üç gün Fatiha okudum. Fâtiha'yı her bitirişimde tükürüğümü (ağzımda) biriktirip (ona) tükrüyordum. (Üç gün sonra deli) ipten kurtulmuş gibi oldu. Bana ücret ver(mek iste)diler. (Ben de; \"Hayır) Rasûlullah (s.a.v.)'e danışıncaya kadar almam\" dedim (ve gidip Hz. Nebi'e danıştım). \"(Sen aldığın bu ücreti tereddüt etmeden) ye. Vallahi bâtıl bir şey okuyup üfleme karşılığında (ücret alıp) yiyen kimse (kuşkusuz bunun günahını çekecektir. Sen ise) hak olan bir okuyup üfleme ile (yaptığın) tedavi karşılığında (aldığın ücreti) yiyorsun\" buyurdu"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 29,
+        "hadith": 47
+      },
+      "narrator": {
+        "en": "Alaqah ibn Sahar at-Tamimi"
+      }
+    },
+    {
+      "hadithNumber": 3902,
+      "arabicNumber": 3902,
+      "book": 29,
+      "hadithInBook": 48,
+      "text": {
+        "arabic": "حَدَّثَنَا الْقَعْنَبِيُّ، عَنْ مَالِكٍ، عَنِ ابْنِ شِهَابٍ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، زَوْجِ النَّبِيِّ صلى الله عليه وسلم أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ إِذَا اشْتَكَى يَقْرَأُ فِي نَفْسِهِ بِالْمُعَوِّذَاتِ وَيَنْفُثُ فَلَمَّا اشْتَدَّ وَجَعُهُ كُنْتُ أَقْرَأُ عَلَيْهِ وَأَمْسَحُ عَلَيْهِ بِيَدِهِ رَجَاءَ بَرَكَتِهَا ‏.‏",
+        "translations": {
+          "en": "Narrated A'ishah:the wife of Prophet (ﷺ) said: When the Messenger of Allah (ﷺ) suffered from some pain, he recited mu'awwadhat in his heart and blew (them over him). When the pain became severe, I recited (them) over him and wiped him with his hand in the hope of its blessing",
+          "ur": "ام المؤمنین عائشہ رضی اللہ عنہا فرماتی ہیں کہ رسول اللہ صلی اللہ علیہ وسلم جب بیمار ہوتے تو آپ اپنے اوپر معوذات پڑھ کر دم فرماتے تھے، پھر جب آپ صلی اللہ علیہ وسلم کی تکلیف بڑھ گئی تو میں اسے آپ پر پڑھ کر دم کرتی اور برکت کی امید سے آپ کا ہاتھ آپ کے جسم پر پھیرتی۔",
+          "fr": "Rapporté par Aïshah, l’épouse du Prophète ﷺ : Quand le Messager d’Allah ﷺ souffrait d’une douleur, il récitait les mu’awwidhat dans son cœur et les soufflait sur lui-même. Quand la douleur devenait plus forte, je les récitais sur lui et je le frottais avec sa propre main, espérant la bénédiction de celle-ci",
+          "id": "Telah menceritakan kepada kami [Al Qa'nabi] dari [Malik] dari [Ibnu Syihab] dari ['Urwah] dari [Aisyah] isteri Nabi shallallahu 'alaihi wasallam, bahwa Rasulullah shallallahu 'alaihi wasallam apabila sakit maka beliau membacakan surat-surat mu'awwidzat (minta perlindungan) dan meniupkannya. Ketika sakit beliau semakin keras, maka aku yang membacakan kepada beliau dan aku usapkan kepadanya dengan tangan beliau, dengan harapan mendapatkan berkahnya",
+          "tr": "Nebi (s.a.v.)'in hanımı Âişe'den rivayet edilmiştir; dedi ki: Nebi (s.a.v.) rahatsızlandığı zaman kendi kendine Muavvizât (sûre)leri(ni) okur ve üfürürdü. (Bunları okuyamayacak derecede) ağrısı şiddetlendiği zaman (bu sûreleleri) ona ben okurdum ve bereketini umarak (onun) eliyle vücudunu sıvazlardım"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (5016) Sahih Muslim (2192)"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 29,
+        "hadith": 48
+      },
+      "narrator": {
+        "en": "A'ishah"
+      }
+    },
+    {
+      "hadithNumber": 3903,
+      "arabicNumber": 3903,
+      "book": 29,
+      "hadithInBook": 49,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى بْنِ فَارِسٍ، حَدَّثَنَا نُوحُ بْنُ يَزِيدَ بْنِ سَيَّارٍ، حَدَّثَنَا إِبْرَاهِيمُ بْنُ سَعْدٍ، عَنْ مُحَمَّدِ بْنِ إِسْحَاقَ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، رضى الله عنها قَالَتْ أَرَادَتْ أُمِّي أَنْ تُسَمِّنِّي لِدُخُولِي عَلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَلَمْ أَقْبَلْ عَلَيْهَا بِشَىْءٍ مِمَّا تُرِيدُ حَتَّى أَطْعَمَتْنِي الْقِثَّاءَ بِالرُّطَبِ فَسَمِنْتُ عَلَيْهِ كَأَحْسَنِ السِّمَنِ ‏.‏",
+        "translations": {
+          "en": "Narrated Aisha, Ummul Mu'minin: My mother intended to make me gain weight to send me to the (house of) the Messenger of Allah (ﷺ). But nothing which she desired benefited me till she gave me cucumber with fresh dates to eat. Then I gained as much weight (as she desired)",
+          "ur": "ام المؤمنین عائشہ رضی اللہ عنہا فرماتی ہیں کہ میری والدہ نے چاہا کہ میں قدرے موٹی ہو جاؤں تاکہ مجھے رسول اللہ صلی اللہ علیہ وسلم کے گھر بھیجا جا سکے۔ مگر مجھے ان کی حسب منشا کسی چیز سے فائدہ نہ ہوا حتیٰ کہ انہوں نے مجھے ککڑی اور کھجور ملا کر کھلائی تو اس سے میں خوب موٹی ہو گئی۔",
+          "fr": "Rapporté par Aïsha, la mère des croyants رضي الله عنها : Ma mère voulait que je prenne du poids pour m’envoyer chez le Messager d’Allah ﷺ. Mais rien de ce qu’elle essayait ne fonctionnait, jusqu’à ce qu’elle me donne à manger du concombre avec des dattes fraîches. Ensuite, j’ai pris le poids qu’elle souhaitait",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Yahya bin Faris] telah menceritakan kepada kami [Nuh bin Yazid bin Sayyar] telah menceritakan kepada kami [Ibrahim bin Sa'd] dari [Muhammad bin Ishaq] dari [Hisyam bin 'Urwah] dari [Ayahnya] dari [Aisyah] radliallahu 'anha, ia berkata, \"Ibuku ingin aku terlihat gemuk (segar) saat aku bertemu Rasulullah shallallahu 'alaihi wasallam, namun aku tidak menerima apapun yang diinginkannya hingga ia memberiku makan mentimun dengan ruthab (kurma segar). Kemudian aku menjadi tampak gemuk (segar) dengan bentuk yang edial",
+          "tr": "Âişe (r.anha)'dan rivayet olunmuştur; dedi ki: Rasûlullah (s.a.v.) ile zifafa girmem için annem beni şişmanlatma! istiyordu. (Bütün çabalarına rağmen) onun istediği kiloyu alamadım Nihayet bana yaş hurma ile hıyar yedirdi de en güzel şekilde şişmanladım"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 29,
+        "hadith": 49
+      },
+      "narrator": {
+        "en": "Aisha, Ummul Mu'minin"
+      }
+    }
+  ],
+  "metadata": {
+    "averageLength": "medium",
+    "size": "38KB"
+  }
+}

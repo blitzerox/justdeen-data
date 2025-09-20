@@ -1,0 +1,391 @@
+{
+  "collection": "bukhari",
+  "book": 14,
+  "name": {
+    "arabic": "كتاب Witr Prayer",
+    "transliteration": "witr prayer",
+    "translation": "Witr Prayer"
+  },
+  "totalHadith": 15,
+  "hadithNumberRange": {
+    "first": 990,
+    "last": 1004
+  },
+  "content": [
+    {
+      "hadithNumber": 990,
+      "arabicNumber": 990,
+      "book": 14,
+      "hadithInBook": 1,
+      "text": {
+        "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، قَالَ أَخْبَرَنَا مَالِكٌ، عَنْ نَافِعٍ، وَعَبْدِ اللَّهِ بْنِ دِينَارٍ، عَنِ ابْنِ عُمَرَ، أَنَّ رَجُلاً، سَأَلَ رَسُولَ اللَّهِ صلى الله عليه وسلم عَنْ صَلاَةِ اللَّيْلِ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ صَلاَةُ اللَّيْلِ مَثْنَى مَثْنَى، فَإِذَا خَشِيَ أَحَدُكُمُ الصُّبْحَ صَلَّى رَكْعَةً وَاحِدَةً، تُوتِرُ لَهُ مَا قَدْ صَلَّى ‏\"‏‏.‏",
+        "translations": {
+          "en": "Narrated Ibn `Umar: Once a person asked Allah's Messenger (ﷺ) about the night prayer. Allah's Apostle (ﷺ) replied, \"The night prayer is offered as two Rak`at followed by two Rak`at and so on and if anyone is afraid of the approaching dawn (Fajr prayer) he should pray one Rak`ah and this will be a Witr for all the Rak`at which he has prayed before",
+          "ur": "ہم سے عبداللہ بن یوسف نے بیان کیا، انہوں نے کہا کہ ہمیں امام مالک رحمہ اللہ نے نافع اور عبداللہ ابن دینار سے خبر دی اور انہیں عبداللہ بن عمر رضی اللہ عنہما نے کہ ایک شخص نے نبی کریم صلی اللہ علیہ وسلم سے رات میں نماز کے متعلق معلوم کیا تو آپ صلی اللہ علیہ وسلم نے فرمایا کہ رات کی نماز دو دو رکعت ہے پھر جب کوئی صبح ہو جانے سے ڈرے تو ایک رکعت پڑھ لے، وہ اس کی ساری نماز کو طاق بنا دے گی۔",
+          "fr": "Rapporté par Ibn `Umar : Un jour, une personne a demandé au Messager d’Allah (ﷺ) à propos de la prière de nuit. L’Envoyé d’Allah (ﷺ) a répondu : « La prière de nuit se fait par deux rak`at à la fois, puis encore deux, et ainsi de suite. Si quelqu’un craint l’arrivée de l’aube (prière du Fajr), il doit prier une rak`a qui comptera comme witr pour toutes les rak`at précédentes. »",
+          "id": "Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan kepada kami [Malik] dari [Nafi'] dan ['Abdullah bin Dinar] dari [Ibnu 'Umar], bahwa ada seseorang bertanya kepada Rasulullah shallallahu 'alaihi wasallam tentang shalat malam. Maka Rasulullah shallallahu 'alaihi wasallam bersabda: \"Shalat malam itu dua rakaat dua rakaat. Jika salah seorang dari kalian khawatir akan masuk waktu shubuh, hendaklah ia shalat satu rakaat sebagai witir (penutup) bagi shalat yang telah dilaksanakan sebelumnya.\" Dan dari Nafi' bahwa 'Abdullah bin 'Umar memberi salam di antara satu rakaat dan dua rakaat witir hingga dia menuntaskan sebagian keperluannya",
+          "tr": "Abdullah İbn Ömer (r.a.)'den nakledilmiştir: \"Birisi gelip Resulullah (Sallallahu Aleyhi ve Sellem)'e gece namazının nasıl kılınacağını sordu ve Resul-i Ekrem Sallallahu Aleyhi ve Sellem şöyle cevap verdi: \"Gece namazı ikişer rekat halinde kılınır. Fakat siz'den biri sabah namazının vaktinin gireceğinden endişe ederse bir rekat kılar. Böylece bu bir rekatlık namaz onun daha önce kıldığı rekatları vitr (tek) leştirir"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 14,
+        "hadith": 1
+      },
+      "narrator": {
+        "en": "Ibn `Umar"
+      }
+    },
+    {
+      "hadithNumber": 991,
+      "arabicNumber": 991,
+      "book": 14,
+      "hadithInBook": 2,
+      "text": {
+        "arabic": "وَعَنْ نَافِعٍ، أَنَّ عَبْدَ اللَّهِ بْنَ عُمَرَ، كَانَ يُسَلِّمُ بَيْنَ الرَّكْعَةِ وَالرَّكْعَتَيْنِ فِي الْوِتْرِ، حَتَّى يَأْمُرَ بِبَعْضِ حَاجَتِهِ‏.‏",
+        "translations": {
+          "en": "Nafi` told that `Abdullah bin `Umar used to say Taslim between (the first) two Rak`at and (the third) odd one in the Witr prayer, when he wanted to attend to a certain matter (during that interval between the Rak`at)",
+          "ur": "اور اسی سند کے ساتھ نافع سے روایت ہے کہ عبداللہ بن عمر رضی اللہ عنہما وتر کی جب تین رکعتیں پڑھتے تو دو رکعت پڑھ کر سلام پھیرتے یہاں تک کہ ضرورت سے بات بھی کرتے۔",
+          "fr": "Nafi` a rapporté que `Abdullah bin `Umar avait l’habitude de faire le Taslim entre (les deux premières) rak`at et la troisième, qui est impaire, dans la prière du Witr, quand il voulait s’occuper de quelque chose entre les rak`at",
+          "tr": "Nafi'in naklettiğine göre Abdullah İbn Ömer (radiyallahu anh) vitir namazı kıldığında iki rekat ile tek rekat arasında selam verir ve hatta bu arada bazı ihtiyaçları için talimatlar verdikten sonra kalan bir rekatı kılardı"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 14,
+        "hadith": 2
+      }
+    },
+    {
+      "hadithNumber": 992,
+      "arabicNumber": 992,
+      "book": 14,
+      "hadithInBook": 3,
+      "text": {
+        "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، عَنْ مَالِكٍ، عَنْ مَخْرَمَةَ بْنِ سُلَيْمَانَ، عَنْ كُرَيْبٍ، أَنَّ ابْنَ عَبَّاسٍ، أَخْبَرَهُ أَنَّهُ، بَاتَ عِنْدَ مَيْمُونَةَ، وَهْىَ خَالَتُهُ، فَاضْطَجَعْتُ فِي عَرْضِ وِسَادَةٍ، وَاضْطَجَعَ رَسُولُ اللَّهِ صلى الله عليه وسلم وَأَهْلُهُ فِي طُولِهَا، فَنَامَ حَتَّى انْتَصَفَ اللَّيْلُ أَوْ قَرِيبًا مِنْهُ، فَاسْتَيْقَظَ يَمْسَحُ النَّوْمَ عَنْ وَجْهِهِ، ثُمَّ قَرَأَ عَشْرَ آيَاتٍ مِنْ آلِ عِمْرَانَ، ثُمَّ قَامَ رَسُولُ اللَّهِ صلى الله عليه وسلم إِلَى شَنٍّ مُعَلَّقَةٍ، فَتَوَضَّأَ فَأَحْسَنَ الْوُضُوءَ، ثُمَّ قَامَ يُصَلِّي فَصَنَعْتُ مِثْلَهُ فَقُمْتُ إِلَى جَنْبِهِ، فَوَضَعَ يَدَهُ الْيُمْنَى عَلَى رَأْسِي، وَأَخَذَ بِأُذُنِي يَفْتِلُهَا، ثُمَّ صَلَّى رَكْعَتَيْنِ، ثُمَّ رَكْعَتَيْنِ، ثُمَّ رَكْعَتَيْنِ، ثُمَّ رَكْعَتَيْنِ، ثُمَّ رَكْعَتَيْنِ، ثُمَّ رَكْعَتَيْنِ، ثُمَّ أَوْتَرَ، ثُمَّ اضْطَجَعَ حَتَّى جَاءَهُ الْمُؤَذِّنُ فَقَامَ فَصَلَّى رَكْعَتَيْنِ ثُمَّ، خَرَجَ فَصَلَّى الصُّبْحَ‏.‏",
+        "translations": {
+          "en": "Narrated Ibn `Abbas:Once I passed the night in the house of Maimuna (his aunt). I slept across the bed while Allah's Apostle and his wife slept length-wise. The Prophet (ﷺ) slept till midnight or nearly so and woke up rubbing his face and recited ten verses from Surat \"Al-`Imran.\" Allah's Messenger (ﷺ) went towards a leather skin and performed ablution in the most perfect way and then stood for the prayer. I did the same and stood beside him. The Prophet (ﷺ) put his right hand on my head, twisted my ear and then prayed two rak`at five times and then ended his prayer with witr. He laid down till the Mu'adh-dhin came then he stood up and offered two rak`at (Sunnah of Fajr prayer) and then went out and offered the Fajr prayer. (See Hadith)",
+          "ur": "ہم سے عبداللہ بن مسلمہ نے بیان کیا، ان سے امام مالک نے بیان کیا، ان سے مخرمہ بن سلیمان نے بیان کیا، ان سے کریب نے اور انہیں عبداللہ بن عباس رضی اللہ عنہما نے خبر دی کہ آپ ایک رات اپنی خالہ ام المؤمنین میمونہ رضی اللہ عنہا کے یہاں سوئے ( آپ رضی اللہ عنہ نے کہا کہ ) میں تکیہ کے عرض میں لیٹ گیا اور رسول اللہ صلی اللہ علیہ وسلم اور آپ کی بیوی لمبائی میں لیٹیں، آپ صلی اللہ علیہ وسلم سو گئے جب آدھی رات گزر گئی یا اس کے لگ بھگ تو آپ صلی اللہ علیہ وسلم بیدار ہوئے نیند کے اثر کو چہرہ مبارک پر ہاتھ پھیر کر آپ صلی اللہ علیہ وسلم نے دور کیا۔ اس کے بعد آل عمران کی دس آیتیں پڑھیں۔ پھر ایک پرانی مشک پانی کی بھری ہوئی لٹک رہی تھی۔ آپ صلی اللہ علیہ وسلم اس کے پاس گئے اور اچھی طرح وضو کیا اور نماز کے لیے کھڑے ہو گئے۔ میں نے بھی ایسا ہی کیا۔ آپ صلی اللہ علیہ وسلم پیار سے اپنا داہنا ہاتھ میرے سر رکھ کر اور میرا کان پکڑ کر اسے ملنے لگے۔ پھر آپ صلی اللہ علیہ وسلم نے دو رکعت نماز پڑھی، پھر دو رکعت، پھر دو رکعت، پھر دو رکعت، پھر دو رکعت، پھر دو رکعت سب بارہ رکعتیں پھر ایک رکعت وتر پڑھ کر آپ صلی اللہ علیہ وسلم لیٹ گئے، یہاں تک کہ مؤذن صبح صادق کی اطلاع دینے آیا تو آپ صلی اللہ علیہ وسلم نے پھر کھڑے ہو کر دو رکعت سنت نماز پڑھی۔ پھر باہر تشریف لائے اور صبح کی نماز پڑھائی۔",
+          "fr": "Rapporté par Ibn `Abbas : Une fois, j’ai passé la nuit chez Maimuna (ma tante). J’ai dormi en travers du lit tandis que l’Envoyé d’Allah et sa femme dormaient dans le sens de la longueur. Le Prophète (ﷺ) a dormi jusqu’à minuit ou presque, puis il s’est réveillé, s’est frotté le visage et a récité dix versets de la sourate « Al-`Imran ». Le Messager d’Allah (ﷺ) est allé vers une outre en cuir, a fait ses ablutions de la manière la plus parfaite, puis il s’est levé pour prier. J’ai fait de même et je me suis placé à côté de lui. Le Prophète (ﷺ) a mis sa main droite sur ma tête, m’a tordu l’oreille, puis il a prié deux rak`at cinq fois, puis il a terminé sa prière par le witr. Il s’est allongé jusqu’à ce que le muezzin vienne, puis il s’est levé et a prié deux rak`at (Sounna du Fajr), puis il est sorti pour la prière du Fajr",
+          "id": "Telah menceritakan kepada kami ['Abdullah bin Maslamah] dari [Malik bin Anas] dari [Makhramah bin Sulaiman] dari [Kuraib] bahwa [Ibnu 'Abbas] mengabarkan kepadanya, bahwa dia pernah bermalam di rumah Maimunah, bibinya dari pihak ibu. Ia mengatakan, \"Aku tidur pada sisi tikar sedangkan Rasulullah shallallahu 'alaihi wasallam dan isterinya berbaring pada bagian tengahnya. Beliau tidur hingga pertengahan malam atau kurang sedikit, kemudian beliau bangun dan mengusap sisa tidur pada wajahnya, membaca sepuluh ayat dari surah Ali 'Imran. Kemudian beliau berdiri mengambil geriba berisi air yang digantung, beliau berwudlu dengan wudlu yang sempurna lalu mendirikan shalat. Aku kemudian mengerjakan seperti apa yang beliau kerjakan, aku lantas berdiri disampingnya. Beliau kemudian meletakkan tangan kanannya di atas kepalaku, meraih telingaku dan menariknya (menggeser). Kemudian beliau shalat dua rakaat, lalu dua rakaat, lalu dua rakaat, lalu dua rakaat, lalu dua rakaat, lalu dua rakaat, lalu shalat witir. Kemudian Beliau berbaring hingga seorang mu'adzin mendatanginya, kemudian beliau melaksanakan shalat dua rakaat lalu keluar melaksanakan shalat subuh",
+          "tr": "Kureyb nakletmiştir: Bir gece Abdullah İbn Abbas teyzesi Meymune'nin yanında kalmış ve o gece yaşananları şöyle aktarmıştır: \"Ben yastığın uç kısmına enlemesine uzandım. Resulullah Sallallahu Aleyhi ve Sellem da eşiyle birlikte yastığa uzunlamasına yattı ve uyudu. Gece yarısı olduğunda veya gece yarısına yaklaştığımızda uyandı ve uykusunu dağıtmak için yüzünü ve gözlerini ovuştur­du. Ardından Al-i İmran suresinden on ayet okudu. Sonra kalkıp duvarda asılı olan su kabını indirip güzelce bir abdest aldı ve namaz kılmaya başladı. Ben de aynen onun yaptıklarını yaptım ve namaz kılmak üzere yanına durdum. Resulullah Sallallahu Aleyhi ve Sellem sağ eliyle başımdan tuttu ve sonra kulağımı hafifçe tutup okşadı. Toplam on iki rekat namazı ikişer rekat halinde kıldı ve en sonunda tek bir rekat daha kılıp uzandı. Bir süre sonra müezzin gelip sabah namazı vaktinin girdiğini bildirdi. Resulullah Sallallahu Aleyhi ve Sellem bunun üzerine kalkıp iki rekat daha namaz kıldı ve sonra çıktı ve mescid'e gidip sabah namazını kıldırdı"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 14,
+        "hadith": 3
+      },
+      "narrator": {
+        "en": "Ibn `Abbas"
+      }
+    },
+    {
+      "hadithNumber": 993,
+      "arabicNumber": 993,
+      "book": 14,
+      "hadithInBook": 4,
+      "text": {
+        "arabic": "حَدَّثَنَا يَحْيَى بْنُ سُلَيْمَانَ، قَالَ حَدَّثَنِي ابْنُ وَهْبٍ، قَالَ أَخْبَرَنِي عَمْرٌو، أَنَّ عَبْدَ الرَّحْمَنِ بْنَ الْقَاسِمِ، حَدَّثَهُ عَنْ أَبِيهِ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ، قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏ \"‏ صَلاَةُ اللَّيْلِ مَثْنَى مَثْنَى، فَإِذَا أَرَدْتَ أَنْ تَنْصَرِفَ فَارْكَعْ رَكْعَةً تُوتِرُ لَكَ مَا صَلَّيْتَ ‏\"‏‏.‏ قَالَ الْقَاسِمُ وَرَأَيْنَا أُنَاسًا مُنْذُ أَدْرَكْنَا يُوتِرُونَ بِثَلاَثٍ، وَإِنَّ كُلاًّ لَوَاسِعٌ أَرْجُو أَنْ لاَ يَكُونَ بِشَىْءٍ مِنْهُ بَأْسٌ‏.‏",
+        "translations": {
+          "en": "Narrated `Abdullah bin `Umar:The Prophet (ﷺ) said, \"Night prayer is offered as two rak`at followed by two rak`at and so on, and if you want to finish it, pray only one rak`a which will be witr for all the previous rak`at.\" Al-Qasim said, \"Since we attained the age of puberty we have seen some people offering a three-rak`at prayer as witr and all that is permissible. I hope there will be no harm in it",
+          "ur": "ہم سے یحییٰ بن سلیمان نے بیان کیا، انہوں نے کہا کہ ہم سے عبداللہ بن وہب نے بیان کیا، انہوں نے کہا کہ ہمیں عمرو بن حارث نے خبر دی، ان سے عبدالرحمٰن بن قاسم نے اپنے باپ قاسم سے بیان کیا اور ان سے عبداللہ بن عمر رضی اللہ عنہما نے بیان کیا کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا، رات کی نماز دو، دو رکعتیں ہے اور جب تو ختم کرنا چاہے تو ایک رکعت وتر پڑھ لے جو ساری نماز کو طاق بنا دے گی۔ قاسم بن محمد نے بیان کیا کہ ہم نے بہت سوں کو تین رکعت وتر پڑھتے بھی پایا ہے اور تین یا ایک ( رکعت وتر ) سب جائز اور مجھ کو امید ہے کہ کسی میں قباحت نہ ہو گی۔",
+          "fr": "Rapporté par `Abdullah bin `Umar : Le Prophète (ﷺ) a dit : « La prière de nuit se fait par deux rak`at à la fois, puis encore deux, et ainsi de suite. Et si tu veux la terminer, prie une seule rak`a qui sera le witr pour toutes les rak`at précédentes. » Al-Qasim a dit : « Depuis que nous avons atteint la puberté, nous avons vu des gens prier trois rak`at pour le witr et tout cela est permis. J’espère qu’il n’y a pas de mal à cela. »",
+          "id": "Telah menceritakan kepada kami [Yahya bin Sulaiman] berkata, telah menceritakan kepadaku ['Abdullah bin Wahb] berkata, telah mengabarkan kepadaku ['Amru bin Al Harits] bahwa ['Abdurrahman bin Al Qasim] menceritakan kepadanya dari [Bapaknya] dari ['Abdullah bin 'Umar] berkata, \"Nabi shallallahu 'alaihi wasallam bersabda: \"Shalat malam dua rakaat dua rakaat, jika kamu hendak mengakhirinya, maka shalatlah satu rakaat sebagai penutup dari shalatmu sebelumnya.\" Al Qasim berkata, \"Semenjak kami ketahui, kami melihat orang-orang mengerjakan witir dengan tiga rakaat. Sesungguhnya urusan ini adalah kelonggaran yang aku berharap bukan menjadi perkara yang salah",
+          "tr": "Abdullah İbn Ömer (r.a.)'den nakledildiğine göre Nebi Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: \"Gece namazı ikişer rekat halinde kılınır. Gece namazını bitirmek istersen bir rekat daha namaz kılarsın. Böylece bu bir rekatlık namaz onun daha önce kıldığı rekatları vitr (tek) leştirir.\" Kasım şöyle demiştir; \"Biz ergenlik çağına girip aklımız erdiğinden beri insanların vitir namazını tek selamla üç rekat olarak kıldıklarını gördük. Bununla birlikte vitir namazının iki artı bir rekat, yani üç rekatın ikincisinde selam verip üçüncü rekatı tek olarak kılmada bir sakınca bulunmadığını düşünüyorum; bunların İkisi de caizdir"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 14,
+        "hadith": 4
+      },
+      "narrator": {
+        "en": "`Abdullah bin `Umar"
+      }
+    },
+    {
+      "hadithNumber": 994,
+      "arabicNumber": 994,
+      "book": 14,
+      "hadithInBook": 5,
+      "text": {
+        "arabic": "حَدَّثَنَا أَبُو الْيَمَانِ، قَالَ أَخْبَرَنَا شُعَيْبٌ، عَنِ الزُّهْرِيِّ، عَنْ عُرْوَةَ، أَنَّ عَائِشَةَ، أَخْبَرَتْهُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ يُصَلِّي إِحْدَى عَشْرَةَ رَكْعَةً، كَانَتْ تِلْكَ صَلاَتَهُ ـ تَعْنِي بِاللَّيْلِ ـ فَيَسْجُدُ السَّجْدَةَ مِنْ ذَلِكَ قَدْرَ مَا يَقْرَأُ أَحَدُكُمْ خَمْسِينَ آيَةً قَبْلَ أَنْ يَرْفَعَ رَأْسَهُ، وَيَرْكَعُ رَكْعَتَيْنِ قَبْلَ صَلاَةِ الْفَجْرِ، ثُمَّ يَضْطَجِعُ عَلَى شِقِّهِ الأَيْمَنِ حَتَّى يَأْتِيَهُ الْمُؤَذِّنُ لِلصَّلاَةِ‏.‏",
+        "translations": {
+          "en": "Narrated `A'isha:Allah's Messenger (ﷺ) used to pray eleven rak`at at night and that was his night prayer and each of his prostrations lasted for a period enough for one of you to recite fifty verses before Allah's Messenger (ﷺ) raised his head. He also used to pray two rak`at (Sunnah) before the (compulsory) Fajr prayer and then lie down on his right side till the Mu'adh-dhin came to him for the prayer",
+          "ur": "ہم سے ابوالیمان نے بیان کیا، انہوں نے کہا کہ ہمیں شعیب نے زہری سے خبر دی، انہوں نے کہا کہ مجھ سے عروہ بن زبیر نے بیان کیا کہ عائشہ رضی اللہ عنہا نے انہیں خبر دی کہ رسول اللہ صلی اللہ علیہ وسلم گیارہ رکعتیں ( وتر اور تہجد کی ) پڑھتے تھے، آپ صلی اللہ علیہ وسلم کی یہی نماز تھی۔ مراد ان کی رات کی نماز تھی۔ آپ صلی اللہ علیہ وسلم کا سجدہ ان رکعتوں میں اتنا لمبا ہوتا تھا کہ سر اٹھانے سے پہلے تم میں سے کوئی شخص بھی پچاس آیتیں پڑھ سکتا اور فجر کی نماز فرض سے پہلے آپ صلی اللہ علیہ وسلم سنت دو رکعتیں پڑھتے تھے اس کے بعد ( ذرا دیر ) داہنے پہلو پر لیٹ رہتے یہاں تک کہ مئوذن بلانے کے لیے آپ صلی اللہ علیہ وسلم کے پاس آتا۔",
+          "fr": "Rapporté par `A'isha : Le Messager d’Allah (ﷺ) priait onze rak`at la nuit, c’était sa prière nocturne, et chacune de ses prosternations durait le temps qu’il faudrait à l’un d’entre vous pour réciter cinquante versets, avant que le Messager d’Allah (ﷺ) ne relève la tête. Il priait aussi deux rak`at (Sounna) avant la prière obligatoire du Fajr, puis il s’allongeait sur son côté droit jusqu’à ce que le muezzin vienne l’appeler à la prière",
+          "id": "Telah menceritakan kepada kami [Abu Al Yaman] berkata, telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] berkata, telah menceritakan kepadaku ['Urwah] bahwa ['Aisyah] mengabarkan kepadanya, bahwa Rasulullah shallallahu 'alaihi wasallam melaksanakan shalat sebelas rakaat, begitulah cara beliau shalat -yakni shalat tahajjut-. Dalam shalat tersebut beliau sujud seperti lamanya kalian membaca sekitar lima puluh ayat sebelum mengangkat kepalanya. Dan beliau mengerjakan shalat dua rakaat sebelum melaksanakan shalat subuh. Kemudian beliau berbaring pada sebelah tubuh sebelah kanan hingga datang mu'adzin (membangunkan) untuk shalat",
+          "tr": "Urve İbnü'z-Zübeyr, Aişe (r.anha)'dan nakletmiştir: \"Resulullah Sallallahu Aleyhi ve Sellem gece namazını on bir rekat kılardı. O Sallallahu Aleyhi ve Sellem, gece namaz kılarken siz'den birinizin elli ayet okuyabileceği kadar bir süre başını kaldırmadan secdede beklerdi. Sabah namazından önce de iki rekat namaz kılar ve sonra da müezzin haber verene kadar sağ yanı üzerine uzanırdı"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 14,
+        "hadith": 5
+      },
+      "narrator": {
+        "en": "`A'isha"
+      }
+    },
+    {
+      "hadithNumber": 995,
+      "arabicNumber": 995,
+      "book": 14,
+      "hadithInBook": 6,
+      "text": {
+        "arabic": "حَدَّثَنَا أَبُو النُّعْمَانِ، قَالَ حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، قَالَ حَدَّثَنَا أَنَسُ بْنُ سِيرِينَ، قَالَ قُلْتُ لاِبْنِ عُمَرَ أَرَأَيْتَ الرَّكْعَتَيْنِ قَبْلَ صَلاَةِ الْغَدَاةِ أُطِيلُ فِيهِمَا الْقِرَاءَةَ فَقَالَ كَانَ النَّبِيُّ صلى الله عليه وسلم يُصَلِّي مِنَ اللَّيْلِ مَثْنَى مَثْنَى، وَيُوتِرُ بِرَكْعَةٍ وَيُصَلِّي الرَّكْعَتَيْنِ قَبْلَ صَلاَةِ الْغَدَاةِ وَكَأَنَّ الأَذَانَ بِأُذُنَيْهِ‏.‏ قَالَ حَمَّادٌ أَىْ سُرْعَةً‏.‏",
+        "translations": {
+          "en": "Narrated Anas bin Seereen:I asked Ibn `Umar, \"What is your opinion about the two rak`at before the Fajr (compulsory) prayer, as to prolonging the recitation in them?\" He said, \"The Prophet (ﷺ) used to pray at night two rak`at followed by two and so on, and end the prayer by one rak`ah witr. He used to offer two rak`at before the Fajr prayer immediately after the Adhan.\" (Hammad, the sub-narrator said, \"That meant (that he prayed) quickly",
+          "ur": "ہم سے ابو نعمان نے بیان کیا، کہا کہ ہم سے حماد بن زید نے بیان کیا، کہا کہ ہم سے انس بن سیرین نے بیان کیا، کہا کہ میں نے ابن عمر رضی اللہ عنہما سے پوچھا کہ نماز صبح سے پہلے کی دو رکعتوں کے متعلق آپ کا کیا خیال ہے؟ کیا میں ان میں لمبی قرآت کر سکتا ہوں؟ انہوں نے فرمایا کہ نبی کریم صلی اللہ علیہ وسلم تو رات کی نماز ( تہجد ) دو، دو رکعت کر کے پڑھتے تھے پھر ایک رکعت پڑھ کر ان کو طاق بنا لیتے اور صبح کی نماز سے پہلے کی دو رکعتیں ( سنت فجر تو ) اس طرح پڑھتے گویا اذان ( اقامت ) کی آواز آپ کے کان میں پڑ رہی ہے۔ حماد کی اس سے مراد یہ ہے کہ آپ جلدی پڑھ لیتے۔",
+          "fr": "Rapporté par Anas bin Seereen : J’ai demandé à Ibn `Umar : « Que penses-tu des deux rak`at avant la prière obligatoire du Fajr, faut-il y prolonger la récitation ? » Il a répondu : « Le Prophète (ﷺ) priait la nuit deux rak`at à la fois, puis terminait par une rak`a witr. Il faisait les deux rak`at avant la prière du Fajr juste après l’Adhan. » (Hammad, le sous-narrateur, a précisé : « Cela voulait dire qu’il les priait rapidement. »)",
+          "id": "Telah menceritakan kepada kami [Abu An Nu'man] berkata, telah menceritakan kepada kami [Hammad bin Zaid] berkata, telah menceritakan kepada kami [Anas bin Sirin] berkata, Aku bertanya kepada [Ibnu 'Umar], \"Apakah shalat dua rakaat sebelum shalat Fajar bacaannya dipanjangkan?\" Maka dia menjawab, \"Nabi shallallahu 'alaihi wasallam melaksanakan shalat malam dua rakaat dua rakaat lalu witir dengan satu rakaat, dan beliau mengerjakan shalat dua rakaat sebelum melaksanakan shalat Fajar, seakan adzan ada di sisi telinganya.\" Hammad berkata, \"Maksudnya beliau melaksanakan dua rakaat tersebut dengan cepat",
+          "tr": "Enes İbn Sîrîn'den nakledilmiştir: \"Bir defasında Abdullah İbn Ömer (r.a.)'e; 'Ne dersiniz, sabah namazından önce kılınan iki rekatlık namazda kıraati uzun tutayım mı? diye sordum. Bana şöyle cevap verdi: \"Resul-i Ekrem Sallallahu Aleyhi ve Sellem gece namazını ikişer rekat halinde kılardı ve sonunda bir rekat daha kılarak namazını tekleştirirdi. Daha sonra da sabah namazından önce iki rekat namaz kılardı. Nebi Sallallahu Aleyhi ve Sellem bu iki rekatı kılarken sabah namazının farzı için getirilen kamet sesi kulağına gelirdi.\" Hammad şöyle demiştir: \"Bu yüzden hızlı bir şekilde kılardı"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 14,
+        "hadith": 6
+      },
+      "narrator": {
+        "en": "Anas bin Seereen"
+      }
+    },
+    {
+      "hadithNumber": 996,
+      "arabicNumber": 996,
+      "book": 14,
+      "hadithInBook": 7,
+      "text": {
+        "arabic": "حَدَّثَنَا عُمَرُ بْنُ حَفْصٍ، قَالَ حَدَّثَنَا أَبِي قَالَ، حَدَّثَنَا الأَعْمَشُ، قَالَ حَدَّثَنِي مُسْلِمٌ، عَنْ مَسْرُوقٍ، عَنْ عَائِشَةَ، قَالَتْ كُلَّ اللَّيْلِ أَوْتَرَ رَسُولُ اللَّهِ صلى الله عليه وسلم وَانْتَهَى وِتْرُهُ إِلَى السَّحَرِ‏.‏",
+        "translations": {
+          "en": "Narrated `Aisha:Allah's Messenger (ﷺ) offered witr prayer at different nights at various hours extending (from the `Isha' prayer) up to the last hour of the night",
+          "ur": "ہم سے عمر بن حفص بن غیاث نے بیان کیا، کہا کہ مجھ سے میرے باپ نے بیان کیا، انہوں نے کہا کہ ہم سے اعمش نے بیان کیا، کہا کہ مجھ سے مسلم بن کیسان نے بیان کیا، ان سے مسروق نے، ان سے عائشہ رضی اللہ عنہا نے فرمایا کہ رسول اللہ صلی اللہ علیہ وسلم نے رات کے ہر حصہ میں بھی وتر پڑھی ہے اور آخیر میں آپ صلی اللہ علیہ وسلم کا وتر صبح کے قریب پہنچا۔",
+          "fr": "Rapporté par `Aisha : Le Messager d’Allah (ﷺ) faisait la prière du witr à différents moments de la nuit, entre la prière de l’`Isha et la dernière partie de la nuit",
+          "id": "Telah menceritakan kepada kami ['Umar bin Hafsh] berkata, telah menceritakan kepada kami [Bapakku] berkata, telah menceritakan kepada kami [Al A'masy] berkata, telah menceritakan kepadaku [Muslim] dari [Masyruq] dari ['Aisyah] ia berkata, \"Sepanjang malam Rasulullah shallallahu 'alaihi wasallam melaksanakan shalat witir dan berhenti pada waktu sahur",
+          "tr": "Aişe (Radiyallahu Anha)'nın şöyle dediği nakledilmiştir: \"Resul-i Ekrem Sallallahu Aleyhi ve Sellem her gece vitir (tek rekatlı) namazı kılardı. Bu tek rekat da seher vaktine sarkardı"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 14,
+        "hadith": 7
+      },
+      "narrator": {
+        "en": "`Aisha"
+      }
+    },
+    {
+      "hadithNumber": 997,
+      "arabicNumber": 997,
+      "book": 14,
+      "hadithInBook": 8,
+      "text": {
+        "arabic": "حَدَّثَنَا مُسَدَّدٌ، قَالَ حَدَّثَنَا يَحْيَى، قَالَ حَدَّثَنَا هِشَامٌ، قَالَ حَدَّثَنِي أَبِي، عَنْ عَائِشَةَ، قَالَتْ كَانَ النَّبِيُّ صلى الله عليه وسلم يُصَلِّي، وَأَنَا رَاقِدَةٌ مُعْتَرِضَةً عَلَى فِرَاشِهِ، فَإِذَا أَرَادَ أَنْ يُوتِرَ أَيْقَظَنِي فَأَوْتَرْتُ‏.‏",
+        "translations": {
+          "en": "Narrated `A'isha:The Prophet (ﷺ) used to offer his night prayer while I was sleeping across in his bed. Whenever he intended to offer the witr prayer, he used to wake me up and I would offer the witr prayer too",
+          "ur": "ہم سے مسدد بن مسرہد نے بیان کیا، کہا کہ ہم سے ہشام بن عروہ نے بیان کیا، کہا کہ مجھ سے میرے باپ نے عائشہ رضی اللہ عنہا سے بیان کیا کہ آپ نے فرمایا نبی کریم صلی اللہ علیہ وسلم ( تہجد کی ) نماز پڑھتے رہتے اور میں آپ صلی اللہ علیہ وسلم کے بستر پر عرض میں لیٹی رہتی۔ جب وتر پڑھنے لگتے تو مجھے بھی جگا دیتے اور میں بھی وتر پڑھ لیتی۔",
+          "fr": "Rapporté par `A'isha : Le Prophète (ﷺ) faisait sa prière nocturne pendant que je dormais en travers de son lit. Chaque fois qu’il voulait faire la prière du witr, il me réveillait et je faisais aussi le witr",
+          "id": "Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Yahya] berkata, telah menceritakan kepada kami [Hisyam] berkata, telah menceritakan kepadaku [Bapakku] dari ['Aisyah] berkata, \"Nabi shallallahu 'alaihi wasallam pernah berdiri shalat malam sedangkan aku berbaring membentang di atas tikarnya. Apabila akan melaksanakan shalat witir, beliau membangunkan aku hingga aku pun mengerjakan shalat witir",
+          "tr": "Âişe(r.anha) şöyle demiştir: Peygamber (sallallahü aleyhi ve sellem), ben O'nun döşeği üzerinde aykırı vaziyette uyuduğum hâlde (bana doğru) namazını kılar, vitri kılmak istediği sırada beni de uyandırırdı. Ben de vitr namazını kılardım"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 14,
+        "hadith": 8
+      },
+      "narrator": {
+        "en": "`A'isha"
+      }
+    },
+    {
+      "hadithNumber": 998,
+      "arabicNumber": 998,
+      "book": 14,
+      "hadithInBook": 9,
+      "text": {
+        "arabic": "حَدَّثَنَا مُسَدَّدٌ، قَالَ حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، عَنْ عُبَيْدِ اللَّهِ، حَدَّثَنِي نَافِعٌ، عَنْ عَبْدِ اللَّهِ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ اجْعَلُوا آخِرَ صَلاَتِكُمْ بِاللَّيْلِ وِتْرًا ‏\"‏‏.‏",
+        "translations": {
+          "en": "Narrated `Abdullah bin `Umar:The Prophet (ﷺ) said, \"Make witr as your last prayer at night",
+          "ur": "ہم سے مسدد بن مسرہد نے بیان کیا، کہا کہ ہم سے یحییٰ بن سعید نے بیان کیا، ان سے عبیداللہ عمری نے ان سے نافع نے عبداللہ بن عمر رضی اللہ عنہما سے بیان کیا اور ان سے نبی کریم صلی اللہ علیہ وسلم نے فرمایا کہ وتر رات کی تمام نمازوں کے بعد پڑھا کرو۔",
+          "fr": "Rapporté par `Abdullah bin `Umar : Le Prophète (ﷺ) a dit : « Faites du witr votre dernière prière de la nuit. »",
+          "id": "Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Yahya bin Sa'id] dari ['Ubaidullah] telah menceritakan kepadaku [Nafi'] dari ['Abdullah bin 'Umar] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: \"Jadikanlah akhir shalat malam dengan ganjil (witir)",
+          "tr": "Aişe (r.anha)'nın şöyle dediği nakledilmiştir: \"Resul-i Ekrem Sallallahu Aleyhi ve Sellem gece namaz kılardı. Ben de bu sırada onun namaz kıldığı yerin karşısında yatağımda enlemesine uyurdum. Nebi Sallallahu Aleyhi ve Sellem vitir namazını kılmak istediğinde beni de uyandırırdı ve ben de vitri kılardım"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 14,
+        "hadith": 9
+      },
+      "narrator": {
+        "en": "`Abdullah bin `Umar"
+      }
+    },
+    {
+      "hadithNumber": 999,
+      "arabicNumber": 999,
+      "book": 14,
+      "hadithInBook": 10,
+      "text": {
+        "arabic": "حَدَّثَنَا إِسْمَاعِيلُ، قَالَ حَدَّثَنِي مَالِكٌ، عَنْ أَبِي بَكْرِ بْنِ عُمَرَ بْنِ عَبْدِ الرَّحْمَنِ بْنِ عَبْدِ اللَّهِ بْنِ عُمَرَ بْنِ الْخَطَّابِ، عَنْ سَعِيدِ بْنِ يَسَارٍ، أَنَّهُ قَالَ كُنْتُ أَسِيرُ مَعَ عَبْدِ اللَّهِ بْنِ عُمَرَ بِطَرِيقِ مَكَّةَ فَقَالَ سَعِيدٌ فَلَمَّا خَشِيتُ الصُّبْحَ نَزَلْتُ فَأَوْتَرْتُ، ثُمَّ لَحِقْتُهُ فَقَالَ عَبْدُ اللَّهِ بْنُ عُمَرَ أَيْنَ كُنْتَ فَقُلْتُ خَشِيتُ الصُّبْحَ، فَنَزَلْتُ فَأَوْتَرْتُ‏.‏ فَقَالَ عَبْدُ اللَّهِ أَلَيْسَ لَكَ فِي رَسُولِ اللَّهِ صلى الله عليه وسلم أُسْوَةٌ حَسَنَةٌ فَقُلْتُ بَلَى وَاللَّهِ‏.‏ قَالَ فَإِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ يُوتِرُ عَلَى الْبَعِيرِ‏.‏",
+        "translations": {
+          "en": "Narrated Sa`id bin Yasar:I was going to Mecca in the company of `Abdullah bin `Umar and when I apprehended the approaching dawn, I dismounted and offered the witr prayer and then joined him. `Abdullah bin `Umar said, \"Where have you been?\" I replied, \"I apprehended the approaching dawn so I dismounted and prayed the witr prayer.\" `Abdullah said, \"Isn't it sufficient for you to follow the good example of Allah's Messenger (ﷺ)?\" I replied, \"Yes, by Allah.\" He said, \"Allah's Messenger (ﷺ) used to pray witr on the back of the camel (while on a journey)",
+          "ur": "ہم سے اسماعیل نے بیان کیا، انہوں نے کہا کہ ہم سے امام مالک نے بیان کیا، انہوں نے ابوبکر بن عمر بن عبدالرحمٰن بن عبداللہ بن عمر بن خطاب سے بیان کیا اور ان کو سعید بن یسار نے بتلایا کہ میں عبداللہ بن عمر رضی اللہ عنہما کے ساتھ مکہ کے راستے میں تھا۔ سعید نے کہا کہ جب راستے میں مجھے طلوع فجر کا خطرہ ہوا تو سواری سے اتر کر میں نے وتر پڑھ لیا اور پھر عبداللہ بن عمر رضی اللہ عنہما سے جا ملا۔ آپ نے پوچھا کہ کہاں رک گئے تھے؟ میں نے کہا کہ اب صبح کا وقت ہونے ہی والا تھا اس لیے میں سواری سے اتر کر وتر پڑھنے لگا۔ اس پر عبداللہ بن عمر رضی اللہ عنہما نے فرمایا کہ کیا تمہارے لیے نبی کریم صلی اللہ علیہ وسلم کا عمل اچھا نمونہ نہیں ہے۔ میں نے عرض کیا کیوں نہیں بیشک ہے۔ آپ نے بتلایا کہ نبی کریم صلی اللہ علیہ وسلم تو اونٹ ہی پر وتر پڑھ لیا کرتے تھے۔",
+          "fr": "Rapporté par Sa`id bin Yasar : J’allais à La Mecque avec `Abdullah bin `Umar et, quand j’ai vu que l’aube approchait, je suis descendu de ma monture pour prier le witr, puis je l’ai rejoint. `Abdullah bin `Umar m’a demandé : « Où étais-tu ? » J’ai répondu : « J’ai vu que l’aube arrivait, alors je suis descendu pour prier le witr. » `Abdullah a dit : « N’est-ce pas suffisant pour toi de suivre le bon exemple du Messager d’Allah (ﷺ) ? » J’ai répondu : « Oui, par Allah. » Il a dit : « Le Messager d’Allah (ﷺ) priait le witr sur le dos de son chameau lorsqu’il était en voyage. »",
+          "id": "Telah menceritakan kepada kami [Isma'il] berkata, telah menceritakan kepadaku [Malik] dari [Abu Bakar bin 'Umar bin 'Abdurrahman bin 'Abdullah bin 'Umar bin Al Khaththab] dari [Sa'd bin Yasar] bahwa dia berkata, \"Aku bersama 'Abdullah bin 'Umar pernah berjalan di jalanan kota Makkah. Sa'id berkata, \"Ketika aku khawatir akan (masuknya waktu) Shubuh, maka aku pun singgah dan melaksanakan shalat witir. Kemudian aku menyusulnya, maka Abdullah bin Umar pun bertanya, \"Dari mana saja kamu?\" Aku menjawab, \"Tadi aku khawatir akan (masuknya waktu) Shubuh, maka aku singgah dan melaksanakan shalat witir.\" ['Abdullah bin 'Umar] berkata, \"Bukankah kamu telah memiliki suri tauladan yang baik pada diri Rasulullah shallallahu 'alaihi wasallam?\" Aku menjawab, \"Ya. Demi Allah.\" Abdullah bin Umar berkata, \"Sesungguhnya Rasulullah shallallahu 'alaihi wasallam pernah shalat witir di atas untanya",
+          "tr": "Said İbn Yesar anlatıyor: \"Bir defasında Abdullah İbn Ömer (r.a.) ile birlikte geceleyin Mekke'ye gidiyordum. Sabah namazının vaktinin gireceğinden endişe duyunca indim ve vitir namazını kılıp tekrar ona yetiştim. İbn Ömer bana: 'Nerede kaldın' diye sordu. Ben: 'Sabah namazının vaktinin gireceğinden endişeye kapıldım ve inip vitir namazını kıldım' dedim. Bunun üzerine bana: 'Senin için Resul-i Ekrem Sallallahu Aleyhi ve Sellem'de çok güzel bir örnek yok mu?' diye sordu. Ben: Tabiî ki var' Allah'a yemin ederim ki var, deyince şu cevabı verdi: \"Resulullah Sallallahu Aleyhi ve Sellem devesinin üzerinde vitir namazını kılardı. Tekrar: 1000, 1095, 1096, 1098 ve 1105. 999 ve"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 14,
+        "hadith": 10
+      },
+      "narrator": {
+        "en": "Sa`id bin Yasar"
+      }
+    },
+    {
+      "hadithNumber": 1000,
+      "arabicNumber": 1000,
+      "book": 14,
+      "hadithInBook": 11,
+      "text": {
+        "arabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، قَالَ حَدَّثَنَا جُوَيْرِيَةُ بْنُ أَسْمَاءَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، قَالَ كَانَ النَّبِيُّ صلى الله عليه وسلم يُصَلِّي فِي السَّفَرِ عَلَى رَاحِلَتِهِ، حَيْثُ تَوَجَّهَتْ بِهِ، يُومِئُ إِيمَاءً، صَلاَةَ اللَّيْلِ إِلاَّ الْفَرَائِضَ، وَيُوتِرُ عَلَى رَاحِلَتِهِ‏.‏",
+        "translations": {
+          "en": "Narrated Ibn `Umar:The Prophet (ﷺ) used to offer (Nawafil) prayers on his Rahila (mount) facing its direction by signals, but not the compulsory prayer. He also used to pray witr on his (mount) Rahila",
+          "ur": "ہم سے موسیٰ بن اسماعیل نے بیان کیا، کہا کہ ہم سے جویریہ بن اسماء نے بیان کیا، ان سے نافع نے اور ان سے عبداللہ بن عمر رضی اللہ عنہما نے کہ نبی کریم صلی اللہ علیہ وسلم سفر میں اپنی سواری ہی پر رات کی نماز اشاروں سے پڑھ لیتے تھے خواہ سواری کا رخ کسی طرف ہو جاتا آپ صلی اللہ علیہ وسلم اشاروں سے پڑھتے رہتے مگر فرائض اس طرح نہیں پڑھتے تھے اور وتر اپنی اونٹنی پر پڑھ لیتے۔",
+          "fr": "Rapporté par Ibn `Umar : Le Prophète (ﷺ) faisait des prières surérogatoires sur sa monture, en s’orientant dans la direction où elle allait, en faisant des signes, mais il ne faisait pas cela pour la prière obligatoire. Il priait aussi le witr sur sa monture",
+          "id": "Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan kepada kami [Juwairiyyah bin Asma'] dari [Nafi'] dari [Ibnu 'Umar] berkata, \"Jika Nabi shallallahu 'alaihi wasallam dalam perjalanan, maka beliau mengerjakan shalat di atas tunggangannya kemana saja hewan itu menghadap, beliau mengerjakannya dengan isyarat, kecuali shalat fardlu. Dan beliau juga mengerjakan shalat witir di atas kendaraannya",
+          "tr": "İbn Ömer (Radiyallahu Anh)'in şöyle dediği nakledilmiştir: \"Resulullah Sallallahu Aleyhi ve Sellem yolculuk sırasında bineğinin üzerinde namaz kılardı. Bineği ne tarafa yönelirse yönelsin namazına devam eder ve gece namazını ima ile eda ederdi. Fakat farz namazlarını binek üzerinde kılmazdı. Vitir namazını da yolculuk sırasında binek üzerinde kılardı"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 14,
+        "hadith": 11
+      },
+      "narrator": {
+        "en": "Ibn `Umar"
+      }
+    },
+    {
+      "hadithNumber": 1001,
+      "arabicNumber": 1001,
+      "book": 14,
+      "hadithInBook": 12,
+      "text": {
+        "arabic": "حَدَّثَنَا مُسَدَّدٌ، قَالَ حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، عَنْ أَيُّوبَ، عَنْ مُحَمَّدٍ، قَالَ سُئِلَ أَنَسٌ أَقَنَتَ النَّبِيُّ صلى الله عليه وسلم فِي الصُّبْحِ قَالَ نَعَمْ‏.‏ فَقِيلَ لَهُ أَوَقَنَتَ قَبْلَ الرُّكُوعِ قَالَ بَعْدَ الرُّكُوعِ يَسِيرًا‏.‏",
+        "translations": {
+          "en": "Narrated Muhammad bin Seereen:Anas was asked, \"Did the Prophet (ﷺ) recite Qunut in the Fajr prayer?\" Anas replied in the affirmative. He was further asked, \"Did he recite Qunut before bowing?\" Anas replied, \"He recited Qunut after bowing for some time (for one month)",
+          "ur": "ہم سے مسدد نے بیان کیا، کہا کہ ہم سے حماد بن زید نے بیان کیا، ان سے ایوب سختیانی نے ان سے محمد بن سیرین نے، انہوں نے کہا کہ انس بن مالک رضی اللہ عنہ سے پوچھا گیا کہ نبی کریم صلی اللہ علیہ وسلم نے صبح کی نماز میں قنوت پڑھا ہے؟ آپ نے فرمایا کہ ہاں پھر پوچھا گیا کہ کیا رکوع سے پہلے؟ تو آپ نے فرمایا کہ رکوع کے بعد تھوڑے دنوں تک۔",
+          "fr": "Rapporté par Muhammad bin Seereen : On a demandé à Anas : « Est-ce que le Prophète (ﷺ) récitait le Qunut dans la prière du Fajr ? » Anas a répondu oui. On lui a demandé ensuite : « Le récitait-il avant l’inclinaison ? » Anas a répondu : « Il récitait le Qunut après l’inclinaison pendant un certain temps (pendant un mois). »",
+          "id": "Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Hammad bin Zaid] dari [Ayyub] dari [Muhammad bin Sirin] berkata, \" [Anas bin Malik] pernah ditanya, \"Apakah Nabi shallallahu 'alaihi wasallam melakukan qunut dalam shalat Shubuh?\" Dia berkata, \"Ya.\" Lalu dikatakan kepadanya, \"Apakah beliau melakukannya sebelum rukuk?\" Dia menjawab, \"Terkadang setelah rukuk",
+          "tr": "Enes İbn Malik (Radiyallahu Anh)'e: \"Resulullah Sallallahu Aleyhi ve Sellem sabah namazında kunut duası okudu mu?\" diye sordular o da: \"Evet\" dedi. \"Peki rüku'dan önce kunut duası okudu mu?\" diye sorduklarında: \"Rüku'dan sonra kısa bir süre (bir dönem) kunut duası okudu\" diye cevap verdi. Tekrar: 1300, 2801, 2814, 3064, 3170, 4088-4091, 4094-4096, 6394 ve"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 14,
+        "hadith": 12
+      },
+      "narrator": {
+        "en": "Muhammad bin Seereen"
+      }
+    },
+    {
+      "hadithNumber": 1002,
+      "arabicNumber": 1002,
+      "book": 14,
+      "hadithInBook": 13,
+      "text": {
+        "arabic": "حَدَّثَنَا مُسَدَّدٌ، قَالَ حَدَّثَنَا عَبْدُ الْوَاحِدِ، قَالَ حَدَّثَنَا عَاصِمٌ، قَالَ سَأَلْتُ أَنَسَ بْنَ مَالِكٍ عَنِ الْقُنُوتِ،‏.‏ فَقَالَ قَدْ كَانَ الْقُنُوتُ‏.‏ قُلْتُ قَبْلَ الرُّكُوعِ أَوْ بَعْدَهُ قَالَ قَبْلَهُ‏.‏ قَالَ فَإِنَّ فُلاَنًا أَخْبَرَنِي عَنْكَ أَنَّكَ قُلْتَ بَعْدَ الرُّكُوعِ‏.‏ فَقَالَ كَذَبَ، إِنَّمَا قَنَتَ رَسُولُ اللَّهِ صلى الله عليه وسلم بَعْدَ الرُّكُوعِ شَهْرًا ـ أُرَاهُ ـ كَانَ بَعَثَ قَوْمًا يُقَالُ لَهُمُ الْقُرَّاءُ زُهَاءَ سَبْعِينَ رَجُلاً إِلَى قَوْمٍ مِنَ الْمُشْرِكِينَ دُونَ أُولَئِكَ، وَكَانَ بَيْنَهُمْ وَبَيْنَ رَسُولِ اللَّهِ صلى الله عليه وسلم عَهْدٌ فَقَنَتَ رَسُولُ اللَّهِ صلى الله عليه وسلم شَهْرًا يَدْعُو عَلَيْهِمْ‏.‏",
+        "translations": {
+          "en": "Narrated `Asim:I asked Anas bin Malik about the Qunut. Anas replied, \"Definitely it was (recited)\". I asked, \"Before bowing or after it?\" Anas replied, \"Before bowing.\" I added, \"So and so has told me that you had informed him that it had been after bowing.\" Anas said, \"He told an untruth (i.e. \"was mistaken,\" according to the Hijazi dialect). Allah's Messenger (ﷺ) recited Qunut after bowing for a period of one month.\" Anas added, \"The Prophet (ﷺ) sent about seventy men (who knew the Qur'an by heart) towards the pagans (of Najd) who were less than they in number and there was a peace treaty between them and Allah's Messenger (ﷺ) (but the Pagans broke the treaty and killed the seventy men). So Allah's Messenger (ﷺ) recited Qunut for a period of one month asking Allah to punish them",
+          "ur": "ہم سے مسدد بن مسرہد نے بیان کیا، کہا کہ ہم سے عبدالواحد بن زیاد نے بیان کیا، کہا کہ ہم سے عاصم بن سلیمان نے بیان کیا، انہوں نے کہا کہ میں نے انس بن مالک رضی اللہ عنہ سے قنوت کے بارے میں پوچھا تو آپ نے فرمایا کہ دعائے قنوت ( نبی کریم صلی اللہ علیہ وسلم کے دور میں ) پڑھی جاتی تھی۔ میں نے پوچھا کہ رکوع سے پہلے یا اس کے بعد؟ آپ نے فرمایا کہ رکوع سے پہلے۔ عاصم نے کہا کہ آپ ہی کے حوالے سے فلاں شخص نے خبر دی ہے کہ آپ نے رکوع کے بعد فرمایا تھا۔ اس کا جواب انس نے یہ دیا کہ انہوں نے غلط سمجھا۔ رسول اللہ صلی اللہ علیہ وسلم نے رکوع کے بعد صرف ایک مہینہ دعائے قنوت پڑھی تھی۔ ہوا یہ تھا کہ آپ صلی اللہ علیہ وسلم نے صحابہ میں سے ستر قاریوں کے قریب مشرکوں کی ایک قوم ( بنی عامر ) کی طرف سے ان کو تعلیم دینے کے لیے بھیجے تھے، یہ لوگ ان کے سوا تھے جن پر آپ نے بددعا کی تھی۔ ان میں اور نبی کریم صلی اللہ علیہ وسلم کے درمیان عہد تھا، لیکن انہوں نے عہد شکنی کی ( اور قاریوں کو مار ڈالا ) تو نبی کریم صلی اللہ علیہ وسلم ایک مہینہ تک ( رکوع کے بعد ) قنوت پڑھتے رہے ان پر بددعا کرتے رہے۔",
+          "fr": "Rapporté par `Asim : J’ai demandé à Anas bin Malik au sujet du Qunut. Anas a répondu : « Oui, il était récité. » J’ai demandé : « Avant ou après l’inclinaison ? » Anas a répondu : « Avant l’inclinaison. » J’ai ajouté : « Untel m’a dit que tu lui avais dit que c’était après l’inclinaison. » Anas a dit : « Il s’est trompé. Le Messager d’Allah (ﷺ) a récité le Qunut après l’inclinaison pendant un mois. » Anas a ajouté : « Le Prophète (ﷺ) a envoyé environ soixante-dix hommes qui connaissaient le Coran par cœur vers les polythéistes de Najd, qui étaient moins nombreux, et il y avait un traité de paix entre eux et le Messager d’Allah (ﷺ), mais les polythéistes ont rompu le traité et tué les soixante-dix hommes. Alors le Messager d’Allah (ﷺ) a récité le Qunut pendant un mois en demandant à Allah de les punir. »",
+          "id": "Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami ['Abdul Wahid bin Ziyad] berkata, telah menceritakan kepada kami ['Ashim] berkata, \"Aku pernah bertanya [Anas bin Malik] tentang qunut.\" Maka dia menjawab, \"Qunut itu benar adanya.\" Aku bertanya lagi, \"Apakah pelaksanaannya sebelum atau sesudah rukuk?\" Dia menjawab, \"Sebelum rukuK.\" Ashim berkata, \"Ada orang yang mengabarkan kepadaku bahwa engkau mengatakan bahwa pelaksanaannya setelah rukuk?\" Anas bin Malik menjawab, \"Orang itu dusta. Rasulullah shallallahu 'alaihi wasallam pernah melaksanakannya setelah rukuk selama satu bulan. Hal itu Beliau lakukan karena Beliau pernah mengutus sekelompok orang (ahli Al Qur'an) yang berjumlah sekitar tujuh puluh orang kepada Kaum Musyrikin selain mereka. Saat itu antara Rasulullah shallallahu 'alaihi wasallam dan kaum musyrikin ada perjanjian. Kemudian Rasulullah shallallahu 'alaihi wasallam melaksanakan doa qunut selama satu bulan untuk berdoa atas mereka (karena telah membunuh para utusannya)",
+          "tr": "Asim anlatıyor: \"Enes İbn Malik (r.a.)'e kunut duasının okunup okunmadığını sordum ve aramızda şöyle bir konuşma geçti: Peki rüku'dan önce mi yoksa sonra mı okundu? Rükudan önce. Fakat falanca kişi bana senin kunut rüku'dan sonra okunur dediğini nakletti. Yalan söylemiş/yanılmış. Resulullah Sallallahu Aleyhi ve Sellem rüku'dan sonra bir ay boyunca kunut okumuştu. Bunun sebebi de bana göre şu olay İdi: Resul-i Ekrem Sallallahu Aleyhi ve Sellem ashabının önde gelenlerinden Kur'an bilgileri üst düzeyde (kurra) yetmiş kişiyi müşriklere eğitim amacıyla göndermişti. Bu müşriklere Resuluilah Sallallahu Aleyhi ve Sellem arasında anlaşma da vardı. Fakat onlar ihanet edip bu sahabîleri şehid ettiler. İşte bunun üzerine Nebi Sallallahu Aleyhi ve Sellem kunut okuyup onlara bir ay boyunca beddua etti"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 14,
+        "hadith": 13
+      },
+      "narrator": {
+        "en": "`Asim"
+      }
+    },
+    {
+      "hadithNumber": 1003,
+      "arabicNumber": 1003,
+      "book": 14,
+      "hadithInBook": 14,
+      "text": {
+        "arabic": "أَخْبَرَنَا أَحْمَدُ بْنُ يُونُسَ، قَالَ حَدَّثَنَا زَائِدَةُ، عَنِ التَّيْمِيِّ، عَنْ أَبِي مِجْلَزٍ، عَنْ أَنَسٍ، قَالَ قَنَتَ النَّبِيُّ صلى الله عليه وسلم شَهْرًا يَدْعُو عَلَى رِعْلٍ وَذَكْوَانَ‏.‏",
+        "translations": {
+          "en": "Narrated Anas bin Malik:The Prophet (ﷺ) recited Qunut for one month (in the Fajr prayer) asking Allah to punish the tribes of Ral and Dhakwan",
+          "ur": "ہم سے احمد بن یونس نے بیان کیا، کہا کہ ہم سے زائدہ نے بیان کیا، ان سے تیمی نے، ان سے ابومجلز نے، ان سے انس بن مالک رضی اللہ عنہ کہ نبی کریم صلی اللہ علیہ وسلم نے ایک مہینہ تک دعا قنوت پڑھی اور اس میں قبائل رعل و ذکوان پر بددعا کی تھی۔",
+          "fr": "Rapporté par Anas bin Malik : Le Prophète (ﷺ) a récité le Qunut pendant un mois (dans la prière du Fajr) en demandant à Allah de punir les tribus de Ral et Dhakwan",
+          "id": "Telah menceritakan kepada kami [Ahmad bin Yunus] berkata, telah menceritakan kepada kami [Za'idah] dari [At Taimi] dari [Abu Mijlaz] dari [Anas bin Malik] ia berkata, \"Nabi shallallahu 'alaihi wasallam pernah melaksanakan qunut selama satu bulan untuk mendo'akan (kebinasaan) atas suku Ri'la dan Dzakwan",
+          "tr": "Enes İbn Malik (r.a.)'den nakledilmiştir: \"Nebi Sallallahu Aleyhi ve Sellem bir ay boyunca kunut okuyup Ri'l ve Zekvan kabilelerine beddua etti"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 14,
+        "hadith": 14
+      },
+      "narrator": {
+        "en": "Anas bin Malik"
+      }
+    },
+    {
+      "hadithNumber": 1004,
+      "arabicNumber": 1004,
+      "book": 14,
+      "hadithInBook": 15,
+      "text": {
+        "arabic": "حَدَّثَنَا مُسَدَّدٌ، قَالَ حَدَّثَنَا إِسْمَاعِيلُ، قَالَ حَدَّثَنَا خَالِدٌ، عَنْ أَبِي قِلاَبَةَ، عَنْ أَنَسٍ، قَالَ كَانَ الْقُنُوتُ فِي الْمَغْرِبِ وَالْفَجْرِ‏.‏",
+        "translations": {
+          "en": "Narrated Anas:The Qunut used to be recited in the Maghrib and the Fajr prayers",
+          "ur": "ہم سے مسدد بن مسرہد نے بیان کیا، کہا کہ ہمیں اسماعیل بن علیہ نے خبر دی، کہا کہ ہمیں خالد حذاء نے خبر دی، انہیں ابوقلابہ نے، انہیں انس بن مالک رضی اللہ عنہ نے، آپ نے فرمایا کہ نبی کریم صلی اللہ علیہ وسلم کے عہد میں قنوت مغرب اور فجر میں پڑھی جاتی تھی۔",
+          "fr": "Rapporté par Anas : Le Qunut était récité dans les prières du Maghrib et du Fajr",
+          "id": "Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Isma'il] berkata, telah menceritakan kepada kami [Khalid] dari [Abu Qilabah] dari [Anas bin Malik] berkata, \"Qunut itu dilakukan pada shalat Maghrib dan Shubuh",
+          "tr": "Enes İbn Malik (r.a.)'in şöyle dediği nakledilmiştir: \"Kunut duası akşam ve sabah namazlarında okunurdu"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 14,
+        "hadith": 15
+      },
+      "narrator": {
+        "en": "Anas"
+      }
+    }
+  ],
+  "metadata": {
+    "averageLength": "medium",
+    "size": "8KB"
+  }
+}

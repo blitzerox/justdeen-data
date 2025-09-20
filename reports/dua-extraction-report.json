@@ -1,0 +1,43 @@
+{
+  "timestamp": "2025-09-16T12:05:22.075Z",
+  "extraction": {
+    "categoriesProcessed": 5,
+    "duasExtracted": 97,
+    "filesCreated": 5,
+    "errors": 0,
+    "errorDetails": []
+  },
+  "categories": [
+    {
+      "source": "daily-dua",
+      "target": "daily",
+      "status": "success"
+    },
+    {
+      "source": "morning-dhikr",
+      "target": "morning",
+      "status": "success"
+    },
+    {
+      "source": "evening-dhikr",
+      "target": "evening",
+      "status": "success"
+    },
+    {
+      "source": "dhikr-after-salah",
+      "target": "prayer",
+      "status": "success"
+    },
+    {
+      "source": "selected-dua",
+      "target": "essential",
+      "status": "success"
+    }
+  ],
+  "recommendations": [
+    "Validate extracted files against schema",
+    "Test with mobile integration",
+    "Add audio pronunciations if available",
+    "Consider adding more languages"
+  ]
+}

@@ -1,0 +1,1108 @@
+{
+  "collection": "bukhari",
+  "book": 55,
+  "name": {
+    "arabic": "كتاب Wills and Testaments (Wasaayaa)",
+    "transliteration": "wills and testaments (wasaayaa)",
+    "translation": "Wills and Testaments (Wasaayaa)"
+  },
+  "totalHadith": 44,
+  "hadithNumberRange": {
+    "first": 2738,
+    "last": 2781
+  },
+  "content": [
+    {
+      "hadithNumber": 2738,
+      "arabicNumber": 2738,
+      "book": 55,
+      "hadithInBook": 1,
+      "text": {
+        "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، أَخْبَرَنَا مَالِكٌ، عَنْ نَافِعٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ـ رضى الله عنهما ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ مَا حَقُّ امْرِئٍ مُسْلِمٍ لَهُ شَىْءٌ، يُوصِي فِيهِ يَبِيتُ لَيْلَتَيْنِ، إِلاَّ وَوَصِيَّتُهُ مَكْتُوبَةٌ عِنْدَهُ ‏\"‏‏.‏ تَابَعَهُ مُحَمَّدُ بْنُ مُسْلِمٍ عَنْ عَمْرٍو عَنِ ابْنِ عُمَرَ عَنِ النَّبِيِّ صلى الله عليه وسلم‏.‏",
+        "translations": {
+          "en": "Narrated `Abdullah bin `Umar:Allah's Messenger (ﷺ) said, \"It is not permissible for any Muslim who has something to will to stay for two nights without having his last will and testament written and kept ready with him",
+          "ur": "ہم سے عبداللہ بن یوسف نے بیان کیا ‘ کہا ہم کو امام مالک نے خبر دی نافع سے ‘ وہ عبداللہ بن عمر رضی اللہ عنہما سے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا ”کسی مسلمان کے لیے جن کے پاس وصیت کے قابل کوئی بھی مال ہو درست نہیں کہ دو رات بھی وصیت کو لکھ کر اپنے پاس محفوظ رکھے بغیر گزارے۔“ امام مالک کے ساتھ اس روایت کی متابعت محمد بن مسلم نے عمرو بن دینار سے کی ہے ‘ انہوں نے ابن عمر رضی اللہ عنہما سے اور انہوں نے نبی کریم صلی اللہ علیہ وسلم سے روایت کی ہے۔",
+          "fr": "Rapporté par ‘Abdullah bin ‘Umar : Le Messager d’Allah (ﷺ) a dit : « Il n’est pas permis à un musulman qui a quelque chose à léguer de rester deux nuits sans avoir écrit son testament et l’avoir gardé prêt auprès de lui. »",
+          "id": "Telah bercerita kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Nafi'] dari ['Abdullah bin 'Umar radliallahu 'anhuma] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: \"Tidak ada haq seorang muslim yang mempunyai suatu barang yang akan diwasiatkannya, ia bermalam selama dua malam kecuali wasiatnya itu ditulis di sisinya\". Hadits ini diikuti pula oleh [Muhammad bin Muslim] dari ['Amru] dari [Ibnu 'Umar] dari Nabi shallallahu 'alaihi wasallam",
+          "tr": "Abdullah İbn Ömer r.a.'den nakledilmiştir: Allah Resulü Sallallahu Aleyhi ve Sellem \"Vasiyet edecek malı olan bir müslüman'ın vasiyeti başucunda olmadan üst üste iki geceyi geçirme hakkı yoktur\" buyurmuştur. Diğer tahric: Tirmizi Cenaiz; Müslim, Vasıyye -sahihtir"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 55,
+        "hadith": 1
+      },
+      "narrator": {
+        "en": "`Abdullah bin `Umar"
+      }
+    },
+    {
+      "hadithNumber": 2739,
+      "arabicNumber": 2739,
+      "book": 55,
+      "hadithInBook": 2,
+      "text": {
+        "arabic": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ الْحَارِثِ، حَدَّثَنَا يَحْيَى بْنُ أَبِي بُكَيْرٍ، حَدَّثَنَا زُهَيْرُ بْنُ مُعَاوِيَةَ الْجُعْفِيُّ، حَدَّثَنَا أَبُو إِسْحَاقَ، عَنْ عَمْرِو بْنِ الْحَارِثِ، خَتَنِ رَسُولِ اللَّهِ صلى الله عليه وسلم أَخِي جُوَيْرِيَةَ بِنْتِ الْحَارِثِ قَالَ مَا تَرَكَ رَسُولُ اللَّهِ صلى الله عليه وسلم عِنْدَ مَوْتِهِ دِرْهَمًا وَلاَ دِينَارًا وَلاَ عَبْدًا وَلاَ أَمَةً وَلاَ شَيْئًا، إِلاَّ بَغْلَتَهُ الْبَيْضَاءَ وَسِلاَحَهُ وَأَرْضًا جَعَلَهَا صَدَقَةً‏.‏",
+        "translations": {
+          "en": "Narrated `Amr bin Al-Harith:(The brother of the wife of Allah's Messenger (ﷺ), Juwairiya bint Al-Harith) When Allah's Messenger (ﷺ) died, he did not leave any Dirham or Dinar (i.e. money), a slave or a slave woman or anything else except his white mule, his arms and a piece of land which he had given in charity",
+          "ur": "ہم سے ابراہیم بن حارث نے بیان کیا ‘ انہوں نے کہا ہم سے یحییٰ ابن ابی بکیر نے بیان کیا ‘ انہوں نے کہا ہم سے زہیر بن معاویہ جعفی نے بیان کیا ‘ انہوں نے کہا ہم سے ابواسحاق عمرو بن عبداللہ نے بیان کیا اور ان سے رسول اللہ صلی اللہ علیہ وسلم کے نسبتی بھائی عمرو بن حارث رضی اللہ عنہ نے جو جویریہ بنت حارث رضی اللہ عنہا ( ام المؤمنین ) کے بھائی ہیں ‘ بیان کیا کہ رسول اللہ صلی اللہ علیہ وسلم نے اپنی وفات کے بعد سوائے اپنے سفید خچر ‘ اپنے ہتھیار اور اپنی زمین کے جسے آپ صلی اللہ علیہ وسلم وقف کر گئے تھے نہ کوئی درہم چھوڑا تھا نہ دینار نہ غلام نہ باندی اور نہ کوئی چیز۔",
+          "fr": "Rapporté par ‘Amr bin Al-Harith : (Le frère de l’épouse du Messager d’Allah (ﷺ), Juwairiya bint Al-Harith) Quand le Messager d’Allah (ﷺ) est décédé, il n’a laissé ni dirham ni dinar (c’est-à-dire d’argent), ni esclave homme ou femme, ni rien d’autre, sauf sa mule blanche, ses armes et un terrain qu’il avait donné en aumône",
+          "id": "Telah bercerita kepada kami [Ibrahim bin Al Harits] telah bercerita kepada kami [Yahya bin Abi Bukair] telah bercerita kepada kami [Zuhair bin Mu'awiah Al Ju'fiy] telah bercerita kepada kami [Abu Ishaq] dari ['Amru bin Al Harits], saudara ipar Rasulullah shallallahu 'alaihi wasallam, yaitu saudara dari Juwairiyah binti Al harits berkata; Ketika meninggal dunia Rasulullah shallallahu 'alaihi wasallam tidak meninggalkan dirham, dinar, budak laki-laki maupun perempuan dan tidak meninggalkan sesuatupun kecuali baghol (hewan peranakan kuda dengan keledai) Beliau yang berwarna putih, senjata perang dan tanah yang Beliau jadikan sebagai shadaqah",
+          "tr": "Allah Resulü'nün Sallallahu aleyhi ve sellem kayınbiraderi Cüveyriye bintü'lHaris'in erkek kardeşi Amr İbnü'l-Haris'ten nakledilmiştir: Allah Resulü Sallallahu Aleyhi ve Sellem vefat ettiğinde ne dirhem, ne dinar, ne köle, ne cariye, ne de herhangi bir mal bırakmadı. Geriye bıraktığı tek şey, beyaz katırı, silahı ve sadaka olarak bıraktığı bir tarlaydı. Tekrar:"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 55,
+        "hadith": 2
+      },
+      "narrator": {
+        "en": "`Amr bin Al-Harith"
+      }
+    },
+    {
+      "hadithNumber": 2740,
+      "arabicNumber": 2740,
+      "book": 55,
+      "hadithInBook": 3,
+      "text": {
+        "arabic": "حَدَّثَنَا خَلاَّدُ بْنُ يَحْيَى، حَدَّثَنَا مَالِكٌ، حَدَّثَنَا طَلْحَةُ بْنُ مُصَرِّفٍ، قَالَ سَأَلْتُ عَبْدَ اللَّهِ بْنَ أَبِي أَوْفَى ـ رضى الله عنهما ـ هَلْ كَانَ النَّبِيُّ صلى الله عليه وسلم أَوْصَى فَقَالَ لاَ‏.‏ فَقُلْتُ كَيْفَ كُتِبَ عَلَى النَّاسِ الْوَصِيَّةُ أَوْ أُمِرُوا بِالْوَصِيَّةِ قَالَ أَوْصَى بِكِتَابِ اللَّهِ‏.‏",
+        "translations": {
+          "en": "Narrated Talha bin Musarrif:I asked `Abdullah bin Abu `Aufa \"Did the Prophet (ﷺ) make a will?\" He replied, \"No,\" I asked him, \"How is it then that the making of a will has been enjoined on people, (or that they are ordered to make a will)?\" He replied, \"The Prophet (ﷺ) bequeathed Allah's Book (i.e. Qur'an)",
+          "ur": "ہم سے خلاد بن یحییٰ نے بیان کیا ‘ کہا ہم سے امام مالک نے بیان کیا ‘ کہا ہم سے طلحہ بن مصرف نے بیان کیا ‘ انہوں نے بیان کیا کہ میں نے عبداللہ بن ابی اوفی رضی اللہ عنہ سے سوال کیا کہ رسول اللہ صلی اللہ علیہ وسلم نے کوئی وصیت کی تھی؟ انہوں نے کہا کہ نہیں۔ اس پر میں نے پوچھا کہ پھر وصیت کس طرح لوگوں پر فرض ہوئی؟ یا ( راوی نے اس طرح بیان کیا ) کہ لوگوں کو وصیت کا حکم کیوں کر دیا گیا؟ انہوں نے کہا کہ آپ صلی اللہ علیہ وسلم نے لوگوں کو کتاب اللہ پر عمل کرنے کی وصیت کی تھی ( اور کتاب اللہ میں وصیت کرنے کے لیے حکم موجود ہے ) ۔",
+          "fr": "Rapporté par Talha bin Musarrif : J’ai demandé à ‘Abdullah bin Abu ‘Awfa : « Le Prophète (ﷺ) a-t-il fait un testament ? » Il a répondu : « Non. » Je lui ai demandé : « Comment se fait-il alors que le testament soit recommandé aux gens ? » Il a répondu : « Le Prophète (ﷺ) a légué le Livre d’Allah (c’est-à-dire le Coran). »",
+          "id": "Telah bercerita kepada kami [Khollad bin Yahya] telah bercerita kepada kami [Malik, dia adalah putra Mighwal] telah bercerita kepada kami [Thalhah bin Mushorrif] berkata; Aku bertanya kepada ['Abdullah bin Abi Aufaa radliallahu 'anhuma]: \"Apakah Nabi shallallahu 'alaihi wasallam pernah berwasiat?\" Dia menjawab: \"Tidak\". Kemudian aku tanya lagi: \"Lalu bagaimana berwasiat itu diwajibkan kepada manusia atau mereka diperintahkan supaya berwasiat?\" Dia menjawab: \"Beliau berwasiat dengan Kitab Allah",
+          "tr": "Talha İbn Musarrif'ten nakledilmiştir: Abdullah İbn Ebu Evfa r.a.'a \"Allah Resulü Sallallahu aleyhi ve sellem vasiyet etmiş miydi?\" diye sordum. \"Hayır\" dedi. \"İnsanların vasiyet etmeleri nasıl farz kılındı?\" diye sordum. \"Allah'ın Kitabını vasiyet etti\" dedi. Tekrar:"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 55,
+        "hadith": 3
+      },
+      "narrator": {
+        "en": "Talha bin Musarrif"
+      }
+    },
+    {
+      "hadithNumber": 2741,
+      "arabicNumber": 2741,
+      "book": 55,
+      "hadithInBook": 4,
+      "text": {
+        "arabic": "حَدَّثَنَا عَمْرُو بْنُ زُرَارَةَ، أَخْبَرَنَا إِسْمَاعِيلُ، عَنِ ابْنِ عَوْنٍ، عَنْ إِبْرَاهِيمَ، عَنِ الأَسْوَدِ، قَالَ ذَكَرُوا عِنْدَ عَائِشَةَ أَنَّ عَلِيًّا ـ رضى الله عنهما ـ كَانَ وَصِيًّا‏.‏ فَقَالَتْ مَتَى أَوْصَى إِلَيْهِ وَقَدْ كُنْتُ مُسْنِدَتَهُ إِلَى صَدْرِي ـ أَوْ قَالَتْ حَجْرِي ـ فَدَعَا بِالطَّسْتِ، فَلَقَدِ انْخَنَثَ فِي حَجْرِي، فَمَا شَعَرْتُ أَنَّهُ قَدْ مَاتَ، فَمَتَى أَوْصَى إِلَيْهِ",
+        "translations": {
+          "en": "Narrated Al-Aswad:In the presence of `Aisha some people mentioned that the Prophet (ﷺ) had appointed `Ali by will as his successor. `Aisha said, \"When did he appoint him by will? Verily when he died he was resting against my chest (or said: in my lap) and he asked for a wash-basin and then collapsed while in that state, and I could not even perceive that he had died, so when did he appoint him by will?",
+          "ur": "ہم سے عمرو بن زرارہ نے بیان کیا ‘ کہ ہم کو اسماعیل بن علیہ نے خبر دی عبداللہ بن عون سے ‘ انہیں ابراہیم نخعی نے ‘ ان سے اسود بن یزید نے بیان کیا کہ عائشہ رضی اللہ عنہا کے یہاں کچھ لوگوں نے ذکر کیا کہ علی رضی اللہ عنہ ( نبی کریم صلی اللہ علیہ وسلم کے ) وصی تھے تو آپ نے کہا کہ کب انہیں وصی بنایا۔ میں تو آپ کے وصال کے وقت سر مبارک اپنے سینے پر یا انہوں نے ( بجائے سینے کے ) کہا کہ اپنے گود میں رکھے ہوئے تھی پھر آپ صلی اللہ علیہ وسلم نے ( پانی کا ) طشت منگوایا تھا کہ اتنے میں ( سر مبارک ) میری گود میں جھک گیا اور میں سمجھ نہ سکی کہ آپ صلی اللہ علیہ وسلم کی وفات ہو چکی ہے تو آپ صلی اللہ علیہ وسلم نے علی رضی اللہ عنہ کو وصی کب بنایا۔",
+          "fr": "Rapporté par Al-Aswad : En présence de ‘Aisha, certaines personnes ont mentionné que le Prophète (ﷺ) aurait désigné ‘Ali comme successeur par testament. ‘Aisha a dit : « Quand l’a-t-il désigné par testament ? En vérité, lorsqu’il est mort, il était appuyé contre ma poitrine (ou elle a dit : sur mes genoux), il a demandé un bassin pour se laver puis il s’est effondré dans cet état, et je n’ai même pas réalisé qu’il était mort. Alors, quand aurait-il pu faire un testament ? »",
+          "id": "Telah bercerita kepada kami ['Amru bin Zurarah] telah mengabarkan kepada kami [Isma'il] dari [Ibnu 'Aun] dari [Ibrahim] dari [Al Aswad] berkata: \"Orang-orang menyebutkan di hadapan ['Aisyah] bahwa 'Ali radliallahu 'anhuma menerima wasiat (kekhalifahan) \". Maka dia bertanya: \"Kapan Beliau memberi wasiat itu kepadanya padahal aku adalah orang yang selalu menyandarkan Beliau di dadaku\" (saat menjelang wafat Beliau). Atau dia berkata: \"berada dalam pangkuanku\", dimana Beliau meminta air dalam wadah (terbuat dari tembaga) hingga Beliau jatuh dalam pangkuanku dan aku tidak sadar kalau Beliau sudah wafat. Jadi kapan Beliau memberi wasiat kepadanya",
+          "tr": "Esved'den nakledilmiştir: Hz. Aişe r.anha'nın yanında Hz. Nebi'in Hz. Ali'ye vasiyet ettiği konuşulmuştu. \"Ne zaman vasiyet etmiş. Ben onu göğsüme dayamıştım. Bir tas su istedi. Sonra kucağıma uzandı. Ben onun öldüğünü bile sezmedim. Ne zaman vasiyet etmiş?\" dedi"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 55,
+        "hadith": 4
+      },
+      "narrator": {
+        "en": "Al-Aswad"
+      }
+    },
+    {
+      "hadithNumber": 2742,
+      "arabicNumber": 2742,
+      "book": 55,
+      "hadithInBook": 5,
+      "text": {
+        "arabic": "حَدَّثَنَا أَبُو نُعَيْمٍ، حَدَّثَنَا سُفْيَانُ، عَنْ سَعْدِ بْنِ إِبْرَاهِيمَ، عَنْ عَامِرِ بْنِ سَعْدٍ، عَنْ سَعْدِ بْنِ أَبِي وَقَّاصٍ ـ رضى الله عنه ـ قَالَ جَاءَ النَّبِيُّ صلى الله عليه وسلم يَعُودُنِي وَأَنَا بِمَكَّةَ، وَهْوَ يَكْرَهُ أَنْ يَمُوتَ بِالأَرْضِ الَّتِي هَاجَرَ مِنْهَا قَالَ ‏\"‏ يَرْحَمُ اللَّهُ ابْنَ عَفْرَاءَ ‏\"‏‏.‏ قُلْتُ يَا رَسُولَ اللَّهِ، أُوصِي بِمَالِي كُلِّهِ قَالَ ‏\"‏ لاَ ‏\"‏‏.‏ قُلْتُ فَالشَّطْرُ قَالَ ‏\"‏ لاَ ‏\"‏‏.‏ قُلْتُ الثُّلُثُ‏.‏ قَالَ ‏\"‏ فَالثُّلُثُ، وَالثُّلُثُ كَثِيرٌ، إِنَّكَ أَنْ تَدَعَ وَرَثَتَكَ أَغْنِيَاءَ خَيْرٌ مِنْ أَنْ تَدَعَهُمْ عَالَةً يَتَكَفَّفُونَ النَّاسَ فِي أَيْدِيهِمْ، وَإِنَّكَ مَهْمَا أَنْفَقْتَ مِنْ نَفَقَةٍ فَإِنَّهَا صَدَقَةٌ، حَتَّى اللُّقْمَةُ الَّتِي تَرْفَعُهَا إِلَى فِي امْرَأَتِكَ، وَعَسَى اللَّهُ أَنْ يَرْفَعَكَ فَيَنْتَفِعَ بِكَ نَاسٌ وَيُضَرَّ بِكَ آخَرُونَ ‏\"‏‏.‏ وَلَمْ يَكُنْ لَهُ يَوْمَئِذٍ إِلاَّ ابْنَةٌ‏.‏",
+        "translations": {
+          "en": "Narrated Sa`d bin Abu Waqqas:The Prophet (ﷺ) came visiting me while I was (sick) in Mecca, ('Amir the sub-narrator said, and he disliked to die in the land, whence he had already migrated). He (i.e. the Prophet) said, \"May Allah bestow His Mercy on Ibn Afra (Sa`d bin Khaula).\" I said, \"O Allah's Messenger (ﷺ)! May I will all my property (in charity)?\" He said, \"No.\" I said, \"Then may I will half of it?\" He said, \"No\". I said, \"One third?\" He said: \"Yes, one third, yet even one third is too much. It is better for you to leave your inheritors wealthy than to leave them poor begging others, and whatever you spend for Allah's sake will be considered as a charitable deed even the handful of food you put in your wife's mouth. Allah may lengthen your age so that some people may benefit by you, and some others be harmed by you.\" At that time Sa`d had only one daughter",
+          "ur": "ہم سے ابونعیم نے بیان کیا ‘ کہا ہم سے سفیان بن عیینہ نے بیان کیا سعد بن ابراہیم سے ‘ ان سے عامر بن سعد نے اور ان سے سعد بن ابی وقاص نے بیان کیا کہ نبی کریم صلی اللہ علیہ وسلم ( حجۃ الوداع میں ) میری عیادت کو تشریف لائے ‘ میں اس وقت مکہ میں تھا۔ نبی کریم صلی اللہ علیہ وسلم اس سر زمین پر موت کو پسند نہیں فرماتے تھے جہاں سے کوئی ہجرت کر چکا ہو۔ آپ صلی اللہ علیہ وسلم نے فرمایا ”اللہ ابن عفراء ( سعد بن خولہ رضی اللہ عنہ ) پر رحم فرمائے۔“ میں عرض کیا یا رسول اللہ! میں اپنے سارے مال و دولت کی وصیت کر دوں۔ آپ صلی اللہ علیہ وسلم نے فرمایا ”نہیں“ میں نے پوچھا پھر آدھے کی کر دوں؟ آپ صلی اللہ علیہ وسلم نے اس پر بھی یہی فرمایا ”نہیں“ میں نے پوچھا پھر تہائی کی کر دوں۔ آپ صلی اللہ علیہ وسلم نے فرمایا تہائی کی کر سکتے ہو اور یہ بھی بہت ہے ‘ اگر تم اپنے وارثوں کو اپنے پیچھے مالدار چھوڑو تو یہ اس سے بہتر ہے کہ انہیں محتاج چھوڑو کہ لوگوں کے سامنے ہاتھ پھیلاتے پھریں ‘ اس میں کوئی شبہ نہیں کہ جب تم اپنی کوئی چیز ( اللہ کے لیے خرچ کرو گے ) تو وہ خیرات ہے ‘ یہاں تک کہ وہ لقمہ بھی جو تم اپنی بیوی کے منہ میں ڈالو گے ( وہ بھی خیرات ہے ) اور ( ابھی وصیت کرنے کی کوئی ضرورت بھی نہیں ) ممکن ہے کہ اللہ تعالیٰ تمہیں شفاء دے اور اس کے بعد تم سے بہت سے لوگوں کو فائدہ ہو اور دوسرے بہت سے لوگ ( اسلام کے مخالف ) نقصان اٹھائیں۔ اس وقت سعد رضی اللہ عنہ کی صرف ایک بیٹی تھی۔",
+          "fr": "Rapporté par Sa’d bin Abu Waqqas : Le Prophète (ﷺ) est venu me rendre visite alors que j’étais malade à La Mecque (‘Amir, le sous-narrateur, a dit qu’il n’aimait pas mourir dans la terre d’où il avait émigré). Il (le Prophète) a dit : « Qu’Allah fasse miséricorde à Ibn Afra (Sa’d bin Khaula). » J’ai dit : « Ô Messager d’Allah (ﷺ), puis-je léguer tous mes biens (en aumône) ? » Il a dit : « Non. » J’ai dit : « Alors puis-je léguer la moitié ? » Il a dit : « Non. » J’ai dit : « Un tiers ? » Il a dit : « Oui, un tiers, mais même un tiers c’est trop. Il vaut mieux que tu laisses tes héritiers riches plutôt que pauvres et dépendants des autres, et tout ce que tu dépenses pour la cause d’Allah sera considéré comme une aumône, même la bouchée que tu mets dans la bouche de ta femme. Allah peut prolonger ta vie afin que certains profitent de toi et que d’autres soient affectés par toi. » À ce moment-là, Sa’d n’avait qu’une seule fille",
+          "id": "Telah bercerita kepada kami [Abu Nu'aim] telah bercerita kepada kami [Sufyan] dari [Sa'ad bin Ibrahim] dari ['Amir bin Sa'ad] dari [Sa'ad bin Abi Waqosh radliallahu 'anhu] berkata; Nabi shallallahu 'alaihi wasallam datang menjengukku (saat aku sakit) ketika aku berada di Makkah\". Dia tidak suka bila meninggal dunia di negeri dimana dia sudah berhijrah darinya. Beliau bersabda; \"Semoga Allah merahmati Ibnu 'Afra'\". Aku katakan: \"Wahai Rasulullah, aku mau berwasiat untuk menyerahkan seluruh hartaku\". Beliau bersabda: \"Jangan\". Aku katakan: \"Setengahnya\" Beliau bersabda: \"Jangan\". Aku katakan lagi: \"Sepertiganya\". Beliau bersabda: \"Ya, sepertiganya dan sepertiga itu sudah banyak. Sesungguhnya jika kamu meninggalkan ahli warismu dalam keadaan kaya itu lebih baik daripada kamu meninggalkan mereka dalam keadaan miskin lalu mengemis kepada manusia dengan menengadahkan tangan mereka. Sesungguhnya apa saja yang kamu keluarkan berupa nafkah sesungguhnya itu termasuk shadaqah sekalipun satu suapan yang kamu masukkan ke dalam mulut istrimu. Dan semoga Allah mengangkatmu dimana Allah memberi manfaat kepada manusia melalui dirimu atau memberikan madharat orang-orang yang lainnya\". Saat itu dia (Sa'ad) tidak memiliki ahli waris kecuali seorang anak perempuan",
+          "tr": "Sa'd İbn Ebi Vakkas r.a.'dan nakledilmiştir: Ben Mekke'de hastalanmıştım. Nebi Sallallahu Aleyhi ve Sellem beni ziyarete geldi. -Kendisinden hicret ettiği toprakta vefat etmek istemiyordu.- Hz. Nebi \"Allah Afra'nın oğluna rahmet etsin\" buyurdu. \"Ey Allah'ın Resulü! Malımın tamamını vasiyet edeyim (mi? ne dersin)\" dedim. \"Hayır\" buyurdu. \"Peki yarısını?\" dedim. \"Hayır\" buyurdu. \"Üçte birini?\" dedim. \"Üçte bir olur. Üçte bir bile çok (ya). Senin aileni zengin bırakman insanlara el açar bir vaziyette fakir bırakmandan daha iyidir. Senin ailene yaptığın her türlü harcama da sadakadır. Hanımının ağzına koyduğun lokma var ya o bile. Umarım ki Allah seni hasta döşeğinden kaldırır da bazı insanlar senden faydalanır, kimileri de zarar görür\" buyurdu. O gün Sad İbn Ebi Vakkas'ın tek bir kızı vardı"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 55,
+        "hadith": 5
+      },
+      "narrator": {
+        "en": "Sa`d bin Abu Waqqas"
+      }
+    },
+    {
+      "hadithNumber": 2743,
+      "arabicNumber": 2743,
+      "book": 55,
+      "hadithInBook": 6,
+      "text": {
+        "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا سُفْيَانُ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ قَالَ لَوْ غَضَّ النَّاسُ إِلَى الرُّبْعِ، لأَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ الثُّلُثُ، وَالثُّلُثُ كَثِيرٌ أَوْ كَبِيرٌ ‏\"‏‏.‏",
+        "translations": {
+          "en": "Narrated Ibn `Abbas:I recommend that people reduce the proportion of what they bequeath by will to the fourth (of the whole legacy), for Allah's Messenger (ﷺ) said, \"One-third, yet even one third is too much",
+          "ur": "ہم سے قتیبہ بن سعید نے بیان کیا ‘ کہا ہم سے سفیان بن عیینہ نے بیان کیا ‘ ان سے ہشام بن عروہ نے ‘ ان سے ان کے والد نے اور ان سے ابن عباس رضی اللہ عنہما نے بیان کیا کاش ! لوگ (وصیت کو) چوتھائی تک کم کر دیتے تو بہتر ہوتا کیونکہ رسول اللہ صلی ‌اللہ ‌علیہ ‌وسلم نے فرمایا تھا ” تم تہائی (کی وصیت کر سکتے ہو) اور تہائی بھی بہت ہے ۔ “ یا (آپ صلی ‌اللہ ‌علیہ ‌وسلم نے یہ فرمایا کہ) ” یہ بہت زیادہ رقم ہے ۔ “",
+          "fr": "Rapporté par Ibn ‘Abbas : Je recommande aux gens de réduire la part de ce qu’ils lèguent par testament au quart (de tout l’héritage), car le Messager d’Allah (ﷺ) a dit : « Un tiers, mais même un tiers c’est trop. »",
+          "id": "Telah bercerita kepada kami [Qutaibah bin Sa'ad] telah bercerita kepada kami [Sufyan] dari [Hisyam bin 'Urwah] dari [bapaknya] dari [Ibnu 'Abbas radliallahu 'anhuma] berkata: \"Kalau seandainya orang-orang itu mau mengurangi hingga seperempatnya, karena Rasulullah shallallahu 'alaihi wasallam bersabda: \"Sepertiganya dan sepertiga itu banyak atau besar",
+          "tr": "Abdullah İbn Abbas’ın \"Keşke insanlar (vasiyeti) dörtte bire indirseler. Çünkü Nebi Sallallahu Aleyhi ve Sellem \"Üçte bir olur. Gerçi üçte bir de çok (ya)\" buyuruyor\" dediği nakledilmiştir"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 55,
+        "hadith": 6
+      },
+      "narrator": {
+        "en": "Ibn `Abbas"
+      }
+    },
+    {
+      "hadithNumber": 2744,
+      "arabicNumber": 2744,
+      "book": 55,
+      "hadithInBook": 7,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ الرَّحِيمِ، حَدَّثَنَا زَكَرِيَّاءُ بْنُ عَدِيٍّ، حَدَّثَنَا مَرْوَانُ، عَنْ هَاشِمِ بْنِ هَاشِمٍ، عَنْ عَامِرِ بْنِ سَعْدٍ، عَنْ أَبِيهِ ـ رضى الله عنه ـ قَالَ مَرِضْتُ فَعَادَنِي النَّبِيُّ صلى الله عليه وسلم فَقُلْتُ يَا رَسُولَ اللَّهِ ادْعُ اللَّهَ أَنْ لاَ يَرُدَّنِي عَلَى عَقِبِي‏.‏ قَالَ ‏\"‏ لَعَلَّ اللَّهَ يَرْفَعُكَ وَيَنْفَعُ بِكَ نَاسًا ‏\"‏‏.‏ قُلْتُ أُرِيدُ أَنْ أُوصِيَ، وَإِنَّمَا لِي ابْنَةٌ ـ قُلْتُ ـ أُوصِي بِالنِّصْفِ قَالَ ‏\"‏ النِّصْفُ كَثِيرٌ ‏\"‏‏.‏ قُلْتُ فَالثُّلُثِ‏.‏ قَالَ ‏\"‏ الثُّلُثُ، وَالثُّلُثُ كَثِيرٌ أَوْ كَبِيرٌ ‏\"‏‏.‏ قَالَ فَأَوْصَى النَّاسُ بِالثُّلُثِ، وَجَازَ ذَلِكَ لَهُمْ‏.‏",
+        "translations": {
+          "en": "Narrated Sa`d:I fell sick and the Prophet (ﷺ) paid me a visit. I said to him, \"O Allah's Messenger (ﷺ)! I invoke Allah that He may not let me expire in the land whence I migrated (i.e. Mecca).\" He said, \"May Allah give you health and let the people benefit by you.\" I said, \"I want to will my property, and I have only one daughter and I want to will half of my property (to be given in charity).\" He said,\" Half is too much.\" I said, \"Then I will one third.\" He said, \"One-third, yet even one-third is too much.\" (The narrator added, \"So the people started to will one third of their property and that was Permitted for them)",
+          "ur": "ہم سے محمد بن عبدالرحیم نے بیان کیا ‘ کہا ہم سے زکریا بن عدی نے بیان کیا ‘ ان سے مروان بن معاویہ نے ‘ ان سے ہاشم ابن ہاشم نے ‘ ان سے عامر بن سعد نے اور ان سے ان کے باپ سعد بن ابی وقاص نے بیان کیا کہ میں مکہ میں بیمار پڑا تو رسول اللہ صلی اللہ علیہ وسلم میری عیادت کیلئے تشریف لائے۔ میں نے عرض کیا یا رسول اللہ! میرے لیے دعا کیجئے کہ اللہ مجھے الٹے پاؤں واپس نہ کر دے ( یعنی مکہ میں میری موت نہ ہو ) آپ صلی اللہ علیہ وسلم نے فرمایا ممکن ہے کہ اللہ تعالیٰ تمہیں صحت دے اور تم سے بہت سے لوگ نفع اٹھائیں۔ میں نے عرض کیا میرا ارادہ وصیت کرنے کا ہے۔ ایک لڑکی کے سوا اور میرے کوئی ( اولاد ) نہیں۔ میں نے پوچھا کیا آدھے مال کی وصیت کر دوں؟ آپ صلی اللہ علیہ وسلم نے فرمایا کہ آدھا تو بہت ہے۔ پھر میں نے پوچھا تو تہائی کی کر دوں؟ فرمایا کہ تہائی کی کر سکتے ہو اگرچہ یہ بھی بہت ہے یا ( یہ فرمایا کہ ) بڑی ( رقم ) ہے۔ چنانچہ لوگ بھی تہائی کی وصیت کرنے لگے اور یہ ان کیلئے جائز ہو گئی۔",
+          "fr": "Rapporté par Sa’d : Je suis tombé malade et le Prophète (ﷺ) est venu me rendre visite. Je lui ai dit : « Ô Messager d’Allah (ﷺ), j’invoque Allah pour qu’Il ne me fasse pas mourir dans la terre d’où j’ai émigré (c’est-à-dire La Mecque). » Il a dit : « Qu’Allah te donne la santé et que les gens profitent de toi. » J’ai dit : « Je veux léguer mes biens, et je n’ai qu’une fille, je veux donner la moitié (en aumône). » Il a dit : « La moitié, c’est trop. » J’ai dit : « Alors, un tiers. » Il a dit : « Un tiers, mais même un tiers c’est trop. » (Le narrateur a ajouté : « Les gens ont alors commencé à léguer un tiers de leurs biens et cela leur a été permis. »)",
+          "id": "Telah bercerita kepada kami [Muhammad bin 'Abdur Rohim] telah bercerita kepada kami [Zakariya' bin 'Adiy] telah bercerita kepada kami [Marwan] dari [Hasyim bin Hasyim] dari ['Amir bin Sa'ad] dari [bapaknya radliallahu 'anhu] berkata: \"Aku sakit lalu Nabi shallallahu 'alaihi wasallam menjengukku. Kemudian aku katakan: \"Wahai Rasulullah, mohonkanlah kepada Allah agar Dia tidak mengembalikan aku kepada keadaan sebelumnya (negeri kafir) \". Maka Beliau bersabda: \"Semoga Allah mengangkat derajatmu dengan memberikan manfaat kepada manusia melalui dirimu\". Aku katakan: \"Aku ingin berwasiat karena aku hanya memiliki seorang anak perempuan\". Aku katakan: \"Aku ingin berwasiat dengan setengah hartaku\". Beliau bersabda: \"Setengah itu banyak\". Aku katakan lagi: \"Sepertiganya\". Beliau bersabda: \"Ya, sepertiga dan sepertiga itu banyak atau besar\". Dia (Sa'ad) berkata: \"Maka kemudian orang-orang berwasiat dengan sepertiga dan Beliau membolehkannya",
+          "tr": "Amir İbn Said, babasından nakletmiştir: Hastalanmıştım. Nebi (Sallallahu aleyhi ve Selleın beni ziyarete geldi. \"Ey Allah’ın Resulü! Dua buyursan da Allah beni gerisin geriye çevirmese\" dedim. \"Umarım ki Allah seni hasta döşeğinden kaldırır da insanları senden yararlandınrIf buyurdu. \"Vasiyet etmek istiyorum. Bir tek kızım var .... Malımın yarısını vasiyet edeyim mi?\" dedim.\"Yarısl çok olur\" buyurdu. \"Peki üçte birini vasiyet etsem olur mu?\" dedim. \"Üçte bir olur. Aslında o da çok (ya)\" buyurdu. Said İbn Ebi Vakkas diyor ki: İnsanlar bu olaydan sonra mallarının üçte birini vasiyet ettiler ve bu onlar için caiz oldu"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 55,
+        "hadith": 7
+      },
+      "narrator": {
+        "en": "Sa`d"
+      }
+    },
+    {
+      "hadithNumber": 2745,
+      "arabicNumber": 2745,
+      "book": 55,
+      "hadithInBook": 8,
+      "text": {
+        "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، عَنْ مَالِكٍ، عَنِ ابْنِ شِهَابٍ، عَنْ عُرْوَةَ بْنِ الزُّبَيْرِ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ زَوْجِ النَّبِيِّ صلى الله عليه وسلم أَنَّهَا قَالَتْ كَانَ عُتْبَةُ بْنُ أَبِي وَقَّاصٍ عَهِدَ إِلَى أَخِيهِ سَعْدِ بْنِ أَبِي وَقَّاصٍ أَنَّ ابْنَ وَلِيدَةِ زَمْعَةَ مِنِّي، فَاقْبِضْهُ إِلَيْكَ‏.‏ فَلَمَّا كَانَ عَامُ الْفَتْحِ أَخَذَهُ سَعْدٌ فَقَالَ ابْنُ أَخِي، قَدْ كَانَ عَهِدَ إِلَىَّ فِيهِ‏.‏ فَقَامَ عَبْدُ بْنُ زَمْعَةَ فَقَالَ أَخِي، وَابْنُ أَمَةِ أَبِي، وُلِدَ عَلَى فِرَاشِهِ‏.‏ فَتَسَاوَقَا إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم‏.‏ فَقَالَ سَعْدٌ يَا رَسُولَ اللَّهِ، ابْنُ أَخِي، كَانَ عَهِدَ إِلَىَّ فِيهِ‏.‏ فَقَالَ عَبْدُ بْنُ زَمْعَةَ أَخِي وَابْنُ وَلِيدَةِ أَبِي‏.‏ وَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ هُوَ لَكَ يَا عَبْدُ ابْنَ زَمْعَةَ، الْوَلَدُ لِلْفِرَاشِ، وَلِلْعَاهِرِ الْحَجَرُ ‏\"‏‏.‏ ثُمَّ قَالَ لِسَوْدَةَ بِنْتِ زَمْعَةَ ‏\"‏ احْتَجِبِي مِنْهُ ‏\"‏‏.‏ لِمَا رَأَى مِنْ شَبَهِهِ بِعُتْبَةَ، فَمَا رَآهَا حَتَّى لَقِيَ اللَّهَ‏.‏",
+        "translations": {
+          "en": "Narrated `Aisha:(the wife of the Prophet) `Utba bin Abi Waqqas entrusted (his son) to his brother Sa`d bin Abi Waqqas saying, \"The son of the slave-girl of Zam`a is my (illegal) son, take him into your custody.\" So during the year of the Conquest (of Mecca) Sa`d took the boy and said, \"This is my brother's son whom my brother entrusted to me.\" 'Abu bin Zam'a got up and said, \"He is my brother and the son of the slave girl of my father and was born on my father's bed.\" Then both of them came to Allah's Apostle and Sa`d said, \"O Allah's Messenger (ﷺ)! This is my brother's son whom my brother entrusted to me.\" Then 'Abu bin Zam`a got up and said, \"This is my brother and the son of the slave-girl of my father.\" Allah's Messenger (ﷺ) said, \"O Abu bin Zam`a! This boy is for you as the boy belongs to the bed (where he was born), and for the adulterer is the stone (i.e. deprivation).\" Then the Prophet (ﷺ) said to his wife Sauda bint Zam`a, \"Screen yourself from this boy,\" when he saw the boy's resemblance to `Utba. Since then the boy did not see Sauda till he died",
+          "ur": "ہم سے عبداللہ بن مسلمہ قعبنی نے بیان کیا ‘ کہا ہم سے امام مالک نے ابن شہاب سے ‘ وہ عروہ بن زبیر سے اور ان سے نبی کریم صلی اللہ علیہ وسلم کی زوجہ مطہرہ عائشہ رضی اللہ عنہا نے بیان کیا کہ عتبہ بن ابی وقاص نے مرتے وقت اپنے بھائی سعد بن ابی وقاص رضی اللہ عنہ کو وصیت کی تھی کہ زمعہ کی باندی کا لڑکا میرا ہے ‘ اس لیے تم اسے لے لینا چنانچہ فتح مکہ کے موقع پر سعد رضی اللہ عنہ نے اسے لے لیا اور کہا کہ میرے بھائی کا لڑکا ہے۔ انہوں نے اس بارے میں مجھے اس کی وصیت کی تھی۔ پھر عبد بن زمعہ رضی اللہ عنہ اٹھے اور کہنے لگے کہ یہ تو میرا بھائی ہے میرے باپ کی لونڈی نے اس کو جنا ہے اور میرے باپ کے بستر پر پیدا ہوا ہے۔ پھر یہ دونوں نبی کریم صلی اللہ علیہ وسلم کی خدمت میں حاضر ہوئے۔ سعد بن ابی وقاص رضی اللہ عنہ نے عرض کیا یا رسول اللہ! یہ میرے بھائی کا لڑکا ہے ‘ مجھے اس نے وصیت کی تھی۔ لیکن عبد بن زمعہ رضی اللہ عنہ نے عرض کیا کہ یہ میرا بھائی اور میرے والد کی باندی کا لڑکا ہے۔ نبی کریم صلی اللہ علیہ وسلم نے فیصلہ یہ فرمایا کہ لڑکا تمہارا ہی ہے عبد بن زمعہ! بچہ فراش کے تحت ہوتا ہے اور زانی کے حصے میں پتھر ہیں لیکن آپ صلی اللہ علیہ وسلم نے سودہ بنت زمعہ رضی اللہ عنہا سے فرمایا کہ اس لڑکے سے پردہ کر کیونکہ آپ صلی اللہ علیہ وسلم نے عتبہ کی مشابہت اس لڑکے میں صاف پائی تھی۔ چنانچہ اس کے بعد اس لڑکے نے سودہ رضی اللہ عنہا کو کبھی نہ دیکھا تاآنکہ آپ اللہ تعالیٰ سے جا ملیں۔",
+          "fr": "Rapporté par ‘Aisha (l’épouse du Prophète) : ‘Utba bin Abi Waqqas a confié (son fils) à son frère Sa’d bin Abi Waqqas en disant : « Le fils de la servante de Zam’a est mon fils (illégitime), prends-le sous ta garde. » Lors de l’année de la conquête de La Mecque, Sa’d a pris le garçon et a dit : « C’est le fils de mon frère, que mon frère m’a confié. » ‘Abu bin Zam’a s’est levé et a dit : « C’est mon frère et le fils de la servante de mon père, il est né sur le lit de mon père. » Tous deux sont allés voir le Messager d’Allah (ﷺ). Sa’d a dit : « Ô Messager d’Allah (ﷺ), c’est le fils de mon frère, que mon frère m’a confié. » ‘Abu bin Zam’a a dit : « C’est mon frère et le fils de la servante de mon père. » Le Messager d’Allah (ﷺ) a dit : « Ô Abu bin Zam’a ! Ce garçon est pour toi, car l’enfant appartient au lit (où il est né), et pour l’adultère il n’y a que la pierre (c’est-à-dire rien). » Ensuite, le Prophète (ﷺ) a dit à sa femme Sauda bint Zam’a : « Voile-toi devant ce garçon, » car il avait remarqué sa ressemblance avec ‘Utba. Depuis ce jour, le garçon n’a plus vu Sauda jusqu’à sa mort",
+          "id": "Telah bercerita kepada kami ['Abdullah bin Maslamah] dari [Malik] dari [Ibnu Syihab] dari ['Urwah bin Az Zubair] dari ['Aisyah radliallahu 'anha, istri Nabi shallallahu 'alaihi wasallam] berkata: \"Sesunguhnya 'Utbah bin Abi Waqosh telah berjanji kepada saudaranya Sa'ad bin Abi Waqosh bahwa anak dari walidah (budak perempuan) Zam'ah dariku maka ambillah\". Ketika tahun penaklukan kota Makkah, Sa'ad mengambilnya. Saad berkata: \"Dia adalah anak saudaraku yang telah berjanji kepadaku tentang anak ini\". Maka 'Abdu bin Zam'ah berdiri seraya berkata: \"Saudaraku dan anak dari budak perempuan bapakku dilahirkan di atas tempat tidurnya (dilahirkan dari hasil pernikahan yang sah dengan suaminya). Maka keduanya mengadukan perkara itu kepada Rasulullah shallallahu 'alaihi wasallam. Sa'ad berkata: \"Wahai Rasulullah, dia adalah anak dari saudaraku yang telah berjanji kepadaku tentang anak ini\". Kemudian 'Abdu bin Zam'ah berkata: \"Saudaraku dan anak dari budak perempuan bapakku\". Maka Rasulullah shallallahu 'alaihi wasallam berkata: \"Dia itu menjadi milikmu wahai 'Abdu bin Zam'ah. Anak itu milik suami (yang menikah dengan sah) sedangkan untuk pezina baginya adalah batu (dirajam) \". Kemudian Beliau berkata kepada Saudah binti Zam'ah: \"berhijablah (menutup diri) darinya\" karena Beliau melihat adanya kemiripan anak tersebut dengan 'Utbah. Maka sejak itu pula ia tidak pernah melihat Saudah hingga meninggal",
+          "tr": "Aişe r.anha'dan nakledilmiştir: Utbe İbn Ebi Vakkas, kardeşi Sa'd b. Ebi Vakkas'a \"Zemianın cariyesinin oğlu bendendir. Onu yanına al\" diye vasiyet etmişti. Fetih yılında Said onu yanına aldı ve \"Bu benim kardeşimin oğludur. Bana onu koruyup gözetmemi vasiyet etmişti\" dedi. Bunun üzerine Abdullah İbn Zem'a kalktı ve \"Bu benim kardeşimdir ve babamın cariyesinin oğludur. Onun yatağında doğdu\" dedi. Bunun üzerine doğruca Allah Resulü'nün yolunu tuttular. Sa'd: \"Ey Allah'ın Resulü! Bu, kardeşimin oğludur. Bunu bana vasiyet etmişti\" dedi. Abdullah İbn Zem'a ise \"Kardeşimdir ve babamın cariyesinin oğludur\" dedi. Bunun üzerine Allah Resulü Sallallahu Aleyhi ve Sellem \"Abdullah! Bu senindir. Çocuk meşru ilişki sahibine aittir. Gayrimeşru ilişkiye girene ise taş vardır\" buyurdu. Sonra, çocuğun Utbe'ye benzediğini görünce, Sevde binti Zem'a'ya \"Onun yanında örtün\" buyurdu. Bu olaydan sonra bu çocuk, Sevde vefat edinceye kadar onu görmedi. باب: إذا أومأ المريض برأسه إشارة بينة جازت. 5. HASTA, BİR ŞAHİT OLARAK BAŞIYLA İŞARET ETSE CAİZ OLUR"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 55,
+        "hadith": 8
+      },
+      "narrator": {
+        "en": "`Aisha"
+      }
+    },
+    {
+      "hadithNumber": 2746,
+      "arabicNumber": 2746,
+      "book": 55,
+      "hadithInBook": 9,
+      "text": {
+        "arabic": "حَدَّثَنَا حَسَّانُ بْنُ أَبِي عَبَّادٍ، حَدَّثَنَا هَمَّامٌ، عَنْ قَتَادَةَ، عَنْ أَنَسٍ ـ رضى الله عنه ـ أَنَّ يَهُوِدِيًّا، رَضَّ رَأْسَ جَارِيَةٍ بَيْنَ حَجَرَيْنِ، فَقِيلَ لَهَا مَنْ فَعَلَ بِكِ، أَفُلاَنٌ أَوْ فُلاَنٌ حَتَّى سُمِّيَ الْيَهُودِيُّ، فَأَوْمَأَتْ بِرَأْسِهَا، فَجِيءَ بِهِ، فَلَمْ يَزَلْ حَتَّى اعْتَرَفَ، فَأَمَرَ النَّبِيُّ صلى الله عليه وسلم فَرُضَّ رَأْسُهُ بِالْحِجَارَةِ‏.‏",
+        "translations": {
+          "en": "Narrated Anas:A Jew crushed the head of a girl between two stones. She was asked, \"Who has done so to you, so-and-so? So-and-so?\" Till the name of the Jew was mentioned, whereupon she nodded (in agreement). So the Jew was brought and was questioned till he confessed. The Prophet (ﷺ) then ordered that his head be crushed with stones",
+          "ur": "ہم سے حسان بن ابی عباد نے بیان کیا ‘ کہا ہم سے ہمام نے بیان کیا قتادہ سے اور ان سے انس رضی اللہ عنہ نے کہ ایک یہودی نے ایک ( انصاری ) لڑکی کا سر دو پتھروں کے درمیان میں رکھ کر کچل دیا تھا۔ لڑکی سے پوچھا گیا کہ تمہارا سر اس طرح کس نے کیا ہے؟ کیا فلاں شخص نے کیا؟ فلاں نے کیا؟ آخر یہودی کا بھی نام لیا گیا ( جس نے اس کا سر کچل دیا تھا ) تو لڑکی نے سر کے اشارے سے ہاں میں جواب دیا۔ پھر وہ یہودی بلایا گیا اور آخر اس نے بھی اقرار کر لیا اور نبی کریم صلی اللہ علیہ وسلم کے حکم سے اس کا بھی پتھر سے سر کچل دیا گیا۔",
+          "fr": "Rapporté par Anas : Un Juif a écrasé la tête d’une fille entre deux pierres. On lui a demandé : « Qui t’a fait cela ? Untel ? Untel ? » Jusqu’à ce qu’on cite le nom du Juif, et elle a acquiescé. On a amené le Juif, il a été interrogé jusqu’à ce qu’il avoue. Le Prophète (ﷺ) a alors ordonné qu’on lui écrase la tête avec des pierres",
+          "id": "Telah bercerita kepada kami [Hassan bin Abi 'Abbad] telah bercerita kepada kami [Hammam] dari [Qatadah] dari [Anas radliallahu 'anhu] bahwa ada seorang Yahudi yang memukul kepala seorang budak perempuan dengan dua batu hingga bocor lalu ditanyakan kepadanya siapa yang melakukan ini, apakah si fulan atau si fulan hingga akhirnya disebut orang Yahudi tersebut dan budak wanita itu berisyarat dengan kepalanya mengangguk. Kemudian orang Yahudi itu dibawa namun dia mengelak hingga akhirnya mau mengakui. Maka Nabi shallallahu 'alaihi wasallam memerintahkan agar membalas memukul kepala Yahudi itu dengan batu hingga bocor",
+          "tr": "Enes r.a.'den nakledilmiştir: Bir Yahudi, bir cariyenin başını iki taşla sıkıştırıp yaralamıştı. Cariyeye \"bunu sana kim yaptı? Falanca mı, falanca mı?\" diye bazı isimler sıraladılar. Yahudinin adı geçince başını sallayarak onayladı. Yahudi getirildi ve çok geçmeden suçunu itiraf etti. Nebi s.a.v.'in emri üzerine onun başı da taşla yaralandı. Not: Bununla ilgili geniş açıklama \"Kısas\" bölümünde gelecektir. İNŞAALLAH باب: لا وصية لوارث. 6. MİRASÇIYA VASİYET YOKTUR"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 55,
+        "hadith": 9
+      },
+      "narrator": {
+        "en": "Anas"
+      }
+    },
+    {
+      "hadithNumber": 2747,
+      "arabicNumber": 2747,
+      "book": 55,
+      "hadithInBook": 10,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ يُوسُفَ، عَنْ وَرْقَاءَ، عَنِ ابْنِ أَبِي نَجِيحٍ، عَنْ عَطَاءٍ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ قَالَ كَانَ الْمَالُ لِلْوَلَدِ، وَكَانَتِ الْوَصِيَّةُ لِلْوَالِدَيْنِ، فَنَسَخَ اللَّهُ مِنْ ذَلِكَ مَا أَحَبَّ، فَجَعَلَ لِلذَّكَرِ مِثْلَ حَظِّ الأُنْثَيَيْنِ، وَجَعَلَ لِلأَبَوَيْنِ لِكُلِّ وَاحِدٍ مِنْهُمَا السُّدُسَ، وَجَعَلَ لِلْمَرْأَةِ الثُّمُنَ وَالرُّبْعَ، وَلِلزَّوْجِ الشَّطْرَ وَالرُّبُعَ‏.‏",
+        "translations": {
+          "en": "Narrated Ibn `Abbas:The custom (in old days) was that the property of the deceased would be inherited by his offspring; as for the parents (of the deceased), they would inherit by the will of the deceased. Then Allah cancelled from that custom whatever He wished and fixed for the male double the amount inherited by the female, and for each parent a sixth (of the whole legacy) and for the wife an eighth or a fourth and for the husband a half or a fourth",
+          "ur": "ہم سے محمد بن یوسف فریابی نے بیان کیا ورقاء سے ‘ انہوں نے ابن ابی نجیح سے ‘ ان سے عطاء نے اور ان سے ابن عباس رضی اللہ عنہما نے بیان کیا کہ شروع اسلام میں ( میراث کا ) مال اولاد کو ملتا تھا اور والدین کے لیے وصیت ضروری تھی لیکن اللہ تعالیٰ نے جس طرح چاہا اس حکم کو منسوخ کر دیا پھر لڑکے کا حصہ دو لڑکیوں کے برابر قرار دیا اور والدین میں سے ہر ایک کا چھٹا حصہ اور بیوی کا ( اولاد کی موجودگی میں ) آٹھواں حصہ اور ( اولاد کے نہ ہونے کی صورت میں ) چوتھا حصہ قرار دیا۔ اسی طرح شوہر کا ( اولاد نہ ہونے کی صورت میں ) آدھا ( اولاد ہونے کی صورت میں ) چوتھائی حصہ قرار دیا۔",
+          "fr": "Rapporté par Ibn ‘Abbas : La coutume autrefois était que les biens du défunt étaient hérités par ses enfants ; quant aux parents du défunt, ils héritaient selon la volonté du défunt. Puis Allah a abrogé cette coutume comme Il l’a voulu et a fixé que l’homme hérite le double de la femme, que chaque parent hérite d’un sixième (de tout l’héritage), que la femme hérite d’un huitième ou d’un quart, et que le mari hérite de la moitié ou du quart",
+          "id": "Telah bercerita kepada kami [Muhammad bin Yusuf] dari [Warqo'] dari [Ibnu Abi Najih] dari ['Atha'] dari [Ibnu 'Abbas radliallahu 'anhuma] berkata; Dahulu harta warisan menjadi milik anak sedangkan wasiat hak kedua orangtua. Kemudian Allah menghapus ketentuan ini dengan yang lebih disenangi-Nya. Maka Allah subhanahu wata'ala menjadikan bagian warisan anak laki-laki dua kali dari bagian anak perempuan dan untuk kedua orangtua masing-masing mendapat seperenam sedangkan untuk isttri seperdelapan atau seperempat sedangkan suami mendapat setengah atau seperempat",
+          "tr": "Abdullah İbn Abbas r.a.'dan nakledilmiştir: Ölenin malı çocuğa kalırdı. Vasiyet de anne babaya olurdu. Allah bunlardan bir kısmını dilediği şekilde neshetti ve erkek çocuğa kız çocuğun iki katı pay verdi. Anne-babadan her birine de altıda bir pay belirledi. Ölenin eşine sekizde bir veya dörtte bir pay belirledi. Kocaya ise dörtte bir veya yarı pay belirledi. Tekrar:"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 55,
+        "hadith": 10
+      },
+      "narrator": {
+        "en": "Ibn `Abbas"
+      }
+    },
+    {
+      "hadithNumber": 2748,
+      "arabicNumber": 2748,
+      "book": 55,
+      "hadithInBook": 11,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْعَلاَءِ، حَدَّثَنَا أَبُو أُسَامَةَ، عَنْ سُفْيَانَ، عَنْ عُمَارَةَ، عَنْ أَبِي زُرْعَةَ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ قَالَ قَالَ رَجُلٌ لِلنَّبِيِّ صلى الله عليه وسلم يَا رَسُولَ اللَّهِ، أَىُّ الصَّدَقَةِ أَفْضَلُ قَالَ ‏ \"‏ أَنْ تَصَدَّقَ وَأَنْتَ صَحِيحٌ حَرِيصٌ‏.‏ تَأْمُلُ الْغِنَى، وَتَخْشَى الْفَقْرَ، وَلاَ تُمْهِلْ حَتَّى إِذَا بَلَغَتِ الْحُلْقُومَ قُلْتَ لِفُلاَنٍ كَذَا وَلِفُلاَنٍ كَذَا، وَقَدْ كَانَ لِفُلاَنٍ ‏\"‏‏.‏",
+        "translations": {
+          "en": "Narrated Abu Huraira:A man asked the Prophet, \"O Allah's Messenger (ﷺ)! What kind of charity is the best?\" He replied. \"To give in charity when you are healthy and greedy hoping to be wealthy and afraid of becoming poor. Don't delay giving in charity till the time when you are on the death bed when you say, 'Give so much to so-and-so and so much to so-and-so,' and at that time the property is not yours but it belongs to so-and-so (i.e. your inheritors)",
+          "ur": "ہم سے محمد بن علاء نے بیان کیا ‘ کہا ہم سے ابواسامہ نے بیان کیا سفیان ثوری سے ‘ وہ عمارہ سے ‘ ان سے ابوزرعہ نے اور ان سے ابوہریرہ رضی اللہ عنہ نے بیان کیا کہ ایک صحابی نے رسول اللہ صلی اللہ علیہ وسلم سے پوچھا یا رسول اللہ! کون سا صدقہ افضل ہے؟ فرمایا یہ کہ صدقہ تندرستی کی حالت میں کر کہ ( تجھ کو اس مال کو باقی رکھنے کی ) خواہش بھی ہو جس سے کچھ سرمایہ جمع ہو جانے کی تمہیں امید ہو اور ( اسے خرچ کرنے کی صورت میں ) محتاجی کا ڈر ہو اور اس میں تاخیر نہ کر کہ جب روح حلق تک پہنچ جائے تو کہنے بیٹھ جائے کہ اتنا مال فلاں کے لیے ‘ فلانے کو اتنا دینا ‘ اب تو فلانے کا ہو ہی گیا ( تو تو دنیا سے چلا ) ۔",
+          "fr": "Rapporté par Abu Huraira : Un homme a demandé au Prophète : « Ô Messager d’Allah (ﷺ), quelle est la meilleure aumône ? » Il a répondu : « Donner en aumône quand tu es en bonne santé, avide de richesse, espérant devenir riche et craignant la pauvreté. Ne tarde pas à donner l’aumône jusqu’au moment où tu es sur ton lit de mort, en disant : “Donne tant à untel et tant à untel”, car à ce moment-là, tes biens ne t’appartiennent plus, mais à tes héritiers. »",
+          "id": "Telah bercerita kepada kami [Muhammad bin Al 'Alaa'] telah bercerita kepada kami [Abu Usamah] dari [Sufyan] dari ['Umarah] dari [Abu Zur'ah] dari [Abu Hurairah radliallahu 'anhu] berkata; Ada seorang laki-laki bertanya kepada Nabi shallallahu 'alaihi wasallam: \"Wahai Rasulullah, shadaqah mana yang lebih utama?\" Beliau menjawab: \"Kamu bershadaqah ketika kamu dalam keadaan sehat dan rakus, kamu berangan-angan jadi orang kaya dan takut menjadi faqir. Maka janganlah kamu menunda-nundanya hingga ketika nyawamu berada di tenggorakannmu (kamu baru mau bershadaqah), lalu kamu berkata untuk si fulan segini dan si fulan segini padahal harta itu telah menjadi milik si fulan",
+          "tr": "Ebu Hureyre r.a.'den nakledilmiştir: Birisi Nebi Sallallahu Aleyhi ve Sellem'e: \"Ey Allah'ın Resulü! Sadakanın hangisi daha üstündür?\" diye sordu. \"Sağlıklı ve mal'a karşı düşkün iken; zengin olmayı umup fakirlikten korkarken verdiğin sadaka. Can boğaza dayanıncaya kadar geciktirip de 'bu falancanın, bu da falancanın\" deme. Zaten falancanın olmuş\" buyurdu"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 55,
+        "hadith": 11
+      },
+      "narrator": {
+        "en": "Abu Huraira"
+      }
+    },
+    {
+      "hadithNumber": 2749,
+      "arabicNumber": 2749,
+      "book": 55,
+      "hadithInBook": 12,
+      "text": {
+        "arabic": "حَدَّثَنَا سُلَيْمَانُ بْنُ دَاوُدَ أَبُو الرَّبِيعِ، حَدَّثَنَا إِسْمَاعِيلُ بْنُ جَعْفَرٍ، حَدَّثَنَا نَافِعُ بْنُ مَالِكِ بْنِ أَبِي عَامِرٍ أَبُو سُهَيْلٍ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ آيَةُ الْمُنَافِقِ ثَلاَثٌ، إِذَا حَدَّثَ كَذَبَ، وَإِذَا اؤْتُمِنَ خَانَ، وَإِذَا وَعَدَ أَخْلَفَ ‏\"‏‏.‏",
+        "translations": {
+          "en": "Narrated Abu Huraira:The Prophet (ﷺ) said, \"The signs of a hypocrite are three: Whenever he speaks he tells a lie; whenever he is entrusted he proves dishonest; whenever he promises he breaks his promise",
+          "ur": "ہم سے سلیمان بن داؤد ابوالربیع نے بیان کیا ‘ انہوں نے کہا ہم سے اسمٰعیل بن جعفر نے ‘ انہوں نے کہا ہم سے نافع بن مالک بن ابی عامر ابوسہیل نے ‘ انہوں نے اپنے باپ سے ‘ انہوں نے ابوہریرہ رضی اللہ عنہ سے انہوں نے نبی کریم صلی اللہ علیہ وسلم سے، آپ صلی اللہ علیہ وسلم نے فرمایا ”منافق کی تین نشانیاں ہیں جب بات کہے تو جھوٹ کہے اور جب اس کے پاس امانت رکھیں تو خیانت کرے اور جب وعدہ کرے تو خلاف کرے۔“",
+          "fr": "Rapporté par Abu Huraira : Le Prophète (ﷺ) a dit : « Les signes d’un hypocrite sont au nombre de trois : quand il parle, il ment ; quand on lui confie quelque chose, il trahit ; quand il promet, il ne tient pas sa promesse. »",
+          "id": "Telah bercerita kepada kami [Sulaiman bin Daud Abu Ar Rabi'] telah bercerita kepada kami [Isma'il bin Ja'far] telah bercerita kepada kami [Nafi' bin Malik bin Abi 'Amir Abu Suhail] dari [bapaknya] dari [Abu Hurairah radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam bersabda: 'Tanda-tanda munafiq ada tiga, yaitu; jika berbicara berdusta, jika diberi amanat khiyanat dan jika berjanji ingkar",
+          "tr": "Ebu Hureyre r.a.'den nakledilmiştir: Nebi Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: \"Münafığın alameti üçtür: Söylediğinde yalan söyler; kendisine güvenildiğinde güveni boşa çıkarır; söz verdiğinde sözünde durmaz"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 55,
+        "hadith": 12
+      },
+      "narrator": {
+        "en": "Abu Huraira"
+      }
+    },
+    {
+      "hadithNumber": 2750,
+      "arabicNumber": 2750,
+      "book": 55,
+      "hadithInBook": 13,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ يُوسُفَ، حَدَّثَنَا الأَوْزَاعِيُّ، عَنِ الزُّهْرِيِّ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، وَعُرْوَةَ بْنِ الزُّبَيْرِ، أَنَّ حَكِيمَ بْنَ حِزَامٍ ـ رضى الله عنه ـ قَالَ سَأَلْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم فَأَعْطَانِي، ثُمَّ سَأَلْتُهُ فَأَعْطَانِي ثُمَّ قَالَ لِي ‏ \"‏ يَا حَكِيمُ، إِنَّ هَذَا الْمَالَ خَضِرٌ حُلْوٌ، فَمَنْ أَخَذَهُ بِسَخَاوَةِ نَفْسٍ بُورِكَ لَهُ فِيهِ، وَمَنْ أَخَذَهُ بِإِشْرَافِ نَفْسٍ لَمْ يُبَارَكْ لَهُ فِيهِ، وَكَانَ كَالَّذِي يَأْكُلُ وَلاَ يَشْبَعُ، وَالْيَدُ الْعُلْيَا خَيْرٌ مِنَ الْيَدِ السُّفْلَى ‏\"‏‏.‏ قَالَ حَكِيمٌ فَقُلْتُ يَا رَسُولَ اللَّهِ، وَالَّذِي بَعَثَكَ بِالْحَقِّ لاَ أَرْزَأُ أَحَدًا بَعْدَكَ شَيْئًا حَتَّى أُفَارِقَ الدُّنْيَا‏.‏ فَكَانَ أَبُو بَكْرٍ يَدْعُو حَكِيمًا لِيُعْطِيَهُ الْعَطَاءَ فَيَأْبَى أَنْ يَقْبَلَ مِنْهُ شَيْئًا، ثُمَّ إِنَّ عُمَرَ دَعَاهُ لِيُعْطِيَهُ فَيَأْبَى أَنْ يَقْبَلَهُ فَقَالَ يَا مَعْشَرَ الْمُسْلِمِينَ، إِنِّي أَعْرِضُ عَلَيْهِ حَقَّهُ الَّذِي قَسَمَ اللَّهُ لَهُ مِنْ هَذَا الْفَىْءِ فَيَأْبَى أَنْ يَأْخُذَهُ‏.‏ فَلَمْ يَرْزَأْ حَكِيمٌ أَحَدًا مِنَ النَّاسِ بَعْدَ النَّبِيِّ صلى الله عليه وسلم حَتَّى تُوُفِّيَ رَحِمَهُ اللَّهُ‏.‏",
+        "translations": {
+          "en": "Narrated `Urwa bin Az-Zubair:Hakim bin Hizam said, \"I asked Allah's Messenger (ﷺ) for something, and he gave me, and I asked him again and he gave me and said, 'O Hakim! This wealth is green and sweet (i.e. as tempting as fruits), and whoever takes it without greed then he is blessed in it, and whoever takes it with greediness, he is not blessed in it and he is like one who eats and never gets satisfied. The upper (i.e. giving) hand is better than the lower (i.e. taking) hand.\" Hakim added, \"I said, O Allah's Messenger (ﷺ)! By Him Who has sent you with the Truth I will never demand anything from anybody after you till I die.\" Afterwards Abu Bakr used to call Hakim to give him something but he refused to accept anything from him. Then `Umar called him to give him (something) but he refused. Then `Umar said, \"O Muslims! I offered to him (i.e. Hakim) his share which Allah has ordained for him from this booty and he refuses to take it.\" Thus Hakim did not ask anybody for anything after the Prophet, till he died--may Allah bestow His mercy upon him",
+          "ur": "ہم سے محمد بن یوسف بیکندی نے بیان کیا ‘ کہا ہم کو امام اوزاعی نے خبر دی ‘ انہوں نے زہری سے ‘ انہوں نے سعید بن مسیب اور عروہ بن زبیر سے کہ حکیم بن حزام رضی اللہ عنہ ( مشہور صحابی ) نے بیان کیا میں نے آپ صلی اللہ علیہ وسلم سے مانگا آپ نے مجھ کو دیا ‘ پھر مانگا پھر آپ نے دیا ‘ پھر فرمانے لگے حکیم یہ دنیا کا روپیہ پیسہ دیکھنے میں خوشنما اور مزے میں شیریں ہے لیکن جو کوئی اس کو سیر چشمی سے لے اس کو برکت ہوتی ہے اور جو کوئی جان لڑا کر حرص کے ساتھ اس کو لے اس کو برکت نہ ہو گی۔ اس کی مثال ایسی ہے جو کماتا ہے لیکن سیر نہیں ہوتا اوپر والا ( دینے والا ) ہاتھ نیچے والے ( لینے والے ) ہاتھ سے بہتر ہے۔ حکیم نے عرض کیا یا رسول اللہ! قسم اس کی جس نے آپ کو سچا پیغمبر کر کے بھیجا ہے میں تو آج سے آپ کے بعد کسی سے کوئی چیز کبھی نہیں لوں گا مرنے تک پھر ( حکیم کا یہ حال رہا ) کہ ابوبکر صدیق رضی اللہ عنہ ان کا سالانہ وظیفہ دینے کے لیے ان کو بلاتے ‘ وہ اس کے لینے سے انکار کرتے۔ پھر عمر رضی اللہ عنہ نے بھی اپنی خلافت میں ان کو بلایا ان کا وظیفہ دینے کے لیے لیکن انہوں نے انکار کیا۔ عمر رضی اللہ عنہ کہنے لگے مسلمانو! تم گواہ رہنا حکیم کو اس کا حق جو لوٹ کے مال میں اللہ نے رکھا ہے دیتا ہوں وہ نہیں لیتا۔ غرض حکیم نے آپ صلی اللہ علیہ وسلم کے بعد پھر کسی شخص سے کوئی چیز قبول نہیں کی ( اپنا وظیفہ بھی بیت المال میں نہ لیا ) یہاں تک کہ ان کی وفات ہو گئی۔ اللہ ان پر رحم کرے۔",
+          "fr": "Rapporté par ‘Urwa bin Az-Zubair : Hakim bin Hizam a dit : « J’ai demandé quelque chose au Messager d’Allah (ﷺ), il m’a donné, puis j’ai redemandé et il m’a donné encore, puis il m’a dit : “Ô Hakim ! Cette richesse est verte et douce (c’est-à-dire attirante comme des fruits), et celui qui la prend sans avidité est béni avec, mais celui qui la prend avec avidité n’est pas béni et ressemble à celui qui mange sans jamais être rassasié. La main qui donne est meilleure que celle qui reçoit.” » Hakim a ajouté : « J’ai dit : Ô Messager d’Allah (ﷺ), par Celui qui t’a envoyé avec la vérité, je ne demanderai plus jamais rien à personne après toi jusqu’à ma mort. » Par la suite, Abu Bakr appelait Hakim pour lui donner quelque chose, mais il refusait. Puis ‘Umar l’a appelé pour lui donner aussi, mais il a refusé. ‘Umar a alors dit : « Ô musulmans ! Je lui ai proposé sa part que Dieu lui a attribuée dans le butin, mais il refuse de la prendre. » Ainsi, Hakim n’a plus rien demandé à personne après le Prophète, jusqu’à sa mort – qu’Allah lui fasse miséricorde",
+          "id": "Telah bercerita kepada kami [Muhammad binYusuf] telah bercerita kepada kami [Al Auza'iy] dari [Az Zuhriy] dari [Sa'id bin Al Musayyab] dan ['Urwah bin Az Zubair] bahwa [Hakim bin Hizam radliallahu 'anhu] berkata; Aku meminta sesuatu kepada Rasulullah shallallahu 'alaihi wasallam lalu Beliau memberikannya kepadaku. Kemudian aku meminta lagi dan Beliau pun memberikan lagi lalu Beliau berkata kepadaku: \"Wahai Hakim, sesungguhnya harta itu hijau lagi manis, maka barang siapa yang mencarinya untuk kedermawanan dirinya maka harta itu akan memberkahinya. Namun barang siapa yang mencarinya untuk keserakahan maka harta itu tidak akan memberkahinya, seperti orang yang makan namun tidak pernah kenyang. Tangan yang di atas lebih baik daripada tangan yang di bawah\". Hakim berkata; Aku katakan: \"Wahai Rasulullah, demi Dzat yang telah mengutusmu dengan benar, aku tidak akan mengurangi hak seorangpun (untuk aku ambil) sepeninggal engkau hingga aku meninggalkan dunia ini\". Suatu kali Abu Bakar pernah memanggil Hakim untuk memberikan sesuatu kepadanya namun dia menolak untuk menerima pemberiannya. Kemudian 'Umar radliallahu 'anhu juga pernah memanggil Hakim untuk memberikan sesuatu namun Hakim juga menolak untuk menerimanya. Maka 'Umar radliallahu 'anhu berkata: \"Aku bersaksi kepada kalian wahai kaum Muslimin tentang Hakim. Sungguh aku pernah menawarkan kepadanya haknya dari harta fa'iy (harta musuh tanpa peperangan) ini agar dia datang dan mengambilnya. Sungguh Hakim tidak pernah mengurangi hak seorangpun sepeninggal Rasulullah shallallahu 'alaihi wasallam hingga dia -semoga Allah merahmatiny-, wafat",
+          "tr": "Hakim İbn Hizam r.a.'dan nakledilmiştir: Resulullah (Sallallahu aleyhi ve Sellem)'dan istedim ve bana verdi. Tekrar istedim, yine verdi. Sonra bana şöyle buyurdu: \"Hakim! Bu mal var ya yeşil/iktir, tatlıdır. Gönül zenginliği ile alan için bereketli olur. Kendi yararını düşünerek alan için bereketsiz olur. Böyleleri, yiyip doymayana benzerler. Üstteki el alttaki elden (veren el alan elden) üstündür.\" Bunun üzerine ben \"Ey Allah'ın Resulü! Seni Hak Nebi olarak gönderene yemin ederim ki dünyadan ayrılıncaya kadar bundan böyle kimsenin malını eksiltmeyeceğim\" dedim. (Nebi (Sallallahu aleyhi ve Sellem)'in vefatından sonra) Ebu Bekir radıyallahu anh bir şeyler vermek için Hakim'i çağırırdı ama o, kabul etmekten kaçınırdı. Sonra Ömer, bir şeyler vermek için çağırdı, ondan da kabul etmedi. Bunun üzerine Ömer (r.a.) \"Müslümanlar!\" dedi, \"Ben Hakım'e Allah'ın kendisi için ayırdığı ganimet payını almasını teklif ediyorum ama o, almamakta diretiyor\" dedi. Hakim, Hz. Nebi'den sonra vefat edinceye kadar kimseden bir şey almadı"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 55,
+        "hadith": 13
+      },
+      "narrator": {
+        "en": "`Urwa bin Az-Zubair"
+      }
+    },
+    {
+      "hadithNumber": 2751,
+      "arabicNumber": 2751,
+      "book": 55,
+      "hadithInBook": 14,
+      "text": {
+        "arabic": "حَدَّثَنَا بِشْرُ بْنُ مُحَمَّدٍ السَّخْتِيَانِيُّ، أَخْبَرَنَا عَبْدُ اللَّهِ، أَخْبَرَنَا يُونُسُ، عَنِ الزُّهْرِيِّ، قَالَ أَخْبَرَنِي سَالِمٌ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\"‏ كُلُّكُمْ رَاعٍ وَمَسْئُولٌ عَنْ رَعِيَّتِهِ، وَالإِمَامُ رَاعٍ وَمَسْئُولٌ عَنْ رَعِيَّتِهِ، وَالرَّجُلُ رَاعٍ فِي أَهْلِهِ وَمَسْئُولٌ عَنْ رَعِيَّتِهِ، وَالْمَرْأَةُ فِي بَيْتِ زَوْجِهَا رَاعِيَةٌ وَمَسْئُولَةٌ عَنْ رَعِيَّتِهَا، وَالْخَادِمُ فِي مَالِ سَيِّدِهِ رَاعٍ وَمَسْئُولٌ عَنْ رَعِيَّتِهِ ‏\"‏‏.‏ قَالَ وَحَسِبْتُ أَنْ قَدْ قَالَ ‏\"‏ وَالرَّجُلُ رَاعٍ فِي مَالِ أَبِيهِ ‏\"‏‏.‏",
+        "translations": {
+          "en": "Narrated Ibn `Umar:I heard Allah's Messenger (ﷺ) saying, \"All of you are guardians and responsible for your charges: the Ruler (i.e. Imam) is a guardian and responsible for his subjects; and a man is a guardian of his family and is responsible for his charges; and a lady is a guardian in the house of her husband and is responsible for her charge; and a servant is a guardian of the property of his master and is responsible for his charge.\" I think he also said, \"And a man is a guardian of the property of his father",
+          "ur": "ہم سے بشر بن محمد نے بیان کیا ‘ کہا ہم کو عبداللہ بن مبارک نے خبر دی کہا ہم کو یونس نے، انہوں نے زہری سے ‘ انہوں نے کہا مجھ کو سالم نے خبر دی ‘ انہوں نے عبداللہ بن عمر رضی اللہ عنہما سے انہوں نے کہا میں نے آپ صلی اللہ علیہ وسلم سے سنا ‘ آپ صلی اللہ علیہ وسلم فرماتے تھے تم میں سے ہر کوئی نگہبان ہے اور اپنی رعیت کے بارے میں پوچھا جائے گا۔ حاکم بھی نگہبان ہے اپنی رعیت کے بارے میں پوچھا جائے گا اور مرد اپنے گھر والوں کا نگہبان ہے اور اپنی رعیت کے بارے میں پوچھا جائے گا اور عورت اپنے خاوند کے گھر کی نگہبان ہے اپنی رعیت کے بارے میں پوچھی جائے گی اور غلام اپنے صاحب کے مال کا نگہبان ہے اور اپنی رعیت کے بارے میں پوچھا جائے گا۔ ابن عمر رضی اللہ عنہما نے کہا کہ میں سمجھتا ہوں آپ صلی اللہ علیہ وسلم نے یہ بھی فرمایا کہ مرد اپنے باپ کے مال کا نگہبان ہے اور اپنی رعیت کے بارے میں پوچھا جائے گا۔",
+          "fr": "Rapporté par Ibn ‘Umar : J’ai entendu le Messager d’Allah (ﷺ) dire : « Vous êtes tous des bergers et chacun est responsable de ce qu’il garde : le dirigeant (imam) est un berger et responsable de ses sujets ; un homme est berger de sa famille et responsable de ceux qui sont sous sa garde ; une femme est bergère dans la maison de son mari et responsable de ce qu’elle garde ; un serviteur est berger des biens de son maître et responsable de ce qu’il garde. » Je pense qu’il a aussi dit : « Et un homme est berger des biens de son père. »",
+          "id": "Telah bercerita kepada kami [Bisyir bin Muhammad As-Sakhtiyaaniy] telah mengabarkan kepada kami ['Abdullah] telah mengabarkan kepada kami [Yunus] dari [Az Zuhriy] berkata telah bercerita kepadaku [Salim] dari [Ibnu 'Umar radliallahu 'anhuma] berkata; Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: \"Setiap kalian adalah pemimpin dan akan diminta pertanggung jawaban atas yang dipimpinnya. Imam (kepala negara) adalah pemimpin yang akan diminta pertanggung jawaban atas rakyatnya. Seorang suami dalam keluarganya adalah pemimpin dan akan diminta pertanggung jawaban atas keluarganya. Seorang istri adalah pemimpin di dalam urusan rumah tangga suaminya dan akan diminta pertanggung jawaban atas urusan rumah tangga tersebut. Seorang pembantu dalam urusan harta tuannya adalah pemimpin dan akan diminta pertanggung jawaban atas urusan tanggung jawabnya tersebut\". Dia (Ibnu 'Umar radliallahu 'anhuma) berkata: \"Aku menduga Beliau juga bersabda: \"Dan seorang anak laki-laki adalah pemimpin dalam uruan harta bapaknya",
+          "tr": "Abdullah b. Ömer r.a.'den nakledilmiştir: Resulullah Sallallahu Aleyhi ve Sellem'i şöyle buyururken işittim: \"Her biriniz çobansınız ve güttüklerinizden sorumlusunuz. Devlet başkanı çobandır ve güttüklerinden sorumludur. Koca ailesinin çobanıdır ve güttüğünden sorumludur. Kadın kocasının evinin çobanıdır ve güttüğünden sorumludur. Hizmetçi efendisinin malının çobanıdır ve güttüğünden sorumludur. -zannederim bir de şunu söylemişti- kişi babasının malının çobanıdır"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 55,
+        "hadith": 14
+      },
+      "narrator": {
+        "en": "Ibn `Umar"
+      }
+    },
+    {
+      "hadithNumber": 2752,
+      "arabicNumber": 2752,
+      "book": 55,
+      "hadithInBook": 15,
+      "text": {
+        "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، أَخْبَرَنَا مَالِكٌ، عَنْ إِسْحَاقَ بْنِ عَبْدِ اللَّهِ بْنِ أَبِي طَلْحَةَ، أَنَّهُ سَمِعَ أَنَسًا ـ رضى الله عنه ـ قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم لأَبِي طَلْحَةَ ‏\"‏ أَرَى أَنْ تَجْعَلَهَا فِي الأَقْرَبِينَ ‏\"‏‏.‏ قَالَ أَبُو طَلْحَةَ أَفْعَلُ يَا رَسُولَ اللَّهِ‏.‏ فَقَسَمَهَا أَبُو طَلْحَةَ فِي أَقَارِبِهِ وَبَنِي عَمِّهِ‏.‏ وَقَالَ ابْنُ عَبَّاسٍ لَمَّا نَزَلَتْ ‏{‏وَأَنْذِرْ عَشِيرَتَكَ الأَقْرَبِينَ‏}‏ جَعَلَ النَّبِيُّ صلى الله عليه وسلم يُنَادِي ‏\"‏ يَا بَنِي فِهْرٍ، يَا بَنِي عَدِيٍّ ‏\"‏‏.‏ لِبُطُونِ قُرَيْشٍ‏.‏ وَقَالَ أَبُو هُرَيْرَةَ لَمَّا نَزَلَتْ ‏{‏وَأَنْذِرْ عَشِيرَتَكَ الأَقْرَبِينَ‏}‏ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ يَا مَعْشَرَ قُرَيْشٍ ‏\"‏‏.‏",
+        "translations": {
+          "en": "Narrated Anas:The Prophet (ﷺ) said to Abu Talha, \"I recommend that you divide (this garden) amongst your relatives.\" Abu Talha said, \"O Allah's Messenger (ﷺ)! I will do the same.\" So Abu Talha divided it among his relatives and cousins. Ibn 'Abbas said, \"When the Qur'anic Verse: \"Warn your nearest kinsmen.\" (26.214) Was revealed, the Prophet (ﷺ) started calling the various big families of Quraish, \"O Bani Fihr! O Bani Adi!\". Abu Huraira said, \"When the Verse: \"Warn your nearest kinsmen\" was revealed, the Prophet (ﷺ) said (in a loud voice), \"O people of Quraish",
+          "ur": "ہم سے عبداللہ بن یوسف نے بیان کیا ‘ کہا ہم کو امام مالک نے خبر دی ‘ انہوں نے اسحاق بن عبداللہ بن ابی طلحہ سے، انہوں نے انس رضی اللہ عنہ سے سنا ‘ انہوں نے کہا نبی کریم صلی اللہ علیہ وسلم نے ابوطلحہ سے فرمایا ( جب انہوں نے اپنا باغ بیرحاء اللہ کی راہ میں دینا چاہا ) میں مناسب سمجھتا ہوں تو یہ باغ اپنے عزیزوں کو دیدے۔ ابوطلحہ نے کہا بہت خوب ایسا ہی کروں گا۔ پھر ابوطلحہ نے وہ باغ اپنے عزیزوں اور چچا کے بیٹوں میں تقسیم کر دیا اور ابن عباس رضی اللہ عنہما نے کہا جب ( سورۃ الشعراء کی ) یہ آیت اتری «وأنذر عشيرتك الأقربين‏» اور اپنے قریب کے ناطے والوں کو ( اللہ کے عذاب سے ) ڈرا تو آپ صلی اللہ علیہ وسلم قریش کے خاندانوں بنی فہر ‘ بنی عدی کو پکارنے لگے ( ان کو ڈرایا ) اور ابوہریرہ رضی اللہ عنہ نے کہا جب یہ آیت اتری «وأنذر عشيرتك الأقربين‏» آپ صلی اللہ علیہ وسلم نے فرمایا اے قریش کے لوگو! ( اللہ سے ڈرو ) ۔",
+          "fr": "Rapporté par Anas : Le Prophète (ﷺ) a dit à Abu Talha : « Je te conseille de partager (ce jardin) entre tes proches. » Abu Talha répondit : « Ô Messager d’Allah (ﷺ) ! Je vais faire ainsi. » Alors Abu Talha le partagea entre ses proches et ses cousins. Ibn ‘Abbas a dit : Lorsque le verset coranique : « Avertis tes plus proches parents » (26.214) a été révélé, le Prophète (ﷺ) a commencé à appeler les différentes grandes familles de Quraish : « Ô Bani Fihr ! Ô Bani Adi ! » Abu Huraira a dit : Lorsque le verset : « Avertis tes plus proches parents » fut révélé, le Prophète (ﷺ) a dit d’une voix forte : « Ô gens de Quraish ! »",
+          "id": "Telah bercerita kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Ishaq bin 'Abdullah bin AbiThalhah] bahwa dia mendengar [Anas radliallahu 'anhu] berkata; Nabi shallallahu 'alaihi wasallam bersabda kepada Abu Thalhah: \"Aku berpendapat sebaiknya kamu berikan untuk kaum kerabat\". Abu Thalhah berkata: \"Aku akan melaksanakannya wahai Rasulullah\". Maka Abu Thalhah membagikannya untuk kerabatnya dan anak-anak pamannya\". Dan Ibnu 'Abbas radliallahu 'anhu berkata: \"Ketika turun QS asy-Syu'ara' ayat 214 yang artinya: (\"Dan berilah peringatan kepada keluarga-keluargamu yang terdekat\"), maka Nabi shallallahu 'alaihi wasallam berseru: \"Wahai Bani Fihr, wahai Bani 'Adiy\", yaitu nama-nama suku Quraisy. Dan berkata Abu Hurairah radliallahu 'anhu: \"Ketika turun QS asy-Syu'ara' ayat 214 yang artinya: (\"Dan berilah peringatan kepada keluarga-keluargamu yang terdekat\"), maka Nabi shallallahu 'alaihi wasallam berseru: \"Wahai para kaum Quraisy",
+          "tr": "Enes İbn Malik r.a.'den nakledilmiştir: Nebi Sallallahu Aleyhi ve Sellem Ebu Talha'ya, \"Vasiyeti yakınlarına tahsis etmeni daha uygun görüyorum\" buyurdu. Ebu Talha \"Öyle yaparım, Ey Allah'ın Resulü!\" dedi ve malını yakınları ve amcaoğulları arasında pay etti. İbn Abbas r.a. diyor ki \"Yakın akrabanı uyar\" ayeti inince Nebi Sallallahu Aleyhi ve Sellem Kureyş'in bazı oymaklarını \"Ey Fihr oğulları! Adiy oğulları!\" diye çağırdı.\" Ebu Hureyre r.a. de şöyle demiştir: \"Yakın akrabanı uyar\" ayeti inince Nebi Sallallahu Aleyhi ve Sellem \"Ey Kureyşliler!\" diye çağırdı"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 55,
+        "hadith": 15
+      },
+      "narrator": {
+        "en": "Anas"
+      }
+    },
+    {
+      "hadithNumber": 2753,
+      "arabicNumber": 2753,
+      "book": 55,
+      "hadithInBook": 16,
+      "text": {
+        "arabic": "حَدَّثَنَا أَبُو الْيَمَانِ، أَخْبَرَنَا شُعَيْبٌ، عَنِ الزُّهْرِيِّ، قَالَ أَخْبَرَنِي سَعِيدُ بْنُ الْمُسَيَّبِ، وَأَبُو سَلَمَةَ بْنُ عَبْدِ الرَّحْمَنِ أَنَّ أَبَا هُرَيْرَةَ ـ رضى الله عنه ـ قَالَ قَامَ رَسُولُ اللَّهِ صلى الله عليه وسلم حِينَ أَنْزَلَ اللَّهُ عَزَّ وَجَلَّ ‏{‏وَأَنْذِرْ عَشِيرَتَكَ الأَقْرَبِينَ ‏}‏ قَالَ ‏\"‏ يَا مَعْشَرَ قُرَيْشٍ ـ أَوْ كَلِمَةً نَحْوَهَا ـ اشْتَرُوا أَنْفُسَكُمْ، لاَ أُغْنِي عَنْكُمْ مِنَ اللَّهِ شَيْئًا، يَا بَنِي عَبْدِ مَنَافٍ لاَ أُغْنِي عَنْكُمْ مِنَ اللَّهِ شَيْئًا، يَا عَبَّاسُ بْنَ عَبْدِ الْمُطَّلِبِ لاَ أُغْنِي عَنْكَ مِنَ اللَّهِ شَيْئًا، وَيَا صَفِيَّةُ عَمَّةَ رَسُولِ اللَّهِ لاَ أُغْنِي عَنْكِ مِنَ اللَّهِ شَيْئًا، وَيَا فَاطِمَةُ بِنْتَ مُحَمَّدٍ سَلِينِي مَا شِئْتِ مِنْ مَالِي لاَ أُغْنِي عَنْكِ مِنَ اللَّهِ شَيْئًا ‏\"‏‏.‏ تَابَعَهُ أَصْبَغُ عَنِ ابْنِ وَهْبٍ عَنْ يُونُسَ عَنِ ابْنِ شِهَابٍ‏.‏",
+        "translations": {
+          "en": "Narrated Abu Huraira:When Allah revealed the Verse: \"Warn your nearest kinsmen,\" Allah's Messenger (ﷺ) got up and said, \"O people of Quraish (or said similar words)! Buy (i.e. save) yourselves (from the Hellfire) as I cannot save you from Allah's Punishment; O Bani `Abd Manaf! I cannot save you from Allah's Punishment, O Safiya, the Aunt of Allah's Messenger (ﷺ)! I cannot save you from Allah's Punishment; O Fatima bint Muhammad! Ask me anything from my wealth, but I cannot save you from Allah's Punishment",
+          "ur": "ہم سے ابوالیمان نے بیان کیا ‘ کہا ہم کو شعیب نے خبر دی ‘ انہوں نے زہری سے ‘ کہا مجھ کو سعید بن مسیب اور ابوسلمہ بن عبدالرحمٰن نے خبر دی کہ ابوہریرہ رضی اللہ عنہ نے کہا جب ( سورۃ الشعراء کی ) یہ آیت اللہ تعالیٰ نے اتاری «وأنذر عشيرتك الأقربين‏» اور اپنے نزدیک ناطے والوں کو اللہ کے عذاب سے ڈرا تو رسول اللہ صلی اللہ علیہ وسلم نے فرمایا قریش کے لوگو! یا ایسا ہی کوئی اور کلمہ تم لوگ اپنی اپنی جانوں کو ( نیک اعمال کے بدل ) مول لے لو ( بچا لو ) میں اللہ کے سامنے تمہارے کچھ کام نہیں آؤں گا ( یعنی اس کی مرضی کے خلاف میں کچھ نہیں کر سکوں گا ) عبد مناف کے بیٹو! میں اللہ کے سامنے تمہارے کچھ کام نہیں آؤں گا۔ عباس عبدالمطلب کے بیٹے! میں اللہ کے سامنے تمہارے کچھ کام نہیں آؤں گا۔ صفیہ میری پھوپھی! اللہ کے سامنے تمہارے کچھ کام نہیں آؤں گا۔ فاطمہ! بیٹی تو چاہے میرا مال مانگ لے لیکن اللہ کے سامنے تیرے کچھ کام نہیں آؤں گا۔ ابوالیمان کے ساتھ حدیث کو اصبغ نے بھی عبداللہ بن وہب سے ‘ انہوں نے یونس سے ‘ انہوں نے ابن شہاب سے روایت کیا۔",
+          "fr": "Rapporté par Abu Huraira : Lorsque Allah a révélé le verset : « Avertis tes plus proches parents », le Messager d’Allah (ﷺ) s’est levé et a dit : « Ô gens de Quraish (ou des paroles similaires) ! Sauvez-vous (du Feu de l’Enfer), car je ne peux pas vous protéger du châtiment d’Allah ; Ô Bani ‘Abd Manaf ! Je ne peux pas vous protéger du châtiment d’Allah ; Ô Safiya, tante du Messager d’Allah (ﷺ) ! Je ne peux pas te protéger du châtiment d’Allah ; Ô Fatima bint Muhammad ! Demande-moi ce que tu veux de mes biens, mais je ne peux pas te protéger du châtiment d’Allah. »",
+          "id": "Telah bercerita kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhriy] berkata telah bercerita kepadaku [Sa'id bin Al Musayyab] dan [Abu Salamah bin 'Abdur Rahman] bahwa [Abu Hurairah radliallahu 'anhu] berkata; Rasulullah shallallahu 'alaihi wasallam berdiri ketika turun turun QS asy-Syu'ara' ayat 214 yang artinya: (\"Dan berilah peringatan kepada keluarga-keluargamu yang terdekat\"), Beliau berseru: \"Wahai Kaum Quraisy\" atau ucapan semacamnya, peliharalah diri kalian karena aku tidak dapat membela kalian sedikitpun di hadapan Allah. Wahai Bani 'Abdi Manaf, aku tidak dapat membela kalian sedikitpun di hadapan Allah. Wahai 'Abbas bin 'Abdul Muthallib aku tidak dapat membela kamu sedikitpun di hadapan Allah. Wahai Shofiyah bibi Rasulullah, aku tidak dapat membela kamu sedikitpun di hadapan Allah. Wahai Fathimah putri Muhammad, mintalah kepadaku apa yang kamu mau dari hartaku, sungguh aku tidak dapat membela kamu sedikitpun di hadapan Allah\". Hadits ini ditelusuri oleh [Ashbagh] dari [Ibnu Wahb] dari [Yunus] dari [Ibnu Syihab]",
+          "tr": "Ebu Hureyre r.a.'den nakledilmiştir: Allah \"Yakın akrabanı uyar\" [Şuara 214] ayetini indirince Allah Resulü Sallallahu Aleyhi ve Sellem kalktı ve: \"Ey Kureyşliler! Kendinizi satın alıp (kurtarın), benim sizi Allah'tan kurtarmak için hiçbir şey elimden gelmez. Ey Abdimenaf oğulları! Sizi Allah'tan kurtarmak için elimden hiçbir şey gelmez. Ey Abdülmuttalib'in oğlu Abbas! Seni Allah'tan kurtarmak için bir şey yapamam. Safiye! -Allah Resulü, halasını kastediyor- Seni Allah'tan kurtarmak için bir şey yapamam. Fatıma! -Hz. Nebi kızını kastediyor- Malımdan dilediğini iste (vereyim), ama seni Allah'tan kurtarmak için yapabileceğim bir şey yok\" buyurdu. Tekrar: 3527, 4771 Diğer tahric: Tirmizi Tefsirul Kur’an; Müslim, İman"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 55,
+        "hadith": 16
+      },
+      "narrator": {
+        "en": "Abu Huraira"
+      }
+    },
+    {
+      "hadithNumber": 2754,
+      "arabicNumber": 2754,
+      "book": 55,
+      "hadithInBook": 17,
+      "text": {
+        "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ قَتَادَةَ، عَنْ أَنَسٍ ـ رضى الله عنه ـ أَنَّ النَّبِيَّ صلى الله عليه وسلم رَأَى رَجُلاً يَسُوقُ بَدَنَةً، فَقَالَ لَهُ ‏\"‏ ارْكَبْهَا ‏\"‏‏.‏ فَقَالَ يَا رَسُولَ اللَّهِ إِنَّهَا بَدَنَةٌ‏.‏ قَالَ فِي الثَّالِثَةِ أَوِ الرَّابِعَةِ ‏\"‏ ارْكَبْهَا، وَيْلَكَ، أَوْ وَيْحَكَ ‏\"‏‏.‏",
+        "translations": {
+          "en": "Narrated Anas:The Prophet (ﷺ) saw a man driving a Badana (i.e. camel for sacrifice) and said to him, \"Ride on it.\" The man said, \"O Allah's Messenger (ﷺ)! It is a Badana.\" (The Prophet (ﷺ) repeated his order) and on the third or fourth time he said, \"Ride it, (woe to you\" or said: \"May Allah be merciful to you)",
+          "ur": "ہم سے قتیبہ بن سعید نے بیان کیا، کہا ہم سے ابوعوانہ نے بیان کیا، ان سے قتادہ نے اور ان سے انس رضی اللہ عنہ نے کہ نبی کریم صلی اللہ علیہ وسلم نے دیکھا کہ ایک شخص قربانی کا اونٹ ہانکے لیے جا رہا ہے۔ آپ صلی اللہ علیہ وسلم نے اس سے فرمایا کہ اس پر سوار ہو جا۔ اس صاحب نے کہا یا رسول اللہ! یہ قربانی کا اونٹ ہے۔ آپ صلی اللہ علیہ وسلم نے تیسری یا چوتھی بار فرمایا افسوس! سوار بھی ہو جا یا آپ نے «ويلك» کی بجائے «ويحك» فرمایا جس کے معنی بھی وہی ہیں۔",
+          "fr": "Rapporté par Anas : Le Prophète (ﷺ) a vu un homme conduire une Badana (c’est-à-dire un chameau destiné au sacrifice) et lui a dit : « Monte dessus. » L’homme répondit : « Ô Messager d’Allah (ﷺ) ! C’est une Badana. » (Le Prophète (ﷺ) répéta son ordre) et, à la troisième ou quatrième fois, il dit : « Monte dessus, malheur à toi ! » ou il a dit : « Qu’Allah te fasse miséricorde. »",
+          "id": "Telah bercerita kepada kami [Qutaibah bin Sa'ad] telah bercerita kepada kami [Abu 'Awanah] dari [Qatadah] dari [Anas radliallahu 'anhu] bahwa Nabi shallallahu 'alaihi wasallam melihat seseorang sedang menggiring untanya, maka Beliau berkata: \"Kendarailah unta itu\". Orang itu menjawab: \"Wahai Rasulullah, unta ini untuk qurban\". Maka Beliau shallallahu 'alaihi wasallam mengulangi perintahnya untuk yang ketiga kalinya atau keempat: \"Kendarailah unta itu, celaka kamu ini",
+          "tr": "Enes r.a.'den nakledilmiştir: Nebi Sallallahu Aleyhi ve Sellem kurbanlık bir deve süren birini görmüştü. \"Binsene\" buyurdu. Adam \"Ey Allah'ın Resulü! Bu kurbanlık deve\" dedi. Nebi Sallallahu Aleyhi ve Sellem üçüncü veya dördüncü defada \"Hayret bi şey! Binsene devene\" buyurdu"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 55,
+        "hadith": 17
+      },
+      "narrator": {
+        "en": "Anas"
+      }
+    },
+    {
+      "hadithNumber": 2755,
+      "arabicNumber": 2755,
+      "book": 55,
+      "hadithInBook": 18,
+      "text": {
+        "arabic": "حَدَّثَنَا إِسْمَاعِيلُ، حَدَّثَنَا مَالِكٌ، عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم رَأَى رَجُلاً يَسُوقُ بَدَنَةً، فَقَالَ ‏\"‏ ارْكَبْهَا ‏\"‏‏.‏ قَالَ يَا رَسُولَ اللَّهِ إِنَّهَا بَدَنَةٌ‏.‏ قَالَ ‏\"‏ ارْكَبْهَا، وَيْلَكَ ‏\"‏‏.‏ فِي الثَّانِيَةِ أَوْ فِي الثَّالِثَةِ‏.‏",
+        "translations": {
+          "en": "Narrated Abu Huraira:Allah's Messenger (ﷺ) saw a man driving a Badana and said to him, \"Ride on it,\" and on the second or the third time he added, \"Woe to you",
+          "ur": "ہم سے اسمٰعیل بن ابی اویس نے بیان کیا، کہا ہم سے امام مالک نے بیان کیا، ان سے ابوالزناد نے، ان نے اعرج سے اور ان ابوہریرہ رضی اللہ عنہ نے کہ رسول اللہ صلی اللہ علیہ وسلم نے دیکھا کہ ایک صاحب قربانی کا اونٹ ہانکے لیے جا رہے ہیں۔ آپ صلی اللہ علیہ وسلم نے فرمایا کہ اس پر سوار ہو جا لیکن انہوں نے معذرت کی کہ یا رسول اللہ! یہ تو قربانی کا ہے۔ آپ صلی اللہ علیہ وسلم نے پھر فرمایا کہ سوار بھی ہو جا۔ افسوس! یہ کلمہ آپ صلی اللہ علیہ وسلم نے تیسری یا چوتھی مرتبہ فرمایا تھا۔",
+          "fr": "Rapporté par Abu Huraira : Le Messager d’Allah (ﷺ) a vu un homme conduire une Badana et lui a dit : « Monte dessus », puis, à la deuxième ou troisième fois, il ajouta : « Malheur à toi ! »",
+          "id": "Telah bercerita kepada kami [Isma'il] telah bercerita kepada kami [Malik] dari [Abu Az Zanad] dari [Al A'raj] dari [Abu Hurairah radliallahu 'anhu] bahwa Rasulullah shallallahu 'alaihi wasallam melihat seseorang sedang menggiring untanya, maka Beliau berkata: \"Kendarailah unta itu\". Orang itu menjawab: \"Wahai Rasulullah, unta ini untuk qurban\". Maka Beliau shallallahu 'alaihi wasallam mengulangi: \"Kendarailah unta itu, celaka kamu ini\". pada perintah Beliau yang kedua kalinya atau yang ketiga",
+          "tr": "Ebu Hureyre r.a.'den nakledilmiştir: Allah Resulü Sallallahu Aleyhi ve Sellem kurbanlık deve süren birini görmüştü. \"Binsene\" buyurdu. Adam: \"Ey Allah’ın Resulü! Bu kurbanlık deve\" dedi. Nebi Sallallahu Aleyhi ve Sellem ikinci veya üçüncü defada \"Hayret bi şey! Binsene devene\" buyurdu"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 55,
+        "hadith": 18
+      },
+      "narrator": {
+        "en": "Abu Huraira"
+      }
+    },
+    {
+      "hadithNumber": 2756,
+      "arabicNumber": 2756,
+      "book": 55,
+      "hadithInBook": 19,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدٌ، أَخْبَرَنَا مَخْلَدُ بْنُ يَزِيدَ، أَخْبَرَنَا ابْنُ جُرَيْجٍ، قَالَ أَخْبَرَنِي يَعْلَى، أَنَّهُ سَمِعَ عِكْرِمَةَ، يَقُولُ أَنْبَأَنَا ابْنُ عَبَّاسٍ ـ رضى الله عنهما ـ أَنَّ سَعْدَ بْنَ عُبَادَةَ ـ رضى الله عنه ـ تُوُفِّيَتْ أُمُّهُ وَهْوَ غَائِبٌ عَنْهَا، فَقَالَ يَا رَسُولَ اللَّهِ إِنَّ أُمِّي تُوُفِّيَتْ وَأَنَا غَائِبٌ عَنْهَا، أَيَنْفَعُهَا شَىْءٌ إِنْ تَصَدَّقْتُ بِهِ عَنْهَا قَالَ ‏ \"‏ نَعَمْ ‏\"‏‏.‏ قَالَ فَإِنِّي أُشْهِدُكَ أَنَّ حَائِطِي الْمِخْرَافَ صَدَقَةٌ عَلَيْهَا‏.‏",
+        "translations": {
+          "en": "Narrated Ibn `Abbas:The mother of Sa`d bin 'Ubada died in his absence. He said, \"O Allah's Messenger (ﷺ)! My mother died in my absence; will it be of any benefit for her if I give Sadaqa on her behalf?\" The Prophet (ﷺ) said, \"Yes,\" Sa`d said, \"I make you a witness that I gave my garden called Al Makhraf in charity on her behalf",
+          "ur": "ہم سے محمد بن سلام نے بیان کیا، کہا ہم کو مخلد بن یزید نے خبر دی، انہیں ابن جریج نے خبر دی، کہا کہ مجھے یعلیٰ بن مسلم نے خبر دی، انہوں نے عکرمہ سے سنا، وہ بیان کرتے تھے کہ ہمیں ابن عباس رضی اللہ عنہما نے خبر دی کہ سعد بن عبادہ رضی اللہ عنہ کی ماں عمرہ بنت مسعود کا انتقال ہوا تو وہ ان کی خدمت میں موجود نہیں تھے۔ انہوں نے آ کر رسول اللہ صلی اللہ علیہ وسلم سے پوچھا یا رسول اللہ! میری والدہ کا جب انتقال ہوا تو میں ان کی خدمت میں حاضر نہیں تھا۔ کیا اگر میں کوئی چیز صدقہ کروں تو اس سے انہیں فائدہ پہنچ سکتا ہے؟ آپ صلی اللہ علیہ وسلم نے اثبات میں جواب دیا تو انہوں نے کہا کہ میں آپ کو گواہ بناتا ہوں کہ میرا مخراف نامی باغ ان کی طرف سے صدقہ ہے۔",
+          "fr": "Rapporté par Ibn ‘Abbas : La mère de Sa‘d bin ‘Ubada est décédée en son absence. Il dit : « Ô Messager d’Allah (ﷺ) ! Ma mère est morte alors que je n’étais pas là ; cela lui sera-t-il utile si je donne une aumône pour elle ? » Le Prophète (ﷺ) répondit : « Oui. » Sa‘d dit : « Je te prends à témoin que j’ai donné mon jardin appelé Al Makhraf en aumône pour elle. »",
+          "id": "Telah bercerita kepada kami [Muhammad bin Salam] telah mengabarkan kepada kami [Makhlad bin Yazid] telah mengabarkan kepada kami [Ibnu Juraij] berkata telah bercerita kepadaku [Ya'laa] bahwa dia mendengar ['Ikrimah] berkata; telah memberitakan kepada kami [Ibnu 'Abbas radliallahu 'anhuma] bahwa Sa'ad bin 'Ubadah radliallahu 'anhu ibunya meninggal dunia saat dia tidak ada disisinya. Kemudian dia berkata: \"Wahai Rasulullah, ibuku meninggal dunia saat aku tidak ada. Apakah akan bermanfaat baginya bila aku menshadaqahkan sesuatu?\" Beliau bersabda: \"Ya\". Dia berkata: \"Aku bersaksi kepada Tuan bahwa kebunku yang penuh dengan bebuahannya ini aku shadaqahkan atas (nama) nya",
+          "tr": "İbn Abbas r.a.'dan nakledilmiştir: Sa'd İbn Ubade'nin annesi kendisi yanında değilken vefat etmişti. \"Ey Allah'ın Resulü! Annem, ben yanında değilken vefat etmiş. Onun adına bir şeyi sadaka etsemona yararı olur mu?\" diye sordu. Hz. Nebi Sallallahu Aleyhi ve Sellem \"Evet\" buyurdu. Bunun üzerine Sa'd \"O halde seni şahit tutarım ki meyveli bahçem onun için sadakadır\" dedi"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 55,
+        "hadith": 19
+      },
+      "narrator": {
+        "en": "Ibn `Abbas"
+      }
+    },
+    {
+      "hadithNumber": 2757,
+      "arabicNumber": 2757,
+      "book": 55,
+      "hadithInBook": 20,
+      "text": {
+        "arabic": "حَدَّثَنَا يَحْيَى بْنُ بُكَيْرٍ، حَدَّثَنَا اللَّيْثُ، عَنْ عُقَيْلٍ، عَنِ ابْنِ شِهَابٍ، قَالَ أَخْبَرَنِي عَبْدُ الرَّحْمَنِ بْنُ عَبْدِ اللَّهِ بْنِ كَعْبٍ، أَنَّ عَبْدَ اللَّهِ بْنَ كَعْبٍ، قَالَ سَمِعْتُ كَعْبَ بْنَ مَالِكٍ ـ رضى الله عنه‏.‏ قُلْتُ يَا رَسُولَ اللَّهِ، إِنَّ مِنْ تَوْبَتِي أَنْ أَنْخَلِعَ مِنْ مَالِي صَدَقَةً إِلَى اللَّهِ وَإِلَى رَسُولِهِ صلى الله عليه وسلم‏.‏ قَالَ ‏ \"‏ أَمْسِكْ عَلَيْكَ بَعْضَ مَالِكَ فَهُوَ خَيْرٌ لَكَ ‏\"‏‏.‏ قُلْتُ فَإِنِّي أُمْسِكُ سَهْمِي الَّذِي بِخَيْبَرَ‏.‏",
+        "translations": {
+          "en": "Narrated Ka`b bin Malik:I said, \"O Allah's Messenger (ﷺ)! For the acceptance of my repentance I wish to give all my property in charity for Allah's sake through His Apostle .\" He said, \"It is better for you to keep some of the property for yourself.\" I said, \"Then I will keep my share in Khaibar",
+          "ur": "ہم سے یحییٰ بن بکیر نے بیان کیا ‘ کہا ہم سے لیث نے بیان کیا ‘ ان سے عقیل نے ‘ ان سے ابن شہاب نے کہا کہ مجھے عبدالرحمٰن بن عبداللہ بن کعب نے خبر دی اور ان سے عبداللہ بن کعب نے بیان کیا کہ میں نے کعب بن مالک رضی اللہ عنہ سے سنا ‘ وہ بیان کرتے تھے کہ میں نے عرض کیا یا رسول اللہ! میری توبہ ( غزوہ تبوک میں نہ جانے کی ) قبول ہونے کا شکرانہ یہ ہے کہ میں اپنا مال اللہ اور اس کے رسول کے راستے میں دیدوں۔ آپ صلی اللہ علیہ وسلم نے فرمایا کہ اگر اپنے مال کا ایک حصہ اپنے پاس ہی باقی رکھو تو تمہارے حق میں یہ بہتر ہے۔ میں نے عرض کیا کہ پھر میں اپنا خیبر کا حصہ اپنے پاس محفوظ رکھتا ہوں۔",
+          "fr": "Rapporté par Ka‘b bin Malik : J’ai dit : « Ô Messager d’Allah (ﷺ) ! Pour que mon repentir soit accepté, je souhaite donner tous mes biens en aumône pour Allah par l’intermédiaire de Son Messager. » Il dit : « Il vaut mieux que tu gardes une partie de tes biens pour toi. » J’ai dit : « Alors je garderai ma part à Khaibar. »",
+          "id": "Telah bercerita kepada kami [Yahya bin Bukair] telah bercerita kepada kami [Al Laits] dari ['Uqail] dari [Ibnu Syihab] berkata telah bercerita kepadaku ['Abdur Rahman bin 'Abdullah bin Ka'ab] bahwa ['Abdullah bin Ka'ab] berkata; Aku mendengar [Ka'ab bin Malik radliallahu 'anhu]; Aku berkata: \"Wahai Rasulullah, sesungguhnya untuk melaksanakan taubatu aku berkehendak mengeluarkan seluruh hartaku sebagai shadaqah di jalan Allah dan Rosul-Nya shallallahu 'alaihi wasallam\". Maka Beliau shallallahu 'alaihi wasallam berkata: \"Simpanlah sebagian hartamu karena itu lebih baik bagimu\". Aku berkata lagi: \"Sesungguhnya aku menyimpan hartaku yaitu bagianku yang ada di tanah Khaibar",
+          "tr": "Ka'b İbn Malik r.a.'den nakledilmiştir: Ka'b İbn Malik \"Ey Allah'ın Resulü! Ben tövbe ettiğimin göstergesi olarak, Allah ve Resulü'ne sadaka olarak bütün malımdan sıyrılıyorum\" demişti. Nebi Sallallahu aleyhi ve sellem: \"Malının birazını elinde tut. Bu senin için daha iyidir\" buyurdu. Bunun üzerine Ka'b \"O zaman Hayber'deki payımı elimde tutuyorum\" dedi. Tekrar:"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 55,
+        "hadith": 20
+      },
+      "narrator": {
+        "en": "Ka`b bin Malik"
+      }
+    },
+    {
+      "hadithNumber": 2758,
+      "arabicNumber": 2758,
+      "book": 55,
+      "hadithInBook": 21,
+      "text": {
+        "arabic": "وَقَالَ إِسْمَاعِيلُ أَخْبَرَنِي عَبْدُ الْعَزِيزِ بْنُ عَبْدِ اللَّهِ بْنِ أَبِي سَلَمَةَ، عَنْ إِسْحَاقَ بْنِ عَبْدِ اللَّهِ بْنِ أَبِي طَلْحَةَ،، لاَ أَعْلَمُهُ إِلاَّ عَنْ أَنَسٍ ـ رضى الله عنه ـ قَالَ لَمَّا نَزَلَتْ ‏{‏لَنْ تَنَالُوا الْبِرَّ حَتَّى تُنْفِقُوا مِمَّا تُحِبُّونَ‏}‏ جَاءَ أَبُو طَلْحَةَ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَ يَا رَسُولَ اللَّهِ يَقُولُ اللَّهُ تَبَارَكَ وَتَعَالَى فِي كِتَابِهِ ‏{‏لَنْ تَنَالُوا الْبِرَّ حَتَّى تُنْفِقُوا مِمَّا تُحِبُّونَ‏}‏ وَإِنَّ أَحَبَّ أَمْوَالِي إِلَىَّ بِيرُحَاءَ ـ قَالَ وَكَانَتْ حَدِيقَةً كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَدْخُلُهَا وَيَسْتَظِلُّ بِهَا وَيَشْرَبُ مِنْ مَائِهَا ـ فَهِيَ إِلَى اللَّهِ عَزَّ وَجَلَّ وَإِلَى رَسُولِهِ صلى الله عليه وسلم أَرْجُو بِرَّهُ وَذُخْرَهُ، فَضَعْهَا أَىْ رَسُولَ اللَّهِ حَيْثُ أَرَاكَ اللَّهُ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ بَخْ يَا أَبَا طَلْحَةَ، ذَلِكَ مَالٌ رَابِحٌ، قَبِلْنَاهُ مِنْكَ وَرَدَدْنَاهُ عَلَيْكَ، فَاجْعَلْهُ فِي الأَقْرَبِينَ ‏\"‏‏.‏ فَتَصَدَّقَ بِهِ أَبُو طَلْحَةَ عَلَى ذَوِي رَحِمِهِ، قَالَ وَكَانَ مِنْهُمْ أُبَىٌّ وَحَسَّانُ، قَالَ وَبَاعَ حَسَّانُ حِصَّتَهُ مِنْهُ مِنْ مُعَاوِيَةَ، فَقِيلَ لَهُ تَبِيعُ صَدَقَةَ أَبِي طَلْحَةَ فَقَالَ أَلاَ أَبِيعُ صَاعًا مِنْ تَمْرٍ بِصَاعٍ مِنْ دَرَاهِمَ قَالَ وَكَانَتْ تِلْكَ الْحَدِيقَةُ فِي مَوْضِعِ قَصْرِ بَنِي حُدَيْلَةَ الَّذِي بَنَاهُ مُعَاوِيَةُ‏.‏",
+        "translations": {
+          "en": "Narrated Anas (ra):When the Holy Verse: 'By no means shall you attain Al-Birr (piety, righteousness, it means here Allah's Reward i.e., Paradise), unless you spend of that which you love..', (V 3:92) was revealed, Abu Talha went to Allah's Messenger (ﷺ) and said, \"O Allah's Messenger ! Allah, the Blessed, the Superior stated in His book: 'By no means shall you attain Birr, unless you spend of that which you love....' (V 3:92) and the most beloved property to me is Bairuha' (which was a garden where Allah's Messenger (ﷺ) used to go to sit in its shade and drink from its water). I give it to Allah and His Messenger (ﷺ) hoping for Allah's Reward in the Hereafter. So, O Allah's Messenger! Use it as Allah orders you to use it.\" Allah's Messenger (ﷺ) said, \"Bravo! O Abu Talha, it is fruitful property. We have accepted it from you and now we return it to you. Distribute it amongst your relatives.\" So, Abu Talha distributed it amongst his relatives, amongst whom were Ubai and Hassan. When Hassan sold his share of that garden to Mu'awiyya, he was asked, \"How do you sell Abu Talha's Sadaqa?\" He replied, \"Why should not I sell a Sa' of date for Sa' of money?\" The garden was situated on the courtyard of the palace of Bani Hudailah built by Mu'awiya",
+          "ur": "اور اسماعیل بن جعفر نے بیان کیا کہ مجھے عبدالعزیز بن عبداللہ بن ابی سلمہ نے خبر دی ‘ انہیں اسحاق بن عبداللہ بن ابی طلحہ نے (امام بخاری رحمہ اللہ نے کہا کہ) میں سمجھتا ہوں کہ یہ روایت انہوں نے انس رضی اللہ عنہ سے کی ہے کہ انہوں نے بیان کیا ( جب سورۃ آل عمران کی ) یہ آیت نازل ہوئی «لن تنالوا البر حتى تنفقوا مما تحبون‏» ”تم نیکی ہرگز نہیں پا سکتے جب تک اس مال میں سے خرچ نہ کرو جو تم کو زیادہ پسند ہے۔“ تو ابوطلحہ رضی اللہ عنہ رسول اللہ صلی اللہ علیہ وسلم کی خدمت میں حاضر ہوئے اور عرض کیا یا رسول اللہ! اللہ تبارک و تعالیٰ اپنی کتاب میں فرماتا ہے «لن تنالوا البر حتى تنفقوا مما تحبون‏» ”تم نیکی ہرگز نہیں پا سکتے جب تک اس مال میں سے خرچ نہ کرو جو تم کو زیادہ پسند ہے۔“ اور میرے اموال میں سب سے پسند مجھے بیرحاء ہے۔ بیان کیا کہ بیرحاء ایک باغ تھا۔ رسول اللہ صلی اللہ علیہ وسلم بھی اس میں تشریف لے جایا کرتے ‘ اس کے سائے میں بیٹھتے اور اس کا پانی پیتے ( ابوطلحہ نے کہا کہ ) اس لیے وہ اللہ عزوجل کی راہ میں صدقہ اور رسول اللہ صلی اللہ علیہ وسلم کے لیے ہے۔ میں اس کی نیکی اور اس کے ذخیرہ آخرت ہونے کی امید رکھتا ہوں۔ پس یا رسول اللہ! جس طرح اللہ آپ کو بتائے اسے خرچ کیجئے۔ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا واہ واہ شاباش ابوطلحہ یہ تو بڑا نفع بخش مال ہے ‘ ہم تم سے اسے قبول کر کے پھر تمہارے ہی حوالے کر دیتے ہیں اور اب تم اسے اپنے عزیزوں کو دیدو۔ چنانچہ ابوطلحہ رضی اللہ عنہ نے وہ باغ اپنے عزیزوں کو دے دیا۔ انس رضی اللہ عنہ نے بیان کیا کہ جن لوگوں کو باغ آپ نے دیا تھا ان میں ابی اور حسان رضی اللہ عنہ تھے۔ انہوں نے بیان کیا کہ حسان رضی اللہ عنہ نے اپنا حصہ معاویہ رضی اللہ عنہ کو بیچ دیا تو کسی نے ان سے کہا کہ کیا آپ ابوطلحہ رضی اللہ عنہ کا دیا ہوا مال بیچ رہے ہو؟ حسان رضی اللہ عنہ نے جواب دیا کہ میں کھجور کا ایک صاع روپوں کے ایک صاع کے بدل کیوں نہ بیچوں۔ انس رضی اللہ عنہ نے کہا یہ باغ بنی حدیلہ کے محلہ کے قریب تھا جسے معاویہ رضی اللہ عنہ نے ( بطور قلعہ کے ) تعمیر کیا تھا۔",
+          "fr": "Rapporté par Anas (ra) : Lorsque le verset sacré : « Vous n’atteindrez jamais la piété (la récompense d’Allah, c’est-à-dire le Paradis) tant que vous ne dépenserez pas de ce que vous aimez… » (3:92) a été révélé, Abu Talha est allé voir le Messager d’Allah (ﷺ) et a dit : « Ô Messager d’Allah ! Allah, le Béni, le Très-Haut, a dit dans Son Livre : “Vous n’atteindrez jamais la piété tant que vous ne dépenserez pas de ce que vous aimez…” et le bien que j’aime le plus est Bairuha’ (un jardin où le Messager d’Allah (ﷺ) venait s’asseoir à l’ombre et boire de son eau). Je l’offre à Allah et à Son Messager (ﷺ) en espérant la récompense d’Allah dans l’au-delà. Ô Messager d’Allah ! Utilise-le comme Allah te l’ordonne. » Le Messager d’Allah (ﷺ) dit : « Bravo ! Ô Abu Talha, c’est un bien fructueux. Nous l’acceptons de toi et maintenant nous te le rendons. Distribue-le parmi tes proches. » Alors Abu Talha le distribua parmi ses proches, dont Ubai et Hassan. Quand Hassan a vendu sa part de ce jardin à Mu‘awiya, on lui demanda : « Que penses-tu de l’aumône d’Abu Talha ? » Il répondit : « Pourquoi ne vendrais-je pas un Sa’ de dattes contre un Sa’ d’argent ? » Le jardin était situé dans la cour du palais de Bani Jadila construit par Mu‘awiya",
+          "tr": "Enes r.a.'den nakledilmiştir: \"Sevdiklerinizden infak etmediğiniz sürece iyiliğe eremezsiniz\" [Al-i İmran 92] ayeti inince Ebu Talha, Allah Resulü Sallallahu Aleyhi ve Sellem'e gelerek: \"Ey Allah'ın Resulü! Allah (C.C.) Kitabı'nda \"Sevdiklerinizden infak etmediğiniz sürece iyiliğe eremezsiniz\" buyuruyor. Benim de en sevdiğim malım Beyruha'dır. -Burası Allah Resulü'nün Sallallahu Aleyhi ve Sellem girip gölgelendiği ve suyundan içtiği bir bahçeydi- İşte burası Allah ve Resulü'ne aittir. Ben burasının iyiliğini ve bereketini umuyorum. Ey Allah'ın Resulül Sen arasını Allah'ın sana gösterdiği herhangi bir amaç için kullanıver\" dedi. Bunun üzerine Allah Resulü Sallallahu Aleyhi ve Sellem \"Aferin Ebu Talha. Bu, kazançlı bir mal; senden kabul ettik ve sana iade ettik. Sen onu yakınlarına tahsis et\" buyurdu. Bunun üzerine Ebu Talha orasını yakınlarına sadaka etti. Ubeyy ve Hassan da sadaka ettikleri arasındaydı. Hassan oradaki payını Muaviye'ye sattı. Ona \"Ebu Talha'nın sadakasını satıyor musun?\" dediler. Bunun üzerine Hassan \"Bir ölçek hurmayı bir ölçek dirhem karşılığında satmayayım mı?\" dedi. Enes diyor ki: \"O bahçe, Muaviye'nin yaptırdığı Hudeyleoğulları köşkünün bulunduğu yerdeydi"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 55,
+        "hadith": 21
+      },
+      "narrator": {
+        "en": "Anas (ra)"
+      }
+    },
+    {
+      "hadithNumber": 2759,
+      "arabicNumber": 2759,
+      "book": 55,
+      "hadithInBook": 22,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْفَضْلِ أَبُو النُّعْمَانِ، حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ أَبِي بِشْرٍ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ قَالَ إِنَّ نَاسًا يَزْعُمُونَ أَنَّ هَذِهِ الآيَةَ نُسِخَتْ، وَلاَ وَاللَّهِ مَا نُسِخَتْ، وَلَكِنَّهَا مِمَّا تَهَاوَنَ النَّاسُ، هُمَا وَالِيَانِ وَالٍ يَرِثُ، وَذَاكَ الَّذِي يَرْزُقُ، وَوَالٍ لاَ يَرِثُ، فَذَاكَ الَّذِي يَقُولُ بِالْمَعْرُوفِ، يَقُولُ لاَ أَمْلِكُ لَكَ أَنْ أُعْطِيَكَ‏.‏",
+        "translations": {
+          "en": "Narrated Ibn `Abbas:Some people claim that the order in the above Verse is cancelled, by Allah, it is not cancelled, but the people have stopped acting on it. There are two kinds of guardians (who are in charge of the inheritance): One is that who inherits; such a person should give (of what he inherits to the relatives, the orphans and the needy, etc.), the other is that who does not inherit (e.g. the guardian of the orphans): such a person should speak kindly and say (to those who are present at the time of distribution), \"I can not give it to you (as the wealth belongs to the orphans)",
+          "ur": "ہم سے ابوالنعمان محمد بن فضل نے بیان کیا ‘ کہا ہم سے ابوعوانہ نے بیان کیا ابوبشر جعفر سے ‘ ان سے سعید بن جبیر نے اور ان سے ابن عباس رضی اللہ عنہما نے فرمایا کہ کچھ لوگ گمان کرنے لگے ہیں کہ یہ آیت ( جس ذکر عنوان میں ہوا ) میراث کی آیت منسوخ ہو گئی ہے ‘ نہیں قسم اللہ کی آیت منسوخ نہیں ہوئی البتہ لوگ اس پر عمل کرنے میں سست ہو گئے ہیں۔ ترکے کے لینے والے دو طرح کے ہوتے ہیں ایک وہ جو وارث ہوں ان کو حصہ دیا جائے گا دوسرے وہ جو وارث نہ ہوں ان کو نرمی سے جواب دینے کا حکم ہے۔ وہ یوں کہے میاں میں تم کو دینے کا اختیار نہیں رکھتا۔",
+          "fr": "Rapporté par Ibn ‘Abbas : Certaines personnes prétendent que l’ordre dans le verset ci-dessus est annulé. Par Allah, il n’est pas annulé, mais les gens ont cessé de l’appliquer. Il y a deux sortes de tuteurs (chargés de l’héritage) : Celui qui hérite ; il doit donner (de ce qu’il hérite aux proches, orphelins, nécessiteux, etc.), et celui qui n’hérite pas (par exemple, le tuteur des orphelins) : il doit parler avec bonté et dire (à ceux qui sont présents lors du partage) : « Je ne peux pas vous le donner (car la richesse appartient aux orphelins). »",
+          "id": "Telah bercerita kepada kami [Muhammad bin Al Fadhl Abu an-Nu'man] telah bercerita kepada kami [Abu 'Awanah] dari [Abu Bisyir] dari [Sa'id bin Jubair] dari [Ibnu 'Abbas radliallahu 'anhuma] berkata: \"Sesungguhnya ada orang-orang yang menganggap bahwa ayat ini telah dihapus. Namun demi Allah, ayat itu tidak dihapus hanya saja ayat itu telah diremehkan manusia, yaitu dua orang wali. Yang pertama tentang wali yang meninggalkan warisan, itulah yang memberikan rizki. Dan yang kedua seorang wali yang tidak meninggalkan warisan, itulah yang berkata dengan kebaikan, dimana ia berkata: \"Aku tidak memiliki sesuatu untuk diberikan kepadamu",
+          "tr": "İbn Abbas'ın şöyle dediği nakledilir: \"Bazı insanlar bu ayetin neshedildiğini iddia ediyorlar. Hayır, Allah'a yemin ederim ki neshedilmedi. Fakat bu, insanların gevşek davrandıkları konulardandır. İki yakın vardır. Biri mirasçı olur. Kendisine pay verilir. Diğeri de mirasçı olmaz, kendisine mirastan sadaka verilir. Kendisine miras verilmeyene güzel söz söylenir (gönlü alınır). Mirasçı ona \"Sana mirastan vermeye yetkim yoktur\" der. Tekrar: 4576 باب: ما يستحب لمن يتوفى فجأة أن يتصدقوا عنه، وقضاء النذور عن الميت. 19. ANSIZIN ÖLEN KİŞİ ADINA SADAKA VERİLMESİ VE ÖLENİN ADAKLARININ ÖDENMESİ MÜSTEHAPTIR"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 55,
+        "hadith": 22
+      },
+      "narrator": {
+        "en": "Ibn `Abbas"
+      }
+    },
+    {
+      "hadithNumber": 2760,
+      "arabicNumber": 2760,
+      "book": 55,
+      "hadithInBook": 23,
+      "text": {
+        "arabic": "حَدَّثَنَا إِسْمَاعِيلُ، قَالَ حَدَّثَنِي مَالِكٌ، عَنْ هِشَامٍ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، رضى الله عنها أَنَّ رَجُلاً، قَالَ لِلنَّبِيِّ صلى الله عليه وسلم إِنَّ أُمِّي افْتُلِتَتْ نَفْسَهَا، وَأُرَاهَا لَوْ تَكَلَّمَتْ تَصَدَّقَتْ، أَفَأَتَصَدَّقُ عَنْهَا قَالَ ‏ \"‏ نَعَمْ، تَصَدَّقْ عَنْهَا ‏\"‏‏.‏",
+        "translations": {
+          "en": "Narrated `Aisha:A man said to the Prophet, \"My mother died suddenly, and I think that if she could speak, she would have given in charity. May I give in charity on her behalf?\" He said, \"Yes! Give in charity on her behalf",
+          "ur": "ہم سے اسماعیل بن ابی اویس نے بیان کیا ‘ کہا کہ مجھ سے امام مالک نے بیان کیا ‘ ان سے ہشام نے ‘ ان سے ان کے باپ نے اور ان سے عائشہ رضی اللہ عنہا نے کہ ایک صحابی ( سعد بن عبادہ ) نے رسول اللہ صلی اللہ علیہ وسلم سے کہا کہ میری والدہ کی موت اچانک واقع ہو گئی ‘ میرا خیال ہے کہ اگر انہیں گفتگو کا موقع ملتا تو وہ صدقہ کرتیں تو کیا میں ان کی طرف سے خیرات کر سکتا ہوں؟ آپ صلی اللہ علیہ وسلم نے فرمایا ہاں ان کی طرف سے خیرات کر۔",
+          "fr": "Rapporté par ‘Aisha : Un homme a dit au Prophète : « Ma mère est morte subitement, et je pense que si elle avait pu parler, elle aurait donné en aumône. Puis-je donner en aumône pour elle ? » Il répondit : « Oui ! Donne en aumône pour elle. »",
+          "id": "Telah bercerita kepada kami [Isma'il] berkata telah bercerita kepadaku [Malik] dari [Hisyam bin 'Urwah] dari [bapaknya] dari ['Aisyah radliallahu 'anha] bahwa ada seorang laki-laki yang berkata kepada Nabi shallallahu 'alaihi wasallam: \"Sesungguhnya ibuku telah meninggal dunia secara mendadak dan aku menduga seandainya dia sempat berbicara dia akan bershadaqah. Apakah aku boleh bershadaqah atas namanya?\" Beliau menjawab: \"Ya bershodaqolah atasnya",
+          "tr": "Aişe r.anha'dan nakledilmiştir: Birisi Nebi Sallallahu Aleyhi ve Sellem'e \"Annem ansızın ölüverdi. Sanırım konuşabilse (malının bir kısmını) sadaka olarak verirdi. Onun adına sadaka vereyim mi?\" dedi. Nebi Sallallahu Aleyhi ve Sellem \"Evet. Onun adına sadaka ver\" buyurdu"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 55,
+        "hadith": 23
+      },
+      "narrator": {
+        "en": "`Aisha"
+      }
+    },
+    {
+      "hadithNumber": 2761,
+      "arabicNumber": 2761,
+      "book": 55,
+      "hadithInBook": 24,
+      "text": {
+        "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، أَخْبَرَنَا مَالِكٌ، عَنِ ابْنِ شِهَابٍ، عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ أَنَّ سَعْدَ بْنَ عُبَادَةَ ـ رضى الله عنه ـ اسْتَفْتَى رَسُولَ اللَّهِ صلى الله عليه وسلم فَقَالَ إِنَّ أُمِّي مَاتَتْ وَعَلَيْهَا نَذْرٌ‏.‏ فَقَالَ ‏ \"‏ اقْضِهِ عَنْهَا ‏\"‏‏.‏",
+        "translations": {
+          "en": "Narrated Ibn `Abbas:Sa`d bin Ubada consulted Allah's Messenger (ﷺ) saying, \"My mother died and she had an unfulfilled vow.\" The Prophet (ﷺ) said, \"Fulfill it on her behalf",
+          "ur": "ہم سے عبداللہ بن یوسف تنیسی نے بیان کیا ‘ کہا کہ ہم کو امام مالک نے خبر دی ابن شہاب سے ‘ انہیں عبیداللہ بن عبداللہ نے اور انہیں ابن عباس رضی اللہ عنہما نے کہ سعد بن عبادہ رضی اللہ عنہ نے رسول اللہ صلی اللہ علیہ وسلم سے مسئلہ پوچھا ‘ انہوں نے عرض کیا کہ میری ماں کا انتقال ہو گیا ہے اور اس کے ذمہ ایک نذر تھی۔ آپ صلی اللہ علیہ وسلم نے فرمایا کہ ان کی طرف سے نذر پوری کر دے۔",
+          "fr": "Rapporté par Ibn ‘Abbas : Sa‘d bin Ubada a consulté le Messager d’Allah (ﷺ) en disant : « Ma mère est morte et elle avait un vœu non accompli. » Le Prophète (ﷺ) dit : « Accomplis-le pour elle. »",
+          "id": "Telah bercerita kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Ibnu Syihab] dari ['Ubaidullah bin 'Abdullah] dari [Ibnu 'Abbas radliallahu 'anhuma] bahwa Sa'ad bin 'Ubadah radliallahu 'anhu meminta fatwa kepada Rasulullah shallallahu 'alaihi wasallam, katanya: \"Sesunguhnya ibuku meninggal dunia sedangkan dia punya nadzar (yang belum ditunaikan) \". Maka Beliau bersabda: \"Tunaikanlah nadzarnya",
+          "tr": "İbn Abbas r.a.'dan nakledilmiştir: Sad İbn Ubade Allah Resulü'ne danışarak \"Annem adak borcu varken öldü\" dedi. Nebi Sallallahu Aleyhi ve Sellem: \"Onun adına öde\" buyurdu. Tekrar 6698, 6959 Bu hadisten şu sonuçlar çıkarılabilir: 1- Ölen adına sadaka vermek caizdir. 2- Sadakanın sevabı ona ulaşır ve bunun faydasını görür. Özellikle ölenin çocuğu tarafından yapıldığında böyledir. Bu, \"Kişiye kendi yaptığından başkasının yararı yoktur\" [Necm 39] ayetinin kapsamını sınırlandırır/tahsis eder. Fıkıh bilginlerinin geneline göre onun adına köle azat etmek de sadaka gibidir. Malikı mezhebindeki meşhur görüş ise böyle değildir. Hac ve oruç gibi, sadaka dışındaki ibadetlerde ise görüş ayrılığı vardır. Bu görüş ayrılıklarından bir kısmı \"Oruç\" bölümünde geçmiştir. 3- Bu hadis, vasiyet etmemenin caiz olduğunu da gösterir. Çünkü Nebi Sallallahu Aleyhi ve Sellem vasiyet etmediği için Sa'd'ın annesini kınamamıştır. Bu görüşü İbnü'l-Münzir savunur. Ancak bu sözü \"Hz. Nebi'in Sallallahu Aleyhi ve Sellem onun bu yaptığını kınaması, ölümünden dolayı imkansız olmuş ve yükümlülüğü kalkmıştır\" denerek eleştirilmiştir. Bu eleştiriye şu cevap verilebilir: Hz. Nebi (s.a.v.) başkalarının ders alması için bunu yadırgadığını ifade edebilirdi. Onaylaması bunun caiz olduğunu gösterir. 4- Yine bu hadis, sahabenin dinı konularda Hz. Nebi'e danıştıklarını gösterir. 5- Kişinin kanaatine/zann-ı galibine göre hareket etmesinin caiz olduğunu gösterir. 6- Kişinin annesi hayattayken cihada katılmasının meşru olduğunu gösterir. Ancak bu, annesinden izin almış olduğu şeklinde yorumlanır. 7 - Birisi adına bir şey yapmayı/üstlenmeyi istemenin caiz olduğu anlaşılır. 8- Anne babaya iyilik etmek için gayret etmek gerekir. 9- Bazen sadakayı açıktan vermek gizli vermekten daha iyi olabilir ve bu, samimilik kesin olarak bilindiği zaman olur. 10- Hakim, mahkeme salonu dışında şahitliği yüklenebilir. Bu sonuçların çoğunu Ebu Muhammed İbn Ebu Cemre çıkarmıştır ve bunların bir kısmı tartışmaya açıktır. باب: الإشهاد في الوقف والصدقة . 20. VAKIF VE SADAKADA ŞAHİT TUTMAK"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 55,
+        "hadith": 24
+      },
+      "narrator": {
+        "en": "Ibn `Abbas"
+      }
+    },
+    {
+      "hadithNumber": 2762,
+      "arabicNumber": 2762,
+      "book": 55,
+      "hadithInBook": 25,
+      "text": {
+        "arabic": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ مُوسَى، أَخْبَرَنَا هِشَامُ بْنُ يُوسُفَ، أَنَّ ابْنَ جُرَيْجٍ، أَخْبَرَهُمْ قَالَ أَخْبَرَنِي يَعْلَى، أَنَّهُ سَمِعَ عِكْرِمَةَ، مَوْلَى ابْنِ عَبَّاسٍ يَقُولُ أَنْبَأَنَا ابْنُ عَبَّاسٍ، أَنَّ سَعْدَ بْنَ عُبَادَةَ ـ رضى الله عنهم ـ أَخَا بَنِي سَاعِدَةَ تُوُفِّيَتْ أُمُّهُ وَهْوَ غَائِبٌ، فَأَتَى النَّبِيَّ صلى الله عليه وسلم فَقَالَ يَا رَسُولَ اللَّهِ إِنَّ أُمِّي تُوُفِّيَتْ وَأَنَا غَائِبٌ عَنْهَا، فَهَلْ يَنْفَعُهَا شَىْءٌ إِنْ تَصَدَّقْتُ بِهِ عَنْهَا قَالَ ‏ \"‏ نَعَمْ ‏\"‏‏.‏ قَالَ فَإِنِّي أُشْهِدُكَ أَنَّ حَائِطِي الْمِخْرَافَ صَدَقَةٌ عَلَيْهَا‏.‏",
+        "translations": {
+          "en": "Narrated Ibn `Abbas:That the mother of Sa`d bin Ubada the brother of Bani Saida died in Sa`d's absence, so he came to the Prophet saying, \"O Allah's Messenger (ﷺ)! My mother died in my absence, will it benefit her if I give in charity on her behalf?\" The Prophet (ﷺ) said, \"Yes.\" Sa`d said, \"I take you as my witness that I give my garden Al-Makhraf in charity on her behalf",
+          "ur": "ہم سے ابراہیم بن موسیٰ نے بیان کیا ‘ کہا کہ ہم کو ہشام بن یوسف نے خبر دی ‘ انہیں ابن جریج نے خبر دی کہا کہ مجھے یعلیٰ بن مسلم نے خبر دی ‘ انہوں نے ابن عباس رضی اللہ عنہما کے غلام عکرمہ سے سنا اور انہیں ابن عباس رضی اللہ عنہما نے خبر دی کہ قبیلہ بنی ساعدہ کے بھائی سعد بن عبادہ رضی اللہ عنہ کی ماں کا انتقال ہوا تو وہ ان کی خدمت میں حاضر نہیں تھے ( بلکہ رسول اللہ صلی اللہ علیہ وسلم کے ساتھ غزوہ دومۃ الجندل میں شریک تھے ) اس لیے وہ آپ صلی اللہ علیہ وسلم کے پاس آئے اور عرض کیا یا رسول اللہ! میری والدہ کا انتقال ہو گیا ہے اور میں اس وقت موجود نہیں تھا تو اگر میں ان کی طرف سے خیرات کروں تو انہیں اس کا فائدہ پہنچے گا؟ آپ صلی اللہ علیہ وسلم نے فرمایا کہ ہاں! سعد رضی اللہ عنہ نے اس پر کہا کہ میں آپ کو گواہ بناتا ہوں کہ میرا باغ مخراف نامی ان کی طرف سے خیرات ہے۔",
+          "fr": "Rapporté par Ibn ‘Abbas : La mère de Sa‘d bin Ubada, le frère de Bani Saida, est morte en l’absence de Sa‘d. Il est donc allé voir le Prophète et a dit : « Ô Messager d’Allah (ﷺ) ! Ma mère est morte en mon absence, cela lui sera-t-il utile si je donne en aumône pour elle ? » Le Prophète (ﷺ) répondit : « Oui. » Sa‘d dit : « Je te prends à témoin que je donne mon jardin Al-Makhraf en aumône pour elle. »",
+          "id": "Telah bercerita kepada kami [Ibrahim bin Musa] telah mengabarkan kepada kami [Hisyam bin Yusuf] bahwa [Ibnu Juraij] mengabarkan kepada mereka, dia berkata telah bercerita kepadaku [Ya'laa] bahwa dia mendengar ['Ikrimah. Maula Ibnu 'Abbas] berkata telah memberitakan kepada kami [Ibnu 'Abbas] bahwa Sa'ad bin 'Ubadah radliallahu 'anhum, saudara dari Bani Sa'idah, bahwa ibunya telah meninggal dunia lalu dia datang menemui Nabi shallallahu 'alaihi wasallam seraya berkata: \"Wahai Rasulullah, sesungguhnya ibuku meninggal dunia sedang saat itu aku tidak ada di sisinya. Apakah akan bermanfaat baginya bila aku menshadaqahkan sesuatu untuknya?\" Beliau bersabda: \"Ya\". Dia berkata: \"Aku bersaksi kepada Tuan bahwa kebunku yang penuh dengan bebuahannya ini aku shadaqahkan atas (nama) nya",
+          "tr": "İbn Abbas r.a.'dan nakledilmiştir: Saide oğullarının kardeşi Sad İbn Ubade'nin annesi, kendisi yanında değilken vefat etmişti. Nebi (Sallallahu aleyhi ve Sellem)'e gelerek \"Ey Allah'ın Resulü! Annem ben yanında değilken vefat etmiş. Onun adına sadaka versem ona yararı olur mu?\" dedi. Nebi Sallallahu Aleyhi ve Sellem \"Evet\" buyurdu. Bunun üzerine Sa'd \"O halde ben seni şahit tutuyorum ki meyveli bahçem onun adına sadakadır dedi"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 55,
+        "hadith": 25
+      },
+      "narrator": {
+        "en": "Ibn `Abbas"
+      }
+    },
+    {
+      "hadithNumber": 2763,
+      "arabicNumber": 2763,
+      "book": 55,
+      "hadithInBook": 26,
+      "text": {
+        "arabic": "حَدَّثَنَا أَبُو الْيَمَانِ، أَخْبَرَنَا شُعَيْبٌ، عَنِ الزُّهْرِيِّ، قَالَ كَانَ عُرْوَةُ بْنُ الزُّبَيْرِ يُحَدِّثُ أَنَّهُ سَأَلَ عَائِشَةَ ـ رضى الله عنها – ‏{‏وَإِنْ خِفْتُمْ أَنْ لاَ تُقْسِطُوا فِي الْيَتَامَى فَانْكِحُوا مَا طَابَ لَكُمْ مِنَ النِّسَاءِ‏}‏ قَالَتْ هِيَ الْيَتِيمَةُ فِي حَجْرِ وَلِيِّهَا، فَيَرْغَبُ فِي جَمَالِهَا وَمَالِهَا، وَيُرِيدُ أَنْ يَتَزَوَّجَهَا بِأَدْنَى مِنْ سُنَّةِ نِسَائِهَا، فَنُهُوا عَنْ نِكَاحِهِنَّ، إِلاَّ أَنْ يُقْسِطُوا لَهُنَّ فِي إِكْمَالِ الصَّدَاقِ، وَأُمِرُوا بِنِكَاحِ مَنْ سِوَاهُنَّ مِنَ النِّسَاءِ قَالَتْ عَائِشَةُ ثُمَّ اسْتَفْتَى النَّاسُ رَسُولَ اللَّهِ صلى الله عليه وسلم بَعْدُ فَأَنْزَلَ اللَّهُ عَزَّ وَجَلَّ ‏{‏وَيَسْتَفْتُونَكَ فِي النِّسَاءِ قُلِ اللَّهُ يُفْتِيكُمْ فِيهِنَّ‏}‏ قَالَتْ فَبَيَّنَ اللَّهُ فِي هَذِهِ أَنَّ الْيَتِيمَةَ إِذَا كَانَتْ ذَاتَ جَمَالٍ وَمَالٍ رَغِبُوا فِي نِكَاحِهَا، وَلَمْ يُلْحِقُوهَا بِسُنَّتِهَا بِإِكْمَالِ الصَّدَاقِ، فَإِذَا كَانَتْ مَرْغُوبَةً عَنْهَا فِي قِلَّةِ الْمَالِ وَالْجَمَالِ تَرَكُوهَا وَالْتَمَسُوا غَيْرَهَا مِنَ النِّسَاءِ، قَالَ فَكَمَا يَتْرُكُونَهَا حِينَ يَرْغَبُونَ عَنْهَا فَلَيْسَ لَهُمْ أَنْ يَنْكِحُوهَا إِذَا رَغِبُوا فِيهَا إِلاَّ أَنْ يُقْسِطُوا لَهَا الأَوْفَى مِنَ الصَّدَاقِ وَيُعْطُوهَا حَقَّهَا‏.‏",
+        "translations": {
+          "en": "Narrated Az-Zuhri:`Urwa bin Az-Zubair said that he asked `Aisha about the meaning of the Qur'anic Verse:-- \"And if you fear that you will not deal fairly with the orphan girls then marry (other) women of your choice.\" (4.2-3) Aisha said, \"It is about a female orphan under the guardianship of her guardian who is inclined towards her because of her beauty and wealth, and likes to marry her with a Mahr less than what is given to women of her standard. So they (i.e. guardians) were forbidden to marry the orphans unless they paid them a full appropriate Mahr (otherwise) they were ordered to marry other women instead of them. Later on the people asked Allah's Messenger (ﷺ) about it. So Allah revealed the following Verse:-- \"They ask your instruction (O Muhammad!) regarding women. Say: Allah instructs you regarding them...\" (4.127) and in this Verse Allah indicated that if the orphan girl was beautiful and wealthy, her guardian would have the desire to marry her without giving her an appropriate Mahr equal to what her peers could get, but if she was undesirable for lack of beauty or wealth, then he would not marry her, but seek to marry some other woman instead of her. So, since he did not marry her when he had no inclination towards her, he had not the right to marry her when he had an interest in her, unless he treated her justly by giving her a full Mahr and securing all her rights",
+          "ur": "ہم سے ابوالیمان نے بیان کیا ‘ کہا ہم کو شعیب نے خبر دی زہری سے کہ عروہ بن زبیر رضی اللہ عنہ ان سے حدیث بیان کرتے تھے انہوں نے عائشہ رضی اللہ عنہا سے آیت «وإن خفتم أن لا تقسطوا في اليتامى فانكحوا ما طاب لكم من النساء‏» ”اور اگر تم ڈرو کہ یتیموں کے حق میں انصاف نہیں کرو گے تو ( اور ) عورتوں میں سے جو تمہیں پسند ہوں ان سے نکاح کرلو۔“ کا مطلب پوچھا تو عائشہ رضی اللہ عنہا نے فرمایا کہ اس سے مراد وہ یتیم لڑکی ہے جو اپنے ولی کی زیر پرورش ہو ‘ پھر ولی کے دل میں اس کا حسن اور اس کے مال کی طرف سے رغبت نکاح پیدا ہو جائے مگر اس کم مہر پر جو ویسی لڑکیوں کا ہونا چاہئے تو اس طرح نکاح کرنے سے روکا گیا لیکن یہ کہ ولی ان کے ساتھ پورے مہر کی ادائیگی میں انصاف سے کام لیں ( تو نکاح کر سکتے ہیں ) اور انہیں لڑکیوں کے سوا دوسری عورتوں سے نکاح کرنے کا حکم دیا گیا۔ عائشہ رضی اللہ عنہا نے بیان کیا کہ پھر لوگوں نے رسول اللہ صلی اللہ علیہ وسلم سے پوچھا تو اللہ عزوجل نے یہ آیت نازل فرمائی «ويستفتونك في النساء قل الله يفتيكم فيهن‏» ”آپ سے لوگ عورتوں کے متعلق پوچھتے ہیں آپ کہہ دیں کہ اللہ تمہیں ان کے بارے میں ہدایت کرتا ہے۔“ عائشہ رضی اللہ عنہا نے کہا کہ پھر اللہ تعالیٰ نے اس آیت میں بیان کر دیا کہ یتیم لڑکی اگر جمال اور مال والی ہو اور ( ان کے ولی ) ان سے نکاح کرنے کے خواہشمند ہوں لیکن پورا مہر دینے میں ان کے ( خاندان کے ) طریقوں کی پابندی نہ کر سکیں تو ( وہ ان سے نکاح مت کریں ) جبکہ مال اور حسن کی کمی کی وجہ سے ان کی طرف انہیں کوئی رغبت نہ ہوتی ہو تو انہیں وہ چھوڑ دیتے اور ان کے سوا کسی دوسری عورت کو تلاش کرتے۔ راوی نے کہا جس طرح ایسے لوگ رغبت نہ ہونے کی صورت میں ان یتیم لڑکیوں کو چھوڑ دیتے ‘ اسی طرح ان کے لیے یہ بھی جائز نہیں کہ جب ان لڑکیوں کی طرف انہیں رغبت ہو تو ان کے پورے مہر کے معاملے میں اور ان کے حقوق ادا کرنے میں انصاف سے کام لیے بغیر ان سے نکاح کریں۔",
+          "fr": "Rapporté par Az-Zuhri : ‘Urwa bin Az-Zubair a dit qu’il a demandé à ‘Aisha la signification du verset coranique : « Et si vous craignez de ne pas être équitables envers les orphelines, alors épousez d’autres femmes de votre choix. » (4.2-3) ‘Aisha a dit : « Il s’agit d’une orpheline sous la tutelle de son tuteur, qui est attiré par elle à cause de sa beauté et de sa richesse, et veut l’épouser en lui donnant une dot inférieure à celle des femmes de son rang. Ils (les tuteurs) ont donc été interdits d’épouser les orphelines à moins de leur donner une dot complète et appropriée. Sinon, ils devaient épouser d’autres femmes. Plus tard, les gens ont interrogé le Messager d’Allah (ﷺ) à ce sujet. Alors Allah a révélé ce verset : « Ils te demandent une instruction (Ô Muhammad !) au sujet des femmes. Dis : Allah vous instruit à leur sujet… » (4.127) et dans ce verset, Allah a indiqué que si l’orpheline était belle et riche, son tuteur voudrait l’épouser sans lui donner une dot appropriée, mais si elle n’était pas désirable par manque de beauté ou de richesse, il ne l’épouserait pas et chercherait à épouser une autre femme. Donc, puisqu’il ne l’épousait pas quand elle ne lui plaisait pas, il n’avait pas le droit de l’épouser quand il était intéressé, à moins de la traiter avec justice en lui donnant une dot complète et en respectant tous ses droits. »",
+          "id": "Telah bercerita kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhriy] berkata ['Urwah bin Az Zubair] bercerita bahwa dia pernah bertanya kepada ['Aisyah radliallahu 'anha] tentaang firman Allah QS an-Nisaa' ayat 3 yang artinya: (Dan jika kamu takut tidak akan dapat berlaku adil terhadap (hak-hak) perempuan yang yatim (bilamana kamu mengawininya), maka kawinilah wanita-wanita (lain) yang kamu senangi …). 'Aisyah menjawab: \"Yang dimaksud ayat itu adalah seorang anak perempuan yatim yang berada pada asuhan walinya, lalu walinya itu tertarik dengan kecantikan dan hartanya dan berhasrat untuk mengawininya namun memberikan haknya lebih rendah dari yang biasa diberikan kepada istri-istrinya sebelumnya maka mereka dilarang menikahinya kecuali bila mereka dapat berlaku adil kepada mereka, dan mereka diperintahkan untuk menikahi wanita-wanita lain selain mereka\". 'Aisyah berkata: \"Kemudian orang-orang meminta fatwa kepada Rasulullah shallallahu 'alaihi wasallam setelah itu, maka Allah 'azza wajalla menurunkan firman-Nya QS an-Nisaa' ayat 126 yang artinya (dan mereka meminta fatwa kepadamu tentang para wanita. Katakanlah; Allah akan memberikan fatwa kepada kalian tentang mereka..) 'Aisyah berkata: \"Maka Allah menjelaskan dalam ayat ini bahwa seorang anak yatim perempuan jika memiliki kecantikan dan harta lalu walinya berhasrat menikahinya namun tidak memberikan haknya dengan melengkapi mahar sebagaimana semestinya. Namun bila anak yatim perempuan itu tidak memiliki harta dan kecantikan mereka meninggalkannya dan mencari wanita selain mereka\". Beliau bersabda: \"Sebagaimana mereka tidak menyukainya disebabkan sedikit hartanya dan tidak cantik lalu meninggalkannya maka mereka juga tidak boleh menikahinya saat tertarik kecuali bila mereka dapat berlaku adil kepadanya dengan menunaikan maharnya secara wajar serta memberikan hak-haknya",
+          "tr": "Zühri'den nakledilmiştir: Urve İbn Zübeyr şöyle anlatırdı: Aişe'ye \"Yetimler hakkında adil olamamaktan korkarsanız beğendiğiniz kadınlarla evleniniz\" ayetini sormuştum. Aişe: \"Bu, velisinin koruması altında bulunan yetim kızdır. Velisi, güzelliğinden ve malından dolayı onunla evlenmek ister, ancak emsali olan kızların hak ettiği mehirden daha az vermek ister. Bu sebeple veliler, onlara ödeyecekleri mehir konusunda adil olamamaktan korktuklarında onlarla evlenmeleri yasaklanmış ve başka kadınlarla evlenmeleri istenmiştir\" dedi ve şöyle devam etti: \"Bu ayet indikten sonra insanlar Allah Resulü'nden (Sallallahu aleyhi ve Sellem) fetva istediler. Bunun üzerine \"Senden kadınlar konusunda fetva istiyorlar. De ki: Allah onlar hakkında size fetva veriyor ... \" [Nisa 127] ayeti indirildi. Allah bu ayette şunu açıkladı: Yetim kız, güzel ve zengin olduğunda insanlar onunla evlenmek istiyorlar, ancak emsal mehrini vermiyorlar. Malı az olup güzelolmadığında ise onu bırakıp başka kadınlar arıyorlar. Arzulamadıklarında ondan yüz çevirdikleri gibi evlenmek istediklerinde de mehrini tam ödemeden ve hakkını vermeden onunla evlenmeleri caiz değildir.\" •. Not: Bu hadis \"Tefsir\" bölümünde ayrıntılı olarak açıklanacaktır:"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 55,
+        "hadith": 26
+      },
+      "narrator": {
+        "en": "Az-Zuhri"
+      }
+    },
+    {
+      "hadithNumber": 2764,
+      "arabicNumber": 2764,
+      "book": 55,
+      "hadithInBook": 27,
+      "text": {
+        "arabic": "حَدَّثَنَا هَارُونُ، حَدَّثَنَا أَبُو سَعِيدٍ، مَوْلَى بَنِي هَاشِمٍ حَدَّثَنَا صَخْرُ بْنُ جُوَيْرِيَةَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ أَنَّ عُمَرَ، تَصَدَّقَ بِمَالٍ لَهُ عَلَى عَهْدِ رَسُولِ اللَّهِ صلى الله عليه وسلم وَكَانَ يُقَالُ لَهُ ثَمْغٌ، وَكَانَ نَخْلاً، فَقَالَ عُمَرُ يَا رَسُولَ اللَّهِ إِنِّي اسْتَفَدْتُ مَالاً وَهُوَ عِنْدِي نَفِيسٌ فَأَرَدْتُ أَنْ أَتَصَدَّقَ بِهِ‏.‏ فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏ \"‏ تَصَدَّقْ بِأَصْلِهِ، لاَ يُبَاعُ وَلاَ يُوهَبُ وَلاَ يُورَثُ، وَلَكِنْ يُنْفَقُ ثَمَرُهُ ‏\"‏‏.‏ فَتَصَدَّقَ بِهِ عُمَرُ، فَصَدَقَتُهُ ذَلِكَ فِي سَبِيلِ اللَّهِ وَفِي الرِّقَابِ وَالْمَسَاكِينِ وَالضَّيْفِ وَابْنِ السَّبِيلِ وَلِذِي الْقُرْبَى، وَلاَ جُنَاحَ عَلَى مَنْ وَلِيَهُ أَنْ يَأْكُلَ مِنْهُ بِالْمَعْرُوفِ، أَوْ يُوكِلَ صَدِيقَهُ غَيْرَ مُتَمَوِّلٍ بِهِ‏.‏",
+        "translations": {
+          "en": "Narrated Ibn `Umar:In the lifetime of Allah's Messenger (ﷺ) , `Umar gave in charity some of his property, a garden of date-palms called Thamgh. `Umar said, \"O Allah's Messenger (ﷺ)! I have some property which I prize highly and I want to give it in charity.\" The Prophet; said, \"Give it in charity (i.e. as an endowment) with its land and trees on the condition that the land and trees will neither be sold nor given as a present, nor bequeathed, but the fruits are to be spent in charity.\" So `Umar gave it in charity, and it was for Allah's Cause, the emancipation of slaves, for the poor, for guests, for travelers, and for kinsmen. The person acting as its administrator could eat from it reasonably and fairly, and could let a friend of his eat from it provided he had no intention of becoming wealthy by its means",
+          "ur": "ہم سے ہارون بن اشعث نے بیان کیا ‘ کہا کہ ہم سے بنو ہاشم کے غلام ابوسعید نے بیان کیا ‘ ان سے صخر بن جویریہ نے بیان کیا نافع سے اور ان سے ابن عمر رضی اللہ عنہما نے کہ عمر رضی اللہ عنہ نے اپنی ایک جائیداد رسول اللہ صلی اللہ علیہ وسلم کے زمانہ میں وقف کر دی ‘ اس جائیداد کا نام ثمغ تھا اور یہ ایک کھجور کا ایک باغ تھا۔ عمر رضی اللہ عنہ نے عرض کیا یا رسول اللہ! مجھے ایک جائیداد ملی ہے اور میرے خیال میں نہایت عمدہ ہے ‘ اس لیے میں نے چاہا کہ اسے صدقہ کر دوں تو نبی کریم صلی اللہ علیہ وسلم نے فرمایا کہ اصل مال کو صدقہ کر کہ نہ بیچا جا سکے نہ ہبہ کیا جا سکے اور نہ اس کا کوئی وارث بن سکے ‘ صرف اس کا پھل ( اللہ کی راہ میں ) صرف ہو۔ چنانچہ عمر رضی اللہ عنہ نے اسے صدقہ کر دیا ‘ ان کا یہ صدقہ غازیوں کے لیے ‘ غلام آزاد کرانے کے لیے، محتاجوں اور کمزوروں کے لیے ‘ مسافروں کے لیے اور رشتہ داروں کے لیے تھا اور یہ کہ اس کے نگراں کے لیے اس میں کوئی مضائقہ نہیں ہو گا کہ وہ دستور کے موافق اس میں سے کھائے یا اپنے کسی دوست کو کھلائے بشرطیکہ اس میں سے مال جمع کرنے کا ارادہ نہ رکھتا ہو۔",
+          "fr": "Rapporté par Ibn ‘Umar : Du vivant du Messager d’Allah (ﷺ), ‘Umar a donné en aumône une partie de ses biens, un jardin de palmiers appelé Thamgh. ‘Umar dit : « Ô Messager d’Allah (ﷺ) ! J’ai des biens auxquels je tiens beaucoup et je veux les donner en aumône. » Le Prophète dit : « Donne-les en aumône (c’est-à-dire comme fondation pieuse) avec son terrain et ses arbres, à condition que le terrain et les arbres ne soient ni vendus, ni donnés en cadeau, ni légués, mais que les fruits soient distribués en aumône. » Ainsi, ‘Umar l’a donné en aumône, et cela servait à la cause d’Allah, à l’affranchissement des esclaves, aux pauvres, aux invités, aux voyageurs et aux proches. La personne chargée de l’administrer pouvait en manger raisonnablement et équitablement, et pouvait en faire profiter un ami, à condition de ne pas chercher à s’enrichir grâce à cela",
+          "id": "Telah bercerita kepada kami [Harun bin Al Asy'ats] telah bercerita kepada kami [Abu Sa'id, maula Bani Hasyim] telah bercerita kepada kami [Shokhr bin Juwairiyah] dari [Nafi'] dari [Ibnu 'Umar radliallahu 'anhuma] bahwa 'Umar radliallahu 'anhu menshadaqahkan hartanya pada masa Rasululloh shallallahu 'alaihi wasallam dimana hartanya itu dinamakan Tsamagh yakni kebun kurma. 'Umar berkata: \"Wahai Rasulullah, aku mendapatkan bagian harta dan harta itu menjadi yang paling berharga bagiku dan aku ingin menshadaqahkannya\". Maka Nabi shallallahu 'alaihi wasallam berkata: \"Shadaqahkanlah dengan pepohonannya dan jangan kamu jual juga jangan dihibahkan dan jangan pula diwariskan akan tetapi ambillah buah-buahannya sehingga dengan begitu kamu dapat bershadaqah dengannya\". Maka 'Umar menshadaqahkannya dimana tidak dijualnya, tidak dihibahkan dan juga tidak diwariskan namun dia menshadaqahkan hartanya itu untuk fii sabilillah (di jalan Allah), untuk membebaskan budak, orang-orang miskin, untuk menjamu tamu, ibnu sabil dan kerabat.. Dan tidak dosa bagi orang yang mengurusnya untuk memakan darinya dengan cara yang ma'ruf (benar) dan untuk memberi makan teman-temannya asal bukan untuk maksud menimbunnya",
+          "tr": "İbn Ömer r.a.'den nakledilmiştir: Ömer r.a. bir malını Allah Resulü Sallallahu Aleyhi ve Sellem döneminde sadaka etmişti. Burası Semğ adında bir hurmalıktı. Ömer: \"Ey Allah'ın Resulü! Ben çok değer verdiğim bir mal elde ettim ve onu sadaka etmek istiyorum\" dedi. Nebi (Sallallahu aleyhi ve Sellem): \"Aslını (çıplak mülkiyetini) sadaka et. Satılmasın, bağışlanmasın, miras bırakılmasın. Yalnızca meyvesi (geliri) infak edilsin\" buyurdu. Bunun üzerine Ömer radıyallil.hu anh orayı tasadduk etti. Onun sadakası şöyleydi: \"Burası, Allah yolunda, özgürlüğünü kazanmak isteyenlere, fakirlere, konuklara, yolda kalmışlara ve yakınlaradır. Burasını işletenlerin (mütevellinin) ondan adet ölçüsünde yemesinde ve kendine mal etmeksizin arkadaşına yedirmesinde sakınca yoktur"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 55,
+        "hadith": 27
+      },
+      "narrator": {
+        "en": "Ibn `Umar"
+      }
+    },
+    {
+      "hadithNumber": 2765,
+      "arabicNumber": 2765,
+      "book": 55,
+      "hadithInBook": 28,
+      "text": {
+        "arabic": "حَدَّثَنَا عُبَيْدُ بْنُ إِسْمَاعِيلَ، حَدَّثَنَا أَبُو أُسَامَةَ، عَنْ هِشَامٍ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ ـ رضى الله عنها – ‏{‏وَمَنْ كَانَ غَنِيًّا فَلْيَسْتَعْفِفْ وَمَنْ كَانَ فَقِيرًا فَلْيَأْكُلْ بِالْمَعْرُوفِ‏}‏‏.‏ قَالَتْ أُنْزِلَتْ فِي وَالِي الْيَتِيمِ أَنْ يُصِيبَ مِنْ مَالِهِ إِذَا كَانَ مُحْتَاجًا بِقَدْرِ مَالِهِ بِالْمَعْرُوفِ‏.‏",
+        "translations": {
+          "en": "Narrated `Aisha:The following Verse:-- \"If a guardian is well-off, let him claim no remuneration (i.e. wages), but if he is poor, let him have for himself what is just and reasonable.\" (4.6) was revealed in connection with the guardian of an orphan, and it means that if he is poor he can have for himself (from the orphan's wealth) what is just and reasonable according to the orphan's share of the inheritance",
+          "ur": "ہم سے عبید بن اسماعیل نے بیان کیا ‘ کہا ہم سے ابواسامہ نے بیان کیا ہشام سے ‘ ان سے ان کے والد نے اور ان سے عائشہ رضی اللہ عنہا نے ( قرآن مجید کی اس آیت ) «ومن كان غنيا فليستعفف ومن كان فقيرا فليأكل بالمعرو» ”اور جو شخص مالدار ہو وہ اپنے کو یتیم کے مال سے بالکل روکے رکھے ‘ البتہ جو شخص نادار ہو تو وہ دستور کے مطابق کھا سکتا ہے“ کے بارے میں فرمایا کہ یتیموں کے ولیوں کے بارے میں نازل ہوئی کہ یتیم کے مال میں سے اگر ولی نادار ہو تو دستور کے مطابق اس کے مال میں سے لے سکتا ہے۔",
+          "fr": "Rapporté par ‘Aisha : Le verset suivant : « Si le tuteur est aisé, qu’il ne prenne pas de salaire (c’est-à-dire de rémunération), mais s’il est pauvre, qu’il prenne pour lui ce qui est juste et raisonnable. » (4.6) a été révélé à propos du tuteur d’un orphelin, et cela signifie que s’il est pauvre, il peut prendre pour lui (dans les biens de l’orphelin) ce qui est juste et raisonnable selon la part de l’orphelin dans l’héritage",
+          "id": "Telah bercerita kepada kami ['Ubaidullah bin Isma'il] telah bercerita kepada kami [Abu Usamah] dari [Hisyam] dari [bapaknya] dari ['Aisyah radliallahu 'anha] tentang firman Allah Subhanahu wa Ta'ala dalam QS an-Nisaa' ayat; 6, yang artinya (\"Dan barang siapa (di antara pemelihara itu) mampu, maka hendaklah ia menahan diri (dari memakan harta anak yatim itu) dan barang siapa yang miskin, maka bolehlah ia makan harta itu menurut yang patut\"), dia berkata: \"Ayat ini turun berkenaan dengan seorang yang memelihara anak yatim lalu ingin mengambil harta anak yatim tersebut apabila membutuhkannya sesuai dengan jumlah hartanya secara ma'ruf (yang patut)",
+          "tr": "Aişe r.anha'nın \"Zengin olan iffetli olsun (istemekten çekinsin); fakir olan örf ölçüsünde yesin\" ayeti hakkında \"Bu ayet yetimin malından sorumlu olan kişi hakkında indirilmiştir. İhtiyaç içindeyse örf ölçüsünde onun malından yiyebilir\" dediği nakledilmiştir. Diğer tahric: Tirmizi Ahkam; Müslim, Vasıyyet"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 55,
+        "hadith": 28
+      },
+      "narrator": {
+        "en": "`Aisha"
+      }
+    },
+    {
+      "hadithNumber": 2766,
+      "arabicNumber": 2766,
+      "book": 55,
+      "hadithInBook": 29,
+      "text": {
+        "arabic": "حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ عَبْدِ اللَّهِ، قَالَ حَدَّثَنِي سُلَيْمَانُ بْنُ بِلاَلٍ، عَنْ ثَوْرِ بْنِ زَيْدٍ الْمَدَنِيِّ، عَنْ أَبِي الْغَيْثِ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\"‏ اجْتَنِبُوا السَّبْعَ الْمُوبِقَاتِ ‏\"‏‏.‏ قَالُوا يَا رَسُولَ اللَّهِ، وَمَا هُنَّ قَالَ ‏\"‏ الشِّرْكُ بِاللَّهِ، وَالسِّحْرُ، وَقَتْلُ النَّفْسِ الَّتِي حَرَّمَ اللَّهُ إِلاَّ بِالْحَقِّ، وَأَكْلُ الرِّبَا، وَأَكْلُ مَالِ الْيَتِيمِ، وَالتَّوَلِّي يَوْمَ الزَّحْفِ، وَقَذْفُ الْمُحْصَنَاتِ الْمُؤْمِنَاتِ الْغَافِلاَتِ ‏\"‏‏.‏",
+        "translations": {
+          "en": "Narrated Abu Huraira:The Prophet (ﷺ) said, \"Avoid the seven great destructive sins.\" The people enquired, \"O Allah's Messenger (ﷺ)! What are they?\" He said, \"To join others in worship along with Allah, to practice sorcery, to kill the life which Allah has forbidden except for a just cause, (according to Islamic law), to eat up Riba (usury), to eat up an orphan's wealth, to give back to the enemy and fleeing from the battlefield at the time of fighting, and to accuse, chaste women, who never even think of anything touching chastity and are good believers",
+          "ur": "ہم سے عبدالعزیز بن عبداللہ نے بیان کیا ‘ انہوں نے کہا کہ مجھ سے سلیمان بن بلال نے بیان کیا ‘ ان سے ثور بن زید مدنی نے بیان کیا ‘ ان سے ابوغیث نے بیان کیا اور ان سے ابوہریرہ رضی اللہ عنہ نے بیان کیا کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا ”سات گناہوں سے جو تباہ کر دینے والے ہیں بچتے رہو۔“ صحابہ رضی اللہ عنہم نے پوچھا یا رسول اللہ! وہ کون سے گناہ ہیں؟ آپ صلی اللہ علیہ وسلم نے فرمایا ”اللہ کے ساتھ کسی کو شریک ٹھہرانا ‘ جادو کرنا ‘ کسی کی ناحق جان لینا کہ جسے اللہ تعالیٰ نے حرام قرار دیا ہے ‘ سود کھانا ‘ یتیم کا مال کھانا ‘ لڑائی میں سے بھاگ جانا ‘ پاک دامن بھولی بھالی ایمان والی عورتوں پر تہمت لگانا۔“",
+          "fr": "Rapporté par Abu Huraira : Le Prophète (ﷺ) a dit : « Évitez les sept grands péchés destructeurs. » Les gens demandèrent : « Ô Messager d’Allah (ﷺ) ! Quels sont-ils ? » Il répondit : « Associer d’autres à Allah dans l’adoration, pratiquer la sorcellerie, tuer une vie qu’Allah a rendue sacrée sauf pour une raison valable, manger l’usure (riba), dévorer les biens de l’orphelin, fuir le champ de bataille au moment du combat, et accuser des femmes chastes, croyantes, qui n’ont jamais pensé à rien de mal. »",
+          "id": "Telah bercerita kepada kami ['Abdul 'Aziz bin 'Abdullah] berkata telah bercerita kepadaku [Sulaiman bin Bilal] dari [Tsaur bin Zaid Al Madaniy] dari [Abu 'Al Ghoits] dari [Abu Hurairah radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam bersabda: \"Jauhilah tujuh perkara yang membinasakan\". Para sahabat bertanya: \"Wahai Rasulullah, apakah itu? Beliau bersabda: \"Syirik kepada Allah, sihir, membunuh jiwa yang diharamkan oleh Allah kecuali dengan haq, memakan riba, makan harta anak yatim, kabur dari medan peperangan dan menuduh seorang wanita mu'min yang suci berbuat zina",
+          "tr": "Ebu Hureyre r.a.'den nakledilmiştir: Nebi Sallallahu Aleyhi ve Sellem: \"Helak'a götüren yedi şeyden sakının\" buyurdu. \"Ey Allah'ın Resulü! Nedir onlar\" dediler. Nebi Sallallahu Aleyhi ve Sellem: \"Allah'a ortak koşmak, büyü yapmak, Allah'ın saygın kıldığı canı haksız yere öldürmek, faiz yemek, yetim malı yemek, savaştan kaçmak, iman etmiş zina'dan habersiz kadınlara zina iftirası atmak\" buyurdu"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 55,
+        "hadith": 29
+      },
+      "narrator": {
+        "en": "Abu Huraira"
+      }
+    },
+    {
+      "hadithNumber": 2767,
+      "arabicNumber": 2767,
+      "book": 55,
+      "hadithInBook": 30,
+      "text": {
+        "arabic": "وَقَالَ لَنَا سُلَيْمَانُ حَدَّثَنَا حَمَّادٌ، عَنْ أَيُّوبَ، عَنْ نَافِعٍ، قَالَ مَا رَدَّ ابْنُ عُمَرَ عَلَى أَحَدٍ وَصِيَّةً‏.‏ وَكَانَ ابْنُ سِيرِينَ أَحَبَّ الأَشْيَاءِ إِلَيْهِ فِي مَالِ الْيَتِيمِ أَنْ يَجْتَمِعَ إِلَيْهِ نُصَحَاؤُهُ وَأَوْلِيَاؤُهُ فَيَنْظُرُوا الَّذِي هُوَ خَيْرٌ لَهُ‏.‏ وَكَانَ طَاوُسٌ إِذَا سُئِلَ عَنْ شَىْءٍ مِنْ أَمْرِ الْيَتَامَى قَرَأَ ‏{‏وَاللَّهُ يَعْلَمُ الْمُفْسِدَ مِنَ الْمُصْلِحِ‏}‏‏.‏ وَقَالَ عَطَاءٌ فِي يَتَامَى الصَّغِيرُ وَالْكَبِيرُ يُنْفِقُ الْوَلِيُّ عَلَى كُلِّ إِنْسَانٍ بِقَدْرِهِ مِنْ حِصَّتِهِ‏.‏",
+        "translations": {
+          "en": "Nafi' said:\"Ibn 'Umar never refused to be appointed as guardian.\" The most beloved thing to Ibn Sirin concerning an orphan's wealth was that the orphan's advisor and guardians would assemble to decide what is best for him. When Tawus was asked about something concerning an orphan's affairs, he would recite: '...And Allah knows him who means mischief from him who means good...' (V 2:220). 'Ata said concerning some orphans, \"The guardian is to provide for the young and the old orphans according to their needs from their shares",
+          "ur": "اور امام بخاری رحمہ اللہ نے کہا کہ ہم سے سلیمان بن حرب نے بیان کیا ‘ ان سے حماد بن اسامہ نے بیان کیا ‘ ان سے ایوب نے ‘ ان سے نافع نے بیان کیا کہ ابن عمر رضی اللہ عنہما کو کوئی وصی بناتا تو وہ کبھی انکار نہ کرتے۔ ابن سیرین تابعی رحمہ اللہ کا محبوب مشغلہ یہ تھا کہ یتیم کے مال و جائیداد کے سلسلے میں ان کے خیر خواہوں اور ولیوں کو جمع کرتے تاکہ ان کے لیے کوئی اچھی صورت پیدا کرنے کے لیے غور کریں۔ طاؤس تابعی رحمہ اللہ سے جب یتیموں کے بارے میں کوئی سوال کیا جاتا تو آپ یہ آیت پڑھتے کہ «والله يعلم المفسد من المصلح‏» ”اور اللہ فساد پیدا کرنے والے اور سنوارنے والے کو خوب جانتا ہے۔“ عطاء رحمہ اللہ نے یتیموں کے بارے میں کہا خواہ وہ معمولی قسم کے لوگوں میں ہوں یا بڑے درجے کے ‘ اس کا ولی اس کے حصہ میں سے جیسے اس کے لائق ہو، ویسا اس پر خرچ کرے۔",
+          "fr": "Rapporté par Nafi’ : « Ibn ‘Umar n’a jamais refusé d’être nommé tuteur. » Ce que préférait Ibn Sirin concernant les biens de l’orphelin, c’était que le conseiller et les tuteurs de l’orphelin se réunissent pour décider de ce qui est le mieux pour lui. Quand on interrogeait Tawus à propos des affaires d’un orphelin, il récitait : « …Et Allah sait qui cherche à nuire et qui veut du bien… » (2:220). ‘Ata a dit à propos de certains orphelins : « Le tuteur doit subvenir aux besoins des orphelins, jeunes ou âgés, selon leurs besoins et à partir de leurs parts. »",
+          "tr": "Nafi'den nakledilmiştir: İbn Ömer kimsenin vasiyetini geri çevirmedi. İbn Sirin'in yetim'in malı konusunda en sevdiği uygulama, onun iyiliğini düşünenlerle velileri bir araya gelerek onun için daha hayırlı olan şey üzerinde düşünmeleriydi. Tavus'a yetimle ilgili bir soru sorulduğunda \"Allah iyilik amacı güden le kötülük amacı güden i pek iyi bilir\" ayetini okurdu. Ata, birinin büyük ve küçük yetimleri olduğunda \"Veli herkese payı kadar verir\" derdi"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 55,
+        "hadith": 30
+      }
+    },
+    {
+      "hadithNumber": 2768,
+      "arabicNumber": 2768,
+      "book": 55,
+      "hadithInBook": 31,
+      "text": {
+        "arabic": "حَدَّثَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ بْنِ كَثِيرٍ، حَدَّثَنَا ابْنُ عُلَيَّةَ، حَدَّثَنَا عَبْدُ الْعَزِيزِ، عَنْ أَنَسٍ ـ رضى الله عنه ـ قَالَ قَدِمَ رَسُولُ اللَّهِ صلى الله عليه وسلم الْمَدِينَةَ لَيْسَ لَهُ خَادِمٌ، فَأَخَذَ أَبُو طَلْحَةَ بِيَدِي، فَانْطَلَقَ بِي إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَ يَا رَسُولَ اللَّهِ إِنَّ أَنَسًا غُلاَمٌ كَيِّسٌ، فَلْيَخْدُمْكَ‏.‏ قَالَ فَخَدَمْتُهُ فِي السَّفَرِ وَالْحَضَرِ، مَا قَالَ لِي لِشَىْءٍ صَنَعْتُهُ لِمَ صَنَعْتَ هَذَا هَكَذَا وَلاَ لِشَىْءٍ لَمْ أَصْنَعْهُ لِمَ لَمْ تَصْنَعْ هَذَا هَكَذَا",
+        "translations": {
+          "en": "Narrated Anas:When Allah's Messenger (ﷺ) came to Medina; he did not have any servant. Abu Talha (Anas' step-father) took me to Allah's Messenger (ﷺ) and said, \"O Allah's Messenger (ﷺ)! Anas is a wise boy, so let him serve you.\" So, I served him at home and on journeys. If I did anything, he never asked me why I did it, and if I refrained from doing anything, he never asked me why I refrained from doing it",
+          "ur": "ہم سے یعقوب بن ابراہیم بن کثیر نے بیان کیا ‘ کہا ہم سے اسماعیل بن علیہ نے بیان کیا ‘ کہا ہم سے عبدالعزیز بن صہیب نے بیان کیا ‘ ان سے انس رضی اللہ عنہ نے بیان کیا کہ ہم سے یعقوب بن ابراہیم بن کثیر نے بیان کیا ‘ کہا ہم سے اسماعیل بن علیہ نے بیان کیا ‘ کہا ہم سے عبدالعزیز بن صہیب نے بیان کیا ‘ ان سے انس رضی اللہ عنہ نے بیان کیا کہ",
+          "fr": "Rapporté par Anas : Lorsque le Messager d’Allah (ﷺ) est arrivé à Médine, il n’avait aucun serviteur. Abu Talha (le beau-père d’Anas) a amené Anas au Messager d’Allah (ﷺ) et a dit : « Ô Messager d’Allah (ﷺ) ! Anas est un garçon intelligent, alors laisse-le te servir. » J’ai donc servi le Prophète chez lui et lors de ses voyages. Si je faisais quelque chose, il ne me demandait jamais pourquoi je l’avais fait, et si je ne faisais pas quelque chose, il ne me demandait jamais pourquoi je ne l’avais pas fait",
+          "id": "Telah bercerita kepada kami [Ya'qub bin Ibrahim bin Katsir] telah bercerita kepada kami [Ibnu 'Ulayyah] telah bercerita kepada kami ['Abdul 'Aziz] dari [Anas radliallahu 'anhu] berkata; Saat tiba di Madinah Rasulullah shallallahu 'alaihi wasallam tidak mempunyai pembantu lalu Abu Thalhah menggandeng tanganku untuk menemui Rasulullah shallallahu 'alaihi wasallam lalu dia berkata: \"Wahai Rasulullah, sesungguhnya Anas ini adalah seorang anak yang cerdas dan dia siap melayani Tuan\". Maka aku melayani Beliau baik saat bepergian maupun muqim (tinggal), dan Beliau tidak pernah berkata kepadaku terhadap apa yang aku lakukan,: \"Kenapa kamu berbuat begini begitu\" dan tidak pernah juga mengatakan terhadap sesuatu yang tidak aku lakukan,: \"Kenapa kamu tidak berbuat begini begitu",
+          "tr": "Enes r.a.'den nakledilmiştir: Allah Resulü Sallallahu Aleyhi ve Sellem Medine'ye geldiğinde hizmetçisi yoktu. Ebu Talha beni elimden tutup Allah Resulü Sallallahu Aleyhi ve Sellem'e götürdü. \"Ey Allah'ın Resulü! Enes akıllı bir çocuktur. Sana hizmet etsin\" dedi. Enes diyor ki: \"Ben yolculukta ve yolculuk dışında O'na Sallallahu Aleyhi ve Sellem hizmet ettim. Yaptığım hiçbir şey için bana \"Bunu niye böyle yaptın\" ve yapmadığım bir şey için \"Bunu niye böyle yapmadın\" demedi. Tekrar:"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 55,
+        "hadith": 31
+      },
+      "narrator": {
+        "en": "Anas"
+      }
+    },
+    {
+      "hadithNumber": 2769,
+      "arabicNumber": 2769,
+      "book": 55,
+      "hadithInBook": 32,
+      "text": {
+        "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، عَنْ مَالِكٍ، عَنْ إِسْحَاقَ بْنِ عَبْدِ اللَّهِ بْنِ أَبِي طَلْحَةَ، أَنَّهُ سَمِعَ أَنَسَ بْنَ مَالِكٍ ـ رضى الله عنه ـ يَقُولُ كَانَ أَبُو طَلْحَةَ أَكْثَرَ أَنْصَارِيٍّ بِالْمَدِينَةِ مَالاً مِنْ نَخْلٍ، وَكَانَ أَحَبُّ مَالِهِ إِلَيْهِ بَيْرَحَاءَ مُسْتَقْبِلَةَ الْمَسْجِدِ، وَكَانَ النَّبِيُّ صلى الله عليه وسلم يَدْخُلُهَا وَيَشْرَبُ مِنْ مَاءٍ فِيهَا طَيِّبٍ‏.‏ قَالَ أَنَسٌ فَلَمَّا نَزَلَتْ ‏{‏لَنْ تَنَالُوا الْبِرَّ حَتَّى تُنْفِقُوا مِمَّا تُحِبُّونَ‏}‏ قَامَ أَبُو طَلْحَةَ فَقَالَ يَا رَسُولَ اللَّهِ إِنَّ اللَّهَ يَقُولُ ‏{‏لَنْ تَنَالُوا الْبِرَّ حَتَّى تُنْفِقُوا مِمَّا تُحِبُّونَ‏}‏ وَإِنَّ أَحَبَّ أَمْوَالِي إِلَىَّ بِيرُحَاءَ، وَإِنَّهَا صَدَقَةٌ لِلَّهِ أَرْجُو بِرَّهَا وَذُخْرَهَا عِنْدَ اللَّهِ، فَضَعْهَا حَيْثُ أَرَاكَ اللَّهُ‏.‏ فَقَالَ ‏\"‏ بَخْ، ذَلِكَ مَالٌ رَابِحٌ ـ أَوْ رَايِحٌ ـ شَكَّ ابْنُ مَسْلَمَةَ وَقَدْ سَمِعْتُ مَا قُلْتَ، وَإِنِّي أَرَى أَنْ تَجْعَلَهَا فِي الأَقْرَبِينَ ‏\"‏‏.‏ قَالَ أَبُو طَلْحَةَ أَفْعَلُ ذَلِكَ يَا رَسُولَ اللَّهِ‏.‏ فَقَسَمَهَا أَبُو طَلْحَةَ فِي أَقَارِبِهِ وَفِي بَنِي عَمِّهِ‏.‏ وَقَالَ إِسْمَاعِيلُ وَعَبْدُ اللَّهِ بْنُ يُوسُفَ وَيَحْيَى بْنُ يَحْيَى عَنْ مَالِكٍ ‏\"‏ رَايِحٌ ‏\"‏‏.‏",
+        "translations": {
+          "en": "Narrated Anas bin Malik:Abu Talha had the greatest wealth of date-palms amongst the Ansar in Medina, and he prized above all his wealth (his garden) Bairuha', which was situated opposite the Mosque (of the Prophet (ﷺ) ). The Prophet used to enter It and drink from its fresh water. When the following Divine Verse came:-- \"By no means shall you attain piety until you spend of what you love,\" (3.92) Abu Talha got up saying. \"O Allah's Messenger (ﷺ)! Allah says, 'You will not attain piety until you spend of what you love,' and I prize above all my wealth, Bairuha' which I want to give in charity for Allah's Sake, hoping for its reward from Allah. So you can use it as Allah directs you.\" On that the Prophet (ﷺ) said, \"Bravo! It is a profitable (or perishable) property. (Ibn Maslama is not sure as to which word is right, i.e. profitable or perishable.) I have heard what you have said, and I recommend that you distribute this amongst your relatives.\" On that Abu Talha said, \"O Allah's Messenger (ﷺ)! I will do (as you have suggested).\" So, Abu Talha distributed that garden amongst his relatives and cousins",
+          "ur": "ہم سے عبداللہ بن مسلمہ نے بیان کیا ‘ کہا ہم سے امام مالک نے ‘ ان سے اسحاق بن عبداللہ بن ابی طلحہ نے ‘ انہوں نے انس بن مالک رضی اللہ عنہ سے سنا آپ بیان کرتے تھے کہ ابوطلحہ رضی اللہ عنہ کھجور کے باغات کے اعتبار سے مدینہ کے انصار میں سب سے بڑے مالدار تھے اور انہیں اپنے تمام مالوں میں مسجد نبوی کے سامنے بیرحاء کا باغ سب سے زیادہ پسند تھا۔ خود نبی کریم صلی اللہ علیہ وسلم بھی اس باغ میں تشریف لے جاتے اور اس کا میٹھا پانی پیتے تھے۔ انس رضی اللہ عنہ نے بیان کیا کہ پھر جب یہ آیت نازل ہوئی «لن تنالوا البر حتى تنفقوا مما تحبون‏» ”نیکی تم ہرگز نہیں حاصل کرو گے جب تک اپنے اس مال سے نہ خرچ کرو جو تمہیں پسند ہوں۔“ تو ابوطلحہ رضی اللہ عنہ اٹھے اور آ کر رسول اللہ صلی اللہ علیہ وسلم سے عرض کیا کہ یا رسول اللہ! اللہ تعالیٰ فرماتا ہے «لن تنالوا البر حتى تنفقوا مما تحبون‏» ”تم نیکی ہرگز نہیں حاصل کر سکو گے جب تک اپنے ان مالوں میں سے نہ خرچ کرو جو تمہیں زیادہ پسند ہوں۔“ اور میرے اموال میں مجھے سب سے زیادہ پسند بیرحاء ہے اور یہ اللہ کے راستہ میں صدقہ ہے ‘ میں اللہ کی بارگاہ سے اس کی نیکی اور ذخیرہ آخرت ہونے کی امید رکھتا ہوں۔ آپ کو جہاں اللہ تعالیٰ بتائے اسے خرچ کریں۔ آپ صلی اللہ علیہ وسلم نے فرمایا شاباش یہ تو بڑا فائدہ بخش مال ہے یا آپ نے بجائے «رابح» رابع کے «رايح» کہا یہ شک عبداللہ بن مسلمہ راوی کو ہوا تھا۔۔۔ اور جو کچھ تم نے کہا میں نے سب سن لیا ہے اور میرا خیال ہے کہ تم اسے اپنے ناطے والوں کو دے دو۔ ابوطلحہ نے عرض کیا یا رسول اللہ! میں ایسا ہی کروں گا۔ چنانچہ انہوں نے اپنے عزیزوں اور اپنے چچا کے لڑکوں میں تقسیم کر دیا۔ اسماعیل ‘ عبداللہ بن یوسف اور یحییٰ بن یحییٰ نے مالک کے واسطہ سے۔ «رابح» کے بجائے «رايح» بیان کیا ہے۔",
+          "fr": "Rapporté par Anas bin Malik : Abu Talha possédait la plus grande richesse en palmiers parmi les Ansar de Médine, et il tenait le plus à son jardin Bairuha’, situé en face de la mosquée du Prophète (ﷺ). Le Prophète y entrait et buvait de son eau fraîche. Lorsque ce verset divin fut révélé : « Vous n’atteindrez la piété que lorsque vous dépenserez de ce que vous aimez » (3:92), Abu Talha se leva et dit : « Ô Messager d’Allah (ﷺ) ! Allah dit : “Vous n’atteindrez la piété que lorsque vous dépenserez de ce que vous aimez”, et le bien que j’aime le plus, c’est Bairuha’, que je veux donner en aumône pour Allah, en espérant Sa récompense. Utilise-le comme Allah te le dira. » Le Prophète (ﷺ) dit : « Bravo ! C’est un bien profitable (ou périssable). (Ibn Maslama n’est pas sûr du mot exact, profitable ou périssable.) J’ai entendu ce que tu as dit, et je te conseille de le distribuer à tes proches. » Abu Talha dit : « Ô Messager d’Allah (ﷺ) ! Je vais faire ce que tu as suggéré. » Ainsi, Abu Talha distribua ce jardin à ses proches et cousins",
+          "id": "Telah bercerita kepada kami ['Abdullah bin Maslamah] dari [Malik] dari [Ishaq bin 'Abdullah bin Abu Thalhah] bahwa dia mendengar [Anas bin malik radliallahu 'anhu] berkata: Abu Thalhah adalah orang yang paling banyak hartanya dari kalangan Anshor di kota Madinah berupa kebun pohon kurma dan harta benda yang paling dicintainya adalah Bairuha' (sumur yang ada di kebun itu) yang menghadap ke masjid dan Rasulullah shallallahu 'alaihi wasallam sering mamasuki kebun itu dan meminum airnya yang baik tersebut. Berkata Anas; Ketika turun firman Allah Ta'ala QS Alu 'Imran: 92 yang artinya: (\"Kamu sekali-kali tidak akan sampai kepada kebajikan (yang sempurna), sebelum kamu menafkahkan sehahagian harta yang kamu cintai\"), Abu Thalhah mendatangi Rasulullah shallallahu 'alaihi wasallam lalu berkata; \"Wahai Rasulullah, sesungguhnya Allah Ta'ala telah berfirman: (\"Kamu sekali-kali tidak akan sampai kepada kebajikan (yang sempurna), sebelum kamu menafkahkan sehahagian harta yang kamu cintai\"), dan sesungguhnya harta yang paling aku cintai adalah Bairuha' itu dan sekarang dia menjadi shadaqah di jalan Allah dan aku berharap kebaikannya dan sebagai simpanan pahala di sisi-Nya, maka ambillah wahai Rasulullah sebagaimana petunjuk Allah kepada Tuan\". Maka Rasulullah shallallahu 'alaihi wasallam bersabda: Wah, inilah harta yang menguntungkan, atau harta yang pahalanya mengalir terus. Pada kalimat ini Abu Salamah ragu. Sungguh aku sudah mendengar apa yang kamu katakan dan aku berpendapat sebaiknya kamu shadaqahkan buat kerabatmu\". Maka Abu Thalhah berkata: \"Aku akan laksanakan wahai Rosululloloh\". Lalu Abu Thalhah membagikannya untuk kerabatnya dan anak-anak pamannya\". Dan berkata [Isma'il] dan ['Abdullah bin Yusuf] dan [Yahya bin Yahya] dari [Malik]: \"(Inilah harta yang pahalanya) mengalir terus",
+          "tr": "Enes İbn Malik r.a.'den nakledilmiştir: Ebu Talha Medine halkı içinde en çok hurmalığı olan kişiydi. En sevdiği hurmalığı da mescidin hemen karşısındaki Blruha hurmalığı idi. Nebi Sallallahu aleyhi ve sellem oraya girer, tatlı suyundan içerdi. Enes diyor ki: \"Sevdiklerinizden infak etmediğiniz sürece iyiliğe eremezsiniz\" ayet i inince Ebu Talha Hz. Muhammed'in yanına giderek \"Ey Allah'ın Resulü (Sallallahu aleyhi ve Sellem) benim en sevdiğim malım Blruha'dır. Orası Allah için sadakadır. Ben bu sadakanın iyiliğini ve Allah katında bereketini umarım. Sen onu Allah'ın sana gösterdiği uygun bir iş için kullanıver\" dedi. Bunun üzerine Nebi Sallallahu aleyhi ve sellem \"Aferin sana! Bu, kazançlı bir mal. Söylediğini işittim ve bunu yakınlarına tahsis etmeni uygun görüyorum\" buyurdu. Ebu Talha \"Ey Allah'ın Resulü! Ben de öyle yapayım o zaman\" dedi ve orasını yakınları ve amcaoğullarına tahsis etti"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 55,
+        "hadith": 32
+      },
+      "narrator": {
+        "en": "Anas bin Malik"
+      }
+    },
+    {
+      "hadithNumber": 2770,
+      "arabicNumber": 2770,
+      "book": 55,
+      "hadithInBook": 33,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ الرَّحِيمِ، أَخْبَرَنَا رَوْحُ بْنُ عُبَادَةَ، حَدَّثَنَا زَكَرِيَّاءُ بْنُ إِسْحَاقَ، قَالَ حَدَّثَنِي عَمْرُو بْنُ دِينَارٍ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما أَنَّ رَجُلاً، قَالَ لِرَسُولِ اللَّهِ صلى الله عليه وسلم إِنَّ أُمَّهُ تُوُفِّيَتْ أَيَنْفَعُهَا إِنْ تَصَدَّقْتُ عَنْهَا قَالَ ‏ \"‏ نَعَمْ ‏\"‏‏.‏ قَالَ فَإِنَّ لِي مِخْرَافًا وَأُشْهِدُكَ أَنِّي قَدْ تَصَدَّقْتُ عَنْهَا‏.‏",
+        "translations": {
+          "en": "Narrated Ibn `Abbas:A man said to Allah's Messenger (ﷺ) , \"My mother died, will it benefit her if I give in charity on her behalf?\" The Prophet (ﷺ) replied in the affirmative. The man said, \"I have a garden and I make you a witness that I give it in charity on her behalf",
+          "ur": "ہم سے محمد بن عبدالرحیم نے بیان کیا ‘ کہا ہم کو روح بن عبادہ نے خبر دی ‘ کہا ہم کو زکریا بن اسحاق نے بیان کیا کہ مجھ سے عمرو بن دینار نے بیان کیا عکرمہ سے اور انہوں نے ابن عباس رضی اللہ عنہما سے کہ ایک صحابی سعد بن عبادہ نے رسول اللہ صلی ‌اللہ ‌علیہ ‌وسلم سے پوچھا کہ ان کی ماں کا انتقال ہو گیا ہے ۔ کیا اگر وہ ان کی طرف سے خیرات کریں تو انہیں اس کا فائدہ پہنچے گا ؟ آپ صلی ‌اللہ ‌علیہ ‌وسلم نے جواب دیا کہ ہاں ۔ اس پر ان صحابی نے کہا کہ میرا ایک پُر میوہ باغ ہے اور میں آپ کو گواہ بناتا ہوں کہ میں نے وہ ان کی طرف سے صدقہ کر دیا ۔",
+          "fr": "Rapporté par Ibn ‘Abbas : Un homme a dit au Messager d’Allah (ﷺ) : « Ma mère est morte, cela lui sera-t-il utile si je donne en aumône pour elle ? » Le Prophète (ﷺ) répondit par l’affirmative. L’homme dit : « J’ai un jardin et je te prends à témoin que je le donne en aumône pour elle. »",
+          "id": "Telah bercerita kepada kami [Muhammad bin 'Abdur Rohim] telah mengabarkan kepada kami [Rouh bin 'Ubadah] telah bercerita kepada kami [Zakariya' bin Ishaq] berkata telah bercerita kepadaku ['Amru bin Dinar] dari ['Ikrimah] dari [Ibnu 'Abbas radliallahu 'anhu]; Bahwa ada seorang laki-laki berkata kepada Rasulullah shallallahu 'alaihi wasallam yang ibunya telah meninggal dunia: \"Apakah dapat bermanfaat baginya bila aku bershadaqah atas namanya?\" Beliau bersabda: \"Ya\". Lalu laki-laki itu berkata: \"Sesungguhnya aku memiliki kebun yang penuh dengan bebuahannya dan aku bersaksi kepada Tuan bahwa aku menshadaqahkan kebun itu atas namanya",
+          "tr": "İbn Abbas r.a.'dan nakledilmiştir: Birisi Allah Resulü (Sallallahu aleyhi ve Sellem)’e \"Annem vefat etti. Onun adına sadaka verse m ona bir yararı olur mu?\" dedi. Hz. Nebi sallallahu a1eyhi ve sellem \"Evet\" buyurdu. Adam \"O halde benim meyve li bir bahçem var. Seni şahit tutarım ki ben arasını annem adına sadaka ediyorum\" dedi"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 55,
+        "hadith": 33
+      },
+      "narrator": {
+        "en": "Ibn `Abbas"
+      }
+    },
+    {
+      "hadithNumber": 2771,
+      "arabicNumber": 2771,
+      "book": 55,
+      "hadithInBook": 34,
+      "text": {
+        "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا عَبْدُ الْوَارِثِ، عَنْ أَبِي التَّيَّاحِ، عَنْ أَنَسٍ ـ رضى الله عنه ـ قَالَ أَمَرَ النَّبِيُّ صلى الله عليه وسلم بِبِنَاءِ الْمَسْجِدِ فَقَالَ ‏ \"‏ يَا بَنِي النَّجَّارِ ثَامِنُونِي بِحَائِطِكُمْ هَذَا ‏\"‏‏.‏ قَالُوا لاَ‏.‏ وَاللَّهِ لاَ نَطْلُبُ ثَمَنَهُ إِلاَّ إِلَى اللَّهِ‏.‏",
+        "translations": {
+          "en": "Narrated Anas:When the Prophet (ﷺ) ordered that the mosque be built, he said, \"O Bani An-Najjar! Suggest to me a price for this garden of yours.\" They replied, \"By Allah! We will demand its price from none but Allah",
+          "ur": "ہم سے مسدد نے بیان کیا ‘ کہا ہم سے عبدالوارث نے بیان کیا ‘ ان سے ابوالتیاح یزید بن حمید نے اور ان سے انس رضی اللہ عنہ نے ‘ انہوں نے کہا نبی کریم صلی اللہ علیہ وسلم نے ( مدینہ میں ) مسجد بنانے کا حکم دیا اور بنی نجار سے فرمایا تم اپنے اس باغ کا مجھ سے مول کر لو۔ انہوں نے کہا کہ ہرگز نہیں اللہ کی قسم ہم تو اللہ ہی سے اس کا مول لیں گے۔",
+          "fr": "Rapporté par Anas : Quand le Prophète (ﷺ) a ordonné la construction de la mosquée, il a dit : « Ô Bani An-Najjar ! Proposez-moi un prix pour votre jardin. » Ils répondirent : « Par Allah ! Nous n’en demanderons le prix à personne d’autre qu’Allah. »",
+          "id": "Telah bercerita kepada kami [Musaddad] telah bercerita kepada kami ['Abdul Warits] dari [Abu At-Tayyah] dari [Anas radliallahu 'anhu] berkata; Nabi shallallahu 'alaihi wasallam memerintahkan untuk membangun masjid (Nabawiy) lalu berkata: \"Wahai Bani an-Najjar, tentukanlah harganya (juallah) kepadaku kebun-kebun kalian ini\". Mereka berkata: \"Demi Allah, kami tidak membutuhkan uangnya kecuali kami berikan untuk Allah",
+          "tr": "Enes r.a.'den nakledilmiştir: Nebi Sallallahu Aleyhi ve Sellem bir mescid inşa edilmesini emretmişti. \"Ey Neccaroğulları! Şu toprağınızı bize para karşılığında satın\" buyurdu. Onlar \"Hayır, Allah'a yemin ederiz ki olmaz. Biz burasının parasını ancak Allah'tan bekleriz\" dediler. باب: الوقف كيف يكتب. 28. VAKIF ŞARTNAMESİ NASIL YAZILIR?"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 55,
+        "hadith": 34
+      },
+      "narrator": {
+        "en": "Anas"
+      }
+    },
+    {
+      "hadithNumber": 2772,
+      "arabicNumber": 2772,
+      "book": 55,
+      "hadithInBook": 35,
+      "text": {
+        "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَزِيدُ بْنُ زُرَيْعٍ، حَدَّثَنَا ابْنُ عَوْنٍ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ قَالَ أَصَابَ عُمَرُ بِخَيْبَرَ أَرْضًا فَأَتَى النَّبِيَّ صلى الله عليه وسلم فَقَالَ أَصَبْتُ أَرْضًا لَمْ أُصِبْ مَالاً قَطُّ أَنْفَسَ مِنْهُ، فَكَيْفَ تَأْمُرُنِي بِهِ قَالَ ‏ \"‏ إِنْ شِئْتَ حَبَّسْتَ أَصْلَهَا، وَتَصَدَّقْتَ بِهَا ‏\"‏‏.‏ فَتَصَدَّقَ عُمَرُ أَنَّهُ لاَ يُبَاعُ أَصْلُهَا وَلاَ يُوهَبُ وَلاَ يُورَثُ، فِي الْفُقَرَاءِ وَالْقُرْبَى وَالرِّقَابِ وَفِي سَبِيلِ اللَّهِ وَالضَّيْفِ وَابْنِ السَّبِيلِ، وَلاَ جُنَاحَ عَلَى مَنْ وَلِيَهَا أَنْ يَأْكُلَ مِنْهَا بِالْمَعْرُوفِ، أَوْ يُطْعِمَ صَدِيقًا غَيْرَ مُتَمَوِّلٍ فِيهِ‏.‏",
+        "translations": {
+          "en": "Narrated Ibn `Umar:When `Umar got a piece of land in Khaibar, he came to the Prophet (ﷺ) saying, \"I have got a piece of land, better than which I have never got. So what do you advise me regarding it?\" The Prophet (ﷺ) said, \"If you wish you can keep it as an endowment to be used for charitable purposes.\" So, `Umar gave the land in charity (i.e. as an endowment) on the condition that the land would neither be sold nor given as a present, nor bequeathed, (and its yield) would be used for the poor, the kinsmen, the emancipation of slaves, Jihad, and for guests and travelers; and its administrator could eat in a reasonable just manner, and he also could feed his friends without intending to be wealthy by its means",
+          "ur": "ہم سے مسدد بن مسرہد نے بیان کیا ‘ کہا ہم سے یزید بن زریع نے بیان کیا ‘ کہا ہم سے عبداللہ بن عون رضی اللہ عنہ نے بیان کیا ان سے نافع نے اور ان سے عبداللہ بن عمر رضی اللہ عنہما نے بیان کیا کہ ہم سے مسدد بن مسرہد نے بیان کیا ‘ کہا ہم سے یزید بن زریع نے بیان کیا ‘ کہا ہم سے عبداللہ بن عون رضی اللہ عنہ نے بیان کیا ان سے نافع نے اور ان سے عبداللہ بن عمر رضی اللہ عنہما نے بیان کیا کہ",
+          "fr": "Rapporté par Ibn `Umar : Quand `Umar a obtenu un terrain à Khaybar, il est allé voir le Prophète (ﷺ) et lui a dit : « J’ai acquis un terrain, le meilleur que j’aie jamais eu. Que me conseilles-tu d’en faire ? » Le Prophète (ﷺ) a répondu : « Si tu veux, tu peux en faire un don pour des œuvres de charité. » Alors, `Umar a donné ce terrain en aumône (c’est-à-dire comme fondation pieuse) à condition que la terre ne soit ni vendue, ni offerte, ni transmise en héritage, et que ses revenus servent aux pauvres, aux proches, à l’affranchissement des esclaves, au combat pour la cause d’Allah, ainsi qu’aux invités et aux voyageurs. Celui qui gère cette fondation pouvait en manger raisonnablement et aussi nourrir ses amis, sans chercher à s’enrichir grâce à elle",
+          "id": "Telah bercerita kepada kami [Musaddad] telah bercerita kepada kami [Yazid bin Zurai'] telah bercerita kepada kami [Ibnu 'Aun] dari [Nafi'] dari [Ibnu 'Umar radliallahu 'anhuma] berkata; 'Umar mendapatkan harta berupa tanah di Khaibar lalu dia menemui Nabi shallallahu 'alaihi wasallam dan berkata: \"Aku mendapatkan harta dan belum pernah aku mendapatkan harta yang lebih berharga darinya. Bagaimana Tuan memerintahkan aku tentangnya?\" Beliau bersabda: \"Jika kamu mau, kamu pelihara pohon-pohoinnya lalu kamu shadaqahkan (hasil) nya\". Maka 'Umar menshadaqahkannya, dimana tidak dijual pepohonannya tidak juga dihibahkannya dan juga tidak diwariskannya, (namun dia menshadaqahkan hartanya itu) untuk para fakir, kerabat,. untuk membebaskan budak, fii sabilillah (di jalan Allah), untuk menjamu tamu dan ibnu sabil. Dan tidak dosa bagi orang yang mengurusnya untuk memakan darinya dengan cara yang ma'ruf (benar) dan untuk memberi makan teman-temannya asal bukan untuk maksud menimbunnya",
+          "tr": "Abdullah İbn Ömer r.a.'den nakledilmiştir: Ömer r.a., Hayber'de bir toprağa sahip olmuştu. Nebi (Sallallahu aleyhi ve Sellem)'e gelerek, \"Ben Hayber'de bir toprak sahibi oldum ve bugüne kadar öyle değerli bir toprağım hiç olmadı. Ne buyurursun? Orayı nasıl değerlendireyim?\" diye danıştı. Nebi Sallallahu Aleyhi ve Sellem \"Dilersen mülkiyetini elinde tutar; yararını - gelirini tasadduk edersin\" buyurdu. Ömer de orayı şu şartlarla sadaka etti: \"Bu arazinin aslı satılamaz, bağışlanamaz, miras bırakılamaz. Fakirler, yakınlar, özgürlüğünü elde etmeye çalışanlar, Allah yolunda cihad edenler, misafirler ve yolda kalmışların yararınadır. Mütevellisinin örf ölçüsünde ondan yemesinde ve kendine mal etmeksizin arkadaşlarına yedirmesinde sakınca yoktur.\" باب: الوقف للغني والفقير والضيف. 29. ZENGİNE, FAKİRE VE MİSAFİRE VAKFETMEK"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 55,
+        "hadith": 35
+      },
+      "narrator": {
+        "en": "Ibn `Umar"
+      }
+    },
+    {
+      "hadithNumber": 2773,
+      "arabicNumber": 2773,
+      "book": 55,
+      "hadithInBook": 36,
+      "text": {
+        "arabic": "حَدَّثَنَا أَبُو عَاصِمٍ، حَدَّثَنَا ابْنُ عَوْنٍ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ عُمَرَ، رضى الله عنه وَجَدَ مَالاً بِخَيْبَرَ، فَأَتَى النَّبِيَّ صلى الله عليه وسلم فَأَخْبَرَهُ، قَالَ ‏ \"‏ إِنْ شِئْتَ تَصَدَّقْتَ بِهَا ‏\"‏‏.‏ فَتَصَدَّقَ بِهَا فِي الْفُقَرَاءِ وَالْمَسَاكِينِ وَذِي الْقُرْبَى وَالضَّيْفِ‏.‏",
+        "translations": {
+          "en": "Narrated Ibn `Umar:`Umar got some property in Khaibar and he came to the Prophet (ﷺ) and informed him about it. The Prophet said to him, \"If you wish you can give it in charity.\" So `Umar gave it in charity (i.e. as an endowment) the yield of which was to be used for the good of the poor, the needy, the kinsmen and the guests",
+          "ur": "ہم سے ابوعاصم نے بیان کیا ‘ انہوں نے کہا ہم سے عبداللہ بن عون نے بیان کیا ‘ ان سے نافع نے بیان کیا ‘ ان سے عبداللہ بن عمر رضی اللہ عنہما نے کہ ہم سے ابوعاصم نے بیان کیا ‘ انہوں نے کہا ہم سے عبداللہ بن عون نے بیان کیا ‘ ان سے نافع نے بیان کیا ‘ ان سے عبداللہ بن عمر رضی اللہ عنہما نے کہ",
+          "fr": "Rapporté par Ibn `Umar : `Umar a acquis un bien à Khaybar et il est allé voir le Prophète (ﷺ) pour l’en informer. Le Prophète lui a dit : « Si tu veux, tu peux le donner en aumône. » Alors, `Umar l’a donné en aumône (c’est-à-dire comme fondation pieuse) et ses revenus devaient servir au bien des pauvres, des nécessiteux, des proches et des invités",
+          "id": "Telah bercerita kepada kami [Abu 'Ashim] telah bercerita kepada kami [Abu 'Aun] dari [Nafi'] dari [Ibnu 'Umar] bahwa 'Umar radliallahu 'anhuma mendapatkan harta di Khaibar lalu dia menemui Nabi shallallahu 'alaihi wasallam dan mengabarkannya. Maka Beliau berkata: \"Jika kamu mau, kamu shadaqahkan (hasil) nya\". Maka 'Umar menshadaqahkannya untuk para fakir dan miskin, kerabat dan untuk menjamu tamu",
+          "tr": "İbn Ömer r.a.'den nakledilmiştir: Ömer r.a. Hayber'de bir toprağa sahip olmuştu. Hz. Nebi'e gelerek danıştı. Nebi (Sallallahu aleyhi ve Sellem): \"Dilersen onu sadaka edebilirsin\" buyurdu. Bunun üzerine Ömer r.a. onu fakirlere, miskinlere, yakınlara ve misafirlere vakfetti"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 55,
+        "hadith": 36
+      },
+      "narrator": {
+        "en": "Ibn `Umar"
+      }
+    },
+    {
+      "hadithNumber": 2774,
+      "arabicNumber": 2774,
+      "book": 55,
+      "hadithInBook": 37,
+      "text": {
+        "arabic": "حَدَّثَنَا إِسْحَاقُ، حَدَّثَنَا عَبْدُ الصَّمَدِ، قَالَ سَمِعْتُ أَبِي، حَدَّثَنَا أَبُو التَّيَّاحِ، قَالَ حَدَّثَنِي أَنَسُ بْنُ مَالِكٍ ـ رضى الله عنه ـ لَمَّا قَدِمَ رَسُولُ اللَّهِ صلى الله عليه وسلم الْمَدِينَةَ أَمَرَ بِالْمَسْجِدِ وَقَالَ ‏ \"‏ يَا بَنِي النَّجَّارِ ثَامِنُونِي بِحَائِطِكُمْ هَذَا ‏\"‏‏.‏ قَالُوا لاَ وَاللَّهِ لاَ نَطْلُبُ ثَمَنَهُ إِلاَّ إِلَى اللَّهِ‏.‏",
+        "translations": {
+          "en": "Narrated Anas bin Malik:When Allah's Messenger (ﷺ) came to Medina, he ordered that a mosque be built. He said, \"O Bani An- Najjar! Suggest me a price for the garden of yours.\" They replied, \"By Allah, we will not ask its price except from Allah",
+          "ur": "ہم سے اسحاق بن منصور نے بیان کیا، کہا ہم سے عبدالصمد نے بیان کیا، کہا کہ میں نے اپنے والد (عبدالوارث) سے سنا، ان سے ابوالتیاح نے بیان کیا، کہا کہ مجھ سے انس بن مالک رضی اللہ عنہ نے بیان کیا کہ ہم سے اسحاق بن منصور نے بیان کیا، کہا ہم سے عبدالصمد نے بیان کیا، کہا کہ میں نے اپنے والد ( عبدالوارث ) سے سنا، ان سے ابوالتیاح نے بیان کیا، کہا کہ مجھ سے انس بن مالک رضی اللہ عنہ نے بیان کیا کہ",
+          "fr": "Rapporté par Anas bin Malik : Quand le Messager d’Allah (ﷺ) est arrivé à Médine, il a ordonné la construction d’une mosquée. Il a dit : « Ô Bani An-Najjar ! Proposez-moi un prix pour votre jardin. » Ils ont répondu : « Par Allah, nous ne demandons son prix qu’à Allah. »",
+          "id": "Telah bercerita kepada kami [Ishaq] telah bercerita kepada kami ['Abdush Shomad] berkata aku mendengar [bapakku] telah bercerita kepada kami [Abu at-Tayyah] berkata telah bercerita kepadaku [Anas bin Malik radliallahu 'anhu]; Ketika Nabi shallallahu 'alaihi wasallam tiba di Madinah, Beliau memerintahkan untuk membangun masjid (Nabawiy) lalu berkata: \"Wahai Bani an-Najjar, tentukanlah harganya (juallah) kepadaku kebun-kebun kalian ini\". Mereka berkata: \"Demi Allah, kami tidak membutuhkan uangnya akan tetapi kami berikan untuk Allah",
+          "tr": "Enes b. Malik r.a.'den nakledilmiştir: Nebi Sallallahu aleyhi ve sellem Medine'ye gelince bir camii yapılmasını emretti ve \"Ey Neccaroğulları! Şu toprağınızı/arsanızı bize para karşılığı satınız\" buyurdu. Bunun üzerine onlar: \"Hayır, Allah'a yemin ederiz ki biz bu toprağın parasını ancak Allah'tan isteriz\" dediler"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 55,
+        "hadith": 37
+      },
+      "narrator": {
+        "en": "Anas bin Malik"
+      }
+    },
+    {
+      "hadithNumber": 2775,
+      "arabicNumber": 2775,
+      "book": 55,
+      "hadithInBook": 38,
+      "text": {
+        "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، حَدَّثَنَا عُبَيْدُ اللَّهِ، قَالَ حَدَّثَنِي نَافِعٌ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ أَنَّ عُمَرَ، حَمَلَ عَلَى فَرَسٍ لَهُ فِي سَبِيلِ اللَّهِ أَعْطَاهَا رَسُولَ اللَّهِ صلى الله عليه وسلم لِيَحْمِلَ عَلَيْهَا رَجُلاً، فَأُخْبِرَ عُمَرُ أَنَّهُ قَدْ وَقَفَهَا يَبِيعُهَا، فَسَأَلَ رَسُولَ اللَّهِ صلى الله عليه وسلم أَنْ يَبْتَاعَهَا فَقَالَ ‏ \"‏ لاَ تَبْتَعْهَا، وَلاَ تَرْجِعَنَّ فِي صَدَقَتِكَ ‏\"‏‏.‏",
+        "translations": {
+          "en": "Narrated Ibn `Umar:Once `Umar gave a horse in charity to be used in holy fighting. It had been given to him by Allah's Apostle . `Umar gave it to another man to ride. Then `Umar was informed that the man put the horse for sale, so he asked Allah's Messenger (ﷺ) whether he could buy it. Allah's Messenger (ﷺ) replied, \"You should not buy it, for you should not take back what you have given in charity",
+          "ur": "ہم سے مسدد نے بیان کیا، کہا ہم سے یحییٰ بن قطان نے بیان کیا، کہا ہم سے عبیداللہ بن عمری نے بیان کیا، کہا کہ مجھ سے نافع نے بیان کیا، اور ان سے عبداللہ بن عمر رضی اللہ عنہما نے اپنا ایک گھوڑا اللہ کے راستے میں ( جہاد کرنے کے لیے ) ایک آدمی کو دے دیا۔ یہ گھوڑا آپ صلی اللہ علیہ وسلم کو عمر رضی اللہ عنہ نے دیا تھا ‘ تاکہ آپ صلی اللہ علیہ وسلم جہاد میں کسی کو اس پر سوار کریں۔ پھر عمر رضی اللہ عنہ کو معلوم ہوا کہ جس شخص کو یہ گھوڑا ملا تھا ‘ وہ اس گھوڑے کو بازار میں بیچ رہا ہے۔ اس لیے رسول اللہ صلی اللہ علیہ وسلم سے پوچھا کہ کیا وہ اسے خرید سکتے ہیں؟ آپ صلی اللہ علیہ وسلم نے فرمایا کہ ہرگز اسے نہ خرید۔ اپنا دیا ہوا صدقہ واپس نہ لے۔",
+          "fr": "Rapporté par Ibn `Umar : Un jour, `Umar a donné un cheval en aumône pour qu’il soit utilisé dans le combat pour la cause d’Allah. Ce cheval lui avait été donné par le Messager d’Allah. `Umar l’a confié à un homme pour qu’il le monte. Plus tard, il a appris que cet homme voulait vendre le cheval, alors il a demandé au Messager d’Allah (ﷺ) s’il pouvait le racheter. Le Messager d’Allah (ﷺ) a répondu : « Tu ne dois pas le racheter, car on ne doit pas reprendre ce qu’on a donné en aumône. »",
+          "id": "Telah bercerita kepada kami [Musaddad] telah bercerita kepada kami [Yahya] telah bercerita kepada kami ['Ubaidullah] berkata telah bercerita kepadaku [Nafi'] dari [Ibnu 'Umar radliallahu 'anhuma] bahwa 'Umar membawa kudanya yang biasa dipergunakan berperang di jalan Allah yang diberikan oleh Rasulullah shallallahu 'alaihi wasallam untuk diberikannya kepada seseorang. Kemudian dikabarkan kepada 'Umar bahwa kuda yang dishadaqahkannya itu telah dijual. Maka dia bertanya kepada Rasulullah shallallahu 'alaihi wasallam untuk membelinya kembali. Maka Beliau bersabda: \"Jangan kamu beli dan jangan kamu mengambil kembali shadaqahmu",
+          "tr": "İbn Ömer r.a.'den nakledilmiştir: Ömer r.a., birine Allah yolunda cihad etmesi için Allah Resulü sallallahu aleyhi ve sellem'in kendisine verdiği bir atı sadaka etmişti. O adamın atı pazarda satışa çıkardığını haber aldı. Bunun üzerine onu alıp almamak konusunda Allah Resulü Sallallahu Aleyhi ve Sellem'e danıştı. Nebi sallallahu aleyhi ve sellem: \"Onu satın alma ve sadakandan kesinlikle dönme\" buyurdu"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 55,
+        "hadith": 38
+      },
+      "narrator": {
+        "en": "Ibn `Umar"
+      }
+    },
+    {
+      "hadithNumber": 2776,
+      "arabicNumber": 2776,
+      "book": 55,
+      "hadithInBook": 39,
+      "text": {
+        "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، أَخْبَرَنَا مَالِكٌ، عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ لاَ يَقْتَسِمْ وَرَثَتِي دِينَارًا، مَا تَرَكْتُ بَعْدَ نَفَقَةِ نِسَائِي وَمَئُونَةِ عَامِلِي فَهْوَ صَدَقَةٌ ‏\"‏‏.‏",
+        "translations": {
+          "en": "Narrated Abu Huraira:Allah's Messenger (ﷺ) said, \"My heirs will not inherit a Dinar or a Dirham (i.e. money), for whatever I leave (excluding the adequate support of my wives and the wages of my employees) is given in charity",
+          "ur": "ہم سے عبداللہ بن یوسف تنیسی نے بیان کیا ‘ کہا ہم کو امام مالک نے خبر دی ‘ انہیں ابوالزناد نے ‘ انہیں اعرج نے اور انہیں ابوہریرہ رضی اللہ عنہ نے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا ”جو آدمی میرے وارث ہیں ‘ وہ روپیہ اشرفی اگر میں چھوڑ جاؤں تو وہ تقسیم نہ کریں ‘ وہ میری بیویوں کا خرچ اور جائیداد کا اہتمام کرنے والے کا خرچ نکالنے کے بعد صدقہ ہے۔“",
+          "fr": "Rapporté par Abu Huraira : Le Messager d’Allah (ﷺ) a dit : « Mes héritiers n’hériteront ni dinar ni dirham (c’est-à-dire d’argent), car tout ce que je laisse (sauf ce qui est nécessaire pour subvenir aux besoins de mes épouses et payer les salaires de mes employés) sera donné en aumône. »",
+          "id": "Telah bercerita kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Abu Az Zanad] dari [Al A'raj] dari [Abu Hurairah radliallahu 'anhu] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: \"Warisanku tidaklah dibagi-bagi baik berupa dinar maupun dirham. Apa yang aku tinggalkan selain berupa nafkah buat istri-istriku dan para pekerjaku, semuanya adalah sebagai shadaqah",
+          "tr": "Ebu Hureyre r.a.'den nakledilmiştir: Allah Resulü sallallahu aleyhi ve sellem: \"Benim mirasçılarım ne dirhem, ne de dinar bölüşürler. Eşlerimin nafakası ve çalışanımın maaşı dışında her ne bırakmışsam sadakadır\" buyurmuştur. Tekrar:"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 55,
+        "hadith": 39
+      },
+      "narrator": {
+        "en": "Abu Huraira"
+      }
+    },
+    {
+      "hadithNumber": 2777,
+      "arabicNumber": 2777,
+      "book": 55,
+      "hadithInBook": 40,
+      "text": {
+        "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا حَمَّادٌ، عَنْ أَيُّوبَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ أَنَّ عُمَرَ، اشْتَرَطَ فِي وَقْفِهِ أَنْ يَأْكُلَ مَنْ وَلِيَهُ وَيُوكِلَ صَدِيقَهُ غَيْرَ مُتَمَوِّلٍ مَالاً‏.‏",
+        "translations": {
+          "en": "Narrated Ibn `Umar:When `Umar founded an endowment he stipulated that its administrator could eat from it and also feed his friend on the condition that he would not store anything for himself from it",
+          "ur": "ہم سے قتیبہ بن سعید نے بیان کیا ‘ کہا ہم سے حماد بن زید نے بیان کیا ‘ ان سے ایوب سختیانی نے ‘ ان سے نافع نے اور ان سے عبداللہ بن عمر رضی اللہ عنہما نے کہ عمر رضی اللہ عنہ نے اپنے وقف میں یہ شرط لگائی تھی کہ اس کا متولی اس میں سے کھا سکتا ہے اور اپنے دوست کو کھلا سکتا ہے لیکن وہ دولت نہ جوڑے۔",
+          "fr": "Rapporté par Ibn `Umar : Quand `Umar a créé une fondation pieuse, il a précisé que son gestionnaire pouvait en manger et aussi nourrir ses amis, à condition de ne rien mettre de côté pour lui-même",
+          "id": "Telah bercerita kepada kami [Qutaibah bin Sa'id] telah bercerita kepada kami [Hammad] dari [Ayyub] dari [Nafi'] dari [Ibnu 'Umar radliallahu 'anhuma] bahwa 'Umar memberi persyaratan pada harta yang diwaqafkannya yaitu pengurusnya boleh memakannya, boleh juga memberi makan temannya dan tidak untuk menimbun harta",
+          "tr": "İbn Ömer r.a.'den nakledilmiştir: Ömer, vakfında mütevellinin yemesini ve vakfı kendine mal etmeksizin arkadaşlarına yedirmesini de şart koşmuştu"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 55,
+        "hadith": 40
+      },
+      "narrator": {
+        "en": "Ibn `Umar"
+      }
+    },
+    {
+      "hadithNumber": 2778,
+      "arabicNumber": 2778,
+      "book": 55,
+      "hadithInBook": 41,
+      "text": {
+        "arabic": "وَقَالَ عَبْدَانُ أَخْبَرَنِي أَبِي، عَنْ شُعْبَةَ، عَنْ أَبِي إِسْحَاقَ، عَنْ أَبِي عَبْدِ الرَّحْمَنِ، أَنَّ عُثْمَانَ ـ رضى الله عنه ـ حَيْثُ حُوصِرَ أَشْرَفَ عَلَيْهِمْ وَقَالَ أَنْشُدُكُمْ وَلاَ أَنْشُدُ إِلاَّ أَصْحَابَ النَّبِيِّ صلى الله عليه وسلم، أَلَسْتُمْ تَعْلَمُونَ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\"‏ مَنْ حَفَرَ رُومَةَ فَلَهُ الْجَنَّةُ ‏\"‏‏.‏ فَحَفَرْتُهَا، أَلَسْتُمْ تَعْلَمُونَ أَنَّهُ قَالَ ‏\"‏ مَنْ جَهَّزَ جَيْشَ الْعُسْرَةِ فَلَهُ الْجَنَّةُ ‏\"‏‏.‏ فَجَهَّزْتُهُمْ‏.‏ قَالَ فَصَدَّقُوهُ بِمَا قَالَ‏.‏ وَقَالَ عُمَرُ فِي وَقْفِهِ لاَ جُنَاحَ عَلَى مَنْ وَلِيَهُ أَنْ يَأْكُلَ‏.‏ وَقَدْ يَلِيهِ الْوَاقِفُ وَغَيْرُهُ فَهْوَ وَاسِعٌ لِكُلٍّ‏.‏",
+        "translations": {
+          "en": "Abu 'Abdur-Rahman narrated:When 'Uthman (ra) was circled (by the rebels), he looked upon them from above and said, \"I ask you by Allah, I ask nobody but the Companions of the Prophet (ﷺ), don't you know that Allah's Messenger (ﷺ) said, 'Whoever will (buy and) dig the well of Ruma will be granted Paradise,' and I (bought and) dug it? Don't you know that he said. 'Whoever equip the army of 'Usra (i.e., Tabuk's Ghazwa) will be granted Paradise,' and I equipped it ?\" They attested whatever he said. When 'Umar founded his endowment he said, \"Its administrator can eat from it.\" The management of the endowment can be taken over by the founder himself or any other person, for both cases are permissible",
+          "ur": "عبدان نے بیان کیا کہ مجھے میرے والد نے خبر دی ‘ انہیں شعبہ نے ‘ انہیں ابواسحاق نے ‘ انہیں ابوعبدالرحمٰن نے کہ عبدان نے بیان کیا کہ مجھے میرے والد نے خبر دی ‘ انہیں شعبہ نے ‘ انہیں ابواسحاق نے ‘ انہیں ابوعبدالرحمٰن نے کہ",
+          "fr": "Rapporté par Abu 'Abdur-Rahman : Quand 'Uthman (رضي الله عنه) a été assiégé (par les rebelles), il les a regardés d’en haut et a dit : « Je vous demande par Allah, je ne demande qu’aux compagnons du Prophète (ﷺ), ne savez-vous pas que le Messager d’Allah (ﷺ) a dit : ‘Celui qui achètera et creusera le puits de Ruma aura droit au Paradis’, et je l’ai acheté et creusé ? Ne savez-vous pas qu’il a dit : ‘Celui qui équipera l’armée de la difficulté (c’est-à-dire l’expédition de Tabuk) aura droit au Paradis’, et je l’ai équipée ? » Ils ont confirmé ce qu’il disait. Quand `Umar a créé sa fondation pieuse, il a dit : « Son gestionnaire peut en manger. » La gestion de la fondation peut être assurée par le fondateur lui-même ou par une autre personne, les deux sont permis",
+          "tr": "Ebu Abdurrahman'dan nakledilmiştir: Osman r.a. kuşatılınca yukarıdan kuşatanlara gözüktü ve \"Allah için söyleyin, yalnızca Hz. Nebi'in ashabından olanların söylemesini istiyorum. Bilmiyor musunuz ki Allah Resulü Sallallahu Aleyhi ve Sellem: \"Her kim kuyu kazarsa onun için cennet vardır\" buyurmuştu da ben kazmıştım. Bilmiyor musunuz ki Nebi Sallallahu Aleyhi ve Sellem: \"Usret (zorluk) ordusunu donatana cennet vardır\" buyurmuştu da ben de bu ordunun donatılmasına katılmıştırn\" dedi. Bunun üzerine oradakiler onun sözünü doğruladılar. Hz. Ömer vakfında \"bu vakfın mütevellisinin bundan yemesinde sakınca yoktur\" demişti. Vakfın mütevellisi ise başkası olabileceği gibi, vakfın sahibi de olabilir. Dolayısıyla bu izin herkesi kapsar"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 55,
+        "hadith": 41
+      }
+    },
+    {
+      "hadithNumber": 2779,
+      "arabicNumber": 2779,
+      "book": 55,
+      "hadithInBook": 42,
+      "text": {
+        "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا عَبْدُ الْوَارِثِ، عَنْ أَبِي التَّيَّاحِ، عَنْ أَنَسٍ ـ رضى الله عنه ـ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏ \"‏ يَا بَنِي النَّجَّارِ ثَامِنُونِي بِحَائِطِكُمْ ‏\"‏‏.‏ قَالُوا لاَ نَطْلُبُ ثَمَنَهُ إِلاَّ إِلَى اللَّهِ‏.‏",
+        "translations": {
+          "en": "Narrated Anas:The Prophet (ﷺ) said (at the time of building the Mosque), \"O Bani An-Najjar! Suggest to me a price for your garden.\" They replied, \"We do not ask its price except from Allah",
+          "ur": "ہم سے مسدد نے بیان کیا ‘ کہا ہم سے عبدالوارث نے بیان کیا ‘ ان سے ابوالتیاح نے اور ان سے انس رضی اللہ عنہ نے کہ نبی کریم صلی اللہ علیہ وسلم نے فرمایا تھا ”اے بنو نجار! تم اپنے باغ کی قیمت مجھ سے وصول کر لو تو انہوں نے عرض کیا کہ ہم اس کی قیمت اللہ تعالیٰ کے سوا کسی سے نہیں چاہتے۔“",
+          "fr": "Rapporté par Anas : Le Prophète (ﷺ) a dit (au moment de la construction de la Mosquée) : « Ô Bani An-Najjar ! Proposez-moi un prix pour votre jardin. » Ils ont répondu : « Nous ne demandons son prix qu’à Allah. »",
+          "id": "Telah bercerita kepada kami [Musaddad] telah bercerita kepada kami ['Abdul Warits] dari [Abu At-Tayyah] dari [Anas bin Malik radliallahu 'anhu]; Nabi shallallahu 'alaihi wasallam bersabda: \"Wahai Bani An-Najjar, tentukanlah harganya (juallah) kepadaku kebun-kebun kalian ini\". Mereka berkata: \"Kami tidak membutuhkan uangnya akan tetapi kami berikan untuk Allah",
+          "tr": "Enes b. Malik r.a.'den nakledilmiştir: Nebi Sallallahu Aleyhi ve Sellem: \"Ey Neccar oğulları! Toprağınızı bize bedeliyle verin\" buyurmuştu. Onlar \"Biz bunun karşılığını ancak Allah'tan isteriz\" dediler"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 55,
+        "hadith": 42
+      },
+      "narrator": {
+        "en": "Anas"
+      }
+    },
+    {
+      "hadithNumber": 2780,
+      "arabicNumber": 2780,
+      "book": 55,
+      "hadithInBook": 43,
+      "text": {
+        "arabic": "وَقَالَ لِي عَلِيُّ بْنُ عَبْدِ اللَّهِ حَدَّثَنَا يَحْيَى بْنُ آدَمَ، حَدَّثَنَا ابْنُ أَبِي زَائِدَةَ، عَنْ مُحَمَّدِ بْنِ أَبِي الْقَاسِمِ، عَنْ عَبْدِ الْمَلِكِ بْنِ سَعِيدِ بْنِ جُبَيْرٍ، عَنْ أَبِيهِ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ قَالَ خَرَجَ رَجُلٌ مِنْ بَنِي سَهْمٍ مَعَ تَمِيمٍ الدَّارِيِّ وَعَدِيِّ بْنِ بَدَّاءٍ فَمَاتَ السَّهْمِيُّ بِأَرْضٍ لَيْسَ بِهَا مُسْلِمٌ، فَلَمَّا قَدِمَا بِتَرِكَتِهِ فَقَدُوا جَامًا مِنْ فِضَّةٍ مُخَوَّصًا مِنْ ذَهَبٍ، فَأَحْلَفَهُمَا رَسُولُ اللَّهِ صلى الله عليه وسلم، ثُمَّ وُجِدَ الْجَامُ بِمَكَّةَ فَقَالُوا ابْتَعْنَاهُ مِنْ تَمِيمٍ وَعَدِيٍّ‏.‏ فَقَامَ رَجُلاَنِ مِنْ أَوْلِيَائِهِ، فَحَلَفَا لَشَهَادَتُنَا أَحَقُّ مِنْ شَهَادَتِهِمَا، وَإِنَّ الْجَامَ لِصَاحِبِهِمْ‏.‏ قَالَ وَفِيهِمْ نَزَلَتْ هَذِهِ الآيَةُ ‏{‏يَا أَيُّهَا الَّذِينَ آمَنُوا شَهَادَةُ بَيْنِكُمْ ‏إِذَا حَضَرَ أَحَدَكُمُ الْمَوْتُ}‏",
+        "translations": {
+          "en": "Ibn 'Abbas (ra) said, \"A man from the tribe of Bani Sahm went out in the company of Tamim Ad-Dari and 'Adi bin Badda'. The man of Bani Sahm died in a land where there was no Muslim. When Tamim and 'Adi returned conveying the property of the deceased, they claimed that they had lost a silver bowl with gold engraving. Allah's Messenger (ﷺ) made them take an oath (to confirm their claim), and then the bowl was found in Makkah with some people who claimed that they had bought it from Tamim and 'Adi. Then two witnesses from the relatives of the deceased got up and swore that their witnesses were more valid than the witnesses of 'Adi and Tamim, and that the bowl belonged to their deceased fellow. So, this verse was revealed in connection with this case: 'O you who believe! When death approached any of you ...',\" (V 5:)",
+          "ur": "امام بخاری رحمہ اللہ نے کہا مجھ سے علی بن عبداللہ مدینی نے کہا ہم سے یحییٰ بن آدم نے ‘ کہا ہم سے ابن ابی زائدہ نے ‘ انہوں نے محمد بن ابی القاسم سے ‘ انہوں نے عبدالملک بن سعید بن جبیر سے ‘ انہوں نے اپنے باپ سے ‘ کہا ہم سے عبداللہ بن عباس رضی اللہ عنہما سے انہوں نے کہا بنی سہم کا ایک شخص تمیم داری اور عدی بن بداء کے ساتھ سفر کو نکلا ‘ وہ ایسے ملک میں جا کر مر گیا جہاں کوئی مسلمان نہ تھا۔ یہ دونوں شخص اس کا متروکہ مال لے کر مدینہ واپس آئے۔ اس کے اسباب میں چاندی کا ایک گلاس گم تھا۔ آپ صلی اللہ علیہ وسلم نے ان دونوں کو قسم کھانے کا حکم فرمایا ( انہوں نے قسم کھا لی ) پھر ایسا ہوا کہ وہ گلاس مکہ میں ملا، انہوں نے کہا ہم نے یہ گلاس تمیم اور عدی سے خریدا ہے۔ اس وقت میت کے دو عزیز ( عمرو بن العاص اور مطلب کھڑے ہوئے اور انہوں نے قسم کھائی کہ یہ ہماری گواہی تمیم اور عدی کی گواہی سے زیادہ معتبر ہے ‘ یہ گلاس میت ہی کا ہے۔ عبداللہ بن عباس رضی اللہ عنہما نے کہا ان ہی کے بارے میں یہ آیت نازل ہوئی «يا أيها الذين آمنوا شهادة بينكم‏» آخر آیت تک۔)",
+          "fr": "Rapporté par Ibn 'Abbas (رضي الله عنه) : Un homme de la tribu de Bani Sahm est parti en voyage avec Tamim Ad-Dari et 'Adi bin Badda'. Cet homme est mort dans une région où il n’y avait pas de musulmans. Quand Tamim et 'Adi sont revenus avec les biens du défunt, ils ont affirmé avoir perdu un bol en argent décoré d’or. Le Messager d’Allah (ﷺ) leur a fait prêter serment (pour confirmer leur déclaration), puis le bol a été retrouvé à La Mecque chez des gens qui disaient l’avoir acheté à Tamim et 'Adi. Deux témoins parmi les proches du défunt se sont alors levés et ont juré que leur témoignage était plus valable que celui de 'Adi et Tamim, et que le bol appartenait bien à leur parent décédé. C’est à propos de cette affaire que ce verset a été révélé : « Ô vous qui croyez ! Quand la mort approche l’un de vous… » (V 5:)",
+          "id": "Dan berkata krpadaku ['Ali bin 'Abdullah] telah bercerita kepada kami [Yahya bin Adam] telah bercerita kepada kami [Ibnu Abi Za'idah] dari [Muhammad bin Abi Al Qosim] dari ['Abdul Malik bin Sa'id bin Jubair] dari [bapaknya] dari [Ibnu 'Abbas radliallahu 'anhuma] berkata; Ada seorang dari Bani Sahmi pergi keluar bersama Tamim ad-Dariy dan 'Addi bin Badda'. Kemudian lelaki suku Bani Sahmi itu meninggal dunia di daerah yang penduduknya tidak ada seorang Muslim pun. Ketika keduanya tiba kembali dengan membawa harta peninggalannya, keluarganya merasa kehilangan bejana perak yang bergaris emas, lalu Rasulullah Shallallhu 'Alaihi Wasallam menyumpah keduanya. Pada kemudian hari bejana itu ditemukan di Makkah. Mereka berkata: \"Kami telah membelinya dari Tamim dan Adi\". Lalu berdirilah dua orang dari wali Bani Sahmi dan bersumpah: \"Persaksian kami lebih benar dari pada persaksian mereka berdua, dan bejana itu adalah milik sahabat mereka\". Ia (Ibnu 'Abbas) berkata: \"Dan tentang mereka itulah ayat QS Al Ma'idah 106 turun, yang artinya: (\"Wahai orang-orang beriman bersaksilah kalian ketika salah seorang dari kalian meninggal)",
+          "tr": "İbn Abbas r.a.'dan nakledilmiştir: Sehmoğullarından biri Temim-i Dari ve Adiyy İbn Beda' ile yolculuğa çıkmıştı. Sehm oğullarından olan kişi hiçbir Müslümanın bulunmadığı bir yerde öldü. Arkadaşları geride kalan mallarını toparlayıp akrabalarına getirdiklerinde altın kaplamalı gümüş bir vazosunu bulamadılar. Akrabalarının başvurusu üzerine Allah Resulü Sallallahu Aleyhi ve Sellem ölen kişinin iki yol arkadaşına yemin ettirdi. Sonra söz konusu vazo Mekke'de bulundu. Vazonun son sahipleri: \"Biz bunu Temim ve Adiyy'den satın aldık\" dediler. Ölen Sehmoğulları mensubu kişinin velilerinden iki kişi kalkarak: \"Bizim şahitliğimiz onların şahitliğinden daha gerçektir. Bu vazo, adamımızındır\" diye yemin ettiler. el-Maide suresinden 106-108. ayetler bunun üzerine indirildi. Diğer tahric: Tirmizi Tefsirul Kur’an; Ebu Davud, Akdiye"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 55,
+        "hadith": 43
+      }
+    },
+    {
+      "hadithNumber": 2781,
+      "arabicNumber": 2781,
+      "book": 55,
+      "hadithInBook": 44,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ سَابِقٍ، أَوِ الْفَضْلُ بْنُ يَعْقُوبَ عَنْهُ حَدَّثَنَا شَيْبَانُ أَبُو مُعَاوِيَةَ، عَنْ فِرَاسٍ، قَالَ قَالَ الشَّعْبِيُّ حَدَّثَنِي جَابِرُ بْنُ عَبْدِ اللَّهِ الأَنْصَارِيُّ ـ رضى الله عنهما ـ أَنَّ أَبَاهُ اسْتُشْهِدَ يَوْمَ أُحُدٍ، وَتَرَكَ سِتَّ بَنَاتٍ، وَتَرَكَ عَلَيْهِ دَيْنًا، فَلَمَّا حَضَرَ جِدَادُ النَّخْلِ أَتَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم فَقُلْتُ يَا رَسُولَ اللَّهِ قَدْ عَلِمْتَ أَنَّ وَالِدِي اسْتُشْهِدَ يَوْمَ أُحُدٍ وَتَرَكَ عَلَيْهِ دَيْنًا كَثِيرًا، وَإِنِّي أُحِبُّ أَنْ يَرَاكَ الْغُرَمَاءُ قَالَ ‏\"‏ اذْهَبْ فَبَيْدِرْ كُلَّ تَمْرٍ عَلَى نَاحِيَتِهِ ‏\"‏‏.‏ فَفَعَلْتُ ثُمَّ دَعَوْتُهُ، فَلَمَّا نَظَرُوا إِلَيْهِ أُغْرُوا بِي تِلْكَ السَّاعَةَ، فَلَمَّا رَأَى مَا يَصْنَعُونَ أَطَافَ حَوْلَ أَعْظَمِهَا بَيْدَرًا ثَلاَثَ مَرَّاتٍ ثُمَّ جَلَسَ عَلَيْهِ ثُمَّ قَالَ ‏\"‏ ادْعُ أَصْحَابَكَ ‏\"‏‏.‏ فَمَا زَالَ يَكِيلُ لَهُمْ حَتَّى أَدَّى اللَّهُ أَمَانَةَ وَالِدِي، وَأَنَا وَاللَّهِ رَاضٍ أَنْ يُؤَدِّيَ اللَّهُ أَمَانَةَ وَالِدِي وَلاَ أَرْجِعَ إِلَى أَخَوَاتِي بِتَمْرَةٍ، فَسَلِمَ وَاللَّهِ الْبَيَادِرُ كُلُّهَا حَتَّى أَنِّي أَنْظُرُ إِلَى الْبَيْدَرِ الَّذِي عَلَيْهِ رَسُولُ اللَّهِ صلى الله عليه وسلم كَأَنَّهُ لَمْ يَنْقُصْ تَمْرَةً وَاحِدَةً‏.‏ قَالَ أَبُو عَبْد اللَّهِ أُغْرُوا بِي يَعْنِي هِيجُوا بِي فَأَغْرَيْنَا بَيْنَهُمْ الْعَدَاوَةَ وَالْبَغْضَاءَ",
+        "translations": {
+          "en": "Narrated Jabir bin `Abdullah Al-Ansari:My father was martyred on the day (of the Ghazwa) of Uhud and left six daughters and some debts to be paid. When the time of plucking the date-fruits came, I went to Allah's Messenger (ﷺ) and said, \"O Allah's Apostle! you know that my father was martyred on Uhud's day and owed much debt, and I wish that the creditors would see you.\" The Prophet (ﷺ) said, \"Go and collect the various kinds of dates and place them separately in heaps\"' I did accordingly and called him. On seeing him, the creditors started claiming their rights pressingly at that time. When the Prophet (ﷺ) saw how they behaved, he went round the biggest heap for three times and sat over it and said, \"Call your companions (i.e. the creditors).\" Then he kept on measuring and giving them, till Allah cleared all my father's debts. By Allah, it would have pleased me that Allah would clear the debts of my father even though I had not taken a single date to my sisters. But by Allah, all the heaps were complete, (as they were) and I looked at the heap where Allah's Messenger (ﷺ) was sitting and noticed as if not a single date had been taken thereof",
+          "ur": "ہم سے محمد بن سابق نے بیان کیا یا فضل بن یعقوب نے محمد بن سابق سے (یہ شک خود امام بخاری رحمہ اللہ کو ہے) کہا ہم سے شیبان بن عبدالرحمٰن ابومعاویہ نے بیان کیا ‘ ان سے فراس بن یحییٰ نے بیان کیا ‘ ان سے شعبی نے بیان کیا اور ان سے جابر بن عبداللہ انصاری رضی اللہ عنہ نے بیان کیا کہ ان کے والد ( عبداللہ رضی اللہ عنہ ) احد کی لڑائی میں شہید ہو گئے تھے۔ اپنے پیچھے چھ لڑکیاں چھوڑی تھیں اور قرض بھی۔ جب کھجور کے پھل توڑنے کا وقت آیا تو میں رسول اللہ صلی اللہ علیہ وسلم کی خدمت میں حاضر ہوا اور عرض کیا یا رسول اللہ! آپ کو یہ معلوم ہی ہے کہ میرے والد ماجد احد کی لڑائی میں شہید ہو چکے ہیں اور بہت زیادہ قرض چھوڑ گئے ہیں ‘ میں چاہتا تھا کہ قرض خواہ آپ کو دیکھ لیں ( تاکہ قرض میں کچھ رعایت کر دیں ) لیکن وہ یہودی تھے اور وہ نہیں مانے ‘ اس لیے رسول اللہ صلی اللہ علیہ وسلم نے فرمایا کہ جاؤ اور کھلیان میں ہر قسم کی کھجور الگ الگ کر لو جب میں نے ایسا ہی کر لیا تو آپ صلی اللہ علیہ وسلم کو بلایا ‘ قرض خواہوں نے آپ صلی اللہ علیہ وسلم کو دیکھ کر اور زیادہ سختی شروع کر دی تھی۔ آپ صلی اللہ علیہ وسلم نے جب یہ طرز عمل ملاحظہ فرمایا تو سب سے بڑے کھجور کے ڈھیر کے گرد آپ صلی اللہ علیہ وسلم نے تین چکر لگائے اور وہیں بیٹھ گئے پھر فرمایا کہ اپنے قرض خواہوں کو بلاؤ۔ آپ صلی اللہ علیہ وسلم نے ناپ ناپ کر دینا شروع کیا اور واللہ میرے والد کی تمام امانت ادا کر دی ‘ اللہ گواہ ہے کہ میں اتنے پر بھی راضی تھا کہ اللہ تعالیٰ میرے والد کا تمام قرض ادا کر دے اور میں اپنی بہنوں کیلئے ایک کھجور بھی اس میں سے نہ لے جاؤں لیکن ہوا یہ کہ ڈھیر کے ڈھیر بچ رہے اور میں نے دیکھا کہ رسول اللہ صلی اللہ علیہ وسلم جس ڈھیر پر بیٹھے ہوئے تھے اس میں سے تو ایک کھجور بھی نہیں دی گئی تھی۔ ابوعبداللہ امام بخاری رحمہ اللہ نے کہا کہ «أغروا بي» ( حدیث میں الفاظ ) کے معنی ہیں کہ مجھ پر بھڑکنے اور سختی کرنے لگے۔ اسی معنی میں قرآن مجید کی آیت «فأغرينا بينهم العداوة والبغضاء» میں «فأغرينا» ہے۔",
+          "fr": "Rapporté par Jabir bin `Abdullah Al-Ansari : Mon père est tombé en martyr le jour de la bataille d’Uhud. Il a laissé six filles et des dettes à rembourser. Quand la saison de la récolte des dattes est arrivée, je suis allé voir le Messager d’Allah (ﷺ) et je lui ai dit : « Ô Messager d’Allah ! Tu sais que mon père est tombé en martyr à Uhud et qu’il avait beaucoup de dettes. J’aimerais que les créanciers te voient. » Le Prophète (ﷺ) a dit : « Va, rassemble les différents types de dattes et mets-les en tas séparés. » J’ai fait ainsi et je l’ai appelé. En le voyant, les créanciers ont commencé à réclamer leur dû avec insistance. Quand le Prophète (ﷺ) a vu leur attitude, il a fait le tour du plus grand tas trois fois, puis s’est assis dessus et a dit : « Appelle tes compagnons (c’est-à-dire les créanciers). » Il a alors continué à mesurer et à leur donner jusqu’à ce qu’Allah ait remboursé toutes les dettes de mon père. Par Allah, cela m’aurait suffi qu’Allah rembourse les dettes de mon père même si je n’avais rien gardé pour mes sœurs. Mais par Allah, tous les tas étaient intacts, et j’ai regardé celui où le Messager d’Allah (ﷺ) était assis et j’ai vu qu’il n’en manquait pas une seule datte",
+          "id": "Telah bercerita kepada kami [Muhammad bin Sabiq] atau [Al Fadhal bin Ya'qub] darinya telah bercerita kepada kami [Syaiban Abu Mu'awiyah] dari [Firas] berkata; [asy-Sya'biy] berkata telah bercerita kepadaku [Jabir bin 'Abdullah Al Anshoriy radliallahu 'anhuma] bahwa bapaknya mati sebagai syahid pada perang Uhud dan meninggalkan enam anak perempuan serta hutang. Ketika tiba musim panen buah kurma aku menemui Rasulullah shallallahu 'alaihi wasallam lalu aku katakan: \"Wahai Rasulullah, sungguh Tuan telah mengetahui bahwa bapakku telah mati syahid pada perang Uhud dan dia meninggalkan hutang yang sangat banyak dan aku suka bila para piutang dapat melihat Tuan. Maka Beliau bersabda: \"Pegilah kamu ke kebunmu dan pisahkanlah masing-masing kurma jenis sesuai jenisnya\". Maka aku kerjakan lalu aku memanggil Beliau. Ketika mereka melihat Beliau, mereka segera saja mendesakku untuk melunasi hutang pada saat itu juga. Tatkala Beliau melihat apa yang mereka kerjakan, Belia mengelilingi salah satu tempat menebah kurma yang paling besar sebanyak tida kali kemudian duduk di dekatnya lalu berkata: \"Panggillah sahabat-sahabatmu\". Dan Beliau terus saja menimbang kurma untuk mereka higga akhirnya Allah (dengan izin-Nya) menyelesaikan amanah bapakku dan demi Allah telah ridha dengan terlunaskannya amanah bapakku dan aku pulang kepada saudara-saudara perempuanku tidak membawa sebutir buah kurma pun. Dan demi Allah, tempat menebah kurma masih utuh seperti sebelumnya seolah tidak berkurang satu butirpun buah kurmanya\". Berkata Abu 'Abdullah Al Bukhariy: \"ughruu bii artinya hiijuw bii (timbul/spontan) sepereti firman Allah \"fa aghrainaa bainahul 'adaawata wal baghdhao' (Maka kami tibmbulkan diantara mereka permusuhan dan kebencian)",
+          "tr": "Cabir İbn Abdullah el-Ensari r.a.'den nakledilmiştir: Babası (Abdullah) Uhud savaşında şehit edilmiş, geride altı kız ve borç bırakmıştı. (Cabir olayı şöyle anlatıyor:) Hurmalar devşirilip getirilince Allah Resulü'ne Sallallahu Aleyhi ve Sellem geldim. \"Ey Allah'ın Resulü! Biliyorsun ki babam Uhud savaşında şehit edildi. Çok da borcu var. Ben alacaklıların. seni görmesini arzuluyorum\" dedim. Nebi Sallallahu Aleyhi ve Sellem: \"Git hurmaları cinsine göre ayrı ayrı ser\" buyurdu. Ben de öyle yaptım. Sonra onu çağırdım. Alacaklılar hurmaları görünce üzerime üşüştüler. Nebi Sallallahu Aleyhi ve Sellem onların bu yaptığını görünce en büyük harmanın/serginin etrafında üç kez dolaşıp oturdu. Sonra \"alacaklılarını çağır\" buyurdu. Hz. Nebi alacaklılara ölçüp ölçüp veriyordu. Böylece babamın borcu tamamen ödendi. Ben kız kardeşlerime tek bir hurma bile kalmayacak olsa da babamın borcunun ödenmiş olacağı için mutluluk duyuyordum. Sonuçta bütün hurma sergileri yerli yerinde duruyordu. Ben Allah Resulü'nün başında durduğu sergiye şöyle bir baktım. Sanki tek bir hurma bile eksilmemiş gibiydi"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 55,
+        "hadith": 44
+      },
+      "narrator": {
+        "en": "Jabir bin `Abdullah Al-Ansari"
+      }
+    }
+  ],
+  "metadata": {
+    "averageLength": "long",
+    "size": "33KB"
+  }
+}

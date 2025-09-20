@@ -1,0 +1,23 @@
+{
+  "collection": "bukhari",
+  "name": {
+    "arabic": "صحيح البخاري",
+    "transliteration": "Sahih al-Bukhari",
+    "translation": "The Authentic Collection of al-Bukhari"
+  },
+  "compiler": {
+    "arabic": "محمد بن إسماعيل البخاري",
+    "transliteration": "Muhammad ibn Isma'il al-Bukhari",
+    "dates": "194-256 AH"
+  },
+  "authenticity": "sahih",
+  "totalBooks": 98,
+  "totalHadith": 7589,
+  "metadata": {
+    "extractedFrom": "ara-bukhari",
+    "sourceFormat": "hadith-api-1",
+    "extractionDate": "2025-09-19T23:58:45.162Z",
+    "description": "The most authentic collection of hadith after the Quran",
+    "priority": 1
+  }
+}

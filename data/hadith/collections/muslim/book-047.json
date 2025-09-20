@@ -1,0 +1,643 @@
+{
+  "collection": "muslim",
+  "book": 47,
+  "name": {
+    "arabic": "كتاب The Book of Knowledge",
+    "transliteration": "kitab ilm",
+    "translation": "The Book of Knowledge"
+  },
+  "totalHadith": 29,
+  "hadithNumberRange": {
+    "first": 6775,
+    "last": 6804
+  },
+  "content": [
+    {
+      "hadithNumber": 6775,
+      "arabicNumber": "2665",
+      "book": 47,
+      "hadithInBook": 1,
+      "text": {
+        "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ بْنِ قَعْنَبٍ، حَدَّثَنَا يَزِيدُ بْنُ إِبْرَاهِيمَ التُّسْتَرِيُّ، عَنْ عَبْدِ، اللَّهِ بْنِ أَبِي مُلَيْكَةَ عَنِ الْقَاسِمِ بْنِ مُحَمَّدٍ، عَنْ عَائِشَةَ، قَالَتْ تَلاَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏{‏ هُوَ الَّذِي أَنْزَلَ عَلَيْكَ الْكِتَابَ مِنْهُ آيَاتٌ مُحْكَمَاتٌ هُنَّ أُمُّ الْكِتَابِ وَأُخَرُ مُتَشَابِهَاتٌ فَأَمَّا الَّذِينَ فِي قُلُوبِهِمْ زَيْغٌ فَيَتَّبِعُونَ مَا تَشَابَهَ مِنْهُ ابْتِغَاءَ الْفِتْنَةِ وَابْتِغَاءَ تَأْوِيلِهِ وَمَا يَعْلَمُ تَأْوِيلَهُ إِلاَّ اللَّهُ وَالرَّاسِخُونَ فِي الْعِلْمِ يَقُولُونَ آمَنَّا بِهِ كُلٌّ مِنْ عِنْدِ رَبِّنَا وَمَا يَذَّكَّرُ إِلاَّ أُولُو الأَلْبَابِ‏}‏ قَالَتْ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ إِذَا رَأَيْتُمُ الَّذِينَ يَتَّبِعُونَ مَا تَشَابَهَ مِنْهُ فَأُولَئِكَ الَّذِينَ سَمَّى اللَّهُ فَاحْذَرُوهُمْ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "A'isha reported that Allah's Messenger (ﷺ) recited (these verses of the Qur'an):\"He it is Who revealed to thee (Muhammad) the Book (the Qur'an) wherein there are clear revelations-these are the substance of the Book and others are allegorical (verses). And as for those who have a yearning for error they go after the allegorical verses seeking (to cause) dissension, by seeking to explain them. And none knows their implications but Allah, and those who are sound in knowledge say: We affirm our faith in everything which is from our Lord. It is only the persons of understanding who really heed\" (Al-Qur'an 3:7). 'A'isha (further) reported that Allah's Messenger (ﷺ) said (in connection with these verses): When you see such verses, avoid them, for it is they whom Allah has pointed out (in the mentioned verses)",
+          "ur": "قاسم بن محمد نے حضرت عائشہ رضی اللہ عنہا سے روایت کی ، کہا : رسول اللہ صلی اللہ علیہ وسلم نے ( یہ آیات ) تلاوت فرمائیں : \" وہی ہے جس نے آپ پر کتاب نازل فرمائی ، اس میں سے محکم ( معنی میں واضح ) آیتیں ہیں ، وہی اصل کتاب ہیں اور دوسری متشابہ آیات ہیں ، پھر وہ لوگ جن کے دلوں میں کجی ہے ، وہ فتنے کی تلاش میں ان آیتوں کے پیچھے پڑے رہتے ہیں جو ان ( آیات قرآنی ) میں سے متشابہ ہیں ۔ ان ( متشابہ آیات ) کا حقیقی معنی اللہ اور ان لوگوں کے علاوہ اور کوئی نہیں جانتا جو علم میں راسخ ہیں ۔ وہ ( یہی ) کہتے ہیں : ہم ان ( آیات ) پر ایمان لائے ، سب ( آیتیں ) ہمارے رب کی طرف سے ہیں اور دانائی رکھنے والوں کے سوا کوئی ( ان سے ) نصیحت حاصل نہیں کرتا ۔ \" ( حضرت عائشہ رضی اللہ عنہا نے ) کہا : رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" جب تم ایسے لوگوں کو دیکھو جو قرآن میں سے متشابہ ( آیات ) کے پیچھے پڑتے ہیں ، تو یہی لوگ ہیں جن کا اللہ نے ( سابقہ آیات میں ) ذکر کیا ہے ، لہذا ان سے بچ کر رہو ۔",
+          "fr": "Rapporté par Aïsha رضي الله عنها : Le Messager d’Allah ﷺ a récité ces versets du Coran : « C’est Lui qui t’a révélé le Livre (le Coran) : il s’y trouve des versets clairs, qui sont la base du Livre, et d’autres qui sont allégoriques. Ceux qui ont au cœur une inclination vers l’égarement suivent ce qui est allégorique, cherchant la discorde et l’interprétation. Nul n’en connaît l’explication, sauf Allah. Ceux qui sont fermes dans la science disent : “Nous croyons en tout ce qui vient de notre Seigneur.” Seuls les gens doués d’intelligence s’en souviennent. » (Coran 3:7) Aïsha rapporte aussi que le Messager d’Allah ﷺ a dit à propos de ces versets : « Lorsque tu vois de tels versets, évite-les, car ce sont eux qu’Allah a désignés dans ces versets. »",
+          "id": "Telah menceritakan kepada kami ['Abdullah bin Maslamah bin Qa'nab] telah menceritakan kepada kami [Yazid bin Ibrahim At Tusturi] dari ['Abdullah bin Abu Mulaikah] dari [Al Qasim bin Muhammad] dari ['Aisyah] dia berkata; bahwa Nabi shallaallahu 'alaihi wa sallam pernah membaca ayat berikut ini: \"Dia-lah yang menurunkan Al Kitab (Al Quran) kepada kamu. di antara (isi) nya ada ayat-ayat yang muhkamaat, Itulah pokok-pokok isi Al-Qur'an dan yang lain (ayat-ayat) mutasyaabihaat. adapun orang-orang yang dalam hatinya condong kepada kesesatan, maka mereka mengikuti sebahagian ayat-ayat yang mutasyaabihaat darinya untuk menimbulkan fitnah untuk mencari-cari ta'wilnya, padahal tidak ada yang mengetahui ta'wilnya melainkan Allah.\" Aisyah berkata; kemudian Rasulullah shallaallahu 'alaihi wa sallam bersabda: \"Apabila kalian melihat orang-orang yang mengikuti sebahagian ayat-ayat yang mutasyaabihaat, maka mereka itulah adalah yang disebutkan oleh Allah 'Waspadalah kalian terhadap mereka",
+          "tr": "Bize Abdullah b. Mesleme b. Ka'neb rivayet etti. (Dediki): Bize Yezîd b. İbrahim Et-Tüsterî, Abdullah b. Ebi Müleyke'den, o da Kasım b. Muhammed'den, o da Âişe'den naklen rivayet etti. Şöyle demiş: Resûlullah (Sallallahu Aleyhi ve Sellem) ; «7- Sana bu kitabı indiren O'dur. Bunun ayetlerinden bir kısmı muhkemdir ki, bu ayetler, kitabın anası (aslı) demektir. Diğer bir kısmı da müteşabih ayetlerdir. Kalblerinde kaypaklık olanlar, sırf fitne çıkarmak için, bir de kendi keyflerine göre te'vil yapmak için onun müteşabih olanlarının peşine düşerler. Halbuki onun te'vilini Allah'dan başka kimse bilmez. İlimde uzman olanlar, \"Biz buna inandık, hepsi Rabbimiz katındandır.\" derler. Üstün akıllılardan başkası da derin düşünmez.» [Al-i İmran 7] okudu. Âişe demiş ki: Resülullah (Sallallahu Aleyhi ve Sellem): «Kur'ân'ın müteşabihlerine tâbi olanları gördüğünüz vakit, onlardan sakının. Onlar Allah'ın ad verdiği kimselerdir.» buyurdu"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "muslim",
+        "book": 47,
+        "hadith": 1
+      }
+    },
+    {
+      "hadithNumber": 6776,
+      "arabicNumber": "2666",
+      "book": 47,
+      "hadithInBook": 2,
+      "text": {
+        "arabic": "حَدَّثَنَا أَبُو كَامِلٍ، فُضَيْلُ بْنُ حُسَيْنٍ الْجَحْدَرِيُّ حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، حَدَّثَنَا أَبُو عِمْرَانَ الْجَوْنِيُّ قَالَ كَتَبَ إِلَىَّ عَبْدُ اللَّهِ بْنُ رَبَاحٍ الأَنْصَارِيُّ أَنَّ عَبْدَ اللَّهِ بْنَ عَمْرٍو قَالَ هَجَّرْتُ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم يَوْمًا - قَالَ - فَسَمِعَ أَصْوَاتَ رَجُلَيْنِ اخْتَلَفَا فِي آيَةٍ فَخَرَجَ عَلَيْنَا رَسُولُ اللَّهِ صلى الله عليه وسلم يُعْرَفُ فِي وَجْهِهِ الْغَضَبُ فَقَالَ ‏ \"‏ إِنَّمَا هَلَكَ مَنْ كَانَ قَبْلَكُمْ بِاخْتِلاَفِهِمْ فِي الْكِتَابِ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Abdullah b. 'Umar reported:I went to Allah's Messenger (ﷺ) in the morning and he heard the voice of two persons who had an argumentation with each other about a verse. Allah's Apostle (ﷺ) came to us (and) the (signs) of anger could be seen on his face. He said: Verily, the (peoples) before you were ruined because of their disputation in the Book",
+          "ur": "حماد بن زید نے کہا : ہمیں ابوعمران جونی نے حدیث بیان کی ، انہوں نے کہا : عبداللہ بن رباح انصاری نے میری طرف لکھ بھیجا کہ حضرت عبداللہ بن عمرو رضی اللہ عنہ نے کہا : میں ایک روز دن چڑھے ( مسجد میں ) رسول اللہ صلی اللہ علیہ وسلم کے پاس آیا تو اتنے میں آپ صلی اللہ علیہ وسلم نے دو آدمیوں کی آوازیں سنیں جو ایک آیت کے بارے میں ( ایک دوسرے سے ) اختلاف کر رہے تھے ۔ آپ صلی اللہ علیہ وسلم نکل کر ہمارے سامنے تشریف لائے ۔ آپ کے چہرہ مبارک پر غصہ ( صاف ) پہچانا جا رہا تھا تو آپ نے فرمایا : \" جو لوگ تم سے پہلے تھے وہ کتاب اللہ کے بارے میں اختلاف کرنے سے ہلاک ہو گئے ۔",
+          "fr": "Rapporté par Abdullah ibn Umar رضي الله عنه : Je suis allé voir le Messager d’Allah ﷺ un matin, et il entendit la voix de deux personnes qui se disputaient au sujet d’un verset. Le Messager d’Allah ﷺ vint vers nous, et on pouvait voir les signes de la colère sur son visage. Il dit : « En vérité, les peuples avant vous ont été détruits à cause de leurs disputes au sujet du Livre. »",
+          "id": "Telah menceritakan kepada kami [Abu Kamil Fudhail bin Husain Al Jahdari] telah menceritakan kepada kami [Hammad bin Zaid] telah menceritakan kepada kami [Abu 'Imran Al Jauni] dia berkata; ['Abdullah bin Rabbah Al Anshari] menulis kepadaku bahwa [Abdullah bin 'Amru] berkata; dipagi hari aku pergi menemui Rasulullah shallallahu 'alaihi wasallam, lalu terdengar ada dua orang sahabat yang berselisih tentang ayat Allah, Maka Rasulullah shallallahu 'alaihi wasallam menemui kami dalam keadaan marah seraya bersabda: \"Sesungguhnya umat-umat sebelum kalian dahulu celaka karena mereka berselisih tentang isi kitab",
+          "tr": "Bize Ebû Kâmil Fudayl b. Hüseyn El-Cahderî rivayet etti. (Dediki): Bize Hammad b. Zeyd rivayet etti (Dediki): Bize Ebu İmran el-Cevni rivayet etti. (Dediki): Bana Abdullah b. Revah El-Ensârî, Abdullah b. Amr'ın şöyle dediğini yazdı: Bir gün erken erken ResuluIlah (Sallallahu Aleyhi ve Sellem)'e gittim. Derken bîr âyet-i kerîme hususunda ihtilâf eden iki adaımın seslerim işitti de, Resûlullah (Sallallahu Aleyhi ve Sellem) yanımıza çıktı. Yüzünde gadab belli oluyordu. Ve : «Sizden öncekiler ancak ve ancak Kitab hakkında ihtilâfları sebebiyle helak oldular.» buyurdu. İZAH 2667 DE"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "muslim",
+        "book": 47,
+        "hadith": 2
+      }
+    },
+    {
+      "hadithNumber": 6777,
+      "arabicNumber": "2667.01",
+      "book": 47,
+      "hadithInBook": 3,
+      "text": {
+        "arabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، أَخْبَرَنَا أَبُو قُدَامَةَ الْحَارِثُ بْنُ عُبَيْدٍ، عَنْ أَبِي عِمْرَانَ، عَنْ جُنْدُبِ بْنِ عَبْدِ اللَّهِ الْبَجَلِيِّ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ اقْرَءُوا الْقُرْآنَ مَا ائْتَلَفَتْ عَلَيْهِ قُلُوبُكُمْ فَإِذَا اخْتَلَفْتُمْ فِيهِ فَقُومُوا ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Jundub b. 'Abdullah al-Bajali reported Allah's Messenger (ﷺ) as saying:Recite the Qur'an as long as your hearts agree to do so, and when you feel variance between them (between your hearts and tongues), then get up (and leave its recital for the time being)",
+          "ur": "ابو قُدامہ حارث بن عبید نے ابوعمران سے ، انہوں نے حضرت جندب بن عبداللہ بجلی رضی اللہ عنہ سے روایت کی ، کہا : رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" تم اس وقت تک قرآن پڑھتے رہو جب تک تمہارے دل اس پر ایک دوسرے کے ساتھ موافقت کرتے رہیں ( قرآن کے معانی تمہارے دل پر واضح ہوتے جا رہے ہوں ) جب تم اس میں اختلاف کرنے لگو تو اٹھ جاؤ ۔",
+          "fr": "Rapporté par Jundub ibn Abdullah al-Bajali رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Récitez le Coran tant que vos cœurs y consentent, et si vous sentez une divergence entre eux (vos cœurs et vos langues), alors levez-vous (et arrêtez la récitation pour un moment). »",
+          "id": "Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Abu Qudamah Al Harits bin 'Ubaid] dari [Abu 'Imran] dari [Jundab bin 'Abdullah Al Bajali] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Bacalah Al Qur'an, selama perhatian hatimu terpusat padanya. Apabila kalian bimbang, maka berhentilah",
+          "tr": "Bize Yahya b. Yahya rivayet etti. (Dediki): Bize Ebû Kudâme Haris b. Ubeyd Ebu İmrân'dau, o da Cündeb b. Abdillah EI-Becelî'den naklen haber verdi. Şöyle demiş: Resûlullah (Sallallahu Aleyhi ve Sellem) ; «Kur'ân'ı kalbleriniz onun üzerinde birleştiği müddetçe okuyun! Onun hakkindi ihtilâfa düştünüz mü, hemen kalkın.» buyurdular"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "muslim",
+        "book": 47,
+        "hadith": 3
+      }
+    },
+    {
+      "hadithNumber": 6778,
+      "arabicNumber": "2667.02",
+      "book": 47,
+      "hadithInBook": 4,
+      "text": {
+        "arabic": "حَدَّثَنِي إِسْحَاقُ بْنُ مَنْصُورٍ، أَخْبَرَنَا عَبْدُ الصَّمَدِ، حَدَّثَنَا هَمَّامٌ، حَدَّثَنَا أَبُو عِمْرَانَ، الْجَوْنِيُّ عَنْ جُنْدَبٍ، - يَعْنِي ابْنَ عَبْدِ اللَّهِ - أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ اقْرَءُوا الْقُرْآنَ مَا ائْتَلَفَتْ عَلَيْهِ قُلُوبُكُمْ فَإِذَا اخْتَلَفْتُمْ فَقُومُوا ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Jundub (i. e. Ibn 'Abdullah) reported that Allah's Messenger (ﷺ) said:Recite the Qur'an as long as your hearts agree to do so and when you find variance between them, then stand up",
+          "ur": "ہمام نے کہا : ہمیں ابوعمران نے حضرت جندب بن عبداللہ رضی اللہ عنہ سے روایت کی کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" تم اس پر ایک دوسرے کے ساتھ موافقت اور مطابقت کرتے رہیں ، چنانچہ جب تمہارا اختلاف شروع ہو جائے تو اٹھ جاؤ ۔",
+          "fr": "Rapporté par Jundub (c’est-à-dire Ibn Abdullah) رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Récitez le Coran tant que vos cœurs y consentent, et si vous sentez une divergence entre eux, alors levez-vous. »",
+          "tr": "Bana îshâk b. Mansûr rivayet etli. (Dediki): Bize Ahdü's-Samed haber verdi, (Dediki): Bize Hemmâm rivayet etti. (Dediki): Bize Ebû İnırân El-Cevni, Cündeb'den, yâni İbni Abdillah'dan rivayet etti ki: Resûlullah (Sallallahu Aleyhi ve Sellem) ; «Kur'ân'ı kalbleriniz onun üzerinde birleştiği müddetçe okuyun. İhtilâfa düştünüz mü, hemen kalkın!» buyurdular"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "muslim",
+        "book": 47,
+        "hadith": 4
+      }
+    },
+    {
+      "hadithNumber": 6779,
+      "arabicNumber": "2667.03",
+      "book": 47,
+      "hadithInBook": 5,
+      "text": {
+        "arabic": "حَدَّثَنِي أَحْمَدُ بْنُ سَعِيدِ بْنِ صَخْرٍ الدَّارِمِيُّ، حَدَّثَنَا حَبَّانُ، حَدَّثَنَا أَبَانُ، حَدَّثَنَا أَبُو عِمْرَانَ قَالَ قَالَ لَنَا جُنْدَبٌ وَنَحْنُ غِلْمَانٌ بِالْكُوفَةِ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ اقْرَءُوا الْقُرْآنَ ‏\"‏ ‏.‏ بِمِثْلِ حَدِيثِهِمَا ‏.‏",
+        "translations": {
+          "en": "Abu Imran reported that Jundub told us as we we-re young boys living in Kilfa, that Allah's Messenger (ﷺ) had said:Recite the Qur'an. The rest of the hadith is the same",
+          "ur": "ابان نے کہا : ہمیں ابوعمران نے حدیث سنائی ، کہا : ہم کوفہ میں ( رہنے والے ) نوجوان لڑکے تھے جب حضرت جندب رضی اللہ عنہ نے ہمیں ( نصیحت کرتے ہوئے ) کہا : رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" ( اس وقت تک ) قرآن پڑھو ۔ \" جیسے ان دونوں ( ابوقدامہ حارث بن عبید اور ہمام ) کی حدیث ہے ۔",
+          "fr": "Rapporté par Abu Imran رضي الله عنه : Jundub nous a raconté, alors que nous étions de jeunes garçons vivant à Kilfa, que le Messager d’Allah ﷺ avait dit : « Récitez le Coran. » Le reste du hadith est identique",
+          "id": "Telah menceritakan kepadaku [Ishaq bin Manshur] telah mengabarkan kepada kami ['Abdush Shamad] telah menceritakan kepada kami [Hammam] telah menceritakan kepada kami [Abu 'Imran Al Jauni] dari [Jundab bin 'Abdullah] bahwasanya Rasulullah shallallahu 'alaihi wasallam bersabda: Bacalah Al Qur'an, selama perhatian hatimu terpusat padanya. Apabila kalian bimbang, maka berhentilah.\" Telah menceritakan kepadaku [Ahmad bin Sa'id bin Shakhr Ad Darimi] Telah menceritakan kepada kami [Habban] Telah menceritakan kepada kami [Aban] Telah menceritakan kepada kami [Abu 'Imran] dia berkata; Ketika kami masih kecil [Jundub] berkata kepada kami di Kufah, Rasulullah shallallahu 'alaihi wasallam bersabda: \"Bacalah al Qur'an..-sebagaimana Hadits keduanya",
+          "tr": "{M-4} Bana Ahmed b. Said b. Sahr Ed-Dârimî rivayet etti. (Dediki): Bize Habban rivayet etli. (Dediki): Bize Ebân rivayet etti. (Dediki): Bize Ebû İmrân rivayet etti. (Dediki): Biz Kûfe'de çocukken Cündeb bize şunu söyledi: Resûlullah (Sallallahu Aleyhi ve Sellem) ; «Kur'ân'ı okuyun...» buyurdular. Râvi yukardakilerin hadîsi gibi rivayet etmiştir"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "muslim",
+        "book": 47,
+        "hadith": 5
+      }
+    },
+    {
+      "hadithNumber": 6780,
+      "arabicNumber": "2668",
+      "book": 47,
+      "hadithInBook": 6,
+      "text": {
+        "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا وَكِيعٌ، عَنِ ابْنِ جُرَيْجٍ، عَنِ ابْنِ أَبِي مُلَيْكَةَ، عَنْ عَائِشَةَ، قَالَتْ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ إِنَّ أَبْغَضَ الرِّجَالِ إِلَى اللَّهِ الأَلَدُّ الْخَصِمُ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "A'isha reported Allah's Messenger (ﷺ) as saying:The most despicable amongst persons in the eye of Allah is one who tries to fall into dispute with others (for nothing but only to display his knowledge and power of argumentation)",
+          "ur": "حضرت عائشہ رضی اللہ عنہا سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" اللہ تعالیٰ کے نزدیک سب سے بڑھ کر بغض کے قابل وہ شخص ہے جو سخت جھگڑالو ہو ۔",
+          "fr": "Rapporté par Aïsha رضي الله عنها : Le Messager d’Allah ﷺ a dit : « La personne la plus méprisable aux yeux d’Allah est celle qui cherche à entrer en dispute avec les autres seulement pour montrer sa connaissance et sa capacité à argumenter. »",
+          "id": "Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Waki'] dari [Ibnu Juraij] dari [Ibnu Abi Mulaikah] dari ['Aisyah] dia berkata; \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Orang yang paling Allah benci adalah orang yang keras kepala lagi suka bermusuhan",
+          "tr": "Bize Ebû Bckr b. Ebî Şeybe rivayet etti. (Dediki): Bize Veki', İbni Cüreyc'den, o da İbnü Ebî Müleyke'den, o da Âişe'den naklen rivayet etti. Şöyle demiş: Resûlullah (Sallallahu Aleyhi ve Sellem) ; «Şüphesiz ki, erkeklerin Allah'a en sevimsiz olanı, şiddetle düşmanlık yapan kâmil hasımdır.» buyurdular"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "muslim",
+        "book": 47,
+        "hadith": 6
+      }
+    },
+    {
+      "hadithNumber": 6781,
+      "arabicNumber": "2669.01",
+      "book": 47,
+      "hadithInBook": 7,
+      "text": {
+        "arabic": "حَدَّثَنِي سُوَيْدُ بْنُ سَعِيدٍ، حَدَّثَنَا حَفْصُ بْنُ مَيْسَرَةَ، حَدَّثَنِي زَيْدُ بْنُ أَسْلَمَ، عَنْ عَطَاءِ، بْنِ يَسَارٍ عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ لَتَتَّبِعُنَّ سَنَنَ الَّذِينَ مِنْ قَبْلِكُمْ شِبْرًا بِشِبْرٍ وَذِرَاعًا بِذِرَاعٍ حَتَّى لَوْ دَخَلُوا فِي جُحْرِ ضَبٍّ لاَتَّبَعْتُمُوهُمْ ‏\"‏ ‏.‏ قُلْنَا يَا رَسُولَ اللَّهِ آلْيَهُودَ وَالنَّصَارَى قَالَ ‏\"‏ فَمَنْ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Abu Sa'id al-Khudri reported Allah's Messenger (ﷺ) as saying:You would tread the same path as was trodden by those before you inch by inch and step by step so much so that if they had entered into the hole of the lizard, you would follow them in this also. We said: Allah's Messenger, do you mean Jews and Christians (by your words)\" those before you\"? He said: Who else (than those two religious groups)?",
+          "ur": "حفص بن میسرہ نے کہا : مجھے زید بن اسلم نے عطاء بن یسار سے حدیث بیان کی ، انہوں نے حضرت ابوسعید خدری رضی اللہ عنہ سے روایت کی ، کہا : رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" تم ضرور ان لوگوں کے طریقوں پر بالشت بر بالشت اور ہاتھ بر ہاتھ چلتے جاؤ گے جو تم سے پہلے تھے ( بعینہ ان کے طریقے اختیار کرو گے ، ان سے ذرہ برابر آگے پیچھے نہ ہو گے ) حتی کہ اگر وہ سانڈے کے بل میں گھسے تو تم بھی ان کے پیچھے گھسو گے ۔ \" ہم نے عرض کی : اللہ کے رسول! کیا یہود اور نصاریٰ ( کے پیچھے چلیں گے؟ ) آپ نے فرمایا : \" تو ( اور ) کن کے؟",
+          "fr": "Rapporté par Abu Saïd al-Khudri رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Vous suivrez exactement le même chemin que ceux qui vous ont précédés, pas à pas, au point que s’ils entraient dans un trou de lézard, vous les suivriez aussi. » Nous avons dit : « Ô Messager d’Allah, veux-tu parler des Juifs et des Chrétiens par “ceux qui vous ont précédés” ? » Il répondit : « Qui donc sinon eux ? »",
+          "id": "Telah menceritakan kepadaku [Suwaid bin Sa'id] telah menceritakan kepada kami [Hafsh bin Maisarah] telah menceritakan kepadaku [Zaid bin Aslam] dari ['Atha bin Yasar] dari [Abu Sa'id Al Khudri] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Sungguh, kalian benar-benar akan mengikuti kebiasaan orang-orang sebelum kalian sejengkal demi sejengkal dan sehasta demi sehasta, sehingga sekiranya mereka masuk ke dalam lubang biawak pun kalian pasti kalian akan mengikuti mereka.\" Kami bertanya; \"Wahai Rasulullah, apakah mereka itu yahudi dan Nasrani?\" Beliau menjawab: \"Siapa lagi kalau bukan mereka.\" Dan telah menceritakan kepada kami [beberapa orang] dari sahabat kami dari [Sa'id bin Abu Maryam] Telah mengabarkan kepada kami [Abu Gassan] yaitu Muhammad bin Mutharrif dari [Zaid bin Aslam] melalui sanad ini dengan Hadits yang serupa. Abu Ishaq Ibrahim bin Muhammad berkata; Telah menceritakan kepada kami Muhammad bin Yahya Telah menceritakan kepada kami Ibnu Abu Maryam Telah menceritakan kepada kami Abu Gassan Telah menceritakan kepada kami Zaid bin Aslam dari Atha' bin Yasar -lalu dia menyebutkan Hadits yang serupa",
+          "tr": "Bana Suveyd b. Said rivayet etti (Dediki): Bize Hafs b. Meysera rivayet etti. (Dediki): Bana Zeyd b. Eslem, Ata' b. Yesar'dan, oda Ebu Said-i Hudri'den naklen rivayet etti. Şöyle demiş: Resûlullah (Sallallahu Aleyhi ve Sellem) ; ''Sizden öncekilerin yollarına karış karış ve arşın arşın mutlaka tabi olacaksınız. Hatta bir keler deliğine girseler, onların arkasından gideceksiniz. '' buyurdular. Biz: -- Ya Resulallah ! Yahudilerle Hıristiyanlara mı ? dedik. '' Ya kime ? '' buyurdular"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "muslim",
+        "book": 47,
+        "hadith": 7
+      }
+    },
+    {
+      "hadithNumber": 6782,
+      "arabicNumber": "2669.02",
+      "book": 47,
+      "hadithInBook": 8,
+      "text": {
+        "arabic": "وَحَدَّثَنَا عِدَّةٌ، مِنْ أَصْحَابِنَا عَنْ سَعِيدِ بْنِ أَبِي مَرْيَمَ، أَخْبَرَنَا أَبُو غَسَّانَ، - وَهُوَ مُحَمَّدُ بْنُ مُطَرِّفٍ - عَنْ زَيْدِ بْنِ أَسْلَمَ، بِهَذَا الإِسْنَادِ نَحْوَهُ ‏.‏",
+        "translations": {
+          "en": "This hadith is reported through Muhammad bin Muttarif from Zayd bin Aslam with the same chain",
+          "ur": "مجھے میرے بہت سے ساتھیوں نے سعید بن ابی مریم سے حدیث بیان کی ، انہوں نے کہا : ہمیں ابوغسان محمد بن مطرف نے زید بن اسلم سے اسی سند کے ساتھ اسی کے مانند خبر دی ۔",
+          "fr": "Rapporté par Muhammad ibn Muttarif d’après Zayd ibn Aslam (avec la même chaîne) : Ce hadith est rapporté avec la même chaîne de transmetteurs",
+          "tr": "{M-6} Bize arkadaşlarımızdan bir cemaatta Said b. Ebi Meryem'den rivayet ettiler. Demişki: Bize Ebu Gassan (bu zat Muhammed b. Mutarrif'dir), Zeyd b. Eslem'den naklen bu isnadla bu hadis'in mislini haber verdi"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "muslim",
+        "book": 47,
+        "hadith": 8
+      }
+    },
+    {
+      "hadithNumber": 6783,
+      "arabicNumber": "2669.03",
+      "book": 47,
+      "hadithInBook": 9,
+      "text": {
+        "arabic": "قَالَ أَبُو إِسْحَاقَ إِبْرَاهِيمُ بْنُ مُحَمَّدٍ حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى، حَدَّثَنَا ابْنُ أَبِي مَرْيَمَ، حَدَّثَنَا أَبُو غَسَّانَ، حَدَّثَنَا زَيْدُ بْنُ أَسْلَمَ، عَنْ عَطَاءِ بْنِ يَسَارٍ، ‏.‏ وَذَكَرَ الْحَدِيثَ نَحْوَهُ ‏.‏",
+        "translations": {
+          "en": "This hadith has been narrated on the authority of 'Ata' b. Yasir through another chain of transmitters",
+          "ur": "محمد بن یحییٰ نے کہا : ہمیں ابن ابی مریم نے حدیث بیان کی ، کہا : ہمیں ابوغسان نے حدیث بیان کی ، کہا : مجھے زید بن اسلم نے عطاء بن یسار سے حدیث بیان کی ، پھر اسی طرح حدیث سنائی ( جس طرح حفص بن میسرہ کی روایت ہے ۔)",
+          "fr": "Rapporté par Ata ibn Yasir (à travers une autre chaîne) : Ce hadith a été rapporté par une autre chaîne de transmetteurs",
+          "tr": "{M-6-2} Bize Ebu İshak İbrahim b. Muhammed (Dediki): Bize Muhammed b. Yahya rivayet etti. (Dediki): Bize İbni Ebi Meryem rivayet etti. (Dediki): Bize Ebu Gassan rivayet etti. (Dediki): Bize Zeyd b. Eslem, Ata' b. Yesar'dan rivayet etti. Ve hadisi yukarki gibi nakletmiştir"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "muslim",
+        "book": 47,
+        "hadith": 9
+      }
+    },
+    {
+      "hadithNumber": 6784,
+      "arabicNumber": "2670",
+      "book": 47,
+      "hadithInBook": 10,
+      "text": {
+        "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا حَفْصُ بْنُ غِيَاثٍ، وَيَحْيَى بْنُ سَعِيدٍ، عَنِ ابْنِ، جُرَيْجٍ عَنْ سُلَيْمَانَ بْنِ عَتِيقٍ، عَنْ طَلْقِ بْنِ حَبِيبٍ، عَنِ الأَحْنَفِ بْنِ قَيْسٍ، عَنْ عَبْدِ اللَّهِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ هَلَكَ الْمُتَنَطِّعُونَ ‏\"‏ ‏.‏ قَالَهَا ثَلاَثًا ‏.‏",
+        "translations": {
+          "en": "Abdullah reported Allah's Messenger (ﷺ) as saying:Ruined, were those who indulged in hair-splitting. He (the Holy Prophet) repeated this thrice",
+          "ur": "احنف بن قیس نے حضرت عبداللہ ( بن مسعود رضی اللہ عنہ ) سے روایت کی ، کہا : رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" غلو میں گہرے اترنے والے ہلاک ہو گئے ۔ \" آپ نے تین بار یہ بات ارشاد فرمائی ۔",
+          "fr": "Rapporté par Abdullah رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Sont perdus ceux qui s’adonnent à l’excès dans les discussions et les subtilités. » Il répéta cela trois fois",
+          "id": "Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Hafsh bin Ghiyats] dan [Yahya bin Sa'id] dari [Ibnu Juraij] dari [Sulaiman bin 'Atiq] dari [Thalq bin Habib] dari [Al Ahnaf bin Qais] dari ['Abdullah] dia berkata; \"RasuluIIah shallallahu 'alaihi wasallam teIah bersabda: 'Celakalah orang-orang yang suka melampaui batas.' (Beliau mengucapkannya tiga kali)",
+          "tr": "Bize Ebu Bekr b. Ebi Şeybe rivayet etti. (Dediki): Bize Hafs b. Gıyas ile Yahya b. Said, İbni Cüreyc'den, O da Süleyman b. Atik'den, oda Talk b. Habib'den o da Ahmed b. Kays'dan o da Abdullah'dan naklen rivayet ettiler. Şöyle demiş: Resûlullah (Sallallahu Aleyhi ve Sellem) ; ''Taşkınlar helak olmuştur.'' buyurdu. Bunu üç defa söyledi"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "muslim",
+        "book": 47,
+        "hadith": 10
+      }
+    },
+    {
+      "hadithNumber": 6785,
+      "arabicNumber": "2671.01",
+      "book": 47,
+      "hadithInBook": 11,
+      "text": {
+        "arabic": "حَدَّثَنَا شَيْبَانُ بْنُ فَرُّوخَ، حَدَّثَنَا عَبْدُ الْوَارِثِ، حَدَّثَنَا أَبُو التَّيَّاحِ، حَدَّثَنِي أَنَسُ بْنُ، مَالِكٍ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ مِنْ أَشْرَاطِ السَّاعَةِ أَنْ يُرْفَعَ الْعِلْمُ وَيَثْبُتَ الْجَهْلُ وَيُشْرَبَ الْخَمْرُ وَيَظْهَرَ الزِّنَا ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Anas b. Malik reported Allah's Messenger (ﷺ) as saying:It is from the conditions of the Last Hour that knowledge would be taken away and ignorance would prevail (upon the world), the liquor would be drunk, and adultery would become rampant",
+          "ur": "ابوتیاح نے ہمیں حدیث بیان کی ، کہا : ہمیں حضرت انس بن مالک رضی اللہ عنہ نے حدیث بیان کی ، کہا : رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" قیامت کی علامات میں سے یہ ( بھی ) ہیں کہ علم اٹھ جائے گا ، جہالت جاگزیں ہو جائے گی ، شراب پی جانے لگے گی اور زنا کھل کر ہونے لگے گا ۔",
+          "fr": "Rapporté par Anas ibn Malik رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Parmi les signes de la Fin des Temps, il y aura la disparition du savoir, l’ignorance qui dominera, l’alcool qui sera bu, et l’adultère qui deviendra courant. »",
+          "id": "Telah menceritakan kepada kami [Syaiban bin Farrukh] telah menceritakan kepada kami ['Abdul Warits] telah menceritakan kepada kami [Abu At Tayyah] telah menceritakan kepadaku [Anas bin Malik] dia berkata; Rasulullah Shallallahu'alaihi wa Sallam bersabda: \"Diantara tanda-tanda terjadinya hari kiamat yaitu: diangkatnya ilmu, kebodohan merajalela, banyaknya orang yang meminum minuman keras, dan zina dilakukan dengan terang-terangan",
+          "tr": "Bize Şeyban b. Ferrûh rivayet etti. (Dediki): Bize Abdü'l-Vâris rivayet etti, (Dediki): Bize Ebu't-Teyyah rivayet etti. (Dediki): Bana Enes b. Mâlik rivayet etti. (Dediki): Resûlullah (Sallallahu Aleyhi ve Sellem) ; «Kıyamet alâmetlerinden bâzıları İlm'in kaldırılması, cehlin subut bulması, şarab'ın içilmesi ve zina'nın açığa çıkması dır.» buyurdular"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "muslim",
+        "book": 47,
+        "hadith": 11
+      }
+    },
+    {
+      "hadithNumber": 6786,
+      "arabicNumber": "2671.02",
+      "book": 47,
+      "hadithInBook": 12,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، وَابْنُ، بَشَّارٍ قَالاَ حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، سَمِعْتُ قَتَادَةَ، يُحَدِّثُ عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ أَلاَ أُحَدِّثُكُمْ حَدِيثًا سَمِعْتُهُ مِنْ، رَسُولِ اللَّهِ صلى الله عليه وسلم لاَ يُحَدِّثُكُمْ أَحَدٌ بَعْدِي سَمِعَهُ مِنْهُ ‏ \"‏ إِنَّ مِنْ أَشْرَاطِ السَّاعَةِ أَنْ يُرْفَعَ الْعِلْمُ وَيَظْهَرَ الْجَهْلُ وَيَفْشُوَ الزِّنَا وَيُشْرَبَ الْخَمْرُ وَيَذْهَبَ الرِّجَالُ وَتَبْقَى النِّسَاءُ حَتَّى يَكُونَ لِخَمْسِينَ امْرَأَةً قَيِّمٌ وَاحِدٌ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Qatida reported that Anas b. Malik said:May I not narrate to you a hadith which I heard from Allah's Messenger (ﷺ) which no one would narrate to you after me who would have personally heard it from him (the Holy Prophet) (as I have the good fortune to do so)? -\" It is from the signs of the Last Hour that knowledge would be taken away, ignorance would prevail upon (the world), adultery would become common, wine would be drunk, the number of men will fall short and the women would survive (and thus such a disparity would arise in the number of men and women) that there would be one man to look after fifty women",
+          "ur": "شعبہ نے کہا : میں نے قتادہ کو حضرت انس بن مالک رضی اللہ عنہ سے حدیث بیان کرتے ہوئے سنا ، انہوں نے کہا : کیا میں تمہیں رسول اللہ صلی اللہ علیہ وسلم سے سنی ہوئی ایک حدیث بیان نہ کروں؟ یہ حدیث میرے بعد تم کو کوئی ایسا شخص نہیں بیان کرے گا جس نے وہ آپ صلی اللہ علیہ وسلم سے ( براہ راست ) سنی ہو : \" قیامت کی نشانیوں میں سے ہے کہ علم اٹھ جائے گا ، جہالت نمایاں ہو جائے گی ، زنا پھیل جائے گا ، شراب پی جانے لگی گی ، مرد رخصت ہو جائیں گے اور عورتیں باقی رہ جائیں گی یہاں تک کہ پچاس عورتوں کے معاملات کا نگران ایک رہ جائے گا ۔",
+          "fr": "Rapporté par Qatada d’après Anas ibn Malik رضي الله عنه : Anas a dit : « Voulez-vous que je vous raconte un hadith que j’ai entendu du Messager d’Allah ﷺ, et que personne après moi ne pourra vous rapporter en l’ayant entendu directement de lui ? » — « Parmi les signes de la Fin des Temps, il y aura la disparition du savoir, l’ignorance qui dominera, l’adultère qui deviendra courant, l’alcool qui sera bu, le nombre d’hommes diminuera et les femmes seront plus nombreuses, au point qu’il y aura un homme pour cinquante femmes. »",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basysyar] mereka berdua berkata; telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] aku mendengar [Qatadah] bercerita dari [Anas bin Malik] dia berkata; \"Ketahuilah, saya akan memberitahukan kepada kalian suatu hadits yang pernah saya dengar dari Rasulullah shallallahu 'alaihi wasallam yang tidak akan ada seorang pun yang menceritakan kembali kepada kalian sepeninggal saya kelak. Beliau telah bersabda: 'Di antara tanda-tanda kiamat adalah hilangnya ilmu (keIslaman), maraknya kebodohan, merajalelanya perzinaan, banyaknya orang yang meminum minuman keras, berkurangnya populasi kaum pria dan bertambahnya kaum wanita, hingga akhirnya seorang pria akan menjadi penanggungjawab bagi lima puluh orang wanita.' Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Muhammad bin Bisyr] Demikian juga diriwayatkan dari jalur lainnya, dan telah menceritakan kepada kami [Abu Kuraib] telah menceritakan kepada kami ['Abdah] dan [Abu Usamah] semuanya dari [Sa'id bin Abu 'Urwah] dari [Qatadah] dari [Anas bin Malik] dari Nabi Shallalahu 'Alaihi Wasallam. Dan di dalam hadits Ibnu Bisyr dan 'Abdah disebutkan; yang tidak seorangpun menceritakannya kepada kalian sepeninggalku; Aku mendengar Rasulullah shallallahu 'alaihi wasallam berkata -lalu dia menyebutkan Hadits yang serupa",
+          "tr": "Bize Muhammud b. Müsennâ ile İhni Beşşâr rivayet ettiler. (Dedilerki): Bize Muhammed b. Ca'fer rivayet etti. (Dediki): Bize Şu'be rivayet etti. (Dediki): Katâde'yi, Enes b. Mâlik'den naklen rivayet ederken dinledim. Enes şöyle demiş: Size Resûlullah (Sallallahu Aleyhi ve Sellem)'den dinlediğim bir hadîsi rivayet edeyim mi? Onu kendisinden işitmiş olarak benden sonra size hiç bir kimse rivayet etmez : «Şüphesiz ki, kıyâmet alâmetlerinden bâzıları ilm'in kaldırılması, cehlin zuhur etmesi, zinanın alıp yürümesi, şarabın içilmesi ve erkekler giderek kadınların kalmasıdır. Hattâ elli kadına bakacak bir kayyım olacaktır.» buyurdular"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "muslim",
+        "book": 47,
+        "hadith": 12
+      }
+    },
+    {
+      "hadithNumber": 6787,
+      "arabicNumber": "2671.03",
+      "book": 47,
+      "hadithInBook": 13,
+      "text": {
+        "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا مُحَمَّدُ بْنُ بِشْرٍ، ح وَحَدَّثَنَا أَبُو كُرَيْبٍ، حَدَّثَنَا عَبْدَةُ، وَأَبُو أُسَامَةَ كُلُّهُمْ عَنْ سَعِيدِ بْنِ أَبِي عَرُوبَةَ، عَنْ قَتَادَةَ، عَنْ أَنَسِ بْنِ مَالِكٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم ‏.‏ وَفِي حَدِيثِ ابْنِ بِشْرٍ وَعَبْدَةَ لاَ يُحَدِّثُكُمُوهُ أَحَدٌ بَعْدِي سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ فَذَكَرَ بِمِثْلِهِ ‏.‏",
+        "translations": {
+          "en": "This hadith has been transmitted on the authority of Anas b. Malik through another chain of narrators, but with a slight variation of wording",
+          "ur": "محمد بن بشر ، عبدہ اور ابواسامہ ، ان سب نے سعید بن ابی عروبہ سے روایت کی ، انہوں نے قتادہ سے ، انہوں نے حضرت انس بن مالک رضی اللہ عنہ سے اور انہوں نے نبی صلی اللہ علیہ وسلم سے روایت کی ۔ ابن بشر اور عبدہ کی حدیث میں ہے : میرے بعد یہ حدیث تمہیں کوئی نہیں سنائے گا ۔ میں نے ( خود ) رسول اللہ صلی اللہ علیہ وسلم کو یہ فرماتے ہوئے سنا ، پھر اسی ( شعبہ کی حدیث ) کے مانند بیان کیا ۔",
+          "fr": "Rapporté par Anas b. Malik : Ce hadith a été transmis par Anas b. Malik à travers une autre chaîne de transmetteurs, avec une légère variation dans les mots",
+          "tr": "{M-9} Bize Ehû Bekr b. Ebî Şeybe rivayet etti. (Dediki): Bize Hammed b. Bişr rivayet etti. H. Bize Ebû Kureyb de rivayet etti. (Dediki): Bize Abde ile Usâme rivayet ettiler. Bu râvilerin hepsi Saîd b. Ebî Arûbe'den, o da Katâde'den, o da Enes b. Mâlik'den, o da Nebi (Sallallahu Aleyhi ve Sellem)'den naklen rivayet etmişlerdir. İbnü Bişr ile Abde'nin hadîslerinde: «Onu size benden sonra kimse rivayet etmez. Ben Resûlullah (Sallallahu Aleyhi ve Sellem)'i şöyle buyururken işittim...» ibaresi vardır. Ve râvi hadîsi yukarki gibi anlatmıştır. İZAH 2673 TE"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "muslim",
+        "book": 47,
+        "hadith": 13
+      }
+    },
+    {
+      "hadithNumber": 6788,
+      "arabicNumber": "2672.01",
+      "book": 47,
+      "hadithInBook": 14,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ نُمَيْرٍ، حَدَّثَنَا وَكِيعٌ، وَأَبِي، قَالاَ حَدَّثَنَا الأَعْمَشُ، ح وَحَدَّثَنِي أَبُو سَعِيدٍ الأَشَجُّ، - وَاللَّفْظُ لَهُ - حَدَّثَنَا وَكِيعٌ، حَدَّثَنَا الأَعْمَشُ، عَنْ أَبِي وَائِلٍ، قَالَ كُنْتُ جَالِسًا مَعَ عَبْدِ اللَّهِ وَأَبِي مُوسَى فَقَالاَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ إِنَّ بَيْنَ يَدَىِ السَّاعَةِ أَيَّامًا يُرْفَعُ فِيهَا الْعِلْمُ وَيَنْزِلُ فِيهَا الْجَهْلُ وَيَكْثُرُ فِيهَا الْهَرْجُ وَالْهَرْجُ الْقَتْلُ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Abu Wa'il reported:I was sitting with 'Abdullah and Abu Musa that they reported Allah's Messenger (ﷺ) having said: Prior to the Last Hour, there would be a time when knowledge would be taken away, and ignorance would take its place and there would be bloodshed on a large scale",
+          "ur": "وکیع اور عبداللہ بن نمیر نے کہا : ہمیں اعمش نے ابووائل سے حدیث بیان کی ، کہا : میں حضرت عبداللہ بن مسعود اور حضرت ابوموسی رضی اللہ عنہ کے پاس بیٹھا ہوا تھا ، ان دونوں نے بیان کیا کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" قیامت سے کچھ عرصہ پہلے وہ ایام ہوں گے جن میں علم اٹھ جائے گا ، جہل طاری ہو جائے گا اور ان دنوں ہرج کی کثرت ہو جائے گی اور ہرج ( سے مراد ) لوگوں کا قتل ہے ۔",
+          "fr": "Rapporté par Abu Wa'il : J’étais assis avec 'Abdullah et Abu Musa lorsqu’ils ont rapporté que le Messager d’Allah ﷺ a dit : « Avant la Fin des Temps, il y aura une période où la connaissance disparaîtra, l’ignorance prendra sa place et il y aura beaucoup de sang versé. »",
+          "tr": "Bize Muhammed b. Abdillah b. Numeyr rivayet etti. (Dediki): Bize Veki' ile babam rivayet ettiler. (Dedilerki): Bize A'meş rivayet etti. H. Bana Ebû Saîd El-Eşec de rivayet etti. Lâfız onundur. (Dediki): Bize Veki' rivayet etti. (Dediki): Bize A'meş, Ebû Vâil'den rivayet etti. (Demişki): Abdullah ve Ebû Musa ile birlikte oturuyordum. Şunu söylediler: Resûlullah (Sallallahu Aleyhi ve Sellem) ; «Şüphesiz kıyametin önünde öyle günler vardır ki, o günlerde ilim kaldırılacak, cehil inecek, o günlerde here çoğalacaktır. Here katildir.» buyurdular"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "muslim",
+        "book": 47,
+        "hadith": 14
+      }
+    },
+    {
+      "hadithNumber": 6789,
+      "arabicNumber": "2672.02",
+      "book": 47,
+      "hadithInBook": 15,
+      "text": {
+        "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ النَّضْرِ بْنِ أَبِي النَّضْرِ، حَدَّثَنَا أَبُو النَّضْرِ، حَدَّثَنَا عُبَيْدُ اللَّهِ الأَشْجَعِيُّ، عَنْ سُفْيَانَ، عَنِ الأَعْمَشِ، عَنْ أَبِي وَائِلٍ، عَنْ عَبْدِ اللَّهِ، وَأَبِي، مُوسَى الأَشْعَرِيِّ قَالاَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ح وَحَدَّثَنِي الْقَاسِمُ بْنُ زَكَرِيَّاءَ، حَدَّثَنَا حُسَيْنٌ الْجُعْفِيُّ، عَنْ زَائِدَةَ، عَنْ سُلَيْمَانَ، عَنْ شَقِيقٍ، قَالَ كُنْتُ جَالِسًا مَعَ عَبْدِ اللَّهِ وَأَبِي مُوسَى وَهُمَا يَتَحَدَّثَانِ فَقَالاَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم بِمِثْلِ حَدِيثِ وَكِيعٍ وَابْنِ نُمَيْرٍ ‏.‏",
+        "translations": {
+          "en": "This hadith has been narrated on the authority of 'Abdullah (b. Mas'ud) and Abu Musa (al-Asha'ri) through other chains of transmitters",
+          "ur": "سفیان اور زائدہ نے ( سلیمان ) اعمش سے اور انہوں نے ( ابووائل ) شقیق سے روایت کی ، انہوں نے کہا : میں عبداللہ ( بن مسعود ) اور ابوموسیٰ رضی اللہ عنہ کے پاس بیٹھا ہوا تھا ، وہ دونوں احادیث بیان کر رہے تھے تو دونوں نے کہا : رسول اللہ صلی اللہ علیہ وسلم نے فرمایا ، وکیع اور ابن نمیر کی حدیث کے مانند ۔",
+          "fr": "Rapporté par 'Abdullah (b. Mas'ud) et Abu Musa (al-Asha'ri) : Ce hadith a été rapporté par 'Abdullah (b. Mas'ud) et Abu Musa (al-Asha'ri) à travers d’autres chaînes de transmetteurs",
+          "id": "Telah menceritakan kepada kami [Muhammad bin 'Abdullah bin Numair] telah menceritakan kepada kami [Waki'] dan [bapakku], mereka berdua berkata; telah menceritakan kepada kami [Al A'masy] Demikian juga diriwayatkan dari jalur lainnya, dan telah menceritakan kepadaku [Abu Sa'id Al Asyaj] -dan lafadh ini miliknya- telah menceritakan kepada kami [Waki'] telah menceritakan kepada kami [Al A'masy] dari [Abu Wail] dia berkata; aku pernah duduk bersama ['Abdullah] dan [Abu Musa], mereka berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Sesungguhnya sebelum hari kiamat ada beberapa hari yang didalamnya ilmu dihilangkan, kebodohan merajalela, dan banyaknya pembunuhan.\" Telah menceritakan kepada kami [Abu Bakr bin An Nadhr bin Abu An Nadhr] telah menceritakan kepada kami [Abu An Nadhr] telah menceritakan kepada kami ['Ubaidullah Al Asyja'i] dari [Sufyan] dari [Al A'masy] dari [Abu Wail] dari ['Abdullah] dan [Abu Musa Al Asy'ari] mereka berdua berkata; Rasulullah shallallahu 'alaihi wasallam bersabda; Demikian juga diriwayatkan dari jalur lainnya, dan telah menceritakan kepadaku [Al Qasim bin Zakariya] telah menceritakan kepada kami [Husain Al Ju'fi] dari [Zaidah] dari [Sulaiman] dari [Syaqiq] dia berkata; aku pernah duduk bersama ['Abdullah] dan [Abu Musa] dan keduanya saling bercerita, maka mereka berkata; Rasulullah shallallahu 'alaihi wasallam bersabda seperti hadits Waki' dan Ibnu Numair. Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Abu Kuraib] dan [Ibnu Numair] dan [Ishaq Al Hanzhali] semuanya dari [Abu Mu'awiyah] dari [Al A'masy] dari [Syaqiq] dari [Abu Musa] dari Nabi shallallahu 'alaihi wasallam seperti hadits Ishaq bin Ibrahim. Telah mengabarkan kepada kami [Jarir] dari [Al A'masy] dari [Abu Wail] dia berkata; sesungguhnya aku pernah duduk bersama ['Abdullah] dan [Abu Musa] dan keduanya saling bercerita, maka Abu Musa berkata; Rasulullah shallallahu 'alaihi wasallam bersabda -dengan Hadits yang sama",
+          "tr": "{M-10} Bize Ebû Bekr b. Nadr b. Ebî'n-Nadr rivayet etti. (Dediki): Bize Ebu'n-Nadr rivayet etti. (Dediki): Bize Ubeydullah El-Eşcaî, Süfyân'dan, o da A'meş'den, o da Ebû Vail'den, o da Abdullah ile Ebû Musa'I-Eş'arî'den naklen rivayet etti. Şöyle demişler: Resûlullah (Sallallahu Aleyhi ve Sellem) buyurduki... H. Bana Kasım b. Zekeriyya da rivayet etti. (Dediki); Bize Huseyn EI-Cu'fi, Zâide'den, o da Süleyman'dan, o da Şakîk'den naklen rivayet etti. Şöyle demiş: Abdullah ve Ebû Musa ile birlikte oturuyordum. Onlar konuşuyorlardı. Ve: Resûlullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, dediler. Râvi, Veki' ile İbni Numeyr'm hadîsi gibi rivayette bulunmuştur"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "muslim",
+        "book": 47,
+        "hadith": 15
+      }
+    },
+    {
+      "hadithNumber": 6790,
+      "arabicNumber": "2672.03",
+      "book": 47,
+      "hadithInBook": 16,
+      "text": {
+        "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَأَبُو كُرَيْبٍ وَابْنُ نُمَيْرٍ وَإِسْحَاقُ الْحَنْظَلِيُّ جَمِيعًا عَنْ أَبِي مُعَاوِيَةَ، عَنِ الأَعْمَشِ، عَنْ شَقِيقٍ، عَنْ أَبِي مُوسَى، عَنِ النَّبِيِّ صلى الله عليه وسلم بِمِثْلِهِ ‏.‏",
+        "translations": {
+          "en": "A hadith like this has been narrated on the authority of Abu Musa through another chain of transmitters",
+          "ur": "ابومعاویہ نے اعمش سے ، انہوں نے شقیق سے ، انہوں نے ابوموسیٰ رضی اللہ عنہ سے اور انہوں نے نبی صلی اللہ علیہ وسلم سے اسی کے مانند روایت کی ۔",
+          "fr": "Rapporté par Abu Musa : Un hadith similaire a été rapporté par Abu Musa à travers une autre chaîne de transmetteurs",
+          "tr": "{M-10-2} Bize Ebû Bekr b. Ebî Şeybe ile Ebû Kureyb, ibni Numeyr ve İshâk El-Hanzalî toptan Ebû Muâviye'den, o da A'meş'den, o da Şakîk'dan, o da Ebû Musa'dan, o da Nebi (Sallallahu Aleyhi ve Sellem)'den naklen bu hadîsin mislini rivayet ettiler"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "muslim",
+        "book": 47,
+        "hadith": 16
+      }
+    },
+    {
+      "hadithNumber": 6791,
+      "arabicNumber": "2672.04",
+      "book": 47,
+      "hadithInBook": 17,
+      "text": {
+        "arabic": "حَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، أَخْبَرَنَا جَرِيرٌ، عَنِ الأَعْمَشِ، عَنْ أَبِي وَائِلٍ، قَالَ إِنِّي لَجَالِسٌ مَعَ عَبْدِ اللَّهِ وَأَبِي مُوسَى وَهُمَا يَتَحَدَّثَانِ فَقَالَ أَبُو مُوسَى قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم بِمِثْلِهِ ‏.‏",
+        "translations": {
+          "en": "Abu Wa'il reported:I was sitting with Abu Musa and 'Abdullah and they were conversing with each other and Abu Musa reported Allah's Messenger (ﷺ) as saying (that we find in the above-mentioned ahadith)",
+          "ur": "جریر نے اعمش سے ، انہوں نے ابووائل سے روایت کی ، کہا : میں حضرت عبداللہ بن مسعود اور حضرت ابوموسیٰ رضی اللہ عنہ کے ساتھ بیٹھا ہوا تھا ، وہ دونوں احادیث بیان کر رہے تھے تو حضرت ابوموسیٰ رضی اللہ عنہ نے کہا : رسول اللہ صلی اللہ علیہ وسلم نے فرمایا ، اسی ( سابقہ حدیث ) کے مانند ۔",
+          "fr": "Rapporté par Abu Wa'il : J’étais assis avec Abu Musa et 'Abdullah, ils discutaient ensemble et Abu Musa a rapporté que le Messager d’Allah ﷺ a dit ce qui est mentionné dans les hadiths ci-dessus",
+          "tr": "{M-10-3} Bize İshâk b. İbrahim rivayet etti, (Dediki): Bize Cerir A'meş'den, o da Ebû Vâil'den naklen haber verdi. (Şöyle demiş): Ben Abdullah ve Ebû Musa ile birlikte oturuyordum. Onlar konuşuyorlardı. Ebû Musa şöyle dedi: Resûlullah (Sallallahu Aleyhi ve Sellem) buyurdular ki... Râvi yukarkİ hadîsin mislini anlatmıştır. İZAH 2673 TE"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "muslim",
+        "book": 47,
+        "hadith": 17
+      }
+    },
+    {
+      "hadithNumber": 6793,
+      "arabicNumber": "157.05",
+      "book": 47,
+      "hadithInBook": 18,
+      "text": {
+        "arabic": "حَدَّثَنِي حَرْمَلَةُ بْنُ يَحْيَى، أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ، حَدَّثَنِي حُمَيْدُ بْنُ عَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ، أَنَّ أَبَا هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ يَتَقَارَبُ الزَّمَانُ وَيُقْبَضُ الْعِلْمُ وَتَظْهَرُ الْفِتَنُ وَيُلْقَى الشُّحُّ وَيَكْثُرُ الْهَرْجُ ‏\"‏ ‏.‏ قَالُوا وَمَا الْهَرْجُ قَالَ ‏\"‏ الْقَتْلُ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Abu Huraira reported Allah's Messenger (ﷺ) as saying:(When) the time would draw close to the Last Hour, knowledge would be snatched away, turmoil would be rampant, miserliness would be put (in the hearts of the people) and therewould be much bloodshed. They said: What is al-harj? Thereupon he said: It is bloodshed",
+          "ur": "شعیب نے زہری سے روایت کی ، انہوں نے کہا : مجھے حمید بن عبدالرحمٰن زہری نے حدیث بیان کی کہ حضرت ابوہریرہ رضی اللہ عنہ نے کہا : رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" زمانہ باہم قریب ہو جائے گا اور علم کم ہو جائے گا ۔ \" پھر اسی کے مانند بیان کیا ۔",
+          "fr": "Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « Quand la Fin des Temps approchera, la connaissance sera retirée, les troubles seront nombreux, l’avarice s’installera dans les cœurs et il y aura beaucoup de sang versé. » Ils ont demandé : « Qu’est-ce que al-harj ? » Il a répondu : « C’est le sang versé. »",
+          "tr": "Bana Harmele b, Yahya rivayet etti. (Dediki): Bize İbni Vehb haber verdi. (Dediki): Bana Yûnus, İbni Şihab'dan naklen haber verdi. (Demişki): Bana Humeyd b. Abdirrahman b. Avf rivayet ettiki: Ebû Hureyre şunu söylemiş: Resûlullah (Sallallahu Aleyhi ve Sellem): «Zaman yaklaşacak, ilim alınacak, fitneler zuhur edecek, cimrilik yerleşecek ve herc çoğalacaktır.» buyurdu. Ashâb : — Herc nedir? diye sordular. «Katildir...» buyurdu"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "muslim",
+        "book": 47,
+        "hadith": 18
+      }
+    },
+    {
+      "hadithNumber": 6794,
+      "arabicNumber": "157.06",
+      "book": 47,
+      "hadithInBook": 19,
+      "text": {
+        "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ عَبْدِ الرَّحْمَنِ الدَّارِمِيُّ، أَخْبَرَنَا أَبُو الْيَمَانِ، أَخْبَرَنَا شُعَيْبٌ، عَنِ الزُّهْرِيِّ، حَدَّثَنِي حُمَيْدُ بْنُ عَبْدِ الرَّحْمَنِ الزُّهْرِيُّ، أَنَّ أَبَا هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ يَتَقَارَبُ الزَّمَانُ وَيُقْبَضُ الْعِلْمُ ‏\"‏ ‏.‏ ثُمَّ ذَكَرَ مِثْلَهُ ‏.‏",
+        "translations": {
+          "en": "This hadith has been transmitted on the authority of Abu Huraira with a slight variation of wording",
+          "ur": "معمر نے زہری سے ، انہوں نے سعید ( بن مسیب ) سے ، انہوں نے حضرت ابوہریرہ رضی اللہ عنہ سے اور انہوں نے نبی صلی اللہ علیہ وسلم سے روایت کی کہ آپ نے فرمایا : \" زمانہ باہم قریب ہو جائے گا اور علم اٹھا لیا جائے گا ۔ \" پھر ان دونوں ( یونس اور شعیب ) کی حدیث کے مانند بیان کیا ۔",
+          "fr": "Rapporté par Abu Huraira : Ce hadith a été transmis par Abu Huraira avec une légère variation dans les mots",
+          "tr": "(Bize Muhammed b. Râfi' dahi rivâyet etti. ki): Bize Abdür-rezzak rivâyet etti. ki): Bize Ma'mer, Hammad b. Münebbih'den, o da Ebû Hüreyre'den naklen rivâyet etti. H"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "muslim",
+        "book": 47,
+        "hadith": 19
+      }
+    },
+    {
+      "hadithNumber": 6795,
+      "arabicNumber": "157.08",
+      "book": 47,
+      "hadithInBook": 21,
+      "text": {
+        "arabic": "حَدَّثَنَا يَحْيَى بْنُ أَيُّوبَ، وَقُتَيْبَةُ، وَابْنُ، حُجْرٍ قَالُوا حَدَّثَنَا إِسْمَاعِيلُ، - يَعْنُونَ ابْنَ جَعْفَرٍ - عَنِ الْعَلاَءِ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، ح وَحَدَّثَنَا ابْنُ نُمَيْرٍ، وَأَبُو كُرَيْبٍ وَعَمْرٌو النَّاقِدُ قَالُوا حَدَّثَنَا إِسْحَاقُ بْنُ سُلَيْمَانَ، عَنْ حَنْظَلَةَ، عَنْ سَالِمٍ، عَنْ أَبِي هُرَيْرَةَ، ح وَحَدَّثَنَا مُحَمَّدُ بْنُ رَافِعٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، حَدَّثَنَا مَعْمَرٌ، عَنْ هَمَّامِ بْنِ مُنَبِّهٍ، عَنْ أَبِي هُرَيْرَةَ، ح وَحَدَّثَنِي أَبُو الطَّاهِرِ، أَخْبَرَنَا ابْنُ وَهْبٍ، عَنْ عَمْرِو بْنِ الْحَارِثِ، عَنْ أَبِي يُونُسَ، عَنْ أَبِي هُرَيْرَةَ، كُلُّهُمْ قَالَ عَنِ النَّبِيِّ صلى الله عليه وسلم ‏.‏ بِمِثْلِ حَدِيثِ الزُّهْرِيِّ عَنْ حُمَيْدٍ عَنْ أَبِي هُرَيْرَةَ غَيْرَ أَنَّهُمْ لَمْ يَذْكُرُوا ‏ \"‏ وَيُلْقَى الشُّحُّ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "This hadith has been transmitted on the authority of Abu Huraira through other chains of narrators and there is no mention of:\" Miserliness would be put (in the hearts of the people)",
+          "ur": "علاء کے والد عبدالرحمٰن ، سالم ، ہمام بن منبہ اور ابویونس سب نے حضرت ابوہریرہ رضی اللہ عنہ سے روایت کی ، کہا : نبی صلی اللہ علیہ وسلم سے روایت ہے ، جس طرح زہری نے حمید سے اور انہوں نے حضرت ابوہریرہ رضی اللہ عنہ سے روایت کی مگر انہوں نے یہ بیان نہیں کیا : \" اور ( دلوں میں ) بخل اور حرص ڈال دیا جائے گا ۔",
+          "fr": "Rapporté par Abu Huraira : Ce hadith a été transmis par Abu Huraira à travers d’autres chaînes de transmetteurs, sans mentionner : « L’avarice s’installera dans les cœurs des gens. »",
+          "tr": "{M-12} Bize Yahya b. Eyyûb ile Kuteybe ve îbni Hucur rivayet ettiler. (Dedilerki): Bize İsmail (yâni İbni Ca'fer) Alâ'dan, o da babasından, o da Ebû Hureyre'den naklen rivayet etti. H. Bize İbni Numeyr ile Ebû Kureyb ve Amru'n-Nâkid da rivayet ettiler. (Dedilerki): Bize İshâk b. Süleyman, Hanzele'den, o da Sâlim'den, o da Ebû Hureyre'dcn naklen rivayet etti. H. Bize Muhammed b. Râfi' dahî rivayet etti. (Dediki): Bize Abdürrezzak rivayet etti. (Dediki): Bize Ma'mer, Hemmam b. Münebbih'den, o da Ebû Hureyre'den naklen rivayet etti. II. Bana Ebu't-Tahir dahi rivayet etti. (Dediki): Bize İbni Vehb Amr b. Hâris'den, o da Ebû Yûnus'tan, o da Ebû Hureyre'den naklen haber verdi. Bu râvilerin hepsi Zührî'nin Humeyd'den, onun da Ebû Hureyre'den rivayet ettiği hadîs gibi: «Nebi (Sallallahu Aleyhi ve Sellenı)'den» dediler. Yalnız onlar: «Cimrilik yerleştirilir...» cümlesini anmadılar. İZAH 2673 TE"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "muslim",
+        "book": 47,
+        "hadith": 21
+      }
+    },
+    {
+      "hadithNumber": 6796,
+      "arabicNumber": "2673.01",
+      "book": 47,
+      "hadithInBook": 22,
+      "text": {
+        "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا جَرِيرٌ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، سَمِعْتُ عَبْدَ، اللَّهِ بْنَ عَمْرِو بْنِ الْعَاصِ يَقُولُ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏ \"‏ إِنَّ اللَّهَ لاَ يَقْبِضُ الْعِلْمَ انْتِزَاعًا يَنْتَزِعُهُ مِنَ النَّاسِ وَلَكِنْ يَقْبِضُ الْعِلْمَ بِقَبْضِ الْعُلَمَاءِ حَتَّى إِذَا لَمْ يَتْرُكْ عَالِمًا اتَّخَذَ النَّاسُ رُءُوسًا جُهَّالاً فَسُئِلُوا فَأَفْتَوْا بِغَيْرِ عِلْمٍ فَضَلُّوا وَأَضَلُّوا ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Abdullah b. 'Amr b. al-'As reported Allah's Messenger (ﷺ) as saying:Verily, Allah does not take away knowledge by snatching it from the people but He takes away knowledge by taking away the scholars, so that when He leaves no learned person, people turn to the ignorant as their leaders; then they are asked to deliver religious verdicts and they deliver them without knowledge, they go astray, and lead others astray",
+          "ur": "جریر نے ہشام بن عروہ سے اور انہوں نے اپنے والد سے روایت کی ، انہوں نے کہا : میں نے حضرت عبداللہ بن عمرو بن عاص رضی اللہ عنہ کو کہتے ہوئے سنا کہ میں نے رسول اللہ صلی اللہ علیہ وسلم سے سنا ، آپ فرماتے تھے : \" اللہ تعالیٰ علم کو لوگوں سے چھینتے ہوئے نہیں اٹھائے گا بلکہ وہ علماء کو اٹھا کر علم کو اٹھا لے گا حتی کہ جب وہ ( لوگوں میں ) کسی عالم کو ( باقی ) نہیں چھوڑے گا تو لوگ ( دین کے معاملات میں بھی ) جاہلوں کو اپنے سربراہ بنا لیں گے ۔ ان سے ( دین کے بارے میں ) سوال کیے جائیں گے تو وہ علم کے بغیر فتوے دیں گے ، اس طرح خود بھی گمراہ ہوں گے اور دوسروں کو بھی گمراہ کریں گے ۔",
+          "fr": "Rapporté par 'Abdullah b. 'Amr b. al-'As : Le Messager d’Allah ﷺ a dit : « En vérité, Allah ne retire pas la connaissance en l’arrachant aux gens, mais Il la retire en faisant disparaître les savants. Quand il ne reste plus de savant, les gens prennent des ignorants comme chefs ; on leur demande des avis religieux, ils les donnent sans connaissance, s’égarent eux-mêmes et égarent les autres. »",
+          "id": "Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Jarir] dari [Hisyam bin 'Urwah] dari [bapaknya]; aku mendengar ['Abdullah bin 'Amr bin Al 'Ash] berkata; \"Saya pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: 'Allah Azza wa Jalla menghapuskan ilmu agama tidak dengan cara mencabutnya secara langsung dari hati umat manusia. Tetapi Allah akan menghapuskan ilmu agama dengan mewafatkan para ulama, hingga tidak ada seorang ulama pun yang akan tersisa. Kemudian mereka akan mengangkat para pemimpin yang bodoh. Apabila mereka, para pemimpin bodoh itu dimintai fatwa, maka mereka akan berfatwa tanpa berlandaskan ilmu hingga mereka tersesat dan menyesatkan.' Telah menceritakan kepada kami [Abu Ar Rabi' Al 'Atki] telah menceritakan kepada kami [Hammad bin Zaid] Demikian juga diriwayatkan dari jalur lainnya, dan telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami ['Abbad bin 'Abbad] dan [Abu Mu'awiyah] Demikian juga diriwayatkan dari jalur lainnya, dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Zuhair bin Harb] mereka berkata; telah menceritakan kepada kami [Waki'] Demikian juga diriwayatkan dari jalur lainnya, dan telah menceritakan kepada kami [Abu Kuraib] telah menceritakan kepada kami [Ibnu Idris] dan [Abu Usamah] dan [Ibnu Numair] dan ['Abdah] Demikian juga diriwayatkan dari jalur lainnya, dan telah menceritakan kepada kami [Ibnu Abu 'Umar] telah menceritakan kepada kami [Sufyan] Demikian juga diriwayatkan dari jalur lainnya, dan telah menceritakan kepadaku [Muhammad bin Hatim] telah menceritakan kepada kami [Yahya bin Sa'id] Demikian juga diriwayatkan dari jalur lainnya, dan telah menceritakan kepadaku [Abu Bakr bin Nafi'] dia berkata; Telah menceritakan kepada kami ['Umar bin 'Ali] Demikian juga diriwayatkan dari jalur lainnya, dan telah menceritakan kepada kami ['Abd bin Humaid] telah menceritakan kepada kami [Yazid bin Harun] telah mengabarkan kepada kami [Syu'bah bin Al Hajjaj] semuanya dari [Hisyam bin 'Urwah] dari [bapaknya] dari ['Abdullah bin 'Amr] dari Nabi shallallahu 'alaihi wasallam yang sama dengan Hadits Jarir. Namun di dalam Hadits [Umar bin Ali] ada tambahan kalimat; 'kemudian di akhir tahun aku bertemu dengan [Abdullah bin Amru], lalu aku tanyakan kepadanya tentang hadist di atas, dan dia menjawab dengan Hadits yang telah diceritakannya itu. Dia berkata; aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda. Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami ['Abdullah bin Humran] dari ['Abdul Hamid bin Ja'far] telah mengabarkan kepadaku [ayahku, Ja'far] dari ['Umar bin Al Hakim] dari ['Abdullah bin 'Amr bin Al 'Ash] dari Nabi shallallahu 'alaihi wasallam yang serupa dengan Hadits Hisyam bin Urwah",
+          "tr": "Bize Kuteybe b. Saîd rivayet etti. (Dediki): Bize Cerîr, Hişam b. Urve'den, o da babasından naklen rivayet etti. (Demişki): Ben Abdullah b. Amr b. Âs'ı şöyle derken işittim. Resûlullah (Sallallahu Aleyhi ve Sellem)'i «Şüphesiz Allah ilmi insanlardan çekip alıvermez. Lâkin ilmi, ulemâyı almakla kaldırır. Nihayet hiç bir âlim bırakmadığı vakit, İnsanlar bir takım cahilleri baş edinirler. Onlara sual sorulur, ilimsiz fetva verirler; bu suretle hem saparlar, hem saptırırlar.» buyururken İşittim"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "muslim",
+        "book": 47,
+        "hadith": 22
+      }
+    },
+    {
+      "hadithNumber": 6797,
+      "arabicNumber": "2673.02",
+      "book": 47,
+      "hadithInBook": 23,
+      "text": {
+        "arabic": "حَدَّثَنَا أَبُو الرَّبِيعِ الْعَتَكِيُّ، حَدَّثَنَا حَمَّادٌ يَعْنِي ابْنَ زَيْدٍ، ح وَحَدَّثَنَا يَحْيَى بْنُ يَحْيَى، أَخْبَرَنَا عَبَّادُ بْنُ عَبَّادٍ، وَأَبُو مُعَاوِيَةَ ح وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَزُهَيْرُ بْنُ حَرْبٍ، قَالاَ حَدَّثَنَا وَكِيعٌ، ح وَحَدَّثَنَا أَبُو كُرَيْبٍ، حَدَّثَنَا ابْنُ إِدْرِيسَ، وَأَبُو أُسَامَةَ وَابْنُ نُمَيْرٍ وَعَبْدَةُ ح وَحَدَّثَنَا ابْنُ أَبِي عُمَرَ، حَدَّثَنَا سُفْيَانُ، ح وَحَدَّثَنِي مُحَمَّدُ بْنُ حَاتِمٍ، حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، ح وَحَدَّثَنِي أَبُو بَكْرِ بْنُ نَافِعٍ، قَالَ حَدَّثَنَا عُمَرُ بْنُ عَلِيٍّ، ح وَحَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ، حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، أَخْبَرَنَا شُعْبَةُ بْنُ الْحَجَّاجِ، كُلُّهُمْ عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَبْدِ، اللَّهِ بْنِ عَمْرٍو عَنِ النَّبِيِّ صلى الله عليه وسلم ‏.‏ بِمِثْلِ حَدِيثِ جَرِيرٍ وَزَادَ فِي حَدِيثِ عُمَرَ بْنِ عَلِيٍّ ثُمَّ لَقِيتُ عَبْدَ اللَّهِ بْنَ عَمْرٍو عَلَى رَأْسِ الْحَوْلِ فَسَأَلْتُهُ فَرَدَّ عَلَيْنَا الْحَدِيثَ كَمَا حَدَّثَ قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏.‏",
+        "translations": {
+          "en": "This hadith has been narrated on the authority of 'Abdullah b. Umar through other chains of transmitters, but in the hadith transmitted by Umar b. 'Ali there is an addition of these words:, I met 'Abdullah b. 'Amr at the end of the year and I asked him about it, and he narrated to us the hadith as he had narrated before that he had heard Allah's Messenger (ﷺ) as saying.... (The rest of the hadith is the same)",
+          "ur": "حماد بن زید ، عباد بن عباد ، ابومعاویہ ، وکیع ، ابن ادریس ، ابواسامہ ، ابن نمیر ، عبدہ ، سفیان ( بن عیینہ ) ، یحییٰ بن سعید ، عمر بن علی اور شعبہ بن حجاج ، سب نے ہشام بن عروہ سے ، انہوں نے اپنے والد سے ، انہوں نے عبداللہ بن عمرو رضی اللہ عنہ سے اور انہوں نے نبی اکرم صلی اللہ علیہ وسلم سے جریر کی روایت کردہ حدیث کے مطابق روایت کی اور عمر بن علی کی حدیث میں مزید یہ ہے : پھر میں ایک سال بعد حضرت عبداللہ بن عمرو رضی اللہ عنہ سے ملا اور ان سے سوال کیا تو انہوں نے وہ حدیث مجھے دوبارہ اسی طرح سنائی جیسے ( پہلے ) بیان کی تھی ۔ کہا : میں نے رسول اللہ صلی اللہ علیہ وسلم سے سنا ، آپ فرما رہے تھے ۔",
+          "fr": "Rapporté par 'Abdullah b. Umar : Ce hadith a été rapporté par 'Abdullah b. Umar à travers d’autres chaînes de transmetteurs, mais dans la version transmise par Umar b. 'Ali, il y a cette addition : « J’ai rencontré 'Abdullah b. 'Amr à la fin de l’année et je l’ai interrogé à ce sujet, il nous a rapporté le hadith comme il l’avait fait auparavant, disant qu’il avait entendu le Messager d’Allah ﷺ dire… » (Le reste du hadith est identique)",
+          "tr": "{m-13} Bize Ebu'r-Rabi' El-Atekî rivayet etti. (Dediki): Bize Hammad (yâni İbni Zeyd) rivayet etti. H. Bize Yahya b. Yahya da rivayet etti. (Dediki); Bize Abbad b. Abbâd ile Ebû Muâviye haber verdiler. H. Bize Ebû Bekr b. Ebî Şeybe ile Züheyr b. Harb da rivayet ettiler. (Dedilerki): Bize Veki' rivayet etti. Ii. Bize Ebû Kureyb dahi rivayet etti. (Dediki): Bize İbni İdris ile Ebû Usâme, İbni Numeyr ve Abde rivayet ettiler. II. Bize İbni Ebî Ömer de rivayet etti. (Dediki): Bize Süfyân rivayet etti. II. Bana Muhammed b. Hatim de rivayet etti. (Dediki): Bize Yahya b. Saîd de rivayet etti. H. Bana Ebû Bekr b. Nâfi' dahî rivayet etti. (Dediki): Bize Ömer b. Ali rivayet etti. H. Bize Abd b- Humeyd dahî rivayet etti, (Dediki): Bize Yezid b, Harun rivayet etti. (Dediki): Bize Şu'be b. Haccâc haber verdi. Bu râvilerin hepsi Hişâm b. Urve'den, o da babasından, o da Abdullah h. Amr'dan, o da Nebi (Sallallahu Aleyhi ve Sellem)'den naklen Cerîr'in hadîsi gibi rivayet ettiler. Ömer b. Ali'nin hadîsinde şu ziyade de vardır: «Sonra Abdullah b. Amr'a sene başında rastlayarak kendisine sordum da, bize hadîsi eskiden rivayet ettiği gibi iade etti. Ben Resûlullah (Sallallahu Aleyhi ve Sellem)'i buyururken işittim, dedi.»"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "muslim",
+        "book": 47,
+        "hadith": 23
+      }
+    },
+    {
+      "hadithNumber": 6798,
+      "arabicNumber": "2673.03",
+      "book": 47,
+      "hadithInBook": 24,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ حُمْرَانَ، عَنْ عَبْدِ الْحَمِيدِ بْنِ جَعْفَرٍ، أَخْبَرَنِي أَبِي جَعْفَرٌ، عَنْ عُمَرَ بْنِ الْحَكَمِ، عَنْ عَبْدِ اللَّهِ بْنِ عَمْرِو بْنِ الْعَاصِ، عَنِ النَّبِيِّ صلى الله عليه وسلم بِمِثْلِ حَدِيثِ هِشَامِ بْنِ عُرْوَةَ ‏.‏",
+        "translations": {
+          "en": "This hadith has been narrated on the authority of 'Abdullah b. Amr b. al-'As through another chain of transmitters",
+          "ur": "جعفر نے عمر بن حکم سے ، انہوں نے عبداللہ بن عمرو بن عاص رضی اللہ عنہ سے اور انہوں نے نبی صلی اللہ علیہ وسلم سے ہشام بن عروہ کی حدیث کی طرح بیان کیا ۔",
+          "fr": "Rapporté par 'Abdullah b. Amr b. al-'As : Ce hadith a été rapporté par 'Abdullah b. Amr b. al-'As à travers une autre chaîne de transmetteurs",
+          "tr": "{m-13-2} Bize Muhammed b. Müsennâ rivayet etti. (Dediki): Bize Abdullah b. Humran, Abdu'l-Hamid b. Ca'fer'den rivayet etti. (Demişki): Bana babam Ca'fer, Ömer b. Hakem'den, o da Abdullah b. Amr b. Âs'dan, o da Nebi (Sallallahu Aleyhi ve Sellem)'den naklen haber verdi. Ravi Hişâm b. Urve'nin hadîsi gibi rivayet etmiştir"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "muslim",
+        "book": 47,
+        "hadith": 24
+      }
+    },
+    {
+      "hadithNumber": 6799,
+      "arabicNumber": "2673.04",
+      "book": 47,
+      "hadithInBook": 25,
+      "text": {
+        "arabic": "حَدَّثَنَا حَرْمَلَةُ بْنُ يَحْيَى التُّجِيبِيُّ، أَخْبَرَنَا عَبْدُ اللَّهِ بْنُ وَهْبٍ، حَدَّثَنِي أَبُو شُرَيْحٍ، أَنَّ أَبَا الأَسْوَدِ، حَدَّثَهُ عَنْ عُرْوَةَ بْنِ الزُّبَيْرِ، قَالَ قَالَتْ لِي عَائِشَةُ يَا ابْنَ أُخْتِي بَلَغَنِي أَنَّحَمَلَ عَنِ النَّبِيِّ صلى الله عليه وسلم عِلْمًا كَثِيرًا - قَالَ - فَلَقِيتُهُ فَسَاءَلْتُهُ عَنْ أَشْيَاءَ يَذْكُرُهَا عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم ‏.‏ قَالَ عُرْوَةُ فَكَانَ فِيمَا ذَكَرَ أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏ \"‏ إِنَّ اللَّهَ لاَ يَنْتَزِعُ الْعِلْمَ مِنَ النَّاسِ انْتِزَاعًا وَلَكِنْ يَقْبِضُ الْعُلَمَاءَ فَيَرْفَعُ الْعِلْمَ مَعَهُمْ وَيُبْقِي فِي النَّاسِ رُءُوسًا جُهَّالاً يُفْتُونَهُمْ بِغَيْرِ عِلْمٍ فَيَضِلُّونَ وَيُضِلُّونَ ‏\"‏ ‏.‏ قَالَ عُرْوَةُ فَلَمَّا حَدَّثْتُ عَائِشَةَ بِذَلِكَ أَعْظَمَتْ ذَلِكَ وَأَنْكَرَتْهُ قَالَتْ أَحَدَّثَكَ أَنَّهُ سَمِعَ النَّبِيَّ صلى الله عليه وسلم يَقُولُ هَذَا قَالَ عُرْوَةُ حَتَّى إِذَا كَانَ قَابِلٌ قَالَتْ لَهُ إِنَّ ابْنَ عَمْرٍو قَدْ قَدِمَ فَالْقَهُ ثُمَّ فَاتِحْهُ حَتَّى تَسْأَلَهُ عَنِ الْحَدِيثِ الَّذِي ذَكَرَهُ لَكَ فِي الْعِلْمِ - قَالَ - فَلَقِيتُهُ فَسَاءَلْتُهُ فَذَكَرَهُ لِي نَحْوَ مَا حَدَّثَنِي بِهِ فِي مَرَّتِهِ الأُولَى ‏.‏ قَالَ عُرْوَةُ فَلَمَّا أَخْبَرْتُهَا بِذَلِكَ قَالَتْ مَا أَحْسِبُهُ إِلاَّ قَدْ صَدَقَ أَرَاهُ لَمْ يَزِدْ فِيهِ شَيْئًا وَلَمْ يَنْقُصْ ‏.‏",
+        "translations": {
+          "en": "Urwa b. Zubair reported that 'A'isha said to him:This news has reached me that 'Abdullah b. 'Amr al-'As would pass by us during the Hajj season, so you meet him and ask him (about religious matters) as he has acquired great knowledge from Allah's Messenger (ﷺ). I thus met him and asked him about things which he narrated from Allah's Messenger (ﷺ). And amongst these the one he mentioned was that Allah's Apostle (ﷺ) said: Verily, Allah does not take away knowledge from people directly but he takes away the scholars and consequently takes away (knowledge) along with them and leaves amongst persons the ignorant as their leaders who deliver religious verdicts without (adequate) knowledge and themselves go astray and lead others astray. 'Urwa said: When I narrated this to 'A'isha, she deemed it too much (to believe) and thus showed reluctance to accept that (as perfectly true) and said to, 'Urwa: Did he ('Abdullah b. 'Amr) say to you that he had heard Allah's Apostle (ﷺ) as saying: ('Urwa had forgotten to ask this from 'Abdullah b. 'Amr). So when it was the next year, she ('A'isha) said to him ('Urwa): Ibn Amr has come (for Hajj), so meet him. talk to him and ask him about this hadith that he narrated to You (last year on the occasion of the Hajj) pertaining to knowledge. He ('Urwa), said: So I met him, and asked about it and he narrated to me exactly like one that he had narrated (to me) for the first time. So when I informed her ('A'isha) about that, she said: I do not think but this that he has certainly told the truth and I find that be has neither made any addition to it, nor missed anything from it",
+          "ur": "عبداللہ بن وہب نے کہا : مجھے ابوشُریح نے حدیث بیان کی کہ انہیں ابواسود نے عروہ بن زبیر سے حدیث بیان کی ، انہوں نے کہا : حضرت عائشہ رضی اللہ عنہا نے مجھ سے فرمایا : بھانجے! مجھے خبر ملی ہے کہ عبداللہ بن عمر رضی اللہ عنہ ہمارے ہاں ( مدینہ ) سے گزر کر حج پر جانے والے ہیں ۔ تم ان سے ملو اور ان سے سوال کرو ۔ انہوں نے نبی صلی اللہ علیہ وسلم سے بڑا علم حاصل کر کے محفوظ کر رکھا ہے ۔ ( عروہ نے ) کہا : میں ان سے ملا اور بہت سی چیزوں کے بارے میں ، جو وہ رسول اللہ صلی اللہ علیہ وسلم سے بیان کرتے تھے ، ان سے پوچھا ۔ عروہ نے کہا : انہوں نے جو کچھ بیان کیا اس میں یہ بھی تھا کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \"\" اللہ تعالیٰ علم کو لوگوں سے یک لخت چھین نہیں لے گا بلکہ وہ علماء کو اٹھا لے گا اور ان کے ساتھ علم کو بھی اٹھا لے گا ۔ اور لوگوں میں جاہل سربراہوں کو باقی چھوڑ دے گا جو علم کے بغیر لوگوں کو فتوے دیں گے ، اس طرح خود بھی گمراہ ہوں گے اور ( لوگوں کو بھی ) گمراہ کریں گے ۔ \"\" عروہ نے کہا : جب میں نے حضرت عائشہ رضی اللہ عنہا کو یہ حدیث سنائی تو انہوں نے اسے ایک بہت بڑی بات سمجھا اور اس کو غیر معروف ( ناقابل قبول ) قرار دیا ۔ اور فرمایا : کیا انہوں نے تمہیں بتایا تھا کہ انہوں نے ( خود ) رسول اللہ صلی اللہ علیہ وسلم سے سنا تھا ، آپ نے یہ بات کہی تھی؟ عروہ نے کہا : یہاں تک کہ جب اگلا سال ہوا تو انہوں ( حضرت عائشہ رضی اللہ عنہا ) نے ان سے کہا : ( عبداللہ ) بن عمرو رضی اللہ عنہ آ گئے ہیں ، ان سے ملو ، ان کے ساتھ بات چیت کا آغاز کرو ، یہاں تک کہ ان سے اسی حدیث کے بارے میں پوچھو جو انہوں نے علم کے حوالے سے تمہیں بیان کی تھی ۔ ( عروہ نے ) کہا : میں ان سے ملا اور ان سے سوال کیا تو انہوں نے وہ حدیث میرے سامنے ( بالکل ) اسی طرح بیان کر دی جس طرح پہلی بار بیان کی تھی ۔ عروہ نے کہا : جب میں نے حضرت عائشہ رضی اللہ عنہا کو یہ بات بتائی تو انہوں نے فرمایا : میں سمجھتی ہوں کہ انہوں نے سچ کہا ، میں دیکھ رہی ہوں کہ انہوں نے اس میں نہ کوئی چیز بڑھائی ہے نہ کم کی ہے ۔",
+          "fr": "Rapporté par 'Urwa b. Zubair : 'Aïsha رضي الله عنها m’a dit : « J’ai appris que 'Abdullah b. 'Amr al-'As passera près de nous pendant le Hajj, alors rencontre-le et interroge-le sur les questions religieuses, car il a acquis beaucoup de connaissances du Messager d’Allah ﷺ. » Je l’ai donc rencontré et je lui ai posé des questions sur ce qu’il avait entendu du Messager d’Allah ﷺ. Parmi ce qu’il a mentionné, il a dit : « En vérité, Allah ne retire pas la connaissance directement aux gens, mais Il fait disparaître les savants et ainsi la connaissance disparaît avec eux. Il laisse alors des ignorants comme chefs, qui donnent des avis religieux sans connaissance, s’égarent eux-mêmes et égarent les autres. » 'Urwa dit : Quand j’ai rapporté cela à 'Aïsha, elle a trouvé cela difficile à croire et a montré des réserves, puis elle m’a demandé : « Est-ce que 'Abdullah b. 'Amr t’a dit qu’il avait entendu le Messager d’Allah ﷺ dire cela ? » ('Urwa avait oublié de lui demander.) L’année suivante, elle lui dit : « Ibn Amr est revenu pour le Hajj, alors va le voir, parle-lui et demande-lui au sujet de ce hadith sur la connaissance. » Il dit : Je l’ai rencontré, je l’ai interrogé et il m’a rapporté exactement ce qu’il m’avait dit la première fois. Quand j’en ai informé 'Aïsha, elle a dit : « Je pense qu’il a dit la vérité, et je vois qu’il n’a rien ajouté ni omis. »",
+          "id": "Telah menceritakan kepada kami [Harmalah bin Yahya At Tujibi]; telah mengabarkan kepada kami ['Abdullah bin Wahb] telah menceritakan kepadaku [Abu Syuraih] bahwasanya [Abul Aswad] bercerita kepadanya dari ['Urwah bin Az Zubair] dia berkata; 'Aisyah berkata kepadaku; wahai anak saudariku, telah sampai kepadaku bahwasanya ['Abdullah bin 'Amr] akan melewati kita untuk berhaji, maka temuilah ia dan bertanyalah kepadanya, karena dia membawa ilmu yang banyak dari Nabi shallallahu 'alaihi wasallam. 'Urwah berkata; kemudian aku menemuinya dan bertanya kepadanya mengenai beberapa perkara yang dia menyebutkannya dari Rasulullah shallallahu 'alaihi wasallam. Urwah berkata; di antara yang dia sebutkan; bahwa Nabi shallallahu 'alaihi wasallam bersabda: \"Sesungguhnya Allah tidak akan mengangkat ilmu dari manusia setelah Ia berikan kepada mereka. Akan tetapi Allah akan mengambil (mewafatkan) para ulama`, hingga jika setiap seorang Alim pergi, akan pergi pula ilmu yang ia miliki. Sehingga di dunia ini hanya tersisa orang-orang bodoh, mereka memberi fatwa tanpa tanpa landasan ilmu, hingga mereka sesat dan menyesatkan.\" Urwah berkata; ketika aku menceritakan Hadits tersebut kepada Aisyah, tiba-tiba Aisyah mengingkarinya dan berkata; Apakah benar dia mendengar Hadits ini dari Nabi shallallahu 'alaihi wasallam? Urwah menjawab; iya, sampai dia datang kembali, kita tanyakan lagi. Kemudian tak lama Aisyah berkata lagi kepada Urwah; Ibnu Amru telah datang, maka temuilah dia, dan sambutlah dia hingga kamu dapat menanyakannya Hadits tentang ilmu yang telah disebutkannya kepadamu. Lalu aku menemuinya dan menanyakannya, dan diapun menyebutkan apa yang telah diceritakannya kepadaku pada waktu lalu. Urwah berkata; tatkala aku kabarkan Hal itu kepada Aisyah, dia berkata; aku tidak mengiranya kecuali dia telah jujur meriwayatkan Hadits itu yang tidak tambahnya, dan tidak pula dikurangi",
+          "tr": "Bize Harmele b. Yahya Et-Tü'cîbî rivayet etti. (Dediki): Bize Abdullah b. Vehb haber verdi. (Dediki): Bana Ebû Şüreyh rivayet etti. Ona da Ebu'l-Esved, Urve b. Ziibeyr'den naklen rivayet etmiş. Urve (Demişki): Bana Âişe şunu söyledi: — Ey kız kardeşimoğlu! Duydum ki, Abdullah b. Amr hac'ca giderken bize uğrayacakmış. Onunla görüş de kendisine (bir şeyler) sor! Çünkü o Nebi (Sallallahu Aleyhi ve Sellem)'den çok ilim nakletmiştir. Urve demiş ki: Bunun üzerine ben kendisiyle görüşerek ona birçok şeyler sordum. Onları Resûlullah (Sallallahu Aleyhi ve Sellem)'den naklen söylüyordu. Urve şöyle demiş: Anlattıkları meyanında şu da vardı. Nebi (Salîallahu Aleyhi ve Sellem): «Şüphesiz Allah ilmi İnsanlardan çekip ahvermez. Lâkin ulemâyı kabzeder, onlarla birlikte İlmi de kaldırır. Ve insanlar arasında bîr takım câhil başlar bırakır. Bunlar insanlara ilimsiz fetva verirler; bu suretle hem saparlar, hem saptırırlar.» buyurdular. Urve şöyle demiş: Ben bu hadîsi Âişe'ye rivayet ettiğim vakit onu pek büyük gördü ve yadırgadı. — Sana kendisinin Nebi (Sallallahu Aleyhi ve Sellem) bunu söylerken işittiğini anlattı mı? dedi, Urve demiş ki : Ertesi sene olunca Âişe bana : — İbni Amr gelmiş onunla görüş, sonra ona söz aç, tâ ki ilim hakkında sana anlattığı hadîsi kendisine sor! dedi. Ben de kendisiyle görüşerek ona bir şeyler sordum. Ve bu hadîsi bana ilk defada anlattığı gibi anlattı. Urve şöyle demiş : Âişe'ye bunu haber verdiğim vakit: — Onun doğru söylemekten başka bir şey yapmadığını zannederim. Sanırım ki, bu hadîse hiç bir şey ziyâde ve noksan etmemiştir.» dedi"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "muslim",
+        "book": 47,
+        "hadith": 25
+      }
+    },
+    {
+      "hadithNumber": 6800,
+      "arabicNumber": "1017.05",
+      "book": 47,
+      "hadithInBook": 26,
+      "text": {
+        "arabic": "حَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا جَرِيرُ بْنُ عَبْدِ الْحَمِيدِ، عَنِ الأَعْمَشِ، عَنْ مُوسَى، بْنِ عَبْدِ اللَّهِ بْنِ يَزِيدَ وَأَبِي الضُّحَى عَنْ عَبْدِ الرَّحْمَنِ بْنِ هِلاَلٍ الْعَبْسِيِّ، عَنْ جَرِيرِ بْنِ عَبْدِ، اللَّهِ قَالَ جَاءَ نَاسٌ مِنَ الأَعْرَابِ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم عَلَيْهِمُ الصُّوفُ فَرَأَى سُوءَ حَالِهِمْ قَدْ أَصَابَتْهُمْ حَاجَةٌ فَحَثَّ النَّاسَ عَلَى الصَّدَقَةِ فَأَبْطَئُوا عَنْهُ حَتَّى رُئِيَ ذَلِكَ فِي وَجْهِهِ - قَالَ - ثُمَّ إِنَّ رَجُلاً مِنَ الأَنْصَارِ جَاءَ بِصُرَّةٍ مِنْ وَرِقٍ ثُمَّ جَاءَ آخَرُ ثُمَّ تَتَابَعُوا حَتَّى عُرِفَ السُّرُورُ فِي وَجْهِهِ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ مَنْ سَنَّ فِي الإِسْلاَمِ سُنَّةً حَسَنَةً فَعُمِلَ بِهَا بَعْدَهُ كُتِبَ لَهُ مِثْلُ أَجْرِ مَنْ عَمِلَ بِهَا وَلاَ يَنْقُصُ مِنْ أُجُورِهِمْ شَىْءٌ وَمَنْ سَنَّ فِي الإِسْلاَمِ سُنَّةً سَيِّئَةً فَعُمِلَ بِهَا بَعْدَهُ كُتِبَ عَلَيْهِ مِثْلُ وِزْرِ مَنْ عَمِلَ بِهَا وَلاَ يَنْقُصُ مِنْ أَوْزَارِهِمْ شَىْءٌ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Jarir b. Abdullah reported that some desert Arabs clad in woollen clothes came to Allah's Messenger (ﷺ). He saw them in sad plight as they had been hard pressed by need. He (the Holy Prophet) exhorted people to give charity, but they showed some reluctance until (signs) of anger could be seen on his face. Then a person from the Ansar came with a purse containing silver. Then came another person and then other persons followed them in succession until signs of happiness could be seen on his (sacred) face. Thereupon Allah's Messenger (ﷺ) said:He who introduced some good practice in Islam which was followed after him (by people) he would be assured of reward like one who followed it, without their rewards being diminished in any respect. And he who introduced some evil practice in Islam which had been followed subsequently (by others), he would be required to bear the burden like that of one who followed this (evil practice) without their's being diminished in any respect",
+          "ur": "سیدنا جریر بن عبداللہ سے روایت ہے کہ کچھ دیہاتی لوگ رسول اللہ صلی اللہ علیہ وسلم کے پاس آئے وہ کمبل پہنے ہوئے تھے۔ آپ صلی اللہ علیہ وسلم نے ان کا برا حال دیکھا اور ان کی محتاجی دریافت کی تو لوگوں کو رغبت دلائی صدقہ دینے کی۔ لوگوں نے صدقہ دینے میں دیر کی یہاں تک کہ اس بات کا رنج آپ صلی اللہ علیہ وسلم کے چہرے پر معلوم ہوا، پھر ایک انصاری شخص ایک تھیلی روپیوں کی لے کر آیا، پھر دوسرا آیا یہاں تک کہ تار بندھ گیا (صدقے اور خیرات کا)، آپ صلی اللہ علیہ وسلم کے چہرے پر خوشی معلوم ہونے لگی، پھر آپ صلی اللہ علیہ وسلم نے فرمایا: ”جو شخص اسلام میں اچھی بات نکالے (یعنی عمدہ بات کو جاری کرے جو شریعت کی رو سے ثواب ہے) پھر لوگ اس کے بعد اس پر عمل کریں تو اس کو اتنا ثواب ہو گا جتنا سب عمل کرنے والوں کو ہو گا اور عمل کرنے والوں کے ثواب میں کچھ کمی نہ ہو گی اور جو اسلام میں بری بات نکالے (مثلاً بدعت یا گناہ کی بات) اور لوگ اس کے بعد اس پر عمل کریں تو تمام عمل کرنے والوں کے برابر گناہ اس پر لکھا جائے گا اور عمل کرنے والوں کا گناہ کچھ کم نہ ہو گا۔“",
+          "fr": "Rapporté par Jarir b. Abdullah : Des Bédouins vêtus de laine sont venus voir le Messager d’Allah ﷺ. Il a vu qu’ils étaient dans une situation difficile à cause de la pauvreté. Il a encouragé les gens à donner en aumône, mais ils ont hésité, au point que des signes de colère sont apparus sur son visage. Puis un homme des Ansar est venu avec une bourse d’argent, suivi par d’autres, jusqu’à ce que la joie se lise sur son visage. Le Messager d’Allah ﷺ a alors dit : « Celui qui introduit une bonne pratique dans l’islam, et que d’autres suivent après lui, aura une récompense égale à celle de ceux qui la suivent, sans que cela ne diminue leur récompense. Et celui qui introduit une mauvaise pratique dans l’islam, et que d’autres suivent après lui, portera le fardeau de son péché et de celui de ceux qui la suivent, sans que cela ne diminue leur fardeau. »",
+          "id": "Telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Jarir bin 'Abdul Hamid] dari [Al A'masy] dari [Musa bin 'Abdullah bin Yazid] dan [Abu Adh Dhuha] dari ['Abdurrahman bin Hilal Al 'Absi] dari [Jarir bin 'Abdullah] dia berkata; \"Pada suatu ketika, beberapa orang Arab badui datang menemui Rasulullah shallallahu 'alaihi wasallam dengan mengenakan pakaian dari bulu domba (wol). Lalu Rasulullah memperhatikan kondisi mereka yang menyedihkan. Selain itu, mereka pun sangat membutuhkan pertolongan. Akhirnya, Rasulullah shallallahu 'alaihi wasallam menganjurkan para sahabat untuk memberikan sedekahnya kepada mereka. Tetapi sayangnya, para sahabat sangat lamban untuk melaksanakan anjuran Rasulullah itu, hingga kekecewaan terlihat pada wajah beliau.\" Jarir berkata; 'Tak lama kemudian seorang sahabat dari kaum Anshar datang memberikan bantuan sesuatu yang dibungkus dengan daun dan kemudian diikuti oleh beberapa orang sahabat lainnya. Setelah itu, datanglah beberapa orang sahabat yang turut serta menyumbangkan sedekahnya (untuk diserahkan kepada orang-orang Arab badui tersebut) hingga tampaklah keceriaan pada wajah Rasulullah shallallahu 'alaihi wasallam.' Kemudian Rasulullah shallallahu 'alaihi wasallam bersabda: 'Barang siapa dapat memberikan suri tauladan yang baik dalam Islam, lalu suri tauladan tersebut dapat diikuti oleh orang-orang sesudahnya, maka akan dicatat untuknya pahala sebanyak yang diperoleh orang-orang yang mengikutinya tanpa mengurangi sedikitpun pahala yang mereka peroleh. Sebaliknya, barang siapa memberikan suri tauladan yang buruk dalam Islam, lalu suri tauladan tersebut diikuti oleh orang-orang sesudahnya, maka akan dicatat baginya dosa sebanyak yang diperoleh orang-orang yang mengikutinya tanpa mengurangi dosa yang mereka peroleh sedikitpun.' Telah menceritakan kepada kami [Yahya bin Yahya] dan [Abu Bakr bin Abu Syaibah] dan [Abu Kuraib] semuanya dari [Abu Mu'awiyah] dari [Al A'masy] dari [Muslim] dari ['Abdurrahman bin Hilal] dari [Jarir] dia berkata; Rasulullah shallallahu 'alaihi wasallam berkhuthbah, lalu beliau menganjurkan untuk bersedakah -sebagaimana Hadits Jarir.- Telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada kami [Yahya bin Sa'id] telah menceritakan kepada kami [Muhammad bin Abu Isma'il] telah menceritakan kepada kami ['Abdurrahman bin Hilal Al 'Absi] dia berkata; berkata [Jarir bin 'Abdullah] Rasulullah shallallahu 'alaihi wasallam bersabda; 'Tidaklah seorang hamba melakukan suri tauladan yang baik yang kemudian diikuti oleh orang lain, ' -lalu dia menyempurnakan Haditsnya.- Telah menceritakan kepada kami ['Ubaidullah bin 'Umar Al Qawariri] dan [Abu Kamil] dan [Muhammad bin 'Abdul Malik Al Umawi] mereka berkata; telah menceritakan kepada kami [Abu 'Awanah] dari ['Abdul Malik bin 'Umair] dari [Al Mundzir bin Jarir] dari [bapaknya] dari Nabi shallallahu 'alaihi wasallam Demikian juga diriwayatkan dari jalur lainnya, dan telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Muhammad bin Ja'far] Demikian juga diriwayatkan dari jalur lainnya, dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Abu Usamah] Demikian juga diriwayatkan dari jalur lainnya, dan telah menceritakan kepada kami ['Ubaidullah bin Mu'adz] telah menceritakan kepada kami [bapakku], mereka berkata; telah menceritakan kepada kami [Syu'bah] dari ['Aun bin Abu Juhaifah] dari [Al Mundzir bin Jarir] dari [bapaknya] dari Nabi shallallahu 'alaihi wasallam dengan hadits ini",
+          "tr": "Bana Züheyr b. Harb rivayet etti. (Dediki): Bize Cerîr b. Abdi'l-Hamid A'meş'den, o da Musa b. Abdillah b. Yezid ile Ebu'd-Duha'dan, onlar da Abdurrahman b. Hilâl El-Absî'den, o da Cerîr b. Abdillah'dan naklen rivayet etti. Şöyle demiş: Bedevilerden bir takım insanlar Resûlullah (Sallallahu Aleyhi ve Selîem)'e geldiler. Üzerlerinde yün elbiseler vardı. Resûlullah (Sallallahu Aleyhi ve Sellem) hallerinin kötülüğünü, muhtaç kaldıklarını gördü de halkı onlara sadaka vermeye teşvik etti. Fakat halk ona gelmekte geciktiler. Hattâ bu hâl yüzünden belli oldu. Sonra ensardan bir zat bir kese gümüş getirdi. Sonra bir başkası geldi. Sonra ashab birbirinin peşinden geldiler. Nihayet yüzünden sevindiği anlaşıldı. Ve Resûlullah (Sallallahu Aleyhi ve Sellem) : «Bir kimse İslâm'da güzel bir çığır açar da, kendisinden sonra onunla amel edilirse, o kimseye bu çığırla amel edenlerin ecri kadar sevab yazılır. Amel edenlerin ecirlerinde de bir şey eksilmez. Ve her kim islâm'da kötü bir çığır açar da kendinden sonra onunla amel olunursa, o kimsenin aleyhine bu çığırla amel edenlerin günahı kadar günah yazılır. Amel edenlerin günahlarından da bîr şey eksilmez.» buyurdular"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "muslim",
+        "book": 47,
+        "hadith": 26
+      }
+    },
+    {
+      "hadithNumber": 6801,
+      "arabicNumber": "1017.06",
+      "book": 47,
+      "hadithInBook": 27,
+      "text": {
+        "arabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، وَأَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ وَأَبُو كُرَيْبٍ جَمِيعًا عَنْ أَبِي مُعَاوِيَةَ، عَنِ الأَعْمَشِ، عَنْ مُسْلِمٍ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ هِلاَلٍ، عَنْ جَرِيرٍ، قَالَ خَطَبَ رَسُولُ اللَّهِ صلى الله عليه وسلم فَحَثَّ عَلَى الصَّدَقَةِ ‏.‏ بِمَعْنَى حَدِيثِ جَرِيرٍ ‏.‏",
+        "translations": {
+          "en": "Jarir reported that Allah's Messenger (ﷺ) delivered an address in which he exhorted people to give charity",
+          "ur": "جریر ‌رضی ‌اللہ ‌عنہ ‌سے ‌روایت ‌ہے ‌نبی ‌اكرم ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌نے ‌خطبہ ‌پڑھا ‌اور ‌لوگوں ‌كو ‌ترغیب ‌دی ‌صدقہ ‌دینے ‌كی ‌پھر ‌بیان ‌كیا ‌اسی ‌طرح ‌جیسے ‌اوپر ‌گزرا",
+          "fr": "Rapporté par Jarir : Le Messager d’Allah ﷺ a prononcé un discours dans lequel il a encouragé les gens à donner en aumône",
+          "tr": "{m-15} Bize Yahya b. Yahya ile Ebû Bekr b. Ebî Şeybe ve Ebû Kureyb toptan Ebî Muâviye'den, o da A'meş'den, o da Müslim'den, o da Abdurrahman b. Hilâl'den, o da Cerîr'den naklen rivayet ettiler. Şöyle demiş: Resûlullah (Sallallahu Aleyhi ve Sellem) hutbe okuyarak sadakaya teşvik etti... Râvi Cerîr'in hadîsi mânâsında rivayette bulunmuştur"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "muslim",
+        "book": 47,
+        "hadith": 27
+      }
+    },
+    {
+      "hadithNumber": 6802,
+      "arabicNumber": "1017.07",
+      "book": 47,
+      "hadithInBook": 28,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا يَحْيَى، - يَعْنِي ابْنَ سَعِيدٍ - حَدَّثَنَا مُحَمَّدُ بْنُ أَبِي، إِسْمَاعِيلَ حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ هِلاَلٍ الْعَبْسِيُّ، قَالَ قَالَ جَرِيرُ بْنُ عَبْدِ اللَّهِ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ لاَ يَسُنُّ عَبْدٌ سُنَّةً صَالِحَةً يُعْمَلُ بِهَا بَعْدَهُ ‏\"‏ ‏.‏ ثُمَّ ذَكَرَ تَمَامَ الْحَدِيثِ ‏.‏",
+        "translations": {
+          "en": "Jarir b. 'Abdullah reported Allah's Messenger (ﷺ) as saying:The servant does not introduce good practice which is followed after him.... The rest of the hadith is the same",
+          "ur": "محمد بن ابی اسماعیل نے کہا : ہمیں عبدالرحمٰن بن ہلال عبسی نے حدیث بیان کی ، انہوں نے کہا : حضرت جریر بن عبداللہ رضی اللہ عنہ نے کہا کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" جو بندہ بھی کسی نیک کام کا آغاز کرے جس پر اس کے بعد عمل کیا جائے ۔ \" پھر پوری حدیث بیان کی ۔",
+          "fr": "Rapporté par Jarir b. 'Abdullah : Le Messager d’Allah ﷺ a dit : « Le serviteur n’introduit pas une bonne pratique qui est suivie après lui… » (Le reste du hadith est identique)",
+          "tr": "{m-15-2} Bize Muhammed b. Beşşâr rivayet etti. (Dediki): Bize Yahya (îbni Saîd) rivayet etti. (Dediki): Bize Muhammed b. Ebî İsmail rivayet etti. (Dediki): Bize Abdurrahman b. Hilâl El-Absî rivayet etti. (Dediki): Cerîr b. Abdillah şunu söyledi. Resûlullah (Sallallahu Aleyhi ve Sellem): «Bir kul elverişli bîr çığır açar da, kendinden sonra onunla amel olunursa...» buyurdular. Sonra râvi hadîsin tamamını zikretmiştir"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "muslim",
+        "book": 47,
+        "hadith": 28
+      }
+    },
+    {
+      "hadithNumber": 6803,
+      "arabicNumber": "1017.08",
+      "book": 47,
+      "hadithInBook": 29,
+      "text": {
+        "arabic": "حَدَّثَنِي عُبَيْدُ اللَّهِ بْنُ عُمَرَ الْقَوَارِيرِيُّ، وَأَبُو كَامِلٍ وَمُحَمَّدُ بْنُ عَبْدِ الْمَلِكِ الأُمَوِيُّ قَالُوا حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ عَبْدِ الْمَلِكِ بْنِ عُمَيْرٍ، عَنِ الْمُنْذِرِ بْنِ جَرِيرٍ، عَنْ أَبِيهِ، عَنِ النَّبِيِّ صلى الله عليه وسلم ح وَحَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، ح وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا أَبُو أُسَامَةَ، ح وَحَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مُعَاذٍ، حَدَّثَنَا أَبِي قَالُوا، حَدَّثَنَا شُعْبَةُ، عَنْ عَوْنِ، بْنِ أَبِي جُحَيْفَةَ عَنِ الْمُنْذِرِ بْنِ جَرِيرٍ، عَنْ أَبِيهِ، عَنِ النَّبِيِّ صلى الله عليه وسلم بِهَذَا الْحَدِيثِ ‏.‏",
+        "translations": {
+          "en": "Jarir transmitted this hadith from his father through several other chains of narrators",
+          "ur": "عبدالملک بن عمیر اور عون بن ابی الجحیفہ نے مُنذِر بن جریر سے ، انہوں نے اپنے والد ( جریر بن عبداللہ رضی اللہ عنہ ) سے اور انہوں نے نبی صلی اللہ علیہ وسلم سے یہی حدیث روایت کی ۔",
+          "fr": "Rapporté par Jarir : Jarir a transmis ce hadith de son père à travers plusieurs autres chaînes de transmetteurs",
+          "tr": "{m-15-3} Bana Ubeydullah o, Ömer EI-Kavârîrî ile Ebû Kâmil ve Muhammed b. Abdi'l-Melik El-Ümevî rivayet ettiler. (Dedilerki): Bize Ebu Avâne, Abdü'l-Melik b, Umeyr'den, o da Münzir b. Cerîr'den, o da babasından, o da Nebi (Sallallahu Aleyhi ve Sellem)'den naklen rivayet etti. H, Bize Muhammcd b. Müsennâ da rivayet etti. (Dediki): Bize Muhammed b. Ca'fer rivayet etti. H. Bize Ebû Bekr b. Ebî Şeybe dahî rivayet etti. (Dediki): Bize Ebû Usâme rivayet etti. H. Bize Ubeydullah b. Muâz da rivayet etti. (Dediki): Bize babam rivayet etti. Bu râviler (Dedilerki): Bize Şu'be Avn b. Ebi Cuhayle'den, o da Münzir b. Cerîr'den, o da babasından, o da Nebi (Sallallahu Aleyhi ve Sellem)'den naklen hu hadîsi rivayet etti. İZAH 2674 TE"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "muslim",
+        "book": 47,
+        "hadith": 29
+      }
+    },
+    {
+      "hadithNumber": 6804,
+      "arabicNumber": "2674",
+      "book": 47,
+      "hadithInBook": 30,
+      "text": {
+        "arabic": "حَدَّثَنَا يَحْيَى بْنُ أَيُّوبَ، وَقُتَيْبَةُ بْنُ سَعِيدٍ، وَابْنُ، حُجْرٍ قَالُوا حَدَّثَنَا إِسْمَاعِيلُ، - يَعْنُونَ ابْنَ جَعْفَرٍ - عَنِ الْعَلاَءِ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ مَنْ دَعَا إِلَى هُدًى كَانَ لَهُ مِنَ الأَجْرِ مِثْلُ أُجُورِ مَنْ تَبِعَهُ لاَ يَنْقُصُ ذَلِكَ مِنْ أُجُورِهِمْ شَيْئًا وَمَنْ دَعَا إِلَى ضَلاَلَةٍ كَانَ عَلَيْهِ مِنَ الإِثْمِ مِثْلُ آثَامِ مَنْ تَبِعَهُ لاَ يَنْقُصُ ذَلِكَ مِنْ آثَامِهِمْ شَيْئًا ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Abu Huraira reported Allah's Messenger (ﷺ) as saying:He who called (people) to righteousness, there would be reward (assured) for him like the rewards of those who adhered to it, without their rewards being diminished in any respect. And he who called (people) to error, he shall have to carry (the burden) of its sin, like those who committed it, without their sins being diminished in any respect",
+          "ur": "حضرت ابوہریرہ رضی اللہ عنہ سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" جس شخص نے ہدایت کی دعوت دی اسے اس ہدایت کی پیروی کرنے والوں کے اجر کے برابر اجر ملے گا اور ان کے اجر میں کوئی کمی نہیں ہو گی اور جس شخص نے کسی گمراہی کی دعوت دی ، اس پر اس کی پیروی کرنے والوں کے برابر گناہ ( کا بوجھ ) ہو گا اور ان کے گناہوں میں کوئی کمی نہیں ہو گی ۔",
+          "fr": "Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « Celui qui appelle les gens à la droiture aura une récompense égale à celle de ceux qui la suivent, sans que cela ne diminue leur récompense. Et celui qui appelle à l’égarement portera le fardeau de son péché et de celui de ceux qui le suivent, sans que cela ne diminue leur fardeau. »",
+          "id": "Telah menceritakan kepada kami [Yahya bin Ayyub] dan [Qutaibah bin Sa'id] dan [Ibnu Hujr], mereka berkata; telah menceritakan kepada kami [Isma'il] yaitu Ibnu Ja'far dari [Al 'Ala] dari [bapaknya] dari [Abu Hurairah] bahwasanya Rasulullah shallallahu 'alaihi wasallam telah bersabda: \"Barang siapa mengajak kepada kebaikan, maka ia akan mendapat pahala sebanyak pahala yang diperoleh orang-orang yang mengikutinya tanpa mengurangi pahala mereka sedikitpun. Sebaliknya, barang siapa mengajak kepada kesesatan, maka ia akan mendapat dosa sebanyak yang diperoleh orang-orang yang mengikutinya tanpa mengurangi dosa mereka sedikitpun",
+          "tr": "Bize Yahya b. Eyyûb ile Kuteybe b. Saîd ve İbni Hucr rivayet ettiler. (Dedilerki): Bize İsmail yâni İbni Ca'fer Alâ'dan, o da babasından, o da Ebû Hureyre'den naklen rivayet ettiki: Resûlullah (Sallallahu Aleyhi ve Sellem): «Bir kimse doğru bîr yola da'vet ederse, ona tâbi olanların ecirleri kadar kendisi için ecir olur. Bu, tâbi olanların ecrinden bir şey eksiltmez. Ve her kim bir dalâlete davel ederse, ona tâbi olanların günahları kadar kendine günah olur. Bu, tâbi olanların günahlarından hiç bir şey eksiltmez.» buyurdular"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "muslim",
+        "book": 47,
+        "hadith": 30
+      }
+    }
+  ],
+  "metadata": {
+    "averageLength": "medium",
+    "size": "19KB"
+  }
+}

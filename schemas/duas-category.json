@@ -1,0 +1,210 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://islamic-data.com/schemas/duas-category.json",
+  "title": "Duas Category Schema",
+  "description": "Schema for validating Duas category JSON files",
+  "type": "object",
+  "required": ["category", "name", "totalDuas", "content", "metadata"],
+  "properties": {
+    "category": {
+      "type": "string",
+      "pattern": "^[a-z-]+$",
+      "description": "Category identifier (lowercase with hyphens)"
+    },
+    "name": {
+      "type": "object",
+      "required": ["arabic", "transliteration", "translation"],
+      "properties": {
+        "arabic": {
+          "type": "string",
+          "pattern": "^[\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF\uFB50-\uFDFF\uFE70-\uFEFF\u0591-\u05F4\\s]+$",
+          "description": "Arabic name of the category"
+        },
+        "transliteration": {
+          "type": "string",
+          "description": "English transliteration of the category name"
+        },
+        "translation": {
+          "type": "string",
+          "description": "English translation of the category name"
+        }
+      }
+    },
+    "totalDuas": {
+      "type": "integer",
+      "minimum": 1,
+      "description": "Total number of duas in this category"
+    },
+    "content": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "$ref": "#/definitions/dua"
+      }
+    },
+    "metadata": {
+      "type": "object",
+      "required": ["totalWords", "averageLength", "difficulties", "size"],
+      "properties": {
+        "totalWords": {
+          "type": "integer",
+          "minimum": 1,
+          "description": "Total word count in all duas"
+        },
+        "averageLength": {
+          "type": "string",
+          "enum": ["short", "medium", "long"],
+          "description": "Average length of duas in this category"
+        },
+        "difficulties": {
+          "type": "object",
+          "properties": {
+            "beginner": {
+              "type": "integer",
+              "minimum": 0
+            },
+            "intermediate": {
+              "type": "integer",
+              "minimum": 0
+            },
+            "advanced": {
+              "type": "integer",
+              "minimum": 0
+            }
+          }
+        },
+        "occasions": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "enum": ["morning", "evening", "eating", "sleeping", "travel", "prayer", "illness", "marriage", "exam", "rain", "difficulty", "gratitude", "various", "bathroom"]
+          },
+          "description": "Occasions when these duas are recited"
+        },
+        "size": {
+          "type": "string",
+          "pattern": "^[0-9]+(\\.[0-9]+)?(KB|MB)$",
+          "description": "File size"
+        }
+      }
+    }
+  },
+  "definitions": {
+    "dua": {
+      "type": "object",
+      "required": ["id", "occasion", "name", "arabic", "transliteration", "translation"],
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^[a-z0-9-]+$",
+          "description": "Unique identifier for the dua"
+        },
+        "occasion": {
+          "type": "string",
+          "enum": ["morning", "evening", "eating", "sleeping", "travel", "prayer", "illness", "marriage", "exam", "rain", "difficulty", "gratitude", "various", "bathroom"],
+          "description": "Primary occasion for this dua"
+        },
+        "name": {
+          "type": "object",
+          "required": ["arabic", "transliteration", "translation"],
+          "properties": {
+            "arabic": {
+              "type": "string",
+              "pattern": "^[\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF\uFB50-\uFDFF\uFE70-\uFEFF\u0591-\u05F4\\s\\d]+$",
+              "description": "Arabic name of the dua"
+            },
+            "transliteration": {
+              "type": "string",
+              "description": "English transliteration of the dua name"
+            },
+            "translation": {
+              "type": "string",
+              "description": "English translation of the dua name"
+            }
+          }
+        },
+        "arabic": {
+          "type": "string",
+          "pattern": "^[\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF\uFB50-\uFDFF\uFE70-\uFEFF\u0591-\u05F4\\s\\.,،\\(\\)\\d]+$",
+          "description": "Arabic text of the dua"
+        },
+        "transliteration": {
+          "type": "string",
+          "description": "English transliteration of the Arabic text"
+        },
+        "translation": {
+          "type": "object",
+          "patternProperties": {
+            "^[a-z]{2}$": {
+              "type": "string",
+              "description": "Translation in the specified language"
+            }
+          },
+          "minProperties": 1
+        },
+        "source": {
+          "type": "object",
+          "required": ["type", "reference"],
+          "properties": {
+            "type": {
+              "type": "string",
+              "enum": ["quran", "hadith", "prophetic"],
+              "description": "Source type of the dua"
+            },
+            "reference": {
+              "type": "string",
+              "description": "Specific reference (verse number, hadith collection:number, etc.)"
+            },
+            "narrator": {
+              "type": "string",
+              "description": "Narrator name for hadith sources"
+            }
+          }
+        },
+        "benefits": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "Spiritual and practical benefits of reciting this dua"
+        },
+        "timing": {
+          "type": "object",
+          "properties": {
+            "preferred": {
+              "type": "string",
+              "description": "Preferred time to recite this dua"
+            },
+            "latest": {
+              "type": "string",
+              "description": "Latest recommended time"
+            },
+            "when": {
+              "type": "string",
+              "description": "Specific timing instructions"
+            }
+          }
+        },
+        "repetitions": {
+          "type": "integer",
+          "minimum": 1,
+          "description": "Recommended number of repetitions"
+        },
+        "difficulty": {
+          "type": "string",
+          "enum": ["beginner", "intermediate", "advanced"],
+          "description": "Difficulty level for memorization"
+        },
+        "audio": {
+          "type": "object",
+          "patternProperties": {
+            "^[a-z]{2}\\.[a-z]+$": {
+              "type": "string",
+              "description": "Audio URL in format 'language.reciter'"
+            }
+          }
+        }
+      }
+    }
+  }
+}

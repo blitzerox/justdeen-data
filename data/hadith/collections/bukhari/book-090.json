@@ -1,0 +1,719 @@
+{
+  "collection": "bukhari",
+  "book": 90,
+  "name": {
+    "arabic": "كتاب Tricks",
+    "transliteration": "tricks",
+    "translation": "Tricks"
+  },
+  "totalHadith": 28,
+  "hadithNumberRange": {
+    "first": 6953,
+    "last": 6981
+  },
+  "content": [
+    {
+      "hadithNumber": 6953,
+      "arabicNumber": 6953,
+      "book": 90,
+      "hadithInBook": 1,
+      "text": {
+        "arabic": "حَدَّثَنَا أَبُو النُّعْمَانِ، حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، عَنْ يَحْيَى بْنِ سَعِيدٍ، عَنْ مُحَمَّدِ بْنِ إِبْرَاهِيمَ، عَنْ عَلْقَمَةَ بْنِ وَقَّاصٍ، قَالَ سَمِعْتُ عُمَرَ بْنَ الْخَطَّابِ ـ رضى الله عنه ـ يَخْطُبُ قَالَ سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم يَقُولُ ‏ \"‏ يَا أَيُّهَا النَّاسُ إِنَّمَا الأَعْمَالُ بِالنِّيَّةِ وَإِنَّمَا لاِمْرِئٍ مَا نَوَى، فَمَنْ كَانَتْ هِجْرَتُهُ إِلَى اللَّهِ وَرَسُولِهِ، فَهِجْرَتُهُ إِلَى اللَّهِ وَرَسُولِهِ، وَمَنْ هَاجَرَ إِلَى دُنْيَا يُصِيبُهَا أَوِ امْرَأَةٍ يَتَزَوَّجُهَا، فَهِجْرَتُهُ إِلَى مَا هَاجَرَ إِلَيْهِ ‏\"‏‏.‏",
+        "translations": {
+          "en": "Narrated `Umar bin Al-Khattab:The Prophet (ﷺ) said, 'O people! The reward of deeds depends upon the intentions, and every person will get the reward according to what he has intended. So, whoever emigrated for Allah and His Apostle, then his emigration was for Allah and His Apostle, and whoever emigrated to take worldly benefit or for a woman to marry, then his emigration was for what he emigrated for",
+          "ur": "ہم سے ابوالنعمان نے بیان کیا، کہا ہم سے حماد بن زید نے بیان کیا، ان سے یحییٰ بن سعید انصاری نے، ان سے محمد بن ابراہیم تیمی نے، ان سے علقمہ بن وقاص لیثی نے بیان کیا کہ میں نے عمر بن خطاب رضی اللہ عنہ سے خطبہ میں سنا انہوں نے کہا کہ میں نے نبی کریم صلی اللہ علیہ وسلم کو یہ فرماتے ہوئے سنا تھا: اے لوگو! اعمال کا دارومدار نیتوں پر ہے اور ہر شخص کو وہی ملے گا جس کی وہ نیت کرے گا پس جس کی ہجرت اللہ اور اس کے رسول کی طرف ہو اسے ہجرت ( کا ثواب ملے گا ) اور جس کی ہجرت کا مقصد دنیا ہو گی کہ جسے وہ حاصل کر لے یا کوئی عورت ہو گی جس سے وہ شادی کر لے تو اس کی ہجرت اسی کے لیے ہو گی جس کے لیے اس نے ہجرت کی ہے۔",
+          "fr": "Rapporté par `Umar ibn Al-Khattab : Le Prophète (ﷺ) a dit : « Ô gens ! La récompense des actes dépend des intentions, et chacun sera récompensé selon ce qu’il a eu comme intention. Donc, celui qui a émigré pour Allah et Son Messager, alors son émigration était pour Allah et Son Messager. Et celui qui a émigré pour obtenir un avantage matériel ou pour épouser une femme, alors son émigration était pour ce pour quoi il a émigré. »",
+          "id": "Telah menceritakan kepada kami [Abu Nu'man] telah menceritakan kepada kami [Hammad bin Zaid] dari [Yahya bin Sa'id] dari [Muhammad bin Ibrahim] dari [Alqomah bin Waqqash] mengatakan, aku mendengar [Umar bin Khaththab] radliallahu 'anhu berpidato, dia mengatakan, aku mendengar Nabi shallallahu 'alaihi wasallam bersabda: \"Hai manusia, hanyasanya amal itu tergantung niyatnya, dan setiap orang mendapatkan sesuai yang diniatkan, barangsiapa hijrahnya karena Allah dan rasul-Nya,, maka hijrahnya dihitung karena Allah dan rasul-Nya, barangsiapa hijrahnya karena dunia yang ingin diperolehnya, atau wanita yang ingin dinikahinya, maka hijrahnya sekedar mendapat yang diniatkan",
+          "tr": "Alkame b. Vakkas'ın Hz. Ömer'den nakline göre Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: \"Ey insanlar! Ameller ancak niyete göredir. Her bir kimsenin niyet ettiği şey ne ise eline geçecek olan ancak odur. Her kimin hicreti Allah ve Resu/üne yönelik ise onun hicreti Allah'a ve Resulünedir. Her kim de nail olacağı bir dünya yahut kendisiyle evleneceği bir kadından dolayı hicret etmişse, onun hicreti de hicret ettiği şeyedir.\" Fethu'l-Bari Açıklaması: \"Her bir kimsenin niyet ettiği şey ne ise eline geçecek olan ancak odur.\" Bu hadis Bed'ü'l-Vahy bölümünde \"Herkes için niyet ettiği neyse eline geçecek o/an ancak odur\" şeklinde geçmişti. Buhari'nin o bölümün baş tarafına koyduğu rivayet buydu. Hadisin manasının \"bir kimse herhangi bir şeye niyet etmezse onu elde edemez\" şeklinde olduğu daha önce geçmişti. Buharl'ye şöyle bir karşı delil getirilmiştir: İmam Şafii, Ahmed b. Hanbel, Evzai ve İshak'a göre kendi adına haccetmemiş bir kimse bir başkası adına hacca niyet ederse yaptığı hac, o kişi adına gecerli olmaz ama kendisinden hac farizası düşmüş olur. Başka alimler ise \"Böyle bir kimsenin başkası adına yaptığı hac sahihtir. Bu hac kendi adına olamaz, çünkü buna niyet etmemiştir\" demişlerdir. Birinci görüşü savunanların delili İbn Abbas'ın Şübrüme olayı hakkındaki hadisidir. Ebu Davud'un nakline göre Hesulullah sallallahualeyhivesellem Şübrüme'ye \"Önce kendi adına haccet, sonra Şübrüme için haccet\"buyurmuştur.(Ebu Davud, Menasik) Aynı hadis İbn Mace'de \"Bunu kendi adına yap sonra Şübrüme adına haccet\" şeklindedir.(ibn Mace, Menasik) Bu hadisin isnadı sahihtir. Buna \"Hac ibadeti diğer ibadetlere benzemez. Bundan dolayı başka ibadetlerin fasid olanına devam edilmezken, haccınkine devam edilir\" diye cevap vermişlerdir. Ebu Cafer et-Taberi bu görüşe katılmıştır, fakat o hadisi \"Şübrüme bu konudaki hükmü bilmiyordu. Hac esnasında öğrenince kendi adına niyet etmesi gerekli cıldu. Bu takdirde hac niyeti başkasından kendi adına dönüşebilir, aksi takdirde kendi adına haccedemez\" şeklinde yorumlamıştır. Bu bölümde zikredilen hadisin genelliğinden, -bir hastanın, hastalığına sabretmesinden dolayı elde ettiği ecir örneğinde olduğu gibi- amel etmeksizin sırf niyetle ilahi ihsandan elde edilen sevap müstesna tutulmuştur. Çünkü bu konuda rivayet vardır. Bu görüş şununla çelişmektedir: Hastanın aldığı sevap, sabrından dolayıdır. Sevap, sadık bir vaade dayanarak ibadete niyet edip, iradesi dışı bir engelin buna fırsat vermediği kimse için sözkonusudur. Sözgelimi bir kimsenin günlük evradı olsa ve mesela bir hastalık nedeniyle onu okumaktan aciz duruma düşse kendisine onun sevabı onları işlemiş gibi yazılır. İstisna edilen şeylerden birisi de -ihtilaflı olmakla birlikte- şudur: Bir kimse farz namaza niyet etse, sonra o namazın farz olarak batıllığını gerektiren bir durumla karşılaşsa acaba bu namaz nafileye dönüşür mü? Bu, mazeret durumunda sözkonusudur. Buna karşılık bir kimse mesela zevalden önce öğle namazının farzı için tekbir alsa, bu namaz farz olarak sahih olmaz ve kişi bu tekbiri kasten almışsa o namaz nafileye de dönüşmez. İhtilaf edilen hususlardan birisi de şudur: Namaza sonradan yetişen bir kimse bir rekata yetiştiği takdirde sadece o bir rekatın cemaat sevabını mı alır, yoksa bütün namazın sevabını mı alır? Gündüz vakti nafile oruca niyet eden bir kimse, o günün tamamının sevabını mı alır yoksa niyet ettiği andan itibaren mi sevaba girer? Mesela ikinci rekatın başında Cuma namazının vakti çıktığında Cuma namazı Cuma olarak mı biter, yoksa öğle namazı olarak mı sona erer ve bu namaz kendiliğinden mi öğle namazına dönüşür yoksa yeni bir niyet etmek gerekir mi? Namaza sonradan yetişen bir kimse mesela ikinci rekattan doğrulma esnasında yetişmişse cumaya mı niyet eder yoksa öğle namazına mı niyet eder? Hac için hac ayları dışında ihrama giren kimsenin bu yaptığı umreye dönüşür mü yoksa dönüşmez mi? Hilelerin geçersiz olduğunu söyleyen bilginlerle, geçerli olduğunu söyleyenler bunları delil olarak kuııanmışlardır. Çünkü her iki grubun dayanağı, am elde bulunan kimsenin niyetidir. Hanefi bilgini Nesefi'nin el-Kajf isimli eserden nakline göre Muhammed b. el-Hasen şöyle demiştir: Hakkı iptale götüren hilelerle Allah'ın ahkamından kaçmak mu'minlerin ahlakından değildir"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 90,
+        "hadith": 1
+      },
+      "narrator": {
+        "en": "`Umar bin Al-Khattab"
+      }
+    },
+    {
+      "hadithNumber": 6954,
+      "arabicNumber": 6954,
+      "book": 90,
+      "hadithInBook": 2,
+      "text": {
+        "arabic": "حَدَّثَنِي إِسْحَاقُ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، عَنْ مَعْمَرٍ، عَنْ هَمَّامٍ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ لاَ يَقْبَلُ اللَّهُ صَلاَةَ أَحَدِكُمْ إِذَا أَحْدَثَ حَتَّى يَتَوَضَّأَ ‏\"‏‏.‏",
+        "translations": {
+          "en": "Narrated Abu Huraira:The Prophet (ﷺ) said, \"Allah does not accept prayer of anyone of you if he does Hadath (passes wind) till he performs the ablution (anew)",
+          "ur": "مجھ سے اسحاق نے بیان کیا، کہا ہم سے عبدالرزاق نے بیان کیا، ان سے معمر نے، ان سے ہمام نے، ان سے ابوہریرہ رضی اللہ عنہ نے کہ نبی کریم صلی اللہ علیہ وسلم نے فرمایا ”اللہ تعالیٰ تم میں سے کسی ایسے شخص کی نماز قبول نہیں کرتا جسے وضو کی ضرورت ہو یہاں تک کہ وہ وضو کر لے۔“",
+          "fr": "Rapporté par Abu Huraira : Le Prophète (ﷺ) a dit : « Allah n’accepte pas la prière de l’un d’entre vous s’il a eu un Hadath (s’il a émis un vent) tant qu’il n’a pas refait ses ablutions. »",
+          "id": "Telah menceritakan kepadaku [Ishaq bin Nashr] telah menceritakan kepada kami [Abdurrazaq] dari [Ma'mar] dari [Hammam] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam bersabda: \"Allah tidak menerima shalat salah seorang diantara kalian jika berhadas hingga ia berwudhu",
+          "tr": "Ebu Hureyre r.a.'in nakline göre Resulullah Sallallahu Aleyhi ve Sellem \"Herhangi biriniz abdestini bozduğunda abdest alıncaya kadar Allahu Teala o kimsenin namazını kabul etmez. \" Fethu'l-Bari Açıklaması: \"Namazda hlle.\" Yani hllenin namazda yer alması. İmam Buhari bu konuda \"Herhangi biriniz abdestini bozduğunda abdest alıncaya kadar Allahu Teala o kimsenin namazını kabul etmez\" hadisine yer vermiştir. Bu hadisin açıklaması Taharet bölümünde geçmişti. İbn Battal şöyle der: Bu hadis \"Namazda son oturuş esnasında abdestini bozan kimsenin namazı sahihtir. Çünkü o kişi namaza muhalif bir amelde bulunmuştur\" diyen görüşe cevap mahiyetindedir. Bu yaklaşım, \"Namazın içinde meydana gelen abdest bozma namazı ifsad eder. Bu hareket hac yaparken cinsel ilişkide bulunmak gibidir. Sözkonusu ilişki hac esnasında onu nasıl bozuyarsa, sonunda da öylece bozar\" denilerek tenkid edilmiştir. İbnü'I-Müneyyir şöyle der: İmam Buhari atmış olduğu bu başlıkla \"Son oturuşta kasten abdest bozan bir kimsenin namazı sahihtir, onun abdest bozuşu selam vermek gibidir\" diyenlere \"Bu, abdest bozmakla birlikte namazı sahih kılmak için yapılmış hilelerden birisidir\" diyerek cevap verileceğine işaret etmektedir. Meseleyi biraz daha açmak gerekirse İmam Buhari namazdan çıkış ın onun bir rüknü olduğu görüşüne dayanmaktadır. Dolayısıyla abdest bozmak suretiyle böyle bir rüknü ifa etmek sahih olmaz. Abdest bozarak namazdan çıkmanın sahih olduğunu söyleyen görüşe göre ise namazdan çıkış, namazia bağdaşmayan bir hareketle olur. Dolayısıyla abdest bozmakla namazdan çıkmak sahih olur. İbnü'I-Müneyyir şöyle devam eder: Prensip bu olunca selamın namazia bağdaşmayan bir hareket değil, ona dahil bir rükün olması gerekir. Selamın namazın bir rüknü olduğu görüşünü ifade edenler onun \"Namazın girişi tekbirle, çıkışı selamladır\" hadisinde namazdan çıkışın karşıtı olarak ifade edilmesine dayanmışlardır. Namazın iki ucundan biri (giriş tekbiri) rükün olduğuna göre diğer ucun da (selam) rükün olması gerekir. Selamın ibadetler cinsinden olması da bu görüşü teyid etmektedir. Zira selam Allah'ı zikir ve onun kullarına duadır. Netice olarak çirkin bir abdest bozma fiili, güzel bir zikrin yerini alamaz. Hanefiler selam rükün değil, vaciptir diyerek bundan ayrılmışlardır. Onlara göre bir kimsenin teşehhüd duasını okuduktan sonra abdesti bozulsa gidip abdest alır ve selam vererek namazdan çıkar. Şayet kasten abdest bozarsa kasıtlı hareket, namaz ibadetini keser. \"Kesme\" meydana gelince, selam rükün olmadığı için namaz sona erer. İbn Battal şöyle der: Bu yaklaşım İmam Ebu Hanife'nin \"Namazda abdesti bozulan kimse gidip abdest alıp namazına kaldığı yerden devam eder\" şeklindeki görüşüne red mahiyetindedir. İmam Malik ve Şafiı bu durumdaki kimsenin namazı yeniden kılması gerektiğini söylemişler ve bu başlık altında yer verdiğimiz hadisi görüşlerine delil olarak göstermişlerdir"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 90,
+        "hadith": 2
+      },
+      "narrator": {
+        "en": "Abu Huraira"
+      }
+    },
+    {
+      "hadithNumber": 6955,
+      "arabicNumber": 6955,
+      "book": 90,
+      "hadithInBook": 3,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ الأَنْصَارِيُّ، حَدَّثَنَا أَبِي، حَدَّثَنَا ثُمَامَةُ بْنُ عَبْدِ اللَّهِ بْنِ أَنَسٍ، أَنَّ أَنَسًا، حَدَّثَهُ أَنَّ أَبَا بَكْرٍ كَتَبَ لَهُ فَرِيضَةَ الصَّدَقَةِ الَّتِي فَرَضَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ وَلاَ يُجْمَعُ بَيْنَ مُتَفَرِّقٍ وَلاَ يُفَرَّقُ بَيْنَ مُجْتَمِعٍ خَشْيَةَ الصَّدَقَةِ ‏\"‏‏.‏",
+        "translations": {
+          "en": "Narrated Anas:That Abu Bakr wrote for him, Zakat regulations which Allah's Messenger (ﷺ) had made compulsory, and wrote that one should neither collect various portions (of the property) nor divide the property into various portions in order to avoid paying Zakat",
+          "ur": "ہم سے محمد بن عبداللہ الانصاری نے بیان کیا، کہا ہم سے ہمارے والد نے بیان کیا، کہا ہم سے ثمامہ بن عبداللہ بن انس نے بیان کیا، اور ان سے انس بن مالک رضی اللہ عنہ نے بیان کیا کہ ابوبکر رضی اللہ عنہ نے انہیں ( زکوٰۃ ) کا حکم نامہ لکھ کر بھیجا جو رسول اللہ صلی اللہ علیہ وسلم نے فرض قرار دیا تھا کہ متفرق صدقہ کو ایک جگہ جمع نہ کیا جائے اور نہ مجتمع صدقہ کو متفرق کیا جائے زکوٰۃ کے خوف سے۔",
+          "fr": "Rapporté par Anas : Abu Bakr lui a écrit les règles de la Zakat que le Messager d’Allah (ﷺ) avait rendues obligatoires, et il a écrit qu’il ne fallait ni rassembler différentes parties d’un bien ni le diviser en plusieurs parties pour éviter de payer la Zakat",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Abdullah Al Anshari] telah menceritakan kepada kami [Ayahku] telah menceritakan kepada kami [Tsumamah bin Abdullah bin Anas] bahwasanya [Anas] menceritakan kepadanya, bahwasanya Abu Bakar menuliskan kepadanya kewajiban sedekah sebagaimana Rasulullah Shallallahu'alaihiwasallam wajibkan, hewan ternak yang terpisah tidak boleh dihimpun dan hewan yang terhimpun tidak boleh dipisah, karena takut sedekah (zakat) nya",
+          "tr": "Enes b. Malik r.a.'in nakline göre Ebu Bekir r.a., Resulullah Sallallahu Aleyhi ve Sellem'in takdir buyurduğu zekat miktarlarına dair Enes b. Malik'e bir mektup yazdı. Bu mektupta zekat (artar) korkusuyla dağınık olan zekat malı biraraya toplanmaz, toplu bulunanlar da dağıtılmaz diyordu"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 90,
+        "hadith": 3
+      },
+      "narrator": {
+        "en": "Anas"
+      }
+    },
+    {
+      "hadithNumber": 6956,
+      "arabicNumber": 6956,
+      "book": 90,
+      "hadithInBook": 4,
+      "text": {
+        "arabic": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا إِسْمَاعِيلُ بْنُ جَعْفَرٍ، عَنْ أَبِي سُهَيْلٍ، عَنْ أَبِيهِ، عَنْ طَلْحَةَ بْنِ عُبَيْدِ اللَّهِ، أَنَّ أَعْرَابِيًّا، جَاءَ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم ثَائِرَ الرَّأْسِ فَقَالَ يَا رَسُولَ اللَّهِ أَخْبِرْنِي مَاذَا فَرَضَ اللَّهُ عَلَىَّ مِنَ الصَّلاَةِ فَقَالَ ‏\"‏ الصَّلَوَاتِ الْخَمْسَ، إِلاَّ أَنْ تَطَوَّعَ شَيْئًا ‏\"‏‏.‏ فَقَالَ أَخْبِرْنِي بِمَا فَرَضَ اللَّهُ عَلَىَّ مِنَ الصِّيَامِ قَالَ ‏\"‏ شَهْرَ رَمَضَانَ، إِلاَّ أَنْ تَطَوَّعَ شَيْئًا ‏\"‏‏.‏ قَالَ أَخْبِرْنِي بِمَا فَرَضَ اللَّهُ عَلَىَّ مِنَ الزَّكَاةِ قَالَ فَأَخْبَرَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم شَرَائِعَ الإِسْلاَمِ‏.‏ قَالَ وَالَّذِي أَكْرَمَكَ لاَ أَتَطَوَّعُ شَيْئًا وَلاَ أَنْقُصُ مِمَّا فَرَضَ اللَّهُ عَلَىَّ شَيْئًا‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ أَفْلَحَ إِنْ صَدَقَ ‏\"‏‏.‏ أَوْ ‏\"‏ دَخَلَ الْجَنَّةَ إِنْ صَدَقَ ‏\"‏‏.‏ وَقَالَ بَعْضُ النَّاسِ فِي عِشْرِينَ وَمِائَةِ بَعِيرٍ حِقَّتَانِ‏.‏ فَإِنْ أَهْلَكَهَا مُتَعَمِّدًا، أَوْ وَهَبَهَا أَوِ احْتَالَ فِيهَا فِرَارًا مِنَ الزَّكَاةِ، فَلاَ شَىْءَ عَلَيْهِ‏.‏",
+        "translations": {
+          "en": "Narrated Talha bin 'Ubaidullah:A bedouin with unkempt hair came to Allah's Messenger (ﷺ) and said, \"O Allah's Messenger (ﷺ)! Tell me what Allah has enjoined on me as regards prayers.\" The Prophet (ﷺ) said, \"You have to offer perfectly the five (compulsory) prayers in a day and a night (24 hrs.), except if you want to perform some extra optional prayers.\" The bedouin said, \"Tell me what Allah has enjoined on me as regards fasting.\" The Prophet (ﷺ) said, \"You have to observe fast during the month of Ramadan except if you fast some extra optional fast.\" The bedouin said, \"Tell me what Allah has enjoined on me as regard Zakat.\" The Prophet (ﷺ) then told him the Islamic laws and regulations whereupon the bedouin said, \"By Him Who has honored you, I will not perform any optional deeds of worship and I will not leave anything of what Allah has enjoined on me.\" Allah's Messenger (ﷺ) said, \"He will be successful if he has told the truth (or he will enter Paradise if he said the truth).\" And some people said, \"The Zakat for one-hundred and twenty camels is two Hiqqas, and if the Zakat payer slaughters the camels intentionally or gives them as a present or plays some other trick in order to avoid the Zakat, then there is no harm (in it) for him",
+          "ur": "ہم سے قتیبہ بن سعید نے بیان کیا، کہا ہم سے اسماعیل بن جعفر نے بیان کیا، ان سے ابوسہیل نافع نے، ان سے ان کے والد مالک بن ابی عامر نے، اور ان سے طلحہ بن عبیداللہ رضی اللہ عنہ نے کہ ایک دیہاتی ( ضمام بن ثعلبہ ) رسول اللہ صلی اللہ علیہ وسلم کی خدمت میں اس حال میں حاضر ہوا کہ اس کے سر کے بال پراگندہ تھے اور عرض کیا: یا رسول اللہ! مجھے بتائیے کہ اللہ تعالیٰ نے مجھ پر کتنی نمازیں فرض کی ہیں؟ نبی کریم صلی اللہ علیہ وسلم نے فرمایا کہ پانچ وقت کی نمازیں۔ سوا ان نمازوں کے جو تم نفلی پڑھو۔ اس نے کہا مجھے بتائیے کہ اللہ تعالیٰ نے کتنے روزے فرض کئے ہیں؟ نبی کریم صلی اللہ علیہ وسلم نے فرمایا کہ رمضان کے مہینے کے روزے سوا ان کے جو تم نفلی رکھو۔ اس نے پوچھا مجھے بتائیے کہ اللہ تعالیٰ نے زکوٰۃ کتنی فرض کی ہے؟ بیان کیا کہ اس پر نبی کریم صلی اللہ علیہ وسلم نے زکوٰۃ کے مسائل بیان کئے۔ پھر اس دیہاتی نے کہا اس ذات کی قسم جس نے آپ کو یہ عزت بخشی ہے جو اللہ تعالیٰ نے مجھ پر فرض کیا ہے اس میں نہ میں کسی قسم کی زیادتی کروں گا اور نہ کمی۔ نبی کریم صلی اللہ علیہ وسلم نے فرمایا کہ اگر اس نے صحیح کہا ہے تو جنت میں جائے گا اور بعض لوگوں نے کہا کہ ایک سو بیس اونٹوں میں دو حصے تین تین برس کی دو اونٹنیاں جو چوتھے برس میں لگی ہوں زکوٰۃ میں لازم آتی ہیں پس مگر کسی نے ان اونٹوں کو عمداً تلف کر ڈالا ( مثلاً ذبح کر دیا ) اور کوئی حیلہ کیا تو اس کے اوپر سے زکوٰۃ ساقط ہو گی۔",
+          "fr": "Rapporté par Talha ibn 'Ubaidullah : Un bédouin aux cheveux en désordre est venu voir le Messager d’Allah (ﷺ) et a dit : « Ô Messager d’Allah (ﷺ) ! Dis-moi ce qu’Allah m’a imposé concernant la prière. » Le Prophète (ﷺ) a répondu : « Tu dois accomplir parfaitement les cinq prières obligatoires chaque jour et chaque nuit, sauf si tu veux en faire plus de manière volontaire. » Le bédouin a dit : « Dis-moi ce qu’Allah m’a imposé concernant le jeûne. » Le Prophète (ﷺ) a dit : « Tu dois jeûner pendant le mois de Ramadan, sauf si tu veux jeûner davantage de façon volontaire. » Le bédouin a dit : « Dis-moi ce qu’Allah m’a imposé concernant la Zakat. » Le Prophète (ﷺ) lui a alors expliqué les règles de la Zakat. Le bédouin a dit : « Par Celui qui t’a honoré, je ne ferai rien de plus que ce qu’Allah m’a imposé, et je ne délaisserai rien de ce qu’Il m’a ordonné. » Le Messager d’Allah (ﷺ) a dit : « Il réussira s’il dit la vérité (ou il entrera au Paradis s’il dit la vérité). » Et certaines personnes ont dit : « La Zakat pour cent vingt chameaux est de deux Hiqqas, et si celui qui doit la Zakat abat les chameaux exprès, les offre en cadeau ou fait une ruse pour éviter de payer la Zakat, alors cela ne lui cause aucun tort. »",
+          "id": "Telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [Isma'il bin ja'far] dari [Abu Suhail] dari [ayahnya] dari [Thalhah bin Ubaidullah]; ada seorang arab badui menemui Rasulullah shallallahu 'alaihi wasallam dengan rambut acak-acakan, ia berkata; 'ya Rasulullah, beritahukanlah kepadaku shalat apakah yang Allah wajibkan atasku? ' Nabi menjawab: \"shalat lima waktu, kecuali jika engkau mau mengerjakan yang sunnah.\" Si arab badui bertanya lagi: 'Beritahukanlah kepadaku puasa apakah yang Allah wajibkan bagiku? ' Nabi menjawab: \"puasa bulan ramadhan, kecuali jika kamu ingin melaksanakan yang sunnah.\" Si arab badui bertanya; 'Beritahukanlah kepadaku, zakat apakah yang Allah wajibkan atasku? ' maka Rasulullah shallallahu 'alaihi wasallam memberitahukan kepadanya syariat-syariat Islam, dan arab badui tersebut mengatakan; 'Demi Dzat yang memuliakanmu, saya tidak akan melakukan yang sunnah, namun juga tak akan mengurangi sedikitpun yang telah Allah fardhukan atas diriku.' Maka Rasulullah bersabda; \"dia beruntung jika ia jujur atau dengan redaksi -ia masuk surga jika jujur.\" Penulis menuturkan; Sebagian orang mengatakan, bahwa seratus duapuluh unta zakatnya dua hiqqah, dan jika yang punya membelanjakannya secara sengaja, atau meng-hibahkannya atau mencari siasat terhadapnya dengan tujuan untuk tidak berzakat, maka yang demikian dia tak terkena dosa",
+          "tr": "Birileri (Ebu Hanıfe) şöyle demiştir: 120 devede üç yaşına basmış iki deve zekat vardır. Eğer develerin sahibi bilerek bu 120 deveyi yok eder yahut hibe eder veyahut zekattan kaçmak için bir hile yaparsa artık ona hiçbir zekat yoktur"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 90,
+        "hadith": 4
+      },
+      "narrator": {
+        "en": "Talha bin 'Ubaidullah"
+      }
+    },
+    {
+      "hadithNumber": 6958,
+      "arabicNumber": 6958,
+      "book": 90,
+      "hadithInBook": 5,
+      "text": {
+        "arabic": "حَدَّثَنِي إِسْحَاقُ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، حَدَّثَنَا مَعْمَرٌ، عَنْ هَمَّامٍ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ يَكُونُ كَنْزُ أَحَدِكُمْ يَوْمَ الْقِيَامَةِ شُجَاعًا أَقْرَعَ، يَفِرُّ مِنْهُ صَاحِبُهُ فَيَطْلُبُهُ وَيَقُولُ أَنَا كَنْزُكَ‏.‏ قَالَ وَاللَّهِ لَنْ يَزَالَ يَطْلُبُهُ حَتَّى يَبْسُطَ يَدَهُ فَيُلْقِمَهَا فَاهُ ‏\"‏‏.‏ وَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ إِذَا مَا رَبُّ النَّعَمِ لَمْ يُعْطِ حَقَّهَا، تُسَلَّطُ عَلَيْهِ يَوْمَ الْقِيَامَةِ، تَخْبِطُ وَجْهَهُ بِأَخْفَافِهَا ‏\"‏‏.‏ وَقَالَ بَعْضُ النَّاسِ فِي رَجُلٍ لَهُ إِبِلٌ، فَخَافَ أَنْ تَجِبَ عَلَيْهِ الصَّدَقَةُ، فَبَاعَهَا بِإِبِلٍ مِثْلِهَا، أَوْ بِغَنَمٍ، أَوْ بِبَقَرٍ، أَوْ بِدَرَاهِمَ، فِرَارًا مِنَ الصَّدَقَةِ بِيَوْمٍ، احْتِيَالاً فَلاَ بَأْسَ عَلَيْهِ، وَهْوَ يَقُولُ إِنْ زَكَّى إِبِلَهُ قَبْلَ أَنْ يَحُولَ الْحَوْلُ بِيَوْمٍ أَوْ بِسَنَةٍ، جَازَتْ عَنْهُ‏.‏",
+        "translations": {
+          "en": "Narrated Abu Huraira:Allah's Messenger (ﷺ) said, \"On the Day of Resurrection the Kanz (Treasure or wealth of which, Zakat has not been paid) of anyone of you will appear in the shape of a huge bald headed poisonous male snake and its owner will run away from it, but it will follow him and say, 'I am your Kanz.'\" The Prophet (ﷺ) added, \"By Allah, that snake will keep on following him until he stretches out his hand and let the snake swallow it.\" Allah's Messenger (ﷺ) added, \"If the owner of camels does not pay their Zakat, then, on the Day of Resurrection those camels will come to him and will strike his face with their hooves.\" Some people said: Concerning a man who has camels, and is afraid that Zakat will be due so he sells those camels for similar camels or for sheep or cows or money one day before Zakat becomes due in order to avoid payment of their Zakat cunningly! \"He has not to pay anything.\" The same scholar said, \"If one pays Zakat of his camels one day or one year prior to the end of the year (by the end of which Zakat becomes due), his Zakat will be valid",
+          "fr": "Rapporté par Abu Huraira : Le Messager d'Allah (ﷺ) a dit : « Le Jour de la Résurrection, le Kanz (trésor ou richesse dont la Zakat n’a pas été payée) de chacun d’entre vous apparaîtra sous la forme d’un énorme serpent mâle, chauve et venimeux. Son propriétaire s’enfuira, mais le serpent le poursuivra en disant : “Je suis ton Kanz.” » Le Prophète (ﷺ) a ajouté : « Par Allah, ce serpent continuera à le suivre jusqu’à ce qu’il tende la main et laisse le serpent l’avaler. » Le Messager d’Allah (ﷺ) a aussi dit : « Si le propriétaire de chameaux ne paie pas leur Zakat, alors, le Jour de la Résurrection, ces chameaux viendront à lui et frapperont son visage avec leurs sabots. » Certaines personnes ont dit : À propos d’un homme qui possède des chameaux et qui craint que la Zakat ne devienne obligatoire, alors il vend ces chameaux contre d’autres chameaux, ou contre des moutons, des vaches ou de l’argent, un jour avant que la Zakat ne soit due, pour éviter de payer la Zakat par ruse : « Il n’a rien à payer. » Le même savant a dit : « Si quelqu’un paie la Zakat de ses chameaux un jour ou un an avant la fin de l’année (au terme de laquelle la Zakat devient obligatoire), sa Zakat est valable. »",
+          "id": "Telah menceritakan kepadaku [Ishaq] telah menceritakan kepada kami [Abdurrazzaq] telah menceritakan kepada kami [Ma'mar] dari [Hammam] dari [Abu Hurairah] radliallahu 'anhu mengatakan, Rasulullah shallallahu 'alaihi wasallam bersabda: \"Harta salah seorang diantara kalian (jika tidak dizakati), maka pada hari kiamat menjadi ular yang menyeramkan, pemilik harta itu berusaha menyelamatkan diri namun si ular terus memburunya sambil mengatakan; 'aku adalah hartamu, ' Demi Allah, si ular itu tiada henti memburunya hingga orang yang mempunyai harta membentangkan tangannya dan dia melahapnya.\" Dan Rasulullah shallallahu 'alaihi wasallam bersabda: \"Jika pemilik unta tidak memberikan haknya, maka pada hari kiamat unta tersebut melawannya hingga menginjak-injak wajahnya dengan kuku kakinya.\" - Sebagian orang mengatakan bahwa jika seseorang yang mempunyai unta lantas khawatir terkena kewajiban zakat, lalu sehari sebelum haul tiba ia menjualnya dengan unta semisal atau kambing atau sapi, atau dirham dengan niat agar tidak terkena wajib zakat, maka tak ada dosa baginya. Dan dia mengatakan; jika ia menzakati untanya sehari sebelum haul tiba, atau enam hari sebelumnya, maka juga diperbolehkan",
+          "tr": "Ebu Hureyre r.a.'in nakline göre Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurdu: \"(Zekatı verilmeden saklanmış) servetiniz, kıyamet gününde çok zehirli erkek bir yılan (kılığında) olur, sahibi ondan kaçar, o da sahibinin peşine düşer ve 'Ben senin (dünyadaki) servetinim!' der durur.\" Resulullah Sallallahu Aleyhi ve Sellem buyurdu ki: \"VAllahi o yılan sahibinin peşinden aynlmaz. Nihayet mal sahibi elini uzatır da kendi elini onun ağzına verip yutturur"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 90,
+        "hadith": 5
+      },
+      "narrator": {
+        "en": "Abu Huraira"
+      }
+    },
+    {
+      "hadithNumber": 6959,
+      "arabicNumber": 6959,
+      "book": 90,
+      "hadithInBook": 6,
+      "text": {
+        "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا لَيْثٌ، عَنِ ابْنِ شِهَابٍ، عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ بْنِ عُتْبَةَ، عَنِ ابْنِ عَبَّاسٍ، أَنَّهُ قَالَ اسْتَفْتَى سَعْدُ بْنُ عُبَادَةَ الأَنْصَارِيُّ رَسُولَ اللَّهِ صلى الله عليه وسلم فِي نَذْرٍ كَانَ عَلَى أُمِّهِ، تُوُفِّيَتْ قَبْلَ أَنْ تَقْضِيَهُ، فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ اقْضِهِ عَنْهَا ‏\"‏‏.‏ وَقَالَ بَعْضُ النَّاسِ إِذَا بَلَغَتِ الإِبِلُ عِشْرِينَ، فَفِيهَا أَرْبَعُ شِيَاهٍ، فَإِنْ وَهَبَهَا قَبْلَ الْحَوْلِ أَوْ بَاعَهَا، فِرَارًا وَاحْتِيَالاً لإِسْقَاطِ الزَّكَاةِ، فَلاَ شَىْءَ عَلَيْهِ، وَكَذَلِكَ إِنْ أَتْلَفَهَا فَمَاتَ، فَلاَ شَىْءَ فِي مَالِهِ‏.‏",
+        "translations": {
+          "en": "Narrated Ibn Abbas: Sa'd bin 'Ubada Al-Ansari sought the verdict of Allah's Messenger (ﷺ) regarding a vow made by his mother who had died before fulfilling it. Allah's Messenger (ﷺ) said, \"Fulfill it on her behalf.\" Some people said, \"If the number of camels reaches twenty, then their owner has to pay four sheep as Zakat; and if their owner gives them as a gift or sells them in order to escape the payment of Zakat cunningly before the completion of a year, then he is not to pay anything, and if he slaughters them and then dies, then no Zakat is to be taken from his property",
+          "ur": "ہم سے قتیبہ بن سعید نے بیان کیا، کہا ہم سے لیث بن سعد نے بیان کیا، ان سے ابن شہاب نے، ان سے عبیداللہ بن عتبہ نے، اور ان سے ابن عباس رضی اللہ عنہما نے بیان کیا کہ سعد بن عبادہ انصاری رضی اللہ عنہ نے رسول اللہ صلی اللہ علیہ وسلم سے ایک نذر کے بارے میں سوال کیا جو ان کی والدہ پر تھی اور ان کی وفات نذر پوری کرنے سے پہلے ہی ہو گئی تھی۔ نبی کریم صلی اللہ علیہ وسلم نے فرمایا کہ تو ان کی طرف سے پوری کر۔ اس کے باوجود بعض لوگ یہ کہتے ہیں کہ جب اونٹ کی تعداد بیس ہو جائے تو اس میں چار بکریاں لازم ہیں۔ پس اگر سال پورا ہونے سے پہلے اونٹ کو ہبہ کر دے یا اسے بیچ دے۔ زکوٰۃ سے بچنے یا حیلہ کے طور پر تاکہ زکوٰۃ اس پر ختم ہو جائے تو اس پر کوئی چیز واجب نہیں ہو گی۔ یہی حال اس صورت میں ہے اگر اس نے ضائع کر دیا اور پھر مر گیا تو اس کے مال پر کچھ واجب نہیں ہو گا۔",
+          "fr": "Rapporté par Ibn Abbas : Sa'd bin 'Ubada Al-Ansari a demandé au Messager d’Allah (ﷺ) ce qu’il fallait faire pour un vœu fait par sa mère qui est morte avant de l’accomplir. Le Messager d’Allah (ﷺ) a dit : « Accomplis-le à sa place. » Certaines personnes ont dit : « Si le nombre de chameaux atteint vingt, alors leur propriétaire doit donner quatre moutons comme Zakat ; et si le propriétaire les offre en cadeau ou les vend pour éviter de payer la Zakat par ruse avant la fin de l’année, il n’a rien à payer. Et s’il les abat puis meurt, aucune Zakat ne sera prise sur ses biens. »",
+          "id": "Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Laits] dari [Ibnu Syihab] dari [Ubaidullah bin Abdullah bin Utbah] dari [Ibnu Abbas] bahwasanya ia mengatakan, Sa'ad bin Ubadah Al Anshari pernah meminta fatwa Rasulullah Shallallahu'alaihiwasallam tentang nadzar ibunya yang meninggal sebelum menunaikan nadzarnya. Maka Rasulullah shallallahu 'alaihi wasallam bersabda: \"Penuhilah nadzarnya\". Sebagian orang mengatakan bahwa jika unta mencapai dua puluh ekor sehingga ia berkewajiban membayar zakat empat ekor kambing, lalu dia menghibahkan unta itu sebelum haul, atau menjualnya dengan niat atau siasat agar tidak terkena wajib zakat, maka tidak ada denda atasnya, demikian pula jika ia menyembunyikannya terus meninggal, maka tidak ada denda dalam hartanya",
+          "tr": "İbn Abbas şöyle demiştir: Sa'd b. Ubade el-Ensari anası üzerinde bir adak borcu olduğunu ve bu adağını yerine getiremeden vefat ettiğini ifade edip, Resulullah Sallallahu Aleyhi ve SellemIden bunun fetvasını istedi. Resulullah Sallallahu Aleyhi ve Sellem de ona: ''Anan adına o adağı yerine getir\" buyurdu"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 90,
+        "hadith": 6
+      },
+      "narrator": {
+        "en": "Ibn Abbas"
+      }
+    },
+    {
+      "hadithNumber": 6960,
+      "arabicNumber": 6960,
+      "book": 90,
+      "hadithInBook": 7,
+      "text": {
+        "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، عَنْ عُبَيْدِ اللَّهِ، قَالَ حَدَّثَنِي نَافِعٌ، عَنْ عَبْدِ اللَّهِ ـ رضى الله عنه ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى عَنِ الشِّغَارِ‏.‏ قُلْتُ لِنَافِعٍ مَا الشِّغَارُ قَالَ يَنْكِحُ ابْنَةَ الرَّجُلِ وَيُنْكِحُهُ ابْنَتَهُ بِغَيْرِ صَدَاقٍ، وَيَنْكِحُ أُخْتَ الرَّجُلِ وَيُنْكِحُهُ أُخْتَهُ بِغَيْرِ صَدَاقٍ‏.‏ وَقَالَ بَعْضُ النَّاسِ إِنِ احْتَالَ حَتَّى تَزَوَّجَ عَلَى الشِّغَارِ، فَهْوَ جَائِزٌ، وَالشَّرْطُ بَاطِلٌ‏.‏ وَقَالَ فِي الْمُتْعَةِ النِّكَاحُ فَاسِدٌ، وَالشَّرْطُ بَاطِلٌ‏.‏ وَقَالَ بَعْضُهُمُ الْمُتْعَةُ وَالشِّغَارُ جَائِزٌ، وَالشَّرْطُ بَاطِلٌ‏.‏",
+        "translations": {
+          "en": "Narrated 'Abdullah: Nafi narrated to me that 'Abdullah said that Allah's Messenger (ﷺ) forbade the Shighar. I asked Nafi', \"What is the Shighar?\" He said, \"It is to marry the daughter of a man and marry one's daughter to that man (at the same time) without Mahr (in both cases); or to marry the sister of a man and marry one's own sister to that man without Mahr.\" Some people said, \"If one, by a trick, marries on the basis of Shighar, the marriage is valid but its condition is illegal.\" The same scholar said regarding Al-Mut'a, \"The marriage is invalid and its condition is illegal.\" Some others said, \"The Mut'a and the Shighar are permissible but the condition is illegal",
+          "ur": "ہم سے مسدد نے بیان کیا، انہوں نے کہا ہم سے یحییٰ بن سعید قطان نے بیان کیا، ان سے عبیداللہ نے بیان کیا، انہوں نے کہا کہ مجھ سے نافع نے بیان کیا، اور ان سے عبداللہ بن مسعود رضی اللہ عنہ نے کہ رسول اللہ صلی اللہ علیہ وسلم نے شغار سے منع فرمایا۔ میں نے نافع سے پوچھا شغار کیا ہے؟ انہوں نے کہا یہ کہ کوئی شخص بغیر مہر کسی کی لڑکی سے نکاح کرتا ہے یا اس سے بغیر مہر کے اپنی لڑکی کا نکاح کرتا ہے پس اس کے سوا کوئی مہر مقرر نہ ہو اور بعض لوگوں نے کہا اگر کسی نے حیلہ کر کے نکاح شغار کر لیا تو نکاح کا عقد درست ہو گا اور شرط لغو ہو گی ( اور ہر ایک کو مہر مثل عورت کا ادا کرنا ہو گا ) اور ہاں بعض لوگوں نے متعہ میں کہا ہے کہ وہاں نکاح بھی فاسد ہے اور شرط بھی باطل ہے اور بعض یہ کہتے ہیں کہ متعہ اور شغار دونوں جائز ہوں گے اور شرط باطل ہو گی۔",
+          "fr": "Rapporté par 'Abdullah : Nafi m’a raconté que 'Abdullah a dit que le Messager d’Allah (ﷺ) a interdit le Shighar. J’ai demandé à Nafi' : « Qu’est-ce que le Shighar ? » Il a répondu : « C’est marier la fille d’un homme et donner sa propre fille en mariage à cet homme (en même temps) sans Mahr (dot) dans les deux cas ; ou marier la sœur d’un homme et donner sa propre sœur en mariage à cet homme sans Mahr. » Certaines personnes ont dit : « Si quelqu’un, par ruse, se marie selon le Shighar, le mariage est valide mais la condition est illégale. » Le même savant a dit à propos du Mut'a : « Le mariage est invalide et sa condition est illégale. » D’autres ont dit : « Le Mut'a et le Shighar sont permis mais la condition est illégale. »",
+          "id": "Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya bin Sa'id] dari [Ubaidullah] mengatakan, telah menceritakan kepadaku [Nafi'] dari ['Abdullah] radliallahu 'anhu, Rasulullah Shallallahu'alaihiwasallam melarang nikah syighar. Saya bertanya kepada Nafi'; 'Apa maksud syighar? ' Ia menjawab; 'mengawini anak perempuan seseorang lelaki dengan syarat lelaki tersebut dinikahkan dengan anak perempuannya tanpa mahar, atau menikahi saudara perempuan seorang lelaki dengan syarat lelaki tersebut menikahkannya dengan saudara perempuannya tanpa mahar.' Sebagian orang berpendapat; jika seseorang bersiasat sehingga ia nikah syighar, maka perkawinannya boleh dan syaratnya bathil. Dan ia berkata tentang nikah mut'ah; pernikahannya rusak dan syaratnya bathil. Sedang sebagian lain berpendapat bahwa nikah syighar boleh dan syaratnya bathil",
+          "tr": "Abdullah b. Ömer, Resulullah Sallallahu Aleyhi ve Sellem şiğar niktıhını yasakladı deyince, hadisi nakleden Ubeydullah el-UmerlNafl'e \"Şiğar nedir?\" diye sorar. O da \"Biri diğerinin kızını niktıhlar, diğeri de ona kendi kızını mehirsiz olarak niktıhlar ve yine biri diğerinin kızkardeşini niktıhlar ve ona da kendi kızkardeşini mehirsiz olarak niktıhlar\" dedi"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 90,
+        "hadith": 7
+      },
+      "narrator": {
+        "en": "'Abdullah"
+      }
+    },
+    {
+      "hadithNumber": 6961,
+      "arabicNumber": 6961,
+      "book": 90,
+      "hadithInBook": 8,
+      "text": {
+        "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنْ عُبَيْدِ اللَّهِ بْنِ عُمَرَ، حَدَّثَنَا الزُّهْرِيُّ، عَنِ الْحَسَنِ، وَعَبْدِ اللَّهِ، ابْنَىْ مُحَمَّدِ بْنِ عَلِيٍّ عَنْ أَبِيهِمَا، أَنَّ عَلِيًّا ـ رضى الله عنه ـ قِيلَ لَهُ إِنَّ ابْنَ عَبَّاسٍ لاَ يَرَى بِمُتْعَةِ النِّسَاءِ بَأْسًا‏.‏ فَقَالَ إِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى عَنْهَا يَوْمَ خَيْبَرَ، وَعَنْ لُحُومِ الْحُمُرِ الإِنْسِيَّةِ‏.‏ وَقَالَ بَعْضُ النَّاسِ إِنِ احْتَالَ حَتَّى تَمَتَّعَ، فَالنِّكَاحُ فَاسِدٌ‏.‏ وَقَالَ بَعْضُهُمُ النِّكَاحُ جَائِزٌ وَالشَّرْطُ بَاطِلٌ‏.‏",
+        "translations": {
+          "en": "Narrated Muhammad bin `Ali:`Ali was told that Ibn `Abbas did not see any harm in the Mut'a marriage. `Ali said, \"Allah's Messenger (ﷺ) forbade the Mut'a marriage on the Day of the battle of Khaibar and he forbade the eating of donkey's meat.\" Some people said, \"If one, by a tricky way, marries temporarily, his marriage is illegal.\" Others said, \"The marriage is valid but its condition is illegal",
+          "ur": "ہم سے مسدد نے بیان کیا، انہوں نے کہا ہم سے یحییٰ قطان نے بیان کیا، ان سے عبیداللہ بن عمر نے بیان کیا، انہوں نے کہا کہ ہم سے زہری نے بیان کیا، ان سے حسن اور عبداللہ بن محمد بن علی نے بیان کیا، ان سے ان کے والد نے کہ علی رضی اللہ عنہ سے کہا گیا کہ عبداللہ بن عباس رضی اللہ عنہما عورتوں کے متعہ میں کوئی حرج نہیں سمجھتے انہوں نے کہا کہ رسول اللہ صلی اللہ علیہ وسلم نے خیبر کی لڑائی کے موقع پر متعہ سے اور پالتو گدھوں کے گوشت سے منع کر دیا تھا اور بعض لوگ کہتے ہیں کہ اگر کسی نے حیلہ سے متعہ کر لیا تو نکاح فاسد ہے اور بعض لوگوں نے کہا کہ نکاح جائز ہو جائے گا اور میعاد کی شرط باطل ہو جائے گی۔",
+          "fr": "Rapporté par Muhammad bin `Ali : On a dit à `Ali qu’Ibn `Abbas ne voyait pas de mal au mariage Mut'a. `Ali a dit : « Le Messager d’Allah (ﷺ) a interdit le mariage Mut'a le jour de la bataille de Khaibar et il a interdit de manger la viande d’âne. » Certaines personnes ont dit : « Si quelqu’un, par ruse, se marie temporairement, son mariage est illégal. » D’autres ont dit : « Le mariage est valide mais la condition est illégale. »",
+          "id": "Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari [Ubaidullah bin Umar] telah menceritakan kepada kami [Az Zuhri] dari [Al Hasan] dan [Abdullah], kedua anak Muhammad bin Ali, dari [ayah keduanya], bahwa di sampaikan kepada [Ali] radliallahu 'anhu; bahwa Ibnu Abbas menganggap nikah mut'ah tidak masalah, maka Ali berkata; 'Rasulullah telah melarangnya pada hari khaibar, dan beliau melarang daging keledai jinak.' Sebagian orang mengatakan; bahwa jika seseorang menyiasati sehingga nikah mut'ah, maka nikahnya rusak, sedang sebagian yang lain mengatakan nikahnya boleh dan syaratnya bathil",
+          "tr": "el-Hasen ve Abdullah b. Muhammed b. Ali'nin nakillerine göre babaları Hz. Ali'ye \"İbn Abbas kadınların mut'a nikahıyla nikah edilmesinde bir sakınca görmüyor\" diye söylenir. Bunun üzerine Hz. Ali: \"Şüphesiz Resulullah Sallallahu Aleyhi ve Sellem Hayber günü mut'a suretiyle nikah yapmayı ve ehli eşek etini yemeyi yasakladı\" demiştir"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 90,
+        "hadith": 8
+      },
+      "narrator": {
+        "en": "Muhammad bin `Ali"
+      }
+    },
+    {
+      "hadithNumber": 6962,
+      "arabicNumber": 6962,
+      "book": 90,
+      "hadithInBook": 9,
+      "text": {
+        "arabic": "حَدَّثَنَا إِسْمَاعِيلُ، حَدَّثَنَا مَالِكٌ، عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ لاَ يُمْنَعُ فَضْلُ الْمَاءِ لِيُمْنَعَ بِهِ فَضْلُ الْكَلإِ ‏\"‏‏.‏",
+        "translations": {
+          "en": "Narrated Abu Huraira:Allah's Messenger (ﷺ) said, \"One should not prevent others from watering their animals with the surplus of his water in order to prevent them from benefiting by the surplus of grass",
+          "ur": "ہم سے اسماعیل نے بیان کیا، کہ ہم سے امام مالک نے، ان سے ابوالزناد نے، ان سے اعرج نے اور ان سے ابوہریرہ رضی اللہ عنہ نے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا ”بچا ہوا بےضرورت پانی اس لیے نہ روکا جائے کہ اس کی وجہ سے بچی ہوئی گھاس بھی بچی رہے ( اس میں بھی حیلہ سازی سے روکا گیا ہے ) ۔",
+          "fr": "Rapporté par Abu Huraira : Le Messager d'Allah (ﷺ) a dit : « Il ne faut pas empêcher les autres d’abreuver leurs animaux avec le surplus de son eau, afin de ne pas les empêcher de profiter aussi du surplus d’herbe. »",
+          "id": "Telah menceritakan kepada kami [Isma'il] telah menceritakan kepada kami [Malik] dari [Abu Az Zanad] dari [Al A'raj] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: \"Tidak boleh kelebihan air ditahan untuk menahan tumbuhnya rerumputan",
+          "tr": "Ebu Hureyre r.a.'in nakline göre Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: \"Su fazlası engellenemez, çünkü neticede (mubah olan) ot fazlası (hayvan sahiplerinden) men edilmiş olur\" buyurmuştur. Fethu'l-Bari Açıklaması: 'Alışverişlerde mekruh olan hile ve fazla otu engellemek amacıyla su fazlasının engellenmemesi.\" Mühelleb şöyle demiştir: Atılan başlıktan maksat şudur: Bir kimsenin kuyusu olup, çevresinde herkese açık bir otlak bulunmaktadır. Kuyu sahibi ise bu otun sırf kendisine ait olmasını istemektedir. Bu maksatla kuyusundaki su fazlasını -hiç ihtiyacı olmadığı halde- başkalarının hayvanlarının gelip içmesine engel olmaktadır. Onun asıl ihtiyacı kuyunun etrafında bulunan otlaradır. Ancak bu otlar kimsenin mülkü dahilinde olmadığı için onu engelleyememektedir. Dolayısıyla suya engelolmakta ve böylece bolota sahip olmaktadır. Çünkü hayvanlar susuz yapamaz, tam tersine otladığında susar. Başka kuyunun suyu ise hayvanlarından uzaktadır. Sürünün sahibinin ise bu otlarda gözü yoktur. Netice olarak kuyu sahibi böyle bir hileye başvurarak o otlara sahip olur. Hadisin manası şudur: Su fazlası hiçbir şekilde engellenemez. Çünkü su başka bir sebepten engellenemediğine göre bizatihi kendisi sebebiyle evleviyetle engellenemez. Suyun \"fazla\" şeklinde nitelenmesi, suyun ihtiyacından fazla olmaması durumunda onu başkasına vermemesinin caiz olduğuna işaret etmektedir. Doğruyu en iyi Allahu Teala bilir. İbnü'l-Müneyyir şöyle demiştir: Buharl'nin attığı başlığın hadise hangi açıdan uyduğuna gelince, çöllerde açılmış kuyuların sahipleri fazla olan miktar dışındaki suyu kendilerine ayırabilirler. Herkesin yararlanma hakkı olan ot ise böyle değildir. O kimsenin özel mülkü olamaz. Kuyu sahibi hIleye başvurup, kuyunun yakınındaki otları çoğaltmak maksadıyla ihtiyaç fazlası su olmadığını iddia edecek olursa, hayvan sahibi bu takdirde hayvanlarını başka bir suya götürmek zorunda kalacaktır. Çünkü hayvanlar susuz kaldıkları takdirde otlayamazlar. İşte bu durumda kuyu sahibi yasaklık kapsamına girmiş olur"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 90,
+        "hadith": 9
+      },
+      "narrator": {
+        "en": "Abu Huraira"
+      }
+    },
+    {
+      "hadithNumber": 6963,
+      "arabicNumber": 6963,
+      "book": 90,
+      "hadithInBook": 10,
+      "text": {
+        "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، عَنْ مَالِكٍ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى عَنِ النَّجْشِ‏.‏",
+        "translations": {
+          "en": "Narrated Ibn `Umar:Allah's Messenger (ﷺ) forbade the practice of An-Najsh",
+          "ur": "ہم سے قتیبہ بن سعید نے بیان کیا، کہا ہم سے امام مالک نے ان سے نافع نے اور ان سے ابن عمر رضی اللہ عنہما نے کہ نبی کریم صلی اللہ علیہ وسلم نے بیع نجش سے منع فرمایا۔",
+          "fr": "Rapporté par Ibn `Umar : Le Messager d'Allah (ﷺ) a interdit la pratique de l’An-Najsh",
+          "id": "Telah menceritakan kepada kami [Qutaibah bin Sa'id] dari [Malik] dari [Nafi'] dari [Ibnu Umar], Rasulullah Shallallahu'alaihiwasallam melarang (jual beli) najasy (penipuan)",
+          "tr": "İbn Ömer r.a.'in nakline göre Resulullah Sallallahu Aleyhi ve Sellem neceşi (hlleli arttırmayı) yasaklamıştır. Fethu'l-Bari Açıklaması: \"Mekruh olan neceş (hileli arttırma)\" İmam Buhari bununla \"Resulullah s.a.v. neceşi yasaklamıştır\" lafzıyla rivayet edilen hadisin bazı rivayet yollarında Ebu. Hureyre'den \"Neceş yapmayınız\" şeklindeki rivayete işaret etmektedir. Bu hadisin geniş bir açıklaması Büyu' bölümünde geçmişti. Başlıkta yer alan \"mekruhluk\"tan maksat tahrimen mekruhluktur"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 90,
+        "hadith": 10
+      },
+      "narrator": {
+        "en": "Ibn `Umar"
+      }
+    },
+    {
+      "hadithNumber": 6964,
+      "arabicNumber": 6964,
+      "book": 90,
+      "hadithInBook": 11,
+      "text": {
+        "arabic": "حَدَّثَنَا إِسْمَاعِيلُ، حَدَّثَنَا مَالِكٌ، عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ـ رضى الله عنهما ـ أَنَّ رَجُلاً، ذَكَرَ لِلنَّبِيِّ صلى الله عليه وسلم أَنَّهُ يُخْدَعُ فِي الْبُيُوعِ فَقَالَ ‏ \"‏ إِذَا بَايَعْتَ فَقُلْ لاَ خِلاَبَةَ ‏\"‏‏.‏",
+        "translations": {
+          "en": "Narrated `Abdullah bin `Umar:A man mentioned to the Prophet (ﷺ) that he had always been cheated in bargains. The Prophet (ﷺ) said, \"Whenever you do bargain, say, 'No cheating",
+          "ur": "ہم سے اسماعیل نے بیان کیا، کہا ہم سے امام مالک نے بیان کیا، ان سے عبداللہ بن دینار نے اور ان سے عبداللہ بن عمر رضی اللہ عنہما نے کہ ایک صحابی نے نبی کریم صلی اللہ علیہ وسلم سے عرض کیا کہ وہ خرید و فروخت میں دھوکہ کھا جاتے ہیں۔ نبی کریم صلی اللہ علیہ وسلم نے فرمایا کہ جب تم کچھ خریدا کرو تو کہہ دیا کرو کہ اس میں کوئی دھوکہ نہ ہونا چاہئے۔",
+          "fr": "Rapporté par `Abdullah bin `Umar : Un homme a dit au Prophète (ﷺ) qu’il se faisait toujours tromper lors de ses achats. Le Prophète (ﷺ) lui a dit : « À chaque fois que tu fais un marché, dis : ‘Pas de tromperie’. »",
+          "id": "Telah menceritakan kepada kami [Isma'il] telah menceritakan kepada kami [Malik] dari [Abdullah bin Dinar] dari [Abdullah bin Umar] radliallahu 'anhuma; ada seorang laki-laki mengeluhkesahkan dirinya kepada Nabi shallallahu 'alaihi wasallam, karena dirinya sering ditipu dalam jual beli, maka beliau bersabda: \"Jika kamu jual-beli, katakan; 'Namun dengan syarat tak ada penipuan",
+          "tr": "Abdullah b. Ömer'in nakline göre adamın biri Resulullah Sallallahu Aleyhi ve Sellem'e alışverişIerde aldatıldığından yakındı. Bunun üzerine Resulullah Sallallahu Aleyhi ve Sellem ona \"Sen de bir şey satın almak istediğinde aldatmak yoktur de!\" buyurdu. Fethu'l-Bari Açıklaması: Hadisin senedinde adı geçen Eyyub, Eyyub es-Sahtiyanl'dir. \"Onlar sanki bir insanı aldatmaya çalıştıkları gibi Allah'ı aldatmaya çalışırlar. Eğer onlar bu işi açıktan yapsaİardl, bu bana daha kolayolurdu demiştir.\" Kirmanı şöyle der: Eyyub'un demek istediği şudur: Onlar fiyattan daha fazlasını almayı ald atmaksızın açıktan yapsalardı, bu bana daha kolay gelirdi. Zira din başkalarını aldatmaya bir araç olarak getirilmemiştir. Buradan hareketle insanları aldatma ve onlara hile yapma yolunu tutup, günah işleyen kimseler insanların nezdinde bunu açıktan yapanlardan daha sevimsiz olmuşlar ve onların kalplerinde daha değersiz olmuşlardır ve insanlar bu gibi kimselerden çok daha fazla nefret etmişlerdir. İbn Ömer'in \"Sen de bir şey satın almak istediğinde aldatmak yoktur de!\" şeklindeki rivayet ettiği hadisin geniş bir açıklaması Büyu' bölümünde geçmişti. Mühelleb şöyle der: \"Aldatma yok\" ifadesinin manası beni aldatmayın,. çünkü bu helal değildir demektir. Biz de şunu ekleyelim: Görülen odur ki bu ifade şart mesabesindedir. Yani yapılan alışveriş akdinde bir aldatma ortaya çıktığında bu sahih değildir. Bir başka ifade ile o kimse adeta bu akitte aldatma olmaması şartıyla satın alıyorum ya da senin hilen beni bağlamaz demiş olmaktadır. Mühelleb şöyle der: Bir malı övme ve uzun uzun methetme haram olan aldatma kapsamına dahil değildir. Zira bu affedilmiştir. Bununla yapılan alışveriş akdi bozulmaz. İbnü'I-Kayyim, İ'lamu'l-Muvakkıfn isimli eserinde şöyle der: Bazı son dönem bilginleri (müteahhirD.n) hiçbir imamın sahih olarak nitelemediği birtakım hileler uydurmuşlardır. İmam Şafii'nin hayatını ve faziletini bilen kimse -akitleri zahirierine göre değerlendirip, akdi yapanın niyeti ile sözü farklı olduğunda niyetine bakmadığı halde- başkalarını aldatmaya dayalı hile yapmayı emretmediğini bilecektir. ° insanlara aldatma ve hile yapma izni vermekten uzak bir alimdir. Zira bir akdi zahirine göre değerlendirip, kişinin kastına itibar etmemekle, -batını zahiri hilafına olduğu biline biline -hile üzerine kurulmuş olduğu bilinen bir akde cevaz vermek arasındaki fark çok açıktır. İkincinin helalliğini İmam ŞafiI'ye yamayan kimse, Allah katında onun davalısı olacaktır. İmam Şafil'nin cevaz verdiği, şahitlerin adaleti konusunda zahire göre hüküm veren hakim örneğindeki meselelerdir. Hakim, şahitler esasen yalancı şahitler olsalar bile onların zahiri adaletlerine göre hükmünü verir. Bey'u'l-iyne meselesinde de durum böyledir: İmam Şafii bir kimsenin aldığı malı satın aldığı kişiye Müslümanların akitleri hile ve aldatmadan uzaktır kuralına uygun olarak satmasına cevaz vermiştir. 0, asla alıcı ile satıcının bin verip, binikiyüz almak üzere anlaştıktan sonra ortaya faizi çözecek bir mal koymalarına cevaz vermemiştir. Özellikle de satıcı o malı satmaya, müşteri de almaya niyet etmedikleri durumlarda buna asla cevaz vermemiştir. Bu yaklaşıma ortadaki mal satıcının malı gibi gösterildiği durumlarda verdiği hüküm de teyid etmektedir. Mesela satıcının yanında başkasına ait bir mal bufunur ve satıcı akdi bu mal üzerine yapar ve onun kendi mülkü olduğunu iddia eder, müşteri de onu doğrular. Böylece satıcı ve müşteri daha fazla rakam üzerinde anlaşırlar, sonra satıcı o malı daha az bir fiyata geri alır ve zahiren müşteri daha fazla bir meblağla borç altına girer. Buna cevaz veren bunu bilse derhal bu işleme tepki koyar. Çünkü bir görüşün lazımı (ondan çıkacak sonuç), bağımsız yeni bir görüş değildir. Alim, bir şeyden söz eder ve o sözden hangi sonuca gidileceğini (lazımını) aklına getirmeyebilir. Ancak onu öğrendiğinde tepki koyar. Şafiıler akitlere zahirine göre cevaz verirler ve bununla birlikte hile ve kandırmaca ile amel eden kimse batıni olarak günaha girer derler. Bu açıklamayla bu konudan kaynaklanan problemden uzaklaşmak mümkündür. Doğruyu en iyi Allahu Teala bilir"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 90,
+        "hadith": 11
+      },
+      "narrator": {
+        "en": "`Abdullah bin `Umar"
+      }
+    },
+    {
+      "hadithNumber": 6965,
+      "arabicNumber": 6965,
+      "book": 90,
+      "hadithInBook": 12,
+      "text": {
+        "arabic": "حَدَّثَنَا أَبُو الْيَمَانِ، حَدَّثَنَا شُعَيْبٌ، عَنِ الزُّهْرِيِّ، قَالَ كَانَ عُرْوَةُ يُحَدِّثُ أَنَّهُ سَأَلَ عَائِشَةَ ‏{‏وَإِنْ خِفْتُمْ أَنْ لاَ تُقْسِطُوا فِي الْيَتَامَى فَانْكِحُوا مَا طَابَ لَكُمْ مِنَ النِّسَاءِ‏}‏‏.‏ قَالَتْ هِيَ الْيَتِيمَةُ فِي حَجْرِ وَلِيِّهَا، فَيَرْغَبُ فِي مَالِهَا وَجَمَالِهَا، فَيُرِيدُ أَنْ يَتَزَوَّجَهَا بِأَدْنَى مِنْ سُنَّةِ نِسَائِهَا، فَنُهُوا عَنْ نِكَاحِهِنَّ، إِلاَّ أَنْ يُقْسِطُوا لَهُنَّ فِي إِكْمَالِ الصَّدَاقِ، ثُمَّ اسْتَفْتَى النَّاسُ رَسُولَ اللَّهِ صلى الله عليه وسلم بَعْدُ فَأَنْزَلَ اللَّهُ ‏{‏وَيَسْتَفْتُونَكَ فِي النِّسَاءِ‏}‏ فَذَكَرَ الْحَدِيثَ‏.‏",
+        "translations": {
+          "en": "Narrated `Urwa:That he asked `Aisha regarding the Verse: 'If you fear that you shall not be able to deal justly with the orphan girls, marry (other) women of your choice.' (4.3) `Aisha said, \"It is about an orphan girl under the custody of her guardian who being attracted by her wealth and beauty wants to marry her with Mahr less than other women of her status. So such guardians were forbidden to marry them unless they treat them justly by giving them their full Mahr. Then the people sought the verdict of Allah's Apostle for such cases, whereupon Allah revealed: 'They ask your instruction concerning women..' (4.127) (The sub-narrator then mentioned the Hadith)",
+          "ur": "ہم سے ابوالیمان نے بیان کیا، کہا ہم کو شعیب نے خبر دی، ان سے زہری نے کہ عروہ ان سے بیان کرتے تھے کہ عائشہ رضی اللہ عنہا نے آیت «وإن خفتم أن لا تقسطوا في اليتامى فانكحوا ما طاب لكم من النساء‏» ”اور اگر تمہیں خوف ہو کہ تم یتیموں کے بارے میں انصاف نہیں کر سکو گے تو پھر دوسری عورتوں سے نکاح کرو جو تمہیں پسند ہوں۔“ آپ نے کہا کہ اس آیت میں ایسی یتیم لڑکی کا ذکر ہے جو اپنے ولی کی پرورش میں ہو اور ولی لڑکی کے مال اور اس کے حسن سے رغبت رکھتا ہو اور چاہتا ہو کہ عورتوں ( کے مہر وغیرہ کے متعلق ) جو سب سے معمولی طریقہ ہے اس کے مطابق اس سے نکاح کرے تو ایسے ولیوں کو ان لڑکیوں کے نکاح سے منع کیا گیا ہے۔ سوا اس صورت کے کہ ولی مہر کو پورا کرنے میں انصاف سے کام لے۔ پھر لوگوں نے نبی کریم صلی اللہ علیہ وسلم سے اس کے بعد مسئلہ پوچھا تو اللہ تعالیٰ نے یہ آیت نازل کی «ويستفتونك في النساء‏» ”اور لوگ آپ سے عورتوں کے بارے میں مسئلہ پوچھتے ہیں۔“ اور اس واقعہ کا ذکر کیا۔",
+          "fr": "Rapporté par `Urwa : Il a demandé à `Aisha à propos du verset : « Si vous craignez de ne pas être justes envers les orphelines, alors épousez d’autres femmes qui vous plaisent. » (4.3) `Aisha a expliqué : « Il s’agit d’une orpheline sous la garde de son tuteur, qui, attiré par sa richesse et sa beauté, veut l’épouser en lui donnant une dot inférieure à celle des autres femmes de son rang. Ces tuteurs ont donc été interdits de les épouser, à moins de leur donner leur dot complète et d’être justes envers elles. Ensuite, les gens ont demandé au Messager d’Allah un avis sur ces cas, et Allah a révélé : ‘Ils te consultent au sujet des femmes…’ (4.127) » (Le sous-narrateur a ensuite cité le hadith)",
+          "id": "Telah menceritakan kepada kami [Abul Yaman] telah menceritakan kepada kami [Syu'aib] dari [Az Zuhri] mengatakan, [Urwah] menceritakan; ia bertanya [Aisyah] tentang ayat; 'Jika kalian khawatir tidak bisa berbuat adil terhadap yatimmu, maka nikahilah wanita yang baik-baik bagimu, dua, tiga, atau empat (QS. Annisa'; 3) dia mengatakan; 'yaitu yatim dalam asuhan walinya, dan si wali tersebut kurang menyukai kecantikan dan hartanya, namun tetap akan ia nikahi dengan syarat membayar mahar serendah-rendahnya yang menyalahi adat normal. Maka mereka dilarang menikahi anak-anak yatim tersebut kecuali jika berbuat adil dengan membayar mahar secara sempurna, lantas para sahabat bertanya kepada Rasulullah shallallahu 'alaihi wasallam di kemudian hari, maka Allah menurunkan ayat; 'Mereka meminta fatwa kepadamu,,, dan seterusnya (QS. Annisa' 127), kemudian dia menyebutkan hadits",
+          "tr": "Urve b. ZUbeyr, Hz. Aişe r.anha'ye \"Eğer yetimlerin haklarına riayet edememekten korkarsanız beğendiğiniz kadınlardan ikişer, üçer, dörder alın\"(Nisa 3) ayet-i kerimesini sorunca Aişe r.anha şöyle cevap verir: Burada sözü edilen yetim kız, hamisinin himayesinde bulunur. Hamisi onun malı ve güzelliğine rağbet eder ve ona emsalinin mehrinin en azını vermek suretiyle kendisiyle evlenmek ister. İşte bu ayetlerde o gibi velilerin velayetleri altındaki yetim kızların mehirlerini tamamlamak suretiyle kendilerine adaletle davranmadıkça nikah etmeleri yasaklanmıştı. Sonra insanlar Nebi Sallallahu Aleyhi ve Sellem'e gelerek bu konuda fetva istediler. Bunun üzerine Allahu Teala \"Senden kadınlar hakkında fetva istiyorlar\"(Nisa 127) ayet-i kerimesini indirdi. Fethu'l-Bari Açıklaması: \"Velinin bizzat kendisinin evlenmek istediği yetim kız hakkında hile yapmasının ve o kızın mehrini tam olarak vermemesinin yasak olması.\" İmam Buhari bu konuda Aişe r.anha hadisine yer vermiştir. İbn Battal şöyle der: Ayete göre bir velinin yetim bir kızla mehrinden daha azını vermek suretiyle veya mehr-i misli değerine yetmeyecek bir mal vererek kendisi ile evlenmesi caiz değildir. Bu ayetin nüzul sebebi hakkında ihtilaf edilmiştir. Nitekim bu hususa sözkonusu hadisin Nisa suresinin tefsiri bölümünde açıklaması yapılırken değinilmişti. Ayetteki '...........\" ifadesinde bir hazf vardır. Takdiri ........= yetim kızların nikahı hususunda\" demektir. \"..........\" yani yetim kızlar dışında beğendiğiniz kadınlar demektir. Kadı Ebu Bekir b. et-Tayyib şöyle der: Ayetin manası şöyledir: Haklarını talep edecek velileri bulunmayan yetim kızların haklarına riayet edememekten korkarsanız, haklarını arama güçleri olmadığı için onları ifa edemeyeceğinizden emin değilseniz, işlerini çekip çevirmeye gücü yeten ya da kendilerine haksızlık etmenize engelolacak velileri bulunan kadınlarla evleniniz"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 90,
+        "hadith": 12
+      },
+      "narrator": {
+        "en": "`Urwa"
+      }
+    },
+    {
+      "hadithNumber": 6966,
+      "arabicNumber": 6966,
+      "book": 90,
+      "hadithInBook": 13,
+      "text": {
+        "arabic": "حَدَّثَنَا أَبُو نُعَيْمٍ، حَدَّثَنَا سُفْيَانُ، عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ـ رضى الله عنهما ـ عَنِ النَّبِيِّ صلى الله عليه وسلم ‏ \"‏ لِكُلِّ غَادِرٍ لِوَاءٌ يَوْمَ الْقِيَامَةِ يُعْرَفُ بِهِ ‏\"‏‏.‏",
+        "translations": {
+          "en": "Narrated `Abdullah bin `Umar:The Prophet (ﷺ) said, \"For every betrayer there will be a flag by which he will be recognized on the Day of Resurrection",
+          "ur": "ہم سے ابونعیم نے بیان کیا، کہا ہم سے سفیان نے بیان کیا، ان سے عبداللہ بن دینار نے، اور ان سے عبداللہ بن عمر رضی اللہ عنہما نے بیان کیا، کہ نبی کریم صلی اللہ علیہ وسلم نے فرمایا ”ہر دھوکہ دینے والے کے لیے قیامت کے دن ایک جھنڈا ہو گا جس کے ذریعہ وہ پہچانا جائے گا۔“",
+          "fr": "Rapporté par `Abdullah bin `Umar : Le Prophète (ﷺ) a dit : « Chaque traître aura un drapeau par lequel il sera reconnu le Jour de la Résurrection. »",
+          "id": "Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Sufyan] dari [Abdullah bin Dinar] dari [Abdullah bin Umar] radliallahu 'anhuma dari Nabi shallallahu 'alaihi wasallam bersabda: \"Setiap pengkhianat diberi bendera pada hari kiamat sebagai tanda pengenalnya",
+          "tr": "Abdullah b. Ömer'in nakline göre ResuIullah Sallallahu Aleyhi ve Sellem Ahdini bozan herkes için kıyamet gününde kendisinin tanınacağı bir sancak vardır\" buyurmuştur. Fethu'l-Bari Açıklaması: \"Bir kimse bir başkasının eariyesini gasb etse ve onun elinde iken öIdüğünü iddia etse ... \" Bu başlıkta yer aIan \"\" hüküm verildi anIamınadır. \"ÖImüş cariyenin kıymetini ödemesine hükümverilse, sonra cariyenin sahibi onu buIsa ... \" yani sahibi cariyenin öImediğini haber aIsa bu cariye, elinden gasb edilerek alınan sahibine aittir. Sahibi onun kıymetini gasıba öder. \"Bu kıymet bir fiyat (semen) değildir.\" Çünkü araIarında alışveriş akdi cereyan etmemiştir. O bu kıymeti eariyenin eIde mevcut oImadığına binaen aImıştır. BöyIe bir durum ortadan kaIktığına göre asIa dönmek gerekir. \"Ancak böyIe bir hüküm, bir kişinin satmak istemediği cariyesini arzu eden kimseye hile kapısı açar.\" Buradaki \"i\" \"gerekçe gösterdi\" demektir. Cari ye dışında yiyecek maddeIeri ve başka şeyIeri gasb edip, sonra bozuIduğunu iddia etme durumunda da hüküm böyIedir. Aynı şekilde eti yenen bir hayvanı gasb edip, sonra kesen kimse hakkında da aynı hükümIer geçerlidir. \"Ahdini bozan her kişi için kıyamet gününde kendisinin tanznacağı bir sancak vardır.\" Bu hadisin geniş bir açıkIaması Cihad böIümünde geçmişti. Hadisin bu konuda hangi yönden delil oIduğu açıktır. Çünkü gasıbın cariyenin öIdüğünü iddia etmesi, MüsIüman din kardeşi hakkında hıyanet ve ahde vefasızlıktır. İbn BattaI şöyIe demiştir: İmam Ebu Hanıfe bu konuda çoğunIuğa muhalif kaImıştır. Onun düşünce tarzı şöyIedir: Bir şeyin hem kendisi ve hem de bedeli aynı anda aynı kişinin mülkiyetinde birlikte bulunamaz. Çoğunluğun bakış açısı ise şöyledir: Bir Müslümanın malı gönül rızası olmadıkça helal değildir. Kıymetin vacip olması, gasıbın cariyenin öldüğü iddiasında doğru söylediğine binaendir. Cariyenin ölmediği ortaya çıktığına göre o gasbedilen mal, sahibinin mülkiyetinde kalır. Zira gasıbla cariye sahibi arasında sahih ve geçerli bir akit yapılmamıştır. Dolayısıyla cariyenin sahibine geri iade edilmesi gerekir. 10. HAKİMİN VERDİĞİ HÜKMÜN DEĞERİ"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 90,
+        "hadith": 13
+      },
+      "narrator": {
+        "en": "`Abdullah bin `Umar"
+      }
+    },
+    {
+      "hadithNumber": 6967,
+      "arabicNumber": 6967,
+      "book": 90,
+      "hadithInBook": 14,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ، عَنْ سُفْيَانَ، عَنْ هِشَامٍ، عَنْ عُرْوَةَ، عَنْ زَيْنَبَ ابْنَةِ أُمِّ سَلَمَةَ، عَنْ أُمِّ سَلَمَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ إِنَّمَا أَنَا بَشَرٌ، وَإِنَّكُمْ تَخْتَصِمُونَ، وَلَعَلَّ بَعْضَكُمْ أَنْ يَكُونَ أَلْحَنَ بِحُجَّتِهِ مِنْ بَعْضٍ، وَأَقْضِيَ لَهُ عَلَى نَحْوِ مَا أَسْمَعُ، فَمَنْ قَضَيْتُ لَهُ مِنْ حَقِّ أَخِيهِ شَيْئًا، فَلاَ يَأْخُذْ، فَإِنَّمَا أَقْطَعُ لَهُ قِطْعَةً مِنَ النَّارِ ‏\"‏‏.‏",
+        "translations": {
+          "en": "Narrated Um Salama:The Prophet (ﷺ) said, \"I am only a human being, and you people have disputes. May be some one amongst you can present his case in a more eloquent and convincing manner than the other, and I give my judgment in his favor according to what I hear. Beware! If ever I give (by error) somebody something of his brother's right then he should not take it as I have only, given him a piece of Fire.\" (See Hadith No. 638. Vol)",
+          "ur": "ہم سے محمد بن کثیر نے بیان کیا، ان سے سفیان نے، ان سے ہشام نے، ان سے عروہ نے، ان سے زینت بنت ام سلمہ نے اور ان سے ام سلمہ رضی اللہ عنہا نے کہ نبی کریم صلی اللہ علیہ وسلم نے فرمایا ”میں تمہارے ہی جیسا انسان ہوں اور بعض اوقات جب تم باہمی جھگڑا لاتے ہو تو ممکن ہے کہ تم میں سے بعض اپنے فریق مخالف کے مقابلہ میں اپنا مقدمہ پیش کرنے میں زیادہ چالاکی سے بولنے والا ہو اور اس طرح میں اس کے مطابق فیصلہ کر دوں جو میں تم سے سنتا ہوں۔ پس جس شخص کے لیے بھی اس کے بھائی کے حق میں سے، میں کسی چیز کا فیصلہ کر دوں تو وہ اسے نہ لے۔ کیونکہ اس طرح میں اسے جہنم کا ایک ٹکڑا دیتا ہوں۔",
+          "fr": "Rapporté par Um Salama : Le Prophète (ﷺ) a dit : « Je suis seulement un être humain, et vous avez des différends. Il se peut que l’un d’entre vous présente mieux son cas que l’autre, et je rends alors un jugement en sa faveur selon ce que j’entends. Attention ! Si jamais je donne (par erreur) à quelqu’un quelque chose qui appartient à son frère, qu’il ne le prenne pas, car je ne lui ai donné qu’un morceau de Feu. »",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Katsir] dari [Sufyan] dari [Hisyam] dari [Urwah] dari [Zainab binti Ummi Salamah] dari [Ummu Salamah] dari Nabi shallallahu 'alaihi wasallam bersabda: \"Saya hanyalah manusia biasa, dan kalian mengadukan sengketa kepadaku, siapa tahu sebagian diantara kalian lebih pandai bersilat lidah dengan alasannya dari sebagian lain, sehingga aku memutuskan sebatas yang aku dengar, maka barangsiapa kuputuskan menang dengan mendzalimi hak saudaranya, janganlah ia mengambilnya, sebab aku akan mengambil sulutan api neraka baginya",
+          "tr": "Ümmü Seleme'nin nakline göre Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: \"Şüphesiz ben ancak sizin gibi bir insanım. Sizler bana davalarınızı getiriyorsunuz. Olabilir ki içinizden biriniz deli/ini diğerinden daha açık ve düzgün ifade etmiş olur. Ben de işitmekte olduğum deli/ üzerine onun lehine hükmederim. Kimin lehine kardeşinin hakkından bir şeye hükmedersem o kimse bunu almasın. Çünkü ben ona ancak ateşten bir parça kesmişimdir. \" Fethu'l-Bari Açıklaması: İbn Battal bundan önceki başlığa bu Ümmü Seleme hadisini ilave etmiştir. Hadisin bu bölümle olan ilişkisi açıktır. Çünkü hadis, hakimin verdiği hükmün Allah ve Resulünün haram kıldığı bir şeyi helal yapmadığını ifade etmektedir ve Resulullah Sallallahu Aleyhi ve Sellem, lehine hüküm verilen kimse esasen bu hakkın borçlu olduğu kimseye ait olduğunu bildiği takdirde bunu almasını yasak etmektedir. Bu hadisin geniş bir açıklaması Ahkam bölümünde inşallah gelecektir. \"Şüphesiz ben ancak sizin gibi bir insanım .. \" Yani gaybı bilmeme noktasında herhangi bir kimse gibiyim"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 90,
+        "hadith": 14
+      },
+      "narrator": {
+        "en": "Um Salama"
+      }
+    },
+    {
+      "hadithNumber": 6968,
+      "arabicNumber": 6968,
+      "book": 90,
+      "hadithInBook": 15,
+      "text": {
+        "arabic": "حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا هِشَامٌ، حَدَّثَنَا يَحْيَى بْنُ أَبِي كَثِيرٍ، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\"‏ لاَ تُنْكَحُ الْبِكْرُ حَتَّى تُسْتَأْذَنَ، وَلاَ الثَّيِّبُ حَتَّى تُسْتَأْمَرَ ‏\"‏‏.‏ فَقِيلَ يَا رَسُولَ اللَّهِ كَيْفَ إِذْنُهَا قَالَ ‏\"‏ إِذَا سَكَتَتْ ‏\"‏‏.‏ وَقَالَ بَعْضُ النَّاسِ إِنْ لَمْ تُسْتَأْذَنِ الْبِكْرُ وَلَمْ تَزَوَّجْ‏.‏ فَاحْتَالَ رَجُلٌ فَأَقَامَ شَاهِدَىْ زُورٍ أَنَّهُ تَزَوَّجَهَا بِرِضَاهَا، فَأَثْبَتَ الْقَاضِي نِكَاحَهَا، وَالزَّوْجُ يَعْلَمُ أَنَّ الشَّهَادَةَ بَاطِلَةٌ، فَلاَ بَأْسَ أَنْ يَطَأَهَا، وَهْوَ تَزْوِيجٌ صَحِيحٌ‏.‏",
+        "translations": {
+          "en": "Narrated Abu Huraira:The Prophet (ﷺ) said, \"A virgin should not be married till she is asked for her consent; and the matron should not be married till she is asked whether she agrees to marry or not.\" It was asked, \"O Allah's Apostle! How will she (the virgin) express her consent?\" He said, \"By keeping silent.\" Some people said that if a virgin is not asked for her consent and she is not married, and then a man, by playing a trick presents two false witnesses that he has married her with her consent and the judge confirms his marriage as a true one, and the husband knows that the witnesses were false ones, then there is no harm for him to consummate his marriage with her and the marriage is regarded as valid",
+          "ur": "ہم سے مسلم بن ابراہیم نے بیان کیا، کہا ہم سے ہشام نے بیان کیا، کہا ہم سے یحییٰ بن ابی کثیر نے بیان کیا، ان سے ابوسلمہ نے اور ان سے ابوہریرہ رضی اللہ عنہ نے کہ نبی کریم صلی اللہ علیہ وسلم نے فرمایا ”کسی کنواری لڑکی کا نکاح اس وقت تک نہ کیا جائے جب تک اس کی اجازت نہ لے لی جائے اور کسی بیوہ کا نکاح اس وقت تک نہ کیا جائے جب تک اس کا حکم نہ معلوم کر لیا جائے۔“ پوچھا گیا: یا رسول اللہ! اس ( کنواری ) کی اجازت کی کیا صورت ہے؟ نبی کریم صلی اللہ علیہ وسلم نے فرمایا کہ اس کی خاموشی اجازت ہے۔ اس کے باوجود بعض لوگ کہتے ہیں کہ اگر کنواری لڑکی سے اجازت نہ لی گئی اور نہ اس نے نکاح کیا۔ لیکن کسی شخص نے حیلہ کر کے دو جھوٹے گواہ کھڑے کر دئیے کہ اس نے لڑکی سے نکاح کیا ہے اس کی مرضی سے اور قاضی نے بھی اس کے نکاح کا فیصلہ کر دیا۔ حالانکہ شوہر جانتا ہے کہ وہ جھوٹا ہے کہ گواہی جھوٹی تھی اس کے باوجود اس لڑکی سے صحبت کرنے میں اس کے لیے کوئی حرج نہیں ہے بلکہ یہ نکاح صحیح ہو گا۔",
+          "fr": "Rapporté par Abu Huraira : Le Prophète (ﷺ) a dit : « On ne doit pas marier une vierge sans lui demander son accord, et on ne doit pas marier une femme déjà mariée sans vérifier si elle est d’accord ou non. » On demanda : « Ô Messager d’Allah ! Comment la vierge exprime-t-elle son accord ? » Il répondit : « Par son silence. » Certaines personnes ont dit que si une vierge n’est pas consultée et n’est pas mariée, puis qu’un homme, par ruse, présente deux faux témoins affirmant qu’il l’a épousée avec son consentement et que le juge valide ce mariage, et que le mari sait que les témoins étaient faux, alors il n’y a pas de mal à ce qu’il consomme le mariage avec elle, et le mariage est considéré comme valable",
+          "id": "Telah menceritakan kepada kami [Muslim bin Ibrahim] telah menceritakan kepada kami [Hisyam] telah menceritakan kepada kami [Yahya bin Abi Katsir] dari [Abu Salamah] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, bersabda: \"Gadis tidak boleh dinikahi hingga dimintai izin, dan janda tidak bleh dinikahi hingga dimintai persetujuannya.\" Ada yang bertanya; 'ya Rasulullah, bagaimana tanda izinnya? ' Nabi menjawab: \"tandanya diam.\" Sebagian orang berpendapat; Jika seorang gadis belum dimintai izin, kemudian seseorang mencari siasat, kemudian dua orang saksi dusta bersaksi bahwa laki-laki tersebut telah menikahinya dengan kerelaannya, dan hakim memutuskannya secara resmi, dan suami tahu bahwa persaksiannya adalah dusta, maka yang demikian tidak mengapa untuk menyetubuhinya, dan termasuk pernikahan yang sah",
+          "tr": "Ebu Hureyre r.a.'in nakline göre Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: \"Baktre bir kız izni ahnmadıkça nikahlanamaz, dul kadın ise açıktan görüşü ahnmadıkça nikah olunamaz"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 90,
+        "hadith": 15
+      },
+      "narrator": {
+        "en": "Abu Huraira"
+      }
+    },
+    {
+      "hadithNumber": 6969,
+      "arabicNumber": 6969,
+      "book": 90,
+      "hadithInBook": 16,
+      "text": {
+        "arabic": "حَدَّثَنَا عَلِيُّ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا سُفْيَانُ، حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، عَنِ الْقَاسِمِ، أَنَّ امْرَأَةً، مِنْ وَلَدِ جَعْفَرٍ تَخَوَّفَتْ أَنْ يُزَوِّجَهَا وَلِيُّهَا وَهْىَ كَارِهَةٌ فَأَرْسَلَتْ إِلَى شَيْخَيْنِ مِنَ الأَنْصَارِ عَبْدِ الرَّحْمَنِ وَمُجَمِّعٍ ابْنَىْ جَارِيَةَ قَالاَ فَلاَ تَخْشَيْنَ، فَإِنَّ خَنْسَاءَ بِنْتَ خِذَامٍ أَنْكَحَهَا أَبُوهَا وَهْىَ كَارِهَةٌ، فَرَدَّ النَّبِيُّ صلى الله عليه وسلم ذَلِكَ‏.‏ قَالَ سُفْيَانُ وَأَمَّا عَبْدُ الرَّحْمَنِ فَسَمِعْتُهُ يَقُولُ عَنْ أَبِيهِ إِنَّ خَنْسَاءَ‏.‏",
+        "translations": {
+          "en": "Narrated Al-Qasim:A woman from the offspring of Ja`far was afraid lest her guardian marry her (to somebody) against her will. So she sent for two elderly men from the Ansar, `AbdurRahman and Mujammi', the two sons of Jariya, and they said to her, \"Don't be afraid, for Khansa' bint Khidam was given by her father in marriage against her will, then the Prophet (ﷺ) cancelled that marriage.\" (See Hadith No)",
+          "ur": "ہم سے علی بن عبداللہ نے بیان کیا، کہا ہم سے سفیان نے، کہا ہم سے یحییٰ بن سعید نے، ان سے قاسم نے کہ جعفر رضی اللہ عنہ کی اولاد میں سے ایک خاتون کو اس کا خطرہ ہوا کہ ان کا ولی ( جن کی وہ زیر پرورش تھیں ) ان کا نکاح کر دے گا۔ حالانکہ وہ اس نکاح کو ناپسند کرتی تھیں۔ چنانچہ انہوں نے قبیلہ انصار کے دو شیوخ عبدالرحمٰن اور مجمع کو جو جاریہ کے بیٹے تھے کہلا بھیجا انہوں نے تسلی دی کہ کوئی خوف نہ کریں۔ کیونکہ خنساء بنت خذام رضی اللہ عنہا کا نکاح ان کے والد نے ان کی ناپسندیدگی کے باوجود کر دیا تھا تو رسول اللہ صلی اللہ علیہ وسلم نے اس نکاح کو رد کر دیا تھا۔ سفیان نے بیان کیا کہ میں نے عبدالرحمٰن کو اپنے والد سے یہ کہتے ہوئے سنا ہے کہ خنساء رضی اللہ عنہا آخر حدیث تک بیان کیا۔",
+          "fr": "Rapporté par Al-Qasim : Une femme de la descendance de Ja`far avait peur que son tuteur la marie contre sa volonté. Elle fit donc venir deux hommes âgés des Ansar, `AbdurRahman et Mujammi', les deux fils de Jariya, qui lui dirent : « N’aie pas peur, car Khansa' bint Khidam a été mariée par son père contre sa volonté, puis le Prophète (ﷺ) a annulé ce mariage. »",
+          "id": "Telah menceritakan kepada kami [Ali bin Abdullah] telah menceritakan kepada kami [Sufyan] telah menceritakan kepada kami [Yahya bin Sa'id] dari [Al Qasim]; bahwa seorang wanita dari anak Ja'far merasa ketakutan (waswas) walinya menikahkannya sedang dia tidak suka, maka ia segera mengutus seseorang menemui dua syaikh dari kalangan anshar, [Abdurrahman] dan [Mujamma'], dua anak Jariyah. Maka keduanya berkata; janganlah khawatir, sebab Khansa` binti Khidzam pernah dinikahkan ayahnya sedang dia tidak suka, maka Nabi shallallahu 'alaihi wasallam menolak pernikahannya. [Sufyan] mengatakan; sedang [Abdurrahman] aku mendengarnya berkata; dari [ayahnya] dengan redaksi; Sesungguhnya Khansa",
+          "tr": "el-Kasım'ın nakline göre Cafer'in oğlundan olan bir kadın velisinin kendisini istemediği bir kimse ile evlendireceğinden korktu da Ensardan iki şeyhe -Yezid b. Cariyenin iki oğlu Abdurrahman ile Mücemma' adındaki iki şeyhehaberci gönderip sordu. Bu iki şeyh de sakın korkma! Çünkü Ensardan Hansa bnt. Hizam'ı babası kendisi istemediği halde evlendirmişti de Resulullah Sallallahu Aleyhi ve Sellem (Hansa'nın mü ra ca atı üzerine) bu nikahı reddetmişti dediler"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 90,
+        "hadith": 16
+      },
+      "narrator": {
+        "en": "Al-Qasim"
+      }
+    },
+    {
+      "hadithNumber": 6970,
+      "arabicNumber": 6970,
+      "book": 90,
+      "hadithInBook": 17,
+      "text": {
+        "arabic": "حَدَّثَنَا أَبُو نُعَيْمٍ، حَدَّثَنَا شَيْبَانُ، عَنْ يَحْيَى، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ لاَ تُنْكَحُ الأَيِّمُ حَتَّى تُسْتَأْمَرَ، وَلاَ تُنْكَحُ الْبِكْرُ حَتَّى تُسْتَأْذَنَ ‏\"‏‏.‏ قَالُوا كَيْفَ إِذْنُهَا قَالَ ‏\"‏ أَنْ تَسْكُتَ ‏\"‏‏.‏ وَقَالَ بَعْضُ النَّاسِ إِنِ احْتَالَ إِنْسَانٌ بِشَاهِدَىْ زُورٍ عَلَى تَزْوِيجِ امْرَأَةٍ ثَيِّبٍ بِأَمْرِهَا، فَأَثْبَتَ الْقَاضِي نِكَاحَهَا إِيَّاهُ، وَالزَّوْجُ يَعْلَمُ أَنَّهُ لَمْ يَتَزَوَّجْهَا قَطُّ، فَإِنَّهُ يَسَعُهُ هَذَا النِّكَاحُ، وَلاَ بَأْسَ بِالْمُقَامِ لَهُ مَعَهَا‏.‏",
+        "translations": {
+          "en": "Narrated Abu Haraira:Allah's Messenger (ﷺ) said, \"A lady slave should not be given in marriage until she is consulted, and a virgin should not be given in marriage until her permission is granted.\" The people said, \"How will she express her permission?\" The Prophet (ﷺ) said, \"By keeping silent (when asked her consent).\" Some people said, \"If a man, by playing a trick, presents two false witnesses before the judge to testify that he has married a matron with her consent and the judge confirms his marriage, and the husband is sure that he has never married her (before), then such a marriage will be considered as a legal one and he may live with her as husband",
+          "ur": "ہم سے ابونعیم نے بیان کیا، کہا ہم سے شیبان نے بیان کیا، ان سے یحییٰ نے، ان سے ابوسلمہ نے، اور ان سے ابوہریرہ رضی اللہ عنہ نے بیان کیا کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا ”کسی بیوہ سے اس وقت تک شادی نہ کی جائے جب تک اس کا حکم نہ معلوم کر لیا جائے اور کسی کنواری سے اس وقت تک نکاح نہ کیا جائے جب تک اس کی اجازت نہ لے لی جائے۔ صحابہ نے پوچھا: اس کی اجازت کا کیا طریقہ ہے؟ نبی کریم صلی اللہ علیہ وسلم نے فرمایا، یہ کہ وہ خاموش ہو جائے۔ پھر بھی بعض لوگ کہتے ہیں کہا اگر کسی شخص نے دو جھوٹے گواہوں کے ذریعہ حیلہ کیا ( اور یہ جھوٹ گھڑا ) کہ کسی بیوہ عورت سے اس نے اس کی اجازت سے نکاح کیا ہے اور قاضی نے بھی اس مرد سے اس کے نکاح کا فیصلہ کر دیا جبکہ اس مرد کو خوب خبر ہے کہ اس نے اس عورت سے نکاح نہیں کیا ہے تو یہ نکاح جائز ہے اور اس کے لیے اس عورت کے ساتھ رہنا جائز ہو جائے گا۔",
+          "fr": "Rapporté par Abu Huraira : Le Messager d’Allah (ﷺ) a dit : « On ne doit pas donner une esclave en mariage sans la consulter, et on ne doit pas marier une vierge sans obtenir sa permission. » Les gens demandèrent : « Comment exprime-t-elle sa permission ? » Le Prophète (ﷺ) répondit : « Par son silence (quand on lui demande son avis). » Certaines personnes ont dit : « Si un homme, par ruse, présente deux faux témoins devant le juge pour affirmer qu’il a épousé une femme déjà mariée avec son accord, et que le juge valide ce mariage, et que le mari est certain de ne jamais l’avoir épousée auparavant, alors ce mariage sera considéré comme légal et il pourra vivre avec elle comme mari et femme. »",
+          "id": "Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Syaiban] dari [Yahya] dari [Abu Salamah] dari [Abu Hurairah] mengatakan, Rasulullah shallallahu 'alaihi wasallam bersabda: \"Janda tidak boleh dinikahi hingga diajak musyawarah, dan gadis tidak boleh dinikahi hingga dimintai izin.\" Para sahabat bertanya; 'bagaimana tanda izinnya? ' Nabi menjawab; \"jika dia diam.\" Sebagian orang mengatakan; bahwa jika seseorang bersiasat dengan menghadirkan dua orang saksi palsu atas perkawinan seorang janda dengan mengatakan atas persetujuannya, kemudian hakim menetapkan pernikahannya, padahal suami tahu bahwa sebenarnya ia belum menikahinya sama sekali, maka pernikahannya tidak masalah, dan tidak apa tinggal bersama dengannya",
+          "tr": "Ebu Hureyre r.a. şöyle demiştir: Resulullah Sallallahu Aleyhi ve Sellem \"Dul kadın kendisinin açıkça izni alınmadıkça nikah olunamaz. Bakire kız da kendisinden izni alınmadıkça nikah olunamaz\" buyurmuştur. Orada bulunanlar \"(Ya Resulallah!) Bakire bir kızın izni nasılolur?\" diye sordular. Resulullah Sallallahu Aleyhi ve Sellem \"Onun izni sükut etmesidir\" buyurdu"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 90,
+        "hadith": 17
+      },
+      "narrator": {
+        "en": "Abu Haraira"
+      }
+    },
+    {
+      "hadithNumber": 6971,
+      "arabicNumber": 6971,
+      "book": 90,
+      "hadithInBook": 18,
+      "text": {
+        "arabic": "حَدَّثَنَا أَبُو عَاصِمٍ، عَنِ ابْنِ جُرَيْجٍ، عَنِ ابْنِ أَبِي مُلَيْكَةَ، عَنْ ذَكْوَانَ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ قَالَتْ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ الْبِكْرُ تُسْتَأْذَنُ ‏\"‏‏.‏ قُلْتُ إِنَّ الْبِكْرَ تَسْتَحْيِي قَالَ ‏\"‏ إِذْنُهَا صُمَاتُهَا ‏\"‏‏.‏ وَقَالَ بَعْضُ النَّاسِ إِنْ هَوِيَ رَجُلٌ جَارِيَةً يَتِيمَةً أَوْ بِكْرًا، فَأَبَتْ فَاحْتَالَ فَجَاءَ بِشَاهِدَىْ زُورٍ عَلَى أَنَّهُ تَزَوَّجَهَا، فَأَدْرَكَتْ فَرَضِيَتِ الْيَتِيمَةُ، فَقَبِلَ الْقَاضِي شَهَادَةَ الزُّورِ، وَالزَّوْجُ يَعْلَمُ بِبُطْلاَنِ ذَلِكَ، حَلَّ لَهُ الْوَطْءُ‏.‏",
+        "translations": {
+          "en": "Narrated `Aisha:Allah's Messenger (ﷺ) said, \"It is essential to have the consent of a virgin (for the marriage). I said, \"A virgin feels shy.\" The Prophet; said, \"Her silence means her consent.\" Some people said, \"If a man falls in love with an orphan slave girl or a virgin and she refuses (him) and then he makes a trick by bringing two false witnesses to testify that he has married her, and then she attains the age of puberty and agrees to marry him and the judge accepts the false witness and the husband knows that the witnesses were false ones, he may consummate his marriage",
+          "ur": "ہم سے ابوعاصم ضحاک بن مخلد نے بیان کیا، ان سے ابن جریج نے، ان سے ابن ابی ملیکہ نے، ان سے ذکوان نے، اور ان سے عائشہ رضی اللہ عنہا نے بیان کیا کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا ”کنواری لڑکی سے اجازت لی جائے گی۔“ میں نے پوچھا کہ کنواری لڑکی شرمائے گی۔ نبی کریم صلی اللہ علیہ وسلم نے فرمایا کہ اس کی خاموشی ہی اجازت ہے۔ اور بعض لوگوں کا کہنا ہے کہ کوئی شخص اگر کسی یتیم لڑکی یا کنواری لڑکی سے نکاح کا خواہشمند ہو۔ لیکن لڑکی راضی نہ ہو اس پر اس نے حیلہ کیا اور دو جھوٹے گواہوں کی گواہی اس کی دلائی کہ اس نے لڑکی سے شادی کر لی ہے پھر جب وہ لڑکی جوان ہوئی اور اس نکاح سے وہ بھی راضی ہو گئی اور قاضی نے اس جھوٹی شہادت کو قبول کر لیا حالانکہ وہ جانتا ہے کہ یہ سارا ہی جھوٹ اور فریب ہے تب بھی اس سے جماع کرنا جائز ہے۔",
+          "fr": "Rapporté par `Aisha : Le Messager d’Allah (ﷺ) a dit : « Il est indispensable d’avoir le consentement d’une vierge pour le mariage. » J’ai dit : « Une vierge est timide. » Le Prophète répondit : « Son silence signifie son accord. » Certaines personnes ont dit : « Si un homme tombe amoureux d’une orpheline esclave ou d’une vierge et qu’elle le refuse, puis qu’il ruse en amenant deux faux témoins pour affirmer qu’il l’a épousée, et qu’ensuite elle atteint la puberté et accepte de l’épouser, et que le juge accepte ce faux témoignage, et que le mari sait que les témoins étaient faux, il peut alors consommer le mariage. »",
+          "id": "Telah menceritakan kepada kami [Abu 'Ashim] dari [Ibnu Juraij] dari [Ibnu Abi Mulaikah] dari [Dzakwan] dari [Aisyah] radliallahu 'anha mengatakan, Rasulullah shallallahu 'alaihi wasallam bersabda: \"Gadis dimintai izinnya.\" Saya bertanya; 'Sesungguhnya gadis sering merasa malu untuk menyatakan persetujuannya.' Nabi menjawab; \"tanda izinnya adalah diam.\" Sebagian orang berpendapat bahwa; jika seorang laki-laki tertarik menikahi hamba sahaya yatim atau gadis, lantas anak yatim atau hamba sahaya tadi menolak, lalu si laki-laki mencari siasat dengan menghadirkan dua orang saksi bohong, dengan menyatakan bahwa si laki-laki tadi telah menikahinya dan si perempuan rela, kemudian hakim menerima kesaksian palsu tersebut dan suami mengetahui kebatilan kesaksiannya, maka boleh baginya menyetubuhinya",
+          "tr": "Aişe r.anha'nın nakline göre Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: \"Bakire kızdan izni istenir.\" Ben \"(Ya Resulallah!) Bakire kız utanır!\" dedim. Resulullah Sallallahu Aleyhi ve Sellem \"Onun izni susmasıdır\" buyurdu"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 90,
+        "hadith": 18
+      },
+      "narrator": {
+        "en": "`Aisha"
+      }
+    },
+    {
+      "hadithNumber": 6972,
+      "arabicNumber": 6972,
+      "book": 90,
+      "hadithInBook": 19,
+      "text": {
+        "arabic": "حَدَّثَنَا عُبَيْدُ بْنُ إِسْمَاعِيلَ، حَدَّثَنَا أَبُو أُسَامَةَ، عَنْ هِشَامٍ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، قَالَتْ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يُحِبُّ الْحَلْوَاءَ، وَيُحِبُّ الْعَسَلَ، وَكَانَ إِذَا صَلَّى الْعَصْرَ أَجَازَ عَلَى نِسَائِهِ فَيَدْنُو مِنْهُنَّ، فَدَخَلَ عَلَى حَفْصَةَ، فَاحْتَبَسَ عِنْدَهَا أَكْثَرَ مِمَّا كَانَ يَحْتَبِسُ، فَسَأَلْتُ عَنْ ذَلِكَ فَقِيلَ لِي أَهْدَتِ امْرَأَةٌ مِنْ قَوْمِهَا عُكَّةَ عَسَلٍ، فَسَقَتْ رَسُولَ اللَّهِ صلى الله عليه وسلم مِنْهُ شَرْبَةً‏.‏ فَقُلْتُ أَمَا وَاللَّهِ لَنَحْتَالَنَّ لَهُ‏.‏ فَذَكَرْتُ ذَلِكَ لِسَوْدَةَ قُلْتُ إِذَا دَخَلَ عَلَيْكِ فَإِنَّهُ سَيَدْنُو مِنْكِ فَقُولِي لَهُ يَا رَسُولَ اللَّهِ أَكَلْتَ مَغَافِيرَ فَإِنَّهُ سَيَقُولُ لاَ‏.‏ فَقُولِي لَهُ مَا هَذِهِ الرِّيحُ وَكَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَشْتَدُّ عَلَيْهِ أَنْ تُوجَدُ مِنْهُ الرِّيحُ، فَإِنَّهُ سَيَقُولُ سَقَتْنِي حَفْصَةُ شَرْبَةَ عَسَلٍ‏.‏ فَقُولِي لَهُ جَرَسَتْ نَحْلُهُ الْعُرْفُطَ‏.‏ وَسَأَقُولُ ذَلِكَ، وَقُولِيهِ أَنْتِ يَا صَفِيَّةُ‏.‏ فَلَمَّا دَخَلَ عَلَى سَوْدَةَ، قُلْتُ تَقُولُ سَوْدَةُ وَالَّذِي لاَ إِلَهَ إِلاَّ هُوَ لَقَدْ كِدْتُ أَنْ أُبَادِرَهُ بِالَّذِي قُلْتِ لِي، وَإِنَّهُ لَعَلَى الْبَابِ فَرَقًا مِنْكِ، فَلَمَّا دَنَا رَسُولُ اللَّهِ صلى الله عليه وسلم قُلْتُ يَا رَسُولَ اللَّهِ أَكَلْتَ مَغَافِيرَ قَالَ ‏\"‏ لاَ ‏\"‏‏.‏ قُلْتُ فَمَا هَذِهِ الرِّيحُ قَالَ ‏\"‏ سَقَتْنِي حَفْصَةُ شَرْبَةَ عَسَلٍ ‏\"‏‏.‏ قُلْتُ جَرَسَتْ نَحْلُهُ الْعُرْفُطَ‏.‏ فَلَمَّا دَخَلَ عَلَىَّ قُلْتُ لَهُ مِثْلَ ذَلِكَ‏.‏ وَدَخَلَ عَلَى صَفِيَّةَ فَقَالَتْ لَهُ مِثْلَ ذَلِكَ‏.‏ فَلَمَّا دَخَلَ عَلَى حَفْصَةَ قَالَتْ لَهُ يَا رَسُولَ اللَّهِ أَلاَ أَسْقِيكَ مِنْهُ قَالَ ‏\"‏ لاَ حَاجَةَ لِي بِهِ ‏\"‏‏.‏ قَالَتْ تَقُولُ سَوْدَةُ سُبْحَانَ اللَّهِ لَقَدْ حَرَمْنَاهُ‏.‏ قَالَتْ قُلْتُ لَهَا اسْكُتِي‏.‏",
+        "translations": {
+          "en": "Narrated `Aisha:Allah's Messenger (ﷺ) used to like sweets and also used to like honey, and whenever he finished the `Asr prayer, he used to visit his wives and stay with them. Once he visited Hafsa and remained with her longer than the period he used to stay, so I enquired about it. It was said to me, \"A woman from her tribe gave her a leather skin containing honey as a present, and she gave some of it to Allah's Messenger (ﷺ) to drink.\" I said, \"By Allah, we will play a trick on him.\" So I mentioned the story to Sauda (the wife of the Prophet) and said to her, \"When he enters upon you, he will come near to you whereupon you should say to him, 'O Allah's Messenger (ﷺ)! Have you eaten Maghafir?' He will say, 'No.' Then you say to him, 'What is this bad smell? ' And it would be very hard on Allah's Messenger (ﷺ) that a bad smell should be found on his body. He will say, 'Hafsa has given me a drink of honey.' Then you should say to him, 'Its bees must have sucked from the Al-`Urfut (a foul smelling flower).' I too, will tell him the same. And you, O Saifya, say the same.\" So when the Prophet (ﷺ) entered upon Sauda (the following happened). Sauda said, \"By Him except Whom none has the right to be worshipped, I was about to say to him what you had told me to say while he was still at the gate because of fear from you. But when Allah's Apostle came near to me, I said to him, 'O Allah's Messenger (ﷺ)! Have you eaten Maghafir?' He replied, 'No.' I said, 'What about this smell?' He said, 'Hafsa has given me a drink of honey.' I said, 'Its bees must have sucked Al-`Urfut.' \" When he entered upon me, I told him the same as that, and when he entered upon Safiya, she too told him the same. So when he visited Hafsa again, she said to him, \"O Allah's Messenger (ﷺ)! Shall I give you a drink of it (honey)?\" He said, \"I have no desire for it.\" Sauda said, Subhan Allah! We have deprived him of it (honey).\" I said to her, \"Be quiet",
+          "ur": "ہم سے عبید بن اسماعیل نے بیان کیا، کہا ہم سے ابواسامہ نے، ان سے ہشام نے، ان سے ان کے والد نے اور ان سے عائشہ رضی اللہ عنہا نے بیان کیا کہ رسول اللہ صلی اللہ علیہ وسلم حلوہ ( یعنی میٹھی چیز ) اور شہد پسند کرتے تھے اور عصر کی نماز سے فارغ ہونے کے بعد اپنی ازواج سے ( ان میں سے کسی کے حجرہ میں جانے کے لیے ) اجازت لیتے تھے اور ان کے پاس جاتے تھے۔ ایک مرتبہ آپ حفصہ رضی اللہ عنہا کے گھر گئے اور ان کے یہاں اس سے زیادہ دیر تک ٹھہرے رہے جتنی دیر تک ٹھہرنے کا آپ کا معمول تھا۔ میں نے اس کے متعلق نبی کریم صلی اللہ علیہ وسلم سے پوچھا تو آپ صلی اللہ علیہ وسلم نے فرمایا کہ ان کی قوم کی ایک خاتون نے شہد کی ایک کپی انہیں ہدیہ کی تھی اور انہوں نے نبی کریم صلی اللہ علیہ وسلم کو اس کا شربت پلایا تھا۔ میں نے اس پر کہا کہ اب میں نبی کریم صلی اللہ علیہ وسلم کے ساتھ ایک حیلہ کروں گی چنانچہ میں نے اس کا ذکر سودہ رضی اللہ عنہا سے کیا اور کہا جب نبی کریم صلی اللہ علیہ وسلم آپ کے یہاں آئیں تو آپ کے قریب بھی آئیں گے اس وقت تم آپ سے کہنا یا رسول اللہ! شاید آپ نے مغافیر کھایا ہے؟ اس پر آپ جواب دیں گے کہ نہیں۔ تم کہنا کہ پھر یہ بو کس چیز کی ہے؟ نبی کریم صلی اللہ علیہ وسلم کو یہ بات بہت ناگوار تھی کہ آپ کے جسم کے کسی حصہ سے بو آئے۔ چنانچہ نبی کریم صلی اللہ علیہ وسلم اس کا جواب یہ دیں گے کہ حفصہ نے مجھے شہد کا شربت پلایا تھا۔ اس پر کہنا کہ شہد کی مکھیوں نے غرفط کا رس چوسا ہو گا اور میں بھی نبی کریم صلی اللہ علیہ وسلم سے یہی بات کہوں گی اور صفیہ تم بھی نبی کریم صلی اللہ علیہ وسلم سے یہ کہنا چنانچہ جب نبی کریم صلی اللہ علیہ وسلم سودہ کے یہاں تشریف لے گئے تو ان کا بیان ہے کہ اس ذات کی قسم جس کے سوا کوئی معبود نہیں کہ تمہارے خوف سے قریب تھا کہ میں اس وقت نبی کریم صلی اللہ علیہ وسلم سے یہ بات جلدی میں کہہ دیتی جبکہ آپ دروازے ہی پر تھے۔ آخر جب نبی کریم صلی اللہ علیہ وسلم قریب آئے تو میں نے عرض کیا: یا رسول اللہ! آپ نے مغافیر کھایا ہے؟ نبی کریم صلی اللہ علیہ وسلم نے فرمایا کہ نہیں۔ میں نے کہا پھر بو کیسی ہے؟ نبی کریم صلی اللہ علیہ وسلم نے فرمایا کہ حفصہ نے مجھے شہد کا شربت پلایا ہے میں نے کہا اس شہد کی مکھیوں نے غرفط کا رس چوسا ہو گا اور صفیہ رضی اللہ عنہا کے پاس جب آپ تشریف لے گئے تو انہوں نے بھی یہی کہا۔ اس کے بعد جب حفصہ کے پاس آپ صلی اللہ علیہ وسلم گئے تو انہوں نے عرض کیا: یا رسول اللہ! وہ شہد میں پھر آپ کو پلاؤں۔ نبی کریم صلی اللہ علیہ وسلم نے فرمایا کہ اس کی ضرورت نہیں۔ بیان کیا ہے کہ اس پر سودہ رضی اللہ عنہا بولیں۔ سبحان اللہ یہ ہم نے کیا کیا گویا شہد آپ پر حرام کر دیا، میں نے کہا چپ رہو۔",
+          "fr": "Rapporté par `Aisha : Le Messager d’Allah (ﷺ) aimait les sucreries et le miel. Après la prière de l’Asr, il allait voir ses épouses et restait un moment avec elles. Un jour, il est resté plus longtemps que d’habitude chez Hafsa. Je me suis renseignée et on m’a dit : « Une femme de sa tribu lui a offert une outre de miel, et elle en a donné au Messager d’Allah (ﷺ) à boire. » J’ai dit : « Par Allah, nous allons lui jouer un tour. » J’ai raconté l’histoire à Sauda (l’épouse du Prophète) et je lui ai dit : « Quand il viendra te voir, il s’approchera de toi et tu devras lui dire : “Ô Messager d’Allah (ﷺ) ! As-tu mangé du Maghafir ?” Il répondra : “Non.” Alors tu diras : “D’où vient cette mauvaise odeur ?” Le Messager d’Allah (ﷺ) détestait qu’on pense qu’il avait une mauvaise odeur. Il dira : “Hafsa m’a donné du miel à boire.” Tu diras alors : “Les abeilles ont dû butiner l’Al-‘Urfut (une fleur qui sent mauvais).” Moi aussi, je lui dirai la même chose. Et toi, ô Safiya, fais pareil. » Quand le Prophète (ﷺ) est entré chez Sauda, elle a dit : « Par Celui en dehors duquel nul n’a le droit d’être adoré, j’allais lui dire ce que tu m’as demandé alors qu’il était encore à la porte, par peur de toi. Mais quand le Messager d’Allah s’est approché, je lui ai dit : “Ô Messager d’Allah (ﷺ) ! As-tu mangé du Maghafir ?” Il a répondu : “Non.” J’ai dit : “Mais d’où vient cette odeur ?” Il a dit : “Hafsa m’a donné du miel à boire.” J’ai dit : “Les abeilles ont dû butiner l’Al-‘Urfut.” » Quand il est venu me voir, je lui ai dit la même chose, et quand il est allé chez Safiya, elle aussi lui a dit la même chose. Quand il est retourné chez Hafsa, elle lui a proposé : « Ô Messager d’Allah (ﷺ) ! Veux-tu boire encore de ce miel ? » Il a répondu : « Je n’en ai plus envie. » Sauda a dit : « Gloire à Allah ! Nous l’en avons privé. » Je lui ai dit : « Tais-toi. »",
+          "id": "Telah menceritakan kepada kami [Ubaid bin Isma'il] telah menceritakan kepada kami [Abu Usamah] dari [Hisyam] dari [ayahnya] dari [Aisyah], mengatakan; Rasulullah Shallallahu'alaihiwasallam sangat menyukai makanan yang manis-manis dan madu. Adalah kebiasaan beliau, jika beliau telah menunaikan shalat 'ashar, maka beliau melewati isteri-isterinya dan mendekati mereka. Maka Suatu kali beliau menemui Hafshah dan berada di sisinya lebih lama daripada kebiasaan beliau pada hari-hari normal. Maka segera aku tanyai beliau mengapa di rumah Hafshah sekian lama tidak seperti hari-hari biasanya. Beliau menjawab: \"Ada seorang wanita kaumnya menghadiahinya sekaleng madu, lantas ia memberinya minum kepada Rasulullah Shallallahu'alaihiwasallam.\" Maka aku mengatakan; 'Demi Allah, kami pasti akan mengerjai beliau.' Maka aku berkata kepada Saudah; 'jika Rasulullah menemuimu, dan ia mendekatimu, katakanlah kepadanya; 'ya Rasulullah, engkau makan buah mighfar? ' tentu beliau akan mengatakan; 'tidak', maka katakan kepadanya; 'lantas bau apa ini? ' Yang demikian karena Rasulullah shallallahu 'alaihi wasallam merasa risih jika didapati bau yang kurang menyedapkan dari tubuhnya. Maka beliau akan mengatakan; 'Hafshah telah memberiku minuman madu.' Maka katakanlah kepadanya; 'Rasa madu itu telah berubah karena ada sesuatu yang dimakan lebah! ' Dan aku akan mengatakan yang sedemikian, dan katakan begitu ya Shafiyah! ' Maka dikala Nabi shallallahu 'alaihi wasallam menemui Saudah, Saudah mengatakan; 'Demi Dzat yang tiada Tuhan selain Dia, nyaris aku terlebih dahulu bertanya kepada Nabi shallallahu 'alaihi wasallam dengan ucapan yang kau ucapkan padaku, dan Nabi sudah berada di pintu karena takut terhadapmu. Dikala Rasulullah shallallahu 'alaihi wasallam mendekat, saya mengatakan; 'ya Rasulullah, Benarkan, engkau telah makan buah mighfar? ' \"tidak\" Jawabnya. Maka aku katakan; 'lantas bau apa ini? ' Nabi menjawab; \"Hafshah telah memberi madu kepadaku.\" Saya mengatakan; 'rasa madu itu telah berubah karena ada tawon yang memakan sesuatu! ' Ketika beliau menemuiku, kukatakan yang demikian. Dan dikala beliau menemui Shafiyah, ia juga mengatakan yang sedemikian. Maka dikala beliau menemui Hafshah, Hafshah bertanya; 'ya Rasulullah, maukah aku beri minum madu? ' Nabi menjawab: \"Aku tidak butuh terhadapnya.\" Lantas Saudah mengatakan; 'Demi Allah, kita telah mengharamkan madu untuknya.' Aisyah berkata; kukatakan; 'diam kamu",
+          "tr": "Aişe r.anha şöyle anlatmıştır: Resulullah Sallallahu Aleyhi ve Sellem tatlıyı ve balı severdi. İkindi namazını kıldırdığı zaman kadınlarından birinin yanına geçer ve onu öpmek için yaklaşırdı. Bir keresinde Ömer'in kızı Hafsa'nın yanına girmişti. Onun yanında kalmakta olduğU süreden daha fazla kaldı. Ben bunun sebebini sorduğumda bana şöyle denildi: Hafsa'nın akrabalarından bir kadın kendisine küçük bir tulum bal hediye etmiş, Hafsa da o baldan Resulullah Sallallahu Aleyhi ve Sellem'e bal şerbeti içirmiş. Ben de kendi kendime vallahi bunun için bir hlle yapalım dedim ve bu fikrimi Sevde'ye açtım ve ona dedim ki: Biraz sonra Resulullah Sallallahu Aleyhi ve Sellem senin yanına girip de sana yaklaştığında ona hitaben \"Ya Resulallah! Meğafir mi yedin\" dersin. O da sana \"hayırı\" diyecektir. Bunun üzerine sen de ona \"Peki senden bana gelen bu koku nedir?\" diye sorarsın. -Resulullah Sallallahu Aleyhi ve Sellem'e kendisinden çirkin koku hiddesilmesi çok ağır gelirdi- o da sana \"Hafsa bana bal şerbeti içirmişti!\" diyecektir. Sen de ona \"Öyleyse o balın arısı, onu Urfut ağacından toplamıştır!\" dersin. Bana geldiğinde ben de böyle söyleyeceğim ve ey Safiye! Sen de böyle söyle! dedim. Resulullah Sallallahu Aleyhi ve Sellem, Sevde'nin yanına girince ... (olayın devamını Sevde şöyle anlattı): Kendisinden başka hiçbir ilah olmayan Allah'a yemin ederim ki Resulullah Sallallahu Aleyhi ve Sellem kapının önünde dururken (Ey Aişe!) senden korktuğumdan dolayı az kalsın hemen söyleyecektim. Nihayet Resulullah Sallallahu Aleyhi ve Sellem bana yaklaşınca \"Ya Resulallah! Sen meğafir mi yedin?\" dedim. Resulullah Sallallahu Aleyhi ve Sellem \"Hayır!\" dedi. Ben \"Sendeki bu koku nedir?\" dedim. Resulullah Sallallahu Aleyhi ve Sellem \"Hafsa bana bal şerbeti içirmişti\" dedi. Ben \"Öyleyse o balın arısı, onu Urfut ağacından toplamıştır!\" dedim. Aişe (olayın kendisi ile ilgili kısmını şöyle) anlattı: Resulullah Sallallahu Aleyhi ve Sellem benim yanıma geldiğinde, ben de kendisine bunun aynısını söyledim. Safiye'nin yanına girdiğinde de, Safiye de ona böyle söyledi. Sonra Resulullah Sallallahu Aleyhi ve Sellem Hafsa'nın yanına girince, o da kendisine \"Ya Resulallah! Sana bal şerbetinden içireyim mi?\" dedi. Resulullah Sallallahu Aleyhi ve Sellem \"Hayır! Benim ona hiç ihtiyacım yoktur\" buyurdu. Aişe dedi ki: Sevde bana \"Sübhanallah! Resulullah Sallallahu Aleyhi ve Sellem'e bal şerbetini haram ettik!\" dedi. Ben de ona \"sus!\" dedim. Fethu'l-Bari Açıklaması: \"Kadının kocasına ve kumalarına hile yapması.\" İbnü't-Tın'nin bu konudaki açıklaması şoyledir: Atılan başlığın anlamı gayet açıktır. Ancak Buhari, Nebi Sallallahu Aleyhi ve Sellem'e bu konuda hangi ayetin indiğini belirtmemiştir. Bu ayet \"Ey Nebi s.a.v.! Eşlerinin rızasını gözeterek Allah 'ın sana helal kıldığı şeyi niçin kendine haram ediyorsun\" ayet-i kerimesidir.(Tahrim 1) Tefsir bölümünde Resulullah Sallallahu Aleyhi ve Sellem'in kendisine haram kıldığı şeyin ne olduğu konusundaki ihtilaftan ve sahih olan görüşe göre bunun balolduğundan söz etmiştik. Sözkonusu haramlık, Zeynep bnt. Cahş alayında meydana gelmişti. Bazıları bu ayetin Resulullah Sallallahu Aleyhi ve Sellem'in Mariye'yi kendisine haram kılmasıyla ilgili olduğunu söylemişlerdir. Ancak sahih olan, ayetin her iki olay hakkında indiğidir"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 90,
+        "hadith": 19
+      },
+      "narrator": {
+        "en": "`Aisha"
+      }
+    },
+    {
+      "hadithNumber": 6973,
+      "arabicNumber": 6973,
+      "book": 90,
+      "hadithInBook": 20,
+      "text": {
+        "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، عَنْ مَالِكٍ، عَنِ ابْنِ شِهَابٍ، عَنْ عَبْدِ اللَّهِ بْنِ عَامِرِ بْنِ رَبِيعَةَ، أَنَّ عُمَرَ بْنَ الْخَطَّابِ ـ رضى الله عنه ـ خَرَجَ إِلَى الشَّأْمِ، فَلَمَّا جَاءَ بِسَرْغَ بَلَغَهُ أَنَّ الْوَبَاءَ وَقَعَ بِالشَّأْمِ فَأَخْبَرَهُ عَبْدُ الرَّحْمَنِ بْنُ عَوْفٍ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ إِذَا سَمِعْتُمْ بِأَرْضٍ فَلاَ تَقْدَمُوا عَلَيْهِ، وَإِذَا وَقَعَ بِأَرْضٍ وَأَنْتُمْ بِهَا فَلاَ تَخْرُجُوا فِرَارًا مِنْهُ ‏\"‏‏.‏ فَرَجَعَ عُمَرُ مِنْ سَرْغَ‏.‏ وَعَنِ ابْنِ شِهَابٍ عَنْ سَالِمِ بْنِ عَبْدِ اللَّهِ أَنَّ عُمَرَ إِنَّمَا انْصَرَفَ مِنْ حَدِيثِ عَبْدِ الرَّحْمَنِ‏.‏",
+        "translations": {
+          "en": "Narrated `Abdullah bin 'Amir bin Rabi`a:`Umar bin Al-Khattab left for Sham, and when he reached a placed called Sargh, he came to know that there was an outbreak of an epidemic (of plague) in Sham. Then `AbdurRahman bin `Auf told him that Allah's Messenger (ﷺ) said, \"If you hear the news of an outbreak of an epidemic (plague) in a certain place, do not enter that place: and if the epidemic falls in a place while you are present in it, do not leave that place to escape from the epidemic.\" So `Umar returned from Sargh",
+          "ur": "ہم سے عبداللہ بن مسلمہ قعبنی نے بیان کیا، کہا ہم سے امام مالک نے، ان سے ابن شہاب نے، ان سے عبداللہ ابن عامر بن ربیعہ نے کہ عمر بن خطاب رضی اللہ عنہ ( سنہ 18 ھ ماہ ربیع الثانی میں ) شام تشریف لے گئے۔ جب مقام سرغ پر پہنچے تو ان کو یہ خبر ملی کہ شام وبائی بیماری کی لپیٹ میں ہے۔ پھر عبدالرحمٰن بن عوف رضی اللہ عنہ نے انہیں خبر دی کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا تھا کہ جب تمہیں معلوم ہو جائے کہ کسی سر زمین میں وبا پھیلی ہوئی ہے تو اس میں داخل مت ہو، لیکن اگر کسی جگہ وبا پھوٹ پڑے اور تم وہیں موجود ہو تو وبا سے بھاگنے کے لیے تم وہاں سے نکلو بھی مت۔ چنانچہ عمر رضی اللہ عنہ مقام سرغ سے واپس آ گئے۔ اور ابن شہاب سے روایت ہے، ان سے سالم بن عبداللہ نے کہ عمر رضی اللہ عنہ عبدالرحمٰن بن عوف رضی اللہ عنہ کی حدیث سن کر واپس ہو گئے تھے۔",
+          "fr": "Rapporté par `Abdullah bin 'Amir bin Rabi`a : `Umar bin Al-Khattab est parti pour le Sham. Lorsqu’il est arrivé à un endroit appelé Sargh, il a appris qu’il y avait une épidémie de peste au Sham. Alors `AbdurRahman bin `Auf lui a rapporté que le Messager d’Allah (ﷺ) avait dit : « Si vous apprenez qu’une épidémie (de peste) touche un endroit, n’y entrez pas ; et si vous êtes déjà dans cet endroit, ne le quittez pas pour fuir l’épidémie. » Ainsi, `Umar est revenu de Sargh",
+          "id": "Telah menceritakan kepada kami [Abdullah bin Maslamah] dari [Malik] dari [Ibnu Syihab] dari [Abdullah bin Amir bin Rabi'ah], Umar bin Khattab radliallahu 'anhu berangkat ke Syam. Ketika dia sampai di suatu kota yang bernama Saragh, dia mendengar berita bahwa wabah sedang menimpa Syam. Maka [Abdurrahman bin Auf] mengabarinya, bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: \"Jika kalian mendengar wabah berada di suatu kawasan, janganlah kalian datang kesana, dan jika terjadi di suatu kawasan yang kalian diami, jangan kalian meninggalkannya.\" Spontan Umar meninggalkan kota Saragh. Dan dari [Ibnu Syihab] dari [Salim bin Abdullah], bahwasanya Umar pulang karena hadits Abdurrahman ini",
+          "tr": "Abdullah b. Amir b. Rebi'a'nın nakline göre Hz. Ömer Şam'a doğru yola çıktı. Şam yakınındaki Serğ mevkiine ulaştığında kendisine Şam'da veba hastalığı çıktığı haberi ulaştı. (Hz. Ömer yanında bulunan bazı sahabilerin muvafakatını aldıktan sonra geriye dönmeye karar verdi.) Bu sırada Abdurrahman b. Avf kendisine Resulullah Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu haber verdi: \"Bu hastalığın herhangi bir yerde çıktığını işittiğiniz zaman artık oraya gitmeyiniz! Hastalık sizin bulunduğunuz yerde baş gösterirse ondan kaçmak için sakın o yerden çıkmayınız. \" Bunun üzerine Hz. Ömer Serğ' den geri döndü. İbn Şihab'ın Salim b. Abdullah'tan nakline göre Hz. Ömer ancak bu Abdurrahman hadisinden dolayı geri dönmüştür"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 90,
+        "hadith": 20
+      },
+      "narrator": {
+        "en": "`Abdullah bin 'Amir bin Rabi`a"
+      }
+    },
+    {
+      "hadithNumber": 6974,
+      "arabicNumber": 6974,
+      "book": 90,
+      "hadithInBook": 21,
+      "text": {
+        "arabic": "حَدَّثَنَا أَبُو الْيَمَانِ، حَدَّثَنَا شُعَيْبٌ، عَنِ الزُّهْرِيِّ، حَدَّثَنَا عَامِرُ بْنُ سَعْدِ بْنِ أَبِي وَقَّاصٍ، أَنَّهُ سَمِعَ أُسَامَةَ بْنَ زَيْدٍ، يُحَدِّثُ سَعْدًا أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم ذَكَرَ الْوَجَعَ فَقَالَ ‏ \"‏ رِجْزٌ ـ أَوْ عَذَابٌ ـ عُذِّبَ بِهِ بَعْضُ الأُمَمِ، ثُمَّ بَقِيَ مِنْهُ بَقِيَّةٌ، فَيَذْهَبُ الْمَرَّةَ وَيَأْتِي الأُخْرَى، فَمَنْ سَمِعَ بِهِ بِأَرْضٍ فَلاَ يَقْدَمَنَّ عَلَيْهِ، وَمَنْ كَانَ بِأَرْضٍ وَقَعَ بِهَا فَلاَ يَخْرُجْ فِرَارًا مِنْهُ ‏\"‏‏.‏",
+        "translations": {
+          "en": "Narrated 'Amir bin Sa`d bin Abi Waqqas:That he heard Usama bin Zaid speaking to Sa`d, saying, \"Allah's Messenger (ﷺ) mentioned the plague and said, 'It is a means of punishment with which some nations were punished and some of it has remained, and it appears now and then. So whoever hears that there is an outbreak of plague in some land, he should not go to that land, and if the plague breaks out in the land where one is already present, one should not run away from that land, escaping from the plague",
+          "ur": "ہم سے ابوالیمان نے بیان کیا ‘ کہا ہم سے شعیب نے بیان کیا ‘ ان سے زہری نے ‘ ان سے عامر بن سعد بن ابی وقاص نے کہ انہوں نے اسامہ بن زید رضی اللہ عنہما سے سنا ‘ وہ سعد بن ابی وقاص رضی اللہ عنہ سے حدیث نقل کر رہے تھے کہ رسول اللہ صلی اللہ علیہ وسلم نے طاعون کا ذکر کیا اور فرمایا کہ یہ ایک عذاب ہے جس کے ذریعہ بعض امتوں کو عذاب دیا گیا تھا اس کے بعد اس کا کچھ حصہ باقی رہ گیا ہے اور وہ کبھی چلا جاتا ہے اور کبھی واپس آ جاتا ہے۔ پس جو شخص کسی سر زمین پر اس کے پھیلنے کے متعلق سنے تو وہاں نہ جائے لیکن اگر کوئی کسی جگہ ہو اور وہاں یہ وبا پھوٹ پڑے تو وہاں سے بھاگے بھی نہیں۔",
+          "fr": "Rapporté par 'Amir bin Sa`d bin Abi Waqqas : Il a entendu Usama bin Zaid dire à Sa`d : Le Messager d’Allah (ﷺ) a parlé de la peste et a dit : « C’est un moyen de punition qu’Allah a utilisé contre certains peuples, et il en reste encore aujourd’hui, elle apparaît de temps en temps. Si quelqu’un apprend qu’il y a une épidémie de peste dans une région, il ne doit pas s’y rendre. Et si la peste éclate là où il se trouve déjà, il ne doit pas fuir cet endroit pour échapper à la peste. »",
+          "id": "Telah menceritakan kepada kami [Abul yaman] telah menceritakan kepada kami [Syu'aib] dari [Az Zuhri] telah menceritakan kepada kami ['Amir bin Sa'd bin Abi Waqqash], ia mendengar [Usamah bin Zaid] menceritakan kepada Sa'd, bahwasanya Rasulullah shallallahu 'alaihi wasallam memperbincangkan suatu penyakit, beliau bersabda: \"Itu adalah sebagai hukuman dan siksaan yang pernah digunakan untuk menyiksa suatu kaum, kemudian masih ada yang tersisa dari penyakit tersbut, sehingga terkadang datang dan pergi, maka siapa mendengar suatu penyakit melanda sebuah negeri, jangan sesekali ia mendatanginya, dan barangsiapa di suatu negeri yang tengah dilanda penyakit, jangan ia mengungsi dengan niat menghindari penyakit itu",
+          "tr": "Amir b. Sa'd b. Ebi Vakkas'ın nakline göre Usame b. Zeyd şöyle demiştir: Resulullah Sallallahu Aleyhi ve Sellem bu hastalıktan söz etti de \"Bu bir ricz -veya azap-dır ki bununla Allahu Teala bazı milletleri azaplandırmıştır. Sonra onların ardından bunlardan bir bakiyye kalmıştır. Bu hastalık bir defa gider, diğer bir defa gelir. Her kim bir yerde bu hastalığın çıktığını işitirse, sakın oraya gitmesin. Kim de bu hastalığın bulunduğu bir yerde bulunursa artık hastalıktan kaçmak için oradan çıkmasın\" buyurdu. Fethu'l-Bari Açıklaması: \"Vebadan kaçma hususunda hile yapmanın mekruh olduğu.\" İmam Buhari bu konuda Abdullah b. Amir ve Salim b. Abdullah b. Ömer hadisi ile Amir b. Sa'd b. Ebi Vakkas hadislerine yer vermiştir. Bütün bu hadisler Tıp bölümünde açıklamalarıyla birlikte geçmişti. Mühelleb şöyle demiştir: Veba hastalığından kaçma konusundaki hlle, hastalıktan kaçmaya niyet ettiği halde mesela ticaret veya ziyaret maksadıyla çıkmak suretiyle olur demiştir. İbnü'l-Bakıllani, Hz. Ömer olayını sahabilerin haber-i vahidi kıyasa tercih ettiklerine delil göstermiştir. Çünkü onlar Medine'den Şam'a yolculuk meşakkatine katlandıktan sonra Abdurrahman b. Avf'ın tek başına verdiği habere dayanarak geri dönme konusunda ittifak etmişler ve Şam'a girmemişlerdir"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 90,
+        "hadith": 21
+      },
+      "narrator": {
+        "en": "'Amir bin Sa`d bin Abi Waqqas"
+      }
+    },
+    {
+      "hadithNumber": 6975,
+      "arabicNumber": 6975,
+      "book": 90,
+      "hadithInBook": 22,
+      "text": {
+        "arabic": "حَدَّثَنَا أَبُو نُعَيْمٍ، حَدَّثَنَا سُفْيَانُ، عَنْ أَيُّوبَ السَّخْتِيَانِيِّ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏ \"‏ الْعَائِدُ فِي هِبَتِهِ كَالْكَلْبِ يَعُودُ فِي قَيْئِهِ، لَيْسَ لَنَا مَثَلُ السَّوْءِ ‏\"‏‏.‏",
+        "translations": {
+          "en": "Narrated Ibn `Abbas:The Prophet (ﷺ) said, \"The one who takes back his gift is like a dog swallowing its own vomit, and we (believers) should not act according to this bad example",
+          "ur": "ہم سے ابونعیم نے بیان کیا ‘ کہا ہم سے سفیان نے بیان کیا ‘ ان سے ایوب سختیانی نے ‘ ان سے عکرمہ نے اور ان سے ابن عباس رضی اللہ عنہما نے بیان کیا کہ نبی کریم صلی اللہ علیہ وسلم نے فرمایا ”اپنے ہبہ کو واپس لینے والا اس کتے کی طرح ہے جو اپنی قے کو خود چاٹ جاتا ہے ‘ ہمارے لیے بری مثال مناسب نہیں۔“",
+          "fr": "Rapporté par Ibn `Abbas : Le Prophète (ﷺ) a dit : « Celui qui reprend un cadeau qu’il a offert ressemble à un chien qui ravale son vomi, et nous (croyants) ne devons pas suivre ce mauvais exemple. »",
+          "id": "Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Sufyan] dari [Ayyub As Sakhtiyani] dari [Ikrimah] dari [Ibnu Abbas] radliallahu 'anhuma mengatakan, Nabi shallallahu 'alaihi wasallam bersabda: \"Orang yang menarik kembali pemberian, bagaikan anjing yang menyantap lagi muntahannya, yang kita tak mempunyai perumpamaan lebih buruk daripadanya",
+          "tr": "İbn Abbas'ın nakline göre Resulullah Sallallahu Aleyhi ve Sellem \"Hibesinden geri dönen kişi (kusan) sonra da kusmuğuna dönen köpek gibidir. Bizim böyle kötü bir sıfatımız olamaz\" buyurmuştur"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 90,
+        "hadith": 22
+      },
+      "narrator": {
+        "en": "Ibn `Abbas"
+      }
+    },
+    {
+      "hadithNumber": 6976,
+      "arabicNumber": 6976,
+      "book": 90,
+      "hadithInBook": 23,
+      "text": {
+        "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ، حَدَّثَنَا هِشَامُ بْنُ يُوسُفَ، أَخْبَرَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، عَنْ أَبِي سَلَمَةَ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، قَالَ إِنَّمَا جَعَلَ النَّبِيُّ صلى الله عليه وسلم الشُّفْعَةَ فِي كُلِّ مَا لَمْ يُقْسَمْ، فَإِذَا وَقَعَتِ الْحُدُودُ وَصُرِّفَتِ الطُّرُقُ فَلاَ شُفْعَةَ‏.‏ وَقَالَ بَعْضُ النَّاسِ الشُّفْعَةُ لِلْجِوَارِ‏.‏ ثُمَّ عَمَدَ إِلَى مَا شَدَّدَهُ فَأَبْطَلَهُ، وَقَالَ إِنِ اشْتَرَى دَارًا فَخَافَ أَنْ يَأْخُذَ الْجَارُ بِالشُّفْعَةِ، فَاشْتَرَى سَهْمًا مِنْ مِائَةِ سَهْمٍ، ثُمَّ اشْتَرَى الْبَاقِيَ، وَكَانَ لِلْجَارِ الشُّفْعَةُ فِي السَّهْمِ الأَوَّلِ، وَلاَ شُفْعَةَ لَهُ فِي بَاقِي الدَّارِ، وَلَهُ أَنْ يَحْتَالَ فِي ذَلِكَ‏.‏",
+        "translations": {
+          "en": "Narrated Jabir bin `Abdullah:The Prophet (ﷺ) has decreed that preemption is valid in all cases where the real estate concerned has not been divided, but if the boundaries are established and the ways are made, then there is no preemption. A man said, \"Preemption is only for the neighbor,\" and then he makes invalid what he has confirmed. He said, \"If someone wants to buy a house and being afraid that the neighbor (of the house) may buy it through preemption, he buys one share out of one hundred shares of the house and then buys the rest of the house, then the neighbor can only have the right of preemption for the first share but not for the rest of the house; and the buyer may play such a trick in this case",
+          "ur": "ہم سے عبداللہ بن محمد نے بیان کیا ‘ انہوں نے کہا ہم سے ہشام بن یوسف نے بیان کیا ‘ انہوں نے کہا ہم کو معمر نے خبر دی ‘ انہیں زہری نے ‘ انہیں ابوسلمہ نے اور ان سے جابر بن عبداللہ رضی اللہ عنہما نے بیان کیا کہ نبی کریم صلی اللہ علیہ وسلم نے شفعہ کا حکم ہر اس چیز میں دیا تھا جو تقسیم نہ ہو سکتی ہو۔ پس جب حد بندی ہو جائے اور راستے الگ الگ کر دئیے جائیں تو پھر شفعہ نہیں۔ اور بعض لوگ کہتے ہیں کہ شفعہ کا حق پڑوسی کو بھی ہوتا ہے پھر خود ہی اپنی بات کو غلط قرار دیا اور کہا کہ اگر کسی نے کوئی گھر خریدا اور اسے خطرہ ہے کہ اس کا پڑوسی حق شفعہ کی بنا پر اس سے گھر لے لے گا تو اس نے اس کے سو حصے کر کے ایک حصہ اس میں سے پہلے خرید لیا اور باقی حصے بعد میں خریدے تو ایسی صورت میں پہلے حصے میں تو پڑوسی کو شفعہ کا حق ہو گا۔ گھر کے باقی حصوں میں اسے یہ حق نہیں ہو گا اور اس کے لیے جائز ہے کہ یہ حیلہ کرے۔",
+          "fr": "Rapporté par Jabir bin `Abdullah : Le Prophète (ﷺ) a établi que le droit de préemption s’applique tant que le bien immobilier n’a pas été divisé. Mais si les limites sont fixées et les chemins tracés, il n’y a plus de préemption. Un homme a dit : « La préemption n’est que pour le voisin », puis il a annulé ce qu’il venait d’affirmer. Il a expliqué : « Si quelqu’un veut acheter une maison et, craignant que le voisin ne l’achète par préemption, il achète d’abord une part sur cent de la maison, puis le reste, alors le voisin n’a le droit de préemption que sur la première part, pas sur le reste ; et l’acheteur peut utiliser cette astuce dans ce cas. »",
+          "id": "Telah menceritakan kepada kami [Abdullah bin Muhammad] telah menceritakan kepada kami [Hisyam bin Yusuf] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari [Abu Salamah] dari [Jabir bin Abdullah] mengatakan, 'hanyasanya Nabi shallallahu 'alaihi wasallam menetapkan syuf'ah untuk suatu yang belum dibagi, namun jika batas-batas tanah dan jalan pekarangan telah ditetapkan, tak ada syuf'ah lagi.' Sebagian orang berpendapat; 'bahwa syuf'ah bagi tetangga', kemudian dia berpegang dengan perkara yang dia perkuat, sehingga ia membatalkannya. Dan dia berkata; Jika seseorang membeli rumah dan khawatir tetangganya menguasainya dengan syuf'ah, maka dia membeli satu saham dari seratus saham yang ada, kemudian ia sendiri membeli saham sisanya, maka si tetangga hanya memperoleh syuf'ah pada satu saham yang pertama, dan tidak berhak syuf'ah pada saham rumah sisanya, dan dia boleh mensiasati hal itu",
+          "tr": "Birileri (HaneflIer) \"Şuf'a komşuluktan doğar\" demjş, sonra koyduğu bu kaideye yönelerek onu iptal edip şöyle demiştir: Bir kimse bir ev satın alsa ve komşunun aynı evi şuf'a nedeniyle alacağından korksa önce evinyüzde birini satın alır, sonra da kalanını satın alır. Bu durumda o komşu sadeceyüzde birlik hissede şuf'a hakkına sahip olur. Evin kalan hisselerinde şuf'a hakkı yoktur. Evi satın alan kimse bu konuda böyle bir hileye baş vurabilir"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 90,
+        "hadith": 23
+      },
+      "narrator": {
+        "en": "Jabir bin `Abdullah"
+      }
+    },
+    {
+      "hadithNumber": 6977,
+      "arabicNumber": 6977,
+      "book": 90,
+      "hadithInBook": 24,
+      "text": {
+        "arabic": "حَدَّثَنَا عَلِيُّ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا سُفْيَانُ، عَنْ إِبْرَاهِيمَ بْنِ مَيْسَرَةَ، سَمِعْتُ عَمْرَو بْنَ الشَّرِيدِ، قَالَ جَاءَ الْمِسْوَرُ بْنُ مَخْرَمَةَ فَوَضَعَ يَدَهُ عَلَى مَنْكِبِي، فَانْطَلَقْتُ مَعَهُ إِلَى سَعْدٍ فَقَالَ أَبُو رَافِعٍ لِلْمِسْوَرِ أَلاَ تَأْمُرُ هَذَا أَنْ يَشْتَرِيَ مِنِّي بَيْتِي الَّذِي فِي دَارِي‏.‏ فَقَالَ لاَ أَزِيدُهُ عَلَى أَرْبَعِمِائَةٍ، إِمَّا مُقَطَّعَةٍ وَإِمَّا مُنَجَّمَةٍ‏.‏ قَالَ أُعْطِيتُ خَمْسَمِائَةٍ نَقْدًا، فَمَنَعْتُهُ، وَلَوْلاَ أَنِّي سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم يَقُولُ ‏ \"‏ الْجَارُ أَحَقُّ بِصَقَبِهِ ‏\"‏‏.‏ مَا بِعْتُكَهُ أَوْ قَالَ مَا أَعْطَيْتُكَهُ‏.‏ قُلْتُ لِسُفْيَانَ إِنَّ مَعْمَرًا لَمْ يَقُلْ هَكَذَا‏.‏ قَالَ لَكِنَّهُ قَالَ لِي هَكَذَا‏.‏ وَقَالَ بَعْضُ النَّاسِ إِذَا أَرَادَ أَنْ يَبِيعَ الشُّفْعَةَ فَلَهُ أَنْ يَحْتَالَ حَتَّى يُبْطِلَ الشُّفْعَةَ فَيَهَبُ الْبَائِعُ لِلْمُشْتَرِي الدَّارَ، وَيَحُدُّهَا وَيَدْفَعُهَا إِلَيْهِ، وَيُعَوِّضُهُ الْمُشْتَرِي أَلْفَ دِرْهَمٍ، فَلاَ يَكُونُ لِلشَّفِيعِ فِيهَا شُفْعَةٌ‏.‏",
+        "translations": {
+          "en": "Narrated 'Amr bin Ash-Sharid: Al-Miswar bin Makhrama came and put his hand on my shoulder and I accompanied him to Sa'd. Abu Rafi' said to Al-Miswar, \"Won't you order this (i.e. Sa'd) to buy my house which is in my yard?\" Sa'd said, \"I will not offer more than four hundred in installments over a fixed period.\" Abu Rafi said, \"I was offered five hundred cash but I refused. Had I not heard the Prophet (ﷺ) saying, 'A neighbor is more entitled to receive the care of his neighbor,' I would not have sold it to you.\" The narrator said, to Sufyan: Ma'mar did not say so. Sufyan said, \"But he did say so to me.\" Some people said, \"If someone wants to sell a house and deprived somebody of the right of preemption, he has the right to play a trick to render the preemption invalid. And that is by giving the house to the buyer as a present and marking its boundaries and giving it to him. The buyer then gives the seller one-thousand Dirham as compensation in which case the preemptor loses his right of preemption",
+          "ur": "ہم سے علی بن عبداللہ مدینی نے بیان کیا ‘ انہوں نے کہا ہم سے سفیان بن عیینہ نے بیان کیا ‘ ان سے ابراہیم بن میسرہ نے بیان کیا ‘ انہوں نے عمرو بن شرید سے سنا ‘ انہوں نے بیان کیا کہ مسور بن مخرمہ رضی اللہ عنہ آئے اور انہوں نے میرے مونڈھے پر اپنا ہاتھ رکھا پھر میں ان کے ساتھ سعد بن ابی وقاص رضی اللہ عنہ کے یہاں گیا تو ابورافع نے اس پر کہا کہ اس کا چار سو سے زیادہ میں نہیں دے سکتا اور وہ بھی قسطوں میں دوں گا۔ اس پر انہوں نے جواب دیا کہ مجھے تو اس کے پانچ سو نقد مل رہے تھے اور میں نے انکار کر دیا۔ اگر میں نے رسول اللہ صلی اللہ علیہ وسلم سے یہ نہ سنا ہوتا کہ پڑوسی زیادہ مستحق ہے تو میں اسے تمہیں نہ بیچتا۔ علی بن عبداللہ مدینی نے کہا میں نے سفیان بن عیینہ سے اس پر پوچھا کہ معمر نے اس طرح نہیں بیان کیا ہے۔ سفیان نے کہا کہ لیکن مجھ سے تو ابراہیم بن میسرہ نے یہ حدیث اسی طرح نقل کی۔ اور بعض لوگ کہتے ہیں کہ اگر کوئی شخص چاہے کہ شفیع کو حق شفعہ نہ دے تو اسے حیلہ کرنے کی اجازت ہے اور حیلہ یہ ہے کہ جائیداد کا مالک خریدار کو وہ جائیداد ہبہ کر دے پھر خریدار یعنی موہوب لہ اس ہبہ کے معاوضہ میں مالک جائیداد کو ہزار درہم مثلاً ہبہ کر دے اس صورت میں شفیع کو شفعہ کا حق نہ رہے گا۔",
+          "fr": "Rapporté par 'Amr bin Ash-Sharid : Al-Miswar bin Makhrama est venu et a posé sa main sur mon épaule, et je l'ai accompagné chez Sa'd. Abu Rafi' a dit à Al-Miswar : « Ne veux-tu pas demander à Sa'd d’acheter ma maison qui se trouve dans ma cour ? » Sa'd a répondu : « Je n’offrirai pas plus de quatre cents, payés en plusieurs fois sur une période déterminée. » Abu Rafi' a dit : « On m’a proposé cinq cents en espèces mais j’ai refusé. Si je n’avais pas entendu le Prophète ﷺ dire : “Le voisin a plus de droits à l’égard de son voisin”, je ne te l’aurais pas vendue. » Le rapporteur a dit à Soufyan : Ma'mar n’a pas dit cela. Soufyan a répondu : « Mais il me l’a bien dit à moi. » Certaines personnes ont dit : « Si quelqu’un veut vendre une maison et priver quelqu’un de son droit de préemption, il peut contourner la règle en offrant la maison à l’acheteur comme un cadeau, en en fixant les limites et en la lui donnant. L’acheteur donne ensuite au vendeur mille dirhams en compensation, et dans ce cas, celui qui avait le droit de préemption le perd. »",
+          "id": "Telah menceritakan kepada kami [Ali bin Abdullah] telah menceritakan kepada kami [Sufyan] dari [Ibrahim bin Maisarah] aku mendengar [Amru bin Syarid] mengatakan, Miswar bin makhramah datang dan meletakkan tangannya di pundakku. Kemudian aku berangkat bersamanya menuju ke Sa'd. Lantas [Abu Rafi'] mengatakan kepada Miswar; 'Tidakkah engkau suruh orang ini untuk membeli rumahku yang berada di pekaranganku? ' ia berkata; 'Saya tidak menambahnya melebihi empat ratus, baik secara kontan atau kredit.' Abu rafi' mengatakan; 'Aku telah diberi lima ratus secara kontan, namun aku menolaknya, kalaulah aku tidak mendengar Nabi shallallahu 'alaihi wasallam bersabda: \"Tetangga lebih berhak terhadap dinding tetangganya, \" niscaya aku tidak akan menjualnya kepadamu, -atau ia mengatakan dengan redaksi; 'niscaya tak akan memberikannya kepadamu'.- Saya berkata kepada Ma'mar; Ma'mar tidak mengatakan demikian, namun dia mengatakan kepadaku sedemikian dan mengatakan; Jika seseorang ingin menjual syuf'ah, maka ia boleh melakukan siasat sehingga membatalkan syuf'ah, dan penjual memberikan rumah kepada si pembeli, memberi batasan (waktu dan nilai) dan menyerahkannya kepada si pembeli, dan si pembeli menggantinya dengan seribu dirham, sehingga orang yang mempunyai syuf'ah tidak mempunyai syuf'ah lagi",
+          "tr": "Amr b. eş-Şerid şöyle anlatmıştır: Bir gün Misver b. Mahreme geldi ve elini benim omuzum üzerine koydu. Ben de onunla birlikte Sa'd b. Ebi Vakkas'a gittim. Ebu Rafi, Misver'e \"Şu Sa'd b. Ebi Vakkas'a bahçeli konağımda bulunan (dar) evimi (beyt) benden satın almasını söyler misin?\" dedi. Bunun üzerine Sa'd \"Ben dört yüz dirhemden daha fazla veremem. Bu da ya parça parça ya da taksit taksit olabilir\" dedi. Ebu Rafi \"Bana beş yüz dinar nakit verildi de ben kabul etmedim. Ben Resulullah Sallallahu Aleyhi ve Sellem'den \"Komşu komşuya en öncelikli şefidir\" buyururken işitmemiş olsaydım, bu evi sana satmazdım -yahut bu evi sana vermezdim- dedi. Süfyan b. Uyeyne'ye \"Ma'mer bu hadisi böyle nakletmedi\" dedim. Süfyan \"İbrahim b. Meysera bana böyle söyledi\" dedi. Bazıları (HaneflIer) şöyle demiştir: Satıcı şuf'a'ya engelolmak istediğinde onu iptal etmek için hile yapma hakkı vardır. Satıcı evi müşteriye hibe eder ve hududun u belirtir, evi müşteriye devreder. Müşteri de ona mesela bin dirhem bedel verir. Böylece şefii için evde bir şuf'a hakkı kalmaz"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 90,
+        "hadith": 24
+      },
+      "narrator": {
+        "en": "'Amr bin Ash-Sharid"
+      }
+    },
+    {
+      "hadithNumber": 6978,
+      "arabicNumber": 6978,
+      "book": 90,
+      "hadithInBook": 25,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ يُوسُفَ، حَدَّثَنَا سُفْيَانُ، عَنْ إِبْرَاهِيمَ بْنِ مَيْسَرَةَ، عَنْ عَمْرِو بْنِ الشَّرِيدِ، عَنْ أَبِي رَافِعٍ، أَنَّ سَعْدًا، سَاوَمَهُ بَيْتًا بِأَرْبَعِمِائَةِ مِثْقَالٍ فَقَالَ لَوْلاَ أَنِّي سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏ \"‏ الْجَارُ أَحَقُّ بِصَقَبِهِ ‏\"‏‏.‏ لَمَا أَعْطَيْتُكَ‏.‏ وَقَالَ بَعْضُ النَّاسِ إِنِ اشْتَرَى نَصِيبَ دَارٍ، فَأَرَادَ أَنْ يُبْطِلَ الشُّفْعَةَ، وَهَبَ لاِبْنِهِ الصَّغِيرِ وَلاَ يَكُونُ عَلَيْهِ يَمِينٌ‏.‏",
+        "translations": {
+          "en": "Narrated 'Amr bin Ash-Sharid: Abu Rafi' said that Sa'd offered him four hundred Mithqal of gold for a house. Abu Rafi ' said, \"If I had not heard Allah's Messenger (ﷺ) saying, 'A neighbor has more right to be taken care of by his neighbor,' then I would not have given it to you.\" Some people said, \"If one has bought a portion of a house and wants to cancel the right of preemption, he may give it as a present to his little son and he will not be obliged to take an oath",
+          "ur": "ہم سے محمد بن یوسف نے بیان کیا، انہوں نے کہا ہم سے سفیان نے بیان کیا، ان سے ابراہیم بن میسرہ نے بیان کیا، ان سے عمرو بن شرید نے، ان سے ابورافع نے کہ سعد رضی اللہ عنہ نے ان کے ایک گھر کی چار سو مثقال قیمت لگائی تو انہوں نے کہا کہ اگر میں نے رسول اللہ صلی اللہ علیہ وسلم کو یہ کہتے نہ سنا ہوتا کہ پڑوسی اپنے پڑوس کا زیادہ مستحق ہے تو میں اسے تمہیں نہ دیتا۔ اور بعض لوگ کہتے ہیں کہ اگر کسی نے کسی گھر کا حصہ خریدا اور چاہا کہ اس کا حق شفہ باطل کر دے تو اسے اس گھر کو اپنے چھوٹے بیٹے کو ہبہ کر دینا چاہیے، اب نابالغ پر قسم بھی نہیں ہو گی۔",
+          "fr": "Rapporté par 'Amr bin Ash-Sharid : Abu Rafi' a dit que Sa'd lui avait proposé quatre cents mithqals d’or pour une maison. Abu Rafi' a dit : « Si je n’avais pas entendu le Messager d’Allah ﷺ dire : “Le voisin a plus de droits à l’égard de son voisin”, je ne te l’aurais pas donnée. » Certaines personnes ont dit : « Si quelqu’un a acheté une partie d’une maison et veut annuler le droit de préemption, il peut l’offrir en cadeau à son jeune fils et il ne sera pas obligé de prêter serment. »",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Yusuf] telah menceritakan kepada kami [Sufyan] dari [Ibrahim bin Maisarah] dari [Amru bin Syarid] dari [Abu Rafi'], bahwasanya Sa'd pernah mengajukan penawaran rumah kepadanya seharga empat ratus mitsqal. Lantas Abu rafi' menjawab; 'Kalaulah aku tidak mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: \"Tetangga lebih berhak terhadap dindingnya, \" niscaya aku tidak menjualnya kepadamu. Dan sebagian orang berpendapat; Jika seseorang membeli bagian rumah, lantas ia ingin membatalkan syuf'ah, dan ia berikan kepada anak kecilnya, maka ia tak wajib bersumpah",
+          "tr": "Ebu Rafi şöyle anlatmıştır: Sa'd b. Ebi Vakkas bir evi kendisiyle dört yüz miskale pazarlık edince o şöyle dedi: Eğer ben Resulullah Sallallahu Aleyhi ve Sellem'den \"Komşu komşuya en öncelikli şefidir\" buyururken işitmiş olmasaydım bu evi sana (bu fiyata) vermezdim dedi"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 90,
+        "hadith": 25
+      },
+      "narrator": {
+        "en": "'Amr bin Ash-Sharid"
+      }
+    },
+    {
+      "hadithNumber": 6979,
+      "arabicNumber": 6979,
+      "book": 90,
+      "hadithInBook": 26,
+      "text": {
+        "arabic": "حَدَّثَنَا عُبَيْدُ بْنُ إِسْمَاعِيلَ، حَدَّثَنَا أَبُو أُسَامَةَ، عَنْ هِشَامٍ، عَنْ أَبِيهِ، عَنْ أَبِي حُمَيْدٍ السَّاعِدِيِّ، قَالَ اسْتَعْمَلَ رَسُولُ اللَّهِ صلى الله عليه وسلم رَجُلاً عَلَى صَدَقَاتِ بَنِي سُلَيْمٍ يُدْعَى ابْنَ اللُّتَبِيَّةِ، فَلَمَّا جَاءَ حَاسَبَهُ قَالَ هَذَا مَالُكُمْ وَهَذَا هَدِيَّةٌ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ فَهَلاَّ جَلَسْتَ فِي بَيْتِ أَبِيكَ وَأُمِّكَ، حَتَّى تَأْتِيَكَ هَدِيَّتُكَ إِنْ كُنْتَ صَادِقًا ‏\"‏‏.‏ ثُمَّ خَطَبَنَا فَحَمِدَ اللَّهَ وَأَثْنَى عَلَيْهِ ثُمَّ قَالَ ‏\"‏ أَمَّا بَعْدُ، فَإِنِّي أَسْتَعْمِلُ الرَّجُلَ مِنْكُمْ عَلَى الْعَمَلِ مِمَّا وَلاَّنِي اللَّهُ، فَيَأْتِي فَيَقُولُ هَذَا مَالُكُمْ وَهَذَا هَدِيَّةٌ أُهْدِيَتْ لِي‏.‏ أَفَلاَ جَلَسَ فِي بَيْتِ أَبِيهِ وَأُمِّهِ حَتَّى تَأْتِيَهُ هَدِيَّتُهُ، وَاللَّهِ لاَ يَأْخُذُ أَحَدٌ مِنْكُمْ شَيْئًا بِغَيْرِ حَقِّهِ، إِلاَّ لَقِيَ اللَّهَ يَحْمِلُهُ يَوْمَ الْقِيَامَةِ، فَلأَعْرِفَنَّ أَحَدًا مِنْكُمْ لَقِيَ اللَّهَ يَحْمِلُ بَعِيرًا لَهُ رُغَاءٌ، أَوْ بَقَرَةً لَهَا خُوَارٌ، أَوْ شَاةً تَيْعَرُ ‏\"‏‏.‏ ثُمَّ رَفَعَ يَدَهُ حَتَّى رُئِيَ بَيَاضُ إِبْطِهِ يَقُولُ ‏\"‏ اللَّهُمَّ هَلْ بَلَّغْتُ ‏\"‏‏.‏ بَصْرَ عَيْنِي وَسَمْعَ أُذُنِي‏.‏",
+        "translations": {
+          "en": "Narrated Abu Humaid As-Sa`idi:Allah's Messenger (ﷺ) appointed a man called Ibn Al-Lutabiyya to collect the Zakat from Bani Sulaim's tribe. When he returned, the Prophet (ﷺ) called him to account. He said (to the Prophet, 'This is your money, and this has been given to me as a gift.\" On that, Allah's Messenger (ﷺ) said, \"Why didn't you stay in your father's and mother's house to see whether you will be given gifts or not if you are telling the truth?\" Then the Prophet (ﷺ) addressed us, and after praising and glorifying Allah, he said: \"Amma Ba'du\", I employ a man from among you to manage some affair of what Allah has put under my custody, and then he comes to me and says, 'This is your money and this has been given to me as a gift. Why didn't he stay in his father's and mother's home to see whether he will be given gifts or not? By Allah, not anyone of you takes a thing unlawfully but he will meet Allah on the Day of Resurrection, carrying that thing. I do not want to see any of you carrying a grunting camel or a mooing cow or a bleating sheep on meeting Allah.\" Then the Prophet (ﷺ) raised both his hands till the whiteness of his armpits became visible, and he said, \"O Allah! Haven't I have conveyed (Your Message)?\" The narrator added: My eyes witnessed and my ears heard (that Hadith)",
+          "ur": "ہم سے عبید بن اسماعیل نے بیان کیا ‘ کہا ہم سے ابواسامہ نے بیان کیا ‘ ان سے ہشام نے ‘ ان سے ان کے والد عروہ نے اور ان سے ابوحمید الساعدی رضی اللہ عنہ نے بیان کیا کہ رسول اللہ صلی اللہ علیہ وسلم نے ایک شخص کو بنی سلیم کے صدقات کی وصولی کے لیے عامل بنایا ان کا نام ابن اللتیبہ تھا پھر جب یہ عامل واپس آیا اور نبی کریم صلی اللہ علیہ وسلم نے ان کا حساب لیا ‘ اس نے سرکاری مال علیحدہ کیا اور کچھ مال کی نسبت کہنے لگا کہ یہ ( مجھے ) تحفہ میں ملا ہے۔ نبی کریم صلی اللہ علیہ وسلم نے اس پر فرمایا کہ پھر کیوں نہ تم اپنے ماں باپ کے گھر بیٹھے رہے اگر تم سچے ہو تو وہیں یہ تحفہ تمہارے پاس آ جاتا۔ اس کے بعد نبی کریم صلی اللہ علیہ وسلم نے ہمیں خطبہ دیا اور اللہ کی حمد و ثنا کے بعد فرمایا، امابعد! میں تم میں سے کسی ایک کو اس کام پر عامل بناتا ہوں جس کا اللہ نے مجھے والی بنایا ہے پھر وہ شخص آتا ہے اور کہتا ہے کہ یہ تمہارا مال اور یہ تحفہ ہے جو مجھے دیا گیا تھا۔ اسے اپنے ماں باپ کے گھر بیٹھا رہنا چاہئیے تھا تاکہ اس کا تحفہ وہیں پہنچ جاتا۔ اللہ کی قسم! تم میں سے جو بھی حق کے سوا کوئی چیز لے گا وہ اللہ تعالیٰ سے اس حال میں ملے گا کہ اس چیز کو اٹھائے ہوئے ہو گا بلکہ میں تم میں ہر اس شخص کو پہچان لوں گا جو اللہ سے اس حال میں ملے گا کہ اونٹ اٹھائے ہو گا جو بلبلا رہا ہو گا یا گائے اٹھائے ہو گا جو اپنی آواز نکال رہی ہو گی یا بکری اٹھائے ہو گا جو اپنی آواز نکال رہی ہو گی۔ پھر آپ نے اپنا ہاتھ اٹھایا یہاں تک کہ آپ کے بغل کی سفیدی دکھائی دینے لگی اور فرمایا، اے اللہ کیا میں نے پہنچا دیا۔ یہ فرماتے ہوئے نبی کریم صلی اللہ علیہ وسلم کو میری آنکھوں نے دیکھا اور کانوں سے سنا۔",
+          "fr": "Rapporté par Abu Humaid As-Sa`idi : Le Messager d’Allah ﷺ a nommé un homme appelé Ibn Al-Lutabiyya pour collecter la Zakat auprès de la tribu de Bani Sulaim. Lorsqu’il est revenu, le Prophète ﷺ lui a demandé des comptes. Il a dit au Prophète : « Ceci est ton argent, et ceci m’a été donné comme cadeau. » Alors, le Messager d’Allah ﷺ a dit : « Pourquoi n’es-tu pas resté chez ton père et ta mère pour voir si tu aurais reçu des cadeaux ou non, si tu dis la vérité ? » Ensuite, le Prophète ﷺ s’est adressé à nous, et après avoir loué et glorifié Allah, il a dit : « Amma Ba'du : J’emploie l’un d’entre vous pour gérer une affaire parmi ce qu’Allah m’a confié, puis il vient me dire : “Ceci est ton argent et ceci m’a été donné comme cadeau.” Pourquoi n’est-il pas resté chez son père et sa mère pour voir s’il aurait reçu des cadeaux ou non ? Par Allah, personne parmi vous ne prend quelque chose de manière illégale sans qu’il ne rencontre Allah au Jour de la Résurrection en portant cette chose. Je ne veux pas voir l’un d’entre vous rencontrer Allah en portant un chameau qui grogne, une vache qui meugle ou une brebis qui bêle. » Ensuite, le Prophète ﷺ a levé les deux mains jusqu’à ce que la blancheur de ses aisselles soit visible, et il a dit : « Ô Allah ! N’ai-je pas transmis (Ton message) ? » Le rapporteur a ajouté : Mes yeux ont vu et mes oreilles ont entendu ce hadith",
+          "id": "Telah menceritakan kepada kami [Ubaid bin Isma'il], telah menceritakan kepada kami [Abu Usamah] dari [Hisyam] dari [ayahnya], dari [Abu Humaid As Sa'idi] mengatakan, Rasulullah Shallallahu'alaihiwasallam pernah mempekerjakan seorang laki-laki untuk mengelola zakat bani Sulaim yang sering dipanggil dengan nama Ibnu Al Latabiyah, tatkala dia datang, dia menghitungnya dan berkata; 'Ini adalah hartamu dan ini hadiah.' Spontan Rasulullah Shallallahu'alaihiwasallam berujar: \"kenapa kamu tidak duduk-duduk saja di rumah ayahmu atau ibumu sampai hadiahmu datang kepadamu jika kamu jujur.\" Kemudian beliau berpidato di hadapan kami, memuja dan memuji Allah terus bersabda: \"Amma ba'd. Sesungguhnya saya mempekerjakan salah seorang diantara kalian untuk mengumpulkan zakat yang telah Allah kuasakan kepadaku, lantas ia datang dan mengatakan; 'ini hartamu dan ini hadiah yang diberikan kepadaku, ' kenapa dia tidak duduk-duduk saja di rumah ayahnya atau ibunya sampai hadiahnya datang kepadanya? Demi Allah, tidaklah salah seorang diantara kalian mengambil sesuatu yang bukan haknya, selain ia menjumpai Allah pada hari kiamat dengan memikul hak itu, aku tahu salah seorang diantara kalian menjumpai Allah dengan memikul unta yang mendengus, atau sapi yang melenguh, atau kambing yang mengembik.\" Kemudian beliau mengangkat tangannya hingga terlihat putih ketiaknya seraya mengatakan: \"Ya Allah, bukankah aku telah menyampaikan apa yang kulihat dengan mataku dan kudengar dengan dua telingaku?",
+          "tr": "Ebu Humeyd es-Said! şöyle anlatmıştır: Resulullah Sallallahu Aleyhi ve Sellem İbnü'l-Utbiyye isimli birisini Süleym oğullarının zekatlarını toplamaya memur etti. Bu adam vazifesini yapıp geldiğinde Resulullah Sallallahu Aleyhi ve Sellem onu hesaba çekti. Bu zat \"(Ya Resulallah!) Şu sizin zekat malınızdır, Bu da (bana verilen) hediyedir\" dedi. Resulullah Sallallahu Aleyhi ve Sellem \"Sen doğruyu söyleyen bir kişi isen babanın, ananın evinde otursaydın sana hediyen gelir miydi?\" buyurdu. Sonra Resulullah Sallallahu Aleyhi ve Sellem bize bir konuşma yaptı. Konuşmasına Allah'a hamdederek, onu güzel sıfatlarla överek başladı. \"İmdi\" dedikten sonra şöyle buyurdu: \"İçinizden birisini Allah'ın bana havale buyurduğu bir işe memur olarak tayin ediyorum da o bana gelip, hesap verirken 'Şu sizin zekat malınızdır, bu da (bana verilen) hediyedir!' diyor! Bu adam babasının, anasının evinde otursaydı kendisine hediye gelir miydi! Allah'a yemin ederim ki sizden bir kimse hıyanet edip de (Beytü'l-malden) hakkından başka bir şeyalırsa muhakkak kıyamet gününde o adam çaldığı malı boynunda yüklenerek Allah'a kavuşacaktır. Sakın sizden herhangi birinizi inlemesi olan bir deveyi yahut böğürmesi olan bir sığzn veya melemesi olan bir davarı boynunda taşıyarak Allah'a kavuştuğunu görüp tanımayayım!\" Bundan sonra Resulullah Sallallahu Aleyhi ve Sellem iki elini koltuk altının beyazlığı görülünceye kadar kaldırarak \"Allah'ım emirlerini tebliğ ettim mi?\" buyuruyordu. Ben bunu gözümle gördüm, bu konuşmayı da kulağımla işittim"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 90,
+        "hadith": 26
+      },
+      "narrator": {
+        "en": "Abu Humaid As-Sa`idi"
+      }
+    },
+    {
+      "hadithNumber": 6980,
+      "arabicNumber": 6980,
+      "book": 90,
+      "hadithInBook": 27,
+      "text": {
+        "arabic": "حَدَّثَنَا أَبُو نُعَيْمٍ، حَدَّثَنَا سُفْيَانُ، عَنْ إِبْرَاهِيمَ بْنِ مَيْسَرَةَ، عَنْ عَمْرِو بْنِ الشَّرِيدِ، عَنْ أَبِي رَافِعٍ، قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ الْجَارُ أَحَقُّ بِصَقَبِهِ ‏\"‏‏.‏ وَقَالَ بَعْضُ النَّاسِ إِنِ اشْتَرَى دَارًا بِعِشْرِينَ أَلْفَ دِرْهَمٍ، فَلاَ بَأْسَ أَنْ يَحْتَالَ حَتَّى يَشْتَرِيَ الدَّارَ بِعِشْرِينَ أَلْفَ دِرْهَمٍ، وَيَنْقُدَهُ تِسْعَةَ آلاَفِ دِرْهَمٍ وَتِسْعَمِائَةَ دِرْهَمٍ وَتِسْعَةً وَتِسْعِينَ، وَيَنْقُدَهُ دِينَارًا بِمَا بَقِيَ مِنَ الْعِشْرِينَ الأَلْفَ، فَإِنْ طَلَبَ الشَّفِيعُ أَخَذَهَا بِعِشْرِينَ أَلْفَ دِرْهَمٍ، وَإِلاَّ فَلاَ سَبِيلَ لَهُ عَلَى الدَّارِ، فَإِنِ اسْتُحِقَّتِ الدَّارُ، رَجَعَ الْمُشْتَرِي عَلَى الْبَائِعِ بِمَا دَفَعَ إِلَيْهِ، وَهْوَ تِسْعَةُ آلاَفِ دِرْهَمٍ وَتِسْعُمِائَةٍ وَتِسْعَةٌ وَتِسْعُونَ دِرْهَمًا وَدِينَارٌ، لأَنَّ الْبَيْعَ حِينَ اسْتُحِقَّ انْتَقَضَ الصَّرْفُ فِي الدِّينَارِ، فَإِنْ وَجَدَ بِهَذِهِ الدَّارِ عَيْبًا وَلَمْ تُسْتَحَقَّ، فَإِنَّهُ يَرُدُّهَا عَلَيْهِ بِعِشْرِينَ أَلْفَ دِرْهَمٍ‏.‏ قَالَ فَأَجَازَ هَذَا الْخِدَاعَ بَيْنَ الْمُسْلِمِينَ وَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ لاَ دَاءَ وَلاَ خِبْثَةَ وَلاَ غَائِلَةَ ‏\"‏‏.‏",
+        "translations": {
+          "en": "Narrated Abu Rafi`:The Prophet (ﷺ) said, \"The neighbor has more right to be taken care of by his neighbor (than anyone else).\" Some men said, \"If one wants to buy a house for 20,000 Dirhams then there is no harm to play a trick to deprive somebody of preemption by buying it (just on paper) with 20,000 Dirhams but paying to the seller only 9,999 Dirhams in cash and then agree with the seller to pay only one Dinar in cash for the rest of the price (i.e. 10,001 Dirhams). If the preemptor offers 20,000 Dirhams for the house, he can buy it otherwise he has no right to buy it (by this trick he got out of preemption). If the house proves to belong to somebody else other than the seller, the buyer should take back from the seller what he has paid, i.e., 9,999 Dirhams and one Dinar, because if the house proves to belong to somebody else, so the whole bargain (deal) is unlawful. If the buyer finds a defect in the house and it does not belong to somebody other than the seller, the buyer may return it and receive 20,000 Dirhams (instead of 9999 Dirham plus one Dinar) which he actually paid.' Abu `Abdullah said, \"So that man allows (some people) the playing of tricks amongst the Muslims (although) the Prophet (ﷺ) said, 'In dealing with Muslims one should not sell them sick (animals) or bad things or stolen things",
+          "ur": "ہم سے ابونعیم نے بیان کیا ‘ کہا ہم سے سفیان ثوری نے بیان کیا ‘ ان سے ابراہیم بن میسرہ نے ‘ ان سے عمرو بن شرید نے اور ان سے ابورافع رضی اللہ عنہ نے بیان کیا کہ نبی کریم صلی اللہ علیہ وسلم نے فرمایا ”پڑوسی اپنے پڑوسی کا زیادہ حقدار ہے۔“ اور بعض لوگوں نے کہا اگر کسی شخص نے ایک گھر بیس ہزار درہم کا خریدا ( تو شفعہ کا حق ساقط کرنے کے لیے ) یہ حیلہ کرنے میں کوئی قباحت نہیں کہ مالک مکان کو نو ہزار نو سو ننانوے درہم نقد ادا کرے اب بیس ہزار کے تکملہ میں جو باقی رہے یعنی دس ہزار اور ایک درہم اس کے بدل مالک مکان کو ایک دینار ( اشرفی ) دیدے۔ اس صورت میں اگر شفیع اس مکان کو لینا چاہے گا تو اس کو بیس ہزار درہم پر لینا ہو گا ورنہ وہ اس گھر کو نہیں لے سکتا۔ ایسی صورت میں اگر بیع کے بعد یہ گھر ( بائع کے سوا ) اور کسی کا نکلا تو خریدار بائع سے وہی قیمت واپس لے گا جو اس نے دی ہے یعنی نو ہزار نو سو ننانوے درہم اور ایک دینار ( بیس ہزار درہم نہیں واپس سکتا ) کیونکہ جب وہ گھر کسی اور کا نکلا تو اب وہ بیع صرف جو بائع اور مشتری کے بیچ میں ہو گئی تھی بالکل باطل ہو گئی ( تو اصل دینار پھرنا لازم ہو گا نہ کہ اس کے ثمن ( یعنی دس ہزار اور ایک درہم ) اگر اس گھر میں کوئی عیب نکلا لیکن وہ بائع کے سوا کسی اور کی ملک نہیں نکلا تو خریدار اس گھر کو بائع کو واپس اور بیس ہزار درہم اس سے لے سکتا ہے۔ امام بخاری رحمہ اللہ نے کہا تو ان لوگوں نے مسلمانوں کے آپس میں مکر و فریب کو جائز رکھا اور نبی کریم صلی اللہ علیہ وسلم نے تو فرمایا ہے کہ مسلمان کی بیع میں جو مسلمان کے ساتھ ہو نہ عیب ہونا چاہئیے یعنی ( بیماری ) نہ خباثت نہ کوئی آفت۔",
+          "fr": "Rapporté par Abu Rafi' : Le Prophète ﷺ a dit : « Le voisin a plus de droits à l’égard de son voisin (que quiconque d’autre). » Certains hommes ont dit : « Si quelqu’un veut acheter une maison pour 20 000 dirhams, il n’y a pas de mal à contourner la préemption en l’achetant (seulement sur le papier) pour 20 000 dirhams, mais en ne payant au vendeur que 9 999 dirhams en espèces et en convenant de ne payer qu’un dinar en espèces pour le reste du prix (c’est-à-dire 10 001 dirhams). Si celui qui a le droit de préemption offre 20 000 dirhams pour la maison, il peut l’acheter, sinon il n’a pas ce droit (ainsi, par cette astuce, il perd la préemption). Si la maison s’avère appartenir à quelqu’un d’autre que le vendeur, l’acheteur doit récupérer auprès du vendeur ce qu’il a payé, c’est-à-dire 9 999 dirhams et un dinar, car si la maison appartient à quelqu’un d’autre, toute la transaction est invalide. Si l’acheteur découvre un défaut dans la maison et qu’elle n’appartient pas à quelqu’un d’autre que le vendeur, il peut la rendre et recevoir 20 000 dirhams (au lieu de 9 999 dirhams plus un dinar) qu’il a réellement payés. » Abu 'Abdullah a dit : « Ainsi, cet homme permet à certains de ruser parmi les musulmans (alors que) le Prophète ﷺ a dit : “Dans les transactions entre musulmans, il ne faut pas leur vendre des animaux malades, des choses mauvaises ou volées.” »",
+          "id": "Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Sufyan] dari [Ibrahim bin Maisarah] dari [Amru bin Syarid] dari [Abu Rafi'] mengatakan, Nabi shallallahu 'alaihi wasallam bersabda: \"tetangga lebih berhak terhadap dinding rumahnya.\" Sebagian orang berpendapat; jika seseorang membeli rumah seharga dua puluh ribu dirham, tidak mengapa baginya untuk mencari siasat dengan cara membeli rumah dengan harga dua puluh ribu dirham, dan membayarkannya sembilan ribu sembilan ratus sembilan puluh sembilan dirham, dan ia membayarnya dengan satu dinar sebagai pembayaran sisa dua puluh ribu dirham. Lantas jika ada orang yang membelinya lagi (penjual pertama), maka ia (pembeli pertama) mengharuskan pembayaran dua puluh ribu dirham penuh, jika tidak, ia tidak berhak menempati rumah tersebut. Jika rumah diminta secara paksa, maka si pembeli pertama mengembalikan uang yang pernah dibayarkan yaitu sebanyak sembilan ribu sembilan ratus sembilan puluh sembilan dirham dirham dan satu dinar",
+          "tr": "Ebu Rafi'nin nakline göre Resulullah Sallallahu Aleyhi ve Sellem \"Komşu komşuya en öncelikli şefidir\" buyurmuştur. Birileri şöyle der: Bir kimse yirmibin dirhem karşılığında bir bahçeli konağı (dar) satın almak istese, şufayı düşürmek üzere hile yapmasında bir sakınca yoktur. O kimse yirmibin dirheme evi satın alır, satıcıya dokuzbindokuzyüz doksandokuz dirhem nakit öder ve yine ona yirmibinden kalan mukabilinde bir dinar verir. Şefi' bu konağı yirminbin dirheme satın almak isterse ne ala! Aksi takdirde o konağı ele geçirme çaresi yoktur. Sözkonusu konak bir başkası tarafından hak edilecek olursa müşteri satıcısına rücu ederek verdiği bedeli geri ister. Bu bedel dokuzbindokuzyüz doksandokuz dirhem ve bir dinardır. Çünkü satış, mal başkası tarafından hak edilince ev konusunda yapılan sarf akdi bozulmuş oldu. Eğer ev başkası tarafından hak edilmediği halde müşteri onda bir ayıp ve kusur bulursa bu takdirde o kimse konağı yirmibin dirhem karşılığında geri verİr. Buhari, İmam Ebu HanIfe Müslümanlar arasında bu aldatmayı caiz kıldı demiştir. Buhari şöyle devam eder: Hz. Nebi Sallallahu Aleyhi ve Sellem \"Müslümanın satışı hastalıklı olamaz, satılan şey pis olamaz ve bir gaile ve helak olamaz\" buyurmuştur"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 90,
+        "hadith": 27
+      },
+      "narrator": {
+        "en": "Abu Rafi`"
+      }
+    },
+    {
+      "hadithNumber": 6981,
+      "arabicNumber": 6981,
+      "book": 90,
+      "hadithInBook": 28,
+      "text": {
+        "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنْ سُفْيَانَ، قَالَ حَدَّثَنِي إِبْرَاهِيمُ بْنُ مَيْسَرَةَ، عَنْ عَمْرِو بْنِ الشَّرِيدِ، أَنَّ أَبَا رَافِعٍ، سَاوَمَ سَعْدَ بْنَ مَالِكٍ بَيْتًا بِأَرْبَعِمِائَةِ مِثْقَالٍ وَقَالَ لَوْلاَ أَنِّي سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم يَقُولُ ‏ \"‏ الْجَارُ أَحَقُّ بِصَقَبِهِ ‏\"‏‏.‏ مَا أَعْطَيْتُكَ‏.‏",
+        "translations": {
+          "en": "Narrated `Amr bin Ash-Sharid:Abu Rafi` sold a house to Sa`d bin Malik for four-hundred Mithqal of gold, and said, \"If I had not heard the Prophet (ﷺ) saying, 'The neighbor has more right to be taken care of by his neighbor (than anyone else),' then I would not have sold it to you",
+          "ur": "ہم سے مسدد نے بیان کیا ‘ کہا ہم سے یحییٰ نے بیان کیا ‘ ان سے سفیان نے ‘ ان سے ابراہیم بن میسرہ نے بیان کیا ‘ ان سے عمرو بن شرید نے کہ ابورافع رضی اللہ عنہ نے سعد بن مالک رضی اللہ عنہ کو ایک گھر چار سو مثقال میں بیچا اور کہا کہ اگر میں نے نبی کریم صلی اللہ علیہ وسلم سے یہ نہ سنا ہوتا کہ پڑوسی حق پڑوس کا زیادہ حقدار ہے تو میں آپ کو یہ گھر نہ دیتا ( اور کسی کے ہاتھ بیچ ڈالتا ) ۔",
+          "fr": "Rapporté par 'Amr bin Ash-Sharid : Abu Rafi' a vendu une maison à Sa'd bin Malik pour quatre cents mithqals d’or, et il a dit : « Si je n’avais pas entendu le Prophète ﷺ dire : “Le voisin a plus de droits à l’égard de son voisin (que quiconque d’autre)”, je ne te l’aurais pas vendue. »",
+          "id": "Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari [Sufyan] mengatakan, Telah menceritakan kepadaku [Ibrahim bin Maisarah] dari [Amru bin Syarid], bahwasanya [Abu Rafi'] pernah mengajukan penawaran rumah keada Sa'd bin Malik seharga empat ratus mitsqal, dan ia mengatakan; 'Kalaulah aku tidak emndengar Nabi shallallahu 'alaihi wasallam bersabda: \"Tetangga lebih berhak teradap dindingnya\" niscaya tidak aku berikan kepadamu",
+          "tr": "Amr b. Şer!d şöyle anlatmıştır: Ebu Rafi', Sa'd b. Malik ile (onun evinin bitişiğindeki) bir evi dörtyüz miskal bedel ile satın almak için pazarlık etti. Sa'd b. Malik Hz. Nebi Sallallahu Aleyhi ve Sellem' den \"Komşu komşuya en öncelikli şefidir\" buyururken işitmiş olmasaydım bu evi sana vermezdim dedi. Fethu'l-Bari Açıklaması: \"Zekat memurunun kendisine hediye verilmesi için hile yapması.\" İmam Buhari bu konuda Ebu Humeyd es-Saidl'nin İbnü'l-Utbiyye olayı hakkındaki hadisine yer vermiştir. Bu hadisin açıklamasının bir kısmı Hibe bölümünde geçmişti. Hadisin tam açıklaması inşallah Ahkam bölümünde gelecektir. Bu hadisin atılan başlığa uygunluğu şu açıdandır: Zekat memurunun kendisine hediye edilen şeyi mülkyetine geçirmesi, memur olmasından dolayıdır. O kişi kendisine hediye edilen şey üzerinde uğruna çalıŞtığı hak sahiplerinin değil, sadece kendisinin söz sahibi olduğuna inanıyordu. İşte bundan dolayı Resulullah Sallallahu Aleyhi ve Sellem ona kendisine bu hediyenin verilmesinin sebebinin uğruna çalıştığı haklar olduğunu beyan etti ve ona evinde kalsaydı, kimsenin kendisine hediye vermeyeceğini açıkladı. Dolayısıyla sözkonusu malların hediye yoluyla eline sırf geçmiş olmasıyla onu helal sayması uygun bir hareket değildir. Zira bu ancak sadece kendi hakkının sözkonusu olduğu yerlerde düşünülebilir. İbn Battal şöyle demiştir: Bu hadis, zekat memuruna verilen hediyenin yaptığı iyiliğe teşekkür veya onun gönlünü kazanma ya da hak karşısındaki kendi konumuna tamah etmekten kaynaklandığını göstermektedir. Resulullah Sallallahu Aleyhi ve Sellem, kendisine verilen hediye açısından Müslümanlardan herhangi bir fert gibi olduğuna ve onlardan daha üstün olmadığına, o malı sırf kendisine ayırmasının caiz olmadığına işaret etmektedir. \"İmam Ebu Hanife Müslümanlar arasında bu aldatmayı caiz kıldı.\" Yani Ebu Hanife, ortak olan kişi söz konusu malı şuf'a yoluyla satın almaya kalktığında fahiş bir fiyat verme veya fiyatta fahiş bir artış nedeniyle aldanma korkusuyla almadığı takdirde hakkını ortadan kaldırma konusunda hileye cevaz verdi. Buhari yukarıda geçen hak etme meselesine yer vererek o kişinin şuf' a hakkını ortadan kaldırmak için hileye niyet etmesine bunu delil getirdi ve ardından ayıp dolayısıyla malı geri iade etme meselesinden bahsetti. Böylece bunun bir tahakküm olduğunu açıklamak istedi. Bunun gereği o kişinin fazlasını değil, sadece teslim aldığını geri vermekle yükümlü olmasıdır. İbn Battal şöyle demiştir: Bu haberden anlaşılan, yukarıda zikredilen sarf akdi veya başka bir yolla Müslümanların alışverişIerinden hiçbirinde hileye başvurmanın caiz olmadığıdır. Biz de şunu ekleyelim: Bu sonuç şu şekilde ortaya çıkmaktadır: Hadisin lafzı her ne kadar haber kipinde ise de manası yasaklık ifade etmektedir. Bu hadisin genelliğinden Müslümanların alışverişIerinden hiçbirinde hileye başvurmanın helal olmadığı hükmü anlaşılmaktadır. Buna bir dinarı değerinden daha fazlası ile değiştirmek suretiyle sarf akdi ve başka yollar dahildir"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 90,
+        "hadith": 28
+      },
+      "narrator": {
+        "en": "`Amr bin Ash-Sharid"
+      }
+    }
+  ],
+  "metadata": {
+    "averageLength": "long",
+    "size": "22KB"
+  }
+}

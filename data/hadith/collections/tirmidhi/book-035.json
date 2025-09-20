@@ -1,0 +1,285 @@
+{
+  "collection": "tirmidhi",
+  "book": 35,
+  "name": {
+    "arabic": "كتاب Chapters On Witnesses",
+    "transliteration": "chapters on witnesses",
+    "translation": "Chapters On Witnesses"
+  },
+  "totalHadith": 9,
+  "hadithNumberRange": {
+    "first": 2295,
+    "last": 2303
+  },
+  "content": [
+    {
+      "hadithNumber": 2295,
+      "arabicNumber": 2295,
+      "book": 35,
+      "hadithInBook": 1,
+      "text": {
+        "arabic": "حَدَّثَنَا الأَنْصَارِيُّ، حَدَّثَنَا مَعْنٌ، حَدَّثَنَا مَالِكٌ، عَنْ عَبْدِ اللَّهِ بْنِ أَبِي بَكْرِ بْنِ مُحَمَّدِ بْنِ عَمْرِو بْنِ حَزْمٍ، عَنْ أَبِيهِ، عَنْ عَبْدِ اللَّهِ بْنِ عَمْرِو بْنِ عُثْمَانَ، عَنْ أَبِي عَمْرَةَ الأَنْصَارِيِّ، عَنْ زَيْدِ بْنِ خَالِدٍ الْجُهَنِيِّ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ أَلاَ أُخْبِرُكُمْ بِخَيْرِ الشُّهَدَاءِ الَّذِي يَأْتِي بِالشَّهَادَةِ قَبْلَ أَنْ يُسْأَلَهَا ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Zaid bin Khalid Al-Juhani narrated that the Messenger of Allah (s.a.w) said:\"Shall l not inform you of the best of witnesses? The one who comes with his testimony before being asked for it",
+          "ur": "زید بن خالد جہنی رضی الله عنہ سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”کیا میں تمہیں سب سے اچھے گواہ کے بارے میں نہ بتا دوں؟ سب سے اچھا گواہ وہ آدمی ہے جو گواہی طلب کیے جانے سے پہلے گواہی دے“ ۱؎۔",
+          "tr": "Zeyd b. Hâlid el Cühenî (r.a.)’den rivâyete göre, Rasûlullah (s.a.v.) şöyle buyurdu: “Dikkat edin! Size şâhidlerin en hayırlısını haber vereyim mi? Çağrılmaksızın şâhidliği kendiliğinden yapandır.” Diğer tahric: Müslim Akdıyye"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 35,
+        "hadith": 1
+      }
+    },
+    {
+      "hadithNumber": 2296,
+      "arabicNumber": 2296,
+      "book": 35,
+      "hadithInBook": 2,
+      "text": {
+        "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ الْحَسَنِ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، عَنْ مَالِكٍ، نَحْوَهُ وَقَالَ ابْنُ أَبِي عَمْرَةَ ‏.‏ قَالَ هَذَا حَدِيثٌ حَسَنٌ ‏.‏ وَأَكْثَرُ النَّاسِ يَقُولُونَ عَبْدُ الرَّحْمَنِ بْنُ أَبِي عَمْرَةَ وَاخْتَلَفُوا عَلَى مَالِكٍ فِي رِوَايَةِ هَذَا الْحَدِيثِ فَرَوَى بَعْضُهُمْ عَنْ أَبِي عَمْرَةَ وَرَوَى بَعْضُهُمْ عَنِ ابْنِ أَبِي عَمْرَةَ وَهُوَ عَبْدُ الرَّحْمَنِ بْنُ أَبِي عَمْرَةَ الأَنْصَارِيُّ وَهَذَا أَصَحُّ لأَنَّهُ قَدْ رُوِيَ مِنْ غَيْرِ حَدِيثِ مَالِكٍ عَنْ عَبْدِ الرَّحْمَنِ بْنِ أَبِي عَمْرَةَ عَنْ زَيْدِ بْنِ خَالِدٍ وَقَدْ رُوِيَ عَنِ ابْنِ أَبِي عَمْرَةَ عَنْ زَيْدِ بْنِ خَالِدٍ غَيْرُ هَذَا الْحَدِيثِ وَهُوَ حَدِيثٌ صَحِيحٌ أَيْضًا وَأَبُو عَمْرَةَ مَوْلَى زَيْدِ بْنِ خَالِدٍ الْجُهَنِيِّ وَلَهُ حَدِيثُ الْغُلُولِ وَأَكْثَرُ النَّاسِ يَقُولُونَ عَبْدُ الرَّحْمَنِ بْنُ أَبِي عَمْرَةَ ‏.‏",
+        "translations": {
+          "en": "(Another chain) from Malik in which he said:Ibn Abi 'Amrah",
+          "ur": "اس سند سے بھی اسی جیسی حدیث مروی ہے۔ امام ترمذی کہتے ہیں: ۱- یہ حدیث حسن ہے، ۲- اکثر لوگوں نے اپنی روایت میں عبدالرحمٰن بن ابی عمرہ کہا ہے۔ ۳- اس حدیث کی روایت کرنے میں مالک کے شاگردوں کا اختلاف ہے، بعض راویوں نے اسے ابی عمرہ سے روایت کیا ہے، اور بعض نے ابن ابی عمرہ سے، ان کا نام عبدالرحمٰن بن ابی عمرہ انصاری ہے، ابن ابی عمرہ زیادہ صحیح ہے، کیونکہ مالک کے سوا دوسرے راویوں نے «عن عبدالرحمٰن بن أبي عمرة عن زيد بن خالد» کہا ہے «عن ابن أبي عمرة عن زيد بن خالد» کی سند سے اس کے علاوہ دوسری حدیث بھی مروی ہے، اور وہ صحیح حدیث ہے، ابو عمرہ زید بن خالد جہنی کے آزاد کردہ غلام تھے، اور ابو عمرہ کے واسطہ سے خالد سے حدیث غلول مروی ہے، اکثر لوگ عبدالرحمٰن بن ابی عمرہ ہی کہتے ہیں ۱؎۔",
+          "id": "Telah menceritakan kepada kami [Al Anshari] telah menceritakan kepada kami [Ma'an] telah menceritakan kepada kami [Malik] dari ['Abdullah bin Abu Bakar bin Muhammad bin 'Amru bin Hazm] dari [ayahnya] dari ['Abdullah bin 'Amru bin 'Utsman] dari [Abu 'Amrah Al Anshari] dari [Zaid bi Khalid Al Juhani] Rasulullah Shallallahu 'alaihi wa salam bersabda: \"Maukah kalian aku beritahu saksi-saksi terbaik; yang membawa kesaksian sebelum diminta?\" telah menceritakan kepada kami [Ahmad bin Al Hasan] telah menceritakan kepada kami ['Abdullah bin Maslamah] dari [Malik] Sepertinya. Berkata Ibnu Abi 'Amrah: Hadits ini hasan dan kebanyakan orang mengatakan Abdurrahman bin Abu 'Amrah, mereka memperselisihkan riwayat hadits ini atas Malik, sebagaian dari mereka meriwayatkan dari Abu 'Amrah, ada juga yang meriwayatkan dari Ibnu Abi 'Amrah, ia adalah Abdurrahman bin Abu 'Amrah Al Anshari dan inilah yang lebih benar karena diriwayatkan dari selain hadits Malik dari Abdurrahman bin Abu 'Amrah dari Zaid bin Khalid sementara selain hadits ini diriwayatkan dari Ibnu Abi 'Amrah dari Zaid bin Khalid, itu juga hadits shahih. Abu 'Amrah adalah budak milik Zaid bin Khalid Al Juhani, ia memiliki hadits tentang 'Ghulul' dan kebanyakan orang menyebut Abdurrahman bin Abu 'Amrah",
+          "tr": "Ahmed b. Hasen, Abdullah b. Mesleme vasıtasıyla Mâlik’den bu hadisin bir benzerini bize rivâyet etmiştir. Amra diyor ki: Bu hadis hasendir. Pek çok hadisçi bu kimseye; Abdurrahman b. ebî Amre diyorlar. Bu hadisin rivâyetinde Mâlik üzerinde ihtilaf edilmiştir. Bazıları Ebû Amre’den bazıları da İbn ebî Amre’den rivâyet ediyorlar. Bu şahıs Abdurrahman b. Ebû Amre el Ensarî’dir, doğru olanda budur. Çünkü bu hadis Mâlik’in rivâyetinden başka Abdurrahman b. ebî Amre ve Zeyd b. Hâlid’den de rivâyet edilmiştir. Ebû Amre’den Zeyd b. Hâlid’den başka bir hadis de rivâyet edilmiştir ki buda sahihtir. Ebû Amre, Zeyd b. Hâlid el Cuhenî’nin azâd edilmiş kölesidir. Kendisinden “Gulûl” hadisi de rivâyet edilmiştir. Çoğu kimseler bu zat için: “Abdurrahman b. ebî Amre” demektedirler"
+        }
+      },
+      "grades": [
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 35,
+        "hadith": 2
+      }
+    },
+    {
+      "hadithNumber": 2297,
+      "arabicNumber": 2297,
+      "book": 35,
+      "hadithInBook": 3,
+      "text": {
+        "arabic": "حَدَّثَنَا بِشْرُ بْنُ آدَمَ ابْنُ بِنْتِ أَزْهَرَ السَّمَّانِ، حَدَّثَنَا زَيْدُ بْنُ الْحُبَابِ، حَدَّثَنَا أُبَىُّ بْنُ عَبَّاسِ بْنِ سَهْلِ بْنِ سَعْدٍ، حَدَّثَنِي أَبُو بَكْرِ بْنُ مُحَمَّدِ بْنِ عَمْرِو بْنِ حَزْمٍ، حَدَّثَنِي عَبْدُ اللَّهِ بْنُ عَمْرِو بْنِ عُثْمَانَ، حَدَّثَنِي خَارِجَةُ بْنُ زَيْدِ بْنِ ثَابِتٍ، حَدَّثَنِي عَبْدُ الرَّحْمَنِ بْنُ أَبِي عَمْرَةَ، حَدَّثَنِي زَيْدُ بْنُ خَالِدٍ الْجُهَنِيُّ، أَنَّهُ سَمِعَ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏ \"‏ خَيْرُ الشُّهَدَاءِ مَنْ أَدَّى شَهَادَتَهُ قَبْلَ أَنْ يُسْأَلَهَا ‏\"‏ ‏.‏ قَالَ هَذَا حَدِيثٌ حَسَنٌ غَرِيبٌ مِنْ هَذَا الْوَجْهِ ‏.‏",
+        "translations": {
+          "en": "Zaid bin Khalid Al-Juhani narrated that the Messenger of Allah(s.a.w) said:\"The best of witnesses is the one who gives his testimony before being asked for it",
+          "ur": "زید بن خالد جہنی رضی الله عنہ سے روایت ہے کہ انہوں نے رسول اللہ صلی اللہ علیہ وسلم کو فرماتے سنا: ”سب سے بہتر گواہ وہ ہے جو گواہی طلب کیے جانے سے پہلے اپنی گواہی کا فریضہ ادا کر دے“۔ امام ترمذی کہتے ہیں: یہ حدیث اس سند سے حسن غریب ہے۔",
+          "id": "Telah menceritakan kepadaku [Bisyr bin Adam Ibnu binti Azhar As Samman] telah menceritakan kepada kami [Zaid bin Al Hubab] telah menceritakan kepada kami [Ubai bin 'Abbas bin Sahal bin Sa'ad] telah menceritakan kepadaku [Abu Bakr bin Muhammad bin 'Amru bin Hazm] telah menceritakan kepadaku ['Abdullah bin 'Amru bin 'Utsman] telah menceritakan kepadaku [Kharijah bin Zaid bin Tsabit] telah menceritakan kepadaku [Abdurrahman bin Abu 'Amrah] telah menceritakan kepadaku [Zaid bin Khalid Al Juhani] ia mendengar Rasulullah Shallallahu 'alaihi wa salam bersabda: \"Saksi-saksi terbaik adalah orang yang menunaikan kesaksiannya sebelum diminta.\" Berkata Abu Isa: Hadits ini hasan gharib melalui sanad ini",
+          "tr": "Zeyd b. Hâlid el Cühenî (r.a.)’den rivâyete göre; “Zeyd Rasûlullah (s.a.v.)’in şöyle buyurduğunu işitmiştir: Şahitlerin en hayırlısı kendisinden şâhidlik istenmeden şâhidlik yapandır.” Diğer tahric: Müslim Akdıyye Tirmizî: Bu hadis bu şekliyle hasen garibtir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 35,
+        "hadith": 3
+      }
+    },
+    {
+      "hadithNumber": 2299,
+      "arabicNumber": 2299,
+      "book": 35,
+      "hadithInBook": 5,
+      "text": {
+        "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ مَنِيعٍ، حَدَّثَنَا مَرْوَانُ بْنُ مُعَاوِيَةَ، عَنْ سُفْيَانَ بْنِ زِيَادٍ الأَسَدِيِّ، عَنْ فَاتِكِ بْنِ فَضَالَةَ، عَنْ أَيْمَنَ بْنِ خُرَيْمٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَامَ خَطِيبًا فَقَالَ ‏ \"‏ يَا أَيُّهَا النَّاسُ عُدِلَتْ شَهَادَةُ الزُّورِ إِشْرَاكًا بِاللَّهِ ‏\"‏ ‏.‏ ثُمَّ قَرَأَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏:‏ ‏(‏وَاجْتَنِبُوا الرِّجْسَ مِنَ الأَوْثَانِ وَاجْتَنِبُوا قَوْلَ الزُّورِ ‏)‏ ‏.‏ قَالَ أَبُو عِيسَى وَهَذَا حَدِيثٌ غَرِيبٌ إِنَّمَا نَعْرِفُهُ مِنْ حَدِيثِ سُفْيَانَ بْنِ زِيَادٍ وَاخْتَلَفُوا فِي رِوَايَةِ هَذَا الْحَدِيثِ عَنْ سُفْيَانَ بْنِ زِيَادٍ ‏.‏ وَلاَ نَعْرِفُ لأَيْمَنَ بْنِ خُرَيْمٍ سَمَاعًا مِنَ النَّبِيِّ صلى الله عليه وسلم ‏.‏",
+        "translations": {
+          "en": "Ayman bin Khuraim narrated that the Prophet (s.a.w) stood to give a Khutbah and said:\"O you people False witness is tantamount to Shirk with Allah\" Then the Messenger of Allah (s.a.w)recited: So shun the Rijs of the idols, and shun false speech",
+          "ur": "ایمن بن خریم سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم خطبہ کے لیے کھڑے ہوئے اور فرمایا: ”لوگو! جھوٹی گواہی اللہ کے ساتھ شرک کرنے کے برابر ہے، پھر آپ صلی اللہ علیہ وسلم نے یہ آیت پڑھی «فاجتنبوا الرجس من الأوثان واجتنبوا قول الزور» ”تو بتوں کی گندگی سے بچے رہو ( ان کی پرستش نہ کرو ) اور جھوٹ بولنے سے بچے رہو“ ( الحج: ۳۰ ) ۔ امام ترمذی کہتے ہیں: ۱- یہ حدیث غریب ہے، ۲- ہم اسے صرف سفیان بن زیاد کی روایت سے جانتے ہیں۔ اور لوگوں نے سفیان بن زیاد سے اس حدیث کی روایت کرنے میں اختلاف کیا ہے، ۳- نیز ہم ایمن بن خریم کا نبی اکرم صلی اللہ علیہ وسلم سے سماع بھی نہیں جانتے ہیں۔",
+          "id": "Telah menceritakan kepada kami [Ahmad bin Mani'] telah menceritakan kepada kami [Marwan bin Mu'awiyah] dari [Sufyan bin Ziyad Al Asadi] dari [Fatik bin Fadlalah] dari [Aiman bin Khuraim], nabi Shallallahu 'alaihi wa Salam berdiri berkhutbah, beliau bersabda: \"Kesaksikan palsu sebanding dengan menyekutukan Allah, \" kemudian beliau membaca: \"Maka jauhilah olehmu berhala-berhala yang najis itu dan jauhilah perkataan-perkataan dusta.\" (Al-Hajj: 30) Berkata Abu Isa: Hadits ini gharib, kami hanya mengetahuinya dari hadits Sufyan bin ZIyad, mereka memperselisihkan riwayat hadits ini dari Sufyan bin Ziyad dan kami tidak mengetahui pendengaran Aiman bin Khuraim dari nabi Shallallahu 'alaihi wa Salam",
+          "tr": "Eymen b. Hureym’den rivâyete göre, Rasûlüllah (sallallahü aleyhi ve sellem) bir hutbe esnasında şöyle buyurdu: “Ey İnsanlar yalan söylemek ve yalancı şâhidliği Allah’a ortak koşmaya denk tutulmuştur” diyerek Hac sûresi 30. ayetini okudu “… Artık putlara tapma pisliğinden çekinin ve yalan sözden sakının.” (Müsned: 16943) Bu hadis garib olup bu hadisi sadece Sûfyân b. Ziyâd’ın rivâyetiyle bilmekteyiz. Hadisçiler bu hadisin Sûfyân b. Ziyâd’tan rivâyetinde ihtilaf etmekte olup Eymen b. Hureym’in Rasûlüllah (sallallahü aleyhi ve sellem)’den hadis rivâyet ettiğini bilmiyoruz"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Daif"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 35,
+        "hadith": 5
+      }
+    },
+    {
+      "hadithNumber": 2300,
+      "arabicNumber": 2300,
+      "book": 35,
+      "hadithInBook": 6,
+      "text": {
+        "arabic": "حَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ، حَدَّثَنَا مُحَمَّدُ بْنُ عُبَيْدٍ، حَدَّثَنَا سُفْيَانُ، وَهُوَ ابْنُ زِيَادٍ الْعُصْفُرِيُّ عَنْ أَبِيهِ، عَنْ حَبِيبِ بْنِ النُّعْمَانِ الأَسَدِيِّ، عَنْ خُرَيْمِ بْنِ فَاتِكٍ الأَسَدِيِّ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم صَلَّى صَلاَةَ الصُّبْحِ فَلَمَّا انْصَرَفَ قَامَ قَائِمًا فَقَالَ ‏\"‏ عُدِلَتْ شَهَادَةُ الزُّورِ بِالشِّرْكِ بِاللَّهِ ‏\"‏ ‏.‏ ثَلاَثَ مَرَّاتٍ ثُمَّ تَلاَ هَذِهِ الآيَةَ ‏(‏وَاجْتَنِبُوا قَوْلَ الزُّورِ ‏)‏ إِلَى آخِرِ الآيَةِ ‏.‏ قَالَ أَبُو عِيسَى هَذَا عِنْدِي أَصَحُّ ‏.‏ وَخُرَيْمُ بْنُ فَاتِكٍ لَهُ صُحْبَةٌ وَقَدْ رَوَى عَنِ النَّبِيِّ صلى الله عليه وسلم أَحَادِيثَ وَهُوَ مَشْهُورٌ ‏.‏",
+        "translations": {
+          "en": "Khuraim bin Fatik Al-Asadi narrated that the Messenger of Allah (s.a.w) performed the Subh (Fajr)prayer. Then when he turned he got up to stand and said:\"O you people! False witness is tantamount to Shirk with Allah.\"Saying it three times, then he recited this Ayah And shun false speech Until the end of the Ayah",
+          "ur": "خریم بن فاتک اسدی رضی الله عنہ سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے فجر پڑھائی، جب پلٹے تو خطبہ کے لیے کھڑے ہوئے اور فرمایا: ”جھوٹی گواہی اللہ کے ساتھ شرک کرنے کے برابر ہے“، آپ نے یہ بات تین مرتبہ دہرائی پھر آپ نے یہ مکمل آیت تلاوت فرمائی «واجتنبوا قول الزور» ”اور جھوٹی بات سے اجتناب کرو“۔ امام ترمذی کہتے ہیں: ۱- یہ حدیث میرے نزدیک زیادہ صحیح ہے، ۲- خریم بن فاتک کو شرف صحابیت حاصل ہے، نبی اکرم صلی اللہ علیہ وسلم سے انہوں نے کئی حدیثیں روایت کی ہیں، اور مشہور صحابی ہیں۔",
+          "id": "Telah menceritakan kepada kami [Abd bin Humaid] telah menceritakan kepada kami [Muhammad bin 'Ubaid] telah menceritakan kepada kami [Sufyan bin Ziyad Al 'Ushfuri] dari [ayahnya] dari [Habib bin An Nu'man Al Asadi] dari [Khuraim bin Fatik Al Asadi], Rasulullah Shallallahu 'alahi wa Salam shalat shubuh, setelah usai beliau berdiri lalu bersabda: \"Kesaksikan palsu sebanding dengan menyekutukan Allah, \" (beliau ulangi ucapannya tiga kali), kemudian beliau membaca ayat ini: \"Maka jauhilah olehmu berhala-berhala yang najis itu dan jauhilah perkataan-perkataan dusta.\" (Al-Hajj: 30) hingga akhir ayat. Berkata Abu Isa: Menurutku hadits ini lebih shahih dan Khuraim bin Fatik memiliki status sahabat, ia meriwayatkan banyak hadits dari nabi Shallallahu 'alaihi wa Salam dan ia masyhur",
+          "tr": "Hureym b. Fatik el Esedî (r.a.)’den rivâyete göre, Rasûlullah (s.a.v.), sabah namazını kıldıktan sonra kalkıp üç sefer: “Yalan söylemek veya yalan şâhidliği Allah’a ortak koşmaya denk tutulmuştur” diyerek, Hac sûresi 30. ayetini okumuştur: “… Yalan söylemek ve yalan şâhidliğinden sakının.” –ila ahiri ayeti- Diğer tahric: İbn Mâce: Ahkam; Ebû Dâvûd: Akdıyye Tirmizî: Bu hadis bana göre daha sağlamdır. Hureym b. Fatik’in, Rasûlullah (s.a.v.) ile görüşüp konuşması vardır ve Rasûlullah (s.a.v.)’den pek çok hadis rivâyet etmiştir ve tanınmış biridir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 35,
+        "hadith": 6
+      }
+    },
+    {
+      "hadithNumber": 2301,
+      "arabicNumber": 2301,
+      "book": 35,
+      "hadithInBook": 7,
+      "text": {
+        "arabic": "حَدَّثَنَا حُمَيْدُ بْنُ مَسْعَدَةَ، حَدَّثَنَا بِشْرُ بْنُ الْمُفَضَّلِ، عَنِ الْجُرَيْرِيِّ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ أَبِي بَكْرَةَ، عَنْ أَبِيهِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\"‏ أَلاَ أُخْبِرُكُمْ بِأَكْبَرِ الْكَبَائِرِ ‏\"‏ ‏.‏ قَالُوا بَلَى يَا رَسُولَ اللَّهِ ‏.‏ قَالَ ‏\"‏ الإِشْرَاكُ بِاللَّهِ وَعُقُوقُ الْوَالِدَيْنِ وَشَهَادَةُ الزُّورِ أَوْ قَوْلُ الزُّورِ ‏\"‏ ‏.‏ قَالَ فَمَا زَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَقُولُهَا حَتَّى قُلْنَا لَيْتَهُ سَكَتَ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏ وَفِي الْبَابِ عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو ‏.‏",
+        "translations": {
+          "en": "Abdur-Rahman bin Abi Bakrah narrated from his father that the Messenger of Allah (s.a.w) said:\"Shall I not inform you of the greatest of the major sins?\" They said: \"Of course O Messenger of Allah(s.a.w)!\" He said: \"Shirk with Allah disobeying parents, and false testimony.\" Or: \"False speech\" He said: \"So the Messenger of Allah(s.a.w) would not stop saying it until we said ( to ourselves): 'I wish he would be quiet",
+          "ur": "ابوبکرہ رضی الله عنہ سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”کیا تمہیں بڑے بڑے ( کبیرہ ) گناہوں کے بارے میں نہ بتا دوں؟“ صحابہ نے عرض کیا: کیوں نہیں؟ اللہ کے رسول! آپ نے فرمایا: ”اللہ کے ساتھ شرک کرنا، ماں باپ کی نافرمانی کرنا اور جھوٹی گواہی دینا یا جھوٹی بات بولنا“، ابوبکرہ رضی الله عنہ کہتے ہیں: رسول اللہ صلی اللہ علیہ وسلم آخری بات کو برابر دہراتے رہے یہاں تک کہ ہم لوگوں نے دل میں کہا: کاش! آپ خاموش ہو جاتے۔ امام ترمذی کہتے ہیں: ۱- یہ حدیث حسن صحیح ہے، ۲- اس باب میں عبداللہ بن عمرو رضی الله عنہما سے بھی حدیث آئی ہے۔",
+          "id": "Telah menceritakan kepada kami [Humaid bin Mas'adah] telah menceritakan kepada kami [Bisyr bin Al Mufadldlal] dari [Al Jurairi] dari [Abdurrahman bin Abu Bakrah] dari [ayahnya] Rasulullah Shallallahu 'alaihi wa salam bertanya: \"Maukah kalian aku beritahu dosa terbesar diantara dosa-dosa besar?\" mereka menjawab: Ya, wahai Rasulullah Shallallahu 'alahi wa Salam. Rasulullah Shallallahu 'alaihi wa salam bersabda: \"Menyekutukan Allah, durhaka kepada kedua orang tua, kesaksian palsu atau perkataan palsu.\" Berkata Abu Bakrah: Rasulullah Shallallahu 'alahi wa Salam terus mengatakannya hingga kami berkata (dalam hati): Andai beliau diam. Berkata Abu Isa: Hadits ini hasan shahahi dan dalam hal ini ada hadits serupa dari 'Abdullah bin 'Amru",
+          "tr": "Ebû Bekre (r.a.)’den rivâyete göre, Rasûlullah (s.a.v.) şöyle buyurdu: “Dikkat edin! Büyük günahların en büyüğünü size bildireyim mi? Ashab Evet Ey Allah’ın Rasûlü, dediler. Buyurdu ki: Allah’a ortak koşmak, anne babaya isyan etmek, yalan yere şâhidlik etmek veya yalan söylemek.” Ebû Bekre diyor ki: “Rasûlullah (s.a.v.), bu son sözü o kadar tekrarladı ki keşke sussaydı dedik.” Diğer tahric: İbn Mâce: Ahkam; İbn Mâce: Akdıyye Tirmizî: Bu hadis hasen sahihtir. Bu konuda Abdullah b. Amr’dan da hadis rivâyet edilmiştir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 35,
+        "hadith": 7
+      }
+    },
+    {
+      "hadithNumber": 2302,
+      "arabicNumber": 2302,
+      "book": 35,
+      "hadithInBook": 8,
+      "text": {
+        "arabic": "حَدَّثَنَا وَاصِلُ بْنُ عَبْدِ الأَعْلَى، حَدَّثَنَا مُحَمَّدُ بْنُ فُضَيْلٍ، عَنِ الأَعْمَشِ، عَنْ عَلِيِّ بْنِ مُدْرِكٍ، عَنْ هِلاَلِ بْنِ يِسَافٍ، عَنْ عِمْرَانَ بْنِ حُصَيْنِ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏ \"‏ خَيْرُ النَّاسِ قَرْنِي ثُمَّ الَّذِينَ يَلُونَهُمْ ثُمَّ الَّذِينَ يَلُونَهُمْ ثُمَّ الَّذِينَ يَلُونَهُمْ ثَلاَثًا ثُمَّ يَجِيءُ قَوْمٌ مِنْ بَعْدِهِمْ يَتَسَمَّنُونَ وَيُحِبُّونَ السِّمَنَ يُعْطُونَ الشَّهَادَةَ قَبْلَ أَنْ يُسْأَلُوهَا ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى وَهَذَا حَدِيثٌ غَرِيبٌ مِنْ حَدِيثِ الأَعْمَشِ عَنْ عَلِيِّ بْنِ مُدْرِكٍ وَأَصْحَابُ الأَعْمَشِ إِنَّمَا رَوَوْا عَنِ الأَعْمَشِ عَنْ هِلاَلِ بْنِ يِسَافٍ عَنْ عِمْرَانَ بْنِ حُصَيْنٍ ‏.‏",
+        "translations": {
+          "en": "Imran bin Husain narrated that the Messenger of Allah(s.a.w)said:\"The best of people are my generation, then those who follow them,then those who follow them, then those who follow them.\"(He(s.a.w)said that) three times. \"Then, after them a people will come who increase in fatness, loving fatness, giving testimony before they are asked for it",
+          "ur": "عمران بن حصین رضی الله عنہ کہتے ہیں کہ میں نے رسول اللہ صلی اللہ علیہ وسلم کو فرماتے سنا: ”سب سے اچھے لوگ میرے زمانہ کے ہیں ( یعنی صحابہ ) ، پھر وہ لوگ جو ان کے بعد آئیں گے ( یعنی تابعین ) ، پھر وہ لوگ جو ان کے بعد آئیں گے ( یعنی اتباع تابعین ) ۱؎، آپ صلی اللہ علیہ وسلم نے یہ بات تین مرتبہ دہرائی، پھر ان کے بعد ایسے لوگ آئیں گے جو موٹا ہونا چاہیں گے، موٹاپا پسند کریں گے اور گواہی طلب کیے جانے سے پہلے گواہی دیں گے“ ۱؎۔ امام ترمذی کہتے ہیں: ۱- یہ حدیث اعمش کے واسطہ سے علی بن مدرک کی روایت سے غریب ہے، ۲- اعمش کے دیگر شاگردوں نے «عن الأعمش عن هلال بن يساف عن عمران بن حصين» کی سند سے روایت کی ہے۔",
+          "tr": "İmrân b. Husayn (r.a.)’dan rivâyete göre, şöyle demiştir: Rasûlullah (s.a.v.)’den işittim şöyle diyordu: “İnsanların en hayırlısı benim asrımda yaşayanlardır sonra onların peşinden gelenler, sonra onların da peşinden gelenlerdir üç defa bunu söyledikten sonra onların arkasından bir toplum gelecektir ki çok yiyip içmeyi sevecekler ve şişmanlık onlar arasında yaygınlaşacak kendilerinden istenmeden şâhidlik yapacaklar.” Diğer tahric: Buhârî, Şehadat"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 35,
+        "hadith": 8
+      }
+    },
+    {
+      "hadithNumber": 2302.2,
+      "arabicNumber": 2302.2,
+      "book": 35,
+      "hadithInBook": 9,
+      "text": {
+        "arabic": "حَدَّثَنَا أَبُو عَمَّارٍ الْحُسَيْنُ بْنُ حُرَيْثٍ، حَدَّثَنَا وَكِيعٌ، عَنِ الأَعْمَشِ، حَدَّثَنَا هِلاَلُ بْنُ يِسَافٍ، عَنْ عِمْرَانَ بْنِ حُصَيْنٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم نَحْوَهُ ‏.‏ وَهَذَا أَصَحُّ مِنْ حَدِيثِ مُحَمَّدِ بْنِ فُضَيْلٍ ‏.‏ قَالَ وَمَعْنَى هَذَا الْحَدِيثِ عِنْدَ بَعْضِ أَهْلِ الْعِلْمِ ‏\"‏ يُعْطُونَ الشَّهَادَةَ قَبْلَ أَنْ يُسْأَلُوهَا ‏\"‏ ‏.‏ إِنَّمَا يَعْنِي شَهَادَةَ الزُّورِ يَقُولُ يَشْهَدُ أَحَدُهُمْ مِنْ غَيْرِ أَنْ يُسْتَشْهَدَ وَبَيَانُ هَذَا فِي [الحديث التالي]",
+        "translations": {
+          "en": "Another chain on the authority of 'Imran bin Husain narrates a similar narration",
+          "tr": "Tirmizî: Bu hadis A’meş’in, Ali b. Müdrîk’den rivâyeti olarak garibtir. A’meş’in adamları bu hadisi A’meş’den, Hilâl b. Yesaf’tan ve Imrân b. Husayn’dan rivâyet etmişlerdir. Ebû Ammâr Hüseyin b. Hureys, Vekî’ vasıtasıyla A’meş’den Hilâl b. Yesaf’tan ve Imrân b. Husayn’dan bu hadisin bir benzerini bize aktarmışlardır. Bu rivâyet Muhammed b. Fudayl’in rivâyetinden daha sağlamdır. Tirmizî: Bazı ilim adamlarına göre: “İstenmeden şâhidlik yapacaklar” sözünün manası yalancı şâhidlik anlamındadır. Yani kişi şâhid tutulmadığı halde yalan yere şâhidlik yapacak demektir"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 35,
+        "hadith": 9
+      }
+    },
+    {
+      "hadithNumber": 2303,
+      "arabicNumber": 2303,
+      "book": 35,
+      "hadithInBook": 10,
+      "text": {
+        "arabic": "حَدِيثِ عُمَرَ بْنِ الْخَطَّابِ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\"‏ خَيْرُ النَّاسِ قَرْنِي ثُمَّ الَّذِينَ يَلُونَهُمْ ثُمَّ الَّذِينَ يَلُونَهُمْ ثُمَّ يَفْشُو الْكَذِبُ حَتَّى يَشْهَدَ الرَّجُلُ وَلاَ يُسْتَشْهَدُ وَيَحْلِفُ الرَّجُلُ وَلاَ يُسْتَحْلَفُ ‏\"‏ ‏.‏ وَمَعْنَى حَدِيثِ النَّبِيِّ صلى الله عليه وسلم ‏\"‏ خَيْرُ الشُّهَدَاءِ الَّذِي يَأْتِي بِشَهَادَتِهِ قَبْلَ أَنْ يُسْأَلَهَا ‏\"‏ ‏.‏ هُوَ عِنْدَنَا إِذَا أُشْهِدَ الرَّجُلُ عَلَى الشَّىْءِ أَنْ يُؤَدِّيَ شَهَادَتَهُ وَلاَ يَمْتَنِعَ مِنَ الشَّهَادَةِ هَكَذَا وَجْهُ الْحَدِيثِ عِنْدَ بَعْضِ أَهْلِ الْعِلْمِ ‏.‏ كَمُلَ وَالْحَمْدُ لِلَّهِ كِتَابُ الشَّهَادَاتِ وَيَلِيهِ كِتَابُ الزُّهْدِ",
+        "translations": {
+          "en": "Clarification of this is in the Hadith of 'Umar bin Al-Khattab, from the Prophet(s.a.w) who said:\"The best of people are my generation, then those who follow them,then those who follow them. Then lying will spread, until a man testifies while his testimony was not requested, and a man will take an oath while an oath was not sought",
+          "ur": "عمر بن خطاب رضی الله عنہ کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: ”سب سے اچھے اور بہتر لوگ ہمارے زمانے والے ہیں، پھر وہ لوگ جو ان کے بعد ہوں گے، پھر وہ لوگ جو ان کے بعد ہوں گے، پھر جھوٹ عام ہو جائے گا یہاں تک کہ آدمی گواہی طلب کیے بغیر گواہی دے گا، اور قسم کھلائے بغیر قسم کھائے گا“۔ اور نبی اکرم صلی اللہ علیہ وسلم کی وہ حدیث کہ سب سے بہتر گواہ وہ ہے، جو گواہی طلب کیے بغیر گواہی دے تو اس کا مفہوم ہمارے نزدیک یہ ہے کہ جب کسی سے کسی چیز کی گواہی ( حق بات کی خاطر ) دلوائی جائے تو وہ گواہی دے، گواہی دینے سے باز نہ رہے، بعض اہل علم کے نزدیک دونوں حدیثوں میں تطبیق کی یہی صورت ہے۔",
+          "id": "Telah menceritakan kepada kami [Washil bin 'Abdul A'la] telah menceritakan kepada kami [Muhammad bin Fudlail] dari [Al A'masy] dari ['Ali bin Mudri] dari [Hilal bin Yasaf] dari ['Imran bin Hushain] berkata: Aku mendengar Rasulullah Shallallahu 'alaihi wa salam bersabda: \"Manusia terbaik adalah masaku kemudian setelah mereka kemudian setelah mereka -sebanyak tiga kali- setelah itu muncul kaum setelah mereka, mereka berusaha menggemukkan diri dan menyukai kegemukan, mereka memberikan persaksian sebelum diminta.\" Berkata Abu Isa: Hadits ini gharib dari hadits Al A'masy dari 'Ali bin Mudrik dan para sahabat Al A'masy hanya meriwayatkan dari Al A'masy dari Hilal bin Yasaf dari 'Imran bin Hushain. Telah menceritakan kepada kami [Abu 'Ammar Al Husain bin Huraits] telah menceritakan kepada kami [Waki'] dari [Al A'masy] telah menceritakan kepada kami [Hilal bin Yasaf] dari ['Imran bin Hushain] dari nabi Shallallahu 'alaihi wa Salam Sepertinya. Dan ini lebih shahih dari hadits Muhammad bin Fudlail. Berkata Abu Isa: Makna hadits ini menurut sebagaian ahlul ilmi; mereka memberikan persaksian sebelum diminta maksudnya adalah kesaksian palsu, Rasulullah Shallallahu 'alaihi wa salam bersabda: \"Salah seorang dari mereka bersaksi padahal tidak diminta bersaksi.\" Penjelasannya ada dalam hadits 'Umar bin Al Khaththab dari nabi Shallallahu 'alaihi wa Salam bersabda: \"Manusia terbaik adalah masaku kemudian setelah mereka kemudian setelah mereka, kemudian setelah itu kedustaan menyebar hingga seseorang bersaksi padahal ia tidak diminta bersaksi, seseorang bersumpah padahal tidak diminta bersumpah.\" Dan meriwayatkan hadits nabi Shallallahu 'alaihi wa Salam; \"Saksi-saksi terbaik adalah orang yang membawa kesaksiannya sebelum diminta\" menurutku, bila seseorang diminta bersaksi atas sesuatu, ia menunaikan kesaksiannya dan tidak enggan untuk bersaksi. Seperti itulah makna hadits menurut sebagaian ahlul ilmi",
+          "tr": "Ömer b. Hattâb (radıyallahü anh)’den rivâyete göre, Rasûlüllah (sallallahü aleyhi ve sellem) şöyle buyurdu: “İnsanların en hayırlısı benim asrımda yaşayanlardır sonra onların peşinden gelenler sonra onların da peşinden gelenlerdir. Sonra yalan o derece yaygınlaşacaktır ki: Kişi şâhid tutulmadığı halde şâhidlik yapacak kendisine yemin teklif edilmediği halde yemin edecektir.” Bu hadisle Rasûlüllah (sallallahü aleyhi ve sellem)’in “Şâhidlerin en hayırlısı istenmeden şâhidlik yapandır.” Hadisi arasında çelişki yoktur. Bir kimse bir konuda şâhid tutulursa şâhidliği yapmalı ve şâhidlikten kaçmamalıdır. Bazı ilim adamları bu hadisi böyle yorumlarlar. (Buhârî, Şehadat:)"
+        }
+      },
+      "grades": [
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 35,
+        "hadith": 10
+      }
+    }
+  ],
+  "metadata": {
+    "averageLength": "long",
+    "size": "8KB"
+  }
+}

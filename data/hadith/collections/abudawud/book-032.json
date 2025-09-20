@@ -1,0 +1,1554 @@
+{
+  "collection": "abudawud",
+  "book": 32,
+  "name": {
+    "arabic": "كتاب Dialects and Readings of the Qur'an (Kitab Al-Huruf Wa Al-Qira'at)",
+    "transliteration": "dialects and readings of the qur'an (kitab al-huruf wa al-qira'at)",
+    "translation": "Dialects and Readings of the Qur'an (Kitab Al-Huruf Wa Al-Qira'at)"
+  },
+  "totalHadith": 40,
+  "hadithNumberRange": {
+    "first": 3969,
+    "last": 4008
+  },
+  "content": [
+    {
+      "hadithNumber": 3969,
+      "arabicNumber": 3969,
+      "book": 32,
+      "hadithInBook": 1,
+      "text": {
+        "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ النُّفَيْلِيُّ، حَدَّثَنَا حَاتِمُ بْنُ إِسْمَاعِيلَ، ح وَحَدَّثَنَا نَصْرُ بْنُ عَاصِمٍ، حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، عَنْ جَعْفَرِ بْنِ مُحَمَّدٍ، عَنْ أَبِيهِ، عَنْ جَابِرٍ، رضى الله عنه أَنَّ النَّبِيَّ صلى الله عليه وسلم قَرَأَ ‏{‏ وَاتَّخِذُوا مِنْ مَقَامِ إِبْرَاهِيمَ مُصَلًّى ‏}‏",
+        "translations": {
+          "en": "Narrated Jabir ibn Abdullah: The Prophet (ﷺ) read the Qur'anic verse, \"And take ye the Station of Abraham as a place of prayer",
+          "ur": "جابر رضی اللہ عنہ کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم نے: «واتخذوا من مقام إبراهيم مصلى» اور مقام ابراہیم کو مصلیٰ بنا لو۔۔۔ ( سورۃ البقرہ: ۱۲۴ ) ( امر کے صیغہ کے ساتھ بکسر خاء ) پڑھا۔",
+          "fr": "Rapporté par Jabir ibn Abdullah : Le Prophète ﷺ a récité le verset du Coran : « Et prenez la station d’Abraham comme lieu de prière. »",
+          "id": "Telah menceritakan kepada kami [Abdullah bin Muhammad An Nufaili] telah menceritakan kepada kami [Hatim bin Isma'il]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Nashr bin 'Ashim] telah menceritakan kepada kami [Yahya bin Sa'id] dari [Ja'far bin Muhammad] dari [Ayahnya] dan [Jabir] radliallahu 'anhu, bahwa Nabi shallallahu 'alaihi wasallam membaca ayat: '(Dan jadikanlah sebahagian maqam Ibrahim tempat shalat) ' (Qs. Al Baqarah:)",
+          "tr": "Cabir (r.a)'den rivayet olunduğuna göre; Nebi (s.a.v), \"Siz de İbrahim'in makamından bir namaz yeri edinin”[Bakara 125] (şeklinde, emir siğasıyla) okumuştur"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 32,
+        "hadith": 1
+      },
+      "narrator": {
+        "en": "Jabir ibn Abdullah"
+      }
+    },
+    {
+      "hadithNumber": 3970,
+      "arabicNumber": 3970,
+      "book": 32,
+      "hadithInBook": 2,
+      "text": {
+        "arabic": "حَدَّثَنَا مُوسَى، - يَعْنِي ابْنَ إِسْمَاعِيلَ - حَدَّثَنَا حَمَّادٌ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، رضى الله عنها أَنَّ رَجُلاً، قَامَ مِنَ اللَّيْلِ فَقَرَأَ فَرَفَعَ صَوْتَهُ بِالْقُرْآنِ فَلَمَّا أَصْبَحَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ يَرْحَمُ اللَّهُ فُلاَنًا كَائِنٌ مِنْ آيَةٍ أَذْكَرَنِيهَا اللَّيْلَةَ كُنْتُ قَدْ أَسْقَطْتُهَا ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Narrated A'ishah:A man got up (for prayer) at night, he read the Qur'an and raised his voice in reading. When the morning came, the Messenger of Allah (ﷺ) said: May Allah have mercy on so-and-so! Last night he reminded me a number of verses which I was about to forget",
+          "ur": "ام المؤمنین عائشہ رضی اللہ عنہا فرماتی ہیں کہ ایک شخص نے رات میں قیام کیا اور ( نماز میں ) بلند آواز سے قرآت کی، جب صبح ہوئی تو رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: اللہ فلاں پر رحم کرے کتنی آیتیں جنہیں میں بھول چلا تھا ۱؎ اس نے آج رات مجھے یاد دلا دیں ۔",
+          "fr": "Rapporté par Aïsha (la mère des croyants) رضي الله عنها : « Un homme s’est levé (pour prier) la nuit, il a récité le Coran et a élevé la voix en lisant. Au matin, le Messager d’Allah ﷺ a dit : “Qu’Allah fasse miséricorde à un tel ! Cette nuit, il m’a rappelé plusieurs versets que j’étais sur le point d’oublier.” »",
+          "tr": "Aişe (r.anha) dan rivayet olunduğuna göre; Bir adam geceleyin kalkıp (Kur'an) okumuş, Kur'an okurken de sesini yükseltmiş. Sabah olunca Resulullah (s.a.v) (onun hakkında): \"Allah falancadan razı olsun. O bu gece benim (unutarak) atlamış olduğum bazı ayetleri bana hatırlatmış oldu.\" demiş"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 32,
+        "hadith": 2
+      },
+      "narrator": {
+        "en": "A'ishah"
+      }
+    },
+    {
+      "hadithNumber": 3971,
+      "arabicNumber": 3971,
+      "book": 32,
+      "hadithInBook": 3,
+      "text": {
+        "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا عَبْدُ الْوَاحِدِ بْنُ زِيَادٍ، حَدَّثَنَا خُصَيْفٌ، حَدَّثَنَا مِقْسَمٌ، مَوْلَى ابْنِ عَبَّاسٍ قَالَ قَالَ ابْنُ عَبَّاسٍ رضى الله عنهما نَزَلَتْ هَذِهِ الآيَةُ ‏{‏ وَمَا كَانَ لِنَبِيٍّ أَنْ يَغُلَّ ‏}‏ فِي قَطِيفَةٍ حَمْرَاءَ فُقِدَتْ يَوْمَ بَدْرٍ فَقَالَ بَعْضُ النَّاسِ لَعَلَّ رَسُولَ اللَّهِ صلى الله عليه وسلم أَخَذَهَا فَأَنْزَلَ اللَّهُ عَزَّ وَجَلَّ ‏{‏ وَمَا كَانَ لِنَبِيٍّ أَنْ يَغُلَّ ‏}‏ إِلَى آخِرِ الآيَةِ ‏.‏ قَالَ أَبُو دَاوُدَ يَغُلَّ مَفْتُوحَةُ الْيَاءِ ‏.‏",
+        "translations": {
+          "en": "Narrated Abdullah ibn Abbas: The verse \"And no Prophet could (ever) be false to his trust\" was revealed about a red velvet. When it was found missing on the day of Badr, some people said; Perhaps the Messenger of Allah (ﷺ) has taken it. So Allah, the Exalted, sent down \"And no prophet could (ever) be false to his trust\" to the end of the verse. Abu Dawud said: In the word yaghulla the letter ya has a short vowel a",
+          "ur": "مقسم مولیٰ ابن عباس رضی اللہ عنہما کا بیان ہے کہ ابن عباس رضی اللہ عنہما نے کہا ہے کہ آیت: «وما كان لنبي أن يغل» نبی کو یہ زیب نہیں دیتا کہ وہ خیانت کرے۔۔۔ ( سورۃ آل عمران: ۱۶۱ ) ایک سرخ چادر کے متعلق نازل ہوئی جو بدر کے دن گم ہو گئی تھی تو کچھ لوگوں نے کہا: شاید رسول اللہ صلی اللہ علیہ وسلم نے اسے لے لیا ہو تب اللہ تعالیٰ نے: «وما كان لنبي أن يغل» نازل کی۔ ابوداؤد کہتے ہیں: «يغل» یا کے فتحہ کے ساتھ ہے۔",
+          "fr": "Rapporté par Abdullah ibn Abbas : Le verset « Et aucun Prophète ne pourrait jamais trahir » a été révélé à propos d’un morceau de velours rouge. Quand il a été perdu le jour de Badr, certaines personnes ont dit : « Peut-être que le Messager d’Allah ﷺ l’a pris. » Alors Allah, le Très-Haut, a révélé : « Et aucun Prophète ne pourrait jamais trahir » jusqu’à la fin du verset. Abu Dawud a dit : Dans le mot “yaghulla”, la lettre ya a une voyelle brève a",
+          "id": "Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Abdul Wahid bin Ziyad] telah menceritakan kepada kami [Khushaif] telah menceritakan kepada kami [Miqsam] mantan budak Ibnu Abbas, ia berkata, [Ibnu Abbas] radliallahu 'anhu berkata, \"Turunnya ayat ini: '(Tidak mungkin seorang nabi berkhianat dalam urusan harta rampasan perang) ' (Qs. Ali Imran: 161), berkenaan dengan hilangnya kasur merah di badar. Sebagian orang mengatakan, \"Kemungkinan Rasulullah shallallahu 'alaihi wasallam mengambilnya, maka Allah 'azza wajalla menurunkan ayat: '(Tidak mungkin seorang nabi berkhianat dalam urusan harta rampasan perang) ' (Qs. Ali Imran: 161), hingga akhir ayat.\" Abu Daud berkata, \"Yaghulla, dengan memberi harakat fathah pada huruf ya",
+          "tr": "İbn Abbas (r.a)'ın azatlı kölesi Mıksem; İbn Abbas'ın şöyle dediğini söylemiştir: Şu, \"Bir Nebi'in ganimet malını gizlemesi (emanete hiyanet etmesi) asla olamaz\"[Âl-i İmrân 161] (mealindeki) ayet-i kerimesi Bedir (savaşı) günü, (ganimetler arasında kaybolan kırmızı kadife (den bir kese) hakkında inmiştir. (Bu kese) Bedir (savaşı) günü kayboldu. (Münafıklardan bazı kimseler, (Bunu) belki de Resulullah almıştır, diye dedikodu etmeye başladılar. Bunun üzerine Aziz ve Celil olan Allah \"Bir Nebi için ihanet etmek asla olamaz\" ayetini -sonuna kadar- indirdi. Ebû Davûd dedi ki; ... kelimesinin ya'sı üstünlüdür"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 32,
+        "hadith": 3
+      },
+      "narrator": {
+        "en": "Abdullah ibn Abbas"
+      }
+    },
+    {
+      "hadithNumber": 3972,
+      "arabicNumber": 3972,
+      "book": 32,
+      "hadithInBook": 4,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عِيسَى، حَدَّثَنَا مُعْتَمِرٌ، قَالَ سَمِعْتُ أَبِي قَالَ، سَمِعْتُ أَنَسَ بْنَ مَالِكٍ، يَقُولُ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏ \"‏ اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْبُخْلِ وَالْهَرَمِ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Anas b. Malik reported that Messenger of Allah (ﷺ) as saying:O Allah, I seek refuge in Thee from niggardliness and old age",
+          "ur": "انس بن مالک رضی اللہ عنہ کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: اے اللہ! میں تیری پناہ مانگتا ہوں بخیلی اور بڑھاپے سے۱؎ ۔",
+          "fr": "Rapporté par Anas ibn Malik : Le Messager d’Allah ﷺ a dit : « Ô Allah, je cherche refuge auprès de Toi contre l’avarice et la vieillesse. »",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Isa] telah menceritakan kepada kami [Mu'tamir] ia berkata; aku mendengar [Ayahku] berkata; aku pernah mendengar [Anas bin Malik] berkata, \"Nabi shallallahu 'alaihi wasallam bersabda: \"ALLAAHUMMA INNII A'UUDZU BIKA MINAL BUKHLI WAL HARAMI (Ya Allah, aku berlindung kepada-Mu dari sifat kikir dan pikun)",
+          "tr": "Enes b. Malik, Nebi (s.a.v)'in; \"Ey Allah'ın, cimrilikten ve aşırı yaşlılıktan sana sığırım\" diye duâ ettiğini söylemiştir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (2823) Sahih Muslim (2706)"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 32,
+        "hadith": 4
+      }
+    },
+    {
+      "hadithNumber": 3973,
+      "arabicNumber": 3973,
+      "book": 32,
+      "hadithInBook": 5,
+      "text": {
+        "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا يَحْيَى بْنُ سُلَيْمٍ، عَنْ إِسْمَاعِيلَ بْنِ كَثِيرٍ، عَنْ عَاصِمِ بْنِ لَقِيطِ بْنِ صَبِرَةَ، عَنْ أَبِيهِ، لَقِيطِ بْنِ صَبِرَةَ قَالَ كُنْتُ وَافِدَ بَنِي الْمُنْتَفِقِ - أَوْ فِي وَفْدِ بَنِي الْمُنْتَفِقِ - إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَذَكَرَ الْحَدِيثَ فَقَالَ - يَعْنِي النَّبِيَّ صلى الله عليه وسلم - ‏ \"‏ لاَ تَحْسِبَنَّ ‏\"‏ ‏.‏ وَلَمْ يَقُلْ لاَ تَحْسَبَنَّ ‏.‏",
+        "translations": {
+          "en": "Narrated Laqit ibn Sabirah: I came in the deputation of Banu al-Muntafiq to the Messenger of Allah (ﷺ). He then narrated the rest of the tradition. The Prophet (ﷺ) said: la tahsibanna (do not think) and did not say: la tahsabanna (do not think)",
+          "ur": "لقیط بن صبرہ رضی اللہ عنہ کہتے ہیں میں بنی منتفق کی طرف سے رسول اللہ صلی اللہ علیہ وسلم کے پاس آیا تھا، یا بنی منتفق کے وفد میں رسول اللہ صلی اللہ علیہ وسلم کے پاس آیا تھا پھر انہوں نے حدیث بیان کی کہ آپ نے یعنی نبی اکرم صلی اللہ علیہ وسلم نے «لا تحسبن» ( سین کے زیر کے ساتھ ) پڑھا اور «لا تحسبن» ( سین کو زبر کے ساتھ ) نہیں پڑھا۔",
+          "fr": "Rapporté par Laqit ibn Sabirah : « Je suis venu avec la délégation de Banu al-Muntafiq auprès du Messager d’Allah ﷺ. » Il a ensuite raconté le reste du récit. Le Prophète ﷺ a dit : « la tahsibanna » (ne pense pas), et il n’a pas dit : « la tahsabanna » (ne pense pas)",
+          "tr": "Lakıt b. Sabire'den (şöyle) dedi(ği) rivayet olunmuştur: Ben Elmüntefik oğullarının Resulullah (s.a.v.)'e giden elçileri, yahutta müntefik oğullarının heyeti içerisinde idim. (Ravi Lakıt sözlerine devam ederek 142 numaralı) hadisi (olduğu gibi) nakletti. Sonra da (şöyle) dedi: Nebi (s.a.v) (konuşurken) ... kelimesini (si'nin esresiyle) \"lâ tahsibenne\" diye telafuz etti, \"vela tahsebenne\" diye telaffuz etmedi"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 32,
+        "hadith": 5
+      },
+      "narrator": {
+        "en": "Laqit ibn Sabirah"
+      }
+    },
+    {
+      "hadithNumber": 3974,
+      "arabicNumber": 3974,
+      "book": 32,
+      "hadithInBook": 6,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عِيسَى، حَدَّثَنَا سُفْيَانُ، حَدَّثَنَا عَمْرُو بْنُ دِينَارٍ، عَنْ عَطَاءٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ لَحِقَ الْمُسْلِمُونَ رَجُلاً فِي غُنَيْمَةٍ لَهُ فَقَالَ السَّلاَمُ عَلَيْكُمْ فَقَتَلُوهُ وَأَخَذُوا تِلْكَ الْغُنَيْمَةَ فَنَزَلَتْ ‏{‏ وَلاَ تَقُولُوا لِمَنْ أَلْقَى إِلَيْكُمُ السَّلاَمَ لَسْتَ مُؤْمِنًا تَبْتَغُونَ عَرَضَ الْحَيَاةِ الدُّنْيَا ‏}‏ تِلْكَ الْغُنَيْمَةَ ‏.‏",
+        "translations": {
+          "en": "Narrated Ibn 'Abbas:The Muslims met a man with some sheep of his. He said: Peace be upon you. But they killed him and took those few sheep. Thereupon the following Qur'anic verse was revealed: \"...And say to anyone who offers you a salutation: Thou art none of believer, coveting the perishable good of this life.\" meaning these few sheep",
+          "ur": "عبداللہ بن عباس رضی اللہ عنہما کہتے ہیں مسلمان ایک شخص سے ملے جو اپنی بکریوں کے چھوٹے سے ریوڑ میں تھا اس نے السلام علیکم کہا پھر بھی مسلمانوں نے اسے قتل کر دیا اور وہ ریوڑ لے لیا تو یہ آیت کریمہ: «ولا تقولوا لمن ألقى إليكم السلام لست مؤمنا تبتغون عرض الحياة الدنيا» جو شخص تمہیں سلام کہے اسے یہ نہ کہو کہ تو مسلمان نہیں ہے تم لوگ دنیاوی زندگی کا ساز و سامان یعنی ان بکریوں کو چاہتے ہو ( سورۃ النساء: ۹۴ ) نازل ہوئی۔",
+          "fr": "Rapporté par Ibn Abbas : « Les musulmans ont rencontré un homme avec quelques-unes de ses brebis. Il a dit : “Que la paix soit sur vous.” Mais ils l’ont tué et ont pris ces quelques brebis. C’est alors que le verset du Coran suivant a été révélé : “…Et ne dites pas à celui qui vous adresse la salutation : ‘Tu n’es pas croyant’, convoitant les biens éphémères de la vie d’ici-bas.”, c’est-à-dire ces quelques brebis. »",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Isa] telah menceritakan kepada kami [Sufyan] telah menceritakan kepada kami ['Amru bin Dinar] dari ['Atha] dari [Ibnu Abbas] ia berkata, \"Orang-orang muslim bertemu dengan seorang laki-laki yang membawa kambingnya, kemudian ia mengucapkan, 'Assalaamu 'alaikum! ' Lalu mereka membunuhnya dan mengambil kambing tersebut. Maka turunlah ayat: '(Dan janganlah kamu mengatakan kepada orang yang mengucapkan 'salam' kepadamu: 'Kamu bukan seorang mukmin' (lalu kamu membunuhnya), dengan maksud mencari harta benda kehidupan di dunia) ' (Qs. An Nisaa: 94), yaitu kambing tersebut",
+          "tr": "İbn Abbas'dan rivayet edilmiştir; Müslümanlar kendisine ait küçük bir koyun sürüsü içerisinde bulunan bir adama rastladılar. (Adam onlara) \"Es-selamu aleyküm\" diyerek selam verdi. (Onlar da) onu öldürdüler bu sürüyü ele geçirdiler. Bunun üzerine, \"Size selam verene dünya hayatının geçici menfatini gözeterek; Sen mü'min değilsin, demeyin...\"[Nisa 24] (Yani) şu küçük davar sürüsü gibi (geçici menfaatlere göz) dikerek böyle işler yapmayın) ayet-i kerimesi indi"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (4591) Sahih Muslim (3025)"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 32,
+        "hadith": 6
+      },
+      "narrator": {
+        "en": "Ibn 'Abbas"
+      }
+    },
+    {
+      "hadithNumber": 3975,
+      "arabicNumber": 3975,
+      "book": 32,
+      "hadithInBook": 7,
+      "text": {
+        "arabic": "حَدَّثَنَا سَعِيدُ بْنُ مَنْصُورٍ، حَدَّثَنَا ابْنُ أَبِي الزِّنَادِ، ح وَحَدَّثَنَا مُحَمَّدُ بْنُ سُلَيْمَانَ الأَنْبَارِيُّ، حَدَّثَنَا حَجَّاجُ بْنُ مُحَمَّدٍ، عَنِ ابْنِ أَبِي الزِّنَادِ، - وَهُوَ أَشْبَعُ - عَنْ أَبِيهِ، عَنْ خَارِجَةَ بْنِ زَيْدِ بْنِ ثَابِتٍ، عَنْ أَبِيهِ، أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ يَقْرَأُ ‏{‏ غَيْرُ أُولِي الضَّرَرِ ‏}‏ وَلَمْ يَقُلْ سَعِيدٌ كَانَ يَقْرَأُ ‏.‏",
+        "translations": {
+          "en": "Narrated Zayd ibn Thabit: The Prophet (ﷺ) used to read: \"Not equal are those believers who sit (at home) and receive no hurt (ghayru ulid-darari) but the narrator Sa'id did not say the words \"used to read",
+          "ur": "زید بن ثابت انصاری رضی اللہ عنہ سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم «لا يستوي القاعدون من المؤمنين» کے بعد «غير أولي الضرر» پڑھتے تھے۔ اور سعید بن منصور نے اپنی روایت میں «كان يقرأ» نہیں کہا ہے ۱؎۔",
+          "fr": "Rapporté par Zayd ibn Thabit : Le Prophète ﷺ récitait : « Ne sont pas égaux ceux des croyants qui restent (chez eux) et ne subissent aucun mal (ghayru ulid-darari) », mais le rapporteur Sa’id n’a pas dit les mots : « récitait »",
+          "id": "Telah menceritakan kepada kami [Sa'id bin Manshur] telah menceritakan kepada kami [Ibnu Abu Az Zinad]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Muhammad bin Sulaiman Al Anbari] telah menceritakan kepada kami [Hajjaj bin Muhammad] dari [Ibnu Abu Az Zinad Asyba'] dari [Ayahnya] dari [Kharijah bin Zaid bin Tsabit] dari [Ayahnya], bahwa Nabi shallallahu 'alaihi wasallam membaca ayat: (yang tidak mempunyai 'uzur…) ' (Qs. An Nisaa; 95). Sa'id tidak menyebutkan kata, 'membaca",
+          "tr": "Zeyd b. Sabit (r.a)'dan rivayet olunduğuna göre; Nebi (s.a.v.), (özürlü anlamına gelen) [Nisa 95] kelimesini ranın fetfasıyla gayre şekilde) okurmuş. (Ebu Davud dedi ki: Ancak bu hadisin ravilerinden) Saîd b. Mansûr (Muhammed b. Süleyman'ın rivayetinde geçen) \"okurdu\" kelimesini rivayet etmedi"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 32,
+        "hadith": 7
+      },
+      "narrator": {
+        "en": "Zayd ibn Thabit"
+      }
+    },
+    {
+      "hadithNumber": 3976,
+      "arabicNumber": 3976,
+      "book": 32,
+      "hadithInBook": 8,
+      "text": {
+        "arabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، وَمُحَمَّدُ بْنُ الْعَلاَءِ، قَالاَ حَدَّثَنَا عَبْدُ اللَّهِ بْنُ الْمُبَارَكِ، حَدَّثَنَا يُونُسُ بْنُ يَزِيدَ، عَنْ أَبِي عَلِيِّ بْنِ يَزِيدَ، عَنِ الزُّهْرِيِّ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ قَرَأَهَا رَسُولُ اللَّهِ صلى الله عليه وسلم ‏{‏ وَالْعَيْنُ بِالْعَيْنِ ‏}‏ ‏.‏",
+        "translations": {
+          "en": "Narrated Anas ibn Malik: The Messenger of Allah (ﷺ) read the verse: \"eye for eye\" (al-'aynu bil-'ayn)",
+          "ur": "انس بن مالک رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے: «والعين بالعين» ( رفع کے ساتھ ) پڑھا ۱؎۔",
+          "fr": "Rapporté par Anas ibn Malik : Le Messager d’Allah ﷺ a récité le verset : « œil pour œil » (al-‘aynu bil-‘ayn)",
+          "id": "Telah menceritakan kepada kami [Utsman bin Abu Syaibah] dan [Muhammad bin Al 'Ala] mereka berkata; telah menceritakan kepada kami [Abdullah bin Al Mubarak] telah menceritakan kepada kami [Yunus bin Yazid] dari [Abu Ali bin Yazid] dari [Az Zuhri] dari [Anas bin Malik] ia berkata, \"Rasulullah shallallahu 'alaihi wasallam membaca ayat: '(... dan mata dengan mata) ' (Qs. Al Maidah:)",
+          "tr": "Enes b. Malik'den rivayet olunduğuna göre; Resulullah (s.a.v) şu ayet-i kerimeyi okudu ve (içerisinde bulunan) ...kelimelerini \"elaynü bilayni\" şeklinde okudu"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 32,
+        "hadith": 8
+      },
+      "narrator": {
+        "en": "Anas ibn Malik"
+      }
+    },
+    {
+      "hadithNumber": 3977,
+      "arabicNumber": 3977,
+      "book": 32,
+      "hadithInBook": 9,
+      "text": {
+        "arabic": "حَدَّثَنَا نَصْرُ بْنُ عَلِيٍّ، حَدَّثَنَا أَبِي، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ الْمُبَارَكِ، حَدَّثَنَا يُونُسُ بْنُ يَزِيدَ، عَنْ أَبِي عَلِيِّ بْنِ يَزِيدَ، عَنِ الزُّهْرِيِّ، عَنْ أَنَسِ بْنِ مَالِكٍ، رَضِيَ اللَّهُ عَنْهُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَرَأَ ‏{‏ وَكَتَبْنَا عَلَيْهِمْ فِيهَا أَنَّ النَّفْسَ بِالنَّفْسِ وَالْعَيْنُ بِالْعَيْنِ ‏}‏ ‏.‏",
+        "translations": {
+          "en": "Narrated Anas ibn Malik: The Prophet (ﷺ) read the verse: \"We ordained therein for them: Life for life and eye for eye (an-nafsa bin-nafsi wal-'aynu bil-'ayn)",
+          "ur": "انس بن مالک رضی اللہ عنہ کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم «وكتبنا عليهم فيها أن النفس بالنفس والعين بالعين» اور ہم نے یہودیوں کے ذمہ تورات میں یہ بات مقرر کر دی تھی کہ جان کے بدلے جان اور آنکھ کے بدلے آنکھ ہے ( سورۃ المائدہ: ۴۵ ) ( عین کے رفع کے ساتھ ) پڑھا۔",
+          "fr": "Rapporté par Anas ibn Malik : Le Prophète ﷺ a récité le verset : « Nous avons prescrit pour eux : vie pour vie et œil pour œil » (an-nafsa bin-nafsi wal-‘aynu bil-‘ayn)",
+          "tr": "Enes b. Malik\"den rivayet olunduğuna göre; Nebi (s.a.v), \"Onda (Tevratta) onlara, cana can, göze göz, buruna burun, kulağa kulak, dişe diş ve yaralara karşılık kısas yazdık\"[Ma'ide 45] mealindeki ayet-i kerimeyi); .... şeklinde okumuştur"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 32,
+        "hadith": 9
+      },
+      "narrator": {
+        "en": "Anas ibn Malik"
+      }
+    },
+    {
+      "hadithNumber": 3978,
+      "arabicNumber": 3978,
+      "book": 32,
+      "hadithInBook": 10,
+      "text": {
+        "arabic": "حَدَّثَنَا النُّفَيْلِيُّ، حَدَّثَنَا زُهَيْرٌ، حَدَّثَنَا فُضَيْلُ بْنُ مَرْزُوقٍ، عَنْ عَطِيَّةَ بْنِ سَعْدٍ الْعَوْفِيِّ، قَالَ قَرَأْتُ عَلَى عَبْدِ اللَّهِ بْنِ عُمَرَ ‏{‏ اللَّهُ الَّذِي خَلَقَكُمْ مِنْ ضَعْفٍ ‏}‏ فَقَالَ ‏{‏ مِنْ ضُعْفٍ ‏}‏ قَرَأْتُهَا عَلَى رَسُولِ اللَّهِ صلى الله عليه وسلم كَمَا قَرَأْتَهَا عَلَىَّ فَأَخَذَ عَلَىَّ كَمَا أَخَذْتُ عَلَيْكَ ‏.‏",
+        "translations": {
+          "en": "Narrated Abdullah ibn Umar: Atiyyah ibn Sa'd al-Awfi said: I recited to Abdullah ibn Umar the verse: \"It is Allah Who created you in a state of (helplessness) weakness (min da'f).\" He said: (Read) min du'f. I recited it to the Messenger of Allah (ﷺ) as you recited it to me, and he gripped me as I gripped you",
+          "ur": "عطیہ بن سعد عوفی کہتے ہیں کہ میں نے عبداللہ بن عمر رضی اللہ عنہما کے سامنے: «الله الذي خلقكم من ضعف» اللہ وہی ہے جس نے تمہیں کمزوری کی حالت میں پیدا کیا ( سورۃ الروم: ۵۴ ) ( ضاد کے زبر کے ساتھ ) پڑھا تو انہوں نے کہا «مِنْ ضُعْفٍ» ( ضاد کے پیش کے ساتھ ) ہے میں نے بھی اسی طرح رسول اللہ صلی اللہ علیہ وسلم کے سامنے پڑھا تھا جیسے تم نے پڑھا ہے تو آپ صلی اللہ علیہ وسلم نے میری گرفت فرمائی جیسے میں نے تمہاری گرفت کی ہے۔",
+          "fr": "Rapporté par Abdullah ibn Umar : Atiyyah ibn Sa’d al-Awfi a dit : J’ai récité à Abdullah ibn Umar le verset : « C’est Allah qui vous a créés dans un état de faiblesse (min da’f). » Il a dit : (Lis) min du’f. Je l’ai récité au Messager d’Allah ﷺ comme tu me l’as récité, et il m’a saisi comme je t’ai saisi",
+          "id": "Telah menceritakan kepada kami [An Nufaili] telah menceritakan kepada kami [Zuhair] telah menceritakan kepada kami [Fudlail bin Marzuq] dari ['Athiyyah bin Sa'dan Al 'Aufi] ia berkata, \"Aku pernah membacakan kepada [Abdullah bin Umar] ayat: 'ALLAHULLADZII KHALAQAKUM MIN DLA'FIN… (Allah, Dialah yang menciptakan kamu dari keadaan lemah...) (Qs. Ar Ruum: 54) ', kemudian ia berkata, 'MIN DLU'FIN…(dari kelemahan) -dengan dlammah-', aku pernah membacakan ayat tersebut kepada Rasulullah shallallahu 'alaihi wasallam sebagaimana engkau telah membacakannya kepadaku, kemudian beliau mengoreksiku sebagaimana aku telah mengoreksimu",
+          "tr": "Atiyye b. Sa'd El-Avfî'den rivayet olunmuştur; dedi ki: \"o Allah'dır ki, sizin za'f dan yarattı\"[Rûm 54] ayetini Abdullah b. Ömer\"in yanında ... (kelimesinin ilk harfini üstün olarak) okudum? da bana; \"min du'fin\" oku, dedi (ve sözüne şöyle devam etti): \"Ben bu ayeti Resulullah (s.a.v)'e senin bana okuduğun şekilde okudum da benim sana itiraz ettiğim gibi bana itiraz etti"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 32,
+        "hadith": 10
+      },
+      "narrator": {
+        "en": "Abdullah ibn Umar"
+      }
+    },
+    {
+      "hadithNumber": 3979,
+      "arabicNumber": 3979,
+      "book": 32,
+      "hadithInBook": 11,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى الْقُطَعِيُّ، حَدَّثَنَا عُبَيْدٌ، - يَعْنِي ابْنَ عَقِيلٍ - عَنْ هَارُونَ، عَنْ عَبْدِ اللَّهِ بْنِ جَابِرٍ، عَنْ عَطِيَّةَ، عَنْ أَبِي سَعِيدٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم ‏{‏ مِنْ ضُعْفٍ ‏}‏ ‏.‏",
+        "translations": {
+          "en": "Narrated AbuSa'id al-Khudri: The Prophet (ﷺ) read the verse mentioned above, \"min du'f",
+          "ur": "ابو سعید خدری رضی اللہ عنہ نے نبی اکرم صلی اللہ علیہ وسلم سے «مِنْ ضُعْفٍ» روایت کی ہے۔",
+          "fr": "Rapporté par Abu Sa’id al-Khudri : Le Prophète ﷺ a récité le verset mentionné ci-dessus : « min du’f »",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Yahya Al Qutha'i] telah menceritakan kepada kami ['Ubaid bin 'Aqil] dari [Harun] dari [Abdullah bin Jabir] dari ['Athiyyah] dari [Abu Sa'id] dari Nabi shallallahu 'alaihi wasallam, beliau membaca: 'MIN DLU'FIN (dari kelemahan) (Qs. Ar Ruum: 54). -dengan harakat dlammah",
+          "tr": "Ebu Saîd'den rivayet olunduğuna göre; Nebi (s.a.v) (Rûm sûresinin 54. ayet-i kerimesinde geçen) .. (kelimesini dat'ın ötresiyle du'fin şeklinde okumuştur)"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 32,
+        "hadith": 11
+      },
+      "narrator": {
+        "en": "AbuSa'id al-Khudri"
+      }
+    },
+    {
+      "hadithNumber": 3980,
+      "arabicNumber": 3980,
+      "book": 32,
+      "hadithInBook": 12,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ، أَخْبَرَنَا سُفْيَانُ، عَنْ أَسْلَمَ الْمِنْقَرِيِّ، عَنْ عَبْدِ اللَّهِ، عَنْ أَبِيهِ عَبْدِ الرَّحْمَنِ بْنِ أَبْزَى، قَالَ قَالَ أُبَىُّ بْنُ كَعْبٍ ‏{‏ بِفَضْلِ اللَّهِ وَبِرَحْمَتِهِ فَبِذَلِكَ فَلْتَفْرَحُوا ‏}‏ ‏.‏ قَالَ أَبُو دَاوُدَ بِالتَّاءِ ‏.‏",
+        "translations": {
+          "en": "Narrated Ubayy b. Ka'b:\"Say, in the bounty of Allah, and in His mercy- in that let you rejoice",
+          "ur": "عبدالرحمٰن بن ابزی کہتے ہیں کہ ابی بن کعب رضی اللہ عنہ نے «بفضل الله وبرحمته فبذلك فلتفرحوا» لوگوں کو اللہ تعالیٰ کے اس انعام اور رحمت پر خوش ہونا چاہیئے ( سورۃ یونس: ۵۸ ) پڑھا۔ ابوداؤد کہتے ہیں: ( تاء کے ساتھ ) ہے۔",
+          "fr": "Rapporté par Ubayy ibn Ka’b : « Dis : C’est par la grâce d’Allah et par Sa miséricorde – qu’ils se réjouissent donc de cela. »",
+          "tr": "Abdurrahnıan b. ebza'dan rivayet olunduğuna göre; Übeyy b. Ka'b, \"deki: Allah'ın lütfuyla, rahmetiyle (evet) ancak onunla ferahlansınlar \"[Yunus 58] ayet-i kerimesini ... (şeklinde okumuştur. Ebû Davûd dedi ki: ... kelimesi k'(tâ) ile okunur"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 32,
+        "hadith": 12
+      },
+      "narrator": {
+        "en": "Ubayy b. Ka'b"
+      }
+    },
+    {
+      "hadithNumber": 3981,
+      "arabicNumber": 3981,
+      "book": 32,
+      "hadithInBook": 13,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا الْمُغِيرَةُ بْنُ سَلَمَةَ، حَدَّثَنَا ابْنُ الْمُبَارَكِ، عَنِ الأَجْلَحِ، حَدَّثَنِي عَبْدُ اللَّهِ بْنُ عَبْدِ الرَّحْمَنِ بْنِ أَبْزَى، عَنْ أَبِيهِ، عَنْ أُبَىٍّ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَرَأَ ‏{‏ بِفَضْلِ اللَّهِ وَبِرَحْمَتِهِ فَبِذَلِكَ فَلْيَفْرَحُوا هُوَ خَيْرٌ مِمَّا تَجْمَعُونَ ‏}‏ ‏.‏",
+        "translations": {
+          "en": "(Narrated Ibn Abzi: Ubayy ibn Ka'b) said: The Prophet (ﷺ) read the verse: \"Say: In the bounty of Allah and in His mercy--in that let you rejoice: that is better than the wealth you hoard",
+          "ur": "ابی رضی اللہ عنہ کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم نے «بفضل الله وبرحمته فبذلك فليفرحواء هو خير مما تجمعون» پڑھا ۱؎۔",
+          "fr": "Rapporté par Ibn Abzi : Ubayy ibn Ka’b a dit : Le Prophète ﷺ a récité le verset : « Dis : C’est par la grâce d’Allah et par Sa miséricorde – qu’ils se réjouissent donc : cela vaut mieux que les richesses qu’ils accumulent. »",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Abdullah] telah menceritakan kepada kami [Al Mughirah bin Salamah] telah menceritakan kepada kami [Ibnu Al Mubarak] dari [Al Ajlah] telah menceritakan kepadaku [Abdullah bin Abdurrahman bin Abza] dari [ayahnya] dari [Ubai] bahwa Nabi shallallahu 'alaihi wasallam pernah membaca ayat: BIFADHLILLAAHI WA RAHMATIHI, FABIDZAALIKA FAL TAFRAHUU, HUWA KHAIRUN MIMMAA TAJMA'UUN (Katakanlah: \"Dengan karunia Allah dan rahmat-Nya, hendaklah dengan itu kalian bergembira. Karunia Allah dan rahmat-Nya itu adalah lebih baik dari apa yang kalian kumpulkan.\");",
+          "tr": "Übeyy b. Kab'dan rivayet olunduğuna göre; Nebi (s.a.v) \"Deki: Allah'ın lütfuyla, rahmetiyle ancak onunla ferahlansınlar\" (anlamındaki, Yunus suresinin 58. ayet-i kerimesini); \"Bifadlillahi ve birahmetihi febizalike feltefrahu huve hayrun mimma tecmeûn\" şeklinde okumuştur"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 32,
+        "hadith": 13
+      }
+    },
+    {
+      "hadithNumber": 3982,
+      "arabicNumber": 3982,
+      "book": 32,
+      "hadithInBook": 14,
+      "text": {
+        "arabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا حَمَّادٌ، أَخْبَرَنَا ثَابِتٌ، عَنْ شَهْرِ بْنِ حَوْشَبٍ، عَنْ أَسْمَاءَ بِنْتِ يَزِيدَ، أَنَّهَا سَمِعَتِ النَّبِيَّ صلى الله عليه وسلم يَقْرَأُ ‏{‏ إِنَّهُ عَمِلَ غَيْرَ صَالِحٍ ‏}‏ ‏.‏",
+        "translations": {
+          "en": "Narrated Asma' daughter of Yazid: She heard the Prophet (ﷺ) read the verse: \"He acted unrighteously.\" (innahu 'amila ghayra salih)",
+          "ur": "اسماء بنت یزید رضی اللہ عنہا سے روایت ہے کہ انہوں نے نبی اکرم صلی اللہ علیہ وسلم کو «إنه عمل غير صالح» ( بصیغہ ماضی ) یعنی: اس نے ناسائشہ کام کیا ( سورۃ ہود: ۴۶ ) پڑھتے سنا ہے۔",
+          "fr": "Rapporté par Asma, fille de Yazid : Elle a entendu le Prophète ﷺ réciter le verset : « Il a mal agi. » (innahu ‘amila ghayra salih)",
+          "id": "Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Hammad] telah mengabarkan kepada kami [Tsabit] dari [Syahr bin Hausyab] dari [Asma` binti Yazid], bahwa ia pernah mendengar Nabi shallallahu 'alaihi wasallam membaca: 'INNAHUU 'AMILA GHAIRA SHAALIH (Sesungguhnya ia telah melakukan perbuatan yang tidak baik) '. (Qs. Huud:)",
+          "tr": "Esma binti Yezid'den rivayet olunduğuna göre; Kendisi Nebi (s.a.v)'i (\"Onun yaptığı uygunsuz bir iştir\"[Hûd 96] mealindeki ayet-i kerimeyi) .... (şeklinde) okurken işitmiş"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 32,
+        "hadith": 14
+      },
+      "narrator": {
+        "en": "Asma' daughter of Yazid"
+      }
+    },
+    {
+      "hadithNumber": 3983,
+      "arabicNumber": 3983,
+      "book": 32,
+      "hadithInBook": 15,
+      "text": {
+        "arabic": "حَدَّثَنَا أَبُو كَامِلٍ، حَدَّثَنَا عَبْدُ الْعَزِيزِ، - يَعْنِي ابْنَ الْمُخْتَارِ - حَدَّثَنَا ثَابِتٌ، عَنْ شَهْرِ بْنِ حَوْشَبٍ، قَالَ سَأَلْتُ أُمَّ سَلَمَةَ كَيْفَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم صلى الله عليه وسلم يَقْرَأُ هَذِهِ الآيَةَ ‏{‏ إِنَّهُ عَمَلٌ غَيْرُ صَالِحٍ ‏}‏ فَقَالَتْ قَرَأَهَا ‏{‏ إِنَّهُ عَمِلَ غَيْرَ صَالِحٍ ‏}‏ قَالَ أَبُو دَاوُدَ وَرَوَاهُ هَارُونُ النَّحْوِيُّ وَمُوسَى بْنُ خَلَفٍ عَنْ ثَابِتٍ كَمَا قَالَ عَبْدُ الْعَزِيزِ ‏.‏",
+        "translations": {
+          "en": "Narrated Umm Salamah, Ummul Mu'minin: Shahr ibn Hawshab said: I asked Umm Salamah: How did the Messenger of Allah (ﷺ) read this verse: \"For his conduct is unrighteous (innahu 'amalun ghayru salih\". She replied: He read it: \"He acted unrighteously\" (innahu 'amila ghayra salih). Abu Dawud said: This tradition has been transmitted by Harun al-Nahwi and Musa b. Khalaf from Thabit as reported by the narrator 'Abd al-Aziz",
+          "ur": "شہر بن حوشب کہتے ہیں میں نے ام المؤمنین ام سلمہ رضی اللہ عنہا سے پوچھا کہ رسول اللہ صلی اللہ علیہ وسلم آیت کریمہ «إنه عمل غير صالح» کیسے پڑھتے تھے؟ تو انہوں نے کہا: آپ اسے «إنه عمل غير صالح» ( فعل ماضی کے ساتھ ) پڑھتے تھے۔ ابوداؤد کہتے ہیں: نیز اسے ہارون نحوی اور موسیٰ بن خلف نے ثابت سے ایسے ہی روایت کیا ہے جیسے عبدالعزیز نے کہا ہے۔",
+          "fr": "Rapporté par Umm Salamah (la mère des croyants) رضي الله عنها : Shahr ibn Hawshab a dit : J’ai demandé à Umm Salamah : Comment le Messager d’Allah ﷺ récitait-il ce verset : « Car sa conduite est mauvaise (innahu ‘amalun ghayru salih) » ? Elle a répondu : Il le récitait : « Il a mal agi » (innahu ‘amila ghayra salih). Abu Dawud a dit : Ce hadith a été transmis par Harun al-Nahwi et Musa b. Khalaf d’après Thabit, comme l’a rapporté le narrateur ‘Abd al-Aziz",
+          "tr": "Şehr b. Hûşeb'den rivayet olunmuştur; dedi ki: Ben, Ümmü seleme'ye; Resulullah (s.a.v), şu ti(ni) nasıl okurdu? diye sordum. Onu, \"innehu amile gayra salihina [Hûd. 46] şeklinde okudu\" cevabını verdi. Ebû Davûd dedi ki: Bu hadisi Harun en-Nahvî ile Musa da Sabit'ten Abdulaziz'in rivayet ettiği gibi rivayet ettiler. Bu hadis Tirmizi kıraat ta da var"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 32,
+        "hadith": 15
+      },
+      "narrator": {
+        "en": "Umm Salamah, Ummul Mu'minin"
+      }
+    },
+    {
+      "hadithNumber": 3984,
+      "arabicNumber": 3984,
+      "book": 32,
+      "hadithInBook": 16,
+      "text": {
+        "arabic": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ مُوسَى، أَخْبَرَنَا عِيسَى، عَنْ حَمْزَةَ الزَّيَّاتِ، عَنْ أَبِي إِسْحَاقَ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ، عَنْ أُبَىِّ بْنِ كَعْبٍ، قَالَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم إِذَا دَعَا بَدَأَ بِنَفْسِهِ وَقَالَ ‏\"‏ رَحْمَةُ اللَّهِ عَلَيْنَا وَعَلَى مُوسَى لَوْ صَبَرَ لَرَأَى مِنْ صَاحِبِهِ الْعَجَبَ وَلَكِنَّهُ قَالَ ‏{‏ إِنْ سَأَلْتُكَ عَنْ شَىْءٍ بَعْدَهَا فَلاَ تُصَاحِبْنِي قَدْ بَلَغْتَ مِنْ لَدُنِي ‏}‏ ‏\"‏ ‏.‏ طَوَّلَهَا حَمْزَةُ ‏.‏",
+        "translations": {
+          "en": "Narrated Ubayy ibn Ka'b:: When the Messenger of Allah (ﷺ) prayed, he began with himself and said: May the mercy of Allah be upon us and upon Moses. If he had patience, he would have seen marvels from his Companion. But he said: \"(Moses) said: If ever I ask thee about anything after this, keep me not in they company: then wouldst thou have received (full) excuse from my side\". Hamzah lengthened it",
+          "ur": "ابی بن کعب رضی اللہ عنہ کہتے ہیں رسول اللہ صلی اللہ علیہ وسلم جب دعا فرماتے تو پہلے اپنی ذات سے شروعات کرتے یوں کہتے: اللہ کی رحمت ہو ہم پر اور موسیٰ پر اگر وہ صبر کرتے تو اپنے ساتھی ( خضر ) کی طرف سے عجیب عجیب چیزیں دیکھتے، لیکن انہوں نے تو کہہ دیا «إن سألتك عن شىء بعدها فلا تصاحبني قد بلغت من لدني» اگر اب اس کے بعد میں آپ سے کسی چیز کے بارے میں سوال کروں تو بیشک آپ مجھے اپنے ساتھ نہ رکھنا یقیناً آپ میری طرف سے حد عذر کو پہنچ چکے ( سورۃ الکہف: ۷۶ ) ۔ حمزہ نے «لدنی» کے نون کو کھینچ کر بتایا کہ آپ یوں پڑھا کرتے۔",
+          "fr": "Rapporté par Ubayy ibn Ka’b : Lorsque le Messager d’Allah ﷺ priait, il commençait par lui-même et disait : « Qu’Allah nous fasse miséricorde, à nous et à Moïse. S’il avait été patient, il aurait vu des merveilles de la part de son compagnon. » Puis il a dit : « (Moïse) a dit : Si jamais je t’interroge sur quoi que ce soit après cela, ne me garde plus dans ta compagnie : alors tu auras une excuse complète de ma part. » Hamzah a allongé la récitation",
+          "tr": "Ubeyy b. Ka'b şöyle demiştir: Resulullah (s.a.v) dua ettiği zaman (duaya) önce kendinden başlardı. (Birgün şöyle) buyurdu: Allah'ın rahmeti bizim ve (kardeşim) Musa'nın üzerine olsun. Eğer (o) arkadaşından gördüğü şeylere sabretse (de bu gördükleri hakkında ona soru sormasa idi (daha pek çok acaiblik(ler) görecekti. Fakat o (gördüklerine sabredememesi neticesinde şöyle) dedi: \"Eğer bundan sonra (bir daha) sana bir şey sorarsam artık bana arkadaş olma. (O zaman) benim tarafımdan (yapılacak) son özüre ulaştın.\"[Kehf 76] Hamza (bu cümlede geçen Ledünnî kelimesini) dal harfinin ötresi ve nun harfinin şeddesi ile \"ledünni şeklinde okudu"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 32,
+        "hadith": 16
+      },
+      "narrator": {
+        "en": "Ubayy ibn Ka'b"
+      }
+    },
+    {
+      "hadithNumber": 3985,
+      "arabicNumber": 3985,
+      "book": 32,
+      "hadithInBook": 17,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ الرَّحْمَنِ أَبُو عَبْدِ اللَّهِ الْعَنْبَرِيُّ، حَدَّثَنَا أُمَيَّةُ بْنُ خَالِدٍ، حَدَّثَنَا أَبُو الْجَارِيَةِ الْعَبْدِيُّ، عَنْ شُعْبَةَ، عَنْ أَبِي إِسْحَاقَ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ، عَنْ أُبَىِّ بْنِ كَعْبٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم أَنَّهُ قَرَأَهَا ‏{‏ قَدْ بَلَغْتَ مِنْ لَدُنِّي ‏}‏ وَثَقَّلَهَا ‏.‏",
+        "translations": {
+          "en": "Narrated Ubayy ibn Ka'b: The Prophet (ﷺ) read the Qur'anic verse: \"Thou hast received (full) excuse from me (min ladunni)\" and put tashdid (doubling of consonants) on nun (n)",
+          "ur": "ابی بن کعب رضی اللہ عنہ سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم نے «قد بلغت من لدني» ( نون کی تشدید کے ساتھ پڑھا ) اور انہوں نے اسے مشدّد پڑھ کے بتایا۔",
+          "fr": "Rapporté par Ubayy ibn Ka’b : Le Prophète ﷺ a récité le verset du Coran : « Tu as reçu une excuse complète de ma part (min ladunni) » et il a doublé la consonne n (tashdid sur le n)",
+          "tr": "Ubeyy b. Ka'b'dan rivayet olunduğuna göre; Nebi (s.a.v), şu \"Benim tarafımdan sana özür ulaşmıştır,\" mealindeki, Kehf suresinin 76. ayeti(ni), ... şeklinde, nun harfinin ötresi ve şeddesi ile okumuştur"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 32,
+        "hadith": 17
+      },
+      "narrator": {
+        "en": "Ubayy ibn Ka'b"
+      }
+    },
+    {
+      "hadithNumber": 3986,
+      "arabicNumber": 3986,
+      "book": 32,
+      "hadithInBook": 18,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ مَسْعُودٍ الْمِصِّيصِيُّ، حَدَّثَنَا عَبْدُ الصَّمَدِ بْنُ عَبْدِ الْوَارِثِ، حَدَّثَنَا مُحَمَّدُ بْنُ دِينَارٍ، حَدَّثَنَا سَعْدُ بْنُ أَوْسٍ، عَنْ مِصْدَعٍ أَبِي يَحْيَى، قَالَ سَمِعْتُ ابْنَ عَبَّاسٍ، يَقُولُ أَقْرَأَنِي أُبَىُّ بْنُ كَعْبٍ كَمَا أَقْرَأَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏{‏ فِي عَيْنٍ حَمِئَةٍ ‏}‏ مُخَفَّفَةً ‏.‏",
+        "translations": {
+          "en": "Narrated Abdullah ibn Abbas: Ubayy ibn Ka'b made me read the following verse as the Messenger of Allah (ﷺ) made him read: \"in a spring of murky water\" (fi 'aynin hami'atin) with short vowel a after h",
+          "ur": "مصدع ابویحییٰ کہتے ہیں کہ میں نے ابن عباس رضی اللہ عنہما سے سنا وہ کہہ رہے تھے مجھے ابی ابن کعب رضی اللہ عنہ نے «في عين حمئة» دلدل کے چشمہ میں ( سورۃ الکہف: ۸۶ ) تخفیف کے ساتھ پڑھایا جس طرح رسول اللہ صلی اللہ علیہ وسلم نے انہیں مخفف پڑھایا تھا۔",
+          "fr": "Rapporté par Abdullah ibn Abbas : Ubayy ibn Ka’b m’a fait lire le verset comme le Messager d’Allah ﷺ lui avait fait lire : « dans une source d’eau boueuse » (fi ‘aynin hami’atin), avec une voyelle brève a après le h",
+          "tr": "Mısda' Ebu Yahya'dan rivayet olunmuştur; dedi ki: Ben İbn Abbas'ı, \"Ubeyy b. Ka'b bana (Kehf süresindeki; kara balçıklı göze' anlamına gelen kelimeleri) Resulullah (s.a.v)'in kendisine okuttuğu gibi ... (şeklinde) okudu, (yani) mimden sonraki harfi elif değil de hemze olarak okudu\" derken işittim"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 32,
+        "hadith": 18
+      },
+      "narrator": {
+        "en": "Abdullah ibn Abbas"
+      }
+    },
+    {
+      "hadithNumber": 3987,
+      "arabicNumber": 3987,
+      "book": 32,
+      "hadithInBook": 19,
+      "text": {
+        "arabic": "حَدَّثَنَا يَحْيَى بْنُ الْفَضْلِ، حَدَّثَنَا وُهَيْبٌ، - يَعْنِي ابْنَ عَمْرٍو النَّمَرِيَّ - أَخْبَرَنَا هَارُونُ، أَخْبَرَنِي أَبَانُ بْنُ تَغْلِبَ، عَنْ عَطِيَّةَ الْعَوْفِيِّ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏\"‏ إِنَّ الرَّجُلَ مِنْ أَهْلِ عِلِّيِّينَ لَيُشْرِفُ عَلَى أَهْلِ الْجَنَّةِ فَتُضِيءُ الْجَنَّةُ لِوَجْهِهِ كَأَنَّهَا كَوْكَبٌ دُرِّيٌّ ‏\"‏ ‏.‏ قَالَ وَهَكَذَا جَاءَ الْحَدِيثُ ‏\"‏ دُرِّيٌّ ‏\"‏ ‏.‏ مَرْفُوعَةُ الدَّالِ لاَ تُهْمَزُ ‏\"‏ وَإِنَّ أَبَا بَكْرٍ وَعُمَرَ لَمِنْهُمْ وَأَنْعَمَا ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Narrated AbuSa'id al-Khudri: The Prophet (ﷺ) said: A man from the Illiyyun will look downwards at the people of Paradise and Paradise will be glittering as if it were a brilliant star. He (the narrator) said: In this way the word durri (brilliant) occurs in this tradition, i.e. the letter dal (d) has short vowel u and it has no hamzah ('). AbuBakr and Umar will be of them and will have some additional blessings",
+          "ur": "ابو سعید خدری رضی اللہ عنہ کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: علیین والوں میں سے ایک شخص جنتیوں کو جھانکے گا تو جنت اس کے چہرے کی وجہ سے چمک اٹھے گی گویا وہ موتی سا جھلملاتا ہوا ستارہ ہے ۔ راوی کہتے ہیں: اسی طرح «دري» دال کے پیش اور یا کی تشدید کے ساتھ حدیث وارد ہے دال کے زیر اور ہمزہ کے ساتھ نہیں اور آپ نے فرمایا ابوبکرو عمر رضی اللہ عنہما بھی انہیں میں سے ہیں بلکہ وہ دونوں ان سے بھی بہتر ہیں۔",
+          "fr": "Rapporté par Abu Sa’id al-Khudri : Le Prophète ﷺ a dit : Un homme parmi les Illiyyun regardera vers les gens du Paradis et le Paradis brillera comme une étoile éclatante. Le narrateur a précisé : Le mot « durri » (éclatante) est utilisé dans ce récit, c’est-à-dire que la lettre dal (d) porte une voyelle brève u et il n’y a pas de hamzah. Abu Bakr et Omar feront partie d’eux et auront des faveurs supplémentaires",
+          "tr": "Ebu Said el-Hudri'den rivayet olunduğuna göre; Nebi (s.a.v) şöyle buyurmuştur: \"(Cennette) cennetin en yüksek yerlerinin halkından olan bir kimse (kendi makamının aşağısında bulunan) cennet (ehlin)e bakar da (aşağıda bulunan) cennet (ehlinin yüzü onun) yüzünün parlaklığı ile aydınlanır. (Çünkü o makamda bulunan cennet ehlinin) yüzleri inci parlaklığında bir yıldız gibidir.\" (Musannif Ebu Davud rivayetine devam ederek şöyle) dedi: Bu hadis (bana) böyle (dürriyyûn\" (şeklinde ki kiraatla, yani) hemzesiz ve ötreli dal harfiyle geldi. (Ebû Davud rivayetine şöyle devam etti): \"Ebû Bekir ile Ömer de onlardandır. (Şu farkla ki Ebu Bekir ile Ömer), fazilet ve (büyük nimetlere erişme cihetiyle onlardan) daha da üstündürler"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 32,
+        "hadith": 19
+      },
+      "narrator": {
+        "en": "AbuSa'id al-Khudri"
+      }
+    },
+    {
+      "hadithNumber": 3988,
+      "arabicNumber": 3988,
+      "book": 32,
+      "hadithInBook": 20,
+      "text": {
+        "arabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، وَهَارُونُ بْنُ عَبْدِ اللَّهِ، قَالاَ حَدَّثَنَا أَبُو أُسَامَةَ، حَدَّثَنِي الْحَسَنُ بْنُ الْحَكَمِ النَّخَعِيُّ، حَدَّثَنَا أَبُو سَبْرَةَ النَّخَعِيُّ، عَنْ فَرْوَةَ بْنِ مُسَيْكٍ الْغُطَيْفِيِّ، قَالَ أَتَيْتُ النَّبِيَّ صلى الله عليه وسلم فَذَكَرَ الْحَدِيثَ فَقَالَ رَجُلٌ مِنَ الْقَوْمِ يَا رَسُولَ اللَّهِ أَخْبِرْنَا عَنْ سَبَإٍ مَا هُوَ أَرْضٌ أَمِ امْرَأَةٌ فَقَالَ ‏ \"‏ لَيْسَ بِأَرْضٍ وَلاَ امْرَأَةٍ وَلَكِنَّهُ رَجُلٌ وَلَدَ عَشَرَةً مِنَ الْعَرَبِ فَتَيَامَنَ سِتَّةٌ وَتَشَاءَمَ أَرْبَعَةٌ ‏\"‏ ‏.‏ قَالَ عُثْمَانُ الْغَطَفَانِيِّ مَكَانَ الْغُطَيْفِيِّ وَقَالَ حَدَّثَنَا الْحَسَنُ بْنُ الْحَكَمِ النَّخَعِيُّ ‏.‏",
+        "translations": {
+          "en": "Narrated Farwah ibn Musayk al-Ghutayfi: I came to the Prophet (ﷺ). He then narrated the rest of the tradition. A man from the people said: \"Messenger of Allah! tell us about Saba'; what is it: land or woman? He replied: It is neither land nor woman; it is a man to whom ten children of the Arabs were born: six of them lived in the Yemen and four lived in Syria. The narrator Uthman said al-Ghatafani instead of al-Ghutayfi. He said: It has been transmitted to us by al-Hasan ibn al-Hakam an-Nakha'i",
+          "ur": "فروہ بن مسیک غطیفی رضی اللہ عنہ کہتے ہیں کہ میں نبی اکرم صلی اللہ علیہ وسلم کے پاس آیا پھر انہوں نے پوری حدیث ذکر کی اس میں ہے تو ہم میں ایک شخص نے کہا: اللہ کے رسول! سبا کے متعلق مجھے بتائیے کہ وہ کیا ہے؟ کسی کا نام ہے یا کوئی عورت ہے؟ آپ صلی اللہ علیہ وسلم نے فرمایا: وہ نہ کوئی سر زمین ہے نہ عورت ہے بلکہ ایک شخص کا نام ہے جس کے دس عرب لڑکے ہوئے جس میں سے چھ نے یمن میں رہائش اختیار کر لی اور چار نے شام میں ۱؎ ۔ عثمان نے غطیفی کے بجائے غطفانی کہا ہے اور «حدثني الحسن بن الحكم النخعي» کے بجائے «حدثنا الحسن بن الحكم النخعي» کہا ہے۔",
+          "fr": "Rapporté par Farwah ibn Musayk al-Ghutayfi : Je suis venu voir le Prophète ﷺ. Il a ensuite raconté la suite du récit. Un homme parmi les gens a dit : « Messager d’Allah ! Parle-nous de Saba’ : est-ce une terre ou une femme ? » Il a répondu : « Ce n’est ni une terre ni une femme ; c’est un homme à qui sont nés dix enfants parmi les Arabes : six ont vécu au Yémen et quatre en Syrie. » Le narrateur Uthman a dit « al-Ghatafani » au lieu de « al-Ghutayfi ». Il a dit : Cela nous a été transmis par al-Hasan ibn al-Hakam an-Nakha’i",
+          "tr": "Ferve b. Müseyk'el Gutayf'den rivayet olunmuştur; dedi ki: Nebi (s.a.v.)'e vardım (Ferve sözlerine devamla önceki) hadisi rivayet etti. Hadis şöyle devam ediyor): Cemaatten birisi:. Ey Allah'ın Resulü, bize Sebe'i anlat, o nedir? Bir yer midir yoksa bir kadın mıdır? dedi. (Hz. Nebi de) şöyle buyurdu: \"O kadın değildir, bir yer de değildir. Fakat o araplardan on (kavim) meydana getiren bir adamdır. (Bunlardan) altı (Kavim) Yemen dolaylarına, dört kavim de Şam havalisine yerleşti.\" (Bu hadisin ravilerinden) Osman, \"el-Gutayfî\" ... kelimesinin yerine \"el-Gatâfâni\" kelimesini rivayet etti ve, \"Bize el-Hasan b. El-Hakem en-Nehâî, haber verdi\" (şeklinde) konuştu"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 32,
+        "hadith": 20
+      },
+      "narrator": {
+        "en": "Farwah ibn Musayk al-Ghutayfi"
+      }
+    },
+    {
+      "hadithNumber": 3989,
+      "arabicNumber": 3989,
+      "book": 32,
+      "hadithInBook": 21,
+      "text": {
+        "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ عَبْدَةَ، وَإِسْمَاعِيلُ بْنُ إِبْرَاهِيمَ أَبُو مَعْمَرٍ الْهُذَلِيُّ، عَنْ سُفْيَانَ، عَنْ عَمْرٍو، عَنْ عِكْرِمَةَ، قَالَ حَدَّثَنَا أَبُو هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم - قَالَ إِسْمَاعِيلُ عَنْ أَبِي هُرَيْرَةَ رِوَايَةً - فَذَكَرَ حَدِيثَ الْوَحْىِ قَالَ فَذَلِكَ قَوْلُهُ تَعَالَى ‏{‏ حَتَّى إِذَا فُزِّعَ عَنْ قُلُوبِهِمْ ‏}‏ ‏.‏",
+        "translations": {
+          "en": "Narrated Abu Hurairah:The Prophet (ﷺ) as saying - the narrator Isma'il transmitted it from Abu Hurairah, and mentioned the tradition about the coming down of revelation-: \"So far (is this the case) that when terror is removed from their hearts",
+          "ur": "اس سند سے ابوہریرہ رضی اللہ عنہ نے نبی اکرم صلی اللہ علیہ وسلم سے وحی کی حدیث ۱؎ روایت کی اس کے بعد فرمایا: اللہ تعالیٰ کے قول«حتى إذا فزع عن قلوبهم» یہاں تک کہ جب ان کے دلوں سے گھبراہٹ دور کر دی جاتی ہے ( سورۃ سبا: ۲۳ ) ۲؎ سے یہی مراد ہے۔",
+          "fr": "Rapporté par Abu Huraira رضي الله عنه : Le Prophète ﷺ a dit – le narrateur Isma’il l’a transmis d’après Abu Huraira, et il a mentionné le récit concernant la descente de la révélation : « Jusqu’à ce que la frayeur soit ôtée de leurs cœurs… »",
+          "tr": "Ebu Hureyre'den rivayet olunduğuna göre; Nebi (s.a.v) vahy hadisini zikretmiş, \"İşte bu, Yüce Allah'ın kalplerindeki korku giderilince\"[Sebe 23] ayeti(nde işaret buyurduğu mesele) dir\" demiş"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (4800، 4701)"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 32,
+        "hadith": 21
+      },
+      "narrator": {
+        "en": "Abu Hurairah"
+      }
+    },
+    {
+      "hadithNumber": 3990,
+      "arabicNumber": 3990,
+      "book": 32,
+      "hadithInBook": 22,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ رَافِعٍ النَّيْسَابُورِيُّ، حَدَّثَنَا إِسْحَاقُ بْنُ سُلَيْمَانَ الرَّازِيُّ، سَمِعْتُ أَبَا جَعْفَرٍ، يَذْكُرُ عَنِ الرَّبِيعِ بْنِ أَنَسٍ، عَنْ أُمِّ سَلَمَةَ، زَوْجِ النَّبِيِّ صلى الله عليه وسلم قَالَتْ قِرَاءَةُ النَّبِيِّ صلى الله عليه وسلم ‏{‏ بَلَى قَدْ جَاءَتْكِ آيَاتِي فَكَذَّبْتِ بِهَا وَاسْتَكْبَرْتِ وَكُنْتِ مِنَ الْكَافِرِينَ ‏}‏ قَالَ أَبُو دَاوُدَ هَذَا مُرْسَلٌ الرَّبِيعُ لَمْ يُدْرِكْ أُمَّ سَلَمَةَ ‏.‏",
+        "translations": {
+          "en": "Narrated Umm Salamah, wife of the Prophet (ﷺ): The reading of the following verse by the Prophet (ﷺ) goes: \"Nay, but there came to thee (ja'atki) my signs, and thou didst reject them (fakadhdhabti biha) ; thou wast haughty (wastakbarti) and became one of those who reject Faith (wa kunti). Abu Dawud said: This is a mursal tradition, i.e. the link of the Companion has been omitted, for the narrator al-Rabi' did not meet Umm Salamah",
+          "ur": "ام المؤمنین ام سلمہ رضی اللہ عنہا کہتی ہیں کہ نبی اکرم صلی اللہ علیہ وسلم کی قرآت «بلى قد جاءتك آياتي فكذبت بها واستكبرت وكنت من الكافرين» ہاں بیشک تیرے پاس میری آیتیں پہنچ چکی تھیں جنہیں تو نے جھٹلایا اور غرور و تکبر کیا اور تو تھا ہی کافروں میں سے ( سورۃ الزمر: ۵۹ ) ۱؎ ( واحد مونث حاضر کے صیغہ کے ساتھ ) ہے۔ ابوداؤد کہتے ہیں: یہ مرسل ہے، ربیع نے ام سلمہ رضی اللہ عنہا کو نہیں پایا ہے۔",
+          "fr": "Rapporté par Umm Salamah, épouse du Prophète ﷺ : La récitation de ce verset par le Prophète ﷺ était : « Non, mais Mes signes sont venus à toi (ja’atki), et tu les as rejetés (fakadhdhabti biha) ; tu as été orgueilleuse (wastakbarti) et tu es devenue de celles qui rejettent la foi (wa kunti). » Abu Dawud a dit : Ceci est un hadith mursal, c’est-à-dire que le lien avec le Compagnon a été omis, car le narrateur al-Rabi’ n’a pas rencontré Umm Salamah",
+          "tr": "Nebi (s.a.v)'in hanımı Ümmü Seleme, Nebi (s.a.v)'in (Evet ya, sana ayetlerim geldi de sen onları yalanladın, büyüklük tasladın ve inkarcılardan oldun\" [Zümer 59] mealindeki ayeti) ... (şeklinde) okuduğunu söylemiştir. Ebu Davud dedi ki: Bu (hadis) mürseldir. (Çünkü) er-Râbî (b. Enes) Ümmü Seleme'ye yetişememiştir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 32,
+        "hadith": 22
+      },
+      "narrator": {
+        "en": "Umm Salamah, wife of the Prophet (ﷺ)"
+      }
+    },
+    {
+      "hadithNumber": 3991,
+      "arabicNumber": 3991,
+      "book": 32,
+      "hadithInBook": 23,
+      "text": {
+        "arabic": "حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا هَارُونُ بْنُ مُوسَى النَّحْوِيُّ، عَنْ بُدَيْلِ بْنِ مَيْسَرَةَ، عَنْ عَبْدِ اللَّهِ بْنِ شَقِيقٍ، عَنْ عَائِشَةَ، - رضى الله تعالى عنها - قَالَتْ سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم يَقْرَؤُهَا ‏{‏ فَرُوحٌ وَرَيْحَانٌ ‏}‏ ‏.‏",
+        "translations": {
+          "en": "Narrated Aisha, Ummul Mu'minin: I heard the Messenger of Allah (ﷺ) read: \"(There is for him) Rest and satisfaction\" (faruhun wa rayhan)",
+          "ur": "ام المؤمنین عائشہ رضی اللہ عنہا کہتی ہیں کہ میں نے نبی اکرم صلی اللہ علیہ وسلم کو «فروح وريحان» تو عیش و آرام ہے ( سورۃ الواقعہ: ۸۹ ) ۱؎ ( راء کے پیش کے ساتھ ) پڑھتے ہوئے سنا۔",
+          "fr": "Rapporté par Aisha (la mère des croyants) رضي الله عنها : J’ai entendu le Messager d’Allah ﷺ réciter : « (Repos et satisfaction pour lui) » (faruhun wa rayhan)",
+          "tr": "Aişe (r.anha)nın şöyle dediği rivayet olunmuştur Ben, Nebi (s.a.v)'i (Vakıa suresinin 89. ayetinde geçen ve \"rahatlık ve güzel rızık\" anlamına gelen iki kelimeyi) ... (şeklinde) okurken işittim. Ebu İsa, bu hadis hakkında : \"Ebu Davud, bana bu hadisin münker olduğunu söyledi\" demiştir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 32,
+        "hadith": 23
+      },
+      "narrator": {
+        "en": "Aisha, Ummul Mu'minin"
+      }
+    },
+    {
+      "hadithNumber": 3992,
+      "arabicNumber": 3992,
+      "book": 32,
+      "hadithInBook": 24,
+      "text": {
+        "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ حَنْبَلٍ، وَأَحْمَدُ بْنُ عَبْدَةَ، قَالاَ حَدَّثَنَا سُفْيَانُ، عَنْ عَمْرٍو، عَنْ عَطَاءٍ، - قَالَ ابْنُ حَنْبَلٍ لَمْ أَفْهَمْهُ جَيِّدًا - عَنْ صَفْوَانَ، - قَالَ ابْنُ عَبْدَةَ ابْنِ يَعْلَى - عَنْ أَبِيهِ، قَالَ سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم عَلَى الْمِنْبَرِ يَقْرَأُ ‏{‏ وَنَادَوْا يَا مَالِكُ ‏}‏ ‏.‏ قَالَ أَبُو دَاوُدَ يَعْنِي بِلاَ تَرْخِيمٍ ‏.‏",
+        "translations": {
+          "en": "Safwan b. Ya'la quoting his father said:I heard the Prophet (ﷺ) read on the pulpit the verse: \"They will cry: O Malik.\" Abu Dawud said: That is, without shortening the name (Malik)",
+          "ur": "یعلیٰ بن امیہ۔ منیہ۔ رضی اللہ عنہ کہتے ہیں کہ میں نے نبی اکرم صلی اللہ علیہ وسلم کو منبر پر «ونادوا يا مالك» اور پکار پکار کہیں گے اے مالک! ( سورۃ الزخرف: ۷۷ ) پڑھتے سنا۔ ابوداؤد کہتے ہیں: یعنی بغیر ترخیم کے۔",
+          "fr": "Safwan b. Ya’la, citant son père, a dit : J’ai entendu le Prophète ﷺ réciter sur le minbar le verset : « Ils crieront : Ô Malik. » Abu Dawud a dit : C’est-à-dire, sans abréger le nom (Malik)",
+          "tr": "(Safvan b. Ya'la'nın) babası Ya'la b. Ümeyye el-Temimi'den rivayet olunmuştur; dedi ki: Ben Nebi (s.a.v)'i (\" Ey Malik! diye seslendiler\" mealindeki Zuhruf suresinin 77. ayetini) mimber üzerinde .... (şeklinde) okurken işittim. Ebû Davûd dedi ki: (Ravi, Hz. Nebi \"Malik\" kelimesini) terhimsiz olarak ( okudu) demek istiyor"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (4819) Sahih Muslim (871)"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 32,
+        "hadith": 24
+      }
+    },
+    {
+      "hadithNumber": 3993,
+      "arabicNumber": 3993,
+      "book": 32,
+      "hadithInBook": 25,
+      "text": {
+        "arabic": "حَدَّثَنَا نَصْرُ بْنُ عَلِيٍّ، أَخْبَرَنَا أَبُو أَحْمَدَ، أَخْبَرَنَا إِسْرَائِيلُ، عَنْ أَبِي إِسْحَاقَ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ يَزِيدَ، عَنْ عَبْدِ اللَّهِ، قَالَ أَقْرَأَنِي رَسُولُ اللَّهِ صلى الله عليه وسلم ‏{‏ إِنِّي أَنَا الرَّزَّاقُ ذُو الْقُوَّةِ الْمَتِينُ ‏}‏ ‏.‏",
+        "translations": {
+          "en": "Narrated Abdullah ibn Mas'ud: The Messenger of Allah (ﷺ) made me read the verse \"It is I who give (all) sustenance, Lord of power, steadfast (for ever)",
+          "ur": "عبداللہ بن مسعود رضی اللہ عنہ کہتے ہیں رسول اللہ صلی اللہ علیہ وسلم نے مجھے «إني أنا الرزاق ذو القوة المتين» ۱؎ پڑھایا ہے۔",
+          "fr": "Rapporté par Abdullah ibn Mas’ud : Le Messager d’Allah ﷺ m’a fait lire le verset : « C’est Moi qui accorde toute subsistance, Seigneur de la puissance, ferme à jamais. »",
+          "tr": "Abdullah (b. Mes'ud)'dan rivayet olunmuştur; dedi ki: Resulullah (sav) \"Şüphesiz rızık veren, sağlam kuvvet sahibi olan ancak Allah'dır\"[Zariyat 58] mealindeki ayet-i kerimeyi) bana okuttu"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 32,
+        "hadith": 25
+      },
+      "narrator": {
+        "en": "Abdullah ibn Mas'ud"
+      }
+    },
+    {
+      "hadithNumber": 3994,
+      "arabicNumber": 3994,
+      "book": 32,
+      "hadithInBook": 26,
+      "text": {
+        "arabic": "حَدَّثَنَا حَفْصُ بْنُ عُمَرَ، حَدَّثَنَا شُعْبَةُ، عَنْ أَبِي إِسْحَاقَ، عَنِ الأَسْوَدِ، عَنْ عَبْدِ اللَّهِ، أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ يَقْرَؤُهَا ‏{‏ فَهَلْ مِنْ مُدَّكِرٍ ‏}‏ يَعْنِي مُثَقَّلاً ‏.‏ قَالَ أَبُو دَاوُدَ مَضْمُومَةَ الْمِيمِ مَفْتُوحَةَ الدَّالِ مَكْسُورَةَ الْكَافِ ‏.‏",
+        "translations": {
+          "en": "Narrated Abdullah ibn Mas'ud: The Prophet (ﷺ) used to read the verse \"Is there any that will receive admonition (muddakir)? \" that is with doubling of consonant [(dal)(d)]. Abu Dawud said: The word muddakir may be pronounced as mim (m) with a short vowel u. (dal)(d) with a short vowel and kaf (k) with a short vowel i",
+          "ur": "عبداللہ بن مسعود رضی اللہ عنہ کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم «فهل من مدكر» تو کیا ہے کوئی نصیحت حاصل کرنے والا ( سورۃ الذاریات: ۵۸ ) ( یعنی دال کو مشدد ) پڑھتے تھے۔ ابوداؤد کہتے ہیں: «مُدَّكِّرٍ» میم کے ضمہ دال کے فتحہ اور کاف کے کسرہ کے ساتھ ہے۔",
+          "fr": "Rapporté par Abdullah ibn Mas’ud : Le Prophète ﷺ avait l’habitude de réciter le verset : « Y a-t-il quelqu’un pour se rappeler (muddakir) ? » avec le redoublement de la consonne (dal). Abu Dawud a dit : Le mot « muddakir » peut se prononcer avec mim (m) avec une voyelle brève u, dal (d) avec une voyelle brève, et kaf (k) avec une voyelle brève i",
+          "tr": "Abdullah b. Mes'ud'dan rivayet olunduğuna göre; Nebi (s.a.v.) (\"Öğüt alan yok mudur?)[Kamer 22] mealindeki ayet-i kerimeyi ... (şeklinde) yani (dal harfini) şeddeli olarak okumuştur. Ebu Davud dedi ki: kelimesinde mim ötreli, dal üstünlü, kaf da esrelidir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 32,
+        "hadith": 26
+      },
+      "narrator": {
+        "en": "Abdullah ibn Mas'ud"
+      }
+    },
+    {
+      "hadithNumber": 3995,
+      "arabicNumber": 3995,
+      "book": 32,
+      "hadithInBook": 27,
+      "text": {
+        "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ صَالِحٍ، حَدَّثَنَا عَبْدُ الْمَلِكِ بْنُ عَبْدِ الرَّحْمَنِ الذِّمَارِيُّ، حَدَّثَنَا سُفْيَانُ، حَدَّثَنِي مُحَمَّدُ بْنُ الْمُنْكَدِرِ، عَنْ جَابِرٍ، قَالَ رَأَيْتُ النَّبِيَّ صلى الله عليه وسلم يَقْرَأُ ‏{‏ يَحْسَبُ أَنَّ مَالَهُ أَخْلَدَهُ ‏}‏",
+        "translations": {
+          "en": "Narrated Jabir ibn Abdullah: I saw the Prophet (ﷺ) reading the verse; \"does he think that his wealth would make him last for ever?",
+          "ur": "جابر رضی اللہ عنہ کہتے ہیں میں نے نبی اکرم صلی اللہ علیہ وسلم کو «يحسب أن ماله أخلده» ۱؎ پڑھتے دیکھا ہے۔",
+          "fr": "Rapporté par Jabir ibn Abdullah : J’ai vu le Prophète ﷺ réciter le verset : « Pense-t-il que sa richesse le rendra immortel ? »",
+          "tr": "Cabir (r.a)'den rivayet olunmuştur; dedi ki: Ben, Nebi (s.a.v)'e \"Malınının kendisini ebedi yaşatacağını (şeklinde sanıyor\" [Humeze 3] ayet-i kerimesini) .... (şeklinde, yani yahsibu kelimesinin başına üstünlü elif getirerek) okurken gördüm"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 32,
+        "hadith": 27
+      },
+      "narrator": {
+        "en": "Jabir ibn Abdullah"
+      }
+    },
+    {
+      "hadithNumber": 3996,
+      "arabicNumber": 3996,
+      "book": 32,
+      "hadithInBook": 28,
+      "text": {
+        "arabic": "حَدَّثَنَا حَفْصُ بْنُ عُمَرَ، حَدَّثَنَا شُعْبَةُ، عَنْ خَالِدٍ، عَنْ أَبِي قِلاَبَةَ، عَمَّنْ أَقْرَأَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏{‏ فَيَوْمَئِذٍ لاَ يُعَذَّبُ عَذَابَهُ أَحَدٌ * وَلاَ يُوثَقُ وَثَاقَهُ أَحَدٌ ‏}‏ ‏.‏ قَالَ أَبُو دَاوُدَ بَعْضُهُمْ أَدْخَلَ بَيْنَ خَالِدٍ وَأَبِي قِلاَبَةَ رَجُلاً ‏.‏",
+        "translations": {
+          "en": "Narrated Abu Qilabah:That the Prophet (ﷺ) made a man read the verse: \"For, that day His chastisement will be such as none (else) can be chastised. And his bonds will be such as none (other) can be bound. Abu Dawud said: According to some (scholars), there is a narrator between the narrator Khalid and Abu Qilabah",
+          "ur": "ابوقلابہ ایک ایسے شخص سے جس کو رسول اللہ صلی اللہ علیہ وسلم نے پڑھایا ہے روایت کرتے ہیں ( کہ یہ آیت کریمہ اس طرح ہے ) «فيومئذ لا يعذب عذابه أحد * ولا يوثق وثاقه أحد» ۱؎۔ ابوداؤد کہتے ہیں: کچھ لوگوں نے خالد اور ابوقلابہ کے درمیان ایک مزید واسطہ داخل کیا ہے۔",
+          "fr": "Rapporté par Abu Qilabah : Le Prophète ﷺ a fait lire à un homme le verset : « Ce jour-là, Son châtiment sera tel que nul autre ne pourra châtier ainsi. Et Ses liens seront tels que nul autre ne pourra lier ainsi. » Abu Dawud a dit : Selon certains savants, il y a un narrateur entre Khalid et Abu Qilabah",
+          "tr": "Ebu Kılâbe'den (rivayet olunduğuna göre; Sahabilerden birine) Resulullah (s.a.)'in (\"O gün Allah'ın edeceği azabı hiç kimse edemez, onun vuracağı bağı kimse vuramaz”[Fecr 25-26.] ayetini) kendisine ... (şeklinde) okutmuştur. Ebu Davud~dedi ki: Bazıları Halid ile ebû Kılabe arasında bırravi sok­muşlardır"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 32,
+        "hadith": 28
+      },
+      "narrator": {
+        "en": "Abu Qilabah"
+      }
+    },
+    {
+      "hadithNumber": 3997,
+      "arabicNumber": 3997,
+      "book": 32,
+      "hadithInBook": 29,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عُبَيْدٍ، حَدَّثَنَا حَمَّادٌ، عَنْ خَالِدٍ الْحَذَّاءِ، عَنْ أَبِي قِلاَبَةَ، قَالَ أَنْبَأَنِي مَنْ، أَقْرَأَهُ النَّبِيُّ صلى الله عليه وسلم أَوْ مَنْ أَقْرَأَهُ مَنْ أَقْرَأَهُ النَّبِيُّ صلى الله عليه وسلم ‏{‏ فَيَوْمَئِذٍ لاَ يُعَذَّبُ ‏}‏ ‏.‏ قَالَ أَبُو دَاوُدَ قَرَأَ عَاصِمٌ وَالأَعْمَشُ وَطَلْحَةُ بْنُ مُصَرِّفٍ وَأَبُو جَعْفَرٍ يَزِيدُ بْنُ الْقَعْقَاعِ وَشَيْبَةُ بْنُ نَصَّاحٍ وَنَافِعُ بْنُ عَبْدِ الرَّحْمَنِ وَعَبْدُ اللَّهِ بْنُ كَثِيرٍ الدَّارِيُّ وَأَبُو عَمْرِو بْنِ الْعَلاَءِ وَحَمْزَةُ الزَّيَّاتُ وَعَبْدُ الرَّحْمَنِ الأَعْرَجُ وَقَتَادَةُ وَالْحَسَنُ الْبَصْرِيُّ وَمُجَاهِدٌ وَحُمَيْدٌ الأَعْرَجُ وَعَبْدُ اللَّهِ بْنُ عَبَّاسٍ وَعَبْدُ الرَّحْمَنِ بْنُ أَبِي بَكْرٍ ‏{‏ لاَ يُعَذِّبُ ‏}‏ ‏{‏ وَلاَ يُوثِقُ ‏}‏ إِلاَّ الْحَدِيثَ الْمَرْفُوعَ فَإِنَّهُ ‏{‏ يُعَذَّبُ ‏}‏ بِالْفَتْحِ ‏.‏",
+        "translations": {
+          "en": "Narrated Abu Qilabah: A man whom the Prophet (ﷺ) made the following verse read informed me, or he was informed by a man whom a man made the following verse read through a man whom the Prophet (ﷺ) made the following verse read: \"For, that day His chastisement will be such as none (else) can be inflicted (la yu'adhdhabu) Abu Dawud said: 'Asim, al-A'mash, Talhah b. Musarrif, Abu Ja'far Yazid b. al-Qa'qa', Shaibah b. Nassah, Nafi' b. 'Abd al-Rahman, 'Abd Allah b. Kathir al-Dari, Abu 'Amr b. al-'Ala', Hamzat al-Zayyat, 'Abd al-Rahman al-A'raj, Qatadah, al-Hasan al-Basri, Mujahid, Hamid al=A'raj, Abd Allah b. 'Abbas and 'Abd al-Rahman b. Abi Bakr recited: \"For,that day His chastisement will be such as none (else) can inflict (la ya'adhdhibu), and His bonds will be such as none (other) can bind (wa la yathiqu), except the verse mentioned in this tradition from the Prophet (ﷺ). It has een read yu'adhdhabu with short vowel a in passive voice",
+          "ur": "ابوقلابہ کہتے ہیں: مجھے ایک ایسے شخص نے خبر دی ہے جسے نبی اکرم صلی اللہ علیہ وسلم نے پڑھایا ہے یا جسے ایک ایسے شخص نے پڑھایا ہے جسے نبی اکرم صلی اللہ علیہ وسلم نے پڑھا یا ہے کہ «فيومئذ لا يعذب» ( مجہول کے صیغہ کے ساتھ ) ہے۔ ابوداؤد کہتے ہیں: عاصم، اعمش، طلحہ بن مصرف، ابوجعفر یزید بن قعقاع، شیبہ بن نصاح، نافع بن عبدالرحمٰن، عبداللہ بن کثیر داری، ابوعمرو بن علاء، حمزہ زیات، عبدالرحمٰن اعرج، قتادہ، حسن بصری، مجاہد، حمید اعرج، عبداللہ بن عباس اور عبدالرحمٰن بن ابی بکر نے «لا يعذب ‏ولا يوثق‏» صیغہ معروف کے ساتھ پڑھا ہے مگر مرفوع روایت میں «يعذب» ( ذال کے فتحہ کے ساتھ ) ہے۔",
+          "fr": "Rapporté par Abu Qilabah : Un homme à qui le Prophète ﷺ a fait lire le verset m’a informé, ou il a été informé par un homme à qui un autre homme a fait lire ce verset, par l’intermédiaire d’un homme à qui le Prophète ﷺ a fait lire ce verset : « Ce jour-là, Son châtiment sera tel que nul autre ne pourra infliger (la yu’adhdhabu). » Abu Dawud a dit : ‘Asim, al-A’mash, Talhah b. Musarrif, Abu Ja’far Yazid b. al-Qa’qa’, Shaibah b. Nassah, Nafi’ b. ‘Abd al-Rahman, ‘Abd Allah b. Kathir al-Dari, Abu ‘Amr b. al-‘Ala’, Hamzat al-Zayyat, ‘Abd al-Rahman al-A’raj, Qatadah, al-Hasan al-Basri, Mujahid, Hamid al-A’raj, Abd Allah b. ‘Abbas et ‘Abd al-Rahman b. Abi Bakr ont récité : « Ce jour-là, Son châtiment sera tel que nul autre ne pourra infliger (la ya’adhdhibu), et Ses liens seront tels que nul autre ne pourra lier (wa la yathiqu) », sauf le verset mentionné dans ce récit du Prophète ﷺ. Il a été lu « yu’adhdhabu » avec une voyelle brève a à la forme passive",
+          "tr": "Ebu Kılabe'den rivayet okunuştur: Nebi (s.a.v)'in okuttuğu, yuhutta okutduğunun okuttuğu gibi kimun Allah'ın edeceği azabı kimse etmez\"[Fecr 25] ayetinin) ... (şeklinde) okunacağı bana haber verdi. Ebu Davud dedi ki: (Bu hadiste geçen kelimelerini Âsim ile A'meş, Talha b. Musarrıf, Ebû Cafer, Yezid b. el-Ka'ka, Şeybe b. Nassâh] Nâfî b. Abdurrahman, Abdullah b. Kesîr ed-Dârî, Ebû Amr b. el-Alâ, Hamza ez,Zeyyâd, Abdurrahman cl-A'rac, Katâde. Hasan-ı Basıl, Miicâhid, Humeyd el-A'rac, Abdullah b. Abbas. Abdurrahman b. Ebû Bekı ye okumuşlardır. Ancak kelimesindeki zal'ın fethalı okunacağına dair de merfu bir hadis vardır"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 32,
+        "hadith": 29
+      },
+      "narrator": {
+        "en": "Abu Qilabah"
+      }
+    },
+    {
+      "hadithNumber": 3998,
+      "arabicNumber": 3998,
+      "book": 32,
+      "hadithInBook": 30,
+      "text": {
+        "arabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، وَمُحَمَّدُ بْنُ الْعَلاَءِ، أَنَّ مُحَمَّدَ بْنَ أَبِي عُبَيْدَةَ، حَدَّثَهُمْ قَالَ حَدَّثَنَا أَبِي، عَنِ الأَعْمَشِ، عَنْ سَعْدٍ الطَّائِيِّ، عَنْ عَطِيَّةَ الْعَوْفِيِّ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، قَالَ حَدَّثَ رَسُولُ اللَّهِ صلى الله عليه وسلم حَدِيثًا ذَكَرَ فِيهِ ‏ \"‏ جِبْرِيلَ وَمِيكَالَ ‏\"‏ ‏.‏ فَقَرَأَ ‏{‏ جِبْرَائِلَ وَمِيكَائِلَ ‏}‏ ‏.‏ قَالَ أَبُو دَاوُدَ قَالَ خَلَفٌ مُنْذُ أَرْبَعِينَ سَنَةً لَمْ أَرْفَعِ الْقَلَمَ عَنْ كِتَابَةِ الْحُرُوفِ مَا أَعْيَانِي شَىْءٌ مَا أَعْيَانِي جِبْرَائِلُ وَمِيكَائِلُ ‏.‏",
+        "translations": {
+          "en": "Narrated AbuSa'id al-Khudri: The Messenger of Allah (ﷺ) related a tradition in which he mentioned the words \"Jibril and Mikal\" and he pronounced them \"Jibra'ila wa Mika'ila.\" Abu Dawud said: Khalaf said: I did not put the pen aside from writing letters (huruf) for forty years: nothing tired me (or made me incapable of writing), even Jibril and Mika'il did not tire me",
+          "ur": "ابو سعید خدری رضی اللہ عنہ کہتے ہیں رسول اللہ صلی اللہ علیہ وسلم نے ایک حدیث بیان فرمائی جس میں جبرائیل و میکال کا ذکر تھا تو آپ صلی اللہ علیہ وسلم نے جبرائل و میکائل پڑھا۔ ابوداؤد کہتے ہیں: خلف کا بیان ہے میں چالیس سال سے برابر لکھ رہا ہوں لیکن جبرائل و میکائل لکھنے میں مجھے جتنی دشواری ہوئی ہے کسی اور چیز میں نہیں۔",
+          "fr": "Rapporté par Abu Sa’id al-Khudri : Le Messager d’Allah ﷺ a rapporté un récit dans lequel il a mentionné les mots « Jibril et Mikal » et il les a prononcés « Jibra’ila wa Mika’ila ». Abu Dawud a dit : Khalaf a dit : Je n’ai jamais cessé d’écrire des lettres (huruf) pendant quarante ans : rien ne m’a fatigué (ou empêché d’écrire), même Jibril et Mika’il ne m’ont pas fatigué",
+          "tr": "Ebû Saîd el-Hudrî (r.a)'den rivayet olunmuştur; dedi ki: Resulullah (s.a.v.), içerisinde bahsettiği bir söz söyledi.(Hz. Ebû Said sözlerine devam ederek şöyle dedi: (Hz. Peygamber bu iki meleğin ismini) Cebrail) ve Mikail diye okudu. Ebu Davud dedi ki: Halef, (bu kelimelerin okunuşu konusunda şöyle) dedi: Ben kırk senedir harfleri yazmaktan kalemimi kaldırmış değilim. Beni (kelimeleri) kadar hiçbir kelime yormadı"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 32,
+        "hadith": 30
+      },
+      "narrator": {
+        "en": "AbuSa'id al-Khudri"
+      }
+    },
+    {
+      "hadithNumber": 3999,
+      "arabicNumber": 3999,
+      "book": 32,
+      "hadithInBook": 31,
+      "text": {
+        "arabic": "حَدَّثَنَا زَيْدُ بْنُ أَخْزَمَ، حَدَّثَنَا بِشْرٌ، - يَعْنِي ابْنَ عُمَرَ - حَدَّثَنَا مُحَمَّدُ بْنُ خَازِمٍ، قَالَ ذُكِرَ كَيْفَ قِرَاءَةُ جِبْرَائِلَ وَمِيكَائِلَ عِنْدَ الأَعْمَشِ فَحَدَّثَنَا الأَعْمَشُ عَنْ سَعْدٍ الطَّائِيِّ عَنْ عَطِيَّةَ الْعَوْفِيِّ عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ قَالَ ذَكَرَ رَسُولُ اللَّهِ صلى الله عليه وسلم صَاحِبَ الصُّورِ فَقَالَ ‏ \"‏ عَنْ يَمِينِهِ جِبْرَائِلُ وَعَنْ يَسَارِهِ مِيكَائِلُ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Narrated AbuSa'id al-Khudri: The Messenger of Allah (ﷺ) mentioned the name of the one who will sound the trumpet (sahib as-sur) and said: On his right will be Jibra'il and on his left will be Mika'il",
+          "ur": "ابو سعید خدری رضی اللہ عنہ کہتے ہیں رسول اللہ صلی اللہ علیہ وسلم نے اس فرشتہ کا ذکر کیا جو صور لیے کھڑا ہے تو فرمایا: اس کے داہنی جانب جبرائل ہیں اور بائیں جانب میکائل ہیں ۔",
+          "fr": "Rapporté par Abu Sa’id al-Khudri : Le Messager d’Allah ﷺ a mentionné le nom de celui qui soufflera dans la trompe (sahib as-sur) et a dit : À sa droite se tiendra Jibril et à sa gauche Mika’il",
+          "tr": "Ebu Said el-Hudrî'den rivayet olunmuştur; dedi ki: Resulullah (s.a.v) Sur sahibinden bahsetti ve, \"(Onun) sağında Cebrail solunda da Mikâil vardır.\" buyurdu"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 32,
+        "hadith": 31
+      },
+      "narrator": {
+        "en": "AbuSa'id al-Khudri"
+      }
+    },
+    {
+      "hadithNumber": 4000,
+      "arabicNumber": 4000,
+      "book": 32,
+      "hadithInBook": 32,
+      "text": {
+        "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ حَنْبَلٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، قَالَ مَعْمَرٌ وَرُبَّمَا ذَكَرَ ابْنَ الْمُسَيَّبِ قَالَ كَانَ النَّبِيُّ صلى الله عليه وسلم وَأَبُو بَكْرٍ وَعُمَرُ وَعُثْمَانُ يَقْرَءُونَ ‏{‏ مَالِكِ يَوْمِ الدِّينِ ‏}‏ وَأَوَّلُ مَنْ قَرَأَهَا ‏{‏ مَلِكِ يَوْمِ الدِّينِ ‏}‏ مَرْوَانُ ‏.‏ قَالَ أَبُو دَاوُدَ هَذَا أَصَحُّ مِنْ حَدِيثِ الزُّهْرِيِّ عَنْ أَنَسٍ وَالزُّهْرِيِّ عَنْ سَالِمٍ عَنْ أَبِيهِ ‏.‏",
+        "translations": {
+          "en": "Narrated Ibn al-Musayyab: The Prophet (ﷺ), AbuBakr, Umar and Uthman used to read \"maliki yawmid-din (master of the Day of Judgment)\". The first to read maliki yawmid-din was Marwan. Abu Dawud said: This is sounder that the tradition which transmitted by al-Zuhri from Anas, and al-Zuhri from Salim, from his father (Ibn 'Umar)",
+          "ur": "عبدالرزاق کہتے ہیں ہمیں معمر نے زہری کے واسطہ سے خبر دی ہے اور معمر نے کبھی کبھی زہری کے بجائے ابن مسیب کا ذکر کیا ہے، وہ کہتے ہیں نبی اکرم صلی اللہ علیہ وسلم ابوبکر و عمر اور عثمان «مَالِكِ يَوْمِ الدِّينِ» پڑھتے تھے اور «مَلِكِ يَوْمِ الدِّينِ» سب سے پہلے مروان نے پڑھا ہے۔ ابوداؤد کہتے ہیں: یہ مرسل سند زہری کی حدیث سے جو انس رضی اللہ عنہ سے مروی ہے نیز زہری کی اس حدیث سے جو سالم سے مروی ہے اور وہ اپنے والد سے روایت کرتے ہیں زیادہ صحیح ہے۔",
+          "fr": "Rapporté par Ibn al-Musayyab : Le Prophète ﷺ, Abu Bakr, Omar et Uthman récitaient : « maliki yawmid-din » (Maître du Jour du Jugement). Le premier à réciter « maliki yawmid-din » fut Marwan. Abu Dawud a dit : Ceci est plus authentique que le récit transmis par al-Zuhri d’après Anas, et al-Zuhri d’après Salim, d’après son père (Ibn ‘Umar)",
+          "tr": "İbnü'l-Müseyyeb dedi ki: Nebi (s.a.v) ile Ebu Bekir, Ömer ve Osman (r.a), (\"Din gününün sahibi\"[Fatiha 3] mealindeki ayet-i kerimeyi) ... (şeklinde) okumuşlardır. (Bu hadisin ravilerinden İbn Şihâb'ez Zührî) dedi ki: (Bu ayet-i kerimeyi) ilk defa \"Meliki yevmiddin\" şeklinde okuyan Mervan'dır. Ebu Davud dedi ki: (Mürsel olarak rivayet edilen) bu hadis, Zühri'nin (bu mevzuda) Enes'den rivayet ettiği hadisten de Salim vasıtasıyla Abdul­lah b. Ömer'den rivayet ettiği hadisten de sağlamdır"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 32,
+        "hadith": 32
+      },
+      "narrator": {
+        "en": "Ibn al-Musayyab"
+      }
+    },
+    {
+      "hadithNumber": 4001,
+      "arabicNumber": 4001,
+      "book": 32,
+      "hadithInBook": 33,
+      "text": {
+        "arabic": "حَدَّثَنَا سَعِيدُ بْنُ يَحْيَى الأُمَوِيُّ، حَدَّثَنِي أَبِي، حَدَّثَنَا ابْنُ جُرَيْجٍ، عَنْ عَبْدِ اللَّهِ بْنِ أَبِي مُلَيْكَةَ، عَنْ أُمِّ سَلَمَةَ، أَنَّهَا ذَكَرَتْ - أَوْ كَلِمَةً غَيْرَهَا - قِرَاءَةَ رَسُولِ اللَّهِ صلى الله عليه وسلم ‏{‏ بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ * الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ * الرَّحْمَنِ الرَّحِيمِ * مَلِكِ يَوْمِ الدِّينِ ‏}‏ يَقْطَعُ قِرَاءَتَهُ آيَةً آيَةً ‏.‏ قَالَ أَبُو دَاوُدَ سَمِعْتُ أَحْمَدَ يَقُولُ الْقِرَاءَةُ الْقَدِيمَةُ ‏{‏ مَالِكِ يَوْمِ الدِّينِ ‏}‏ ‏.‏",
+        "translations": {
+          "en": "Narrated Umm Salamah, Ummul Mu'minin: The Messenger of Allah (ﷺ) used to recite: \"In the name of Allah, the Cherisher and Sustainer of the worlds; most Gracious, most Merciful; Master of the Day of Judgment,\" breaking its recitation into verses, one after another. Abu Dawud said: I heard Ahmad (b. Hanbal) say: The early reading is: Maliki yawmi'l-din",
+          "ur": "ام المؤمنین ام سلمہ رضی اللہ عنہا سے روایت ہے کہ انہوں نے ذکر کیا یا اس کے علاوہ راوی نے کوئی اور کلمہ کہا کہ رسول اللہ صلی اللہ علیہ وسلم کی قرآت یوں ہوتی «بسم الله الرحمن الرحيم * الحمد لله رب العالمين * الرحمن الرحيم * ملك يوم الدين» آپ ہر ہر آیت الگ الگ پڑھتے تھے ( ایک آیت کو دوسری آیت میں ملاتے نہیں تھے ) ۔ ابوداؤد کہتے ہیں: میں نے احمد کو کہتے سنا ہے کہ پرانی قرآت «مَالِكِ يَوْمِ الدِّينِ» ہے۔",
+          "fr": "Rapporté par Umm Salamah (la mère des croyants) رضي الله عنها : Le Messager d’Allah ﷺ récitait : « Au nom d’Allah, le Maître et Soutien des mondes ; le Tout Miséricordieux, le Très Miséricordieux ; Maître du Jour du Jugement », en séparant chaque verset les uns après les autres. Abu Dawud a dit : J’ai entendu Ahmad (ibn Hanbal) dire : La première lecture est : Maliki yawmi’l-din",
+          "tr": "İbn Cüreyc'in Abdullah b. Müleyk'den yaptığı rivayete gere; Ümmü Seleme Resulullah (s.a.v)'in (Kur'an-ı Kerim) okuyuşunu (şöyle) zikretmiştir: Ravilerden biri, \"zikretmiştir\" kelimesinde tereddüt etmiştir (Ümmü Seleme sözlerine şöyle devam etti: Resuluîlah (s.a.v); ... (ayetlerini) okurken herbir ayetin sonunda kıraatına ara verirdi. (Ebû Dâvûd dedi ki: Ben Ahmed'i \"Eski (den beri okunagelen) kıraat (şekli) \"Mâliki yevmiddin\" (şekli) dır\" derken işittim"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 32,
+        "hadith": 33
+      },
+      "narrator": {
+        "en": "Umm Salamah, Ummul Mu'minin"
+      }
+    },
+    {
+      "hadithNumber": 4002,
+      "arabicNumber": 4002,
+      "book": 32,
+      "hadithInBook": 34,
+      "text": {
+        "arabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، وَعُبَيْدُ اللَّهِ بْنُ عُمَرَ بْنِ مَيْسَرَةَ، - الْمَعْنَى - قَالاَ حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، عَنْ سُفْيَانَ بْنِ حُسَيْنٍ، عَنِ الْحَكَمِ بْنِ عُتَيْبَةَ، عَنْ إِبْرَاهِيمَ التَّيْمِيِّ، عَنْ أَبِيهِ، عَنْ أَبِي ذَرٍّ، قَالَ كُنْتُ رَدِيفَ رَسُولِ اللَّهِ صلى الله عليه وسلم وَهُوَ عَلَى حِمَارٍ وَالشَّمْسُ عِنْدَ غُرُوبِهَا فَقَالَ ‏\"‏ هَلْ تَدْرِي أَيْنَ تَغْرُبُ هَذِهِ ‏\"‏ ‏.‏ قُلْتُ اللَّهُ وَرَسُولُهُ أَعْلَمُ ‏.‏ قَالَ ‏\"‏ فَإِنَّهَا تَغْرُبُ فِي عَيْنِ حَامِيَةٍ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Narrated Abu Dharr:I was sitting behind the Messenger of Allah (ﷺ) who was riding a donkey while the sun was setting. He asked: Do you know where this sets ? I replied: Allah and his Apostle know best. He said: It sets in a spring of warm water (Hamiyah)",
+          "ur": "ابوذر رضی اللہ عنہ کہتے ہیں کہ میں رسول اللہ صلی اللہ علیہ وسلم کا ردیف تھا آپ ایک گدھے پر سوار تھے اور غروب شمس کا وقت تھا، آپ صلی اللہ علیہ وسلم نے فرمایا: کیا تمہیں معلوم ہے کہ یہ کہاں ڈوبتا ہے؟ میں نے عرض کیا: اللہ اور اس کے رسول زیادہ جانتے ہیں، آپ صلی اللہ علیہ وسلم نے فرمایا: «فإنها تغرب في عين حامية‏ ‏» یہ ایک گرم چشمہ میں ڈوبتا ہے ( سورۃ الکہف: ۸۶ ) ۱؎۔",
+          "fr": "Rapporté par Abu Dharr رضي الله عنه : J’étais assis derrière le Messager d’Allah ﷺ qui montait un âne alors que le soleil se couchait. Il m’a demandé : « Sais-tu où il se couche ? » J’ai répondu : « Allah et Son Messager savent mieux. » Il a dit : « Il se couche dans une source d’eau chaude (Hamiyah). »",
+          "tr": "Ebu Zer' (r.a)'den şöyle dediği rivayet olunmuştur; Ben merkebe binmiş bulunan Resulullah (s.a.v)'in terkisinde idim Güneş batıyordu. (Bana); \"Bu (güneş) nereye batıyor biliyor musun?\" dedi. Ben: - Allah ve Resulü daha iyi bilir, dedim. \" Kuşkusuz o kızgın bir pınara batıyor\" buyurdu"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (3199، 4802، 4803) Sahih Muslim (159)"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 32,
+        "hadith": 34
+      },
+      "narrator": {
+        "en": "Abu Dharr"
+      }
+    },
+    {
+      "hadithNumber": 4003,
+      "arabicNumber": 4003,
+      "book": 32,
+      "hadithInBook": 35,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عِيسَى، حَدَّثَنَا حَجَّاجٌ، عَنِ ابْنِ جُرَيْجٍ، قَالَ أَخْبَرَنِي عُمَرُ بْنُ عَطَاءٍ، أَنَّ مَوْلًى، لاِبْنِ الأَسْقَعِ - رَجُلَ صِدْقٍ - أَخْبَرَهُ عَنِ ابْنِ الأَسْقَعِ أَنَّهُ سَمِعَهُ يَقُولُ إِنَّ النَّبِيَّ صلى الله عليه وسلم جَاءَهُمْ فِي صُفَّةِ الْمُهَاجِرِينَ فَسَأَلَهُ إِنْسَانٌ أَىُّ آيَةٍ فِي الْقُرْآنِ أَعْظَمُ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ ‏{‏ اللَّهُ لاَ إِلَهَ إِلاَّ هُوَ الْحَىُّ الْقَيُّومُ لاَ تَأْخُذُهُ سِنَةٌ وَلاَ نَوْمٌ ‏}‏ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Narrated Ibn al-Asqa':The Prophet (ﷺ) came to them in the swelling place of immigrants and a man asked him: Which is the greatest verse of the Qur'an ? The Prophet (ﷺ) replied: Allah, there is no god but He - the Living, the Self-Subsisting Eternal. No slumber can seize Him nor sleep",
+          "ur": "واثلہ بن الاسقع بکری رضی اللہ عنہ کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم ان کے پاس مہاجرین کے صفے میں آئے تو آپ سے ایک شخص نے پوچھا: قرآن کی سب سے بڑی آیت کون سی ہے؟ تو نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: «الله لا إله إلا هو الحى القيوم لا تأخذه سنة ولا نوم» اللہ ہی معبود برحق ہے اس کے علاوہ کوئی معبود نہیں وہ زندہ ہے اور سب کو تھامنے والا ہے، اسے نہ اونگھ آئے نہ نیند ( سورۃ البقرہ: ۲۵۵ ) ہے۔",
+          "fr": "Rapporté par Ibn al-Asqa’ رضي الله عنه : Le Prophète ﷺ est venu vers eux à l’endroit où se trouvaient les immigrés, et un homme lui a demandé : « Quel est le plus grand verset du Coran ? » Le Prophète ﷺ a répondu : « Allah, il n’y a pas de divinité en dehors de Lui – le Vivant, Celui qui subsiste par Lui-même. Ni la somnolence ni le sommeil ne Le saisissent. »",
+          "tr": "İbnü'l-Eska'dân rivayet olunmuştur; dedi ki: Nebi (s.a.v), Muhacirlerin (fakirlerinden oluşan) Soffa ehlini ziyaret etmiş. (Onlardan} birisi Hz. Nebi'e, Kur'an-ı Kerim'de en büyük ayet hangisidir? diye sormuş. Nebi (s.a.v) de ... (Ayete'l-kürsi) dir, diye cevap vermiş"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 32,
+        "hadith": 35
+      },
+      "narrator": {
+        "en": "Ibn al-Asqa'"
+      }
+    },
+    {
+      "hadithNumber": 4004,
+      "arabicNumber": 4004,
+      "book": 32,
+      "hadithInBook": 36,
+      "text": {
+        "arabic": "حَدَّثَنَا أَبُو مَعْمَرٍ عَبْدُ اللَّهِ بْنُ عَمْرِو بْنِ أَبِي الْحَجَّاجِ الْمِنْقَرِيُّ، حَدَّثَنَا عَبْدُ الْوَارِثِ، حَدَّثَنَا شَيْبَانُ، عَنِ الأَعْمَشِ، عَنْ شَقِيقٍ، عَنِ ابْنِ مَسْعُودٍ، أَنَّهُ قَرَأَ ‏{‏ هَيْتَ لَكَ ‏}‏ فَقَالَ شَقِيقٌ إِنَّا نَقْرَؤُهَا ‏{‏ هِئْتُ لَكَ ‏}‏ يَعْنِي فَقَالَ ابْنُ مَسْعُودٍ أَقْرَؤُهَا كَمَا عُلِّمْتُ أَحَبُّ إِلَىَّ ‏.‏",
+        "translations": {
+          "en": "Narrated Shariq:Ibn Mas'ud said read the verse: \"Now come, thou\" (haita laka). Then Shariq said: We read it, \"hi'tu laka\" (I am prepared for thee). Ibn Mas'ud said: I read it as I have been taught ; it is dearer to me",
+          "ur": "عبداللہ بن مسعود رضی اللہ عنہ سے روایت ہے کہ انہوں نے «هَيْتَ لَكَ» ۱؎ پڑھا تو ابووائل شقیق بن سلمہ نے عرض کیا: ہم تو اسے«هِئْتُ لَكَ» پڑھتے ہیں تو ابن مسعود رضی اللہ عنہ نے کہا: جیسے مجھے سکھایا گیا ہے اسی طرح پڑھنا مجھے زیادہ محبوب ہے۔",
+          "fr": "Rapporté par Shariq رضي الله عنه : Ibn Mas’ud a lu le verset : « Maintenant viens, toi » (haita laka). Puis Shariq a dit : « Nous le lisons : “hi’tu laka” (je suis prêt pour toi). » Ibn Mas’ud a dit : « Je le lis comme on me l’a enseigné ; c’est ce que je préfère. »",
+          "tr": "Şekîk'den rivayet olunduğuna göre; İbn Mes'ud (r.a) (\"... haydi gelsene\"[Yusuf 23] mealindeki ayet-i kerimeyi .. (şeklinde) okumuştur. Şakîk dedi ki: \"Biz(se) bu ayet-i kerimeyi ... seklinde okuyoruz.\" (Şakik bu sözüyle) \"İbn Mes'ud, (benim bu kelimeyi bana öğretildiği gibi okumam daha çok hoşuma gidiyor) dedi,\" demek istiyor"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (4692)"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 32,
+        "hadith": 36
+      },
+      "narrator": {
+        "en": "Shariq"
+      }
+    },
+    {
+      "hadithNumber": 4005,
+      "arabicNumber": 4005,
+      "book": 32,
+      "hadithInBook": 37,
+      "text": {
+        "arabic": "حَدَّثَنَا هَنَّادٌ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ، عَنْ شَقِيقٍ، قَالَ قِيلَ لِعَبْدِ اللَّهِ إِنَّ أُنَاسًا يَقْرَءُونَ هَذِهِ الآيَةَ ‏{‏ وَقَالَتْ هِيتَ لَكَ ‏}‏ فَقَالَ إِنِّي أَقْرَأُ كَمَا عُلِّمْتُ أَحَبُّ إِلَىَّ ‏{‏ وَقَالَتْ هَيْتَ لَكَ ‏}‏ ‏.‏",
+        "translations": {
+          "en": "Narrated Shariq:'Abd Allah (b. Mas'ud) was told that the people had read this verse: \"She said: Now come, thou\" (hita laka). He said: I read it as I have been taught ; it is dearer to me. It goes \"wa qalat haita laka\" (She said: Now come thou)",
+          "ur": "ابووائل شقیق بن سلمہ کہتے ہیں عبداللہ بن مسعود رضی اللہ عنہ سے کہا گیا کہ کچھ لوگ اس آیت کو «وَقَالَتْ هِيتَ لَكَ» پڑھتے ہیں تو انہوں نے کہا: جیسے مجھے سکھایا گیا ہے ویسے ہی پڑھنا مجھے زیادہ پسند ہے «وَقَالَتْ هَيْتَ لَكَ» ۔",
+          "fr": "Rapporté par Shariq رضي الله عنه : On a dit à ‘Abd Allah (ibn Mas’ud) que les gens lisaient ce verset : « Elle dit : Maintenant viens, toi » (hita laka). Il a dit : « Je le lis comme on me l’a enseigné ; c’est ce que je préfère. Cela se lit : “wa qalat haita laka” (Elle dit : Maintenant viens, toi). »",
+          "tr": "Şakîk'den rivayet olunmuştur; dedi ki: Abdullah (b. Mes'ud)'a \"Bazı kimseler şu ^'Haydi gelsene\" dedi. Ayetini denildi de o: \"Kuşkusuz bana öğretildiği gibi ... (şeklinde) okumam bana (onların okuduğu gibi okumamdan) daha sevimlidir) karşılığını verdi"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 32,
+        "hadith": 37
+      },
+      "narrator": {
+        "en": "Shariq"
+      }
+    },
+    {
+      "hadithNumber": 4006,
+      "arabicNumber": 4006,
+      "book": 32,
+      "hadithInBook": 38,
+      "text": {
+        "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ صَالِحٍ، قَالَ حَدَّثَنَا ح، وَحَدَّثَنَا سُلَيْمَانُ بْنُ دَاوُدَ الْمَهْرِيُّ، أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنَا هِشَامُ بْنُ سَعْدٍ، عَنْ زَيْدِ بْنِ أَسْلَمَ، عَنْ عَطَاءِ بْنِ يَسَارٍ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ قَالَ اللَّهُ عَزَّ وَجَلَّ لِبَنِي إِسْرَائِيلَ ‏{‏ ادْخُلُوا الْبَابَ سُجَّدًا وَقُولُوا حِطَّةٌ تُغْفَرْ لَكُمْ خَطَايَاكُمْ ‏}‏ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Narrated Abu Sa’id Al Khudri :The Messenger of Allah (ﷺ) said: Allah, the Exalted, said to the children of Israel : \"... but enter the gate with humility, in posture and in words, and you will be forgiven your faults (tughfar lakum)",
+          "ur": "ابو سعید خدری رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: اللہ عزوجل نے بنی اسرائیل سے فرمایا: «ادخلوا الباب سجدا وقولوا حطة تغفر لكم خطاياكم‏» اور دروازے میں سجدہ کرتے ہوئے داخل ہوو اور زبان سے «حطة» کہو تمہارے گناہ بخش دیئے جائیں گے ( سورۃ البقرہ: ۵۸ ) ۱؎ ( بصیغہ واحد مونث غائب مضارع مجہول ) ۔",
+          "fr": "Rapporté par Abu Sa’id Al Khudri رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Allah, le Très-Haut, a dit aux enfants d’Israël : “… mais entrez par la porte avec humilité, dans votre attitude et vos paroles, et vos fautes vous seront pardonnées (tughfar lakum).” »",
+          "tr": "Ebû Sâid el-Hudrî'den rivayet olunduğuna göre; Resulullah (s.a.v), (\"Secde ederek kapıdan girin ve hitta (yarabbi bizi affet) deyin ki, biz de sizin hatalarınızı bağışlayalım\"[Bakara 58] ayeti kerimeşini Allah teâlâ İsrail oğullarına buyurdu ki diye söze başlayarak ... şeklinde okudu"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 32,
+        "hadith": 38
+      },
+      "narrator": {
+        "en": "Abu Sa’id Al Khudri"
+      }
+    },
+    {
+      "hadithNumber": 4007,
+      "arabicNumber": 4007,
+      "book": 32,
+      "hadithInBook": 39,
+      "text": {
+        "arabic": "حَدَّثَنَا جَعْفَرُ بْنُ مُسَافِرٍ، حَدَّثَنَا ابْنُ أَبِي فُدَيْكٍ، عَنْ هِشَامِ بْنِ سَعْدٍ، بِإِسْنَادِهِ مِثْلَهُ ‏.‏",
+        "translations": {
+          "en": "The tradition mentioned above has also been transmitted by Hisham b. Sa'd with a different chain of narrators in a similar way",
+          "ur": "اس سند سے بھی ہشام بن سعد سے اسی کے مثل مروی ہے",
+          "fr": "La tradition mentionnée ci-dessus a aussi été transmise par Hisham b. Sa’d avec une autre chaîne de rapporteurs, de façon similaire",
+          "tr": "(Bir önceki 4006. hadisin) bir benzeri de yine Zeyd b. Eşlem yoluyla Hişâm b. Sa'd'dan rivayet olunmuştur"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 32,
+        "hadith": 39
+      }
+    },
+    {
+      "hadithNumber": 4008,
+      "arabicNumber": 4008,
+      "book": 32,
+      "hadithInBook": 40,
+      "text": {
+        "arabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا حَمَّادٌ، حَدَّثَنَا هِشَامُ بْنُ عُرْوَةَ، عَنْ عُرْوَةَ، أَنَّ عَائِشَةَ، - رضى الله عنها - قَالَتْ نَزَلَ الْوَحْىُ عَلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَرَأَ عَلَيْنَا ‏{‏ سُورَةٌ أَنْزَلْنَاهَا وَفَرَضْنَاهَا ‏}‏ ‏.‏ قَالَ أَبُو دَاوُدَ يَعْنِي مُخَفَّفَةً حَتَّى أَتَى عَلَى هَذِهِ الآيَاتِ ‏.‏",
+        "translations": {
+          "en": "Narrated 'Aishah: The revelation came down to Messenger of Allah (ﷺ) and he recited to is: \"A surah which We have sent down and which We have ordained (faradnaha)\" Abu Dawud said: The letter ra (r) is the word faradnaha has short vowel a (with out doubling of consonant r), and then he reached the verses after this verse",
+          "ur": "ام المؤمنین عائشہ رضی اللہ عنہا کہتی ہیں کہ رسول اللہ صلی اللہ علیہ وسلم پر وحی اتری تو آپ نے ہمیں «سورة أنزلناها وفرضناها‏» یہ وہ سورت ہے جو ہم نے نازل فرمائی ہے اور مقرر کر دی ہے ( سورۃ النور: ۱ ) پڑھ کر سنایا۔ ابوداؤد کہتے ہیں: یعنی مخفف پڑھا ۱؎یہاں تک کہ ان آیات پر آئے۔",
+          "fr": "Rapporté par Aishah (la mère des croyants) رضي الله عنها : La révélation est descendue sur le Messager d’Allah ﷺ et il nous a récité : « Une sourate que Nous avons fait descendre et rendue obligatoire (faradnaha). » Abu Dawud a dit : La lettre ra (r) dans le mot faradnaha porte une voyelle brève (sans redoublement de la consonne r), puis il a poursuivi les versets suivants",
+          "tr": "Aişe (ranha)'den rivayet olunmuştur; dedi ki: (Bir gün) Resulullah (s.a.v)-vahiy geldi. Bunun üzerine (\"Bu indirdiğimiz ve hükümlerini üzerinize farz kıldığımız bir suredir\"[Nâr 10] mealindeki ayet-i kerimeyi) bize ... (şeklinde) okudu. Ebû Davûd dedi ki: (Urve, Hz. Nebi'in ... kelimesinin râ sını şeddesiz olarak okuduğunu söylemek istiyor)"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 32,
+        "hadith": 40
+      },
+      "narrator": {
+        "en": "'Aishah"
+      }
+    }
+  ],
+  "metadata": {
+    "averageLength": "medium",
+    "size": "29KB"
+  }
+}

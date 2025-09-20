@@ -1,0 +1,1734 @@
+{
+  "collection": "abudawud",
+  "book": 19,
+  "name": {
+    "arabic": "كتاب Shares of Inheritance (Kitab Al-Fara'id)",
+    "transliteration": "shares of inheritance (kitab al-fara'id)",
+    "translation": "Shares of Inheritance (Kitab Al-Fara'id)"
+  },
+  "totalHadith": 43,
+  "hadithNumberRange": {
+    "first": 2885,
+    "last": 2927
+  },
+  "content": [
+    {
+      "hadithNumber": 2885,
+      "arabicNumber": 2885,
+      "book": 19,
+      "hadithInBook": 1,
+      "text": {
+        "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ عَمْرِو بْنِ السَّرْحِ، أَخْبَرَنَا ابْنُ وَهْبٍ، حَدَّثَنِي عَبْدُ الرَّحْمَنِ بْنُ زِيَادٍ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ رَافِعٍ التَّنُوخِيِّ، عَنْ عَبْدِ اللَّهِ بْنِ عَمْرِو بْنِ الْعَاصِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ الْعِلْمُ ثَلاَثَةٌ وَمَا سِوَى ذَلِكَ فَهُوَ فَضْلٌ آيَةٌ مُحْكَمَةٌ أَوْ سُنَّةٌ قَائِمَةٌ أَوْ فَرِيضَةٌ عَادِلَةٌ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Narrated Abdullah ibn Amr ibn al-'As: The Prophet (ﷺ) said: Knowledge has three categories; anything else is extra; a precise verse, or an established sunnah (practice), or a firm obligatory duty",
+          "ur": "عبداللہ بن عمرو بن العاص رضی اللہ عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ( اصل ) علم تین ہیں اور ان کے علاوہ علوم کی حیثیت فضل ( زائد ) کی ہے: آیت محکمہ ۲؎، یا سنت قائمہ ۳؎، یا فریضہ عادلہ ۴؎ ۔",
+          "fr": "Rapporté par Abdullah ibn Amr ibn al-'As رضي الله عنه : Le Prophète ﷺ a dit : « La science se divise en trois catégories ; tout le reste est superflu : un verset précis, une pratique établie (sunnah), ou un devoir obligatoire bien défini. »",
+          "id": "Telah menceritakan kepada kami [Ahmad bin 'Amr bin As Sarh], telah mengabarkan kepada kami [Ibnu Wahb], telah menceritakan kepadaku [Abdurrahman bin Ziyad] dari [Abdurrahman bin Rafi' At Tanukhi], dari [Abdullah bin 'Amr bin Al 'Ash], bahwa Rasulullah shallallahu 'alaihi wasallam berkata: \"Ilmu ada tiga, dan yang selain itu adalah kelebihan, yaitu; ayat muhkamah (yang jelas penjelasannya dan tidak dihapuskan), atau sunah yang shahih, atau faraidh (pembagian warisan) yang adil",
+          "tr": "Abdullah b. Amr b. el-As'dan demiştir ki: Rasûlullah (s.a.v.): (Dini) İlim(lerin aslı) üçtür: Bunların dışındaki ilim(ler) fazladandır). Muhkem âyet(ler) sabit sünnet (miras taksiminde) adaletli fariza (ilmi) buyurmuştur"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 19,
+        "hadith": 1
+      },
+      "narrator": {
+        "en": "Abdullah ibn Amr ibn al-'As"
+      }
+    },
+    {
+      "hadithNumber": 2886,
+      "arabicNumber": 2886,
+      "book": 19,
+      "hadithInBook": 2,
+      "text": {
+        "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ حَنْبَلٍ، حَدَّثَنَا سُفْيَانُ، قَالَ سَمِعْتُ ابْنَ الْمُنْكَدِرِ، أَنَّهُ سَمِعَ جَابِرًا، يَقُولُ مَرِضْتُ فَأَتَانِي النَّبِيُّ صلى الله عليه وسلم يَعُودُنِي هُوَ وَأَبُو بَكْرٍ مَاشِيَيْنِ وَقَدْ أُغْمِيَ عَلَىَّ فَلَمْ أُكَلِّمْهُ فَتَوَضَّأَ وَصَبَّهُ عَلَىَّ فَأَفَقْتُ فَقُلْتُ يَا رَسُولَ اللَّهِ كَيْفَ أَصْنَعُ فِي مَالِي وَلِي أَخَوَاتٌ قَالَ فَنَزَلَتْ آيَةُ الْمَوَارِيثِ ‏{‏ يَسْتَفْتُونَكَ قُلِ اللَّهُ يُفْتِيكُمْ فِي الْكَلاَلَةِ ‏}‏ ‏.‏",
+        "translations": {
+          "en": "Narrated Jabir:I fell ill, and the Prophet (ﷺ) and Abu Bakr came to me on foot to visit me. As I was unconscious, I could not speak to him. He performed ablution and sprinkled water on me ; so I became conscious. I said: Messenger of Allah, how should I do in my property, as I have sisters? Thereafter the verse about inheritance was revealed: \"They ask thee for legal decision. Say: Allah directs (thus) about those who leave no descendants or ascendants as heirs",
+          "ur": "جابر رضی اللہ عنہ کہتے ہیں میں بیمار ہوا تو نبی اکرم صلی اللہ علیہ وسلم اور ابوبکر رضی اللہ عنہ مجھے دیکھنے کے لیے پیدل چل کر آئے، مجھ پر غشی طاری تھی اس لیے آپ صلی اللہ علیہ وسلم سے بات نہ کر سکا تو آپ نے وضو کیا اور وضو کے پانی کا مجھ پر چھینٹا مارا تو مجھے افاقہ ہوا، میں نے کہا: اللہ کے رسول! میں اپنا مال کیا کروں اور بہنوں کے سوا میرا کوئی وارث نہیں ہے، اس وقت میراث کی آیت«يستفتونك قل الله يفتيكم في الكلالة» آپ سے فتوی پوچھتے ہیں، آپ کہہ دیجئیے کہ اللہ تعالیٰ ( خود ) تمہیں کلالہ کے بارے میں فتویٰ دیتا ہے ( سورۃ النساء: ۱۷۶ ) ، اتری ۱؎۔",
+          "fr": "Rapporté par Jabir رضي الله عنه : Je suis tombé malade, et le Prophète ﷺ et Abu Bakr sont venus me rendre visite à pied. Comme j’étais inconscient, je ne pouvais pas lui parler. Il a fait ses ablutions et a aspergé de l’eau sur moi ; alors j’ai repris connaissance. J’ai dit : « Messager d’Allah, que dois-je faire de mes biens, car j’ai des sœurs ? » Ensuite, le verset sur l’héritage a été révélé : « Ils te demandent un avis juridique. Dis : Allah vous donne un avis concernant ceux qui n’ont ni descendants ni ascendants comme héritiers. »",
+          "id": "Telah menceritakan kepada kami [Ahmad bin Hanbal], telah menceritakan kepada kami [Sufyan], ia berkata; saya mendengar [Ibnu Al Munkadir], bahwa ia mendengar [Jabir] berkata; aku pernah sakit, kemudian Nabi shallallahu 'alaihi wasallam datang mengunjungiku bersama Abu Bakr dengan berjalan kaki, sementara aku dalam keadaan pingsan dan belum berbicara dengannya. Kemudian beliau berwudhu dan memercikkan air kepadaku hingga aku sadar. Lalu aku katakan; wahai Rasulullah, apa yang aku lakakukan pada hartaku sementara aku memiliki beberapa orang saudara wanita. Kemudian turunlah ayat mengenai warisan: \"Mereka meminta fatwa kepadamu tentang kalalah (orang yang mati tidak meninggalkan ayah dan anak)",
+          "tr": "İbn el-Münkedir, Cabir'i (şöyle) derken işitmiş; \"Ben hastalanmıştım. Baygın bulunduğum bir sırada Peygamber (s.a.v.): Ebû Bekir'le birlikte yaya olarak beni ziyarete gelmiş ben (baygınlığım sebebiyle) kendisiyle konuşamayınca bir abdest alıp (abdest suyunu) üzerime serpmiş, bunun üzerine ben ayıldım. (Rasûl-i Ekrem'in yanımda olduğunu görünce): \"Ey Allah'ın Rasûlü malım hakkında nasıl bir işlem yapayım. Benim (geride kalacak) kız kardeşlerim de var\" dedim. Hemen o anda \"senden fetva istiyorlar de ki, Allah sizi babasız ve çocuksuz kişinin mirası hakkında hükmünü (şöyle) açıklıyor...\"[Nisa 176] (mealindeki) miras âyet-i kerimesi indirildi"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (6723) Sahih Muslim (1616)"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 19,
+        "hadith": 2
+      },
+      "narrator": {
+        "en": "Jabir"
+      }
+    },
+    {
+      "hadithNumber": 2887,
+      "arabicNumber": 2887,
+      "book": 19,
+      "hadithInBook": 3,
+      "text": {
+        "arabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا كَثِيرُ بْنُ هِشَامٍ، حَدَّثَنَا هِشَامٌ، - يَعْنِي الدَّسْتَوَائِيَّ - عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرٍ، قَالَ اشْتَكَيْتُ وَعِنْدِي سَبْعُ أَخَوَاتٍ فَدَخَلَ عَلَىَّ رَسُولُ اللَّهِ صلى الله عليه وسلم فَنَفَخَ فِي وَجْهِي فَأَفَقْتُ فَقُلْتُ يَا رَسُولَ اللَّهِ أَلاَ أُوصِي لأَخَوَاتِي بِالثُّلُثِ قَالَ ‏\"‏ أَحْسِنْ ‏\"‏ ‏.‏ قُلْتُ الشَّطْرَ قَالَ ‏\"‏ أَحْسِنْ ‏\"‏ ‏.‏ ثُمَّ خَرَجَ وَتَرَكَنِي فَقَالَ ‏\"‏ يَا جَابِرُ لاَ أُرَاكَ مَيِّتًا مِنْ وَجَعِكَ هَذَا وَإِنَّ اللَّهَ قَدْ أَنْزَلَ فَبَيَّنَ الَّذِي لأَخَوَاتِكَ فَجَعَلَ لَهُنَّ الثُّلُثَيْنِ ‏\"‏ ‏.‏ قَالَ فَكَانَ جَابِرٌ يَقُولُ أُنْزِلَتْ هَذِهِ الآيَةُ فِيَّ ‏{‏ يَسْتَفْتُونَكَ قُلِ اللَّهُ يُفْتِيكُمْ فِي الْكَلاَلَةِ ‏}‏ ‏.‏",
+        "translations": {
+          "en": "Narrated Jabir ibn Abdullah: I fell ill, and I had seven sisters. The Messenger of Allah (ﷺ) came to me and blew on my face. So I became conscious. I said: Messenger of Allah, may I not bequeath one-third of my property to my sisters? He replied: Do good. I asked: Half? He replied: Do good. He then went out and left me, and said: I do not think, Jabir, you will die of this disease. Allah has revealed (verses) and described the share of your sisters. He appointed two-thirds for them. Jabir used to say: This verse was revealed about me: \"They ask thee for a legal decision. Say: Allah directs (thus) about those who leave no descendants or ascendants as heirs",
+          "ur": "جابر رضی اللہ عنہ کہتے ہیں میں بیمار ہوا اور میرے پاس سات بہنیں تھیں، رسول اللہ صلی اللہ علیہ وسلم میرے پاس آئے اور میرے چہرے پر پھونک ماری تو مجھے ہوش آ گیا، میں نے کہا: اللہ کے رسول! کیا میں اپنی بہنوں کے لیے ثلث مال کی وصیت نہ کر دوں؟ آپ نے فرمایا: نیکی کرو ، میں نے کہا آدھے مال کی وصیت کر دوں؟ آپ صلی اللہ علیہ وسلم نے فرمایا: نیکی کرو ، پھر آپ مجھے چھوڑ کر چلے گئے اور آپ صلی اللہ علیہ وسلم نے فرمایا: جابر! میرا خیال ہے تم اس بیماری سے نہیں مرو گے، اور اللہ تعالیٰ نے اپنا کلام اتارا ہے اور تمہاری بہنوں کا حصہ بیان کر دیا ہے، ان کے لیے دو ثلث مقرر فرمایا ہے ۔ جابر کہا کرتے تھے کہ یہ آیت «يستفتونك قل الله يفتيكم في الكلالة» میرے ہی متعلق نازل ہوئی ہے۔",
+          "fr": "Rapporté par Jabir ibn Abdullah رضي الله عنه : Je suis tombé malade et j’avais sept sœurs. Le Messager d’Allah ﷺ est venu vers moi et a soufflé sur mon visage. J’ai alors repris connaissance. J’ai dit : « Messager d’Allah, puis-je léguer un tiers de mes biens à mes sœurs ? » Il a répondu : « Fais le bien. » J’ai demandé : « La moitié ? » Il a répondu : « Fais le bien. » Puis il est sorti et m’a dit : « Je ne pense pas, Jabir, que tu mourras de cette maladie. Allah a révélé des versets et a fixé la part de tes sœurs. Il leur a attribué les deux tiers. » Jabir disait : « Ce verset a été révélé à mon sujet : “Ils te demandent un avis juridique. Dis : Allah vous donne un avis concernant ceux qui n’ont ni descendants ni ascendants comme héritiers.” »",
+          "id": "Telah menceritakan kepada kami [Utsman bin Abu Syaibah?], telah menceritakan kepada kami [Katsir bin Hisyam], telah menceritakan kepada kami [Hisyam Ad Dastuwai], dari [Abu Az Zubair], dari [Jabir], ia berkata; aku sedang sakit sementara aku memiliki tujuh orang saudara perempuan, kemudian Rasulullah shallallahu 'alaihi wasallam mendatangiku dan meniup pada wajahku kemudian aku tersadar, lalu aku katakan; wahai Rasulullah, bolehkah aku berwasiat sepertiga untuk para saudara wanita? Beliau berkata: \"Berikan yang lebih baik!\" Aku katakan; setengah? Beliau berkata: \"Berikan yang lebih baik!\" kemudian beliau keluar dan meninggalkanku. Lalu beliau berkata; wahai Jabir, aku yakin engkau tidak meninggal karena sakitmu. Sesungguhnya Allah telah menurunkan ayat dan menjelaskan bagian untuk saudara-saudara wanitamu. Allah memberikan untuk mereka dua pertiga. Jabir berkata; ayat ini turun mengenai diriku: \"Mereka meminta fatwa kepadamu tentang kalalah (orang mati yang tidak meninggalkan ayah dan anak)",
+          "tr": "Câbir (r.a)'den demiştir ki: (Bir defasında) \"Hastalanmıştım. Yanımda yedi kızkardeşim vardı. (Bir gün bayılmışım) RasûluUah (s.a.v.) yanıma gelip yüzüme üfürmüş de kendime geldim ve: \"Ey Allah'ın Rasûlü. (ben ölünce) kızkardeşlerime (kalacak olan malımın) üçte ikisini vasiyet edemez miyim?, dedim. (Kız kardeşlerine) iyi davran buyurdu. (Bu malın) yarısı(m vasiyet etsem olmaz mı?) dedim. (Yine kızkardeşlerine) iyi davran buyurdu. Sonra beni bırakıp çıktı. (Çıkıp giderken) \"Ey Cabir! Bu hastalığından dolayı öleceğini sanmıyorum, şübhesiz ki (yüce) Allah (Kurân-ı Kerim'inde miras âyetini) indirdi ve kız­kardeşlerine düşecek olan payı da açıkladı. Onlara üçte iki pay ayırdı.\" buyurdu. (Bu hadisi Cabir'den nakleden Ebû Zübeyr) dedi ki Cabir \"Senden fetva istiyorlar, de ki: Allah sîze babasız ve çocuksuz kişinin mirası hakkına hükmünü açıklıyor.[Nisa 176] Âyeti benim hakkımda indirdi, derdi"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 19,
+        "hadith": 3
+      },
+      "narrator": {
+        "en": "Jabir ibn Abdullah"
+      }
+    },
+    {
+      "hadithNumber": 2888,
+      "arabicNumber": 2888,
+      "book": 19,
+      "hadithInBook": 4,
+      "text": {
+        "arabic": "حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا شُعْبَةُ، عَنْ أَبِي إِسْحَاقَ، عَنِ الْبَرَاءِ بْنِ عَازِبٍ، قَالَ آخِرُ آيَةٍ نَزَلَتْ فِي الْكَلاَلَةِ ‏{‏ يَسْتَفْتُونَكَ قُلِ اللَّهُ يُفْتِيكُمْ فِي الْكَلاَلَةِ ‏}‏ ‏.‏",
+        "translations": {
+          "en": "Narrated Al-Bara' bin 'Azib:The last verse revealed about the decease who left no descendants or ascendants: \"They ask thee for the legal decision. Say: Allah directs (thus) about those who leave no descendants or ascendants as heirs",
+          "ur": "براء بن عازب رضی اللہ عنہما کہتے ہیں کلالہ کے سلسلے میں آخری آیت جو نازل ہوئی ہے وہ: «يستفتونك قل الله يفتيكم في الكلالة» ہے ۱؎۔",
+          "fr": "Rapporté par Al-Bara' ibn 'Azib رضي الله عنه : Le dernier verset révélé à propos de la personne décédée sans descendants ni ascendants est : « Ils te demandent un avis juridique. Dis : Allah vous donne un avis concernant ceux qui n’ont ni descendants ni ascendants comme héritiers. »",
+          "id": "Telah menceritakan kepada kami [Muslim bin Ibrahim], telah menceritakan kepada kami [Syu'bah], dari [Abu Ishaq], dari [Al Bara` bin 'Azib], ia berkata; ayat terakhir yang turun adalah mengenai kalalah: \"Mereka meminta fatwa kepadamu tentang kalalah (orang mati yang tidak meninggalkan ayah dan anak)",
+          "tr": "el-Bera b. Azib'den demiştir ki: Kelale (geride baba ve çocuk bırakmadan ölen kimse) hakkında inen en son âyet \"senden fetva istiyorlar.De ki Allah size babasız ve çocuksuz kişinin mirası hakkında hükmünü şöyle açıklıyor:”[Nisa 176] âyet-i kerimesidir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (4605) Sahih Muslim (1618)"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 19,
+        "hadith": 4
+      },
+      "narrator": {
+        "en": "Al-Bara' bin 'Azib"
+      }
+    },
+    {
+      "hadithNumber": 2889,
+      "arabicNumber": 2889,
+      "book": 19,
+      "hadithInBook": 5,
+      "text": {
+        "arabic": "حَدَّثَنَا مَنْصُورُ بْنُ أَبِي مُزَاحِمٍ، حَدَّثَنَا أَبُو بَكْرٍ، عَنْ أَبِي إِسْحَاقَ، عَنِ الْبَرَاءِ بْنِ عَازِبٍ، قَالَ جَاءَ رَجُلٌ إِلَى النَّبِيِّ صلى الله عليه وسلم فَقَالَ يَا رَسُولَ اللَّهِ يَسْتَفْتُونَكَ فِي الْكَلاَلَةِ فَمَا الْكَلاَلَةُ قَالَ ‏ \"‏ تُجْزِيكَ آيَةُ الصَّيْفِ ‏\"‏ ‏.‏ فَقُلْتُ لأَبِي إِسْحَاقَ هُوَ مَنْ مَاتَ وَلَمْ يَدَعْ وَلَدًا وَلاَ وَالِدًا قَالَ كَذَلِكَ ظَنُّوا أَنَّهُ كَذَلِكَ ‏.‏",
+        "translations": {
+          "en": "Narrated Al-Bara' ibn Azib: A man came to the Prophet (ﷺ) and said: Messenger of Allah, they ask thee for a legal decision about a kalalah. What is meant by kalalah? He replied: The verse revealed in summer is sufficient for you. I asked AbuIshaq: Does it mean a person who dies and leaves neither children nor father? He said: This is so. The people think it is so",
+          "ur": "براء بن عازب رضی اللہ عنہما کہتے ہیں کہ ایک شخص نبی اکرم صلی اللہ علیہ وسلم کے پاس آیا اور اس نے عرض کیا: اللہ کے رسول!«يستفتونك في الكلالة» میں کلالہ سے کیا مراد ہے؟ آپ نے فرمایا: آیت «صيف» ۱؎ تمہارے لیے کافی ہے۔ ابوبکر کہتے ہیں: میں نے ابواسحاق سے کہا: کلالہ وہی ہے نا جو نہ اولاد چھوڑے نہ والد؟ انہوں نے کہا: ہاں، لوگوں نے ایسا ہی سمجھا ہے۔",
+          "fr": "Rapporté par Al-Bara' ibn 'Azib رضي الله عنه : Un homme est venu voir le Prophète ﷺ et a dit : « Messager d’Allah, ils te demandent un avis juridique sur le kalalah. Qu’est-ce que le kalalah ? » Il a répondu : « Le verset révélé en été te suffit. » J’ai demandé à Abu Ishaq : « Cela désigne-t-il quelqu’un qui meurt sans laisser d’enfants ni de père ? » Il a répondu : « Oui, c’est cela. Les gens pensent que c’est ainsi. »",
+          "id": "Telah menceritakan kepada kami [Manshur bin Abu Muzahim], telah menceritakan kepada kami [Abu Bakr], dari [Abu Ishaq], dari [Al Bara` bin 'Azib], ia berkata; seorang laki-laki datang kepada kepada Nabi shallallahu 'alaihi wasallam dan berkata; wahai Rasulullah, mereka meminta fatwa kepada engkau mengenai kalalah, apakah kalalah itu? Beliau berkata: \"Cukup bagimu ayat yang turun pada musim panas.\" Kemudian aku katakan kepada Abu Ishaq; ia adalah orang yang mati dan tidak meninggalkan anak dan ayah, ia berkata; demikianlah mereka meyakini",
+          "tr": "Bera b. Azib'den demiştir ki: Bir adam Nebi (s.a.v.)'e gelerek \"Ey Allah'ın Rasûlü kelale hakkında senden fetva istiyorlar\" (âyetindeki) kelâle nedir? Dedi.(Peygamber (s.a.v.) de): \"Sana (bu hususta) \"yaz âyeti yeter\" buyurdu. (Ravî Ebû Bekir) dedi ki \"Ben Ebû İshak'a -kelâle (arkasında) çocuk ve baba bırakmadan ölen kimsedir- dedim. O da -öyledir ve (başkaları da) öyle olduğuna hükmettiler- cevabım verdi"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 19,
+        "hadith": 5
+      },
+      "narrator": {
+        "en": "Al-Bara' ibn Azib"
+      }
+    },
+    {
+      "hadithNumber": 2890,
+      "arabicNumber": 2890,
+      "book": 19,
+      "hadithInBook": 6,
+      "text": {
+        "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ عَامِرِ بْنِ زُرَارَةَ، حَدَّثَنَا عَلِيُّ بْنُ مُسْهِرٍ، عَنِ الأَعْمَشِ، عَنْ أَبِي قَيْسٍ الأَوْدِيِّ، عَنْ هُزَيْلِ بْنِ شُرَحْبِيلَ الأَوْدِيِّ، قَالَ جَاءَ رَجُلٌ إِلَى أَبِي مُوسَى الأَشْعَرِيِّ وَسَلْمَانَ بْنِ رَبِيعَةَ فَسَأَلَهُمَا عَنِ ابْنَةٍ وَابْنَةِ ابْنٍ وَأُخْتٍ، لأَبٍ وَأُمٍّ فَقَالاَ لاِبْنَتِهِ النِّصْفُ وَلِلأُخْتِ مِنَ الأَبِ وَالأُمِّ النِّصْفُ وَلَمْ يُوَرِّثَا ابْنَةَ الاِبْنِ شَيْئًا وَأْتِ ابْنَ مَسْعُودٍ فَإِنَّهُ سَيُتَابِعُنَا فَأَتَاهُ الرَّجُلُ فَسَأَلَهُ وَأَخْبَرَهُ بِقَوْلِهِمَا فَقَالَ لَقَدْ ضَلَلْتُ إِذًا وَمَا أَنَا مِنَ الْمُهْتَدِينَ وَلَكِنِّي سَأَقْضِي فِيهَا بِقَضَاءِ النَّبِيِّ صلى الله عليه وسلم لاِبْنَتِهِ النِّصْفُ وَلاِبْنَةِ الاِبْنِ سَهْمٌ تَكْمِلَةُ الثُّلُثَيْنِ وَمَا بَقِيَ فَلِلأُخْتِ مِنَ الأَبِ وَالأُمِّ ‏.‏",
+        "translations": {
+          "en": "Narrated Huzail b. Shurahbil al-Awadi:A man came to Abu Musa al-Ash'ari and Salman b. Rabi'ah, and asked about a case where there were a daughter, a son's daughter and full sister. They replied: The daughter gets half and the full gets half. The son's daughter gets nothing. Go to Ibn Mas'ud and you will find that he agrees with me. So the man came to him and informed him about their opinion. He said: I would then be in error and not be one of those who are rightly guided. But I decide concerning the matter as the Messenger of Allah (ﷺ) did: The daughter gets half, and the son's daughter gets a share which complete thirds (i.e. gets a sixth), and what remain to the full sister",
+          "ur": "ہزیل بن شرحبیل اودی کہتے ہیں ایک شخص ابوموسیٰ اشعری رضی اللہ عنہ اور سلیمان بن ربیعہ کے پاس آیا اور ان دونوں سے یہ مسئلہ پوچھا کہ ایک بیٹی ہو اور ایک پوتی اور ایک سگی بہن ( یعنی ایک شخص ان کو وارث چھوڑ کر مرے ) تو اس کی میراث کیسے بٹے گی؟ ان دونوں نے جواب دیا کہ بیٹی کو آدھا اور سگی بہن کو آدھا ملے گا، اور انہوں نے پوتی کو کسی چیز کا وارث نہیں کیا ( اور ان دونوں نے پوچھنے والے سے کہا ) تم عبداللہ بن مسعود رضی اللہ عنہ سے بھی جا کر پوچھو تو وہ بھی اس مسئلہ میں ہماری موافقت کریں گے، تو وہ شخص ان کے پاس آیا اور ان سے پوچھا اور انہیں ان دونوں کی بات بتائی تو انہوں نے کہا: تب تو میں بھٹکا ہوا ہوں گا اور راہ یاب لوگوں میں سے نہ ہوں گا، لیکن میں تو رسول اللہ صلی اللہ علیہ وسلم کے فیصلہ کے مطابق فیصلہ کروں گا، اور وہ یہ کہ بیٹی کا آدھا ہو گا اور پوتی کا چھٹا حصہ ہو گا دو تہائی پورا کرنے کے لیے ( یعنی جب ایک بیٹی نے آدھا پایا تو چھٹا حصہ پوتی کو دے کر دو تہائی پورا کر دیں گے ) اور جو باقی رہے گا وہ سگی بہن کا ہو گا۔",
+          "fr": "Rapporté par Huzail ibn Shurahbil al-Awadi : Un homme est venu voir Abu Musa al-Ash'ari et Salman ibn Rabi'ah et leur a demandé ce qu’il fallait faire dans le cas où il y a une fille, une petite-fille (fille du fils) et une sœur germaine. Ils ont répondu : « La fille reçoit la moitié et la sœur germaine reçoit la moitié. La petite-fille ne reçoit rien. Va voir Ibn Mas'ud et tu verras qu’il est d’accord avec moi. » L’homme est donc allé le voir et lui a exposé leur avis. Il a dit : « Je serais alors dans l’erreur et je ne ferais pas partie des bien-guidés. Mais je juge la question comme l’a fait le Messager d’Allah ﷺ : la fille reçoit la moitié, la petite-fille reçoit une part pour compléter les deux tiers (c’est-à-dire un sixième), et le reste va à la sœur germaine. »",
+          "id": "Telah menceritakan kepada kami [Abdullah bin 'Amir bin Zurarah], telah menceritakan kepada kami [Ali bin Mushir] dari [Al A'masy] dari [Abu Qais Al Audi] dari [Hudzail bin Syurahbil Al Audi], ia berkata; seorang laki-laki telah datang kepada Abu Musa Al Asy'ari dan Salman bin Rabi'ah, kemudian bertanya kepada mereka berdua mengenai anak perempuan, anak perempuan dari anak laki-laki dan saudara perempuan seayah serta seorang ibu. Kemudian mereka berdua mengatakan; untuk anak wanita setengah bagian, untuk saudara wanita seayah serta ibu adalah setengah bagian. Dan mereka berdua tidak memberikan warisan kepada anak perempuan dari anak laki-laki sedikitpun. Datanglah kepada [Ibnu Mas'ud], sesungguhnya ia akan mengoreksi kami, kemudian orang tersebut datang kepadanya dan bertanya, kemudian Ibnu Mas'ud memberitahu kepadanya dengan perkataan mereka berdua. Kemudian ia berkata; sungguh aku telah sesat dan aku bukan termasuk orang-orang yang mendapat petunjuk. Akan tetapi aku akan memutuskan padanya dengan keputusan Nabi shallallahu 'alaihi wasallam. Untuk anak wanitanya setengah dan untuk anak wanita dari anak laki-laki mendapatkan saham (bagian) sebagai penyempuraan dua pertiga, dan sisanya adalah untuk saudara wanita seayah serta untuk ibu",
+          "tr": "Hüzeyl b. Şürahbil el-Evdî'den demiştir ki: Ebû Musa el-Eş'arî ile Selman b. Rabia'ya bir adam gelerek onlara kız(ın mirası) ile oğlun kızı ve anne-baba bir kızkardeş(in mirasını) sordu. Onlar da (bir kimsenin mirasının) \"yarısı kızma yarısı da anne-baba bir kızkardeşine düşer\" (dediler). Oğlun kızına mirastan hiçbir şey düşürmediler. (ve) Bir de (bu soruyu soran kimseye) \"İbn Mes'ud'a git. (O'na da sor) kuşkusuz (bu hususta) o da bize uyacaktır\" (dediler). Bunun üzerine o adam İbn Mes'ud'a varıp (bu meseleyi) ona da sordu ve ona Ebû Musa el-Eşârî ile Selman b. Rabia (r.a.)'ın sözlerini de nakletti. İbn Mes'ud da \"Eğer ben bu (hususta) onlara uyacak olursam (haktan) sapmış olurum ve hidayete erenlerden olmam. Fakat ben (bu meselede) Rasûlullah (s.a.v.)'in verdiği hükümle hükmedeceğim (şöyle ki mirasın) yarısı (ölenin) kızı içindir. Üçte ikisinin tamlayıcısı olan altıda bir pay da (ölünün) oğlunun kızına, geriye kalanı da anne-baba bir kızkardeşe aittir.\" cevabını verdi"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (6736)"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 19,
+        "hadith": 6
+      },
+      "narrator": {
+        "en": "Huzail b. Shurahbil al-Awadi"
+      }
+    },
+    {
+      "hadithNumber": 2891,
+      "arabicNumber": 2891,
+      "book": 19,
+      "hadithInBook": 7,
+      "text": {
+        "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا بِشْرُ بْنُ الْمُفَضَّلِ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدِ بْنِ عَقِيلٍ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، قَالَ خَرَجْنَا مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم حَتَّى جِئْنَا امْرَأَةً مِنَ الأَنْصَارِ فِي الأَسْوَاقِ فَجَاءَتِ الْمَرْأَةُ بِابْنَتَيْنِ لَهَا فَقَالَتْ يَا رَسُولَ اللَّهِ هَاتَانِ بِنْتَا ثَابِتِ بْنِ قَيْسٍ قُتِلَ مَعَكَ يَوْمَ أُحُدٍ وَقَدِ اسْتَفَاءَ عَمُّهُمَا مَالَهُمَا وَمِيرَاثَهُمَا كُلَّهُ فَلَمْ يَدَعْ لَهُمَا مَالاً إِلاَّ أَخَذَهُ فَمَا تَرَى يَا رَسُولَ اللَّهِ فَوَاللَّهِ لاَ تُنْكَحَانِ أَبَدًا إِلاَّ وَلَهُمَا مَالٌ ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ يَقْضِي اللَّهُ فِي ذَلِكَ ‏\"‏ ‏.‏ قَالَ وَنَزَلَتْ سُورَةُ النِّسَاءِ ‏{‏ يُوصِيكُمُ اللَّهُ فِي أَوْلاَدِكُمْ ‏}‏ الآيَةَ ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ ادْعُوا لِيَ الْمَرْأَةَ وَصَاحِبَهَا ‏\"‏ ‏.‏ فَقَالَ لِعَمِّهِمَا ‏\"‏ أَعْطِهِمَا الثُّلُثَيْنِ وَأَعْطِ أُمَّهُمَا الثُّمُنَ وَمَا بَقِيَ فَلَكَ ‏\"‏ ‏.‏ قَالَ أَبُو دَاوُدَ أَخْطَأَ بِشْرٌ فِيهِ إِنَّمَا هُمَا ابْنَتَا سَعْدِ بْنِ الرَّبِيعِ وَثَابِتُ بْنُ قَيْسٍ قُتِلَ يَوْمَ الْيَمَامَةِ ‏.‏",
+        "translations": {
+          "en": "Narrated Jabir ibn Abdullah: We went out with the Messenger of Allah (ﷺ) and came to a woman of the Ansar in al-Aswaf. The woman brought her two daughters, and said: Messenger of Allah, these are the daughters of Thabit ibn Qays who was killed as a martyr when he was with you at the battle of Uhud, their paternal uncle has taken all their property and inheritance, and he has not left anything for them. What do you think, Messenger of Allah? They cannot be married unless they have some property. The Messenger of Allah (ﷺ) said: Allah will decide regarding the matter. Then the verse of Surat an-Nisa was revealed: \"Allah (thus) directs you as regards your children's (inheritance).\" Messenger of Allah (ﷺ) said: Call to me the woman and her husband's brother. He then said to their paternal uncle: Give them two-thirds and their mother an eighth, and what remains is yours. Abu Dawud said: The narrator Bishr made a mistake. They were the daughters of Sa'd b. al-Rabi' for Thabit b. Qais was killed in the battle of Yamamah",
+          "ur": "جابر بن عبداللہ رضی اللہ عنہما کہتے ہیں کہ ہم رسول اللہ صلی اللہ علیہ وسلم کے ساتھ نکلے تو اسواف ( مدینہ کے حرم ) میں ایک انصاری عورت کے پاس پہنچے، وہ عورت اپنی دو بیٹیوں کو لے کر آئی، اور کہنے لگی: اللہ کے رسول! یہ دونوں ثابت بن قیس رضی اللہ عنہ کی بیٹیاں ہیں، جو جنگ احد میں آپ کے ساتھ لڑتے ہوئے شہید ہو گئے ہیں، ان کے چچا نے ان کا سارا مال اور میراث لے لیا، ان کے لیے کچھ بھی نہ چھوڑا، اب آپ کیا فرماتے ہیں؟ اللہ کے رسول! قسم اللہ کی! ان کا نکاح نہیں ہو سکتا جب تک کہ ان کے پاس مال نہ ہو، رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: اللہ تعالیٰ اس کا فیصلہ فرمائے گا ، پھر سورۃ نساء کی یہ آیتیں «يوصيكم الله في أولادكم»نازل ہوئیں، رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: اس عورت کو اور اس کے دیور کو بلاؤ ، تو آپ صلی اللہ علیہ وسلم نے ان دونوں لڑکیوں کے چچا سے کہا: دو تہائی مال انہیں دے دو، اور ان کی ماں کو آٹھواں حصہ دو، اور جو انہیں دینے کے بعد بچا رہے وہ تمہارا ہے۱؎ ۔ ابوداؤد کہتے ہیں: اس میں بشر نے غلطی کی ہے، یہ دونوں بیٹیاں سعد بن ربیع کی تھیں، ثابت بن قیس رضی اللہ عنہ تو جنگ یمامہ میں شہید ہوئے۔",
+          "fr": "Rapporté par Jabir ibn Abdullah رضي الله عنه : Nous sommes sortis avec le Messager d’Allah ﷺ et nous sommes arrivés chez une femme des Ansar à al-Aswaf. Elle a amené ses deux filles et a dit : « Messager d’Allah, voici les filles de Thabit ibn Qays qui a été tué en martyr alors qu’il était avec toi à la bataille de Uhud. Leur oncle paternel a pris tous leurs biens et leur héritage, il ne leur a rien laissé. Qu’en penses-tu, Messager d’Allah ? Elles ne peuvent pas se marier sans avoir de biens. » Le Messager d’Allah ﷺ a dit : « Allah tranchera sur cette affaire. » Puis le verset de la sourate an-Nisa a été révélé : « Allah vous donne des instructions au sujet de vos enfants (pour l’héritage). » Le Messager d’Allah ﷺ a dit : « Faites venir la femme et le frère de son mari. » Il a alors dit à l’oncle paternel : « Donne-leur les deux tiers et à leur mère un huitième, et le reste est pour toi. » Abu Dawud a dit : Le rapporteur Bishr s’est trompé. Il s’agissait des filles de Sa'd ibn al-Rabi', car Thabit ibn Qais a été tué à la bataille de Yamamah",
+          "id": "Telah menceritakan kepada kami [Musaddad], telah menceritakan kepada kami [Bisyr bin Al Mufadhdhal], telah menceritakan kepada kami [Abdullah bin Muhammad bin 'Aqil], dari [Jabir bin Abdullah], ia berkata; kami keluar bersama Rasulullah shallallahu 'alaihi wasallam hingga kami sampai pada seorang wanita anshar di beberapa pasar kemudian wanita tersebut datang dengan membawa dua orang anak wanitanya dan berkata; wahai Rasulullah, ini adalah dua anak wanita Tsabit bin Qais, ia terbunuh bersama engkau pada saat perang Uhud. Dan pamannya telah mengambil seluruh harta dan warisan mereka berdua, dan tidaklah Tsabit meninggalkan harta untuk mereka berdua melainkan ia telah mengambilnya. Bagaimana pendapat engkau wahai Rasulullah? Demi Allah, mereka berdua tidaklah dinikahkan selamanya kecuali mereka memiliki harta. Kemudian Rasulullah shallallahu 'alaihi wasallam bersabda: \"Allah akan memutuskan dalam perkara tersebut.\" Jabir berkata; dan turunlah Surat An Nisa`: \"Allah mensyari'atkan bagimu tentang (pembagian pusaka untuk) anak-anakmu.\" Kemudian Rasulullah shallallahu 'alaihi wasallam berkata: \"Panggilkan wanita tersebut sahabatnya (paman kedua anak tersebut)!\" kemudian beliau berkata kepada paman kedua anak tersebut: \"Berikan kepada keduanya dua pertiga, dan berikan seperdelapan kepada ibu mereka, dan sisanya adalah untukmu.\" Abu Daud berkata; Bisyr telah salah dalam hal tersebut. Sesungguhnya mereka berdua adalah anak wanita Sa'd bin Ar Rabi', sedangkan Tsabit bin Qais terbunuh pada perang Yamamah. Telah menceritakan kepada kami [Ibnu As Sarh], telah menceritakan kepada kami [Ibnu Wahb], telah mengabarkan kepadaku [Daud bin Qais], dan yang lainnya dari kalangan ahli ilmu, dari [Abdullah bin Muhammad bin 'Aqil], dari [Jabir bin Abdullah], bahwa isteri Sa'd bin Ar Rabi' berkata; wahai Rasulullah, sesungguhnya Sa'd telah mati dan meninggalkan dua anak wanita, kemudian Ibnu As Sarh menyebutkan hadits seperti hadits tersebut. Abu Daud berkata; dan hadits ini lebih shahih",
+          "tr": "Câbir b. Abdullah'dan demiştir ki: (Bir gün) Rasûlullah (s.a.v.)'le birlikte çıkmıştık. Medine'nin hareminde ensardan bir kadının yanına vardık. Kadın (yanımıza) kendisine ait olan iki kız çocuğu getirdi ve: \"Ey Allah'ın Rasûlü bunlar Uhud (savaşı) günü senin yanında savaşırken şehid edilen Sabit b. Kays'm kızlarıdır. Bunların amcaları mallarının ve miraslarının tümünü (ellerinden) aldı ve onlara hiçbir şey bırakmadı. Ey Allah'ın Rasûlü (bu hususta) ne buyurursun? Allah'a yemin ederim ki bunlar malları olmadıkça asla evlenemezler.\" dedi. Rasûlullah (s.a.v.) de (Hele sabredin bakalım) \"Allah bu hususta bir hüküm verir\" buyurdu. Ve (bir süre sonra) Nisa suresinin \"Allah size çocuklarınızın alacağı miras) hakkında erkeğe kadının payının iki mislini tavsiye eder\"[Nisa 11] âyeti nazil oldu. Bunun üzerine Rasûlullah (s.a.v.) \"O kadınla, şikayetçi olduğu adamı çağırınız\" dedi. (ve bu emir yerine getirildi kızların) amcasına (mirasın) \"üçte ikisini kızlara, sekizde birini annelerine ver, kalanı da senindir.\" buyurdu. Ebû Dâvûd der ki (bu hadisi rivayet) eden Bişr el-Mufaddal hata etmiştir. Bu kızlar Sa'd b. er-Rabi'in kızlarıdır. Sabit b. Kays ise (Uhud savaşında değil) Yemâme gününde şehid edilmiştir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 19,
+        "hadith": 7
+      },
+      "narrator": {
+        "en": "Jabir ibn Abdullah"
+      }
+    },
+    {
+      "hadithNumber": 2892,
+      "arabicNumber": 2892,
+      "book": 19,
+      "hadithInBook": 8,
+      "text": {
+        "arabic": "حَدَّثَنَا ابْنُ السَّرْحِ، حَدَّثَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي دَاوُدُ بْنُ قَيْسٍ، وَغَيْرُهُ، مِنْ أَهْلِ الْعِلْمِ عَنْ عَبْدِ اللَّهِ بْنِ مُحَمَّدِ بْنِ عَقِيلٍ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، أَنَّ امْرَأَةَ، سَعْدِ بْنِ الرَّبِيعِ قَالَتْ يَا رَسُولَ اللَّهِ إِنَّ سَعْدًا هَلَكَ وَتَرَكَ ابْنَتَيْنِ ‏.‏ وَسَاقَ نَحْوَهُ قَالَ أَبُو دَاوُدَ وَهَذَا هُوَ الصَّوَابُ ‏.‏",
+        "translations": {
+          "en": "Narrated Jabir bin ‘Abdullah : The wife of Sa'd b. al-Rabi said: Messenger of Allah, Sa'd died and left two daughters. He then narrated the rest of the tradition in a similar way. Abu Dawud said: This is the most correct tradition",
+          "ur": "جابر بن عبداللہ رضی اللہ عنہما سے روایت ہے کہ سعد بن ربیع کی عورت نے کہا: اللہ کے رسول! سعد مر گئے اور دو بیٹیاں چھوڑ گئے ہیں، پھر راوی نے اسی طرح کی حدیث بیان کی۔ ابوداؤد کہتے ہیں: یہ روایت زیادہ صحیح ہے۔",
+          "fr": "Rapporté par Jabir ibn ‘Abdullah رضي الله عنه : L’épouse de Sa'd ibn al-Rabi' a dit : « Messager d’Allah, Sa'd est mort et a laissé deux filles. » Il a ensuite raconté la suite de l’histoire de façon similaire. Abu Dawud a dit : C’est la version la plus correcte",
+          "tr": "Câbir b. Abdillah'dan demiştir ki: Sa'd b. er-Rebi’in karısı (Hz. Peygamber'e gelerek) \"Ey Allah'ın Rasûlü, Sa'd şehid oldu (ve geride) iki de kız bıraktı\" (bu kızların hali ne olacak?) demiş. Ebû Dâvûd der ki bu (hadisin Sa'd b. er-Rebi’ ile ilgili kısmı bir önceki 2891. hadiste geçen Sabit b. Kays'la ilgili kısımdan) daha sağlamdır"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 19,
+        "hadith": 8
+      },
+      "narrator": {
+        "en": "Jabir bin ‘Abdullah"
+      }
+    },
+    {
+      "hadithNumber": 2893,
+      "arabicNumber": 2893,
+      "book": 19,
+      "hadithInBook": 9,
+      "text": {
+        "arabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا أَبَانُ، حَدَّثَنَا قَتَادَةُ، حَدَّثَنِي أَبُو حَسَّانَ، عَنِ الأَسْوَدِ بْنِ يَزِيدَ، أَنَّ مُعَاذَ بْنَ جَبَلٍ، وَرَّثَ أُخْتًا وَابْنَةً فَجَعَلَ لِكُلِّ وَاحِدَةٍ مِنْهُمَا النِّصْفَ وَهُوَ بِالْيَمَنِ وَنَبِيُّ اللَّهِ صلى الله عليه وسلم يَوْمَئِذٍ حَىٌّ ‏.‏",
+        "translations": {
+          "en": "Narrated Al-Aswad b. Yazid:Mu'adh b. Jabal gave shares of inheritance to a sister and a daughter. He gave each of them half. He was at Yemen while the Prophet (ﷺ) was alive",
+          "ur": "اسود بن یزید کہتے ہیں کہ معاذ بن جبل رضی اللہ عنہ نے بہن اور بیٹی میں اس طرح ترکہ تقسیم کیا کہ آدھا مال بیٹی کو ملا اور آدھا بہن کو ( کیونکہ بہن بیٹی کے ساتھ عصبہ ہو جاتی ہے ) اور وہ یمن میں تھے، اور اللہ کے نبی کریم صلی اللہ علیہ وسلم اس وقت باحیات تھے۔",
+          "fr": "Rapporté par Al-Aswad ibn Yazid : Mu'adh ibn Jabal a attribué une part d’héritage à une sœur et à une fille. Il a donné à chacune la moitié. Il était au Yémen alors que le Prophète ﷺ était encore en vie",
+          "id": "Telah menceritakan kepada kami [Musa bin Isma'il], telah menceritakan kepada kami [Aban], telah menceritakan kepada kami [Qatadah], telah menceritakan kepadaku [Abu Hassan] dari [Al Aswad bin Yazid?] bahwa [Mu'adz bin Jabarl], telah memberikan warisan kepada seorang saudara wanita dan anak wanita. Ia memberikan setiap mereka setengah bagian, pada saat ia berada di Yaman, sedang Nabi shallallahu 'alaihi wasallam pada saat itu masih hidup",
+          "tr": "Esved b. Yezid'den demiştir ki: Muaz b. Cebel Yemen'de (vali) iken (bir ölü'nün) bir kız(ı) ile bir kızkardeş(in)e miras bölüştürmüş de bunlardan her birine (mirasın) yarasını) vermiş. O zaman Peygamber (s.a.v.) de hayatta imiş"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (6734)"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 19,
+        "hadith": 9
+      },
+      "narrator": {
+        "en": "Al-Aswad b. Yazid"
+      }
+    },
+    {
+      "hadithNumber": 2894,
+      "arabicNumber": 2894,
+      "book": 19,
+      "hadithInBook": 10,
+      "text": {
+        "arabic": "حَدَّثَنَا الْقَعْنَبِيُّ، عَنْ مَالِكٍ، عَنِ ابْنِ شِهَابٍ، عَنْ عُثْمَانَ بْنِ إِسْحَاقَ بْنِ خَرَشَةَ، عَنْ قَبِيصَةَ بْنِ ذُؤَيْبٍ، أَنَّهُ قَالَ جَاءَتِ الْجَدَّةُ إِلَى أَبِي بَكْرٍ الصِّدِّيقِ تَسْأَلُهُ مِيرَاثَهَا فَقَالَ مَا لَكِ فِي كِتَابِ اللَّهِ تَعَالَى شَىْءٌ وَمَا عَلِمْتُ لَكِ فِي سُنَّةِ نَبِيِّ اللَّهِ صلى الله عليه وسلم شَيْئًا فَارْجِعِي حَتَّى أَسْأَلَ النَّاسَ ‏.‏ فَسَأَلَ النَّاسَ فَقَالَ الْمُغِيرَةُ بْنُ شُعْبَةَ حَضَرْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم أَعْطَاهَا السُّدُسَ ‏.‏ فَقَالَ أَبُو بَكْرٍ هَلْ مَعَكَ غَيْرُكَ فَقَامَ مُحَمَّدُ بْنُ مَسْلَمَةَ فَقَالَ مِثْلَ مَا قَالَ الْمُغِيرَةُ بْنُ شُعْبَةَ فَأَنْفَذَهُ لَهَا أَبُو بَكْرٍ ثُمَّ جَاءَتِ الْجَدَّةُ الأُخْرَى إِلَى عُمَرَ بْنِ الْخَطَّابِ رضى الله عنه تَسْأَلُهُ مِيرَاثَهَا فَقَالَ مَا لَكِ فِي كِتَابِ اللَّهِ تَعَالَى شَىْءٌ وَمَا كَانَ الْقَضَاءُ الَّذِي قُضِيَ بِهِ إِلاَّ لِغَيْرِكِ وَمَا أَنَا بِزَائِدٍ فِي الْفَرَائِضِ وَلَكِنْ هُوَ ذَلِكَ السُّدُسُ فَإِنِ اجْتَمَعْتُمَا فِيهِ فَهُوَ بَيْنَكُمَا وَأَيَّتُكُمَا خَلَتْ بِهِ فَهُوَ لَهَا ‏.‏",
+        "translations": {
+          "en": "Narrated Qabisah ibn Dhuwayb: A grandmother came to AbuBakr asking him for her share of inheritance. He said: There is nothing prescribed for you in Allah's Book, nor do I know anything for you in the Sunnah of the Prophet of Allah (ﷺ) Go home till I question the people. He then questioned the people, and al-Mughirah ibn Shu'bah said: I had been present with the Messenger of Allah (ﷺ) when he gave grandmother a sixth. AbuBakr said: Is there anyone with you? Muhammad ibn Maslamah stood and said the same as al-Mughirah ibn Shu'bah had said. So AbuBakr made it apply to her. Another grandmother came to Umar ibn al-Khattab asking him for her share of inheritance. He said: Nothing has been prescribed for you in Allah's Book. The decision made before you was made for a grandmother other than you. I am not going to add in the shares of inheritance; but it is that sixth. If there are two of you, it is shared between you, but whichever of you is the only one left gets it all",
+          "ur": "قبیصہ بن ذویب کہتے ہیں کہ میت کی نانی ابوبکر صدیق رضی اللہ عنہ کے پاس میراث میں اپنا حصہ دریافت کرنے آئی تو انہوں نے کہا: اللہ کی کتاب ( قرآن پاک ) میں تمہارا کچھ حصہ نہیں ہے، اور مجھے نبی اکرم صلی اللہ علیہ وسلم کی سنت میں بھی تمہارے لیے کچھ نہیں معلوم، تم جاؤ میں لوگوں سے دریافت کر کے بتاؤں گا، پھر انہوں نے لوگوں سے پوچھا تو مغیرہ بن شعبہ رضی اللہ عنہ نے کہا کہ میں رسول اللہ صلی اللہ علیہ وسلم کے پاس موجود تھا، آپ نے اسے چھٹا حصہ دلایا ہے، اس پر ابوبکر رضی اللہ عنہ نے کہا: کیا تمہارے ساتھ کوئی اور بھی ہے ( جو اس معاملے کو جانتا ہو ) تو محمد بن مسلمہ رضی اللہ عنہ کھڑے ہوئے اور انہوں نے بھی وہی بات کہی جو مغیرہ رضی اللہ عنہ نے کہی تھی، تو ابوبکر رضی اللہ عنہ نے اس کے لیے اسی کو نافذ کر دیا، پھر عمر رضی اللہ عنہ کی خلافت میں دادی عمر رضی اللہ عنہ کے پاس اپنا میراث مانگنے آئی، عمر رضی اللہ عنہ نے کہا: اللہ کی کتاب ( قرآن ) میں تمہارے حصہ کا ذکر نہیں ہے اور پہلے ( رسول اللہ صلی اللہ علیہ وسلم اور ابوبکر رضی اللہ عنہ کے زمانہ میں ) جو حکم ہو چکا ہے وہ نانی کے معاملے میں ہوا ہے، میں اپنی طرف سے فرائض میں کچھ بڑھا نہیں سکتا، لیکن وہی چھٹا حصہ تم بھی لو، اگر نانی بھی ہو تو تم دونوں ( «سدس» ) کو بانٹ لو اور جو تم دونوں میں اکیلی ہو ( یعنی صرف نانی یا صرف دادی ) تو اس کے لیے وہی چھٹا حصہ ہے۔",
+          "fr": "Rapporté par Qabisah ibn Dhuwayb : Une grand-mère est venue voir Abu Bakr pour demander sa part d’héritage. Il a dit : « Rien n’est prescrit pour toi dans le Livre d’Allah, et je ne connais rien pour toi dans la Sunna du Prophète d’Allah ﷺ. Rentre chez toi pendant que je consulte les gens. » Il a alors interrogé les gens, et al-Mughirah ibn Shu'bah a dit : « J’étais présent avec le Messager d’Allah ﷺ lorsqu’il a donné un sixième à la grand-mère. » Abu Bakr a dit : « Y a-t-il quelqu’un d’autre avec toi ? » Muhammad ibn Maslamah s’est levé et a confirmé ce qu’a dit al-Mughirah ibn Shu'bah. Abu Bakr a donc appliqué cette règle. Une autre grand-mère est venue voir Umar ibn al-Khattab pour demander sa part d’héritage. Il a dit : « Rien n’est prescrit pour toi dans le Livre d’Allah. La décision prise avant toi l’a été pour une autre grand-mère que toi. Je n’ajouterai rien aux parts d’héritage ; mais c’est ce sixième. S’il y en a deux, elles se le partagent, mais si tu es la seule, tu prends tout. »",
+          "id": "Telah menceritakan kepada kami [Al Qa'nabi], dari [Malik] dari [Ibnu Syihab], dari [Utsman bin Ishaq bin Kharasyah], dari [Qabishah bin Dzuaib], bahwa ia berkata; telah datang seorang nenek kepada Abu Bakr Ash Shiddiq, ia bertanya kepadanya mengenai warisannya. Kemudian ia berkata; engkau tidak mendapatkan sesuatupun dalam Kitab Allah Ta'ala, dan aku tidak mengetahui sesuatu untukmu dalam sunnah Nabi shallallahu 'alaihi wasallam. Kembalilah hingga aku bertanya kepada orang-orang. Kemudian Abu Bakr bertanya kepada orang-orang, lalu [Al Mughirah bin Syu'bah] berkata; aku menyaksikan Rasulullah shallallahu 'alaihi wasallam telah memberikan kepadanya seperenam. Kemudian Abu Bakr berkata; apakah ada orang (yang menyaksikan) selainmu? Kemudian [Muhammad bin Maslamah] berdiri dan berkata seperti apa yang dikatakan Al Mughirah bin Syu'bah. Lalu Abu Bakr menerapkannya dan berkata; engkau tidak mendapatkan sesuatupun dalam Kitab Allah Ta'ala, dan keputusan yang telah diputuskan adalah untuk selainmu, dan aku tidak akan menambahkan dalam perkara faraidl, akan tetapi hal itu adalah seperenam. Apabila kalian berdua dalam seperenam tersebut maka seperenam itu dibagi di antara kalian berdua. Siapapun di antara kalian berdua yang melepaskannya maka seperenam tersebut adalah miliknya",
+          "tr": "Kabaysa b. Züeyb'den demiştir ki: Bir nine Ebû Bekr es-Sıddîk’a gelerek miras(tan kendisine düşecek olan pay)ını sordu. (Hz. Ebû Bekir de bu hususta): \"Senin için Allah'ın kitabında bir hüküm yok. Allah'ın Peygamberi'nin sünnetinde de (bu hususta) seninle ilgili bir hüküm bilmiyorum. Binaenaleyh sen git de ben (bunu) halka bir sorayım\" cevabını vermiş ve halka sormuş. Bunun üzerine Mugîre b. Şube \"Ben Rasûlullah (s.a.v.) bir nineye altıda bir (pay) verirken yanında bulundum.\" demiş. Hz. Ebû Bekir de (Ona) \"Senin yanında başka birisi daha var mıydı? diye sorunca Muhammed b. Mesleme ayağa kalkıp Mugîre b. Şube'nin söylediklerini aynen tekrarlamış. Bunun üzerine Hz. Ebû Bekir o nineye bu hükmü uygulamış. Sonra başka bir nine de Ömer b. ei-Hattâb (r.a.)'ya gelerek ona miras(tan alacağı pay)ını sormuş o da \"yüce Allah'ın kitabında seninle ilgili bir hüküm yok, (bu hususta daha önce) verilmiş olan hüküm ise senden başkasına (yani senden başka bir nineye) ait olan (özel) bir hükümdür. Ben (Allah tarafından Kur'ân-ı Kerim'de belirlenen) paylara (bir pay) ilave edecek değilim. Fakat (sahih) ninenin miras pay'ı şu (Ebû Bekr'in kendi devrindeki nineye vermiş olduğu) altıda bir paydır. Artık bu hissede ikiniz birden bulunacak olursanız, bu hisse ikiniz arasındadır. İkinizden hangisi tek başına bu hisseye mirasçı olursa bu hisse onundur\" cevabım vermiş"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 19,
+        "hadith": 10
+      },
+      "narrator": {
+        "en": "Qabisah ibn Dhuwayb"
+      }
+    },
+    {
+      "hadithNumber": 2895,
+      "arabicNumber": 2895,
+      "book": 19,
+      "hadithInBook": 11,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ الْعَزِيزِ بْنِ أَبِي رِزْمَةَ، أَخْبَرَنِي أَبِي، حَدَّثَنَا عُبَيْدُ اللَّهِ أَبُو الْمُنِيبِ الْعَتَكِيُّ، عَنِ ابْنِ بُرَيْدَةَ، عَنْ أَبِيهِ، أَنَّ النَّبِيَّ صلى الله عليه وسلم جَعَلَ لِلْجَدَّةِ السُّدُسَ إِذَا لَمْ تَكُنْ دُونَهَا أُمٌّ ‏.‏",
+        "translations": {
+          "en": "Narrated Buraydah: The Prophet (ﷺ) appointed a sixth to a grandmother if no mother is left to inherit before her",
+          "ur": "بریدہ رضی اللہ عنہ کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم نے نانی کا چھٹا حصہ مقرر فرمایا ہے اگر ماں اس کے درمیان حاجب نہ ہو ( یعنی اگر میت کی ماں زندہ ہو گی تو وہ نانی کو حصے سے محروم کر دے گی ) ۔",
+          "fr": "Rapporté par Buraydah رضي الله عنه : Le Prophète ﷺ a attribué un sixième à la grand-mère si la mère n’hérite pas avant elle",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Abdul Aziz bin Abu Rizmah], telah mengabarkan kepadaku [ayahku], telah menceritakan kepada kami ['Ubaidullah Abu Al Munib Al 'Ataki], dari [Ibnu Buraidah] dari [ayahnya], bahwa Nabi shallallahu 'alaihi wasallam telah memberikan nenek bagian seperenam apabila tidak ada ibu bersamanya",
+          "tr": "(İbn Büreyde'nin) babasından rivayet ettiğine göre: Nebi (s.a.v.) daha aşağısında ana olmamak şartıyla nine için (mirastan) altıdabir (pay) tahsis etmiştir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 19,
+        "hadith": 11
+      },
+      "narrator": {
+        "en": "Buraydah"
+      }
+    },
+    {
+      "hadithNumber": 2896,
+      "arabicNumber": 2896,
+      "book": 19,
+      "hadithInBook": 12,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ، أَخْبَرَنَا هَمَّامٌ، عَنْ قَتَادَةَ، عَنِ الْحَسَنِ، عَنْ عِمْرَانَ بْنِ حُصَيْنٍ، أَنَّ رَجُلاً، أَتَى النَّبِيَّ صلى الله عليه وسلم فَقَالَ إِنَّ ابْنَ ابْنِي مَاتَ فَمَا لِي مِنْ مِيرَاثِهِ فَقَالَ ‏\"‏ لَكَ السُّدُسُ ‏\"‏ ‏.‏ فَلَمَّا أَدْبَرَ دَعَاهُ فَقَالَ ‏\"‏ لَكَ سُدُسٌ آخَرُ ‏\"‏ ‏.‏ فَلَمَّا أَدْبَرَ دَعَاهُ فَقَالَ ‏\"‏ إِنَّ السُّدُسَ الآخَرَ طُعْمَةٌ ‏\"‏ ‏.‏ قَالَ قَتَادَةُ فَلاَ يَدْرُونَ مَعَ أَىِّ شَىْءٍ وَرَّثَهُ ‏.‏ قَالَ قَتَادَةُ أَقَلُّ شَىْءٍ وَرِثَ الْجَدُّ السُّدُسَ ‏.‏",
+        "translations": {
+          "en": "Narrated Imran ibn Husayn: A man came to the Prophet (ﷺ) and said: My son has died; what do I receive from his estate? He replied: You receive a sixth. When he turned away he called him and said: You receive another sixth. When he turned away, he called him and said: The other sixth is an allowance (beyond what is due). Qatadah said: They (the Companions) did not know the heirs with whom he was given (a sixth). Qatadah said: The minimum share given to the grandfather was a sixth",
+          "ur": "عمران بن حصین رضی اللہ عنہما کہتے ہیں کہ ایک شخص رسول اللہ صلی اللہ علیہ وسلم کے پاس آیا اور کہنے لگا: میرا پوتا مر گیا ہے، مجھے اس کی میراث سے کیا ملے گا؟ آپ صلی اللہ علیہ وسلم نے فرمایا: تمہارے لیے چھٹا حصہ ہے ، جب وہ واپس ہونے لگا تو آپ نے اس کو بلایا اور فرمایا: تمہارے لیے ایک اور چھٹا حصہ ہے ، جب وہ واپس ہونے لگا تو آپ صلی اللہ علیہ وسلم نے پھر اسے بلایا اور فرمایا: یہ دوسرا «سدس» تمہارے لیے تحفہ ہے ۔ قتادہ کہتے ہیں: معلوم نہیں دادا کو کس کے ساتھ سدس حصہ دار بنایا؟ ۔ قتادہ کہتے ہیں: سب سے کم حصہ جو دادا پاتا ہے وہ «سدس» ہے۔",
+          "fr": "Rapporté par Imran ibn Husayn رضي الله عنه : Un homme est venu voir le Prophète ﷺ et a dit : « Mon fils est décédé ; quelle part me revient de son héritage ? » Il a répondu : « Tu as droit à un sixième. » Quand l’homme s’est éloigné, il l’a rappelé et a dit : « Tu as droit à un autre sixième. » Quand il s’est éloigné à nouveau, il l’a rappelé et a dit : « Le dernier sixième est une faveur en plus. » Qatadah a dit : Les Compagnons ne savaient pas avec quels héritiers ce sixième lui avait été accordé. Qatadah a dit : La part minimale donnée au grand-père était d’un sixième",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Katsir], telah mengabarkan kepada kami [Hammam], dari [Qatadah] dari [Al Hasan] dari [Imran bin Hushain], bahwa seorang laki-laki telah datang kepada Nabi shallallahu 'alaihi wasallam dan berkata; sesungguhnya cucu laki-laki saya meninggal, maka berapakah warisan untuk saya? Kemudian Nabi shallallahu 'alaihi wasallam bersabda: \"Engkau mendapatkan seperenam.\" Kemudian tatkala laki-laki tersebut pergi beliau berkata: \"Engkau mendapat seperenam yang lain.\" Kemudian tatkala orang tersebut pergi beliau berkata: \"Seperenam yang lain adalah makanan.\" Qatadah berkata; mereka tidak mengetahui bersama siapakah beliau memberinya warisan tersebut. Qatadah berkata; bagian minimal yang diperoleh seorang kakek adalah seperenam",
+          "tr": "İmrân b. Husayn'dan demiştir ki: Bir adam Nebi (s.a.v.)'e gelip: Oğlumun oğlu vefat etti. Onun mirasından benim (payıma düşecek olan) nedir?\" diye sormuş (Hz. Peygamber de),: \"Senin (payın) altıda birdir\" cevabını vermiş ve (adam gitmek üzere) sırtını dönünce onu çağırıp \"Senin için altıdabirden başka bir (hisse) daha var\" demiş. (Adam gitmek üzere) sırtını dönünce onu tekrar çağırıp (beriki) \"altıdabir (hisse) sana (esas hissenin dışında asabe hakkı olarak verilen) bir rıziktır\" buyurmuş. (Bu hadisin ravisi) Katade dedi ki: \"Sahabe-i kiram Peygamber efendimizin bu (zatı) beriki altıdabir hissesinden dolayı vâris kıldığını bilmiyorlardı (işin aslı şudur ki). Altıdabir hisse, dedenin mirastan aldığı payın en azıdır. (Bazan dede asabe olarak ilk altıda bir hisseden başka ikinci bir altıdabir daha alabilir)"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 19,
+        "hadith": 12
+      },
+      "narrator": {
+        "en": "Imran ibn Husayn"
+      }
+    },
+    {
+      "hadithNumber": 2897,
+      "arabicNumber": 2897,
+      "book": 19,
+      "hadithInBook": 13,
+      "text": {
+        "arabic": "حَدَّثَنَا وَهْبُ بْنُ بَقِيَّةَ، عَنْ خَالِدٍ، عَنْ يُونُسَ، عَنِ الْحَسَنِ، أَنَّ عُمَرَ، قَالَ أَيُّكُمْ يَعْلَمُ مَا وَرَّثَ رَسُولُ اللَّهِ صلى الله عليه وسلم الْجَدَّ فَقَالَ مَعْقِلُ بْنُ يَسَارٍ أَنَا وَرَّثَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم السُّدُسَ ‏.‏ قَالَ مَعَ مَنْ قَالَ لاَ أَدْرِي ‏.‏ قَالَ لاَ دَرَيْتَ فَمَا تُغْنِي إِذًا ‏.‏",
+        "translations": {
+          "en": "Al-Hasan reported that Umar asked:Which of your knows what share the Messenger of Allah (ﷺ) had given to the grandfather from the estate? Ma'qil ibn Yasar said: The Messenger of Allah (ﷺ) gave him a sixth. He asked: Along with whom? He replied: I do not know. He said: You do not know; what is the use then?",
+          "ur": "حسن بصری کہتے ہیں کہ عمر رضی اللہ عنہ نے پوچھا: رسول اللہ صلی اللہ علیہ وسلم نے دادا کو ترکے میں سے جو دلایا ہے اسے تم میں کون جانتا ہے؟ معقل بن یسار رضی اللہ عنہ نے کہا: میں ( جانتا ہوں ) رسول اللہ صلی اللہ علیہ وسلم نے اس کو چھٹا حصہ دلایا ہے، انہوں نے پوچھا: کس وارث کے ساتھ؟ وہ کہنے لگے: یہ تو معلوم نہیں، اس پر انہوں نے کہا: تمہیں پوری بات معلوم نہیں پھر کیا فائدہ تمہارے جاننے کا؟ ۔",
+          "fr": "Al-Hasan rapporte que Umar رضي الله عنه a demandé : « Lequel d’entre vous sait quelle part le Messager d’Allah ﷺ a donnée au grand-père dans l’héritage ? » Ma'qil ibn Yasar a dit : « Le Messager d’Allah ﷺ lui a donné un sixième. » Il a demandé : « Avec qui ? » Il a répondu : « Je ne sais pas. » Umar a dit : « Tu ne sais pas ; alors à quoi cela sert-il ? »",
+          "id": "Telah menceritakan kepada kami [Wahb bin Baqiyyah], dari [Khalid] dari [Yunus], dari [Al Hasan] bahwa Umar berkata; siapakah di antara kalian yang mengetahui berapakah Rasulullah shallallahu 'alaihi wasallam memberikan warisan seorang kakek? Kemudian [Ma'qil bin Yasar] berkata; saya, Rasulullah shallallahu 'alaihi wasallam memberinya seperenam. Umar berkata; bersama siapa? Ma'qil berkata; aku tidak tahu. Umar berkata; engkau tidak tahu, kalau demikian engkau tidak cukup (dalam memberikan persaksian)",
+          "tr": "Hasen (eİ-Basrî)den rivayet olunduğuna göre) Ömer (b. Hattab) (r.a.) bir gün ashab-ı kirama hitaben \"Rasûlullah (s.a.v.)'in dedeye miras'tan ne kadar bir pay verdiğini (içinizden) hanginiz biliyor?\" demiş de Ma'kıl b. Yesar: Ben (biliyorum) Rasûlullah (s.a.v.) dedeye altıda bir pay verdi\" cevabını vermiş (Bunun üzerine Hz. Ömer' de) \"Kiminle beraber (bulunduğu zaman Hz. Peygamber ona bu payı verdi?) demiş (Hz. Ma'kıl da) \"Bilmiyorum\" cevabını vermiş (bu cevabı alan Hz. Ömer de) \"Öyleyse (senin yukarıdaki cevabın bizim meselemize) bir çözüm getirmez.\" karşılığını vermiş"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 19,
+        "hadith": 13
+      }
+    },
+    {
+      "hadithNumber": 2898,
+      "arabicNumber": 2898,
+      "book": 19,
+      "hadithInBook": 14,
+      "text": {
+        "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ صَالِحٍ، وَمَخْلَدُ بْنُ خَالِدٍ، - وَهَذَا حَدِيثُ مَخْلَدٍ وَهُوَ الأَشْبَعُ - قَالَ حَدَّثَنَا عَبْدُ الرَّزَّاقِ حَدَّثَنَا مَعْمَرٌ عَنِ ابْنِ طَاوُسٍ عَنْ أَبِيهِ عَنِ ابْنِ عَبَّاسٍ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ اقْسِمِ الْمَالَ بَيْنَ أَهْلِ الْفَرَائِضِ عَلَى كِتَابِ اللَّهِ فَمَا تَرَكَتِ الْفَرَائِضُ فَلأَوْلَى ذَكَرٍ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Narrated Abdullah ibn Abbas: The Prophet (ﷺ) said: Divide the property among those whose share have been prescribed in the Book of Allah, and what remains from the prescribed shares goes to the nearest male heirs",
+          "ur": "عبداللہ بن عباس رضی اللہ عنہما کہتے ہیں رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ذوی الفروض ۱؎ میں مال کتاب اللہ کے مطابق تقسیم کر دو اور جو ان کے حصوں سے بچ رہے وہ اس مرد کو ملے گا جو میت سے سب سے زیادہ قریب ہو ۲؎ ۔",
+          "fr": "Rapporté par Abdullah ibn Abbas رضي الله عنه : Le Prophète ﷺ a dit : « Répartissez les biens entre ceux dont la part est fixée dans le Livre d’Allah, et ce qui reste après les parts prescrites revient au plus proche parent masculin. »",
+          "id": "Telah menceritakan kepada kami [Ahmad bin Shalih], dan [Makhlad bin Khalid], dan ini adalah hadits Makhlad dan hadits tersebut lebih bagus (patut diterima). Mereka berdua mengatakan; telah menceritakan kepada kami [Abdurrazzaq], telah menceritakan kepada kami [Ma'mar] dari [Ibnu Thawus] dari [ayahnya] dari [Ibnu Abbas], ia berkata; Rasulullah shallallahu 'alaihi wasallam berkata: \"Bagikan harta diantara para pemilik faraidl (bagian harta waris) berdasarkan Kitab Allah. Maka bagian harta yang tersisa setelah pembagian tersebut, lebih utama diberikan kepada (ahli waris) laki-laki",
+          "tr": "İbn Abbâs'dan demiştir ki: Rasûlullah (s.a.v.) (şöyle) buyurdu. (Ölü'nün geride bıraktığı) \"mal'ı belirli pay sahipleri arasında Allah'ın kitabına göre bölüştürünüz., Belirli hisselerden arta kalanı da (ölüye) en yakın olan erkeğe veriniz"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (6732) Sahih Muslim (1615)"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 19,
+        "hadith": 14
+      },
+      "narrator": {
+        "en": "Abdullah ibn Abbas"
+      }
+    },
+    {
+      "hadithNumber": 2899,
+      "arabicNumber": 2899,
+      "book": 19,
+      "hadithInBook": 15,
+      "text": {
+        "arabic": "حَدَّثَنَا حَفْصُ بْنُ عُمَرَ، حَدَّثَنَا شُعْبَةُ، عَنْ بُدَيْلٍ، عَنْ عَلِيِّ بْنِ أَبِي طَلْحَةَ، عَنْ رَاشِدِ بْنِ سَعْدٍ، عَنْ أَبِي عَامِرٍ الْهَوْزَنِيِّ عَبْدِ اللَّهِ بْنِ لُحَىٍّ، عَنِ الْمِقْدَامِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ مَنْ تَرَكَ كَلاًّ فَإِلَىَّ ‏\"‏ ‏.‏ وَرُبَّمَا قَالَ ‏\"‏ إِلَى اللَّهِ وَإِلَى رَسُولِهِ ‏\"‏ ‏.‏ ‏\"‏ وَمَنْ تَرَكَ مَالاً فَلِوَرَثَتِهِ وَأَنَا وَارِثُ مَنْ لاَ وَارِثَ لَهُ أَعْقِلُ لَهُ وَأَرِثُهُ وَالْخَالُ وَارِثُ مَنْ لاَ وَارِثَ لَهُ يَعْقِلُ عَنْهُ وَيَرِثُهُ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Narrated Al-Miqdam al-Kindi: The Prophet (ﷺ) said: If anyone leaves a debt or a helpless family I shall be responsible-and sometimes the narrator said: Allah and His Apostle will be responsible-but if anyone leaves property, it goes to his heirs. I am the heirs of him who has none, paying blood-wit for him and inheriting from him; and a maternal uncle is the heir of him who has none, paying blood-wit for him and inheriting from him",
+          "ur": "مقدام رضی اللہ عنہ کہتے ہیں رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: جو شخص بوجھ ( قرضہ یا بال بچے ) چھوڑ جائے تو وہ میری طرف ہے، اور کبھی راوی نے کہا اللہ اور اس کے رسول کی طرف ہے ۲؎ اور جو مال چھوڑ جائے تو وہ اس کے وارثوں کا ہے، اور جس کا کوئی وارث نہیں اس کا میں وارث ہوں، میں اس کی طرف سے دیت دوں گا اور اس شخص کا ترکہ لوں گا، ایسے ہی ماموں اس کا وارث ہے جس کا کوئی وارث نہیں وہ اس کی دیت دے گا اور اس کا وارث ہو گا۔",
+          "fr": "Rapporté par Al-Miqdam al-Kindi رضي الله عنه : Le Prophète ﷺ a dit : « Si quelqu’un laisse une dette ou une famille démunie, j’en prends la responsabilité – et parfois le rapporteur a dit : Allah et Son Messager en prendront la responsabilité – mais si quelqu’un laisse des biens, ils reviennent à ses héritiers. Je suis l’héritier de celui qui n’a pas d’héritier, je paie le prix du sang pour lui et j’hérite de lui ; et l’oncle maternel est l’héritier de celui qui n’a pas d’héritier, il paie le prix du sang pour lui et hérite de lui. »",
+          "id": "Telah menceritakan kepada kami [Hafsh bin Umar], telah menceritakan kepada kami [Syu'bah] dari [Budail] dari [Ali bin Abu Thalhah], dari [Rasyid bin Sa'd], dari [Abu 'Amir Al Hauzani Abdullah bin Luhai] dari [Al Miqdam], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Barangsiapa yang meninggalkan kall (keluarga dan hutang) maka menjadi tanggunganku.\" Dan terkadang beliau mengatakan: \"Menjadi tanggungan Allah dan rasulNya.\" \"Dan barangsiapa yang meninggalkan harta maka untuk para pewarisnya, dan aku adalah pewaris orang yang tidak memiliki pewaris. Aku menanggung diyatnya dan mewarisinya. Paman (dari pihak ibu) adalah pewaris orang yang tidak memiliki pewaris, ia menanggung diyatnya dan mewarisinya",
+          "tr": "el-Mikdam'dan demiştir ki: Rasûlullah (s.a.v.) (şöyle) buyurdu: \"Kim bir yük (yani bakıma muhtaç aile ve borç) bırakırsa (o yük) bana aittir. (Hz. Peygamber efendimiz) bazan da (o yük) \"Allah'a ve Rasûlüne aittir\" buyurmuştur. (Hz. Peygamber sözlerine şöyle devam etmiştir:) \"Kim bir mal bırakırsa mirasçılarına aittir. Ben mirasçısı bulunmayan kimsenin mirasçısı olurum. Onun diyetini öderim ve ona varis olurum. Dayı da mirasçısı bulunmayan kimsenin mirasçısıdır. Onun diyetini öder ve ona varis olur"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 19,
+        "hadith": 15
+      },
+      "narrator": {
+        "en": "Al-Miqdam al-Kindi"
+      }
+    },
+    {
+      "hadithNumber": 2900,
+      "arabicNumber": 2900,
+      "book": 19,
+      "hadithInBook": 16,
+      "text": {
+        "arabic": "حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ، - فِي آخَرِينَ - قَالُوا حَدَّثَنَا حَمَّادٌ، عَنْ بُدَيْلٍ، - يَعْنِي ابْنَ مَيْسَرَةَ - عَنْ عَلِيِّ بْنِ أَبِي طَلْحَةَ، عَنْ رَاشِدِ بْنِ سَعْدٍ، عَنْ أَبِي عَامِرٍ الْهَوْزَنِيِّ، عَنِ الْمِقْدَامِ الْكِنْدِيِّ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ أَنَا أَوْلَى بِكُلِّ مُؤْمِنٍ مِنْ نَفْسِهِ فَمَنْ تَرَكَ دَيْنًا أَوْ ضَيْعَةً فَإِلَىَّ وَمَنْ تَرَكَ مَالاً فَلِوَرَثَتِهِ وَأَنَا مَوْلَى مَنْ لاَ مَوْلَى لَهُ أَرِثُ مَالَهُ وَأَفُكُّ عَانَهُ وَالْخَالُ مَوْلَى مَنْ لاَ مَوْلَى لَهُ يَرِثُ مَالَهُ وَيَفُكُّ عَانَهُ ‏\"‏ ‏.‏ قَالَ أَبُو دَاوُدَ رَوَاهُ الزُّبَيْدِيُّ عَنْ رَاشِدِ بْنِ سَعْدٍ عَنِ ابْنِ عَائِذٍ عَنِ الْمِقْدَامِ وَرَوَاهُ مُعَاوِيَةُ بْنُ صَالِحٍ عَنْ رَاشِدٍ قَالَ سَمِعْتُ الْمِقْدَامَ ‏.‏ قَالَ أَبُو دَاوُدَ يَقُولُ الضَّيْعَةُ مَعْنَاهُ عِيَالٌ ‏.‏",
+        "translations": {
+          "en": "Narrated Al-Miqdam al-Kindi: The Prophet (ﷺ) said: I am nearer to every believer than himself, so if anyone leaves a debt or a helpless family, I shall be responsible, but if anyone leaves property, it goes to his heirs. I am patron of him who has none, inheriting his property and freeing him from his liabilities. A maternal uncle is patron of him who has none, inheriting his property and freeing him from his liabilities. Abu Dawud said: da'iah means dependants or helpless family. Abu Dawud said: This tradition has been transmitted by al-Zubaidi from Rashid b. Sa'd from Ibn 'A'idh on the authority of al-Miqdam. It has also been transmitted by Mu'awiyah b. Salih from Rashid who said: I heard al-Miqdam (say)",
+          "ur": "مقدام کندی رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: میں ہر مسلمان سے اس کی ذات کی نسبت قریب تر ہوں، جو کوئی اپنے ذمہ قرض چھوڑ جائے یا عیال چھوڑ جائے تو اس کا قرض ادا کرنا یا اس کے عیال کی پرورش کرنا میرے ذمہ ہے، اور جو کوئی مال چھوڑ جائے تو وہ اس کے وارثوں کا حق ہے، اور جس کا کوئی والی نہیں اس کا والی میں ہوں، میں اس کے مال کا وارث ہوں گا، اور میں اس کے قیدیوں کو چھڑاؤں گا، اور جس کا کوئی والی نہیں، اس کا ماموں اس کا والی ہے ( یہ ) اس کے مال کا وارث ہو گا اور اس کے قیدیوں کو چھڑائے گا ۔ ابوداؤد کہتے ہیں: اس روایت کو زبیدی نے راشد بن سعد سے، راشد نے ابن عائذ سے، ابن عائذ نے مقدام سے روایت کیا ہے اور اسے معاویہ بن صالح نے راشد سے روایت کیا ہے اس میں «عن المقدام» کے بجائے «سمعت المقدام» ہے۔ ابوداؤد کہتے ہیں: «ضيعة» کے معنی «عیال» کے ہیں۔",
+          "fr": "Rapporté par Al-Miqdam al-Kindi رضي الله عنه : Le Prophète ﷺ a dit : « Je suis plus proche de chaque croyant que lui-même, donc si quelqu’un laisse une dette ou une famille démunie, j’en prends la responsabilité, mais si quelqu’un laisse des biens, ils reviennent à ses héritiers. Je suis le protecteur de celui qui n’a pas d’héritier, j’hérite de ses biens et je le libère de ses dettes. L’oncle maternel est le protecteur de celui qui n’a pas d’héritier, il hérite de ses biens et le libère de ses dettes. »",
+          "id": "Telah menceritakan kepada kami [Sulaiman bin Harb] di antara para syekh yang lain, mereka berkata; telah menceritakan kepada kami [Hammad], dari [Budail bin Maisarah], dari [Ali bin Abu Thalhah], dari [Rasyid bin Sa'd] dari [Abu Amir Al Hauzani], dari [Al Miqdam Al Kindi], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Aku adalah orang yang paling berhak (menanggung) terhadap seorang mukmin daripada dirinya. Barangsiapa yang meninggalkan hutang atau keluarga maka menjadi tanggunganku, dan barangsiapa yang meninggalkan harta maka untuk para pewarisnya, aku adalah pewaris orang yang tidak memiliki pewaris, aku warisi hartanya dan aku bebaskan tanggungannya.\" Abu Daud berkata; hadits tersebut diriwayatkan oleh [Az Zubaidi], dari [Rasyid bin Sa'd], dari [Ibnu 'Aidz] dari [Al Miqdam], dan telah diriwayatkan oleh [Mu'awiyah bin Shalih] dari [Rasyid], ia berkata; saya mendengar [Al Miqdam], ia berkata; Abu Daud berkata; dha'ah adalah keluarga",
+          "tr": "el-Mikdam b. el Kindî'den demiştir ki: Rasûlullah (s.a.v.) şöyle buyurdu: “Ben her müslümana kendisinden daha yakınım binaenaleyh kim bir borç ya da bakmaya muhtaç bir aile bırakırsa (bunların sorumluluğu) bana aittir. Kim de bir mal bırakırsa (bu mal) varislerine aittir. Ben varisi olmayan bîr kimsenin de varisiyim. Ona varis olurum ben onun bağını çözerim, dayı da varisi bulunmayan kimsenin varisidir. Onun malına varis olur. Ve onun bağını çözer"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 19,
+        "hadith": 16
+      },
+      "narrator": {
+        "en": "Al-Miqdam al-Kindi"
+      }
+    },
+    {
+      "hadithNumber": 2901,
+      "arabicNumber": 2901,
+      "book": 19,
+      "hadithInBook": 17,
+      "text": {
+        "arabic": "حَدَّثَنَا عَبْدُ السَّلاَمِ بْنُ عَتِيقٍ الدِّمَشْقِيُّ، حَدَّثَنَا مُحَمَّدُ بْنُ الْمُبَارَكِ، حَدَّثَنَا إِسْمَاعِيلُ بْنُ عَيَّاشٍ، عَنْ يَزِيدَ بْنِ حُجْرٍ، عَنْ صَالِحِ بْنِ يَحْيَى بْنِ الْمِقْدَامِ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏ \"‏ أَنَا وَارِثُ مَنْ لاَ وَارِثَ لَهُ أَفُكُّ عَانِيَهُ وَأَرِثُ مَالَهُ وَالْخَالُ وَارِثُ مَنْ لاَ وَارِثَ لَهُ يَفُكُّ عَانِيَهُ وَيَرِثُ مَالَهُ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Narrated Al-Miqdam: I heard the Messenger of Allah (ﷺ) say: I am the heirs of Him who has none, freeing him from his liabilities, and inheriting what he possesses. A maternal uncle is the heir of Him who has none, freeing him from his liabilities, and inheriting his property",
+          "ur": "مقدام رضی اللہ عنہ کہتے ہیں میں نے رسول اللہ صلی اللہ علیہ وسلم کو فرماتے ہوئے سنا کہ جس کا کوئی وارث نہیں اس کا وارث میں ہوں اس کے قیدیوں کو چھڑاؤں گا، اور اس کے مال کا وارث ہوں گا، اور ماموں اس کا وارث ہے ۱؎ جس کا کوئی وارث نہیں وہ اس کے قیدیوں کو چھڑائے گا، اور اس کے مال کا وارث ہو گا۔",
+          "fr": "Rapporté par Al-Miqdam : J’ai entendu le Messager d’Allah ﷺ dire : « Je suis l’héritier de celui qui n’a pas d’héritier, je règle ses dettes et j’hérite de ce qu’il possède. L’oncle maternel est l’héritier de celui qui n’a pas d’héritier, il règle ses dettes et hérite de ses biens. »",
+          "id": "Telah menceritakan kepada kami [Abdussalam bin 'Atiq Ad Dimasyqi], telah menceritakan kepada kami [Muhammad bin Al Mubarak], telah menceritakan kepada kami [Isma'il bin 'Ayyasy] dari [Yazid? bin Hujr] dari [Shalih bin Yahya bin Al Miqdam] dari [ayahnya], dari [kakeknya], ia berkata; saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: \"Aku adalah pewaris orang yang tidak memiliki pewaris, aku bebaskan tanggungannya dan mewarisi hartanya. Paman (dari pihak ibu) adalah pewaris orang yang tidak memiliki pewaris yang akan membebaskan tanggungannya dan mewarisi hartanya",
+          "tr": "(Salih b. Yahya b. el-Mikdam'ın) dedesinden (rivayet olunmuştur:) dedi ki: \"Ben Rasûlullah (s.a.v.) \"Ben varisi olmayan kimsenin varisiyim. Onun bağını çözerim ve malına vâris olurum. Dayı da varisi olmayan kimsenin varisidir. Onun bağını çözer ve malına vâris olur.\" dediğini işittim"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 19,
+        "hadith": 17
+      },
+      "narrator": {
+        "en": "Al-Miqdam"
+      }
+    },
+    {
+      "hadithNumber": 2902,
+      "arabicNumber": 2902,
+      "book": 19,
+      "hadithInBook": 18,
+      "text": {
+        "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، حَدَّثَنَا شُعْبَةُ، ح وَحَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا وَكِيعُ بْنُ الْجَرَّاحِ، عَنْ سُفْيَانَ، جَمِيعًا عَنِ ابْنِ الأَصْبَهَانِيِّ، عَنْ مُجَاهِدِ بْنِ وَرْدَانَ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، رضى الله عنها أَنَّ مَوْلًى، لِلنَّبِيِّ صلى الله عليه وسلم مَاتَ وَتَرَكَ شَيْئًا وَلَمْ يَدَعْ وَلَدًا وَلاَ حَمِيمًا فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ أَعْطُوا مِيرَاثَهُ رَجُلاً مِنْ أَهْلِ قَرْيَتِهِ ‏\"‏ ‏.‏ قَالَ أَبُو دَاوُدَ وَحَدِيثُ سُفْيَانَ أَتَمُّ وَقَالَ مُسَدَّدٌ قَالَ فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ هَا هُنَا أَحَدٌ مِنْ أَهْلِ أَرْضِهِ ‏\"‏ ‏.‏ قَالُوا نَعَمْ ‏.‏ قَالَ ‏\"‏ فَأَعْطُوهُ مِيرَاثَهُ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Narrated Aisha, Ummul Mu'minin: A client of the Prophet (ﷺ) died and left some property, but he left no child or relative. The Messenger of Allah (ﷺ) said: Give what he has left to a man belonging to his village. Abu Dawud said: The tradition of Sufyan is more perfect. Musaddad said: Thereupon the Prophet (ﷺ) said: Is there anyone belonging to his land ? They replied: Yes. He said: Then give him what he has left",
+          "ur": "ام المؤمنین عائشہ رضی اللہ عنہا فرماتی ہیں کہ رسول اللہ صلی اللہ علیہ وسلم کا ایک غلام مر گیا، کچھ مال چھوڑ گیا اور کوئی وارث نہ چھوڑ ا، نہ کوئی اولاد، اور نہ کوئی عزیز، تو نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: اس کا ترکہ اس کی بستی کے کسی آدمی کو دے دو ۱؎۔ ابوداؤد کہتے ہیں: سفیان کی روایت سب سے زیادہ کامل ہے، مسدد کی روایت میں ہے: نبی اکرم صلی اللہ علیہ وسلم نے پوچھا: یہاں کوئی اس کا ہم وطن ہے؟ لوگوں نے کہا: ہاں ہے، آپ صلی اللہ علیہ وسلم نے فرمایا: اس کا ترکہ اس کو دے دو ۔",
+          "fr": "Rapporté par Aishah (la mère des croyants) رضي الله عنها : Un affranchi du Prophète ﷺ est décédé et a laissé des biens, mais il n’avait ni enfant ni parent. Le Messager d’Allah ﷺ a dit : « Donnez ce qu’il a laissé à un homme de son village. » Abu Dawud a dit : La version de Sufyan est plus complète. Musaddad a rapporté : À ce moment-là, le Prophète ﷺ a dit : « Y a-t-il quelqu’un de son pays ? » Ils ont répondu : « Oui. » Il a dit : « Alors donnez-lui ce qu’il a laissé. »",
+          "id": "Telah menceritakan kepada kami [Musaddad], telah menceritakan kepada kami [Yahya], telah menceritakan kepada kami [Syu'bah], dan telah diriwayatkan dari jalur yang lain: Telah menceritakan kepada kami [Utsman Ibnu Abu Syaibah?], telah menceritakan kepada kami [Waki' bin Al Jarrah], dari [Sufyan], semuanya berasal dari [Ibnu Al Ashbahani], dari [Muhajid bin Wardan], dari ['Urwah] dari [Aisyah] radliallahu 'anha, bahwa mantan budak Nabi shallallahu 'alaihi wasallam meninggal dan ia tidak meninggalkan sesuatupun, dan tidak meninggalkan anak serta kerabat. Kemudian Nabi shallallahu 'alaihi wasallam berkata: \"Berikan warisannya kepada seseorang yang merupakan penduduk kampungnya.\" Abu Daud berkata; dan hadits Sufyan lebih sempurna. Musaddad berkata; Nabi shallallahu 'alaihi wasallam berkata: \"Apakah di sini terdapat seseorang yang berasal dari penduduk negerinya?\" Mereka berkata; Iya. Beliau bersabda: \"Berikan warisan tersebut kepadanya",
+          "tr": "Aişe (r.anha)'dan demiştir ki: Nebi (s.a.v.) efendimizin hürriyetine kavuşturduğu bir köle hiçbir mal, çocuk ve akraba bırakmadan ölmüştü de Rasûlullah (s.a.v.): \"Onun mirasını kendi köyü halkından bir adam'a veriniz\" buyurdu. Ebû Dâvûd der ki (bu hadis bana birisi Müsedded yoluyla, diğeri de Sufyân yoluyla olmak üzere iki yoldan gelmiştir) Müsedded'in rivayeti daha geniştir. Müsedded (ise bu hadisi şöyle) rivayet etmiştir: Peygamber (s.a.v.) (azatlı kölesi ölünce orada bulunanlara) \"Burada onun memleketi halkından bir kimse var mı? diye sordu (onlar da) \"Evet\" cevabını verdiler\" (bunun üzerine) (Öyleyse bunun) mirasını ona veriniz.\" buyurdu"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 19,
+        "hadith": 18
+      },
+      "narrator": {
+        "en": "Aisha, Ummul Mu'minin"
+      }
+    },
+    {
+      "hadithNumber": 2903,
+      "arabicNumber": 2903,
+      "book": 19,
+      "hadithInBook": 19,
+      "text": {
+        "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ سَعِيدٍ الْكِنْدِيُّ، حَدَّثَنَا الْمُحَارِبِيُّ، عَنْ جِبْرِيلَ بْنِ أَحْمَرَ، عَنْ عَبْدِ اللَّهِ بْنِ بُرَيْدَةَ، عَنْ أَبِيهِ، قَالَ أَتَى النَّبِيَّ صلى الله عليه وسلم رَجُلٌ فَقَالَ إِنَّ عِنْدِي مِيرَاثَ رَجُلٍ مِنَ الأَزْدِ وَلَسْتُ أَجِدُ أَزْدِيًّا أَدْفَعُهُ إِلَيْهِ ‏.‏ قَالَ ‏\"‏ اذْهَبْ فَالْتَمِسْ أَزْدِيًّا حَوْلاً ‏\"‏ ‏.‏ قَالَ فَأَتَاهُ بَعْدَ الْحَوْلِ فَقَالَ يَا رَسُولَ اللَّهِ لَمْ أَجِدْ أَزْدِيًّا أَدْفَعُهُ إِلَيْهِ ‏.‏ قَالَ ‏\"‏ فَانْطَلِقْ فَانْظُرْ أَوَّلَ خُزَاعِيٍّ تَلْقَاهُ فَادْفَعْهُ إِلَيْهِ ‏\"‏ ‏.‏ فَلَمَّا وَلَّى قَالَ ‏\"‏ عَلَىَّ الرَّجُلَ ‏\"‏ ‏.‏ فَلَمَّا جَاءَ قَالَ ‏\"‏ انْظُرْ كُبْرَ خُزَاعَةَ فَادْفَعْهُ إِلَيْهِ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Narrated Buraydah ibn al-Hasib: A man came to the Messenger of Allah (ﷺ) and said: I have property left by a man of Azd. I do not find any man of Azd to give it to him. He said: Go and look for man of Azd for a year. He then came to him after one year and said: Messenger of Allah, I did not find any man of Azd to give it to him. He said: Look for a man of Khuza'ah whom you meet first and give it to him. When he turned away, he said; Call the man to me. When he came to him, he said: Look for the leading man of Khuza'ah and give it to him",
+          "ur": "بریدہ رضی اللہ عنہ کہتے ہیں ایک شخص رسول اللہ صلی اللہ علیہ وسلم کے پاس آیا اور اس نے عرض کیا: قبیلہ ازد کے ایک آدمی کا ترکہ میرے پاس ہے اور مجھے کوئی ازدی مل نہیں رہا ہے جسے میں یہ ترکہ دے دوں، آپ صلی اللہ علیہ وسلم نے فرمایا: ایک سال تک کسی ازدی کو تلاش کرتے رہو ۔ وہ شخص پھر ایک سال بعد آپ صلی اللہ علیہ وسلم کے پاس آیا اور بولا: اللہ کے رسول! مجھے کوئی ازدی نہیں ملا کہ میں اسے ترکہ دے دیتا آپ صلی اللہ علیہ وسلم نے فرمایا: جاؤ کسی خزاعی ہی کو تلاش کرو، اگر مل جائے تو مال اس کو دے دو ، جب وہ شخص پیٹھ پھیر کر چلا تو آپ صلی اللہ علیہ وسلم نے فرمایا: آدمی کو میرے پاس بلا کے لاؤ ، جب وہ آیا تو آپ صلی اللہ علیہ وسلم نے فرمایا: دیکھو جو شخص خزاعہ میں سب سے بڑا ہو اس کو یہ مال دے دینا ۱؎ ۔",
+          "fr": "Rapporté par Buraydah ibn al-Hasib : Un homme est venu voir le Messager d’Allah ﷺ et a dit : « J’ai des biens laissés par un homme des Azd. Je ne trouve personne des Azd à qui les donner. » Le Prophète ﷺ a dit : « Cherche un homme des Azd pendant un an. » Après un an, il est revenu et a dit : « Messager d’Allah, je n’ai trouvé personne des Azd à qui les donner. » Le Prophète ﷺ a dit : « Cherche un homme de Khuza‘ah que tu rencontres en premier et donne-les-lui. » Alors qu’il s’en allait, le Prophète ﷺ a dit : « Rappelle cet homme. » Quand il est revenu, il a dit : « Cherche le chef de Khuza‘ah et donne-les-lui. »",
+          "id": "Telah menceritakan kepada kami [Abdullah bin Sa'id Al Kindi], telah menceritakan kepada kami [Al Muharibi], dari [Jibril bin Ahmar] dari [Abdullah bin Buraidah] dari [ayahnya], ia berkata; terdapat seorang laki-laki yang datang kepada Nabi shallallahu 'alaihi wasallam kemudian berkata; sesungguhnya aku memiliki warisan seseorang yang berasal dari Azd, dan aku tidak mendapatkan seseorang yang berasal dari Azd yang dapat aku serahkan warisan tersebut kepadanya. Beliau berkata: \"Pergilah dan carilah orang yang berasal dari Azd selama satu tahun.\" Buraidah berkata; kemudian orang tersebut datang kepada beliau setelah satu tahun, kemudian ia berkata; wahai Rasulullah, aku belum mendapatkan orang Azd yang dapat aku serahkan warisan tersebut kepadanya. Beliau berkata: \"Pergilah dan lihatlah orang Khuza'ah pertama yang engkau temui, kemudian serahkan warisan tersebut kepadanya!\" kemudian tatkala orang tersebut telah pergi beliau berkata: \"Hadirkan orang tersebut!\" kemudian tatkala orang tersebut telah datang kepadanya beliau berkata: \"Lihatlah orang Khuza'ah yang paling tua, kemudian serahkan warisan tersebut kepadanya",
+          "tr": "(Abdullah b. Büreyd'in) babasından demiştir ki: Nebi (s.a.v.)'e bir adam gelip: Bende Ezd (kabilesin)den bir kişi'nin mirası vardır. Onu kendisine vereceğim. Ezd kabilesine mensub bir kimse bulamadım, (ne yapayım?) dedi, (Peygamber efendimiz de): \"Git bir sene daha Ezd'li birini ara(maya devam et) buyurdu (Adam) bir sene sonra Hz. Peygamber'e gelip: Ey Allah'ın Rasûlü ben bu mirası kendisine vereceğim Ezdli bîr kimse bulamadım\" dedi. (Hz. Peygamber de:) \"Öyleyse git* kendisiyle karşılaşacağın ilk Huzua'lıya bak bunu ona ver, buyurdu. (Bu adam) dönüp gidince Hz. Peygamber: \"Bu adamı bana geri getirin,\" buyurdu. Biraz sonra adam huzuruna geldi. (Bu sefer ona) Huzaa kabilesinden en yaşlı olan kimseye bak bu mirası ona ver, buyurdu"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 19,
+        "hadith": 19
+      },
+      "narrator": {
+        "en": "Buraydah ibn al-Hasib"
+      }
+    },
+    {
+      "hadithNumber": 2904,
+      "arabicNumber": 2904,
+      "book": 19,
+      "hadithInBook": 20,
+      "text": {
+        "arabic": "حَدَّثَنَا الْحُسَيْنُ بْنُ أَسْوَدَ الْعِجْلِيُّ، حَدَّثَنَا يَحْيَى بْنُ آدَمَ، حَدَّثَنَا شَرِيكٌ، عَنْ جِبْرِيلَ بْنِ أَحْمَرَ أَبِي بَكْرٍ، عَنِ ابْنِ بُرَيْدَةَ، عَنْ أَبِيهِ، قَالَ مَاتَ رَجُلٌ مِنْ خُزَاعَةَ فَأُتِيَ النَّبِيُّ صلى الله عليه وسلم بِمِيرَاثِهِ فَقَالَ ‏\"‏ الْتَمِسُوا لَهُ وَارِثًا أَوْ ذَا رَحِمٍ ‏\"‏ ‏.‏ فَلَمْ يَجِدُوا لَهُ وَارِثًا وَلاَ ذَا رَحِمٍ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ أَعْطُوهُ الْكُبْرَ مِنْ خُزَاعَةَ ‏\"‏ ‏.‏ قَالَ يَحْيَى قَدْ سَمِعْتُهُ مَرَّةً يَقُولُ فِي هَذَا الْحَدِيثِ ‏\"‏ انْظُرُوا أَكْبَرَ رَجُلٍ مِنْ خُزَاعَةَ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Narrated Buraydah ibn al-Hasib: A man of Khuza'ah died and his estate was brought to the Prophet (ﷺ). He said: Look for his heir or some relative. But they found neither heir nor relative. The Messenger of Allah (ﷺ) said: Give it to the leading man of Khuza'ah. The narrator Yahya said: Sometimes I heard him (al-Husayn ibn Aswad) say in this tradition: Look for the greatest man of Khuza'ah",
+          "ur": "بریدہ رضی اللہ عنہ کہتے ہیں خزاعہ ( قبیلہ ) کے ایک شخص کا انتقال ہو گیا، اس کی میراث رسول اللہ صلی اللہ علیہ وسلم کے پاس لائی گئی تو آپ نے فرمایا: اس کا کوئی وارث یا ذی رحم تلاش کرو تو نہ اس کا کوئی وارث ملا، اور نہ ہی کوئی ذی رحم، رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: خزاعہ میں سے جو بڑا ہو اسے میراث دیدو ۔ یحییٰ کہتے ہیں: ایک بار میں نے شریک سے سنا وہ اس حدیث میں یوں کہتے تھے: دیکھو جو شخص خزاعہ میں سب سے بڑا ہو اسے دے دو۔",
+          "fr": "Rapporté par Buraydah ibn al-Hasib : Un homme de Khuza‘ah est mort et ses biens ont été apportés au Prophète ﷺ. Il a dit : « Cherchez son héritier ou un parent. » Mais ils n’ont trouvé ni héritier ni parent. Le Messager d’Allah ﷺ a dit : « Donnez-les au chef de Khuza‘ah. » Le narrateur Yahya a dit : Parfois, je l’ai entendu (al-Husayn ibn Aswad) dire dans ce récit : « Cherchez le plus grand homme de Khuza‘ah. »",
+          "id": "Telah menceritakan kepada kami [Husain bin Aswad Al 'Ijli], telah menceritakan kepada kami [Yahya bin Adam], telah menceritakan kepada kami [Syarik], dari [Jibril bin Ahmar Abu Bakr], dari [Ibnu Buraidah] dari [ayahnya], ia berkata; terdapat seorang laki-laki yang meninggal kemudian Nabi shallallahu 'alaihi wasallam diberi warisannya. Kemudian beliau bersabda: \"Carikan pewarisnya atau kerabatnya!\" kemudian mereka tidak mendapatkan pewaris dan kerabatnya. Kemudian Rasulullah shallallahu 'alaihi wasallam bersabda: \"Berikan warisan tersebut kepada orang tertua dari Khuza'ah.\" Yahya berkata; pernah suatu kali aku mendengar beliau dalam hadits ini berkata: \"Lihatlah orang Khuza'ah yang paling tua",
+          "tr": "(Abdullah b. Büreyde'nin) babasından demiştir: Huzaa kabilesinden bir adam öldü de mirası Peygamber (s.a.v.)'e getirildi. Bunun üzerine (Hz. Peygamber): \"Onun varis (leri)ni yahut da yakın(lar)ını arayıp bulunuz\" buyurdu. (Fakat sahabiler) \"Ona ait bir varis yahutta bir akraba bulamadılar.\" Rasûlullah (s.a.v.) de: \"Bu mirası Huzaa'nın en yaşlısına veriniz.\" buyurdu. (Ravi Yah­ya b. Muin) dedi ki: Ben Mürre'nin bu hadisi bir defasında da (şöyle) rivayet ettiğini işittim: \"Huzaa kabilesinin en yaşlı adamını arayınız"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 19,
+        "hadith": 20
+      },
+      "narrator": {
+        "en": "Buraydah ibn al-Hasib"
+      }
+    },
+    {
+      "hadithNumber": 2905,
+      "arabicNumber": 2905,
+      "book": 19,
+      "hadithInBook": 21,
+      "text": {
+        "arabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا حَمَّادٌ، أَخْبَرَنَا عَمْرُو بْنُ دِينَارٍ، عَنْ عَوْسَجَةَ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ رَجُلاً، مَاتَ وَلَمْ يَدَعْ وَارِثًا إِلاَّ غُلاَمًا لَهُ كَانَ أَعْتَقَهُ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ هَلْ لَهُ أَحَدٌ ‏\"‏ ‏.‏ قَالُوا لاَ إِلاَّ غُلاَمًا لَهُ كَانَ أَعْتَقَهُ ‏.‏ فَجَعَلَ رَسُولُ اللَّهِ صلى الله عليه وسلم مِيرَاثَهُ لَهُ ‏.‏",
+        "translations": {
+          "en": "Narrated Abdullah ibn Abbas: A man died leaving no heir but a slave whom he had emancipated. The Messenger of Allah (ﷺ) asked: Has he any heir? They replied: No, except a slave whom he had emancipated. The Messenger of Allah (ﷺ) assigned his estate to him (the emancipated slave)",
+          "ur": "عبداللہ بن عباس رضی اللہ عنہما کہتے ہیں کہ ایک شخص رسول اللہ صلی اللہ علیہ وسلم کے زمانہ میں مر گیا اور ایک غلام کے سوا جسے وہ آزاد کر چکا تھا کوئی وارث نہ چھوڑا، رسول اللہ صلی اللہ علیہ وسلم نے پوچھا: کیا کوئی اس کا وارث ہے؟ لوگوں نے کہا: کوئی نہیں سوائے ایک غلام کے جس کو اس نے آزاد کر دیا تھا تو آپ صلی اللہ علیہ وسلم نے اسی کو اس کا ترکہ دلا دیا۔",
+          "fr": "Rapporté par Abdullah ibn Abbas : Un homme est mort sans héritier, sauf un esclave qu’il avait affranchi. Le Messager d’Allah ﷺ a demandé : « A-t-il un héritier ? » Ils ont répondu : « Non, sauf un esclave qu’il a affranchi. » Le Messager d’Allah ﷺ a attribué ses biens à cet esclave affranchi",
+          "id": "Telah menceritakan kepada kami [Musa bin Isma'il], telah menceritakan kepada kami [Hammad], telah mengabarkan kepada kami ['Amr bin Dinar], dari ['Ausajah], dari [Ibnu Abbas] bahwa seorang laki-laki meninggal dan tidak meninggalkan pewaris kecuali seorang budak yang telah ia bebaskan. Kemudian Rasulullah shallallahu 'alaihi wasallam bersabda: \"Apakah ia memiliki seseorang?\" Mereka berkata; tidak, kecuali seorang budak yang telah ia bebaskan. Kemudian Rasulullah shallallahu 'alaihi wasallam memberikan warisannya untuk mantan budak tersebut",
+          "tr": "İbn Abbas'dan demiştir ki Bir adam hürriyetine kavuşturduğu bir kölesinden başka hiçbir varis bırakmadan ölmüş de Rasûlullah (s.a.v.): “Bu adam'ın herhangi bir (varisi) var mıdır?\" diye sormuş (orada bulunanlar da): \"Hayır (yoktur). Ancak hürriyetine kavuşturduğu bir kölesi vardır\" demişler. Bunun üzerine Rasûlullah (s.a.v.): Mirasını o köleye veriniz"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 19,
+        "hadith": 21
+      },
+      "narrator": {
+        "en": "Abdullah ibn Abbas"
+      }
+    },
+    {
+      "hadithNumber": 2906,
+      "arabicNumber": 2906,
+      "book": 19,
+      "hadithInBook": 22,
+      "text": {
+        "arabic": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ مُوسَى الرَّازِيُّ، حَدَّثَنَا مُحَمَّدُ بْنُ حَرْبٍ، حَدَّثَنِي عُمَرُ بْنُ رُؤْبَةَ التَّغْلِبِيُّ، عَنْ عَبْدِ الْوَاحِدِ بْنِ عَبْدِ اللَّهِ النَّصْرِيِّ، عَنْ وَاثِلَةَ بْنِ الأَسْقَعِ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ الْمَرْأَةُ تُحْرِزُ ثَلاَثَةَ مَوَارِيثَ عَتِيقَهَا وَلَقِيطَهَا وَوَلَدَهَا الَّذِي لاَعَنَتْ عَنْهُ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Narrated Wathilah ibn al-Asqa': The Prophet (ﷺ) said: A woman gets inheritance from the three following: one she has set free, a foundling, and her child about whom she has invoked a curse on herself if she was untrue in declaring he was not born out of wedlock",
+          "ur": "واثلہ بن اسقع رضی اللہ عنہ نبی اکرم صلی اللہ علیہ وسلم سے روایت کرتے ہیں آپ نے فرمایا: عورت تین شخص کی میراث سمیٹ لیتی ہے: اپنے آزاد کئے ہوئے غلام کی، راہ میں پائے ہوئے بچے کی، اور اپنے اس بچے کی جس کے سلسلہ میں لعان ہوا ہو ( یعنی جس کے نسب سے شوہر منکر ہو گیا ہو ) تو عورت اس کی وارث ہو گی ۔",
+          "fr": "Rapporté par Wathilah ibn al-Asqa‘ : Le Prophète ﷺ a dit : « Une femme hérite dans trois cas : celui qu’elle a affranchi, un enfant trouvé, et son propre enfant pour lequel elle a juré qu’il n’était pas né hors mariage, si elle disait la vérité. »",
+          "id": "Telah menceritakan kepada kami [Ibrahim bin Musa Ar Razi], telah menceritakan kepada kami [Muhammad bin Harb], telah menceritakan kepadaku [Umar bin Ru`bah At Taghlibi], dari [Abdul Wahid bin Abdullah An Nashri], dari [Watsilah bin Al Asqa'] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: \"Seorang wanita menjaga tiga orang yang mewarisi; budak yang ia bebaskan, anak temuannya, dan anaknya yang karenanya ia melakukan li'an",
+          "tr": "Vâsıla b. el-Eska'dan demiştir ki: Nebi (s.a.v.) (şöyle) buyurmuştur: \"Kadın üç miras'a varis olur: Hürriyetine kavuşturduğu kölesinin mirasına) yol üstüne atılmış olarak bulup da büyüttüğü kimse (nin mirasına) üzerinde (kocasıyla) lanetleştiği çocuğu(nun mirasın)a"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 19,
+        "hadith": 22
+      },
+      "narrator": {
+        "en": "Wathilah ibn al-Asqa'"
+      }
+    },
+    {
+      "hadithNumber": 2907,
+      "arabicNumber": 2907,
+      "book": 19,
+      "hadithInBook": 23,
+      "text": {
+        "arabic": "حَدَّثَنَا مَحْمُودُ بْنُ خَالِدٍ، وَمُوسَى بْنُ عَامِرٍ، قَالاَ حَدَّثَنَا الْوَلِيدُ، أَخْبَرَنَا ابْنُ جَابِرٍ، حَدَّثَنَا مَكْحُولٌ، قَالَ جَعَلَ رَسُولُ اللَّهِ صلى الله عليه وسلم مِيرَاثَ ابْنِ الْمُلاَعِنَةِ لأُمِّهِ وَلِوَرَثَتِهَا مِنْ بَعْدِهَا ‏.‏",
+        "translations": {
+          "en": "Narrated Makhul: The Messenger of Allah (ﷺ) assigned the estate of a child of a woman about whom she had invoked a curse to her mother, and to her heirs after her",
+          "ur": "مکحول کہتے ہیں رسول اللہ صلی اللہ علیہ وسلم نے لعان والی عورت کے بچے کی میراث اس کی ماں کو دلائی ہے پھر اس کی ماں کے بعد ماں کے وارثوں کو دلائی ہے ۱؎۔",
+          "fr": "Rapporté par Makhul : Le Messager d’Allah ﷺ a attribué les biens d’un enfant pour lequel sa mère avait juré à sa mère, puis à ses héritiers après elle",
+          "id": "Telah menceritakan kepada kami [Mahmud bin Khalid], dan [Musa bin 'Amir], mereka berkata; telah menceritakan kepada kami [Al Walid], telah mengabarkan kepada kami [Ibnu Jabir], telah menceritakan kepada kami [Makhul], Ia berkata; Rasulullah shallallahu 'alaihi wasallam memberikan warisan anak wanita yang melakukan li'an kepada ibunya serta para pewaris ibunya setelahnya. Telah menceritakan kepada kami [Musa bin Amir], telah menceritakan kepada kami [Al Walid], telah mengabarkan kepadaku [Isa Abu Muhammad] dari [Al 'Ala` bin Al Harits] dari ['Amr bin Syu'aib] dari [ayahnya], dari [kakeknya] dari Nabi shallallahu 'alaihi wasallam seperti itu",
+          "tr": "Mekhûl'den demiştir ki: Rasûlullah (s.a.v.) üzerinde lian yapılan çocuğun mirasını annesine verdi, annesinin olmaması halinde de annesinin varislerine verdi"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 19,
+        "hadith": 23
+      },
+      "narrator": {
+        "en": "Makhul"
+      }
+    },
+    {
+      "hadithNumber": 2908,
+      "arabicNumber": 2908,
+      "book": 19,
+      "hadithInBook": 24,
+      "text": {
+        "arabic": "حَدَّثَنَا مُوسَى بْنُ عَامِرٍ، حَدَّثَنَا الْوَلِيدُ، أَخْبَرَنِي عِيسَى أَبُو مُحَمَّدٍ، عَنِ الْعَلاَءِ بْنِ الْحَارِثِ، عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، عَنِ النَّبِيِّ صلى الله عليه وسلم مِثْلَهُ ‏.‏",
+        "translations": {
+          "en": "Narrated 'Amr bin Shu'aib:On his father's authority, said that his grandfather reported from the Prophet (ﷺ) something similar",
+          "ur": "اس سند سے بھی نبی اکرم صلی اللہ علیہ وسلم سے اسی کے مثل مروی ہے۔",
+          "fr": "Rapporté par ‘Amr bin Shu‘aib, d’après son père, qui le tient de son grand-père : Il a rapporté du Prophète ﷺ quelque chose de similaire",
+          "tr": "(Abdullah b. Amr b. As'ın) dedesinden (rivayet olunduğuna göre bir önceki 2907. hadisin) bir benzerini de peygamber (s.a.v.)'den (Amr b. Şuayb b. Muhammed b. Abdillah b. Amr b. As'ın) dedesi (rivayet etmiştir)"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 19,
+        "hadith": 24
+      },
+      "narrator": {
+        "en": "'Amr bin Shu'aib"
+      }
+    },
+    {
+      "hadithNumber": 2909,
+      "arabicNumber": 2909,
+      "book": 19,
+      "hadithInBook": 25,
+      "text": {
+        "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ، عَنْ عَلِيِّ بْنِ حُسَيْنٍ، عَنْ عَمْرِو بْنِ عُثْمَانَ، عَنْ أُسَامَةَ بْنِ زَيْدٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ لاَ يَرِثُ الْمُسْلِمُ الْكَافِرَ وَلاَ الْكَافِرُ الْمُسْلِمَ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Narrated Usamah b. Zaid:The Prophet (ﷺ) as saying: A Muslim may not inherit from an infidel nor an infidel from a Muslim",
+          "ur": "اسامہ بن زید رضی اللہ عنہما سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: مسلمان کافر کا اور کافر مسلمان کا وارث نہیں ہو سکتا ۔",
+          "fr": "Rapporté par Usamah b. Zaid : Le Prophète ﷺ a dit : « Un musulman n’hérite pas d’un non-croyant, ni un non-croyant d’un musulman. »",
+          "id": "Telah menceritakan kepada kami [Musaddad], telah menceritakan kepada kami [Sufyan] dari [Az Zuhri] dari [Ali bin Husain] dari ['Amr bin Utsman] dari [Usamah bin Zaid] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: \"Orang muslim tidak mewarisi orang kafir, dan orang kafir tidak mewarisi orang muslim",
+          "tr": "Üsame b. Zeyd'den demiştir ki: Nebi (s.a.v.): \"Müslüman kafire, kâfir de müslümana mirasçı olamaz\" buyurmuştur"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (4282، 4283) Sahih Muslim (1614)"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 19,
+        "hadith": 25
+      },
+      "narrator": {
+        "en": "Usamah b. Zaid"
+      }
+    },
+    {
+      "hadithNumber": 2910,
+      "arabicNumber": 2910,
+      "book": 19,
+      "hadithInBook": 26,
+      "text": {
+        "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ حَنْبَلٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، عَنْ عَلِيِّ بْنِ حُسَيْنٍ، عَنْ عَمْرِو بْنِ عُثْمَانَ، عَنْ أُسَامَةَ بْنِ زَيْدٍ، قَالَ قُلْتُ يَا رَسُولَ اللَّهِ أَيْنَ تَنْزِلُ غَدًا فِي حَجَّتِهِ ‏.‏ قَالَ ‏\"‏ وَهَلْ تَرَكَ لَنَا عَقِيلٌ مَنْزِلاً ‏\"‏ ‏.‏ ثُمَّ قَالَ ‏\"‏ نَحْنُ نَازِلُونَ بِخَيْفِ بَنِي كِنَانَةَ حَيْثُ تَقَاسَمَتْ قُرَيْشٌ عَلَى الْكُفْرِ ‏\"‏ ‏.‏ يَعْنِي الْمُحَصَّبَ وَذَاكَ أَنَّ بَنِي كِنَانَةَ حَالَفَتْ قُرَيْشًا عَلَى بَنِي هَاشِمٍ أَنْ لاَ يُنَاكِحُوهُمْ وَلاَ يُبَايِعُوهُمْ وَلاَ يُئْوُوهُمْ ‏.‏ قَالَ الزُّهْرِيُّ وَالْخَيْفُ الْوَادِي ‏.‏",
+        "translations": {
+          "en": "Narrated Usamah b. Zaid:I said: Messenger of Allah, where will you stay tomorrow ? This (happened) during his Hajj. He replied: Has 'Aqil left any house for us ? He then said: We shall stay at the valley of Banu Kinarah where the Quraish took an oath on unbelief. This refers to al-Muhassab. The reason is that Banu Kinarah made an alliance with the Quraish against Banu Hashim that they would have no marital connections with them, nor will have commercial transactions with them, not will give them any refuge. Al-Zuhri said: Khalf means valley",
+          "ur": "اسامہ بن زید رضی اللہ عنہما کہتے ہیں کہ میں نے عرض کیا: اللہ کے رسول! کل آپ ( مکہ میں ) کہاں اتریں گے؟ آپ صلی اللہ علیہ وسلم نے فرمایا: کیا عقیل نے ہمارے لیے کوئی جائے قیام چھوڑی ہے؟ پھر آپ صلی اللہ علیہ وسلم نے فرمایا: ہم بنی کنانہ کے خیف یعنی وادی محصب میں اتریں گے، جہاں قریش نے کفر پر جمے رہنے کی قسم کھائی تھی ۔ بنو کنانہ نے قریش سے عہد لیا تھا کہ وہ بنو ہاشم سے نہ نکاح کریں گے، نہ خرید و فروخت، اور نہ انہیں اپنے یہاں جگہ ( یعنی پناہ ) دیں گے۔ زہری کہتے ہیں: خیف ایک وادی کا نام ہے ۱؎۔",
+          "fr": "Rapporté par Usamah b. Zaid : J’ai dit : « Messager d’Allah, où vas-tu loger demain ? » (Cela s’est passé pendant son pèlerinage.) Il a répondu : « Est-ce qu’Aqil nous a laissé une maison ? » Puis il a dit : « Nous resterons dans la vallée des Banu Kinarah, là où les Quraysh ont prêté serment dans la mécréance. » Cela fait référence à al-Muhassab. La raison est que les Banu Kinarah avaient fait une alliance avec les Quraysh contre les Banu Hashim, pour ne pas se marier avec eux, ne pas commercer avec eux, et ne pas leur accorder de refuge. Al-Zuhri a dit : « Khalf » signifie vallée",
+          "id": "Telah menceritakan kepada kami [Ahmad bin Hanbal], telah menceritakan kepada kami [Abdurrazzaq], telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari [Ali bin Husain], dari ['Amr bin Utsman] dari [Usamah bin Zaid], ia berkata; aku katakan; wahai Rasulullah, dimanakah kita singgah besok? Yaitu pada waktu haji beliau. Beliau berkata: \"Apakah 'Aqil telah meninggalkan untuk kita tempat persinggahan?\" kemudian beliau berkata: \"Kita akan singgah di Khaif Bani Kinanah dimana orang-orang Quraisy saling bersumpah di atas kekafiran.\" Yaitu di Al Muhashshab, hal tersebut karena Bani Kinanah telah bersumpah kepada orang-orang Quraisy untuk memusuhi Bani Hasyim yang tidak saling menikahkan dengan mereka, dan tidak memberi tempat perlindungan kepada mereka. Az Zuhri berkata; Khaif adalah nama sebuah bukit",
+          "tr": "Üsame b. Zeyd'den demiştir ki: Ben (Nebi s.a.v.'e veda) haccı sırasında (Mina'dan Mekke'ye gelirken): \"Ey Allah'ın Rasûlü yarın nerede konaklayacaksın? Diye sor­dum da: (amcam oğlu) \"Akil bize (konaklayacağımız) bir yer mi bıraktı ki?\" cevabını verdi. Sonra Muhassab (denilen yer)i kasdederek: (Yarın) - \"Beni Kinâne hayfında, Kureyş'in küfür üzerinde (kalmak üzere) anlaştığı yere ineceğiz\" buyurdu. Bu (anlaşma) Kinâne oğullarının Hâşimoğulları ile evlenmemek, onları aralarında barındırmamak ve onlarla alış-veriş yapmamak üzere Kureyşle yaptığı anlaşmadır. (Bu hadisin râvilerinden) Zührî dedi ki (Beni Kinâne) Hayf (ından maksat) Muhassab denilen vadidir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (3058) Sahih Muslim (1351)"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 19,
+        "hadith": 26
+      },
+      "narrator": {
+        "en": "Usamah b. Zaid"
+      }
+    },
+    {
+      "hadithNumber": 2911,
+      "arabicNumber": 2911,
+      "book": 19,
+      "hadithInBook": 27,
+      "text": {
+        "arabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا حَمَّادٌ، عَنْ حَبِيبٍ الْمُعَلِّمِ، عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ عَبْدِ اللَّهِ بْنِ عَمْرٍو، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ لاَ يَتَوَارَثُ أَهْلُ مِلَّتَيْنِ شَتَّى ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Narrated Abdullah ibn Amr ibn al-'As: The Prophet (ﷺ) said: people of two different religions would not inherit from one another",
+          "ur": "عبداللہ بن عمرو رضی اللہ عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: دو دین والے ( یعنی مسلمان اور کافر ) کبھی ایک دوسرے کے وارث نہیں ہو سکتے ۔",
+          "fr": "Rapporté par Abdullah ibn Amr ibn al-‘As : Le Prophète ﷺ a dit : « Des personnes de deux religions différentes n’héritent pas l’une de l’autre. »",
+          "id": "Telah menceritakan kepada kami [Musa bin Isma'il], telah menceritakan kepada kami [Hammad] dari [Habib Al Mu'allim], dari ['Amr bin Syu'aib] dari [ayahnya] dari [kakeknya yaitu Abdullah bin 'Amr], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Pemeluk dua agama yang berbeda tidak saling mewarisi",
+          "tr": "Abdullah b. Amr'dan demiştir ki: Rasûlullah (s.a.v.) \"İki (ayrı) dinin mensupları birbirlerine mirasçı olamazlar. buyurdu"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 19,
+        "hadith": 27
+      },
+      "narrator": {
+        "en": "Abdullah ibn Amr ibn al-'As"
+      }
+    },
+    {
+      "hadithNumber": 2912,
+      "arabicNumber": 2912,
+      "book": 19,
+      "hadithInBook": 28,
+      "text": {
+        "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا عَبْدُ الْوَارِثِ، عَنْ عَمْرِو بْنِ أَبِي حَكِيمٍ الْوَاسِطِيِّ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ بُرَيْدَةَ، أَنَّ أَخَوَيْنِ، اخْتَصَمَا إِلَى يَحْيَى بْنِ يَعْمَرَ يَهُودِيٌّ وَمُسْلِمٌ فَوَرَّثَ الْمُسْلِمَ مِنْهُمَا وَقَالَ حَدَّثَنِي أَبُو الأَسْوَدِ أَنَّ رَجُلاً حَدَّثَهُ أَنَّ مُعَاذًا حَدَّثَهُ قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏ \"‏ الإِسْلاَمُ يَزِيدُ وَلاَ يَنْقُصُ ‏\"‏ ‏.‏ فَوَرَّثَ الْمُسْلِمَ ‏.‏",
+        "translations": {
+          "en": "Narrated Mu'adh ibn Jabal: I heard the Messenger of Allah (ﷺ) say: Islam increases and does not diminish. He, therefore, appointed a Muslim heir (of a non-Muslim)",
+          "ur": "عبداللہ بن بریدہ کہتے ہیں کہ دو بھائی اپنا جھگڑا یحییٰ بن یعمر کے پاس لے گئے ان میں سے ایک یہودی تھا، اور ایک مسلمان، انہوں نے مسلمان کو میراث دلائی، اور کہا کہ ابوالاسود نے مجھ سے بیان کیا ہے کہ ان سے ایک شخص نے بیان کیا کہ معاذ رضی اللہ عنہ نے اس سے بیان کیا کہ میں نے رسول اللہ صلی اللہ علیہ وسلم کو فرماتے سنا ہے: اسلام بڑھتا ہے گھٹتا نہیں ہے پھر انہوں نے مسلمان کو ترکہ دلایا۔",
+          "fr": "Rapporté par Mu‘adh ibn Jabal : J’ai entendu le Messager d’Allah ﷺ dire : « L’islam augmente et ne diminue pas. » Il a donc désigné un musulman comme héritier d’un non-musulman",
+          "id": "Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Abdul Warits] dari ['Amr bin Abu Hakim Al Wasithi], telah menceritakan kepada kami [Abdullah bin Buraidah] bahwa dua orang yang bersaudara seorang yahudi dan muslim saling memperkarakan kepada Yahya bin Ya'mar kemudian ia memberikan warisan kepada orang muslim. Dan [Yahya] berkata; telah menceritakan kepadaku [Abu Al Aswad bin Amir] bahwa [seorang laki-laki] telah menceritakan kepadanya bahwa [Mu'adz] telah menceritakan kepadanya ia berkata; aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: \"Islam bertambah dan tidak berkurang.\" Kemudian beliau memberikan warisan kepada seorang muslim. Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya bin Sa'id] dari [Syu'bah] dari [Amru bin Abi Hakim] dari [Abdullah bin Buraidah] dari [Yahya bin Ya'mar] dari [Abu Al Aswad Ad Dili] bahwa [Mu'adz] diberi warisan seorang yahudi sementara pewarisnya adalah seorang muslim. Ia menyebutkan hadits tersebut dengan maknanya dari Nabi shallallahu 'alaihi wasallam",
+          "tr": "Abdullah b. Büreyde'den demiştir ki: (Birisi) Yahudi ve (diğeri de) Müslüman (olan) iki kardeş (ölen babaları için) Yahya b. Yamer'e başvurdular (Yahya'da).onlardan muslümanı mirasçı kıldı. (Diğerini de mirastan mahrum etti ve bu verdiği hükme delil olmak üzere şöyle) dedi: “Ebû Esved'in bana haber verdiğine göre; bir adam ona (şöyle) demiş -Muaz b. Cebel dedi ki: -Ben Rasûlullah (s.a.v.)'i \"İslam artar eksilmez\" derken işittim. (Muaz bu sözü söyledikten) hemen sonra müslümanı varis kıldı"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 19,
+        "hadith": 28
+      },
+      "narrator": {
+        "en": "Mu'adh ibn Jabal"
+      }
+    },
+    {
+      "hadithNumber": 2913,
+      "arabicNumber": 2913,
+      "book": 19,
+      "hadithInBook": 29,
+      "text": {
+        "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، عَنْ شُعْبَةَ، عَنْ عَمْرِو بْنِ أَبِي حَكِيمٍ، عَنْ عَبْدِ اللَّهِ بْنِ بُرَيْدَةَ، عَنْ يَحْيَى بْنِ يَعْمَرَ، عَنْ أَبِي الأَسْوَدِ الدِّيلِيِّ، أَنَّ مُعَاذًا، أُتِيَ بِمِيرَاثِ يَهُودِيٍّ وَارِثُهُ مُسْلِمٌ بِمَعْنَاهُ عَنِ النَّبِيِّ صلى الله عليه وسلم ‏.‏",
+        "translations": {
+          "en": "Narrated Abu Al-Aswad al-Dili:Mu'adh bought the property of a Jew whose heir was a Muslim. He then narrated from the Prophet (ﷺ) to the same effect",
+          "ur": "ابوالاسود دیلی سے روایت ہے کہ معاذ رضی اللہ عنہ کے پاس ایک یہودی کا ترکہ لایا گیا جس کا وارث ایک مسلمان تھا، اور اسی مفہوم کی حدیث انہوں نے نبی اکرم صلی اللہ علیہ وسلم سے روایت کی۔",
+          "fr": "Rapporté par Abu Al-Aswad al-Dili : Mu‘adh a acheté les biens d’un Juif dont l’héritier était musulman. Il a ensuite rapporté du Prophète ﷺ la même chose",
+          "tr": "Ebû'l Esved ed-Dîlî'den demiştir ki; Muaz (b. Cebel)'a, kendisine (bir yahudi ile) bir müslümanın varis olduğu bir yahudinin mirası getirilmiş. (Hz. Muaz da) Peygamber (s.a.v.)'den (rivayet edilen bir önceki 2912. hadisin) manasına (sarılarak o müslümanı bu mirasa varis kılmış)"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 19,
+        "hadith": 29
+      },
+      "narrator": {
+        "en": "Abu Al-Aswad al-Dili"
+      }
+    },
+    {
+      "hadithNumber": 2914,
+      "arabicNumber": 2914,
+      "book": 19,
+      "hadithInBook": 30,
+      "text": {
+        "arabic": "حَدَّثَنَا حَجَّاجُ بْنُ أَبِي يَعْقُوبَ، حَدَّثَنَا مُوسَى بْنُ دَاوُدَ، حَدَّثَنَا مُحَمَّدُ بْنُ مُسْلِمٍ، عَنْ عَمْرِو بْنِ دِينَارٍ، عَنْ أَبِي الشَّعْثَاءِ، عَنِ ابْنِ عَبَّاسٍ، قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏ \"‏ كُلُّ قَسْمٍ قُسِمَ فِي الْجَاهِلِيَّةِ فَهُوَ عَلَى مَا قُسِمَ لَهُ وَكُلُّ قَسْمٍ أَدْرَكَهُ الإِسْلاَمُ فَهُوَ عَلَى قَسْمِ الإِسْلاَمِ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Narrated Abdullah ibn Abbas: The Prophet (ﷺ) said: An estate which was divided in pre-Islamic period may follow the division in force then, but any estate in Islamic times must follow the division laid down by Islam",
+          "ur": "عبداللہ بن عباس رضی اللہ عنہما کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: زمانہ جاہلیت میں جو ترکہ تقسیم ہو گیا ہو وہ زمانہ اسلام میں بھی اسی حال پر باقی رہے گا، اور جو ترکہ اسلام کے زمانہ تک تقسیم نہیں ہوا تو اب اسلام کے آ جانے کے بعد اسلام کے قاعدہ و قانون کے مطابق تقسیم کیا جائے گا ۔",
+          "fr": "Rapporté par Abdullah ibn Abbas : Le Prophète ﷺ a dit : « Un héritage partagé à l’époque préislamique suit la répartition d’alors, mais tout héritage à l’époque islamique doit suivre la répartition fixée par l’islam. »",
+          "id": "Telah menceritakan kepada kami [Hajjaj bin Abu Ya'qub], telah menceritakan kepada kami [Musa bin Daud], telah menceritakan kepada kami [Muhammad bin Muslim], dari ['Amr bin Dinar], dari [Asy Sya'tsa`] dari [Ibnu Abbas], ia berkata; Nabi shallallahu 'alaihi wasallam bersabda: \"Setiap pembagian yang dibagikan pada masa jahiliyah adalah sesuai dengan aturan pembagian yang berlaku (pada masa itu), dan setiap pembagian yang dilakukan pada masa Islam adalah sesuai dengan pembagian menurut aturan Islam",
+          "tr": "İbn Abbas'dan demiştir ki: Nebi (s.a.v.) (şöyle) buyurdu: \"Cahiliyye döneminden önce paylaştırılan her miras, paylaştırılmış olduğu şekilde (geçerli)dir. İslamiyetin yetişmiş olduğu bir miras İslam taksimi üzere (taksime tabii)dir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 19,
+        "hadith": 30
+      },
+      "narrator": {
+        "en": "Abdullah ibn Abbas"
+      }
+    },
+    {
+      "hadithNumber": 2915,
+      "arabicNumber": 2915,
+      "book": 19,
+      "hadithInBook": 31,
+      "text": {
+        "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، قَالَ قُرِئَ عَلَى مَالِكٍ وَأَنَا حَاضِرٌ، قَالَ مَالِكٌ عَرَضَ عَلَىَّ نَافِعٌ عَنِ ابْنِ عُمَرَ، أَنَّ عَائِشَةَ، رضى الله عنها أُمَّ الْمُؤْمِنِينَ أَرَادَتْ أَنْ تَشْتَرِيَ جَارِيَةً تَعْتِقُهَا فَقَالَ أَهْلُهَا نَبِيعُكِهَا عَلَى أَنَّ وَلاَءَهَا لَنَا ‏.‏ فَذَكَرَتْ عَائِشَةُ ذَاكَ لِرَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَ ‏ \"‏ لاَ يَمْنَعُكِ ذَلِكَ فَإِنَّ الْوَلاَءَ لِمَنْ أَعْتَقَ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Narrated Ibn 'Umar:'Aishah, mother of believers (ra), intended to buy a slave-girl to set her free. Her people said: We shall sell her to you on one condition that we shall inherit from her. 'Aishah mentioned it to the Messenger of Allah (ﷺ). He said: That should not prevent you, for the right of inheritance belongs to the one who has set a person free",
+          "ur": "عبداللہ بن عمر رضی اللہ عنہما کہتے ہیں کہ ام المؤمنین عائشہ رضی اللہ عنہا نے ایک لونڈی خرید کر آزاد کرنا چاہا تو اس کے مالکوں نے کہا کہ ہم اسے اس شرط پر آپ کے ہاتھ بیچیں گے کہ اس کا حق ولاء ۱؎ ہمیں حاصل ہو، عائشہ رضی اللہ عنہا نے اس بات کا ذکر رسول اللہ صلی اللہ علیہ وسلم سے کیا تو آپ نے فرمایا: یہ خریدنے میں تمہارے لیے رکاوٹ نہیں کیونکہ ولاء اسی کا ہے جو آزاد کرے ۔",
+          "fr": "Rapporté par Ibn ‘Umar : ‘Aishah, la mère des croyants رضي الله عنها, voulait acheter une esclave pour l’affranchir. Sa famille a dit : « Nous te la vendrons à condition que nous héritions d’elle. » ‘Aishah en a parlé au Messager d’Allah ﷺ. Il a dit : « Cela ne doit pas t’en empêcher, car le droit d’hériter revient à celui qui a affranchi la personne. »",
+          "id": "Telah menceritakan kepada kami [Qutaibah bin Sa'id], ia berkata; telah dibacakan riwayat kepada Malik sementara aku menyaksikannya. [Malik] berkata; [Nafi'] telah memaparkan kepadaku dari [Ibnu Umar], bahwa Aisyah radliallahu 'anha ummul mukminin hendak membeli seorang budak wanita yang akan ia merdekakan. Kemudian tuannya berkata; kami akan menjualnya kepadamu dengan syarat perwaliaannya adalah milik kami. Kemudian Aisyah menceritakan hal tersebut kepada Rasulullah shallallahu 'alaihi wasallam, kemudian beliau berkata: \"Hal tersebut tidaklah menghalangimu, sesungguhnya perwalian adalah untuk orang yang membebaskan",
+          "tr": "İbn Ömer'den (r.a)- (rivayet olunduğuna göre) Mü'minlerin annesi Aişe (r.anha) hürriyetine kavuşturmak için bir câriye satın almak istemiş de (cariyenin) sahihleri \"Biz Onu sana ancak velâsı bize ait olmak üzere satarız\" demişler. Hz. Aişe bunu Rasülullah (s.a.v.)'e anlatmış. Hz. Peygamber de \" Bu sana mâni değildir. Çünkü velâsı âzad edene aittir.\" buyurmuştur"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (2169) Sahih Muslim (1504)"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 19,
+        "hadith": 31
+      },
+      "narrator": {
+        "en": "Ibn 'Umar"
+      }
+    },
+    {
+      "hadithNumber": 2916,
+      "arabicNumber": 2916,
+      "book": 19,
+      "hadithInBook": 32,
+      "text": {
+        "arabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا وَكِيعُ بْنُ الْجَرَّاحِ، عَنْ سُفْيَانَ الثَّوْرِيِّ، عَنْ مَنْصُورٍ، عَنْ إِبْرَاهِيمَ، عَنِ الأَسْوَدِ، عَنْ عَائِشَةَ، قَالَتْ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ الْوَلاَءُ لِمَنْ أَعْطَى الثَّمَنَ وَوَلِيَ النِّعْمَةَ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Narrated 'Aishah:The Messenger of Allah (ﷺ) as saying: The right of inheritance belongs to only to the one who paid the price (of the slave) and patronised him by doing an act of gratitude",
+          "ur": "ام المؤمنین عائشہ رضی اللہ عنہا کہتی ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ولاء اس شخص کا حق ہے جو قیمت دے کر خرید لے اور احسان کرے ( یعنی خرید کر غلام کو آزاد کر دے ) ۔",
+          "fr": "Rapporté par ‘Aishah رضي الله عنها : Le Messager d’Allah ﷺ a dit : « Le droit d’hériter appartient seulement à celui qui a payé le prix (de l’esclave) et l’a patronné par reconnaissance. »",
+          "id": "Telah menceritakan kepada kami [Utsman bin Abu Syaibah?], telah menceritakan kepada kami [Waki' bin Al Jarrah], dari [Sufyan Ats Tsauri] dari [Manshur] dari [Ibrahim] dari [Al Aswad] dari [Aisyah], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Perwalian adalah milik orang yang memberikan harga dan membebaskan",
+          "tr": "Hz. Aişe'den demiştir ki: Rasûlullah (s.a.v.) (şöyle) buyurdu: \"Velâ (köley'i hürriyetine kavuşturmak için gereken) fiyatı veren ve (hürriyete kavuşturmak) nimet(in)e sahip olan kimseye aittir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (6754)"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 19,
+        "hadith": 32
+      },
+      "narrator": {
+        "en": "'Aishah"
+      }
+    },
+    {
+      "hadithNumber": 2917,
+      "arabicNumber": 2917,
+      "book": 19,
+      "hadithInBook": 33,
+      "text": {
+        "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ عَمْرِو بْنِ أَبِي الْحَجَّاجِ أَبُو مَعْمَرٍ، حَدَّثَنَا عَبْدُ الْوَارِثِ، عَنْ حُسَيْنٍ الْمُعَلِّمِ، عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، أَنَّ رِئَابَ بْنَ حُذَيْفَةَ، تَزَوَّجَ امْرَأَةً فَوَلَدَتْ لَهُ ثَلاَثَةَ غِلْمَةٍ فَمَاتَتْ أُمُّهُمْ فَوَرِثُوهَا رِبَاعَهَا وَوَلاَءَ مَوَالِيهَا وَكَانَ عَمْرُو بْنُ الْعَاصِ عَصَبَةَ بَنِيهَا فَأَخْرَجَهُمْ إِلَى الشَّامِ فَمَاتُوا فَقَدِمَ عَمْرُو بْنُ الْعَاصِ وَمَاتَ مَوْلًى لَهَا وَتَرَكَ مَالاً لَهُ فَخَاصَمَهُ إِخْوَتُهَا إِلَى عُمَرَ بْنِ الْخَطَّابِ فَقَالَ عُمَرُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ مَا أَحْرَزَ الْوَلَدُ أَوِ الْوَالِدُ فَهُوَ لِعَصَبَتِهِ مَنْ كَانَ ‏\"‏ ‏.‏ قَالَ فَكَتَبَ لَهُ كِتَابًا فِيهِ شَهَادَةُ عَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ وَزَيْدِ بْنِ ثَابِتٍ وَرَجُلٍ آخَرَ فَلَمَّا اسْتُخْلِفَ عَبْدُ الْمَلِكِ اخْتَصَمُوا إِلَى هِشَامِ بْنِ إِسْمَاعِيلَ أَوْ إِلَى إِسْمَاعِيلَ بْنِ هِشَامٍ فَرَفَعَهُمْ إِلَى عَبْدِ الْمَلِكِ فَقَالَ هَذَا مِنَ الْقَضَاءِ الَّذِي مَا كُنْتُ أَرَاهُ ‏.‏ قَالَ فَقَضَى لَنَا بِكِتَابِ عُمَرَ بْنِ الْخَطَّابِ فَنَحْنُ فِيهِ إِلَى السَّاعَةِ ‏.‏",
+        "translations": {
+          "en": "Narrated 'Amr b. Suh'aib: On his father's authority, said that his grandfather reported: Rabab ibn Hudhayfah married a woman and three sons were born to him from her. Their mother then died. They inherited her houses and had the right of inheritance of her freed slaves. Amr ibn al-'As was the agnate of her sons. He sent them to Syria where they died. Amr ibn al-'As then came. A freed slave of hers died and left some property. Her brothers disputed with him and brought the case to Umar ibn al-Khattab. Umar reported the Messenger of Allah (ﷺ) as saying: Whatever property a son or a father receives as an heir will go to his agnates, whoever they may be. He then wrote a document for him, witnessed by AbdurRahman ibn Awf, Zayd ibn Thabit and one other person. When AbdulMalik became caliph, they presented the case to Hisham ibn Isma'il or Isma'il ibn Hisham (the narrator is doubtful). He sent them to 'Abd al-Malik who said: This is the decision which I have already seen. The narrator said: So he ('Abd al-Malik) made the decision on the basis of the document of Umar ibn al-Khattab, and that is still with us till this moment",
+          "ur": "عبداللہ بن عمرو رضی اللہ عنہما کہتے ہیں کہ رئاب بن حذیفہ نے ایک عورت سے شادی کی، اس کے بطن سے تین لڑکے پیدا ہوئے، پھر لڑکوں کی ماں مر گئی، اور وہ لڑکے اپنی ماں کے گھر کے اور اپنی ماں کے آزاد کئے ہوئے غلاموں کی ولاء کے مالک ہوئے، اور عمرو بن العاص رضی اللہ عنہ ان لڑکوں کے عصبہ ( یعنی وارث ) ہوئے اس کے بعد عمرو بن العاص رضی اللہ عنہ نے انہیں شام کی طرف نکال دیا، اور وہ وہاں مر گئے تو عمرو بن العاص رضی اللہ عنہ آئے اور اس عورت کا ایک آزاد کیا ہوا غلام مر گیا اور مال چھوڑ گیا تو اس عورت کے بھائی عمر بن خطاب رضی اللہ عنہ کے پاس اس عورت کے ولاء کا مقدمہ لے گئے، عمر رضی اللہ عنہ نے کہا: رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: جو ولاء اولاد یا باپ حاصل کرے تو وہ اس کے عصبوں کو ملے گی خواہ کوئی بھی ہو ( اولاد کے یا باپ کے مر جانے کے بعد ماں کے وارثوں کو نہ ملے گی ) پھر عمر رضی اللہ عنہ نے اس باب میں ایک فیصلہ نامہ لکھ دیا اور اس پر عبدالرحمٰن بن عوف اور زید بن ثابت رضی اللہ عنہما اور ایک اور شخص کی گواہی ثابت کر دی، جب عبدالملک بن مروان خلیفہ ہوئے تو پھر ان لوگوں نے جھگڑا کیا یہ لوگ اپنا مقدمہ ہشام بن اسماعیل یا اسماعیل بن ہشام کے پاس لے گئے انہوں نے عبدالملک کے پاس مقدمہ کو بھیج دیا، عبدالملک نے کہا: یہ فیصلہ تو ایسا لگتا ہے جیسے میں اس کو دیکھ چکا ہوں۔ راوی کہتے ہیں پھر عبدالملک نے عمر بن خطاب رضی اللہ عنہ کے فیصلہ کے مطابق فیصلہ دیا اور وہ ولاء اب تک ہمارے پاس ہے۔",
+          "fr": "Rapporté par ‘Amr b. Suh‘aib, d’après son père, qui le tient de son grand-père : Rabab ibn Hudhayfah a épousé une femme et a eu trois fils avec elle. Leur mère est décédée. Ils ont hérité de ses maisons et avaient le droit d’hériter de ses esclaves affranchis. ‘Amr ibn al-‘As était l’agnat de ses fils. Il les a envoyés en Syrie, où ils sont morts. ‘Amr ibn al-‘As est alors revenu. Un esclave affranchi de cette femme est mort et a laissé des biens. Les frères de la femme ont contesté avec lui et ont porté l’affaire devant Omar ibn al-Khattab. Omar a rapporté que le Messager d’Allah ﷺ avait dit : « Tout bien qu’un fils ou un père reçoit en héritage revient à ses agnats, quels qu’ils soient. » Il a alors rédigé un document pour lui, attesté par AbdurRahman ibn Awf, Zayd ibn Thabit et une autre personne. Quand AbdulMalik est devenu calife, ils ont présenté l’affaire à Hisham ibn Isma‘il ou Isma‘il ibn Hisham (le narrateur n’est pas sûr). Il les a envoyés à ‘Abd al-Malik qui a dit : « C’est la décision que j’ai déjà vue. » Le narrateur a dit : Ainsi, ‘Abd al-Malik a jugé selon le document d’Omar ibn al-Khattab, et il est encore chez nous à ce jour",
+          "id": "Telah menceritakan kepada kami [Abdullah bin 'Amr bin Abu Al Hajjaj Abu Ma'mar], telah menceritakan kepada kami [Abdul Warits] dari [Husain Al Mu'allim], dari ['Amr bin Syu'aib], dari [ayahnya], dari [kakeknya], bahwa Ri`ab bin Hudzaifah telah menikah dengan seorang wanita kemudian ia melahirkan tiga orang anak. Kemudian ibu mereka meninggal. Kemudian mereka mewarisi tempat tinggalnya dan perwalian mantan budaknya. Dan 'Amr bin Al 'Ash adalah 'ashabah (orang yang mendapat sisa dari pembagian warisan) anak-anak wanita tersebut, kemudian ia mengeluarkan mereka ke Syam, dan mereka meninggal. Kemudian 'Amr bin Al 'Ash datang dan mantan budak wanita tersebut dan meninggalkan harta untuknya. Kemudian para saudara wanita tersebut mempermasalahkannya kepada Umar bin Al Khathab, kemudian [Umar] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Apa yang dijaga seorang anak atau orang tua adalah untuk 'ashabahnya, siapapun dia.\" Ia berkata; kemudian Umar menulis untuknya sebuah surat yang berisi persaksian Abdurrahman bin 'Auf, dan Zaid bin Tsabit serta seorang laki-laki yang lain. Kemudian tatkala Abdul Malik ditunjuk menjadi Khalifah mereka memperselisihkannya kepada Hisyam bin Isma'il, atau kepada Isma'il bin Hisyam. Kemudian ia melaporkannya kepada Abdul Malik. Kemudian ia berkata; ini termasuk keputusan yang telah aku lihat. Ia berkata; kemudian Abdul Malik memutuskan untuk kami dengan surat Umar bin Al Khathab, dan kami dalam keputusan tersebut hingga saat ini",
+          "tr": "Amr b. Şuayb'ın dedesinden (rivayet olunduğuna göre) Riâb b. Huzeyfe bir kadınla evlenmiş de kadın ondan üç erkek çocuk dünyaya getirmiş, sonra çocukların annesi ölmüş. Çocuklar da annelerinin ve hürriyetine kavuşturduğu kölelerinin velâ hakkına vâris oldular. Amr b. As da (bu kadının) oğullarının asabesi idi. Onları Şam'a götürdü (çocuklar orada) öldüler. Bunun üzerine Amr b. As geri geldi ve (o sırada) kadının hürriyetine kavuşturduğu bir kölesi (geriye) bir miktar mal bırakarak öldü. (Amr b. As da hem çocukların hem de bu köle'nin mallarına vâris olarak el koydu) Bunun üzerine (ölen kadının hayatta bulunan erkek kardeşleri) Amr'ı Ömer b. el-Hattab'a şikayet ettiler. Ömer de -RasÛlullah sallallahu aleyhivesellem: \"Çocuğun yahutta babanın kazandığı mal onun (hayatta) olan asabesinindir.\" buyurdu.- dedi. (Ve Amr b. As lehine hüküm verdi). Bu hadisi rivayet eden Abdullah b. Amr rivayetine devamla dedi ki: (Ömer b. Hattâb) Amr b. As'a (hitaben bu meseleyle ilgili olarak): içinde Abdurrahman b. Avf ile Zeyd b. Sabit'in ve diğer bir adamın şahitliği bulunan bir de mektub yazdı. Nihayet Abdülmelik halifelik makamına getirilince (Hz. Ömer'in hükmüne uyulmadığı için ölen kadının erkek kardeşleri) Hişam b. İsrfıail'e -yahutta İsmail b. Hişam'a-şikâyette bulundular. (Hişam b. İsmail de) onlar(ın davasını) Abdülmelik'e havale etti. (Abdülmelik, Hz. Ömer'in mektubunu ve bu meseledeki hükmünü okuyunca: (Hz. Ömer'in verdiği) bu hüküm, benim de uygun gördüğüm paylaştığım hükümdür, dedi. Ömer b. Hattâb'ın mektubuna göre o da lehimize hüküm verdi. \"Biz şu ana kadar bu hükme göre amel edegeldik"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 19,
+        "hadith": 33
+      },
+      "narrator": {
+        "en": "'Amr b. Suh'aib"
+      }
+    },
+    {
+      "hadithNumber": 2918,
+      "arabicNumber": 2918,
+      "book": 19,
+      "hadithInBook": 34,
+      "text": {
+        "arabic": "حَدَّثَنَا يَزِيدُ بْنُ خَالِدِ بْنِ مَوْهَبٍ الرَّمْلِيُّ، وَهِشَامُ بْنُ عَمَّارٍ، قَالاَ حَدَّثَنَا يَحْيَى، - قَالَ أَبُو دَاوُدَ وَهُوَ ابْنُ حَمْزَةَ - عَنْ عَبْدِ الْعَزِيزِ بْنِ عُمَرَ، قَالَ سَمِعْتُ عَبْدَ اللَّهِ بْنَ مَوْهَبٍ، يُحَدِّثُ عُمَرَ بْنَ عَبْدِ الْعَزِيزِ عَنْ قَبِيصَةَ بْنِ ذُؤَيْبٍ، - قَالَ هِشَامٌ عَنْ تَمِيمٍ الدَّارِيِّ، أَنَّهُ قَالَ يَا رَسُولَ اللَّهِ ‏.‏ وَقَالَ يَزِيدُ - إِنَّ تَمِيمًا قَالَ يَا رَسُولَ اللَّهِ مَا السُّنَّةُ فِي الرَّجُلِ يُسْلِمُ عَلَى يَدَىِ الرَّجُلِ مِنَ الْمُسْلِمِينَ قَالَ ‏ \"‏ هُوَ أَوْلَى النَّاسِ بِمَحْيَاهُ وَمَمَاتِهِ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "(Narrated Tamim ad-Dari: Tamim asked: Messenger of Allah), what is the sunnah about a man who accepts Islam by advice and persuasion of a Muslim? He replied: He is the nearest to him in life and in death",
+          "ur": "تمیم داری رضی اللہ عنہ کہتے ہیں کہ میں نے عرض کیا: اللہ کے رسول! اس شخص کے بارے میں شرع کا کیا حکم ہے جو کسی مسلمان شخص کے ہاتھ پر ایمان لایا ہو؟ آپ صلی اللہ علیہ وسلم نے فرمایا: وہ شخص دوسروں کی بہ نسبت اس کی موت و حیات کے زیادہ قریب ہے ( اگر اس کا کوئی اور وارث نہ ہو تو وہی وارث ہو گا ) ۔",
+          "fr": "Rapporté par Tamim ad-Dari : Tamim a demandé : « Messager d’Allah, quelle est la règle pour un homme qui accepte l’islam grâce aux conseils d’un musulman ? » Il a répondu : « Il est le plus proche de lui, dans la vie comme dans la mort. »",
+          "id": "Telah menceritakan kepada kami [Yazid? bin Khalid bin Mauhib Ar Ramli], dan [Hisyam bin 'Ammar], mereka berkata; telah menceritakan kepada kami [Yahya], Abu Daud berkata; ia adalah Ibnu Hamzah, dari [Abdul Aziz bin Umar], ia berkata; saya mendengar [Abdullah bin Mauhib] menceritakan kepada Umar bin Abdul Aziz, dari [Qabishah bin Dzuaib], Hisyam berkata; dari [Tamim Ad Dari], bahwa ia berkata; wahai Rasulullah, -sedangkan Yazid? berkata; sesungguhnya Tamim berkata; wahai Rasulullah, apakah sunnah bagi seorang laki-laki yang masuk Islam di hadapan seorang muslim? Beliau bersabda: \"Ia adalah yang lebih layak untuk membela muslim tersebut dikala hidup dan matinya",
+          "tr": "Hisam (b. Ammar) ile Yezid (b. Halid)'in haber verdiklerine göre; (Temim-ed-Dâri, Fahr-i kainat efendimiz'e); \"Ey Allah'ın Rasûlü, müslüman bir kimsenin telkiniyle onun huzurunda müslüman olan bir kişi hakkında şer'î hüküm nedir?\" diye sormuş. (Nebi s.a.v.): \"O (müslüman, müslümanlığına vesile olduğu kişiyi) sağlığında ve ölümünde insanların en yakın olanıdır.\" buyurmuştur"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 19,
+        "hadith": 34
+      }
+    },
+    {
+      "hadithNumber": 2919,
+      "arabicNumber": 2919,
+      "book": 19,
+      "hadithInBook": 35,
+      "text": {
+        "arabic": "حَدَّثَنَا حَفْصُ بْنُ عُمَرَ، حَدَّثَنَا شُعْبَةُ، عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ، عَنِ ابْنِ عُمَرَ، رضى الله عنهما قَالَ نَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم عَنْ بَيْعِ الْوَلاَءِ وَعَنْ هِبَتِهِ ‏.‏",
+        "translations": {
+          "en": "Narrated Ibn 'Umar:The Messenger of Allah (ﷺ) forbade selling or giving away the right to inheritance by a manumitted slave",
+          "ur": "عبداللہ بن عمر رضی اللہ عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے ولاء کو بیچنے اور اسے ہبہ کرنے سے منع فرمایا ہے ۱؎۔",
+          "fr": "Rapporté par Ibn ‘Umar : Le Messager d’Allah ﷺ a interdit de vendre ou de céder le droit d’hériter d’un esclave affranchi",
+          "id": "Telah menceritakan kepada kami [Hafsh bin Umar], telah menceritakan kepada kami [Syu'bah] dari [Abdullah bin Dinar], dari [Ibnu Umar] radliallahu 'anhuma, ia berkata; Rasulullah shallallahu 'alaihi wasallam melarang dari menjual perwalian dan menghibahkannya",
+          "tr": "İbn Ömer (r.a.) demiştir ki: \"Rasûlullah (s.a.v.) velâ (hakkı)nın satılmasını ve bağışlanmasını yasakladı"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (2535) Sahih Muslim (1506)"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 19,
+        "hadith": 35
+      },
+      "narrator": {
+        "en": "Ibn 'Umar"
+      }
+    },
+    {
+      "hadithNumber": 2920,
+      "arabicNumber": 2920,
+      "book": 19,
+      "hadithInBook": 36,
+      "text": {
+        "arabic": "حَدَّثَنَا حُسَيْنُ بْنُ مُعَاذٍ، حَدَّثَنَا عَبْدُ الأَعْلَى، حَدَّثَنَا مُحَمَّدٌ، - يَعْنِي ابْنَ إِسْحَاقَ - عَنْ يَزِيدَ بْنِ عَبْدِ اللَّهِ بْنِ قُسَيْطٍ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ إِذَا اسْتَهَلَّ الْمَوْلُودُ وُرِّثَ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Narrated AbuHurayrah: The Prophet (ﷺ) said: When an infant has raised its voice (and then dies), it will be treated as an heir",
+          "ur": "ابوہریرہ رضی اللہ عنہ کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: جب بچہ آواز کرے تو وراثت کا حقدار ہو جائے گا ۱؎ ۔",
+          "fr": "Rapporté par Abu Hurayrah رضي الله عنه : Le Prophète ﷺ a dit : « Quand un nourrisson a poussé un cri (et meurt ensuite), il est considéré comme héritier. »",
+          "id": "Telah menceritakan kepada kami [Husain bin Muadz], telah menceritakan kepada kami [Abdul A'la], telah menceritakan kepada kami [Muhammad bin Ishaq] dari [Yazid? bin Abdullah bin Qusaith] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: \"Apabila anak yang lahir (dalam keadaan) menangis, maka ia diwarisi",
+          "tr": "Ebû Hureyre'den demiştir ki; Nebi (s.a.v.) (şöyle) buyurmuştur: \"Yeni doğan bir çocuk (işitecek kadar yüksek) bir ses çıkaracak olursa vâris kılınır"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 19,
+        "hadith": 36
+      },
+      "narrator": {
+        "en": "AbuHurayrah"
+      }
+    },
+    {
+      "hadithNumber": 2921,
+      "arabicNumber": 2921,
+      "book": 19,
+      "hadithInBook": 37,
+      "text": {
+        "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ مُحَمَّدِ بْنِ ثَابِتٍ، حَدَّثَنِي عَلِيُّ بْنُ حُسَيْنٍ، عَنْ أَبِيهِ، عَنْ يَزِيدَ النَّحْوِيِّ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، رضى الله عنهما قَالَ ‏{‏ وَالَّذِينَ عَقَدَتْ أَيْمَانُكُمْ فَآتُوهُمْ نَصِيبَهُمْ ‏}‏ كَانَ الرَّجُلُ يُحَالِفُ الرَّجُلَ لَيْسَ بَيْنَهُمَا نَسَبٌ فَيَرِثُ أَحَدُهُمَا الآخَرَ فَنَسَخَ ذَلِكَ الأَنْفَالُ فَقَالَ تَعَالَى ‏{‏ وَأُولُو الأَرْحَامِ بَعْضُهُمْ أَوْلَى بِبَعْضٍ ‏}‏ ‏.‏",
+        "translations": {
+          "en": "Narrated Ibn 'Abbas:To those also, to whom your right hand was pledged, give their due portion. A man made an agreement with another man (in early days of Islam), and there was no relationship between the ; one of them inherited from the other. The following verse of Surat Al-Anfal abrogated it: \"But kindred by blood have prior right against each other",
+          "ur": "عبداللہ بن عباس رضی اللہ عنہما کہتے ہیں اللہ تعالیٰ کے فرمان: «والذين عقدت أيمانكم فآتوهم نصيبهم» جن لوگوں سے تم نے قسمیں کھائی ہیں ان کو ان کا حصہ دے دو ( سورۃ النساء: ۳۳ ) کے مطابق پہلے ایک شخص دوسرے شخص سے جس سے قرابت نہ ہوتی باہمی اخوت اور ایک دوسرے کے وارث ہونے کا عہد و پیمان کرتا پھر ایک دوسرے کا وارث ہوتا، پھر یہ حکم سورۃ الانفال کی آیت:«وأولو الأرحام بعضهم أولى ببعض» اور رشتے ناتے والے ان میں سے بعض بعض سے زیادہ نزدیک ہیں ( سورۃ الانفال: ۷۵ ) سے منسوخ ہو گیا۔",
+          "fr": "Rapporté par Ibn ‘Abbas : « À ceux aussi à qui votre main droite était liée, donnez leur part due. » Un homme avait conclu un accord avec un autre homme (au début de l’islam), sans lien de parenté, et l’un héritait de l’autre. Le verset suivant de la sourate Al-Anfal l’a abrogé : « Mais les proches parents ont plus de droits les uns sur les autres. »",
+          "id": "Telah menceritakan kepada kami [Ahmad bin Muhammad bin Tsabit], telah menceritakan kepadaku [Ali bin Husain], dari [ayahnya] dari [Yazid An Nahwi] dari [Ikrimah] dari [Ibnu Abbas] radliallahu 'anhuma, ia berkata; firman Allah: \"Dan (jika ada) orang-orang yang kamu telah bersumpah setia dengan mereka, maka berilah kepada mereka bagiannya.\" Dahulu seorang laki-laki saling bersumpah dengan orang lain yang tidak memiliki nasab dengannya, kemudian yang satu mewarisi yang lainnya. Kemudian hal tersebut dihapuskan oleh Surat Al Anfal: \"Orang-orang yang mempunyai hubungan kerabat itu sebagiannya lebih berhak terhadap sesamanya (daripada yang bukan kerabat)",
+          "tr": "İbn Abbas'dan demiştir kir \"Yeminlerinizin bağladığı kimselere hisselerini verin..[Nisâ 33] (âyet-i kerimesi inince müslümanlardan) birisi diğeri ile anlaşıyor ve aralarında bir kan bağı olmadığı halde (anlaşma sebebiyle bu iki kişi'den) biri ötekine varis oluyordu. Sonra Enfâl (âyeti) bunu yürürlükten kaldırdo. Yüce Allah (Enfâl âyetinde şöyle) buyurdu: \"Rahim sahihleri (hısımlar) Allah'ın kitabına göre birbirlerine (varis olmağa) daha yakındırlar.[Enfal]"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 19,
+        "hadith": 37
+      },
+      "narrator": {
+        "en": "Ibn 'Abbas"
+      }
+    },
+    {
+      "hadithNumber": 2922,
+      "arabicNumber": 2922,
+      "book": 19,
+      "hadithInBook": 38,
+      "text": {
+        "arabic": "حَدَّثَنَا هَارُونُ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا أَبُو أُسَامَةَ، حَدَّثَنِي إِدْرِيسُ بْنُ يَزِيدَ، حَدَّثَنَا طَلْحَةُ بْنُ مُصَرِّفٍ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ، فِي قَوْلِهِ ‏{‏ وَالَّذِينَ عَقَدَتْ أَيْمَانُكُمْ فَآتُوهُمْ نَصِيبَهُمْ ‏}‏ قَالَ كَانَ الْمُهَاجِرُونَ حِينَ قَدِمُوا الْمَدِينَةَ تُوَرِّثُ الأَنْصَارَ دُونَ ذَوِي رَحِمِهِ لِلأُخُوَّةِ الَّتِي آخَى رَسُولُ اللَّهِ صلى الله عليه وسلم بَيْنَهُمْ فَلَمَّا نَزَلَتْ هَذِهِ الآيَةُ ‏{‏ وَلِكُلٍّ جَعَلْنَا مَوَالِيَ مِمَّا تَرَكَ ‏}‏ قَالَ نَسَخَتْهَا ‏{‏ وَالَّذِينَ عَقَدَتْ أَيْمَانُكُمْ فَآتُوهُمْ نَصِيبَهُمْ ‏}‏ مِنَ النُّصْرَةِ وَالنَّصِيحَةِ وَالرِّفَادَةِ وَيُوصِي لَهُ وَقَدْ ذَهَبَ الْمِيرَاثُ ‏.‏",
+        "translations": {
+          "en": "Ibn 'Abbas explained the following Qur'anic verse :\"To those also, to whom your right hand was pledged, give your portion.\" When the Emigrants came to Medina. they inherited from the Helpers without any blood-relationship with them for the brotherhood which the Messenger of Allah (ﷺ) established between them. When the following verse was revealed: \"To (benefit) everyone we have appointed shares and heirs to property left by parent and relatives.\" it abrogated the verse: \"To those also, to whom your right hand was pledged, give their due portion.\" This alliance was made for help, well wishing and cooperation. Now a legacy can be made for him. (The right to)inheritance was abolished",
+          "ur": "عبداللہ بن عباس رضی اللہ عنہما کہتے ہیں کہ اللہ تعالیٰ کے قول: «والذين عقدت أيمانكم فآتوهم نصيبهم» کا قصہ یہ ہے کہ جب مہاجرین مکہ سے مدینہ ہجرت کر کے آئے تو اس مواخات ( بھائی چارہ ) کی بنا پر جو رسول اللہ صلی اللہ علیہ وسلم نے انصار و مہاجرین کے درمیان کرا دی تھی وہ انصار کے وارث ہوتے ( اور انصار ان کے وارث ہوتے ) اور عزیز و اقارب وارث نہ ہوتے، لیکن جب یہ آیت«ولكل جعلنا موالي مما ترك» ماں باپ یا قرابت دار جو چھوڑ کر مریں اس کے وارث ہم نے ہر شخص کے مقرر کر دیے ہیں ( سورۃ النساء: ۳۳ ) نازل ہوئی تو «والذين عقدت أيمانكم فآتوهم نصيبهم» ‏‏‏‏ والی آیت کو منسوخ کر دیا، اور اس کا مطلب یہ رہ گیا کہ ان کی اعانت، خیر خواہی اور سہارے کے طور پر جو چاہے کر دے نیز ان کے لیے وہ ( ایک تہائی مال ) کی وصیت کر سکتا ہے، میراث ختم ہو گئی۔",
+          "fr": "Ibn ‘Abbas a expliqué le verset coranique suivant : « À ceux aussi à qui votre main droite était liée, donnez leur part. » Quand les Émigrants sont venus à Médine, ils héritaient des Ansar sans lien de sang, à cause de la fraternité que le Messager d’Allah ﷺ avait instaurée entre eux. Quand le verset suivant a été révélé : « À chacun, Nous avons assigné des parts et des héritiers pour les biens laissés par les parents et les proches », cela a abrogé le verset : « À ceux aussi à qui votre main droite était liée, donnez leur part. » Cette alliance était pour l’entraide, la bienveillance et la coopération. Désormais, on peut faire un legs à cette personne. Le droit à l’héritage a été aboli",
+          "id": "Telah menceritakan kepada kami [Harun bin Abdullah], telah menceritakan kepada kami [Abu Usamah], telah menceritakan kepadaku [Idris bin Yazid?], telah menceritakan kepada kami [Thalhah bin Musharrif] dari [Sa'id bin Jubair], dari [Ibnu Abbas] mengenai firman Allah ta'ala: \"Dan (jika ada) orang-orang yang kamu telah bersumpah setia dengan mereka, maka berilah kepada mereka bagiannya.\" Ia berkata; dahulu orang-orang muhajirin ketika datang ke Madinah, orang-orang anshar diwarisi selain orang-orang yang memiliki hubungan kekerabatan dengannya karena persaudaraan yang telah Allah perintahkan diantara mereka. Kemudian tatkala turun ayat ini: \"Bagi tiap-tiap harta peninggalan dari harta yang ditinggalkan…..\" ia berkata; ayat tersebut dihapus ayat: \"Dan (jika ada) orang-orang yang kamu telah bersumpah setia dengan mereka, maka berilah kepada mereka bagiannya.\" Yaitu berupa pertolongan, nasehat, serta bantuan, berwasiat kepadanya dan warisan telah pergi",
+          "tr": "İbn Abbâs'dan \"Yeminlerinizin bağladığı kimselere hisselerini veriniz\"[Nisa 33] âyeti hakkında (şöyle) dediği (rivayet olunmuştur): \"Muhacirler Medine'ye geldikleri zaman Rasûlullah (s.a.v.)'in ensarla muhacirler arasında kurmuş olduğu kardeşlikten dolayı (muhacirler) ensara (bir ensarlının) akrabasından önce (mirasçı kılınırlardı). (Bu âyet bu tatbikatla ilgiliydi. Bir süre sonra) \"Ana babanın ve akraba'nın bıraktıklarından her birine varisler kıldık...[Nisa 33] (mealindeki âyet-i kerime) inince bu âyet öbür âyeti neshetti. Binaenaleyh) \"yeminlerinizin bağladığı kimselere hisselerinizi veriniz\"[Nisa 33] (âyet-i kerimesinde yeminlerin bağladığı kimselere verilmesi emredilen hisseden maksat) yardım, nasihat ve onlara yapılacak vasiyettir. (îşte bu şekil­de muhacirlerin ensarın malı üzerindeki) miras (hakları) yürürlükten kalktı"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (4580)"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 19,
+        "hadith": 38
+      }
+    },
+    {
+      "hadithNumber": 2923,
+      "arabicNumber": 2923,
+      "book": 19,
+      "hadithInBook": 39,
+      "text": {
+        "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ حَنْبَلٍ، وَعَبْدُ الْعَزِيزِ بْنُ يَحْيَى الْمَعْنَى، - قَالَ أَحْمَدُ - حَدَّثَنَا مُحَمَّدُ بْنُ سَلَمَةَ، عَنِ ابْنِ إِسْحَاقَ، عَنْ دَاوُدَ بْنِ الْحُصَيْنِ، قَالَ كُنْتُ أَقْرَأُ عَلَى أُمِّ سَعْدٍ بِنْتِ الرَّبِيعِ وَكَانَتْ يَتِيمَةً فِي حِجْرِ أَبِي بَكْرٍ فَقَرَأْتُ ‏{‏ وَالَّذِينَ عَقَدَتْ أَيْمَانُكُمْ ‏}‏ فَقَالَتْ لاَ تَقْرَأْ ‏{‏ وَالَّذِينَ عَاقَدَتْ أَيْمَانُكُمْ ‏}‏ وَلَكِنْ ‏{‏ وَالَّذِينَ عَقَدَتْ أَيْمَانُكُمْ ‏}‏ إِنَّمَا نَزَلَتْ فِي أَبِي بَكْرٍ وَابْنِهِ عَبْدِ الرَّحْمَنِ حِينَ أَبَى الإِسْلاَمَ فَحَلَفَ أَبُو بَكْرٍ أَلاَّ يُوَرِّثَهُ فَلَمَّا أَسْلَمَ أَمَرَ اللَّهُ تَعَالَى نَبِيَّهُ عَلَيْهِ السَّلاَمُ أَنْ يُؤْتِيَهُ نَصِيبَهُ ‏.‏ زَادَ عَبْدُ الْعَزِيزِ فَمَا أَسْلَمَ حَتَّى حُمِلَ عَلَى الإِسْلاَمِ بِالسَّيْفِ ‏.‏ قَالَ أَبُو دَاوُدَ مَنْ قَالَ ‏{‏ عَقَدَتْ ‏}‏ جَعَلَهُ حِلْفًا وَمَنْ قَالَ ‏{‏ عَاقَدَتْ ‏}‏ جَعَلَهُ حَالِفًا وَالصَّوَابُ حَدِيثُ طَلْحَةَ ‏{‏ عَاقَدَتْ ‏}‏ ‏.‏",
+        "translations": {
+          "en": "Narrated Dawud b. al-Husain: I used to learn the reading of the Qur'an from Umm Sa'd, daughter of al-Rabi'. She was an orphan in the guardianship of Abu Bakr. I read the Qur'anic verse \"To those also to whom your right hand was pledged.\" She said: Do not read the verse; \"To those also to whom your right hand was pledged.\" This was revealed about Abu Bakr and his son 'Abd al-Rahman when he refused to accept Islam. Abu Bakr took an oath that he would not give him a share from inheritance. When he embraced Islam Allah Most High commanded His Prophet (ﷺ) to give him the share. The narrator 'Abd al-Aziz added: He did not accept Islam until he was urged on Islam by sword. Abu Dawud said: He who narrated the word 'aqadat means a pact ; and he who narrated the word 'aaqadat means the party who made a pact. The correct is the tradition of Talhah ('aaqadat)",
+          "ur": "داود بن حصین کہتے ہیں کہ میں ام سعد بنت ربیع سے ( کلام پاک ) پڑھتا تھا وہ ابوبکر صدیق رضی اللہ عنہ کی زیر پرورش ایک یتیم بچی تھیں، میں نے اس آیت «والذين عقدت أيمانكم» کو پڑھا تو کہنے لگیں: اس آیت کو نہ پڑھو، یہ ابوبکر اور ان کے بیٹے عبدالرحمٰن رضی اللہ عنہما کے متعلق اتری ہے، جب عبدالرحمٰن نے مسلمان ہونے سے انکار کیا تو ابوبکر رضی اللہ عنہ نے قسم کھا لی کہ میں ان کو وارث نہیں بناؤں گا پھر جب وہ مسلمان ہو گئے تو اللہ نے اپنے نبی اکرم صلی اللہ علیہ وسلم کو حکم دیا کہ وہ ( ابوبکر رضی اللہ عنہ سے کہیں ) کہ وہ ان کا حصہ دیں۔ عبدالعزیز کی روایت میں اتنا زیادہ ہے کہ عبدالرحمٰن تلوار کے دباؤ میں آ کر مسلمان ہوئے ( یعنی جب اسلام کو غلبہ حاصل ہوا ) ۔ ابوداؤد کہتے ہیں: جس نے «عقدت» کہا اس نے اس سے «حلف» اور جس نے «عاقدت» کہا اس نے اس سے«حالف» مراد لیا اور صحیح طلحہ کی حدیث ہے جس میں «عاقدت» ہے۔",
+          "fr": "Rapporté par Dawud b. al-Husain : J’apprenais la lecture du Coran auprès de Umm Sa‘d, fille d’al-Rabi‘. Elle était orpheline sous la tutelle d’Abu Bakr. J’ai lu le verset coranique : « À ceux aussi à qui votre main droite était liée. » Elle a dit : « Ne lis pas ce verset ; il a été révélé à propos d’Abu Bakr et de son fils ‘Abd al-Rahman quand il a refusé d’accepter l’islam. Abu Bakr a juré de ne pas lui donner de part d’héritage. Quand il a embrassé l’islam, Allah le Très-Haut a ordonné à Son Prophète ﷺ de lui donner sa part. » Le narrateur ‘Abd al-Aziz a ajouté : Il n’a accepté l’islam que sous la contrainte de l’épée. Abu Dawud a dit : Celui qui a rapporté le mot « ‘aqadat » signifie un pacte ; et celui qui a rapporté « ‘aaqadat » signifie la partie qui a fait le pacte. La version correcte est celle de Talhah (« ‘aaqadat »)",
+          "id": "Telah menceritakan kepada kami [Ahmad bin Hanbal] dan [Abdul Aziz bin Yahya] secara makna, Ahmad berkata; telah menceritakan kepada kami [Muhammad bin Salamah], dari [Ibnu Ishaq] dari [Daud bin Al Hushain], ia berkata; dahulu aku membacakan riwayat kepada [Ummu Sa'd binti Ar Rabi'] dan ia dahulu adalah seorang yatim di dalam asuhan Abu Bakr, kemudian aku membaca: WALLADZIINA 'AQADAT AIMAANUKUM \"Dan (jika ada) orang-orang yang kamu telah bersumpah setia dengan mereka……\" Kemudian Ummu Sa'd berkata; janganlah engkau membaca; WALLADZIINA 'AQADAT AIMAANUKUM \"Dan (jika ada) orang-orang yang kamu telah bersumpah setia dengan mereka..\" sesungguhnya ayat tersebut turun mengenai Abu Bakr dan anaknya yaitu Abdurrahman ketika ia menolak masuk Islam, kemudian Abu Bakr bersumpah bahwa ia tidak akan memberinya warisan. Kemudian tatkala Abdurrahman telah masuk Islam, maka Allah Ta'ala memerintahkan NabiNya shallallahu 'alaihi wasallam agar memberikan kepadanya bagiannya. Abdul Aziz menambahkan; tidaklah ia masuk Islam hingga ia didorong masuk Islam dengan acungan pedang. Abu Daud berkata; barangsiapa yang mengucapkan 'aqadat maka ia menjadikan sebuah sumpah, sedangkan orang yang mengatakan; 'aaqadat maka ia menjadikannya orang yang bersumpah. Ia berkata; dan yang benar adalah hadits Thalhah yaitu: 'aaqadat",
+          "tr": "Davûd b. el-Husayn'dan demiştir ki: Ben Ümmü Sa'd bnt er-Rabi'a (kur'an) okuyordum. (Ümmü Sa'd) Ebû Bekir'in himayesinde kalmış yetim bir kız idi. (ben kendisine) \"yeminlerinizin bağladığı kimselere hisselerini verin...[Nisa 33], (âyetini) okuyunca - (bu âyeti) ........ (şeklinde) okuma (da şeklinde oku).Çünkü bu âyet Ebû Bekir'le İslamı kabul etmeyen oğlu Abdurrahman hakkında inmişti, (oğlunun müslümanhğı reddettiğini gören) Hz. Ebû Bekir de onu varis kılmayacağına yemin etmişti. (Abdurrahman) müslüman olunca yüce Allah, onun hissesini vermesini Peygamberine emretti. (Râvi) Abdülaziz (bu rivayete şunu da) ilave etti: (Abdurrahman) kılıçla İslama zorlanıncaya kadar müslümanhğa girmedi. Ebû Dâvud der ki (bu âyeti) ..... (şeklinde) okuyan bir kimse bu akdi (tek taraflı) bir yemin kılmış olur. ........ (şeklinde) okuyan da bu akdi karşılıklı yemin kılmış olur..' Doğrusu ise Talha'nın rivayeti (olan) (şeklindeki kıraat)tir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 19,
+        "hadith": 39
+      },
+      "narrator": {
+        "en": "Dawud b. al-Husain"
+      }
+    },
+    {
+      "hadithNumber": 2924,
+      "arabicNumber": 2924,
+      "book": 19,
+      "hadithInBook": 40,
+      "text": {
+        "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ مُحَمَّدٍ، حَدَّثَنَا عَلِيُّ بْنُ حُسَيْنٍ، عَنْ أَبِيهِ، عَنْ يَزِيدَ النَّحْوِيِّ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، وَالَّذِينَ، آمَنُوا وَهَاجَرُوا وَالَّذِينَ آمَنُوا وَلَمْ يُهَاجِرُوا فَكَانَ الأَعْرَابِيُّ لاَ يَرِثُ الْمُهَاجِرَ وَلاَ يَرِثُهُ الْمُهَاجِرُ فَنَسَخَتْهَا فَقَالَ ‏{‏ وَأُولُو الأَرْحَامِ بَعْضُهُمْ أَوْلَى بِبَعْضٍ ‏}‏",
+        "translations": {
+          "en": "Narrated Ibn 'Abbas:Referring to the verse: \"Those who believed and adopted exile... As to those who believed but came not into exile\": A bedouin (who did not migrate to Medina) did not inherit from an emigrant, and an emigrant did no inherit from him. It was abrogated by the verse: \"But kindred by blood have prior rights against each other",
+          "ur": "عبداللہ بن عباس رضی اللہ عنہما کہتے ہیں کہ پہلے اللہ تعالیٰ نے یوں فرمایا تھا: «والذين، ‏‏‏‏ آمنوا وهاجروا» ، «والذين آمنوا ولم يهاجروا» جو لوگ ایمان لائے اور ہجرت کی وہ ایک دوسرے کے وارث ہوں گے اور جو لوگ ایمان لائے اور ہجرت نہیں کی تو وہ ان کے وارث نہیں ہوں گے ( سورۃ الانفال: ۷۲ ) تو اعرابی ۱؎ مہاجر کا وارث نہ ہوتا اور نہ مہاجر اس کا وارث ہوتا اس کے بعد «وأولو الأرحام بعضهم أولى ببعض» اور رشتے ناتے والے ان میں سے بعض بعض سے زیادہ نزدیک ہیں ( سورۃ الانفال: ۷۵ ) والی آیت سے یہ حکم منسوخ ہو گیا۔",
+          "fr": "Rapporté par Ibn ‘Abbas : En référence au verset : « Ceux qui ont cru et ont émigré… Quant à ceux qui ont cru mais n’ont pas émigré » : Un bédouin (qui n’a pas émigré à Médine) n’héritait pas d’un émigrant, et un émigrant n’héritait pas de lui. Cela a été abrogé par le verset : « Mais les proches parents ont plus de droits les uns sur les autres. »",
+          "id": "Telah menceritakan kepada kami [Ahmad bin Muhammad], telah menceritakan kepada kami [Ali bin Husain], dari [ayahnya], dari [Yazid? An Nahwi], dari [Ikrimah], dari [Ibnu Abbas]: \"Dan orang-orang yang beriman dan berhijrah…\" serta \"Dan orang-orang yang beriman dan belum berhijrah….\" Dahulu orang badui tidak mewarisi orang muhajir dan ia tidak diwarisi orang muhajir, kemudian ayat tersebut dihapus, Allah berfirman: \"Orang-orang yang mempunyai hubungan kerabat itu sebagiannya lebih berhak terhadap sesamanya (daripada yang bukan kerabat)",
+          "tr": "İbn Abbâs (r.a.)'den demiştir ki: “Onlar ki inandılar ve hicret ettiler...[Enfâl 72] (âyet-i kerimesi inince (Hicret etmemiş olan müslüman) bir arab (yakınlarından olan) bir muhacire mirasçı olamadığı gibi bir muhacirde ona mirasçı olamazdı. \"... Rahim sahihleri (akraba olanlar) biribirlerine (mirasçı olmağa) daha uygundurlar...\"[Enfâl 75] (âyet-i kerimesi) bu âyeti neshetti"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 19,
+        "hadith": 40
+      },
+      "narrator": {
+        "en": "Ibn 'Abbas"
+      }
+    },
+    {
+      "hadithNumber": 2925,
+      "arabicNumber": 2925,
+      "book": 19,
+      "hadithInBook": 41,
+      "text": {
+        "arabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا مُحَمَّدُ بْنُ بِشْرٍ، وَابْنُ، نُمَيْرٍ وَأَبُو أُسَامَةَ عَنْ زَكَرِيَّا، عَنْ سَعْدِ بْنِ إِبْرَاهِيمَ، عَنْ أَبِيهِ، عَنْ جُبَيْرِ بْنِ مُطْعِمٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ لاَ حِلْفَ فِي الإِسْلاَمِ وَأَيُّمَا حِلْفٍ كَانَ فِي الْجَاهِلِيَّةِ لَمْ يَزِدْهُ الإِسْلاَمُ إِلاَّ شِدَّةً ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Narrated Jubair b. Mu'tim:The Messenger of Allah (ﷺ) as saying: There is no alliance in Islam, and Islam strengthened the alliance made during pre-Islamic days",
+          "ur": "جبیر بن مطعم رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا کہ ( زمانہ کفر کی ) کوئی بھی قسم اور عہد و پیمان کا اسلام میں کچھ اعتبار نہیں، اور جو عہد و پیمان زمانہ جاہلیت میں ( بھلے کام کے لیے ) تھا تو اسلام نے اسے مزید مضبوطی بخشی ہے ۱؎۔",
+          "fr": "Rapporté par Jubair b. Mu‘tim : Le Messager d’Allah ﷺ a dit : « Il n’y a pas d’alliance en islam, et l’islam a renforcé l’alliance conclue pendant la période préislamique. »",
+          "id": "Telah menceritakan kepada kami [Utsman bin Abu Syaibah?], telah menceritakan kepada kami [Muhammad bin Bisyr] dan [Ibnu Numair] serta [Abu Usamah] dari [Zakariya] dari [Sa'd bin Ibrahim] dari [ayahnya] dari [Jubair bin Muth'im], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Tidak ada perjanjian (melakukan hal-hal yang dilarang syariat) dalam Islam, apapun bentuk bentuk perjanjian yang telah dilakukan pada masa jahiliyah (berkenaan dengan hal-hal kebaikan) maka Islam akan mengukuhkan dan menguatkannya",
+          "tr": "Cübeyr b. Müt'im'den demiştir ki: Rasûlullah (s.a.v.) (şöyle) buyurdu: İslâmiyet'te (kötülükte yardımlaşmak üzere) antlaşma yoktur. Cahiliye döneminde (hayırlı işlerde yardımlaşmak üzere yapılmış olan) antlaşmaları ise İslamiyet sadece kuvvetlendirir..\" Ayrıca bu hadis'i Buhârî, kefale, edeb; Müslim, fedailüssahabe6; Tirmizî siyer; Darimî, siyer; Ahmed b. Hanbel 1-190, 317, 329,11-180, 205, 207, 213, 215, III-162, 281, IV-V-61. de tahric ettiler"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim (2530)"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 19,
+        "hadith": 41
+      },
+      "narrator": {
+        "en": "Jubair b. Mu'tim"
+      }
+    },
+    {
+      "hadithNumber": 2926,
+      "arabicNumber": 2926,
+      "book": 19,
+      "hadithInBook": 42,
+      "text": {
+        "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا سُفْيَانُ، عَنْ عَاصِمٍ الأَحْوَلِ، قَالَ سَمِعْتُ أَنَسَ بْنَ مَالِكٍ، يَقُولُ حَالَفَ رَسُولُ اللَّهِ صلى الله عليه وسلم بَيْنَ الْمُهَاجِرِينَ وَالأَنْصَارِ فِي دَارِنَا ‏.‏ فَقِيلَ لَهُ أَلَيْسَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ لاَ حِلْفَ فِي الإِسْلاَمِ ‏\"‏ ‏.‏ فَقَالَ حَالَفَ رَسُولُ اللَّهِ صلى الله عليه وسلم بَيْنَ الْمُهَاجِرِينَ وَالأَنْصَارِ فِي دَارِنَا ‏.‏ مَرَّتَيْنِ أَوْ ثَلاَثًا",
+        "translations": {
+          "en": "Narrated Anas bin Malik:The Messenger of Allah (ﷺ) established an alliance (of brotherhood) between the Emigrants and the Helpers in our house. He was asked: Did not the Messenger of Allah (ﷺ) say: There is no alliance in Islam ? He replied: The Messenger of Allah (ﷺ) established an alliance between the Emigrants and the Helpers in our house. This he said twice or thrice",
+          "ur": "انس بن مالک رضی اللہ عنہ کہتے ہیں رسول اللہ صلی اللہ علیہ وسلم نے ہمارے گھر میں انصار و مہاجرین کے درمیان بھائی چارہ کرایا، تو ان ( یعنی انس ) سے کہا گیا: کیا رسول اللہ صلی اللہ علیہ وسلم نے نہیں فرمایا ہے کہ اسلام میں حلف ( عہد و پیمان ) نہیں ہے؟ تو انہوں نے دو یا تین بار زور دے کر کہا کہ رسول اللہ صلی اللہ علیہ وسلم نے ہمارے گھر میں انصار و مہاجرین کے درمیان بھائی چارہ کرایا ہے کہ وہ بھائیوں کی طرح مل کر رہیں گے۔",
+          "fr": "Rapporté par Anas ibn Malik رضي الله عنه : Le Messager d’Allah ﷺ a établi un pacte de fraternité entre les Émigrants et les Auxiliaires dans notre maison. On lui a demandé : « Le Messager d’Allah ﷺ n’a-t-il pas dit qu’il n’y a pas de pacte en Islam ? » Il a répondu : « Le Messager d’Allah ﷺ a établi un pacte de fraternité entre les Émigrants et les Auxiliaires dans notre maison. » Il l’a répété deux ou trois fois",
+          "id": "Telah menceritakan kepada kami [Musaddad], telah menceritakan kepada kami [Sufyan] dari ['Ashim Al Ahwal] ia berkata; saya mendengar [Anas bin Malik] berkata; Rasulullah shallallahu 'alaihi wasallam mempersaudarakan antara orang-orang muhajirin dan anshar di rumah kami. Kemudian dikatakan kepadanya; bukankah Rasulullah shallallahu 'alaihi wasallam telah mengatakan: \"Tidak ada perjanjian dalam Islam?\" Kemudian ia berkata; Rasulullah shallallahu 'alaihi wasallam mempersaudarakan antara orang-orang muhajirin dan anshar di rumah kami. Ia mengucapkannya dua atau tiga kali",
+          "tr": "Asım el-Ahvel'den demiştir ki: Ben Enes b. Malik'i Rasûlullah (s.a.v.) bizim evlerimizde muhacirlerle ensar arasında (kardeşlik) antlaşması yaptı\" derken işittim. (Enes bunu söyleyince) kendisine: Rasûlullah (s.a.v.) \"İslamda antlaşma yoktur\" buyurmamış mıydı?- denildi (Oda) iki yahut da üç defa \"Rasûlullah (s.a.v.) bizim evlerimiz de muhacirlerle ensar arasında (kardeşlik) antlaşma(sı),yaptı.\" cevabını verdi"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 19,
+        "hadith": 42
+      },
+      "narrator": {
+        "en": "Anas bin Malik"
+      }
+    },
+    {
+      "hadithNumber": 2927,
+      "arabicNumber": 2927,
+      "book": 19,
+      "hadithInBook": 43,
+      "text": {
+        "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ صَالِحٍ، حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ، عَنْ سَعِيدٍ، قَالَ كَانَ عُمَرُ بْنُ الْخَطَّابِ يَقُولُ الدِّيَةُ لِلْعَاقِلَةِ وَلاَ تَرِثُ الْمَرْأَةُ مِنْ دِيَةِ زَوْجِهَا شَيْئًا حَتَّى قَالَ لَهُ الضَّحَّاكُ بْنُ سُفْيَانَ كَتَبَ إِلَىَّ رَسُولُ اللَّهِ صلى الله عليه وسلم أَنْ أُوَرِّثَ امْرَأَةَ أَشْيَمَ الضِّبَابِيِّ مِنْ دِيَةِ زَوْجِهَا ‏.‏ فَرَجَعَ عُمَرُ ‏.‏ قَالَ أَحْمَدُ بْنُ صَالِحٍ حَدَّثَنَا عَبْدُ الرَّزَّاقِ بِهَذَا الْحَدِيثِ عَنْ مَعْمَرٍ عَنِ الزُّهْرِيِّ عَنْ سَعِيدٍ وَقَالَ فِيهِ وَكَانَ النَّبِيُّ صلى الله عليه وسلم اسْتَعْمَلَهُ عَلَى الأَعْرَابِ ‏.‏",
+        "translations": {
+          "en": "Narrated Umar ibn al-Khattab: Sa'id said: Umar ibn al-Khattab said: Blood-money is meant for the clan of the slain, and she will not inherit from the blood-money of her husband. Ad-Dahhak ibn Sufyan said: The Messenger of Allah (ﷺ) wrote to me that I should give a share to the wife of Ashyam ad-Dubabi from the blood-money of her husband. So Umar withdrew his opinion. Ahmad ibn Salih said: AbdurRazzaq transmitted this tradition to us from Ma'mar, from az-Zuhri on the authority of Sa'id. In this version he said: The Prophet (ﷺ) made him governor over the bedouins",
+          "ur": "سعید کہتے ہیں کہ عمر بن خطاب رضی اللہ عنہ پہلے کہتے تھے کہ دیت کنبہ والوں پر ہے، اور عورت اپنے شوہر کی دیت سے کچھ حصہ نہ پائے گی، یہاں تک کہ ضحاک بن سفیان نے انہیں بتایا کہ رسول اللہ صلی اللہ علیہ وسلم نے مجھے لکھ بھیجا تھا کہ اشیم ضبابی کی بیوی کو میں اس کے شوہر کی دیت میں سے حصہ دلاؤں، تو عمر رضی اللہ عنہ نے اپنے قول سے رجوع کر لیا ۱؎۔ احمد بن صالح کہتے ہیں کہ ہم سے عبدالرزاق نے یہ حدیث معمر کے واسطہ سے بیان کی ہے وہ اسے زہری سے اور وہ سعید سے روایت کرتے ہیں، اس میں ہے کہ نبی اکرم صلی اللہ علیہ وسلم نے انہیں ( یعنی ضحاک کو ) دیہات والوں پر عامل بنایا تھا۔",
+          "fr": "Rapporté par Omar ibn al-Khattab رضي الله عنه : Sa’id a dit : Omar ibn al-Khattab a dit : « Le prix du sang revient à la famille de la personne tuée, et la femme n’hérite pas du prix du sang de son mari. » Ad-Dahhak ibn Sufyan a dit : « Le Messager d’Allah ﷺ m’a écrit pour que je donne une part du prix du sang à la femme de Ashyam ad-Dubabi, après la mort de son mari. » Alors Omar a changé d’avis. Ahmad ibn Salih a dit : AbdurRazzaq nous a transmis ce récit de Ma’mar, de az-Zuhri, d’après Sa’id. Dans cette version, il est dit : Le Prophète ﷺ l’a nommé gouverneur des bédouins",
+          "id": "Telah menceritakan kepada kami [Ahmad bin Shalih], telah menceritakan kepada kami [Sufyan] dari [Az Zuhri] dari [Sa'id] ia berkata; dahulu Umar bin Al Khathab berkata; diyat adalah untuk 'aqilah ('ashabah serta kerabat dari pihak ayah), dan wanita tidak mewarisi sedikitpun dari diyat suaminya, hingga [Adh Dhahhak bin Sufyan] berkata kepadanya, Rasulullah shallallahu 'alaihi wasallam telah menulis surat kepadaku agar aku memberikan warisan kepada isteri Asyyam Adhdhabbi dari diyat suaminya. Kemudian Umar kembali, Ahmad bin Shalih berkata; telah menceritakan kepada kami [Abdurrazzaq] dengan hadits ini dari [Ma'mar] dari [Az Zuhri] dari [Sa'id], ia berkata; padanya. Dan Nabi shallallahu 'alaihi wasallam mengangkatnya untuk mengurusi orang-orang badui",
+          "tr": "Said (b. Müseyyeb (r.a.))'den demiştir ki: Ömer b. Hattab \"diyet akilenindir, kadın kocasının diyetine varis olamaz\" derdi. Nihayet kendisine ed-Dahhak b. Sufyân: \"Eşyem ed-Dibâbî'nin hanımına kocasının diyetinden miras payı vermem için Rasûlullah (s.a.v.) bana mektup yazmıştı.\" dedi de. Hz. Ömer bu görüşünden döndü. Ahmed b. Salih dediki bize bu hadisi Abdurrezzâk Ma'mer'den, O da Zührî'den, O da Said'den rivayet etti ve bu rivayetinde şöyle dedi: (Hz. Peygamber Dahhak b. Süfyan'ı Arablara zekat tahsildarı olarak görevlendirmişti)"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 19,
+        "hadith": 43
+      },
+      "narrator": {
+        "en": "Umar ibn al-Khattab"
+      }
+    }
+  ],
+  "metadata": {
+    "averageLength": "long",
+    "size": "36KB"
+  }
+}

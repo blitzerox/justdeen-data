@@ -1,0 +1,613 @@
+{
+  "collection": "bukhari",
+  "book": 16,
+  "name": {
+    "arabic": "كتاب Eclipses",
+    "transliteration": "eclipses",
+    "translation": "Eclipses"
+  },
+  "totalHadith": 24,
+  "hadithNumberRange": {
+    "first": 1040,
+    "last": 1066
+  },
+  "content": [
+    {
+      "hadithNumber": 1040,
+      "arabicNumber": 1040,
+      "book": 16,
+      "hadithInBook": 1,
+      "text": {
+        "arabic": "حَدَّثَنَا عَمْرُو بْنُ عَوْنٍ، قَالَ حَدَّثَنَا خَالِدٌ، عَنْ يُونُسَ، عَنِ الْحَسَنِ، عَنْ أَبِي بَكْرَةَ، قَالَ كُنَّا عِنْدَ رَسُولِ اللَّهِ صلى الله عليه وسلم فَانْكَسَفَتِ الشَّمْسُ، فَقَامَ النَّبِيُّ صلى الله عليه وسلم يَجُرُّ رِدَاءَهُ حَتَّى دَخَلَ الْمَسْجِدَ، فَدَخَلْنَا فَصَلَّى بِنَا رَكْعَتَيْنِ، حَتَّى انْجَلَتِ الشَّمْسُ فَقَالَ صلى الله عليه وسلم ‏ \"‏ إِنَّ الشَّمْسَ وَالْقَمَرَ لاَ يَنْكَسِفَانِ لِمَوْتِ أَحَدٍ، فَإِذَا رَأَيْتُمُوهُمَا فَصَلُّوا، وَادْعُوا، حَتَّى يُكْشَفَ مَا بِكُمْ ‏\"‏‏.‏",
+        "translations": {
+          "en": "Narrated Abu Bakra:We were with Allah's Messenger (ﷺ) when the sun eclipsed. Allah's Messenger (ﷺ) stood up dragging his cloak till he entered the Mosque. He led us in a two-rak`at prayer till the sun (eclipse) had cleared. Then the Prophet (ﷺ) said, \"The sun and the moon do not eclipse because of someone's death. So whenever you see these eclipses pray and invoke (Allah) till the eclipse is over",
+          "ur": "ہم سے عمرو بن عون نے بیان کیا، انہوں نے کہا کہ ہم سے خالد بن عبداللہ نے یونس سے بیان کیا، ان سے امام حسن بصری نے بیان کیا، ان سے ابوبکرہ نفیع بن حارث رضی اللہ عنہ نے کہ ہم سے عمرو بن عون نے بیان کیا، انہوں نے کہا کہ ہم سے خالد بن عبداللہ نے یونس سے بیان کیا، ان سے امام حسن بصری نے بیان کیا، ان سے ابوبکرہ نفیع بن حارث رضی اللہ عنہ نے کہ",
+          "fr": "Rapporté par Abu Bakra : Nous étions avec le Messager d’Allah (ﷺ) quand il y a eu une éclipse du soleil. Le Messager d’Allah (ﷺ) s’est levé, traînant son manteau, jusqu’à ce qu’il entre dans la mosquée. Il nous a dirigés dans une prière de deux unités jusqu’à ce que l’éclipse soit terminée. Ensuite, le Prophète (ﷺ) a dit : « Le soleil et la lune ne s’éclipsent pas à cause de la mort de quelqu’un. Donc, chaque fois que vous voyez ces éclipses, priez et invoquez Allah jusqu’à ce que l’éclipse soit terminée. »",
+          "id": "Telah menceritakan kepada kami ['Amru bin 'Aun] berkata, telah menceritakan kepada kami [Khalid] dari [Yunus] dari [Al Hasan] dari [Abu Bakrah] berkata, \"Kami pernah duduk-duduk bersama Rasulullah shallallahu 'alaihi wasallam lalu terjadi gerhana matahari. Maka Nabi shallallahu 'alaihi wasallam berdiri menjulurkan selendangnya hingga masuk ke dalam masjid, kamipun ikut masuk ke dalam Masjid, beliau lalu mengimami kami shalat dua rakaat hingga matahari kembali nampak bersinar. Setelah itu beliau bersabda: \"Sesungguhnya matahari dan bulan tidak akan mengalami gerhana disebabkan karena matinya seseorang. Jika kalian melihat gerhana keduanya, maka dirikanlah shalat dan banyaklah berdoa hingga selesai gerhana yang terjadi pada kalian",
+          "tr": "Ebu Bekre'nin şöyle dediği nakledilmiştir: \"Biz Resul-i Ekrem Sallallahu Aleyhi ve Sellem'in yanında iken güneş tutulması oldu. Bunun üzerine Nebi Sallallahu Aleyhi ve Sellem omuzuna attığı ridasını sürüyerek mescide girdi ve biz de onu takip ederek mescid'e gittik. Bize orada güneş geri açılana kadar iki rekat namaz kıldırdı ve şöyle buyurdu; \"Güneş ve ay hiç kimsenin ölümü dolayısıyla tutulmaz. Siz bunların tutulduğunu görürseniz tekrar açılana kadar namaz kılın ve dua edin! Tekrar:"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 16,
+        "hadith": 1
+      },
+      "narrator": {
+        "en": "Abu Bakra"
+      }
+    },
+    {
+      "hadithNumber": 1041,
+      "arabicNumber": 1041,
+      "book": 16,
+      "hadithInBook": 2,
+      "text": {
+        "arabic": "حَدَّثَنَا شِهَابُ بْنُ عَبَّادٍ، حَدَّثَنَا إِبْرَاهِيمُ بْنُ حُمَيْدٍ، عَنْ إِسْمَاعِيلَ، عَنْ قَيْسٍ، قَالَ سَمِعْتُ أَبَا مَسْعُودٍ، يَقُولُ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏ \"‏ إِنَّ الشَّمْسَ وَالْقَمَرَ لاَ يَنْكَسِفَانِ لِمَوْتِ أَحَدٍ مِنَ النَّاسِ، وَلَكِنَّهُمَا آيَتَانِ مِنْ آيَاتِ اللَّهِ، فَإِذَا رَأَيْتُمُوهُمَا فَقُومُوا فَصَلُّوا ‏\"‏‏.‏",
+        "translations": {
+          "en": "Narrated Abu Mas`ud:The Prophet (ﷺ) said, \"The sun and the moon do not eclipse because of the death of someone from the people but they are two signs amongst the signs of Allah. When you see them stand up and pray",
+          "ur": "ہم سے شہاب بن عباد نے بیان کیا، انہوں نے کہا کہ ہمیں ابراہیم بن حمید نے خبر دی، انہیں اسماعیل بن ابی خالد نے، انہیں قیس بن ابی حازم نے اور انہوں نے کہا کہ میں نے ابومسعود انصاری رضی اللہ عنہ سے سنا کہ نبی کریم صلی اللہ علیہ وسلم نے فرمایا سورج اور چاند میں گرہن کسی شخص کی موت سے نہیں لگتا۔ یہ دونوں تو اللہ تعالیٰ کی قدرت کی نشانیاں ہیں۔ اس لیے اسے دیکھتے ہی کھڑے ہو جاؤ اور نماز پڑھو۔",
+          "fr": "Rapporté par Abu Mas`ud : Le Prophète (ﷺ) a dit : « Le soleil et la lune ne s’éclipsent pas à cause de la mort de quelqu’un parmi les gens, mais ce sont deux signes parmi les signes d’Allah. Quand vous les voyez, levez-vous et priez. »",
+          "id": "Telah menceritakan kepada kami [Syihab bin 'Abbad] berkata, telah menceritakan kepada kami [Ibrahim bin Humaid] dari [Isma'il] dari [Qais] berkata, \"Aku mendengar [Abu Mas'ud] berkata, \"Nabi shallallahu 'alaihi wasallam bersabda: \"Sesungguhnya matahari dan bulan tidak akan mengalami gerhana disebabkan karena matinya seorang dari manusia, tetapi keduanya adalah dua tanda dari tanda-tanda kebesaran Allah. Jika kalian melihat gerhana keduanya maka berdirilah untuk shalat",
+          "tr": "Kays, Ebu Mes'ud'dan bizzat duyduğunu ifade ederek şöyle demiştir: \"Ebu Mes'ud, Nebi Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu nakletti: \"Güneş ve ay asla hiç kimsenin ölümü dolayısıyla tutulmaz. Bu tutulmalar Allah'ın birer ayetidir. Güneşin ve ay'ın tutulduğunu görürseniz kalkın ve namaz kılın! Tekrar:"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 16,
+        "hadith": 2
+      },
+      "narrator": {
+        "en": "Abu Mas`ud"
+      }
+    },
+    {
+      "hadithNumber": 1042,
+      "arabicNumber": 1042,
+      "book": 16,
+      "hadithInBook": 3,
+      "text": {
+        "arabic": "حَدَّثَنَا أَصْبَغُ، قَالَ أَخْبَرَنِي ابْنُ وَهْبٍ، قَالَ أَخْبَرَنِي عَمْرٌو، عَنْ عَبْدِ الرَّحْمَنِ بْنِ الْقَاسِمِ، حَدَّثَهُ عَنْ أَبِيهِ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ أَنَّهُ كَانَ يُخْبِرُ عَنِ النَّبِيِّ صلى الله عليه وسلم‏.‏ ‏ \"‏ إِنَّ الشَّمْسَ وَالْقَمَرَ لاَ يَخْسِفَانِ لِمَوْتِ أَحَدٍ وَلاَ لِحَيَاتِهِ، وَلَكِنَّهُمَا آيَتَانِ مِنْ آيَاتِ اللَّهِ، فَإِذَا رَأَيْتُمُوهَا فَصَلُّوا ‏\"‏‏.‏",
+        "translations": {
+          "en": "Narrated Ibn `Umar:The Prophet (ﷺ) said, \"The sun and the moon do not eclipse because of the death or life (i.e. birth) of someone but they are two signs amongst the signs of Allah. When you see them offer the prayer",
+          "ur": "ہم سے اصبغ بن فرح نے بیان کیا، انہوں نے کہا کہ مجھے عبداللہ بن وہب نے خبر دی، انہوں نے کہا کہ مجھے عمرو بن حارث نے عبدالرحمٰن بن قاسم سے خبر دی، انہیں ان کے باپ قاسم بن محمد نے اور انہیں عبداللہ بن عمر رضی اللہ عنہما نے نبی کریم صلی اللہ علیہ وسلم سے خبر دی کہ صلی اللہ علیہ وسلم نے فرمایا سورج اور چاند میں گرہن کسی کی موت و زندگی سے نہیں لگتا بلکہ یہ اللہ تعالیٰ کی نشانیوں میں سے دو نشانیاں ہیں، اس لیے جب تم یہ دیکھو تو نماز پڑھو۔",
+          "fr": "Rapporté par Ibn `Umar : Le Prophète (ﷺ) a dit : « Le soleil et la lune ne s’éclipsent pas à cause de la mort ou de la naissance de quelqu’un, mais ce sont deux signes parmi les signes d’Allah. Quand vous les voyez, faites la prière. »",
+          "id": "Telah menceritakan kepada kami [Ashbagh] berkata, telah mengabarkan kepadaku [Ibnu Wahb] berkata, telah mengabarkan kepadaku ['Amru] dari ['Abdurrahman bin Al Qasim] menceritakan dari [Bapaknya] dari [Ibnu 'Umar], bahwa dia mengabarkan dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: \"Sesungguhnya matahari dan bulan tidak akan mengalami gerhana disebabkan mati atau hidupnya seseorang, akan tetapi keduanya adalah dua tanda dari tanda-tanda kebesaran Allah. Maka jika kalian melihat gerhana keduanya, hendaklah shalatlah",
+          "tr": "Abdullah İbn Ömer Nebi Sallallahu Aleyhi ve Sellem'den haber vererek onun şöyle buyurduğunu nakletmiştir: \"Güneş ve ay hiç kimsenin ne ölümü ne de hayatı dolayısıyla tutulur. Fakat bu tutulmalar Allah'ın birer ayetidir. Siz güneşin ve ayın tutulduğunu görürseniz namaz kılın"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 16,
+        "hadith": 3
+      },
+      "narrator": {
+        "en": "Ibn `Umar"
+      }
+    },
+    {
+      "hadithNumber": 1043,
+      "arabicNumber": 1043,
+      "book": 16,
+      "hadithInBook": 4,
+      "text": {
+        "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ، قَالَ حَدَّثَنَا هَاشِمُ بْنُ الْقَاسِمِ، قَالَ حَدَّثَنَا شَيْبَانُ أَبُو مُعَاوِيَةَ، عَنْ زِيَادِ بْنِ عِلاَقَةَ، عَنِ الْمُغِيرَةِ بْنِ شُعْبَةَ، قَالَ كَسَفَتِ الشَّمْسُ عَلَى عَهْدِ رَسُولِ اللَّهِ صلى الله عليه وسلم يَوْمَ مَاتَ إِبْرَاهِيمُ، فَقَالَ النَّاسُ كَسَفَتِ الشَّمْسُ لِمَوْتِ إِبْرَاهِيمَ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ إِنَّ الشَّمْسَ وَالْقَمَرَ لاَ يَنْكَسِفَانِ لِمَوْتِ أَحَدٍ وَلاَ لِحَيَاتِهِ، فَإِذَا رَأَيْتُمْ فَصَلُّوا وَادْعُوا اللَّهَ ‏\"‏‏.‏",
+        "translations": {
+          "en": "Narrated Al-Mughira bin Shu`ba:\"The sun eclipsed in the lifetime of Allah's Messenger (ﷺ) on the day when (his son) Ibrahim died. So the people said that the sun had eclipsed because of the death of Ibrahim. Allah's Messenger (ﷺ) said, \"The sun and the moon do not eclipse because of the death or life (i.e. birth) of someone. When you see the eclipse pray and invoke Allah",
+          "ur": "ہم سے عبداللہ بن محمد مسندی نے بیان کیا، انہوں نے کہا کہ ہم سے ہاشم بن قاسم نے بیان کیا، انہوں نے کہا کہ ہم سے شیبان ابومعاویہ نے بیان کیا، ان سے زیاد بن علاقہ نے بیان کیا، ان سے مغیرہ بن شعبہ رضی اللہ عنہ نے کہ رسول اللہ صلی اللہ علیہ وسلم کے زمانہ میں سورج گرہن اس دن لگا جس دن ( آپ صلی اللہ علیہ وسلم کے صاحبزادے ) ابراہیم رضی اللہ عنہ کا انتقال ہوا بعض لوگ کہنے لگے کہ گرہن ابراہیم رضی اللہ عنہ کی وفات کی وجہ سے لگا ہے۔ اس لیے رسول اللہ صلی اللہ علیہ وسلم نے فرمایا کہ گرہن کسی کی موت و حیات سے نہیں لگتا۔ البتہ تم جب اسے دیکھو تو نماز پڑھا کرو اور دعا کیا کرو۔",
+          "fr": "Rapporté par Al-Mughira bin Shu`ba : Le soleil s’est éclipsé du vivant du Messager d’Allah (ﷺ), le jour où (son fils) Ibrahim est décédé. Les gens ont alors dit que le soleil s’était éclipsé à cause de la mort d’Ibrahim. Le Messager d’Allah (ﷺ) a dit : « Le soleil et la lune ne s’éclipsent pas à cause de la mort ou de la naissance de quelqu’un. Quand vous voyez l’éclipse, priez et invoquez Allah. »",
+          "id": "Telah menceritakan kepada kami ['Abdullah bin Muhammad] berkata, telah menceritakan kepada kami [Hasyim bin Al Qasim] berkata, telah menceritakan kepada kami [Syaiban Abu Mu'awiyyah] dari [Ziyad bin 'Alaqah] dari [Al Mughirah bin Syu'bah] berkata, \"Pada masa Rasulullah shallallahu 'alaihi wasallam pernah terjadi gerhana matahari, yaitu di hari meninggalnya putera beliau, Ibrahim. Orang-orang lalu berkata, \"Gerhana matahari ini terjadi karena meninggalnya Ibrahim!\" Maka Rasulullah shallallahu 'alaihi wasallam pun bersabda: \"Sesungguhnya matahari dan bulan tidak akan mengalami gerhana disebabkan karena mati atau hidupnya seseorang. Jika kalian melihat gerhana, maka shalat dan berdoalah kalian kepada Allah",
+          "tr": "Muğîre Ibn Şu'be (r.a.)'in şöyle dediği nakledilmiştir: \"Resul-i Ekrem Sallallahu Aleyhi ve Sellem zamanında İbrahim'in öldüğü gün güneş tutulmuştu. Bunun üzerine insanlar: 'Güneş İbrahim öldüğü için tutuldu' demeye başladılar. Nebi Sallallahu Aleyhi ve Sellem ise onların bu sözünü duyunca şöyle buyurdu: \"Güneş ve ay hiç kimsenin ne ölümü ne de hayatı dolayısıyla tutulur. Siz güneşin ve ayın tutulduğunu görürseniz namaz kılın ve Allah'a dua edin! Tekrar:"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 16,
+        "hadith": 4
+      },
+      "narrator": {
+        "en": "Al-Mughira bin Shu`ba"
+      }
+    },
+    {
+      "hadithNumber": 1044,
+      "arabicNumber": 1044,
+      "book": 16,
+      "hadithInBook": 5,
+      "text": {
+        "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، عَنْ مَالِكٍ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، أَنَّهَا قَالَتْ خَسَفَتِ الشَّمْسُ فِي عَهْدِ رَسُولِ اللَّهِ صلى الله عليه وسلم فَصَلَّى رَسُولُ اللَّهِ صلى الله عليه وسلم بِالنَّاسِ، فَقَامَ فَأَطَالَ الْقِيَامَ، ثُمَّ رَكَعَ فَأَطَالَ الرُّكُوعَ، ثُمَّ قَامَ فَأَطَالَ الْقِيَامَ وَهْوَ دُونَ الْقِيَامِ الأَوَّلِ، ثُمَّ رَكَعَ فَأَطَالَ الرُّكُوعَ، وَهْوَ دُونَ الرُّكُوعِ الأَوَّلِ، ثُمَّ سَجَدَ فَأَطَالَ السُّجُودَ، ثُمَّ فَعَلَ فِي الرَّكْعَةِ الثَّانِيَةِ مِثْلَ مَا فَعَلَ فِي الأُولَى، ثُمَّ انْصَرَفَ وَقَدِ انْجَلَتِ الشَّمْسُ، فَخَطَبَ النَّاسَ، فَحَمِدَ اللَّهَ، وَأَثْنَى عَلَيْهِ ثُمَّ قَالَ ‏\"‏ إِنَّ الشَّمْسَ وَالْقَمَرَ آيَتَانِ مِنْ آيَاتِ اللَّهِ، لاَ يَنْخَسِفَانِ لِمَوْتِ أَحَدٍ وَلاَ لِحَيَاتِهِ، فَإِذَا رَأَيْتُمْ ذَلِكَ فَادْعُوا اللَّهَ وَكَبِّرُوا، وَصَلُّوا وَتَصَدَّقُوا ‏\"‏‏.‏ ثُمَّ قَالَ ‏\"‏ يَا أُمَّةَ مُحَمَّدٍ، وَاللَّهِ مَا مِنْ أَحَدٍ أَغْيَرُ مِنَ اللَّهِ أَنْ يَزْنِيَ عَبْدُهُ أَوْ تَزْنِيَ أَمَتُهُ، يَا أُمَّةَ مُحَمَّدٍ، وَاللَّهِ لَوْ تَعْلَمُونَ مَا أَعْلَمُ لَضَحِكْتُمْ قَلِيلاً وَلَبَكَيْتُمْ كَثِيرًا ‏\"‏‏.‏",
+        "translations": {
+          "en": "Narrated `Aisha:In the lifetime of Allah's Messenger (ﷺ) the sun eclipsed, so he led the people in prayer, and stood up and performed a long Qiyam, then bowed for a long while. He stood up again and performed a long Qiyam but this time the period of standing was shorter than the first. He bowed again for a long time but shorter than the first one, then he prostrated and prolonged the prostration. He did the same in the second rak`a as he did in the first and then finished the prayer; by then the sun (eclipse) had cleared. He delivered the Khutba (sermon) and after praising and glorifying Allah he said, \"The sun and the moon are two signs amongst the signs of Allah; they do not eclipse on the death or life of anyone. So when you see the eclipse, remember Allah and say Takbir, pray and give Sadaqa.\" The Prophet then said, \"O followers of Muhammad! By Allah! There is none who has more ghaira (self-respect) than Allah as He has forbidden that His slaves, male or female commit adultery (illegal sexual intercourse). O followers of Muhammad! By Allah! If you knew that which I know you would laugh little and weep much",
+          "ur": "ہم سے عبداللہ بن مسلمہ قعنبی نے بیان کیا، ان سے امام مالک نے بیان کیا، ان سے ہشام بن عروہ نے بیان کیا، ان سے ان کے باپ عروہ بن زبیر رضی اللہ عنہ نے بیان کیا، ان سے ام المؤمنین عائشہ صدیقہ رضی اللہ عنہا نے کہ رسول اللہ صلی اللہ علیہ وسلم کے زمانہ میں سورج گرہن ہوا تو آپ نے لوگوں کو نماز پڑھائی۔ پہلے آپ صلی اللہ علیہ وسلم کھڑے ہوئے تو بڑی دیر تک کھڑے رہے، قیام کے بعد رکوع کیا اور رکوع میں بہت دیر تک رہے۔ پھر رکوع سے اٹھنے کے بعد دیر تک دوبارہ کھڑے رہے لیکن آپ صلی اللہ علیہ وسلم کے پہلے قیام سے کچھ کم، پھر رکوع کیا تو بڑی دیر تک رکوع میں رہے لیکن پہلے سے مختصر، پھر سجدہ میں گئے اور دیر تک سجدہ کی حالت میں رہے۔ دوسری رکعت میں بھی آپ صلی اللہ علیہ وسلم نے اسی طرح کیا، جب آپ صلی اللہ علیہ وسلم فارغ ہوئے تو گرہن کھل چکا تھا۔ اس کے بعد آپ صلی اللہ علیہ وسلم نے خطبہ دیا اللہ تعالیٰ کی حمد و ثنا کے بعد فرمایا کہ سورج اور چاند دونوں اللہ کی نشانیاں ہیں اور کسی کی موت و حیات سے ان میں گرہن نہیں لگتا۔ جب تم گرہن لگا ہوا دیکھو تو اللہ سے دعا کرو تکبیر کہو اور نماز پڑھو اور صدقہ کرو۔ پھر آپ صلی اللہ علیہ وسلم نے فرمایا اے محمد کی امت کے لوگو! دیکھو اس بات پر اللہ تعالیٰ سے زیادہ غیرت اور کسی کو نہیں آتی کہ اس کا کوئی بندہ یا بندی زنا کرے، اے امت محمد! واللہ جو کچھ میں جانتا ہوں اگر تمہیں بھی معلوم ہو جائے تو تم ہنستے کم اور روتے زیادہ۔",
+          "fr": "Rapporté par `Aisha : Du vivant du Messager d’Allah (ﷺ), le soleil s’est éclipsé. Il a dirigé la prière avec les gens, s’est tenu debout longtemps, puis a fait une longue inclinaison. Il s’est relevé et a de nouveau fait une longue station, mais moins longue que la première. Il a encore fait une longue inclinaison, plus courte que la première, puis s’est prosterné longuement. Il a fait la même chose lors de la deuxième unité, puis a terminé la prière ; à ce moment-là, l’éclipse était terminée. Il a prononcé un sermon, a loué et glorifié Allah, puis a dit : « Le soleil et la lune sont deux signes parmi les signes d’Allah ; ils ne s’éclipsent pas à cause de la mort ou de la naissance de quelqu’un. Donc, quand vous voyez l’éclipse, rappelez-vous d’Allah, dites le Takbir, priez et donnez la charité. » Le Prophète a ensuite dit : « Ô vous qui suivez Muhammad ! Par Allah ! Personne n’a plus de jalousie (ghaira) qu’Allah, c’est pourquoi Il a interdit à Ses serviteurs, hommes ou femmes, de commettre l’adultère. Ô vous qui suivez Muhammad ! Par Allah ! Si vous saviez ce que je sais, vous ririez peu et pleureriez beaucoup. »",
+          "id": "Telah menceritakan kepada kami ['Abdullah bin Maslamah] dari [Malik] dari [Hisyam bin 'Urwah] dari [Bapaknya] dari ['Aisyah] bahwasanya dia berkata, \"Pernah terjadi gerhana matahari pada zaman Rasulullah shallallahu 'alaihi wasallam. Rasulullah shallallahu 'alaihi wasallam lalu mendirikan shalat bersama orang banyak. Beliau berdiri dalam shalatnya dengan memanjangkan lama berdirinya, kemudian rukuk dengan memanjangkan rukuknya, kemudian berdiri dengan memanjangkan lama berdirinya, namun tidak selama yang pertama. Kemudian beliau rukuk dan memanjangkan lama rukuknya, namun tidak selama rukuknya yang pertama. Kemudian beliau sujud dengan memanjangkan lama sujudnya, beliau kemudian mengerjakan rakaat kedua seperti pada rakaat yang pertama. Saat beliau selesai melaksanakan shalat, matahari telah nampak kembali. Kemudian beliau menyampaikan khutbah kepada orang banyak, beliau memulai khutbahnya dengan memuji Allah dan mengangungkan-Nya, lalu bersabda: \"Sesungguhnya matahari dan bulan adalah dua tanda dari tanda-tanda kebesaran Allah, dan tidak akan mengalami gerhana disebabkan karena mati atau hidupnya seseorang. Jika kalian melihat gerhana, maka banyaklah berdoa kepada Allah, bertakbirlah, dirikan shalat dan bersedekahlah.\" Kemudian beliau meneruskan sabdanya: \"Wahai ummat Muhammad! Demi Allah, tidak ada yang melebihi kecemburuan Allah kecuali saat Dia melihat hamba laki-laki atau hamba perempuan-Nya berzina. Wahai ummat Muhammad! Demi Allah, seandainya kalian mengetahui apa yang aku ketahui, niscaya kalian akan sedikit tertawa dan lebih banyak menangis",
+          "tr": "Aişe (r.anha)'nın şöyle dediği nakledilmiştir: \"Resulullah Sallallahu Aleyhi ve Sellem zamanında güneş tutulmuştu. Resul-i Ekrem Sallallahu Aleyhi ve Sellem o anda insanlara namaz kıldırdı. Kıyamda çok uzun bir süre kaldıktan sonra rükuya gitti ve yine uzunca bekledi. Sonra kıyama kalktı ve ilk rekattaki kadar olmasa da uzun bir süre kıyamda durdu. Ardından rüku'a gitti ve ilk rüku kadar olmasa da uzunca bir süre rükuda bekledi. Sonra secdeye vardı ve uzun bir müddet secdede kaldı. Namazın ikinci rekatını da tıpkı birinci rekat gibi kıldırdı. Namazı bitirdiğinde güneş açılmıştı. Resulullah Sallallahu Aleyhi ve Sellem namaz'ın ardından Allah'a hamd ve övgüde bulunarak insanlara hitap etti. Hutbe sırasında şunları söylemişti: \"Güneş ve ay Allah'ın birer ayetidir. Bunlar ne bir kimsenin ölümü ne de hayatı dolayısıyla tutulur, Eğer güneş ve ayın tutulduğunu görürseniz Allah'a dua edin, tekbirler getirin, namaz kılın ve sadaka verin.\" Hutbede şunları da söylemişti: \"Ey Muhammed ümmeti, kadın veya erkek Allah'ın bir kulunun zina etmesi karşısında Allah'ın gösterdiği gayret (kıskançlık) sizin duyduğunuz kıskançlıktan daha çoktur. Ey Muhammed ümmeti, eğer benim bildiğimi bilseydiniz az güler çok ağlardınız. Tekrar:"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 16,
+        "hadith": 5
+      },
+      "narrator": {
+        "en": "`Aisha"
+      }
+    },
+    {
+      "hadithNumber": 1045,
+      "arabicNumber": 1045,
+      "book": 16,
+      "hadithInBook": 6,
+      "text": {
+        "arabic": "حَدَّثَنَا إِسْحَاقُ، قَالَ أَخْبَرَنَا يَحْيَى بْنُ صَالِحٍ، قَالَ حَدَّثَنَا مُعَاوِيَةُ بْنُ سَلاَّمِ بْنِ أَبِي سَلاَّمٍ الْحَبَشِيُّ الدِّمَشْقِيُّ، قَالَ حَدَّثَنَا يَحْيَى بْنُ أَبِي كَثِيرٍ، قَالَ أَخْبَرَنِي أَبُو سَلَمَةَ بْنُ عَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ الزُّهْرِيُّ، عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو ـ رضى الله عنهما ـ قَالَ لَمَّا كَسَفَتِ الشَّمْسُ عَلَى عَهْدِ رَسُولِ اللَّهِ صلى الله عليه وسلم نُودِيَ إِنَّ الصَّلاَةَ جَامِعَةٌ‏.‏",
+        "translations": {
+          "en": "Narrated `Abdullah bin `Amr:\"When the sun eclipsed in the lifetime of Allah's Messenger (ﷺ) an announcement was made that a prayer was to be offered in congregation",
+          "ur": "ہم سے اسحاق بن منصور نے بیان کیا، انہوں نے کہا کہ ہمیں یحییٰ بن صالح نے خبر دی، انہوں نے کہا کہ ہم سے معاویہ بن سلام بن ابی سلام رحمہ اللہ تعالیٰ حبشی دمشقی نے بیان کیا، انہوں نے کہا کہ ہم سے یحییٰ بن ابی کثیر نے بیان کیا، انہوں نے کہا کہ مجھے ابوسلمہ بن عبدالرحمٰن بن عوف زہری نے خبر دی، ان سے عبداللہ بن عمرو رضی اللہ عنہما نے بیان کیا کہ جب رسول اللہ صلی اللہ علیہ وسلم کے زمانہ میں سورج گرہن لگا تو یہ اعلان کیا گیا کہ نماز ہونے والی ہے۔",
+          "fr": "Rapporté par `Abdullah bin `Amr : Quand le soleil s’est éclipsé du vivant du Messager d’Allah (ﷺ), une annonce a été faite pour inviter les gens à prier en groupe",
+          "id": "Telah menceritakan kepada kami [Ishaq] berkata, telah mengabarkan kepada kami [Yahya bin Shalih] berkata, telah menceritakan kepada kami [Mu'awiyah bin Salam bin Abu Salam Al Habasyi Ad Dimsyqi] berkata, telah menceritakan kepada kami [Yahya bin Abu Katsir] berkata, telah mengabarkan kepadaku [Abu Salamah bin 'Abdurrahman bin 'Auf Az Zuhri] dari ['Abdullah bin 'Amru] berkata, \"Ketika terjadi gerhana matahari pada masa Rasulullah shallallahu 'alaihi wasallam, maka panggilannya dengan seruan, 'Ashshalaatul jaami'ah (Marilah mendirikan shalat secara bersama-sama)",
+          "tr": "Abdullah İbn Amr (r.a.)'dan nakledilmiştir: \"Nebi Sallallahu Aleyhi ve Sellem zamanında güneş tutulduğu vakit: \" الصلاة جامعة [Esselatu’l-camiah} Namaz toplayıcıdır,!\" diye ilan edilmişti"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 16,
+        "hadith": 6
+      },
+      "narrator": {
+        "en": "`Abdullah bin `Amr"
+      }
+    },
+    {
+      "hadithNumber": 1046,
+      "arabicNumber": 1046,
+      "book": 16,
+      "hadithInBook": 7,
+      "text": {
+        "arabic": "حَدَّثَنَا يَحْيَى بْنُ بُكَيْرٍ، قَالَ حَدَّثَنِي اللَّيْثُ، عَنْ عُقَيْلٍ، عَنِ ابْنِ شِهَابٍ، ح وَحَدَّثَنِي أَحْمَدُ بْنُ صَالِحٍ، قَالَ حَدَّثَنَا عَنْبَسَةُ، قَالَ حَدَّثَنَا يُونُسُ، عَنِ ابْنِ شِهَابٍ، حَدَّثَنِي عُرْوَةُ، عَنْ عَائِشَةَ، زَوْجِ النَّبِيِّ صلى الله عليه وسلم قَالَتْ خَسَفَتِ الشَّمْسُ فِي حَيَاةِ النَّبِيِّ صلى الله عليه وسلم فَخَرَجَ إِلَى الْمَسْجِدِ فَصَفَّ النَّاسُ وَرَاءَهُ، فَكَبَّرَ فَاقْتَرَأَ رَسُولُ اللَّهِ صلى الله عليه وسلم قِرَاءَةً طَوِيلَةً، ثُمَّ كَبَّرَ فَرَكَعَ رُكُوعًا طَوِيلاً، ثُمَّ قَالَ سَمِعَ اللَّهُ لِمَنْ حَمِدَهُ‏.‏ فَقَامَ وَلَمْ يَسْجُدْ، وَقَرَأَ قِرَاءَةً طَوِيلَةً، هِيَ أَدْنَى مِنَ الْقِرَاءَةِ الأُولَى، ثُمَّ كَبَّرَ وَرَكَعَ رُكُوعًا طَوِيلاً، وَهْوَ أَدْنَى مِنَ الرُّكُوعِ الأَوَّلِ، ثُمَّ قَالَ سَمِعَ اللَّهُ لِمَنْ حَمِدَهُ، رَبَّنَا وَلَكَ الْحَمْدُ‏.‏ ثُمَّ سَجَدَ، ثُمَّ قَالَ فِي الرَّكْعَةِ الآخِرَةِ مِثْلَ ذَلِكَ، فَاسْتَكْمَلَ أَرْبَعَ رَكَعَاتٍ فِي أَرْبَعِ سَجَدَاتٍ، وَانْجَلَتِ الشَّمْسُ قَبْلَ أَنْ يَنْصَرِفَ، ثُمَّ قَامَ فَأَثْنَى عَلَى اللَّهِ بِمَا هُوَ أَهْلُهُ ثُمَّ قَالَ ‏ \"‏ هُمَا آيَتَانِ مِنْ آيَاتِ اللَّهِ، لاَ يَخْسِفَانِ لِمَوْتِ أَحَدٍ وَلاَ لِحَيَاتِهِ، فَإِذَا رَأَيْتُمُوهُمَا فَافْزَعُوا إِلَى الصَّلاَةِ ‏\"‏‏.‏ وَكَانَ يُحَدِّثُ كَثِيرُ بْنُ عَبَّاسٍ أَنَّ عَبْدَ اللَّهِ بْنَ عَبَّاسٍ ـ رضى الله عنهما ـ كَانَ يُحَدِّثُ يَوْمَ خَسَفَتِ الشَّمْسُ بِمِثْلِ حَدِيثِ عُرْوَةَ عَنْ عَائِشَةَ‏.‏ فَقُلْتُ لِعُرْوَةَ إِنَّ أَخَاكَ يَوْمَ خَسَفَتْ بِالْمَدِينَةِ لَمْ يَزِدْ عَلَى رَكْعَتَيْنِ مِثْلَ الصُّبْحِ‏.‏ قَالَ أَجَلْ لأَنَّهُ أَخْطَأَ السُّنَّةَ‏.‏",
+        "translations": {
+          "en": "Narrated `Aisha:(the wife of the Prophet (ﷺ) In the lifetime of the Prophet (ﷺ) the sun eclipsed and he went to the Mosque and the people aligned behind him. He said the Takbir (starting the prayer) and prolonged the recitation (from the Qur'an) and then said Takbir and performed a prolonged bowing; then he (lifted his head and) said, \"Sami allahu liman hamidah\" (Allah heard him who sent his praises to Him). He then did not prostrate but stood up and recited a prolonged recitation which was shorter than the first recitation. He again said Takbir and then bowed a prolonged bowing but shorter than the first one and then said, \"Sami`a l-lahu Lyman hamidah Rabbana walak-lhamd, (Allah heard him who sent his praises to Him. O our Sustainer! All the praises are for You)\" and then prostrated and did the same in the second rak`a; thus he completed four bowing and four prostrations. The sun (eclipse) had cleared before he finished the prayer. (After the prayer) he stood up, glorified and praised Allah as He deserved and then said, \"The sun and the moon are two of the signs of Allah. They do not eclipse because of the death or the life (i.e. birth) of someone. When you see them make haste for the prayer.\" Narrated Az-Zuhri: I said to 'Urwa, \"When the sun eclipsed at Medina your brother (`Abdullah bin Az-Zubair) offered only a two-rak`at prayer like that of the morning (Fajr) prayer.\" 'Urwa replied, \"Yes, for he missed the Prophet's tradition (concerning this matter)",
+          "ur": "ہم سے یحییٰ بن بکیر نے بیان کیا، انہوں نے کہا کہ مجھ سے لیث بن سعد نے بیان کیا، ان سے عقیل نے بیان کیا، ان سے ابن شہاب نے (دوسری سند) اور مجھ سے احمد بن صالح نے بیان کیا کہ ہم سے عنبسہ بن خالد نے بیان کیا، کہا کہ ہم سے یونس بن یزید نے بیان کیا، ان سے ابن شہاب نے، انہوں نے کہا کہ مجھ سے عروہ نے نبی کریم صلی اللہ علیہ وسلم کی زوجہ مطہرہ عائشہ صدیقہ رضی اللہ عنہا سے بیان کیا کہ نبی کریم صلی اللہ علیہ وسلم کی زندگی میں سورج گرہن لگا، اسی وقت آپ صلی اللہ علیہ وسلم مسجد میں تشریف لے گئے۔ انہوں نے بیان کیا کہ لوگوں نے نبی کریم صلی اللہ علیہ وسلم کے پیچھے صف باندھی آپ صلی اللہ علیہ وسلم نے تکبیر کہی اور بہت دیر قرآن مجید پڑھتے رہے پھر تکبیر کہی اور بہت لمبا رکوع کیا پھر «سمع الله لمن حمده‏» کہہ کر کھڑے ہو گئے اور سجدہ نہیں کیا ( رکوع سے اٹھنے کے بعد ) پھر بہت دیر تک قرآن مجید پڑھتے رہے۔ لیکن پہلی قرآت سے کم، پھر تکبیر کے ساتھ رکوع میں چلے گئے اور دیر تک رکوع میں رہے، یہ رکوع بھی پہلے رکوع سے کم تھا۔ اب «سمع الله لمن حمده‏» اور «ربنا ولك الحمد‏» کہا پھر سجدہ میں گئے۔ آپ صلی اللہ علیہ وسلم نے دوسری رکعت میں بھی اسی طرح کیا ( ان دونوں رکعتوں میں ) پورے چار رکوع اور چار سجدے کئے۔ نماز سے فارغ ہونے سے پہلے ہی سورج صاف ہو چکا تھا۔ نماز کے بعد آپ صلی اللہ علیہ وسلم نے کھڑے ہو کر خطبہ فرمایا اور پہلے اللہ تعالیٰ کی اس کی شان کے مطابق تعریف کی پھر فرمایا کہ سورج اور چاند اللہ کی دو نشانیاں ہیں ان میں گرہن کسی کی موت و حیات کی وجہ سے نہیں لگتا لیکن جب تم گرہن دیکھا کرو تو فوراً نماز کی طرف لپکو۔ زہری نے کہا کہ کثیر بن عباس اپنے بھائی عبداللہ بن عباس سے روایت کرتے تھے وہ سورج گرہن کا قصہ اس طرح بیان کرتے تھے جیسے عروہ نے عائشہ صدیقہ رضی اللہ عنہا سے نقل کیا۔ زہری نے کہا میں نے عروہ سے کہا تمہارے بھائی عبداللہ بن زبیر نے جس دن مدینہ میں سورج گرہن ہوا صبح کی نماز کی طرح دو رکعت پڑھی اور کچھ زیادہ نہیں کیا۔ انہوں نے کہا ہاں مگر وہ سنت کے طریق سے چوک گئے۔",
+          "fr": "Rapporté par `Aisha (l’épouse du Prophète) : Du vivant du Prophète (ﷺ), le soleil s’est éclipsé et il est allé à la mosquée, les gens se sont alignés derrière lui. Il a dit le Takbir (pour commencer la prière), a fait une longue récitation, puis a fait une longue inclinaison ; ensuite, il a relevé la tête et a dit : « Sami`a l-lahu liman hamidah » (Allah entend celui qui Le loue). Il ne s’est pas prosterné tout de suite mais s’est relevé et a récité un passage long, mais plus court que le premier. Il a de nouveau dit le Takbir, a fait une longue inclinaison, plus courte que la première, puis a dit : « Sami`a l-lahu liman hamidah Rabbana walak-lhamd » (Allah entend celui qui Le loue. Ô notre Seigneur ! Toutes les louanges sont pour Toi), puis il s’est prosterné. Il a fait la même chose dans la deuxième unité, complétant ainsi quatre inclinaisons et quatre prosternations. L’éclipse était terminée avant la fin de la prière. Après la prière, il s’est levé, a glorifié et loué Allah comme Il le mérite, puis a dit : « Le soleil et la lune sont deux signes d’Allah. Ils ne s’éclipsent pas à cause de la mort ou de la naissance de quelqu’un. Quand vous les voyez, hâtez-vous de prier. » Rapporté par Az-Zuhri : J’ai dit à `Urwa : « Quand le soleil s’est éclipsé à Médine, ton frère (`Abdullah bin Az-Zubair) n’a fait qu’une prière de deux unités, comme la prière du matin (Fajr). » `Urwa a répondu : « Oui, car il n’a pas suivi la tradition du Prophète à ce sujet. »",
+          "id": "Telah menceritakan kepada kami [Yahya bin Bukair] berkata, telah menceritakan kepadaku [Al Laits] dari ['Uqail] dari [Ibnu Syihab]. (dalam jalur lain disebutkan) Telah menceritakan kepadaku [Ahmad bin Shalih] berkata, telah menceritakan kepada kami ['Anbasah] berkata, telah menceritakan kepada kami [Yunus] dari [Ibnu Syihab] telah menceritakan kepadaku ['Urwah] dari ['Aisyah] isteri Nabi shallallahu 'alaihi wasallam, ia berkata, \"Pernah terjadi gerhana matahari pada masa Nabi shallallahu 'alaihi wasallam. Beliau keluar menuju masjid, lalu orang-orang membuat barisan di belakang beliau, beliau lalu takbir dan membaca surat yang panjang. Lalu beliau takbir dan rukuk dengan rukuk yang panjang, lalu mengucapkan SAMI'ALLAHU LIMAN HAMIDAH dan berdiri tanpa sujud. Kemudian beliau membaca bacaan yang panjang namun tidak sebagaimana bacaan yang pertama, lalu takbir dan rukuk dengan rukuk yang panjang namun tidak sebagaimana rukuk yang pertama, lalu mengucapkan SAMI'ALLAHU LIMAN HAMIDAH terus kemudian sujud. Setelah itu beliau melakukannya sepeti itu pada rakaat yang akhir hingga sempurnalah empat rukuk dalam empat sujud. Dan matahari nampak kembali sebelum shalat beliau selesai. Setelah itu beliau berdiri (menyampaikan khutbah) dengan memuji Allah dengan pujian yang patas untuk-Nya, beliau bersabda: \"Keduanya adalah dua tanda dari tanda-tanda kebesaran Allah, dan gerhana tidak akan terjadi hanya karena mati atau hidupnya seseorang. Jika kalian melihat (gerhan) keduanya, maka bersegeralah mendirikan shalat.\" [Katsir bin 'Abbas] menceritakan bahwa ['Abdullah bin 'Abbas] radliallahu 'anhuma menceritakan tentang hari terjadinya gerhana marahari seperti hadits 'Urwah dari 'Aisyah ini. Aku lalu berkata kepada 'Urwah, \"Sesungguhnya ketika terjadi gerhana di Madinah, saudaramu tidak pernah menambah lebih dari dua rakaat, seperti shalat shubuh.\" Dia menjawab, \"Benar. Dia telah ia telah menyelisihi sunnah",
+          "tr": "Mu'minlerin annesi Aişe (r.a.)'nın şöyle dediği nakledilmiştir: \"Resulullah Sallallahu Aleyhi ve Sellem hayatta iken güneş tutulmuştu. Bunun üzerine çıkıp mescide gitti ve ashab-ı kiram O'nun Sallallahu Aleyhi ve Sellem arkasında saf tuttu. Resu-lullah Sallallahu Aleyhi ve Sellem tekbir getirip namaza başladı ve uzun bir kiraattan sonra tekbir getirip rükuya gitti. Rükuda da uzun bir süre bekledikten sonra (Semi'allahu limen hamideh) deyip kalktı. Fakat secdeye varmadı. Kıyamda ilk kıraati kadar olmasa da uzun bir süre Kur'an okudu. Sonra tekbir getirip rükuya vardı. Rükuda yine uzun bir müddet bekledi; fakat bu rüku birinci rüku kadar uzun değildi. Sonra (Semi'allahu limen hamideh, Rabbena ve lekel hamd) dedi ve ardından secdeye gitti. Bir sonraki rekatı da tıpkı birinci rekat gibi kıldı. Bu şekilde dört rekatı dört secde ile tamamladı. Nebi Sallallahu Aleyhi ve Sellem namazı bitirmeden önce güneş açılmıştı. Resul-i Ekrem Sallallahu Aleyhi ve Sellem namaz bittikten sonra kalktı ve Allah'ı layık olduğu şekilde övdükten sonra şöyle buyurdu: \"Ay ve güneş Allah'ın birer ayetidir. Bunlar ne bir kimse'nin ölümü ne de hayatı yüzünden tutulurlar. Eğer ay ve güneşin tutulduğunu görürseniz derhal namaz kılmaya koşun!\" Kesîr İbn Abbas, Abdullah İbn Abbas'ın güneş tutulmasıyla İlgili olarak naklettiği rivayetin tıpkı Urve'nin Aişe (r.a.)'dan naklettiği rivayet gibi olduğunu söylemiş ve bunu nakletmiştir. Kesîr İbn Abbas şöyle demiştir: \"Ben Urve'ye 'Kardeşin Medine'de güneş tutulduğu zaman kılınan namazın tıpkı sabah namazı gibi iki rekat olduğunu söyledi ve bunun üzerine eklemede bulunmadı' dediğimde şu cevabı verdi; 'Doğrudur ama sünnete uygun davranmamış"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 16,
+        "hadith": 7
+      },
+      "narrator": {
+        "en": "`Aisha"
+      }
+    },
+    {
+      "hadithNumber": 1047,
+      "arabicNumber": 1047,
+      "book": 16,
+      "hadithInBook": 8,
+      "text": {
+        "arabic": "حَدَّثَنَا سَعِيدُ بْنُ عُفَيْرٍ، قَالَ حَدَّثَنَا اللَّيْثُ، حَدَّثَنِي عُقَيْلٌ، عَنِ ابْنِ شِهَابٍ، قَالَ أَخْبَرَنِي عُرْوَةُ بْنُ الزُّبَيْرِ، أَنَّ عَائِشَةَ، زَوْجَ النَّبِيِّ صلى الله عليه وسلم أَخْبَرَتْهُ‏.‏ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم صَلَّى يَوْمَ خَسَفَتِ الشَّمْسُ، فَقَامَ فَكَبَّرَ، فَقَرَأَ قِرَاءَةً طَوِيلَةً، ثُمَّ رَكَعَ رُكُوعًا طَوِيلاً، ثُمَّ رَفَعَ رَأْسَهُ، فَقَالَ سَمِعَ اللَّهُ لِمَنْ حَمِدَهُ‏.‏ وَقَامَ كَمَا هُوَ، ثُمَّ قَرَأَ قِرَاءَةً طَوِيلَةً، وَهْىَ أَدْنَى مِنَ الْقِرَاءَةِ الأُولَى، ثُمَّ رَكَعَ رُكُوعًا طَوِيلاً، وَهْىَ أَدْنَى مِنَ الرَّكْعَةِ الأُولَى، ثُمَّ سَجَدَ سُجُودًا طَوِيلاً، ثُمَّ فَعَلَ فِي الرَّكْعَةِ الآخِرَةِ مِثْلَ ذَلِكَ، ثُمَّ سَلَّمَ وَقَدْ تَجَلَّتِ الشَّمْسُ، فَخَطَبَ النَّاسَ، فَقَالَ فِي كُسُوفِ الشَّمْسِ وَالْقَمَرِ ‏ \"‏ إِنَّهُمَا آيَتَانِ مِنْ آيَاتِ اللَّهِ، لاَ يَخْسِفَانِ لِمَوْتِ أَحَدٍ وَلاَ لِحَيَاتِهِ، فَإِذَا رَأَيْتُمُوهُمَا فَافْزَعُوا إِلَى الصَّلاَةِ ‏\"‏‏.‏",
+        "translations": {
+          "en": "Narrated Aisha:(the wife of the Prophet) On the day when the sun Khasafat (eclipsed) Allah's Messenger (ﷺ) prayed; he stood up and said Takbir and recited a prolonged recitation, then he performed a prolonged bowing, then he raised his head and said, \"Sami`a l-lahu Lyman Hamidah,\" and then remained standing and recited a prolonged recitation which was shorter than the first. Then he performed a prolonged bowing which was shorter than the first. Then he prostrated and prolonged the prostration and he did the same in the second rak`a as in the first and then finished the prayer with Taslim. By that time the sun (eclipse) had cleared He addressed the people and said, \"The sun and the moon are two of the signs of Allah; they do not eclipse (Yakhsifan) because of the death or the life (i.e. birth) of someone. So when you see them make haste for the prayer",
+          "ur": "ہم سے سعید بن عفیر نے بیان کیا، انہوں نے کہا کہ ہم سے لیث بن سعد نے بیان کیا، انہوں نے کہا کہ مجھ سے عقیل نے بیان کیا، ان سے ابن شہاب نے بیان کیا، انہوں نے کہا کہ مجھے عروہ بن زبیر نے خبر دی اور انہیں نبی کریم صلی اللہ علیہ وسلم کی زوجہ مطہرہ عائشہ صدیقہ رضی اللہ عنہا نے خبر دی کہ جس دن سورج میں خسوف ( گرہن ) لگا تو نبی کریم صلی اللہ علیہ وسلم نے نماز پڑھائی۔ آپ صلی اللہ علیہ وسلم کھڑے ہوئے تکبیر کہی پھر دیر تک قرآن مجید پڑھتے رہے۔ لیکن اس کے بعد ایک طویل رکوع کیا۔ رکوع سے سر اٹھایا تو کہا «سمع الله لمن حمده‏» پھر آپ صلی اللہ علیہ وسلم پہلے ہی کی طرح کھڑے ہو گئے اور دیر تک قرآن مجید پڑھتے رہے لیکن اس مرتبہ کی قرآت پہلے سے کچھ کم تھی۔ پھر آپ صلی اللہ علیہ وسلم سجدہ میں گئے اور بہت دیر تک سجدہ میں رہے پھر دوسری رکعت میں بھی آپ صلی اللہ علیہ وسلم نے اسی طرح کیا پھر جب آپ صلی اللہ علیہ وسلم نے سلام پھیرا تو سورج صاف ہو چکا تھا۔ نماز سے فارغ ہو کر آپ صلی اللہ علیہ وسلم نے خطبہ دیا اور فرمایا کہ سورج اور چاند کا «كسوف» ( گرہن ) اللہ تعالیٰ کی ایک نشانی ہے اور ان میں «خسوف» ( گرہن ) کسی کی موت و زندگی پر نہیں لگتا۔ لیکن جب تم سے دیکھو تو فوراً نماز کے لیے لپکو۔",
+          "fr": "Rapporté par `Aisha (l’épouse du Prophète) : Le jour où le soleil s’est éclipsé (Khasafat), le Messager d’Allah (ﷺ) a prié ; il s’est levé, a dit le Takbir, a récité un long passage, puis a fait une longue inclinaison, a relevé la tête en disant : « Sami`a l-lahu liman Hamidah », est resté debout et a récité un long passage, plus court que le premier. Ensuite, il a fait une longue inclinaison, plus courte que la première, puis s’est prosterné longuement. Il a fait la même chose dans la deuxième unité, puis a terminé la prière avec le salut. À ce moment-là, l’éclipse était terminée. Il a ensuite dit aux gens : « Le soleil et la lune sont deux signes d’Allah ; ils ne s’éclipsent pas à cause de la mort ou de la naissance de quelqu’un. Donc, quand vous les voyez, hâtez-vous de prier. »",
+          "id": "Telah menceritakan kepada kami [Sa'id bin 'Ufair] berkata, telah menceritakan kepadaku [Al Laits] telah menceritakan kepadaku ['Uqail] dari [Ibnu Syihab] berkata, telah mengabarkan kepadaku ['Urwah bin Az Zubair] bahwa ['Aisyah] isteri Nabi shallallahu 'alaihi wasallam, mengabarkan kepadanya bahwa Rasulullah shallallahu 'alaihi wasallam ketika hari terjadinya gerhana matahari, beliau berdiri melaksanakan shalat. Beliau takbir, kemudian membaca dengan bacaan surah yang panjang, lalu rukuk dengan rukuk yang panjang, lalu mengangkat kepalanya seraya membaca SAMI'ALLAHU LIMAN HAMIDAH. Beliau lalu kembali berdiri sebagaimana sebelumnya dan membaca bacaan yang panjang, namun tidak sepanjang yang pertama, lalu rukuk dengan rukuk yang panjang, namun tidak sebagaimana rukuk yang pertama. Kemudian beliau sujud dengan sujud yang panjang. Kemudian beliau mengerjakan seperti itu pada rakaat yang akhir, lalu beliau salam sementara matahari sudah tampak kembali. Setelah itu beliau menyampaikan khutbah di hadapan manusia dan menyebutkan tentang gerhana matahari dan bulan, beliau katakan: \"Keduanya adalah dua tanda dari tanda-tanda kebesaran Allah yang tidak akan terjadi gerhana disebabkan karena mati atau hidupnya seseorang. Maka jika kalian melihat gerhana keduanya, hendaklah kalian segera mendirikan shalat",
+          "tr": "Urve İbnü'z-Zübeyr, Aişe (r.anha)'nın şöyle dediğini nakletmiştir: \"Resul-i Ekrem Sallallahu Aleyhi ve Sellem güneş tutulduğu (hüsuf) gün kalktı ve tekbir getirip namaz'a durduktan sonra uzun bir süre Kur'an okudu. Ardından rükuya gidip rükuda da uzun bir müddet bekledi. Daha sonra başını kaldırıp (Semi'allahu limen hamideh) dedi ve daha önceki gibi yine kıyama kalktı. Bu kıyamda bir önceki kıraati kadar olmasa da yine uzunca bir süre Kur'an okudu. Sonra rükuya gitti ve rükuda birinci rekattaki kadar olmasa da uzun bir süre bekledi. Ardından secdeye gitti ve secdede uzun bir müddet bekledi. Bir sonraki on rekatı da tıpkı birinci rekat gibi kıldı. Selam verdiğinde güneş açılmıştı. Resulullah (Sallallahu aleyhi ve Sellem) namazın ardından cemaate hitap ederek güneş ve ay tutulması (küsuf) hakkında şunları söyledi: \"Ay ve güneş Allah'ın birer ayetidir. Bunlar ne bir kimsenin ölümü ne de hayatı yüzünden tutulurlar. Eğer ay ve güneşin tutulduğunu görürseniz derhal namaz kılmaya koşun"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 16,
+        "hadith": 8
+      },
+      "narrator": {
+        "en": "Aisha"
+      }
+    },
+    {
+      "hadithNumber": 1048,
+      "arabicNumber": 1048,
+      "book": 16,
+      "hadithInBook": 9,
+      "text": {
+        "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، قَالَ حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، عَنْ يُونُسَ، عَنِ الْحَسَنِ، عَنْ أَبِي بَكْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ إِنَّ الشَّمْسَ وَالْقَمَرَ آيَتَانِ مِنْ آيَاتِ اللَّهِ، لاَ يَنْكَسِفَانِ لِمَوْتِ أَحَدٍ، وَلَكِنَّ اللَّهَ تَعَالَى يُخَوِّفُ بِهَا عِبَادَهُ ‏\"‏‏.‏ وَقَالَ أَبُو عَبْدِ اللَّهِ لَمْ يَذْكُرْ عَبْدُ الْوَارِثِ وَشُعْبَةُ وَخَالِدُ بْنُ عَبْدِ اللَّهِ وَحَمَّادُ بْنُ سَلَمَةَ عَنْ يُونُسَ ‏\"‏ يُخَوِّفُ بِهَا عِبَادَهُ ‏\"‏‏.‏ وَتَابَعَهُ مُوسَى عَنْ مُبَارَكٍ عَنِ الْحَسَنِ قَالَ أَخْبَرَنِي أَبُو بَكْرَةَ عَنِ النَّبِيِّ صلى الله عليه وسلم‏.‏ ‏\"‏ إِنَّ اللَّهَ تَعَالَى يُخَوِّفُ بِهِمَا عِبَادَهُ ‏\"‏‏.‏ وَتَابَعَهُ أَشْعَثُ عَنِ الْحَسَنِ‏.‏",
+        "translations": {
+          "en": "Narrated Abu Bakra:Allah's Messenger (ﷺ) said: \"The sun and the moon are two signs amongst the signs of Allah and they do not eclipse because of the death of someone but Allah frightens His devotees with them",
+          "ur": "ہم سے قتیبہ بن سعید نے بیان کیا، کہا کہ ہم سے حماد بن زید نے بیان کیا، ان سے یونس بن عبید نے، ان سے امام حسن بصری نے، ان سے ابوبکرہ رضی اللہ عنہ نے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا سورج اور چاند دونوں اللہ تعالیٰ کی نشانیاں ہیں اور کسی کی موت و حیات سے ان میں گرہن نہیں لگتا بلکہ اللہ تعالیٰ اس کے ذریعہ اپنے بندوں کو ڈراتا ہے۔ عبدالوارث، شعبہ، خالد بن عبداللہ اور حماد بن سلمہ ان سب حافظوں نے یونس سے یہ جملہ کہ ”اللہ تعالیٰ ان کو گرہن کر کے اپنے بندوں کو ڈراتا ہے“ بیان نہیں کیا اور یونس کے ساتھ اس حدیث کو موسیٰ نے مبارک بن فضالہ سے، انہوں نے امام حسن بصری سے روایت کیا۔ اس میں یوں ہے کہ ابوبکرہ رضی اللہ عنہ نے نبی کریم صلی اللہ علیہ وسلم سے سن کر مجھ کو خبر دی کہ اللہ تعالیٰ ان کو گرہن کر کے اپنے بندوں کو ڈراتا ہے اور یونس کے ساتھ اس حدیث کو اشعث بن عبداللہ نے بھی امام حسن بصری سے روایت کیا۔",
+          "fr": "Rapporté par Abu Bakra : Le Messager d’Allah (ﷺ) a dit : « Le soleil et la lune sont deux signes parmi les signes d’Allah et ils ne s’éclipsent pas à cause de la mort de quelqu’un, mais Allah fait peur à Ses serviteurs par eux. »",
+          "id": "Telah menceritakan kepada kami [Qutaibah bin Sa'id] berkata, telah menceritakan kepada kami [Hammad bin Zaid] dari [Yunus] dari [Al Hasan] dari [Abu Bakrah] berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Sesungguhnya matahari dan bulan adalah dua tanda dari tanda-tanda kebesaran Allah, dan keduanya tidak akan mengalami gerhana disebabkan karena mati atau hidupnya seseorang. Akan tetapi dengan peristiwa itu Allah Ta'ala ingin membuat para hamba-Nya takut (dengan siksa-Nya).\" Abu 'Abdullah berkata, \" ['Abdul Warits] dan [Syu'bah] dan [Khalid bin 'Abdullah] dan [Hammad bin Salamah] dari [Yunus] tidak menyebutkan lafadz, 'Akan tetapi dengan peristiwa tersebut Allah Ta'ala ingin membuat para hamba-Nya takut (dengan siksa-Nya).\" Riwayat ini dikuatkan oleh ['Asy'ats] dari [Al Hasan], dan dikuatkan juga oleh [Musa] dari [Mubarak] dari [Al Hasan] ia berkata; telah mengabarkan kepadaku [Abu Bakrah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: \"Sesungguhnya Allah Ta'ala dengan peristiwa itu Allah ingin membuat takut para hamba-Nya (dari siksa-Nya)",
+          "tr": "Ebu Bekre Nebi Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu nakletmiştir: \"Güneş ve ay Allah'ın birer ayetidir. Bunlar asla bir kimsenin ölümü dolayısıyla tutulmazlar. Ancak Allah Teala bu tutulmalar ile kullarına korku salar.\" Ebu Abdullah şöyle demiştir: \"Abdülvaris, Şu'be, Halid İbn Abdullah ve Hammad İbn Seleme bu rivayette geçen 'Allah Teala bu tutulmalar ile kullarına korku salar' kısmını Yunus'tan nakletmemişlerdir"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 16,
+        "hadith": 9
+      },
+      "narrator": {
+        "en": "Abu Bakra"
+      }
+    },
+    {
+      "hadithNumber": 1050,
+      "arabicNumber": 1050,
+      "book": 16,
+      "hadithInBook": 10,
+      "text": {
+        "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، عَنْ مَالِكٍ، عَنْ يَحْيَى بْنِ سَعِيدٍ، عَنْ عَمْرَةَ بِنْتِ عَبْدِ الرَّحْمَنِ، عَنْ عَائِشَةَ، زَوْجِ النَّبِيِّ صلى الله عليه وسلم أَنَّ يَهُودِيَّةً جَاءَتْ تَسْأَلُهَا فَقَالَتْ لَهَا أَعَاذَكِ اللَّهُ مِنْ عَذَابِ الْقَبْرِ‏.‏ فَسَأَلَتْ عَائِشَةُ ـ رضى الله عنها ـ رَسُولَ اللَّهِ صلى الله عليه وسلم أَيُعَذَّبُ النَّاسُ فِي قُبُورِهِمْ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم عَائِذًا بِاللَّهِ مِنْ ذَلِكَ‏.‏ ثُمَّ رَكِبَ رَسُولُ اللَّهِ صلى الله عليه وسلم ذَاتَ غَدَاةٍ مَرْكَبًا، فَخَسَفَتِ الشَّمْسُ، فَرَجَعَ ضُحًى، فَمَرَّ رَسُولُ اللَّهِ صلى الله عليه وسلم بَيْنَ ظَهْرَانَىِ الْحُجَرِ، ثُمَّ قَامَ يُصَلِّي، وَقَامَ النَّاسُ وَرَاءَهُ، فَقَامَ قِيَامًا طَوِيلاً، ثُمَّ رَكَعَ رُكُوعًا طَوِيلاً، ثُمَّ رَفَعَ فَقَامَ قِيَامًا طَوِيلاً، وَهْوَ دُونَ الْقِيَامِ الأَوَّلِ ثُمَّ رَكَعَ رُكُوعًا طَوِيلاً، وَهْوَ دُونَ الرُّكُوعِ الأَوَّلِ، ثُمَّ رَفَعَ فَسَجَدَ، ثُمَّ قَامَ فَقَامَ قِيَامًا طَوِيلاً، وَهْوَ دُونَ الْقِيَامِ الأَوَّلِ، ثُمَّ رَكَعَ رُكُوعًا طَوِيلاً وَهْوَ دُونَ الرُّكُوعِ الأَوَّلِ، ثُمَّ قَامَ قِيَامًا طَوِيلاً وَهْوَ دُونَ الْقِيَامِ الأَوَّلِ، ثُمَّ رَكَعَ رُكُوعًا طَوِيلاً وَهْوَ دُونَ الرُّكُوعِ الأَوَّلِ، ثُمَّ رَفَعَ فَسَجَدَ وَانْصَرَفَ، فَقَالَ مَا شَاءَ اللَّهُ أَنْ يَقُولَ، ثُمَّ أَمَرَهُمْ أَنْ يَتَعَوَّذُوا مِنْ عَذَابِ الْقَبْرِ‏.‏",
+        "translations": {
+          "en": "Narrated `Amra bint `Abdur-Rahman:A Jewess came to ask `Aisha (the wife of the Prophet) about something. She said to her, \"May Allah give you refuge from the punishment of the grave.\" So `Aisha ' asked Allah's Messenger (ﷺ) \"Would the people be punished in their graves?\" Allah's Messenger (ﷺ) after seeking refuge with Allah from the punishment of the grave (and thus replied in the affirmative). Then one day, Allah's Messenger (ﷺ) rode to go to some place but the sun eclipsed. He returned in the forenoon and passed through the rear of the dwellings (of his wives) and stood for the (eclipse) prayer, and the people stood behind him. He stood up for a long period and then performed a prolonged bowing which was shorter than the first bowing. Then he raised his head and prostrated. Then he stood up (for the second rak`a) for a long while but the standing was shorter than that of the first rak`a. Then he performed a prolonged bowing which was shorter than the first one. Then he raised his head and prostrated. Then he stood up for a long time but shorter than the first. Then he performed a prolonged bowing but shorter than the first. Then he raised his head and prostrated and finished the prayer and (then delivered the sermon and) said as much as Allah wished. And then he ordered the people to seek refuge with Allah from the punishment of the grave",
+          "fr": "Rapporté par `Amra bint `Abdur-Rahman : Une femme juive est venue demander quelque chose à `Aisha (l’épouse du Prophète) et lui a dit : « Qu’Allah te protège du châtiment de la tombe. » Alors `Aisha a demandé au Messager d’Allah (ﷺ) : « Les gens seront-ils punis dans leurs tombes ? » Le Messager d’Allah (ﷺ) a demandé la protection d’Allah contre le châtiment de la tombe (ce qui montrait une réponse positive). Un jour, le Messager d’Allah (ﷺ) est sorti pour aller quelque part, mais le soleil s’est éclipsé. Il est revenu dans la matinée, est passé par l’arrière des habitations de ses femmes et s’est tenu pour la prière de l’éclipse, les gens se sont mis derrière lui. Il est resté debout longtemps, puis a fait une longue inclinaison, plus courte que la première. Ensuite, il a relevé la tête et s’est prosterné. Puis il s’est relevé pour la deuxième unité, est resté debout longtemps, mais moins que la première fois. Il a fait une longue inclinaison, plus courte que la première, puis a relevé la tête et s’est prosterné. Ensuite, il s’est relevé pour un long moment, mais moins que la première fois, a fait une longue inclinaison, plus courte que la première, puis a relevé la tête, s’est prosterné et a terminé la prière. Ensuite, il a prononcé un sermon aussi long qu’Allah l’a voulu et a ordonné aux gens de demander la protection d’Allah contre le châtiment de la tombe",
+          "id": "Telah menceritakan kepada kami ['Abdullah bin Maslamah] dari [Malik] dari [Yahya bin Sa'id] dari ['Amrah binti 'Abdurrahman] dari ['Aisyah] isteri Nabi shallallahu 'alaihi wasallam, bahwa ada seorang wanita Yahudi datang bertanya kepadanya, ia katakan, \"Apakah Allah akan melindungi anda dari siksa kubur?\" Maka Aisyah menanyakan hal itu kepada Rasulullah shallallahu 'alaihi wasallam, \"Apakah manusia akan disiksa dalam kubur mereka?\" Rasulullah shallallahu 'alaihi wasallam lalu menjawab: \"Aku berlindung darinya.\" Kemudian di pagi hari Rasulullah shallallahu 'alaihi wasallam pergi mengendarai tunggangannya, tiba-tiba terjadi gerhana matahari. Lalu beliau segera kembali saat masih waktu dluha, beliau melewati di antara kamar-kamar (isterinya), beliau kemudian mendirikan shalat dengan diikuti oleh orang-orang di belakangnya. Beliau berdiri dengan lama, lalu rukuk dengan rukuk yang panjang, lalu mengangkat (kepala) kemudian berdiri dengan panjang, namun tidak sepanjang yang pertama. Kemudian rukuk kembali dengan panjang namun tidak sepanjang rukuk yang pertama, kemudian beliau mengangkat kepalanya dan sujud. Kemudian beliau kembali berdiri dengan panjang namun tidak sepanjang yang pertama, lalu rukuk dengan panjang namun tidak sepanjang rukuk yang pertama, lalu mengangkat (kepala) dan berdiri dengan panjang namun tidak sepanjang yang pertama. Kemudian beliau rukuk dengan panjang namun tidak sepanjang rukuk yang pertama. Kemudian beliau mengangkat kepalanya, lalu sujud dan mengakhiri shalatnya. Kemudian beliau bersabda sebagaimana yang dikendaki Allah, kemudian memerintahkan orang-orang agar mereka memohon perlindungan dari siksa kubur",
+          "tr": "Aişe (r.anha)'dan nakledilmiştir: \"Bir yahudi kadın Aişe (r.anha)'ya bir şey istemeye / dilenmeye gelince ona: \"Allah seni kabir azabından korusun!\" demişti. Aişe, Resul-i Ekrem Sallallahu Aleyhi ve Sellem'e: \"İnsanlar kabirlerinde azap görecekler mi?\" diye sordu. Bunun üzerine Nebi Sallallahu Aleyhi ve Sellem kabir azabından Allah'a sığındığını söyledi. Tekrar: 1055, 1282, 6366 [-1050-] Sonra Resul-i Ekrem Sallallahu Aleyhi ve Sellem bir sabah vakti bineğine binip yola koyulduğmda güneş tutulmuştu. Kuşluk vakti olduğunda da geri döndü. Resulullah Sallallahu Aleyhi ve Sellem döndüğünde eşlerinin odalarının bulunduğu yerden geçti ve sonra namaza durdu. Sahabîler de kalkıp O'nun Sallallahu Aleyhi ve Sellem arkasına durdular. Nebi Sallallahu Aleyhi ve Sellem uzun bir kıyam yaptı. Daha sonra rükuya gitti ve rükuda da epey uzun bir müddet kaldı. Ardından doğrulup kıyama durdu ve ilk kıyamı kadar olmasa da uzun bir süre burada da bekledi. Bu kıyamın ardından yine rüku' etti ve bu rükuda ilk rüku kadar olmasa da uzunca bir süre bekledi. Sonra rüku'dan doğruldu ve secdeye vardı. Sonra yine kıyama kalktı ve ilk kıyamı kadar olmasa da uzun bir süre bekledi. Ardından rükuya gitti ve ilk rüku kadar olmasa da uzun bir süre rükuda bekledi. Sonra kıyama kalktı ve yine ilk kıyamdaki kadar olmasa da uzun bir müddet kıyamda durdu. Ardından tekrar rükuya vardı ve ilk rüku kadar olmasa da uzun bir müd­det rükuda durdu. Daha sonra doğruldu ve secdeye gitti. Namaz bittikten sonra Allah Teala'nın söylemesini dilediği ne varsa söyledi ve ashab-ı kirama kabir azabından Allah'a sığınmalarını emretti"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 16,
+        "hadith": 10
+      },
+      "narrator": {
+        "en": "`Amra bint `Abdur-Rahman"
+      }
+    },
+    {
+      "hadithNumber": 1051,
+      "arabicNumber": 1051,
+      "book": 16,
+      "hadithInBook": 11,
+      "text": {
+        "arabic": "حَدَّثَنَا أَبُو نُعَيْمٍ، قَالَ حَدَّثَنَا شَيْبَانُ، عَنْ يَحْيَى، عَنْ أَبِي سَلَمَةَ، عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو، أَنَّهُ قَالَ لَمَّا كَسَفَتِ الشَّمْسُ عَلَى عَهْدِ رَسُولِ اللَّهِ صلى الله عليه وسلم نُودِيَ إِنَّ الصَّلاَةَ جَامِعَةٌ فَرَكَعَ النَّبِيُّ صلى الله عليه وسلم رَكْعَتَيْنِ فِي سَجْدَةٍ ثُمَّ قَامَ فَرَكَعَ رَكْعَتَيْنِ فِي سَجْدَةٍ، ثُمَّ جَلَسَ، ثُمَّ جُلِّيَ عَنِ الشَّمْسِ‏.‏ قَالَ وَقَالَتْ عَائِشَةُ ـ رضى الله عنها ـ مَا سَجَدْتُ سُجُودًا قَطُّ كَانَ أَطْوَلَ مِنْهَا‏.‏",
+        "translations": {
+          "en": "Narrated `Abdullah bin `Amr:When the sun eclipsed in the lifetime of Allah's Messenger (ﷺ) and an announcement was made that the prayer was to be held in congregation. The Prophet (ﷺ) performed two bowing in one rak`a. Then he stood up and performed two bowing in one rak`a. Then he sat down and finished the prayer; and by then the (eclipse) had cleared `Aisha said, \"I had never performed such a long prostration",
+          "ur": "ہم سے ابونعیم فضل بن دکین کوفی نے بیان کیا، انہوں نے کہا کہ ہم سے شیبان بن عبدالرحمٰن نے یحییٰ بن ابن ابی کثیر سے بیان کیا، ان سے ابوسلمہ بن عبدالرحمٰن بن عوف نے، ان سے عبداللہ بن عمرو رضی اللہ عنہما نے کہ جب نبی کریم صلی اللہ علیہ وسلم کے زمانے میں سورج کو گرہن لگا تو اعلان ہوا کہ نماز ہونے والی ہے ( اس نماز میں ) نبی کریم صلی اللہ علیہ وسلم نے ایک رکعت میں دو رکوع کئے اور پھر دوسری رکعت میں بھی دو رکوع کئے، اس کے بعد آپ صلی اللہ علیہ وسلم بیٹھے رہے ( قعدہ میں ) یہاں تک کہ سورج صاف ہو گیا۔ عبداللہ نے کہا عائشہ رضی اللہ عنہا نے فرمایا کہ میں نے اس سے زیادہ لمبا سجدہ اور کبھی نہیں کیا۔",
+          "fr": "Rapporté par `Abdullah bin `Amr : Quand le soleil s’est éclipsé du vivant du Messager d’Allah (ﷺ) et qu’une annonce a été faite pour inviter les gens à prier en groupe, le Prophète (ﷺ) a fait deux inclinaisons dans une unité de prière. Ensuite, il s’est relevé et a fait deux inclinaisons dans l’autre unité. Puis il s’est assis et a terminé la prière ; à ce moment-là, l’éclipse était terminée. `Aisha a dit : « Je n’avais jamais fait une prosternation aussi longue. »",
+          "id": "Telah menceritakan kepada kami [Abu Nu'aim] berkata, telah menceritakan kepada kami [Syaiban] dari [Yahya] dari [Abu Salamah] dari ['Abdullah bin 'Amru] bahwa dia berkata, \"Saat terjadi gerhana matahari di zaman Rasulullah shallallahu 'alaihi wasallam, maka diserukan dengan panggilan, 'Ashshalaatul jaami'ah (Marilah mendirikan shalat secara bersama-sama) '. Nabi shallallahu 'alaihi wasallam lalu rukuk dua kali dalam satu kali sujud, kemudian berdiri kembali dan rukuk dua kali dengan satu kali sujud. Kemudian beliau duduk sementara matahari telah nampak kembali.\" 'Abdullah bin 'Amru berkata, 'Aisyah? radliallahu 'anha berkata, \"Tidak pernah aku melaksanakan satu sujudpun yang lebih panjang darinya",
+          "tr": "Abdullah İbn Amr'ın şöyle dediği nakledilmiştir: \"Resulullah Sallallahu Aleyhi ve Sellem zamanında güneş tutulduğu zaman \"Esselatu'l-camiah = Namaz toplayıcıdır\" diye ilan edilmişti. Resul-i Ekrem Sallallahu Aleyhi ve Sellem bu namazın bir rekatında iki defa rüku yaptı. Sonra kalktı ve bir rekat daha namaz kılıp aynı şekilde iki kez rükuya gitti. Sonra oturdu ve bu sırada güneş açıldı.\" Hadisin ravilerinden Ebu Seleme şöyle demiştir: \"Aişe (r.anha), ben bu secdeden daha uzun bir secde kesinlikle yapmadım, dedi"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 16,
+        "hadith": 11
+      },
+      "narrator": {
+        "en": "`Abdullah bin `Amr"
+      }
+    },
+    {
+      "hadithNumber": 1052,
+      "arabicNumber": 1052,
+      "book": 16,
+      "hadithInBook": 12,
+      "text": {
+        "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، عَنْ مَالِكٍ، عَنْ زَيْدِ بْنِ أَسْلَمَ، عَنْ عَطَاءِ بْنِ يَسَارٍ، عَنْ عَبْدِ اللَّهِ بْنِ عَبَّاسٍ، قَالَ انْخَسَفَتِ الشَّمْسُ عَلَى عَهْدِ رَسُولِ اللَّهِ صلى الله عليه وسلم، فَصَلَّى رَسُولُ اللَّهِ صلى الله عليه وسلم، فَقَامَ قِيَامًا طَوِيلاً نَحْوًا مِنْ قِرَاءَةِ سُورَةِ الْبَقَرَةِ، ثُمَّ رَكَعَ رُكُوعًا طَوِيلاً، ثُمَّ رَفَعَ فَقَامَ قِيَامًا طَوِيلاً، وَهْوَ دُونَ الْقِيَامِ الأَوَّلِ، ثُمَّ رَكَعَ رُكُوعًا طَوِيلاً، وَهْوَ دُونَ الرُّكُوعِ الأَوَّلِ، ثُمَّ سَجَدَ، ثُمَّ قَامَ قِيَامًا طَوِيلاً وَهْوَ دُونَ الْقِيَامِ الأَوَّلِ، ثُمَّ رَكَعَ رُكُوعًا طَوِيلاً، وَهْوَ دُونَ الرُّكُوعِ الأَوَّلِ، ثُمَّ رَفَعَ فَقَامَ قِيَامًا طَوِيلاً، وَهْوَ دُونَ الْقِيَامِ الأَوَّلِ، ثُمَّ رَكَعَ رُكُوعًا طَوِيلاً، وَهْوَ دُونَ الرُّكُوعِ الأَوَّلِ، ثُمَّ سَجَدَ، ثُمَّ انْصَرَفَ وَقَدْ تَجَلَّتِ الشَّمْسُ، فَقَالَ صلى الله عليه وسلم ‏\"‏ إِنَّ الشَّمْسَ وَالْقَمَرَ آيَتَانِ مِنْ آيَاتِ اللَّهِ، لاَ يَخْسِفَانِ لِمَوْتِ أَحَدٍ وَلاَ لِحَيَاتِهِ، فَإِذَا رَأَيْتُمْ ذَلِكَ فَاذْكُرُوا اللَّهَ ‏\"‏‏.‏ قَالُوا يَا رَسُولَ اللَّهِ، رَأَيْنَاكَ تَنَاوَلْتَ شَيْئًا فِي مَقَامِكَ، ثُمَّ رَأَيْنَاكَ كَعْكَعْتَ‏.‏ قَالَ صلى الله عليه وسلم ‏\"‏ إِنِّي رَأَيْتُ الْجَنَّةَ، فَتَنَاوَلْتُ عُنْقُودًا، وَلَوْ أَصَبْتُهُ لأَكَلْتُمْ مِنْهُ مَا بَقِيَتِ الدُّنْيَا، وَأُرِيتُ النَّارَ، فَلَمْ أَرَ مَنْظَرًا كَالْيَوْمِ قَطُّ أَفْظَعَ، وَرَأَيْتُ أَكْثَرَ أَهْلِهَا النِّسَاءَ ‏\"‏‏.‏ قَالُوا بِمَ يَا رَسُولَ اللَّهِ قَالَ ‏\"‏ بِكُفْرِهِنَّ ‏\"‏‏.‏ قِيلَ يَكْفُرْنَ بِاللَّهِ قَالَ ‏\"‏ يَكْفُرْنَ الْعَشِيرَ، وَيَكْفُرْنَ الإِحْسَانَ، لَوْ أَحْسَنْتَ إِلَى إِحْدَاهُنَّ الدَّهْرَ كُلَّهُ، ثُمَّ رَأَتْ مِنْكَ شَيْئًا قَالَتْ مَا رَأَيْتُ مِنْكَ خَيْرًا قَطُّ ‏\"‏‏.‏",
+        "translations": {
+          "en": "Narrated `Abdullah bin `Abbas:The sun eclipsed in the lifetime of the Prophet (ﷺ) . Allah's Messenger (ﷺ) offered the eclipse prayer and stood for a long period equal to the period in which one could recite Surat-al-Baqara. Then he bowed for a long time and then stood up for a long period which was shorter than that of the first standing, then bowed again for a long time but for a shorter period than the first; then he prostrated twice and then stood up for a long period which was shorter than that of the first standing; then he bowed for a long time which was shorter than the previous one, and then he raised his head and stood up for a long period which was shorter than the first standing, then he bowed for a long time which was shorter than the first bowing, and then prostrated (twice) and finished the prayer. By then, the sun (eclipse) had cleared. The Prophet (ﷺ) then said, \"The sun and the moon are two of the signs of Allah. They eclipse neither because of the death of somebody nor because of his life (i.e. birth). So when you see them, remember Allah.\" The people said, \"O Allah's Messenger (ﷺ)! We saw you taking something from your place and then we saw you retreating.\" The Prophet (ﷺ) replied, \"I saw Paradise and stretched my hands towards a bunch (of its fruits) and had I taken it, you would have eaten from it as long as the world remains. I also saw the Hell-fire and I had never seen such a horrible sight. I saw that most of the inhabitants were women.\" The people asked, \"O Allah's Messenger (ﷺ)! Why is it so?\" The Prophet (ﷺ) replied, \"Because of their ungratefulness.\" It was asked whether they are ungrateful to Allah. The Prophet said, \"They are ungrateful to their companions of life (husbands) and ungrateful to good deeds. If you are benevolent to one of them throughout the life and if she sees anything (undesirable) in you, she will say, 'I have never had any good from you",
+          "ur": "ہم سے عبداللہ بن مسلمہ قعنبی نے بیان کیا، ان سے امام مالک نے بیان کیا، ان سے زید بن اسلم نے بیان کیا، ان سے عطاء بن یسار نے بیان کیا، ان سے عبداللہ بن عباس رضی اللہ عنہما نے کہ نبی کریم صلی اللہ علیہ وسلم کے زمانے میں سورج کو گرہن لگا تو آپ صلی اللہ علیہ وسلم نے نماز پڑھی تھی آپ صلی اللہ علیہ وسلم نے اتنا لمبا قیام کیا کہ اتنی دیر میں سورۃ البقرہ پڑھی جا سکتی تھی۔ پھر آپ صلی اللہ علیہ وسلم نے رکوع لمبا کیا اور اس کے بعد کھڑے ہوئے تو اب کی مرتبہ بھی قیام بہت لمبا تھا لیکن پہلے سے کچھ کم پھر ایک دوسرا لمبا رکوع کیا جو پہلے رکوع سے کچھ کم تھا پھر آپ صلی اللہ علیہ وسلم سجدہ میں گئے، سجدہ سے اٹھ کر پھر لمبا قیام کیا لیکن پہلے قیام کے مقابلے میں کم لمبا تھا پھر ایک لمبا رکوع کیا۔ یہ رکوع بھی پہلے رکوع کے مقابلہ میں کم تھا رکوع سے سر اٹھا نے کے بعد پھر آپ صلی اللہ علیہ وسلم بہت دیر تک کھڑے رہے اور یہ قیام بھی پہلے سے مختصر تھا۔ پھر ( چوتھا ) رکوع کیا یہ بھی بہت لمبا تھا لیکن پہلے سے کچھ کم۔ پھر آپ صلی اللہ علیہ وسلم نے سجدہ کیا اور نماز سے فارغ ہوئے تو سورج صاف ہو چکا تھا۔ اس کے بعد آپ صلی اللہ علیہ وسلم نے خطبہ میں فرمایا کہ سورج اور چاند دونوں اللہ تعالیٰ کی نشانیاں ہیں اور کسی کی موت و زندگی کی وجہ سے ان میں گرہن نہیں لگتا اس لیے جب تم کو معلوم ہو کہ گرہن لگ گیا ہے تو اللہ تعالیٰ کا ذکر کرو۔ صحابہ رضی اللہ عنہم نے عرض کیا یا رسول اللہ! ہم نے دیکھا کہ ( نماز میں ) اپنی جگہ سے آپ کچھ آگے بڑھے اور پھر اس کے بعد پیچھے ہٹ گئے۔ آپ صلی اللہ علیہ وسلم نے فرمایا کہ میں نے جنت دیکھی اور اس کا یک خوشہ توڑنا چاہا تھا اگر میں اسے توڑ سکتا تو تم اسے رہتی دنیا تک کھاتے اور مجھے جہنم بھی دکھائی گئی میں نے اس سے زیادہ بھیانک اور خوفناک منظر کبھی نہیں دیکھا۔ میں نے دیکھا اس میں عورتیں زیادہ ہیں۔ کسی نے پوچھا یا رسول اللہ! اس کی کیا وجہ ہے؟ آپ صلی اللہ علیہ وسلم نے فرمایا کہ اپنے کفر ( انکار ) کی وجہ سے، پوچھا گیا۔ کیا اللہ تعالیٰ کا کفر ( انکار ) کرتی ہیں؟ آپ صلی اللہ علیہ وسلم نے فرمایا کہ شوہر کا اور احسان کا کفر کرتی ہیں۔ زندگی بھر تم کسی عورت کے ساتھ حسن سلوک کرو لیکن کبھی اگر کوئی خلاف مزاج بات آ گئی تو فوراً یہی کہے گی کہ میں نے تم سے کبھی بھلائی نہیں دیکھی۔",
+          "fr": "Rapporté par `Abdullah bin `Abbas : Le soleil s’est éclipsé du vivant du Prophète (ﷺ). Le Messager d’Allah (ﷺ) a accompli la prière de l’éclipse et est resté debout aussi longtemps qu’il faut pour réciter la sourate Al-Baqara. Ensuite, il a fait une longue inclinaison, puis s’est relevé pour une longue station, mais plus courte que la première, puis a de nouveau fait une longue inclinaison, plus courte que la première, puis s’est prosterné deux fois. Ensuite, il s’est relevé pour une longue station, plus courte que la première, puis a fait une longue inclinaison, plus courte que la précédente, puis s’est relevé pour une longue station, plus courte que la première, puis a fait une longue inclinaison, plus courte que la première, puis s’est prosterné deux fois et a terminé la prière. À ce moment-là, l’éclipse était terminée. Le Prophète (ﷺ) a ensuite dit : « Le soleil et la lune sont deux signes d’Allah. Ils ne s’éclipsent ni à cause de la mort de quelqu’un ni à cause de sa naissance. Donc, quand vous les voyez, rappelez-vous d’Allah. » Les gens ont dit : « Ô Messager d’Allah (ﷺ) ! Nous t’avons vu prendre quelque chose à ta place puis reculer. » Le Prophète (ﷺ) a répondu : « J’ai vu le Paradis et j’ai tendu la main vers une grappe de ses fruits ; si je l’avais prise, vous en auriez mangé tant que le monde existerait. J’ai aussi vu l’Enfer, et je n’ai jamais vu une vision aussi terrible. J’ai vu que la plupart de ses habitants étaient des femmes. » Les gens ont demandé : « Ô Messager d’Allah (ﷺ) ! Pourquoi cela ? » Le Prophète (ﷺ) a répondu : « À cause de leur ingratitude. » On a demandé s’il s’agissait d’ingratitude envers Allah. Le Prophète a dit : « Elles sont ingrates envers leurs compagnons de vie (leurs maris) et ingrates envers les bonnes actions. Si tu fais du bien à l’une d’elles toute ta vie et qu’elle voit quelque chose (qui ne lui plaît pas) chez toi, elle dira : ‘Je n’ai jamais eu de bien de ta part.’ »",
+          "id": "Telah menceritakan kepada kami ['Abdullah bin Maslamah] dari [Malik] dari [Zaid bin Aslam] dari ['Atha bin Yasar] dari ['Abdullah bin 'Abbas] ia berkata, \"Telah terjadi gerhana matahari pada zaman Rasulullah shallallahu 'alaihi wasallam. Rasulullah shallallahu 'alaihi wasallam kemudian melaksanakan shalat, beliau berdiri dengan sangat panjang (lama) sekadar bacaan surah Al Baqarah. Lalu beliau rukuk dengan rukuk yang panjang, lalu mengangkat (kepala) berdiri dengan panjang namun tidak sepanjang yang pertama. Kemudian rukuk kembali dengan panjang namun tidak sepanjang rukuk yang pertama. Kemudian sujud. Kemudian beliau kembali berdiri dengan panjang namun tidak sepanjang yang pertama, lalu rukuk dengan rukuk yang panjang namun tidak sepanjang rukuk yang pertama, lalu mengangkat (kepala) berdiri dengan panjang namun tidak sepanjang yang pertama. Kemudian beliau rukuk kembali dengan panjang namun tidak sepanjang rukuk yang pertama. Kemudian sujud. Kemudian beliau berlalu pergi sementara matahari sudah nampak kembali. Beliau kemudian bersabda: \"Sesungguhnya matahari dan bulan adalah dua tanda dari tanda-tanda kebesaran Allah, dan keduanya tidak akan mengalami gerhana disebabkan karena mati atau hidupnya seseorang. Jika kalian melihatnya maka banyaklah mengingat Allah.\" Para sahabat bertanya, \"Wahai Rasulullah, kami melihat tuan merasakan sesuatu pada posisi tuan dan kami melihat seakan tuan menahan perasaan takut?\" Beliau menjawab: \"Sungguh aku melihat surga, dan didalamnya aku memperoleh setandan anggur. Seandainya aku mengambilnya tentu kalian akan memakannya sehingga urusan dunia akan terabaikan. Kemudian aku melihat neraka, dan aku belum pernah melihat suatu pemandangan yang lebih mengerikan dibanding hari ini, dan aku melihat kebanyakan penghuninya adalah kaum wanita.\" Para sahabat bertanya lagi, \"Mengapa begitu wahai Rasulullah?\" Beliau menjawab: \"Karena mereka sering kufur (mengingkari).\" Ditanyakan kepada beliau, \"Apakah mereka mengingkari Allah?\" Beliau menjawab: \"Mereka mengingkari pemberian suami, mengingkari kebaikan. Seandainya kamu berbuat baik terhadap salah seorang dari mereka sepanjang masa, lalu dia melihat satu saja kejelekan darimu maka dia akan berkata, 'Aku belum pernah melihat kebaikan darimu sedikitpun",
+          "tr": "Abdullah İbn Abbas (r.a.)'ın şöyle dediği nakledilmiştir: \"Resulullah Sallallahu Aleyhi ve Sellem zamanında güneş tutulmuştu. Bunun üzerine Nebi Sallallahu aleyhi ve sellem namaza başladı ve kıyamda Bakara suresi okunacak kadar uzun bir süre bekledi. Sonra rükuya gidip uzun bir müddet rü-kuda bekledi. Ardından doğruldu ve ilk kıyam kadar olmasa da uzun bir süre kıyamda bekledi. Sonra yeniden rükuya gitti ve ilk rüku kadar olmasa da uzun bir süre rükuda durdu. Sonra secde edip kalktı. Bu kıyamda da ilk kıyamdaki kadar olmasa da uzun bir müddet bekledi. Ardından rükuya gitti ve İlk rüku kadar olmasa da uzun bir süre rükuda bekledi. Sonra kalktı ve ilk kıyam kadar olmasa da uzun bir süre kıyamda durdu. Ardından rükuya vardı ve ilk rüku kadar olmasa da uzun bir müddet rükuda bekleyip secdeye gitti. Namazı bitirdiğinde güneş de açılmıştı. Namaz bitince Nebi Sallallahu Aleyhi ve Sellem şöyle buyurdu: Ay ve güneş Allah'ın birer ayetidir. Bunlar ne bir kimsenin ölümü ne de hayatı yüzünden tutulurlar. Eğer ay ve güneşin tutulduğunu görürseniz Allah'ı zikredin!\" Ashab-ı kiram, Nebi Sallallahu Aleyhi ve Sellem'e: \"Ey Allah'ın Resulü, namazda durduğunuz yerde sanki bir şeyi alır gibi uzandığınızı gördük. Fakat sonra geri çekildiniz\" diye sorunca Resulullah Sallallahu Aleyhi ve Sellem şöyle cevap verdi: \"Ben cenneti gördüm ve bir üzüm salkımı almaya uzandım. Eğer onu alsaydım dünya durduğu müddetçe onu yiyecektiniz. Sonra cehennemi de gördüm. Ben bu günde gördüğüm manzara kadar korkunç bir tablo daha önce hiç görmemiştim. Ben cehennemliklerin çoğunun kadın olduğunu gördüm.\" Sahabîler bunun sebebini sorunca Resulullah Sallallahu Aleyhi ve Sellem: \"İnkarları (küfr) sebebiyle\" buyurdu. Ashab: \"Onlar Allah'ı mı inkar (küfr) ediyorlar?\" diye tekrar sorunca Resul-i Ekrem Sallallahu Aleyhi ve Sellem: \"Kocalarına karşı nankörlük ediyorlar, yapılan iyiliği inkar ediyorlar. Sen onlardan birisine dünyaları bağışlasan fakat daha sonra bu kadın senin bir açığını görse hemen şöyle der; Ben senden şimdiye kadar ne hayır gördüm ki!\" diye cevap verdi"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 16,
+        "hadith": 12
+      },
+      "narrator": {
+        "en": "`Abdullah bin `Abbas"
+      }
+    },
+    {
+      "hadithNumber": 1053,
+      "arabicNumber": 1053,
+      "book": 16,
+      "hadithInBook": 13,
+      "text": {
+        "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، قَالَ أَخْبَرَنَا مَالِكٌ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنِ امْرَأَتِهِ، فَاطِمَةَ بِنْتِ الْمُنْذِرِ عَنْ أَسْمَاءَ بِنْتِ أَبِي بَكْرٍ ـ رضى الله عنهما ـ أَنَّهَا قَالَتْ أَتَيْتُ عَائِشَةَ ـ رضى الله عنها ـ زَوْجَ النَّبِيِّ صلى الله عليه وسلم حِينَ خَسَفَتِ الشَّمْسُ، فَإِذَا النَّاسُ قِيَامٌ يُصَلُّونَ، وَإِذَا هِيَ قَائِمَةٌ تُصَلِّي فَقُلْتُ مَا لِلنَّاسِ فَأَشَارَتْ بِيَدِهَا إِلَى السَّمَاءِ، وَقَالَتْ سُبْحَانَ اللَّهِ‏.‏ فَقُلْتُ آيَةٌ فَأَشَارَتْ أَىْ نَعَمْ‏.‏ قَالَتْ فَقُمْتُ حَتَّى تَجَلاَّنِي الْغَشْىُ، فَجَعَلْتُ أَصُبُّ فَوْقَ رَأْسِي الْمَاءَ، فَلَمَّا انْصَرَفَ رَسُولُ اللَّهِ صلى الله عليه وسلم حَمِدَ اللَّهَ وَأَثْنَى عَلَيْهِ ثُمَّ قَالَ ‏ \"‏ مَا مِنْ شَىْءٍ كُنْتُ لَمْ أَرَهُ إِلاَّ قَدْ رَأَيْتُهُ فِي مَقَامِي هَذَا حَتَّى الْجَنَّةَ وَالنَّارَ، وَلَقَدْ أُوحِيَ إِلَىَّ أَنَّكُمْ تُفْتَنُونَ فِي الْقُبُورِ مِثْلَ ـ أَوْ قَرِيبًا مِنْ ـ فِتْنَةِ الدَّجَّالِ ـ لاَ أَدْرِي أَيَّتَهُمَا قَالَتْ أَسْمَاءُ ـ يُؤْتَى أَحَدُكُمْ فَيُقَالُ لَهُ مَا عِلْمُكَ بِهَذَا الرَّجُلِ فَأَمَّا الْمُؤْمِنُ ـ أَوِ الْمُوقِنُ لاَ أَدْرِي أَىَّ ذَلِكَ قَالَتْ أَسْمَاءُ ـ فَيَقُولُ مُحَمَّدٌ رَسُولُ اللَّهِ صلى الله عليه وسلم جَاءَنَا بِالْبَيِّنَاتِ وَالْهُدَى، فَأَجَبْنَا وَآمَنَّا وَاتَّبَعْنَا‏.‏ فَيُقَالُ لَهُ نَمْ صَالِحًا، فَقَدْ عَلِمْنَا إِنْ كُنْتَ لَمُوقِنًا‏.‏ وَأَمَّا الْمُنَافِقُ ـ أَوِ الْمُرْتَابُ لاَ أَدْرِي أَيَّتَهُمَا قَالَتْ أَسْمَاءُ ـ فَيَقُولُ لاَ أَدْرِي، سَمِعْتُ النَّاسَ يَقُولُونَ شَيْئًا فَقُلْتُهُ ‏\"‏‏.‏",
+        "translations": {
+          "en": "Narrated Fatima bint Al-Mundhir:Asma' bint Abu Bakr said, \"I came to `Aisha the wife of the Prophet (ﷺ) during the solar eclipse. The people were standing and offering the prayer and she was also praying too. I asked her, 'What has happened to the people?' She pointed out with her hand towards the sky and said, 'Subhan-Allah'. I said, 'Is there a sign?' She pointed out in the affirmative.\" Asma' further said, \"I too then stood up for the prayer till I fainted and then poured water on my head. When Allah's Messenger (ﷺ) had finished his prayer, he thanked and praised Allah and said, 'I have seen at this place of mine what I have never seen even Paradise and Hell. No doubt, it has been inspired to me that you will be put to trial in the graves like or nearly like the trial of (Masih) Ad-Dajjal. (I do not know which one of the two Asma' said.) (The angels) will come to everyone of you and will ask what do you know about this man (i.e. Muhammad). The believer or a firm believer (I do not know which word Asma' said) will reply, 'He is Muhammad, Allah's Messenger (ﷺ) who came to us with clear evidences and guidance, so we accepted his teachings, believed and followed him.' The angels will then say to him, 'Sleep peacefully as we knew surely that you were a firm believer.' The hypocrite or doubtful person (I do not know which word Asma' said) will say, 'I do not know. I heard the people saying something so I said it (the same)",
+          "ur": "ہم سے عبداللہ بن یوسف تنیسی نے بیان کیا، انہوں نے کہا کہ ہمیں امام مالک رحمہ اللہ نے خبر دی، انہیں ہشام بن عروہ نے، انہیں ان کی بیوی فاطمہ بنت منذر نے، انہیں اسماء بنت ابی بکر رضی اللہ عنہما نے، انہوں نے کہا کہ جب سورج کو گرہن لگا تو میں نبی کریم صلی اللہ علیہ وسلم کی بیوی عائشہ صدیقہ رضی اللہ عنہا کے گھر آئی۔ اچانک لوگ کھڑے ہوئے نماز پڑھ رہے تھے اور عائشہ رضی اللہ عنہا بھی نماز میں شریک تھی میں نے پوچھا کہ لوگوں کو بات کیا پیش آئی؟ اس پر آپ نے آسمان کی طرف اشارہ کر کے سبحان اللہ کہا۔ پھر میں نے پوچھا کیا کوئی نشانی ہے؟ اس کا آپ نے اشارہ سے ہاں میں جواب دیا۔ انہوں نے بیان کیا کہ پھر میں بھی کھڑی ہو گئی۔ لیکن مجھے چکر آ گیا اس لیے میں اپنے سر پر پانی ڈالنے لگی۔ جب رسول اللہ صلی اللہ علیہ وسلم نماز سے فارغ ہوئے تو اللہ تعالیٰ کی حمد و ثنا کے بعد فرمایا کہ وہ چیزیں جو کہ میں نے پہلے نہیں دیکھی تھیں اب انہیں میں نے اپنی اسی جگہ سے دیکھ لیا۔ جنت اور دوزخ تک میں نے دیکھی اور مجھے وحی کے ذریعہ بتایا گیا ہے کہ تم قبر میں دجال کے فتنہ کی طرح یا ( یہ کہا کہ ) دجال کے فتنہ کے قریب ایک فتنہ میں مبتلا ہو گے۔ مجھے یاد نہیں کہ اسماء رضی اللہ عنہا نے کیا کہا تھا آپ نے فرمایا کہ تمہیں لایا جائے گا اور پوچھا جائے گا کہ اس شخص ( مجھ صلی اللہ علیہ وسلم ) کے بارے میں تم کیا جانتے ہو۔ مومن یا یہ کہا کہ یقین کرنے والا ( مجھے یاد نہیں کہ ان دو باتوں میں سے اسماء رضی اللہ عنہا نے کون سی بات کہی تھی ) تو کہے گا یہ محمد صلی اللہ علیہ وسلم ہیں آپ صلی اللہ علیہ وسلم نے ہمارے سامنے صحیح راستہ اور اس کے دلائل پیش کئے اور ہم آپ صلی اللہ علیہ وسلم پر ایمان لائے تھے اور آپ صلی اللہ علیہ وسلم کی بات قبول کی اور آپ صلی اللہ علیہ وسلم کا اتباع کیا تھا۔ اس پر اس سے کہا جائے گا کہ تو مرد صالح ہے پس آرام سے سو جاؤ ہمیں تو پہلے ہی معلوم تھا کہ تو ایمان و یقین والا ہے۔ منافق یا شک کرنے والا ( مجھے معلوم نہیں کہ اسماء رضی اللہ عنہا نے کیا کہا تھا ) وہ یہ کہے گا کہ مجھے کچھ معلوم نہیں میں نے لوگوں سے ایک بات سنی تھی وہی میں نے بھی کہی ( آگے مجھ کو کچھ حقیقت معلوم نہیں ) ۔",
+          "fr": "Rapporté par Fatima bint Al-Mundhir : Asma’ bint Al Bakr a dit : « Je suis allée chez `Aisha, l’épouse du Prophète (ﷺ), pendant l’éclipse du soleil. Les gens étaient debout en train de prier et elle priait aussi. Je lui ai demandé : ‘Que se passe-t-il avec les gens ?’ Elle a montré le ciel de la main et a dit : ‘Subhan-Allah’. J’ai demandé : ‘Y a-t-il un signe ?’ Elle a fait un signe affirmatif. » Asma’ a ajouté : « Je me suis alors levée pour prier jusqu’à m’évanouir, puis j’ai versé de l’eau sur ma tête. Quand le Messager d’Allah (ﷺ) a terminé sa prière, il a remercié et loué Allah, puis a dit : ‘J’ai vu à cet endroit ce que je n’avais jamais vu, même le Paradis et l’Enfer. Il ne fait aucun doute qu’il m’a été révélé que vous serez mis à l’épreuve dans vos tombes, comme ou presque comme l’épreuve du (Messie) Ad-Dajjal. (Je ne sais plus lequel des deux mots Asma’ a utilisé.) (Les anges) viendront à chacun de vous et demanderont : que savez-vous de cet homme (c’est-à-dire Muhammad) ? Le croyant ou le vrai croyant (je ne sais plus lequel Asma’ a dit) répondra : ‘C’est Muhammad, le Messager d’Allah (ﷺ), venu à nous avec des preuves claires et la bonne direction, alors nous avons accepté son enseignement, cru en lui et l’avons suivi.’ Les anges lui diront alors : ‘Dors en paix, car nous savions bien que tu étais un vrai croyant.’ L’hypocrite ou la personne dans le doute (je ne sais plus lequel Asma’ a dit) dira : ‘Je ne sais pas. J’ai entendu les gens dire quelque chose alors je l’ai répété.’ »",
+          "id": "Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan kepada kami [Malik] dari [Hisyam bin 'Urwah] dari isterinya [Fatimah binti Al Mundzir] dari [Asma' binti Abu Bakar] radliallahu 'anhuma, bahwasanya dia berkata, \"Aku pernah datang menemui 'Aisyah? radliallahu 'anha, isteri Nabi shallallahu 'alaihi wasallam, ketika terjadi gerhana matahari. Ternyata orang-orang sedang melaksanakan shalat dan saat itu ia juga ikut melaksanakannya. Setelah itu aku bertanya kepadanya, \"Apa yang dilakukan orang-orang?\" Aisyah memberi isyarat dengan tangannya ke langit seraya berkata, \"Maha suci Allah!\" Aku bertanya, \"Satu tanda saja?\" Lalu dia memberi isyarat tanda mengiyakan. Maka akupun ikut shalat sementara timbul perkara yang membingungkanku, hingga aku siram kepalaku dengan air. Selesai shalat Rasulullah shallallahu 'alaihi wasallam memuji Allah dan mensucikan-Nya, lalu bersabda: \"Tidak ada sesuatu yang belum diperlihatkan kepadaku, kecuali aku sudah melihatnya dari tempatku ini, hingga surga dan neraka. Kemudian diwahyukan kepadaku, bahwa Kalian akan terkena fitnah dalam kubur kalian seperti, atau seupa dengan fitnah Dajjal -Aku sendiri tidak tahu mana dari keduanya yang dikatakan oleh Asma'-. Salah seorang dari kalian akan dihadapkan lalu ditanya, 'Apa yang kamu ketahui tentang laki-laki ini? ' Orang beriman atau orang yang yakin -Aku tidak tahu mana dari keduanya yang dikatakan ileh Asma'- akan menjawab, 'Dia adalah Muhammad Rasulullah shallallahu 'alaihi wasallam, dia datang kepada kami membawa penjelasan dan petunjuk. Maka kami sambut, kami beriman kepadanya dan kami ikuti (ajarannya).' Maka kepada orang itu dikatakan, 'Tidurlah kamu dengan baik, sungguh kami telah mengetahui bahwa kamu adalah orang yang yaqin.' Adapun orang Munafik atau orang yang ragu - aku tidak tahu mana dari keduanya yang dikatakan oleh Asma'- akan menjawab, 'Aku tidak tahu siapa dia, aku mendengar orang-orang mengatakan sesuatu, maka aku pun ikut mengatakannya",
+          "tr": "Esma binti Ebu Bekir (r.anha) şöyle demiştir: \"Güneş'in tutulduğu gün ResuIullah Sallallahu Aleyhi ve Sellem'in zevcesi Aişe'nin yanına gitmiştim. O sırada ashab-ı kiram namaz kılıyordu. Aişe'nin de onlarla birlikte namaz kıldığını görünce şaşırmıştım. Ben, cemaatin niçin bu vakitte namaz kıldığını Aişe'ye sorunca eliyle göğe işaret etti ve sübhanallah (Allah'ı her türlü noksan sıfatlardan tenzih ederim) dedi. Ben, olağanüstü bir olay mı var, diye tekrar sorunca evet anla­mında başını salladı. Ben de kalkıp namaza durdum. (Resulullah (Sallallahu aleyhi ve Sellem) o kadar uzun bir süre bekledi ki) neredeyse bayılacaktım. Yanıbaşımda bir kırba doiusu su vardı. Kırbayı açıp serinlemek maksadıyla başıma biraz su döktüm. Resul-i Ekrem (Sallallahu aleyhi ve Sellem) namazı bitirdiğinde cemaate dönüp Allah Teala'ya hamd ve senada bulunduktan sonra şöyle buyurdu: \"Daha önce bana hiç gösterilmeyen ne varsa hepsini işte şu bulunduğum yerde gördüm. Hatta cennet ve cehennemi bile... Bana, sizlerin kabirlerde Mesih-Deccal'in fitnesi gibi - veya bu fitneye yakın bir imtihanla karşılaşacağınız vahyedildi. Siz kabirdeyken yanınıza gelecekler ve beni kasdederek: \"Şu zat hakkında bildiğiniz şeyler nelerdir?\" diye soracaklar. Mu'minler - hadisin ravilerinden Hişam bunu yakin (kesin inanç) sahipleri mukin ifadesiyle de nakletmiştir- hemen: \"O, Muhammed'dir, Allah'ın Resulüdür. O bize apaçık delilleri (beyyinat) ve hidayeti getirdi. Biz ona karşı çıkmadan icabet ettik ve kendisine iman edip tabi olduk\" diyecekler. Bunun üzerine onlara: \"Haydi, yaptıklarınızın karşılığını hakkıyla almak üzere huzur icinde uyuyun bakalım! Biz sizin ona iman ettiğinizi zaten biliyorduk \" denecek, buna karşılık münafıklar -hadisin ravilerinden Hişam bunu şüphe eden imseler ifadesiyle de nakletmiştir- kendilerine yöneltilen bu soruya şöyle cevap vereceklerdir: \"Ne bilelim biz! Bir takım insanlar bir şeyler söylüyorlardı ve biz de aynısını söyledik işte"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 16,
+        "hadith": 13
+      },
+      "narrator": {
+        "en": "Fatima bint Al-Mundhir"
+      }
+    },
+    {
+      "hadithNumber": 1054,
+      "arabicNumber": 1054,
+      "book": 16,
+      "hadithInBook": 14,
+      "text": {
+        "arabic": "حَدَّثَنَا رَبِيعُ بْنُ يَحْيَى، قَالَ حَدَّثَنَا زَائِدَةُ، عَنْ هِشَامٍ، عَنْ فَاطِمَةَ، عَنْ أَسْمَاءَ، قَالَتْ لَقَدْ أَمَرَ النَّبِيُّ صلى الله عليه وسلم بِالْعَتَاقَةِ فِي كُسُوفِ الشَّمْسِ‏.‏",
+        "translations": {
+          "en": "Narrated Asma:No doubt the Prophet (ﷺ) ordered people to manumit slaves during the solar eclipse",
+          "ur": "ہم سے ربیع بن یحییٰ نے بیان کیا، کہا کہ ہم سے زائدہ نے ہشام سے بیان کیا، ان سے فاطمہ نے، ان سے اسماء رضی اللہ عنہا نے کہ رسول اللہ صلی اللہ علیہ وسلم نے سورج گرہن میں غلام آزاد کرنے کا حکم فرمایا۔",
+          "fr": "Rapporté par Asma : Il ne fait aucun doute que le Prophète (ﷺ) a ordonné aux gens d’affranchir des esclaves pendant l’éclipse du soleil",
+          "id": "Telah menceritakan kepada kami [Rabi' bin Yahya] berkata, telah menceritakan kepada kami [Za'idah] dari [Hisyam] dari [Fatimah] dari [Asma'] berkata, \"Nabi shallallahu 'alaihi wasallam telah memerintahkan untuk membebaskan budak ketika terjadi gerhana matahari",
+          "tr": "Esma (binti Ebu Bekir (r.a.)'nın şöyle dediği nakledilmiştir: \"Resulullah Sallallahu Aleyhi ve Sellem, güneş tutulduğu zaman köle azat edilmesini emretti.\" باب: صلاة الكسوف في المسجد. 12. Güneş Tutulması Namazının Mescitte Kılınması"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 16,
+        "hadith": 14
+      },
+      "narrator": {
+        "en": "Asma"
+      }
+    },
+    {
+      "hadithNumber": 1056,
+      "arabicNumber": 1056,
+      "book": 16,
+      "hadithInBook": 15,
+      "text": {
+        "arabic": "حَدَّثَنَا إِسْمَاعِيلُ، قَالَ حَدَّثَنِي مَالِكٌ، عَنْ يَحْيَى بْنِ سَعِيدٍ، عَنْ عَمْرَةَ بِنْتِ عَبْدِ الرَّحْمَنِ، عَنْ عَائِشَةَ ـ رضى الله عنها أَنَّ يَهُودِيَّةً، جَاءَتْ تَسْأَلُهَا فَقَالَتْ أَعَاذَكِ اللَّهُ مِنْ عَذَابِ الْقَبْرِ‏.‏ فَسَأَلَتْ عَائِشَةُ رَسُولَ اللَّهِ صلى الله عليه وسلم أَيُعَذَّبُ النَّاسُ فِي قُبُورِهِمْ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم عَائِذًا بِاللَّهِ مِنْ ذَلِكَ‏.‏ ثُمَّ رَكِبَ رَسُولُ اللَّهِ صلى الله عليه وسلم ذَاتَ غَدَاةٍ مَرْكَبًا، فَكَسَفَتِ الشَّمْسُ فَرَجَعَ ضُحًى، فَمَرَّ رَسُولُ اللَّهِ صلى الله عليه وسلم بَيْنَ ظَهْرَانَىِ الْحُجَرِ، ثُمَّ قَامَ فَصَلَّى، وَقَامَ النَّاسُ وَرَاءَهُ، فَقَامَ قِيَامًا طَوِيلاً، ثُمَّ رَكَعَ رُكُوعًا طَوِيلاً، ثُمَّ رَفَعَ فَقَامَ قِيَامًا طَوِيلاً، وَهْوَ دُونَ الْقِيَامِ الأَوَّلِ، ثُمَّ رَكَعَ رُكُوعًا طَوِيلاً، وَهْوَ دُونَ الرُّكُوعِ الأَوَّلِ، ثُمَّ رَفَعَ فَسَجَدَ سُجُودًا طَوِيلاً ثُمَّ قَامَ فَقَامَ قِيَامًا طَوِيلاً، وَهْوَ دُونَ الْقِيَامِ الأَوَّلِ، ثُمَّ رَكَعَ رُكُوعًا طَوِيلاً، وَهْوَ دُونَ الرُّكُوعِ الأَوَّلِ، ثُمَّ قَامَ قِيَامًا طَوِيلاً، وَهْوَ دُونَ الْقِيَامِ الأَوَّلِ، ثُمَّ رَكَعَ رُكُوعًا طَوِيلاً، وَهْوَ دُونَ الرُّكُوعِ الأَوَّلِ، ثُمَّ سَجَدَ وَهْوَ دُونَ السُّجُودِ الأَوَّلِ، ثُمَّ انْصَرَفَ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم مَا شَاءَ اللَّهُ أَنْ يَقُولَ، ثُمَّ أَمَرَهُمْ أَنْ يَتَعَوَّذُوا مِنْ عَذَابِ الْقَبْرِ",
+        "translations": {
+          "en": "Narrated `Amra bint `Abdur-Rahman:A Jewess came to `Aisha to ask her about something and then she said, \"May Allah give you refuge from the punishment of the grave.\" So `Aisha asked Allah's Messenger (ﷺ), \"Would the people be punished in their graves?\" Allah's Messenger (ﷺ) asked Allah's refuge from the punishment of the grave (indicating an affirmative reply). Then one day Allah's Messenger (ﷺ) rode (to leave for some place) but the sun eclipsed. He returned on the forenoon and passed through the rear of the dwellings (of his wives) and stood up and started offering the (eclipse) prayer and the people stood behind him. He stood for a long period and then performed a long bowing and then stood straight for a long period which was shorter than that of the first standing, then he performed a prolonged bowing which was shorter than the first bowing, then he raised his head and prostrated for a long time and then stood up (for the second rak`a) for a long while, but the standing was shorter than the standing of the first rak`a. Then he performed a prolonged bowing which was shorter than that of the first one. He then stood up for a long time but shorter than the first, then again performed a long bowing which was shorter than the first and then prostrated for a shorter while than that of the first prostration. Then he finished the prayer and delivered the sermon and) said what Allah wished; and ordered the people to seek refuge with Allah from the punishment of the grave",
+          "fr": "Rapporté par `Amra bint `Abdur-Rahman : Une femme juive est venue demander quelque chose à `Aisha et lui a dit : « Qu’Allah te protège du châtiment de la tombe. » Alors `Aisha a demandé au Messager d’Allah (ﷺ) : « Les gens seront-ils punis dans leurs tombes ? » Le Messager d’Allah (ﷺ) a demandé la protection d’Allah contre le châtiment de la tombe (ce qui montrait une réponse positive). Un jour, le Messager d’Allah (ﷺ) est parti pour un endroit, mais le soleil s’est éclipsé. Il est revenu dans la matinée, est passé par l’arrière des habitations de ses femmes, s’est levé et a commencé à prier l’éclipse, et les gens se sont mis derrière lui. Il est resté debout longtemps, puis a fait une longue inclinaison, puis s’est relevé longtemps, mais moins que la première fois, puis a fait une longue inclinaison, plus courte que la première, puis a relevé la tête et s’est prosterné longtemps, puis s’est relevé pour la deuxième unité, est resté debout longtemps, mais moins que la première fois, puis a fait une longue inclinaison, plus courte que la première, puis s’est relevé longtemps, mais moins que la première fois, puis a fait une longue inclinaison, plus courte que la première, puis s’est prosterné pour un temps plus court que la première prosternation. Ensuite, il a terminé la prière, a prononcé le sermon et a dit ce qu’Allah a voulu ; puis il a ordonné aux gens de demander la protection d’Allah contre le châtiment de la tombe",
+          "id": "Telah menceritakan kepada kami [Isma'il] berkata, telah menceritakan kepadaku [Malik] dari [Yahya bin Sa'id] dari ['Amrah binti 'Abdurrahman] dari ['Aisyah] radliallahu 'anha, bahwa ada seorang wanita Yahudi datang bertanya kepadanya, \"Apakah Allah akan melindungi anda dari siksa kubur?\" Aisyah lalu menanyakan hal itu kepada Rasulullah shallallahu 'alaihi wasallam, \"Apakah manusia akan disiksa dalam kubur mereka?\" Rasulullah shallallahu 'alaihi wasallam lalu menjawab: \"Aku berlindung darinya.\" Kemudian di pagi hari Rasulullah shallallahu 'alaihi wasallam pergi mengendarai tunggangannya, tiba-tiba terjadi gerhana matahari. Lalu beliau segera kembali saat masih waktu dluha, beliau melewati di antara kamar-kamar (isterinya). Kemudian beliau mendirikan shalat dengan diikuti oleh orang-orang di belakangnya. Beliau berdiri dengan lama, lalu rukuk dengan rukuk yang panjang, lalu mengangkat (kepala) kemudian berdiri dengan panjang namun tidak sepanjang yang pertama. Kemudian rukuk kembali dengan yang panjang namun tidak sepanjang rukuk yang pertama, kemudian beliau mengangkat kepalanya dan sujud dengan sujud yang panjang. Kemudian beliau kembali berdiri dengan panjang namun tidak sepanjang yang pertama, lalu rukuk dengan panjang namun tidak sepanjang rukuk yang pertama, lalu mengangkat (kepala) dan berdiri dengan panjang namun tidak sepanjang yang pertama. Kemudian beliau rukuk dengan panjang namun tidak sepanjang rukuk yang pertama. Kemudian beliau mengangkat kepalanya, lalu sujud dan mengakhiri shalatnya. Kemudian beliau bersabda sebagaimana yang dikendaki Allah, kemudian memerintahkan orang-orang agar mereka memohon perlindungan dari siksa kubur",
+          "tr": "Aişe (radiyallahu anha)'den nakledilmiştir: \"Bir Yahudi kadın Aişe'ye bir şey istemeye geldiğinde ona: 'Allah seni kabir azabından korusun!\" demişti, Hz. Aişe, Resul-i Ekrem Sallallahu Aleyhi ve Sellem’e : \"İnsanlar kabirlerinde azap görecekler mi?\" diye sordu. Bunun üzerine Nebi Sallallahu Aleyhi ve Sellem kabir azabından Allah'a sığındığını söyledi.\" [-1056-] Sonra Resul-i Ekrem Sallallahu Aleyhi ve Sellem bir sabah vakti bineğine bindi ve yola çıktı. Bu sırada güneş tutulmuştu. Kuşluk vakti olduğunda da geri dönmüştü. Resulullah Sallallahu Aleyhi ve Sellem döndüğünde eşlerinin odalarının bulunduğu yerden geçti ve sonra namaza durdu. Sahabîler de kalkıp O'nun Sallallahu Aleyhi ve Sellem arkasına durdular. Nebi Sallallahu Aleyhi ve Sellem kıyamda uzun bir müddet bekledi. Daha sonra rükuya gitti ve rükuda da epey bekledi. Ardından doğrulup kıyama durdu ve ilk kıyamı kadar olmasa da uzun bir süre bekledi. Bu kıyamın ardından yine rüku' etti ve bu rükuda ilk rüku kadar olmasa da uzunca bir süre bekledi. Sonra rüku'dan doğruldu ve secdeye varıp secdede uzun bir süre bekledi. Sonra yine kıyama kalktı ve ilk kıyamı kadar olmasa da uzun bir süre bekledi. Ardından rükuya gitti ve ilk rüku kadar olmasa da uzun bir süre rükuda bekledi. Sonra kıyama kalktı ve yine ilk kıyamdaki kadar olmasa da uzun bir müddet kıyamda durdu. Ardından tekrar rükuya vardı ve ilk rüku kadar olmasa da uzun bir müddet rükuda durdu. Daha sonra doğruldu ve secdeye gidip ilk secde kadar olmasa da uzun bir süre bekledi. Ardından doğrulup tekrar secde etti. Namaz bittikten sonra Allah Teala'nın söylemesini dilediği ne varsa söyledi ve ashab-ı kirama kabir azabından Allah'a sığınmalarını emretti"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 16,
+        "hadith": 15
+      },
+      "narrator": {
+        "en": "`Amra bint `Abdur-Rahman"
+      }
+    },
+    {
+      "hadithNumber": 1057,
+      "arabicNumber": 1057,
+      "book": 16,
+      "hadithInBook": 16,
+      "text": {
+        "arabic": "حَدَّثَنَا مُسَدَّدٌ، قَالَ حَدَّثَنَا يَحْيَى، عَنْ إِسْمَاعِيلَ، قَالَ حَدَّثَنِي قَيْسٌ، عَنْ أَبِي مَسْعُودٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ الشَّمْسُ وَالْقَمَرُ لاَ يَنْكَسِفَانِ لِمَوْتِ أَحَدٍ وَلاَ لِحَيَاتِهِ، وَلَكِنَّهُمَا آيَتَانِ مِنْ آيَاتِ اللَّهِ، فَإِذَا رَأَيْتُمُوهُمَا فَصَلُّوا ‏\"‏‏.‏",
+        "translations": {
+          "en": "Narrated Abu Mas`ud:Allah's Messenger (ﷺ) said, \"The sun and the moon do not eclipse because of someone's death or life but they are two signs amongst the signs of Allah, so pray whenever you see them",
+          "ur": "ہم سے مسدد نے بیان کیا، کہا کہ ہم سے یحییٰ قطان نے اسماعیل بن ابی خالد سے بیان کیا، کہا کہ مجھ سے قیس نے بیان کیا، ان سے ابومسعود عقبہ بن عامر انصاری صحابی رضی اللہ عنہ نے بیان کیا کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا سورج اور چاند میں گرہن کسی کی موت کی وجہ سے نہیں لگتا البتہ یہ دونوں اللہ تعالیٰ کی نشانیاں ہیں، اس لیے جب تم گرہن دیکھو تو نماز پڑھو۔",
+          "fr": "Rapporté par Abu Mas`ud : Le Messager d’Allah (ﷺ) a dit : « Le soleil et la lune ne s’éclipsent pas à cause de la mort ou de la naissance de quelqu’un, mais ce sont deux signes parmi les signes d’Allah. Donc, priez chaque fois que vous les voyez. »",
+          "id": "Telah menceritakan kepada kami [Musaddad] berkata, telah telah menceritakan kepada kami [Yahya bin Sa'id] dari [Isma'il] berkata, telah menceritakan kepadaku [Qais] dari [Ibnu Mas'ud] berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Matahari dan bulan tidak akan mengalami gerhana disebabkan karena mati atau hidupnya seseorang, akan tetapi keduanya adalah dua tanda dari tanda-tanda kebesaran Allah. Jika kalian melihat gerhana keduanya maka shalatlah",
+          "tr": "Ebu Mes'ud'dan nakledildiğine göre Nebi Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: \"Ay ve güneş bir kimsenin ne ölümü ne de hayatı yüzünden tutulurlar. Ancak bunlar Allah’ın birer ayetidir. Eğer ay ve güneşin tutulduğunu görürseniz hemen namaz kılın"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 16,
+        "hadith": 16
+      },
+      "narrator": {
+        "en": "Abu Mas`ud"
+      }
+    },
+    {
+      "hadithNumber": 1058,
+      "arabicNumber": 1058,
+      "book": 16,
+      "hadithInBook": 17,
+      "text": {
+        "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ، قَالَ حَدَّثَنَا هِشَامٌ، أَخْبَرَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، وَهِشَامِ بْنِ عُرْوَةَ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ قَالَتْ كَسَفَتِ الشَّمْسُ عَلَى عَهْدِ رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَامَ النَّبِيُّ صلى الله عليه وسلم فَصَلَّى بِالنَّاسِ، فَأَطَالَ الْقِرَاءَةَ، ثُمَّ رَكَعَ فَأَطَالَ الرُّكُوعَ، ثُمَّ رَفَعَ رَأْسَهُ فَأَطَالَ الْقِرَاءَةَ، وَهْىَ دُونَ قِرَاءَتِهِ الأُولَى، ثُمَّ رَكَعَ فَأَطَالَ الرُّكُوعَ دُونَ رُكُوعِهِ الأَوَّلِ، ثُمَّ رَفَعَ رَأْسَهُ فَسَجَدَ سَجْدَتَيْنِ، ثُمَّ قَامَ فَصَنَعَ فِي الرَّكْعَةِ الثَّانِيَةِ مِثْلَ ذَلِكَ، ثُمَّ قَامَ فَقَالَ ‏ \"‏ إِنَّ الشَّمْسَ وَالْقَمَرَ لاَ يَخْسِفَانِ لِمَوْتِ أَحَدٍ وَلاَ لِحَيَاتِهِ، وَلَكِنَّهُمَا آيَتَانِ مِنْ آيَاتِ اللَّهِ يُرِيهِمَا عِبَادَهُ، فَإِذَا رَأَيْتُمْ ذَلِكَ فَافْزَعُوا إِلَى الصَّلاَةِ ‏\"‏‏.‏",
+        "translations": {
+          "en": "Narrated `Aisha:In the lifetime of the Prophet (ﷺ) the sun eclipsed and the Prophet (ﷺ) stood up to offer the prayer with the people and recited a long recitation, then he performed a prolonged bowing, and then lifted his head and recited a prolonged recitation which was shorter than the first. Then he performed a prolonged bowing which was shorter than the first and then lifted his head and performed two prostrations. He then stood up for the second rak`a and offered it like the first. Then he stood up and said, \"The sun and the moon do not eclipse because of someone's life or death but they are two signs amongst the signs of Allah which He shows to His worshipers. So whenever you see them, make haste for the prayer",
+          "ur": "ہم سے عبداللہ بن محمد مسندی نے بیان کیا، انہوں نے کہا کہ ہم سے ہشام نے بیان کیا، انہوں نے کہا کہ ہمیں معمر نے خبر دی، انہیں زہری اور ہشام بن عروہ نے، انہیں عروہ بن زبیر نے، انہیں عائشہ صدیقہ رضی اللہ عنہا نے کہ رسول اللہ صلی اللہ علیہ وسلم کے زمانہ مبارک میں سورج کو گرہن لگا تو آپ صلی اللہ علیہ وسلم کھڑے ہوئے اور لوگوں کے ساتھ نماز میں مشغول ہو گئے۔ آپ صلی اللہ علیہ وسلم نے لمبی قرآت کی۔ پھر رکوع کیا اور یہ بھی بہت لمبا تھا۔ پھر سر اٹھایا اور اس مرتبہ بھی دیر تک قرآت کی مگر پہلی قرآت سے کم۔ اس کے بعد آپ صلی اللہ علیہ وسلم نے ( دوسری مرتبہ ) رکوع کیا بہت لمبا لیکن پہلے کے مقابلہ میں مختصر پھر رکوع سے سر اٹھا کر آپ صلی اللہ علیہ وسلم سجدہ میں چلے گئے اور دو سجدے کئے پھر کھڑے ہوئے اور دوسری رکعت میں بھی اسی طرح کیا جیسے پہلی رکعت میں کر چکے تھے۔ اس کے بعد فرمایا کہ سورج اور چاند میں گرہن کسی کی موت و حیات سے نہیں لگتا۔ البتہ یہ دونوں اللہ تعالیٰ کی نشانیاں ہیں جنہیں اللہ تعالیٰ اپنے بندوں کو دکھاتا ہے، اس لیے جب تم انہیں دیکھو تو فوراً نماز کے لیے دوڑو۔",
+          "fr": "Rapporté par `Aisha : Du vivant du Prophète (ﷺ), il y a eu une éclipse du soleil. Le Prophète (ﷺ) s’est alors levé pour prier avec les gens et a récité une longue lecture, puis il a fait une longue inclinaison, a relevé la tête et a récité une autre longue lecture, un peu plus courte que la première. Ensuite, il a fait une longue inclinaison, plus courte que la première, puis il a relevé la tête et a fait deux prosternations. Il s’est ensuite levé pour la deuxième rak`a et l’a accomplie de la même façon que la première. Après cela, il s’est levé et a dit : « Le soleil et la lune ne s’éclipsent pas à cause de la vie ou de la mort de quelqu’un, ce sont deux signes parmi les signes d’Allah qu’Il montre à Ses serviteurs. Donc, quand vous les voyez, hâtez-vous de prier. »",
+          "id": "Telah menceritakan kepada kami ['Abdullah bin Muhammad] berkata, telah menceritakan kepada kami [Hisyam] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dan [Hisyam bin 'Urwah] dari ['Urwah] dari ['Aisyah] berkata, \"Pernah terjadi gerhana matahari pada zaman Rasulullah shallallahu 'alaihi wasallam. Maka beliau berdiri melaksanakan shalat bersama orang banyak, beliau memanjangkan bacaan, lalu rukuk dengan memanjangkan rukuk, kemudian mengangkat kepalanya, lalu membaca lagi dengan memanjangkan bacaannya namun tidak sebagaimana panjang bacaan yang pertama. Kemudian beliau rukuk lagi dengan memanjangkan rukuk, namun tidak sepanjang rukuk yang pertama, lalu mengangkat kepalanya kemudian sujud dua kali. Beliau kemudian berdiri kembali dan mengerjakan seperti pada rakaat pertama. Setelah itu beliau bangkit dan bersabda: \"Sesungguhnya matahari dan bulan tidak akan mengalami gerhana disebabkan karena mati atau hidupnya seseorang, akan tetapi keduanya adalah dua tanda dari tanda-tanda kebesaran Allah, yang Dia perlihatkan kepada hamba-hambaNya. Jika kalian melihat gerhana keduanya, maka segeralah mendirikan shalat",
+          "tr": "Resul-i Ekrem Sallallahu Aleyhi ve Sellem zamanında güneş tutulmuştu. Bunun üzerine Nebi Sallallahu Aleyhi ve Sellem kalkıp namaza durdu ve ashaba namaz kıldırdı. Nebi Sallallahu Aleyhi ve Sellem kıyamda uzun bir kıraatten sonra rükuya gitti ve rükuda da epey bekledi. Ardından başını kaldırıp doğruldu ve ilk kıraati kadar olmasa da Kur'an'dan uzun bir bölüm okudu. Bu kıyamın ardından yine rüku' etti ve bu rükuda ilk rüku kadar olmasa da uzunca bir süre bekledi. Sonra başını kaldırıp rükudan doğruldu ve iki defa secde etti. Sonra yine kıyama kalktı ve ikinci rekatı da tıpkı birinci rekat gibi kıldırdı. Namazdan sonra da kalkıp cemaate şöyle seslendi: \"Ay ve güneş bir kimsenin ne ölümü ne de hayatı yüzünden tutulurlar. Ancak bunlar Allah'ın kullarına gösterdiği birer ayetidir. Eğer ay ve güneşin tutulduğunu görürseniz derhal namaz kılmaya koşun"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 16,
+        "hadith": 17
+      },
+      "narrator": {
+        "en": "`Aisha"
+      }
+    },
+    {
+      "hadithNumber": 1059,
+      "arabicNumber": 1059,
+      "book": 16,
+      "hadithInBook": 18,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْعَلاَءِ، قَالَ حَدَّثَنَا أَبُو أُسَامَةَ، عَنْ بُرَيْدِ بْنِ عَبْدِ اللَّهِ، عَنْ أَبِي بُرْدَةَ، عَنْ أَبِي مُوسَى، قَالَ خَسَفَتِ الشَّمْسُ، فَقَامَ النَّبِيُّ صلى الله عليه وسلم فَزِعًا، يَخْشَى أَنْ تَكُونَ السَّاعَةُ، فَأَتَى الْمَسْجِدَ، فَصَلَّى بِأَطْوَلِ قِيَامٍ وَرُكُوعٍ وَسُجُودٍ رَأَيْتُهُ قَطُّ يَفْعَلُهُ وَقَالَ ‏ \"‏ هَذِهِ الآيَاتُ الَّتِي يُرْسِلُ اللَّهُ لاَ تَكُونُ لِمَوْتِ أَحَدٍ وَلاَ لِحَيَاتِهِ، وَلَكِنْ يُخَوِّفُ اللَّهُ بِهِ عِبَادَهُ، فَإِذَا رَأَيْتُمْ شَيْئًا مِنْ ذَلِكَ فَافْزَعُوا إِلَى ذِكْرِهِ وَدُعَائِهِ وَاسْتِغْفَارِهِ ‏\"‏‏.‏",
+        "translations": {
+          "en": "Narrated Abu Musa:The sun eclipsed and the Prophet (ﷺ) got up, being afraid that it might be the Hour (i.e. Day of Judgment). He went to the Mosque and offered the prayer with the longest Qiyam, bowing and prostration that I had ever seen him doing. Then he said, \"These signs which Allah sends do not occur because of the life or death of somebody, but Allah makes His worshipers afraid by them. So when you see anything thereof, proceed to remember Allah, invoke Him and ask for His forgiveness",
+          "ur": "ہم سے محمد بن علاء نے بیان کیا، کہا کہ ہم سے ابواسامہ نے بیان کیا، ان سے برید بن عبداللہ نے، ان سے ابوبردہ نے، ان سے ابوموسیٰ اشعری رضی اللہ عنہ نے کہ ایک دفعہ سورج گرہن ہوا تو نبی کریم صلی اللہ علیہ وسلم بہت گھبرا کر اٹھے اس ڈر سے کہ کہیں قیامت نہ قائم ہو جائے۔ آپ صلی اللہ علیہ وسلم نے مسجد میں آ کر بہت ہی لمبا قیام، لمبا رکوع اور لمبے سجدوں کے ساتھ نماز پڑھی۔ میں نے کبھی آپ صلی اللہ علیہ وسلم کو اس طرح کرتے نہیں دیکھا تھا۔ آپ صلی اللہ علیہ وسلم نے نماز کے بعد فرمایا کہ یہ نشانیاں ہیں جنہیں اللہ تعالیٰ بھیجتا ہے یہ کسی کی موت و حیات کی وجہ سے نہیں آتیں بلکہ اللہ تعالیٰ ان کے ذریعہ اپنے بندوں کو ڈراتا ہے اس لیے جب تم اس طرح کی کوئی چیز دیکھو تو فوراً اللہ تعالیٰ کے ذکر اور اس سے استغفار کی طرف لپکو۔",
+          "fr": "Rapporté par Abu Musa : Le soleil s’est éclipsé et le Prophète (ﷺ) s’est levé, craignant que ce soit l’Heure (c’est-à-dire le Jour du Jugement). Il est allé à la mosquée et a prié avec la plus longue station debout, inclinaison et prosternation que je l’aie jamais vu faire. Ensuite, il a dit : « Ces signes qu’Allah envoie ne se produisent pas à cause de la vie ou de la mort de quelqu’un, mais Allah fait peur à Ses serviteurs par eux. Donc, quand vous voyez cela, rappelez-vous Allah, invoquez-Le et demandez-Lui pardon. »",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Al 'Ala] berkata, telah menceritakan kepada kami [Abu Usamah] dari [Buraid bin 'Abdullah] dari [Abu Burdah] dari [Abu Musa] berkata, \"Ketika terjadi gerhana matahari, Nabi shallallahu 'alaihi wasallam berdiri dengan tergesa-gesa seolah akan terjadi hari kiamat. Beliau lantas mendatangi masjid dan shalat dengan berdiri, rukuk dan sujud yang paling panjang, yang pernah aku lihat dari yang beliau pernah lakukan. Kemudian beliau bersabda: \"Inilah dua tanda-tanda yang Allah kirimkan, ia tidak terjadi karena hidup atau matinya seseorang, tetapi '(Dia, Allah mempertakuti hamba-hambaNya dengannya) ' (Qs. Az ZUmar: 16). Maka jika kalian melihat sesuatu padanya (gerhana), maka segeralah untuk mengingat Allah, berdoa dan minta ampunan",
+          "tr": "Ebu Musa (el-Eş'ari r.a.)'den nakledilmiştir: Güneş tutulmuştu. Bunu gören Nebi Sallallahu Aleyhi ve Sellem yerinden dehşet içinde kalktı. Bunun kıyamet olacağından korkuya kapılmış gibiydi. Bu dehşet içinde mescide girdi ve daha önce hiç görmediğim şekilde kıyamı, rükuu ve secdesi çok uzun olan bir namaz kıldırdı. Namazın ardından da şöyle buyurdu: \"Allah'ın gömdermiş olduğu bu ayetler / deliller asla bir kimsenin ölümü ve hayatı yüzünden meydana gelmez. Fakat Allah Teala bunlar ile kullarına korku salar. Siz bu tür olağandışı olaylar görürseniz hemen Allah'ı zikretmeye, Ona yalvarmaya ve Ondan af dilemeye (istiğfar) başlayın"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 16,
+        "hadith": 18
+      },
+      "narrator": {
+        "en": "Abu Musa"
+      }
+    },
+    {
+      "hadithNumber": 1060,
+      "arabicNumber": 1060,
+      "book": 16,
+      "hadithInBook": 19,
+      "text": {
+        "arabic": "حَدَّثَنَا أَبُو الْوَلِيدِ، قَالَ حَدَّثَنَا زَائِدَةُ، قَالَ حَدَّثَنَا زِيَادُ بْنُ عِلاَقَةَ، قَالَ سَمِعْتُ الْمُغِيرَةَ بْنَ شُعْبَةَ، يَقُولُ انْكَسَفَتِ الشَّمْسُ يَوْمَ مَاتَ إِبْرَاهِيمُ، فَقَالَ النَّاسُ انْكَسَفَتْ لِمَوْتِ إِبْرَاهِيمَ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ إِنَّ الشَّمْسَ وَالْقَمَرَ آيَتَانِ مِنْ آيَاتِ اللَّهِ، لاَ يَنْكَسِفَانِ لِمَوْتِ أَحَدٍ وَلاَ لِحَيَاتِهِ، فَإِذَا رَأَيْتُمُوهُمَا فَادْعُوا اللَّهَ وَصَلُّوا حَتَّى يَنْجَلِيَ ‏\"‏‏.‏",
+        "translations": {
+          "en": "Narrated Al-Mughira bin Shu`ba:On the day of Ibrahim's death, the sun eclipsed and the people said that the eclipse was due to the death of Ibrahim (the son of the Prophet). Allah's Messenger (ﷺ) said, \"The sun and the moon are two signs amongst the signs of Allah. They do not eclipse because of someone's death or life. So when you see them, invoke Allah and pray till the eclipse is clear",
+          "ur": "ہم سے ابوالولید طیالسی نے بیان کیا، انہوں نے کہا کہ ہم سے زائدہ بن قدامہ نے بیان کیا، انہوں نے کہا کہ ہم سے زیاد بن علاقہ نے بیان کیا، انہوں نے کہا کہ میں نے مغیرہ بن شعبہ رضی اللہ عنہ سے سنا کہ انہوں نے کہا کہ جس دن ابراہیم رضی اللہ عنہ کی موت ہوئی سورج گرہن بھی اسی دن لگا۔ اس پر بعض لوگوں نے کہا کہ گرہن ابراہیم رضی اللہ عنہ ( نبی کریم صلی اللہ علیہ وسلم کے صاحبزادے ) کی وفات کی وجہ سے لگا ہے۔ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا کہ سورج اور چاند اللہ تعالیٰ کی نشانیوں میں سے دو نشان ہیں۔ ان میں گرہن کسی کی موت و حیات کی وجہ سے نہیں لگتا۔ جب اسے دیکھو تو اللہ پاک سے دعا کرو اور نماز پڑھو تاآنکہ سورج صاف ہو جائے۔",
+          "fr": "Rapporté par Al-Mughira bin Shu`ba : Le jour de la mort d’Ibrahim, le soleil s’est éclipsé et les gens ont dit que l’éclipse était due à la mort d’Ibrahim (le fils du Prophète). Le Messager d’Allah (ﷺ) a dit : « Le soleil et la lune sont deux signes parmi les signes d’Allah. Ils ne s’éclipsent pas à cause de la mort ou de la vie de quelqu’un. Donc, quand vous les voyez, invoquez Allah et priez jusqu’à ce que l’éclipse soit terminée. »",
+          "id": "Telah menceritakan kepada kami [Abu Al Walid] berkata, telah menceritakan kepada kami [Zaidah] berkata, telah menceritakan kepada kami [Ziyad bin 'Alaqah] berkata, \"Aku mendengar [Al Mughirah bin Syu'bah] berkata, \"Telah terjadi gerhana matahari ketika wafatnya Ibrahim. Kemudian Rasulullah shallallahu 'alaihi wasallam bersabda: \"Sesungguhnya matahari dan bulan adalah dua tanda dari tanda-tanda kebesaran Allah, dan ia tidak akan mengalami gerhana disebabkan karena mati atau hidupnya seseorang. Jika kalian melihat gerhana keduanya, maka berdo'alah kepada Allah dan dirikan shalat hingga (matahari) kembali nampak",
+          "tr": "Muğîre İbn Şu'be'nin şöyle dediği nakledilmiştir: \"Resul-i Ekrem Sallallahu Aleyhi ve Sellem zamanında oğlu İbrahim'in öldüğü gün güneş tutulmuştu. Bunun üzerine insanlar: Güneş İbrahim öldüğü için tutuldu, demeye başladılar. Nebi Sallallahu Aleyhi ve Sellem onların bu sözünü duyunca şöyle buyurdu: \"Güneş ve ay Allah'ın birer ayetidir. Bunlar ne bir kimsenin ölümü ne de hayatı dolayısıyla tutulur. Siz güneşin ve ayın tutulduğunu görürseniz açılıncaya kadar Allah'a dua edin ve namaz kılın!\" باب: قول الإمام في خطبة الكسوف أما بعد. 16. İmamın Güneş Tutulması Namazı Hutbesinde Emma ba'du (Asıl Konuya Gelince) Demesi"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 16,
+        "hadith": 19
+      },
+      "narrator": {
+        "en": "Al-Mughira bin Shu`ba"
+      }
+    },
+    {
+      "hadithNumber": 1061,
+      "arabicNumber": 1061,
+      "book": 16,
+      "hadithInBook": 20,
+      "text": {
+        "arabic": "وَقَالَ أَبُو أُسَامَةَ حَدَّثَنَا هِشَامٌ، قَالَ أَخْبَرَتْنِي فَاطِمَةُ بِنْتُ الْمُنْذِرِ، عَنْ أَسْمَاءَ، قَالَتْ فَانْصَرَفَ رَسُولُ اللَّهِ صلى الله عليه وسلم وَقَدْ تَجَلَّتِ الشَّمْسُ فَخَطَبَ، فَحَمِدَ اللَّهَ بِمَا هُوَ أَهْلُهُ ثُمَّ قَالَ ‏ \"‏ أَمَّا بَعْدُ ‏\"‏‏.‏",
+        "translations": {
+          "en": "And this was narrated by Asma' who said, \"Allah's Messenger (ﷺ) finished the eclipse prayer and by then the sun (eclipse) had cleared. Then he delivered the Khutba (religious talk) and praised Allah as He deserved and then said Amma ba'du",
+          "ur": "اور ابواسامہ نے بیان کیا کہ ہم سے ہشام بن عروہ نے بیان کیا، انہوں نے کہا کہ مجھے فاطمہ بنت منذر نے خبر دی، ان سے اسماء بنت ابی بکر رضی اللہ عنہما نے فرمایا کہ جب سورج صاف ہو گیا تو رسول اللہ صلی اللہ علیہ وسلم نماز سے فارغ ہوئے اور آپ صلی اللہ علیہ وسلم نے خطبہ دیا۔ پہلے اللہ تعالیٰ کی شان کے مطابق اس کی تعریف کی اس کے بعد فرمایا «أما بعد» ۔",
+          "fr": "Rapporté par Asma' : Allah’s Messenger (ﷺ) a terminé la prière de l’éclipse et à ce moment-là, l’éclipse du soleil était finie. Ensuite, il a prononcé le sermon religieux et a loué Allah comme Il le mérite, puis il a dit : Amma ba'du",
+          "tr": "Esma binti Ebu Bekir (r.anha)'nın şöyle dediği nakledilmiştir: \"Resul-i Ekrem Sallallahu Aleyhi ve Sellem namazı bitirdiğinde güneş iyice açılmıştı. Nebi Sallallahu Aleyhi ve Sellem daha sonra cemaate dönüp hitap etmeye başladı. Hutbe öncesinde Allah Teala'ya layık olduğu veçhile hamd etti ve ardından, Emma ba'du (şimdi asıl konuya gelelim), dedi.\" باب: الصلاة في كسوف القمر. 17. Ay Tutulması Sırasında Namaz Kılmak"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 16,
+        "hadith": 20
+      }
+    },
+    {
+      "hadithNumber": 1062,
+      "arabicNumber": 1062,
+      "book": 16,
+      "hadithInBook": 21,
+      "text": {
+        "arabic": "حَدَّثَنَا مَحْمُودٌ، قَالَ حَدَّثَنَا سَعِيدُ بْنُ عَامِرٍ، عَنْ شُعْبَةَ، عَنْ يُونُسَ، عَنِ الْحَسَنِ، عَنْ أَبِي بَكْرَةَ ـ رضى الله عنه ـ قَالَ انْكَسَفَتِ الشَّمْسُ عَلَى عَهْدِ رَسُولِ اللَّهِ صلى الله عليه وسلم فَصَلَّى رَكْعَتَيْنِ‏.‏",
+        "translations": {
+          "en": "Narrated Abu Bakra:In the lifetime of the Prophet (ﷺ) the sun eclipsed and then he offered a two rak`at prayer",
+          "ur": "ہم سے محمود بن غیلان نے بیان کیا، کہا کہ ہم سے سعید بن عامر نے بیان کیا، ان سے شعبہ نے، ان سے یونس نے، ان سے امام حسن بصری نے اور ان سے ابوبکرہ رضی اللہ عنہ نے فرمایا کہ رسول اللہ صلی اللہ علیہ وسلم کے عہد مبارک میں سورج کو گرہن لگا تو آپ صلی اللہ علیہ وسلم نے دو رکعت نماز پڑھی تھی۔",
+          "fr": "Rapporté par Abu Bakra : Du vivant du Prophète (ﷺ), le soleil s’est éclipsé et il a alors accompli une prière de deux rak`at",
+          "id": "Telah menceritakan kepada kami [Mahmud bin Ghoilan] berkata, telah telah menceritakan kepada kami [Sa'id bin 'Amir] dari [Syu'bah] dari [Yunus] dari [Al Hasan] dari [Abu Bakrah radliallahu 'anhu] berkata: \"Telah pernah terjadi gerhana matahari pada zaman Rasulullah shallallahu 'alaihi wasallam, kemudian Beliau mendirikan shalat dua raka'at",
+          "tr": "Ebu Bekre (r.a.)'in şöyle dediği nakledilmiştir: \"Resulullah Sallallahu Aleyhi ve Sellem zamanında güneş tutuldu ve Nebi Sallallahu Aleyhi ve Sellem İki rekat namaz kıldı"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 16,
+        "hadith": 21
+      },
+      "narrator": {
+        "en": "Abu Bakra"
+      }
+    },
+    {
+      "hadithNumber": 1063,
+      "arabicNumber": 1063,
+      "book": 16,
+      "hadithInBook": 22,
+      "text": {
+        "arabic": "حَدَّثَنَا أَبُو مَعْمَرٍ، قَالَ حَدَّثَنَا عَبْدُ الْوَارِثِ، قَالَ حَدَّثَنَا يُونُسُ، عَنِ الْحَسَنِ، عَنْ أَبِي بَكْرَةَ، قَالَ خَسَفَتِ الشَّمْسُ عَلَى عَهْدِ رَسُولِ اللَّهِ صلى الله عليه وسلم فَخَرَجَ يَجُرُّ رِدَاءَهُ حَتَّى انْتَهَى إِلَى الْمَسْجِدِ، وَثَابَ النَّاسُ إِلَيْهِ فَصَلَّى بِهِمْ رَكْعَتَيْنِ، فَانْجَلَتِ الشَّمْسُ فَقَالَ ‏ \"‏ إِنَّ الشَّمْسَ وَالْقَمَرَ آيَتَانِ مِنْ آيَاتِ اللَّهِ، وَإِنَّهُمَا لاَ يَخْسِفَانِ لِمَوْتِ أَحَدٍ، وَإِذَا كَانَ ذَاكَ فَصَلُّوا وَادْعُوا حَتَّى يُكْشَفَ مَا بِكُمْ ‏\"‏‏.‏ وَذَاكَ أَنَّ ابْنًا لِلنَّبِيِّ صلى الله عليه وسلم مَاتَ، يُقَالُ لَهُ إِبْرَاهِيمُ، فَقَالَ النَّاسُ فِي ذَاكَ‏.‏",
+        "translations": {
+          "en": "Narrated Abu Bakra:In the lifetime of Allah's Messenger (ﷺ) the sun eclipsed and he went out dragging his clothes till he reached the Mosque. The people gathered around him and he led them and offered two rak`at. When the sun (eclipse) cleared, he said, \"The sun and the moon are two signs amongst the signs of Allah; they do not eclipse because of the death of someone, and so when an eclipse occurs, pray and invoke Allah till the eclipse is over.\" It happened that a son of the Prophet (ﷺ) called Ibrahim died on that day and the people were talking about that (saying that the eclipse was caused by his death)",
+          "ur": "ہم سے ابومعمر نے بیان کیا، کہا کہ ہم سے عبدالوارث نے بیان کیا، کہا کہ ہم سے یونس نے بیان کیا، ان سے امام حسن بصری نے، ان سے ابوبکرہ نے کہ رسول اللہ صلی اللہ علیہ وسلم کے زمانے میں سورج گرہن لگا تو آپ صلی اللہ علیہ وسلم اپنی چادر گھسیٹتے ہوئے ( بڑی تیزی سے ) مسجد میں پہنچے۔ صحابہ بھی جمع ہو گئے۔ پھر آپ صلی اللہ علیہ وسلم نے انہیں دو رکعت نماز پڑھائی، گرہن بھی ختم ہو گیا۔ اس کے بعد آپ صلی اللہ علیہ وسلم نے فرمایا کہ سورج اور چاند اللہ تعالیٰ کی نشانیوں میں سے دو نشانیاں ہیں اور ان میں گرہن کسی کی موت پر نہیں لگتا اس لیے جب گرہن لگے تو اس وقت تک نماز اور دعا میں مشغول رہو جب تک یہ صاف نہ ہو جائے۔ یہ آپ صلی اللہ علیہ وسلم نے اس لیے فرمایا کہ نبی کریم صلی اللہ علیہ وسلم کے ایک صاحبزادے ابراہیم رضی اللہ عنہ کی وفات ( اسی دن ) ہوئی تھی اور بعض لوگ ان کے متعلق کہنے لگے تھے ( کہ گرہن ان کی موت پر لگا ہے ) ۔",
+          "fr": "Rapporté par Abu Bakra : Du vivant du Messager d’Allah (ﷺ), le soleil s’est éclipsé et il est sorti en traînant ses vêtements jusqu’à la mosquée. Les gens se sont rassemblés autour de lui, il les a dirigés et a accompli deux rak`at. Quand l’éclipse a pris fin, il a dit : « Le soleil et la lune sont deux signes parmi les signes d’Allah ; ils ne s’éclipsent pas à cause de la mort de quelqu’un. Donc, quand une éclipse se produit, priez et invoquez Allah jusqu’à ce que l’éclipse soit terminée. » Ce jour-là, un fils du Prophète (ﷺ) nommé Ibrahim est décédé et les gens en parlaient (en disant que l’éclipse était causée par sa mort)",
+          "id": "Telah menceritakan kepada kami [Abu Ma'mar] berkata, telah telah menceritakan kepada kami ['Abdul Warits] berkata, telah menceritakan kepada kami [Yunus] dari [Al Hasan] dari [Abu Bakrah] berkata: \"Telah terjadi gerhana matahari pada zaman Rasulullah shallallahu 'alaihi wasallam lalu Beliau keluar dengan menyingsingkan selendangnya hingga tiba di masjid. Maka orang-orang berkumpul mengelilingi Beliau. Lalu Beliau memimpin shalat bersama mereka dua raka'at hingga matahari kembali nampak. Kemudian Beliau bersabda: \"Matahari dan bulan adalah dua tanda dari tanda-tanda kebesaran Allah dan keduanya tidak akan mengalami gerhana disebabkan karena kematian seseorang. Jika terjadi gerhana, maka dirikanlah shalat dan banyaklah berdo'a hingga selesai gerhana yang terjadi pada kalian\". Peristiwa ini berkenaan ketika putra Nabi shallallahu 'alaihi wasallam yang bernama Ibrahim wafat yang manusia kemudian memperbincangkannya",
+          "tr": "Ebu Bekre'nin şöyle dediği nakledilmiştir: \"Resul-i Ekrem Sallallahu Aleyhi ve Sellem hayatta İken güneş tutulması oldu. Bunun üzerine Nebi Sallallahu Aleyhi ve Sellem omuzuna attığı ridasını sürüyerek yanımızdan ayrıldı ve mescide girdi. Orada bulunanlar da onu takip ederek mescide gittiler. Resulullah Sallallahu Aleyhi ve Sellem iki rekat namaz kıldırdı ve bir süre sonra güneş açıldı. Namaz sonrasında şöyle buyurdu: \"Güneş ve ay Allah'ın birer ayetidir. Bunlar hiçkimsenin ölümü dolayısıyla tutulmaz. Siz bunların tutulduğunu görürseniz tekrar açılana kadar namaz kılın ve dua edin!\" Nebi Sallallahu Aleyhi ve Sellem'in, İbrahim adındaki oğlu vefat edince insanlar güneş tutulmasının bu yüzden meydana geldiğini söylemişlerdi. İşte Resulullah Sallallahu Aleyhi ve Sellem bu sözleri duyunca namaz sonunda böyle söylemişti.\" باب: الركعة الأولى في الكسوف أطول. 18. Güneş Tutulması Namazının İlk Rekatı Daha Uzun Olur"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 16,
+        "hadith": 22
+      },
+      "narrator": {
+        "en": "Abu Bakra"
+      }
+    },
+    {
+      "hadithNumber": 1064,
+      "arabicNumber": 1064,
+      "book": 16,
+      "hadithInBook": 23,
+      "text": {
+        "arabic": "حَدَّثَنَا مَحْمُودٌ، قَالَ حَدَّثَنَا أَبُو أَحْمَدَ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ يَحْيَى، عَنْ عَمْرَةَ، عَنْ عَائِشَةَ ـ رضى الله عنها أَنَّ النَّبِيَّ صلى الله عليه وسلم صَلَّى بِهِمْ فِي كُسُوفِ الشَّمْسِ أَرْبَعَ رَكَعَاتٍ فِي سَجْدَتَيْنِ، الأَوَّلُ الأَوَّلُ أَطْوَلُ‏.‏",
+        "translations": {
+          "en": "Narrated Aisha:The Prophet (ﷺ) led us and performed four bowing in two rak`at during the solar eclipse and the first rak`a was longer",
+          "ur": "ہم سے محمود بن غیلان نے بیان کیا، انہوں نے کہا کہ ہم سے ابواحمد محمد بن عبداللہ زبیری نے بیان کیا، انہوں نے کہا ہم سے سفیان ثوری نے بیان کیا، ان سے یحییٰ بن سعید انصاری نے، ان سے عمرہ نے، ان سے عائشہ رضی اللہ عنہا نے کہ نبی کریم صلی اللہ علیہ وسلم نے سورج گرہن کی دو رکعتوں میں چار رکوع کئے اور پہلی رکعت دوسری رکعت سے لمبی تھی۔",
+          "fr": "Rapporté par Aisha : Le Prophète (ﷺ) nous a dirigés et a fait quatre inclinaisons dans deux rak`at lors de l’éclipse solaire, et la première rak`a a été plus longue",
+          "id": "Telah menceritakan kepada kami [Mahmud bin Ghoilan] berkata, telah menceritakan kepada kami [Abu Ahmad] berkata, telah menceritakan kepada kami [Sufyan] dari [Yahya] dari ['Amrah] dari ['Aisyah radliallahu 'anha] bahwa Nabi shallallahu 'alaihi wasallam shalat bersama mereka (para sahabat) ketika terjadi gerhana matahari dengan empat ruku' dalam dua kali sujud, dan rakaat yang pertama lebih panjang",
+          "tr": "Aişe Nebi Sallallahu Aleyhi ve Sellem'in kendilerine güneş tutulması dolayısıyla dört rekat namaz kıldırdığını ve bu namazda her bir rekatın bir sonraki rekata göre daha uzun olduğunu nakletmiştir"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 16,
+        "hadith": 23
+      },
+      "narrator": {
+        "en": "Aisha"
+      }
+    },
+    {
+      "hadithNumber": 1066,
+      "arabicNumber": 1066,
+      "book": 16,
+      "hadithInBook": 24,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ مِهْرَانَ، قَالَ حَدَّثَنَا الْوَلِيدُ، قَالَ أَخْبَرَنَا ابْنُ نَمِرٍ، سَمِعَ ابْنَ شِهَابٍ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ جَهَرَ النَّبِيُّ صلى الله عليه وسلم فِي صَلاَةِ الْخُسُوفِ بِقِرَاءَتِهِ، فَإِذَا فَرَغَ مِنْ قِرَاءَتِهِ كَبَّرَ فَرَكَعَ، وَإِذَا رَفَعَ مِنَ الرَّكْعَةِ قَالَ سَمِعَ اللَّهُ لِمَنْ حَمِدَهُ، رَبَّنَا وَلَكَ الْحَمْدُ‏.‏ ثُمَّ يُعَاوِدُ الْقِرَاءَةَ فِي صَلاَةِ الْكُسُوفِ، أَرْبَعَ رَكَعَاتٍ فِي رَكْعَتَيْنِ وَأَرْبَعَ سَجَدَاتٍ‏.‏ وَقَالَ الأَوْزَاعِيُّ وَغَيْرُهُ سَمِعْتُ الزُّهْرِيَّ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ أَنَّ الشَّمْسَ، خَسَفَتْ عَلَى عَهْدِ رَسُولِ اللَّهِ صلى الله عليه وسلم فَبَعَثَ مُنَادِيًا بِالصَّلاَةُ جَامِعَةٌ، فَتَقَدَّمَ فَصَلَّى أَرْبَعَ رَكَعَاتٍ فِي رَكْعَتَيْنِ وَأَرْبَعَ سَجَدَاتٍ‏.‏ وَأَخْبَرَنِي عَبْدُ الرَّحْمَنِ بْنُ نَمِرٍ سَمِعَ ابْنَ شِهَابٍ مِثْلَهُ‏.‏ قَالَ الزُّهْرِيُّ فَقُلْتُ مَا صَنَعَ أَخُوكَ ذَلِكَ، عَبْدُ اللَّهِ بْنُ الزُّبَيْرِ مَا صَلَّى إِلاَّ رَكْعَتَيْنِ مِثْلَ الصُّبْحِ إِذْ صَلَّى بِالْمَدِينَةِ‏.‏ قَالَ أَجَلْ، إِنَّهُ أَخْطَأَ السُّنَّةَ‏.‏ تَابَعَهُ سُفْيَانُ بْنُ حُسَيْنٍ وَسُلَيْمَانُ بْنُ كَثِيرٍ عَنِ الزُّهْرِيِّ فِي الْجَهْرِ‏.‏",
+        "translations": {
+          "en": "Narrated `Aisha:The Prophet (ﷺ) recited (the Qur'an) aloud during the eclipse prayer and when he had finished the eclipse prayer he said the Takbir and bowed. When he stood straight from bowing he would say \"Sami 'allahu liman hamidah Rabbana wa laka l-hamd.\" And he would again start reciting. In the eclipse prayer there are four bowing and four prostrations in two rak`at. Al-Auza'i and others said that they had heard Az-Zuhri from 'Urwa from `Aisha saying, \"In the lifetime of Allah's Messenger (ﷺ) the sun eclipsed, and he made a person to announce: 'Prayer in congregation.' He led the prayer and performed four bowing and four prostrations in two rak`at.\" Narrated Al-Walid that `Abdur-Rahman bin Namir had informed him that he had heard the same. Ibn Shihab heard the same. Az-Zuhri said, \"I asked ('Urwa), 'What did your brother `Abdullah bin Az-Zubair do? He prayed two rak`at (of the eclipse prayer) like the morning prayer, when he offered the (eclipse) prayer in Medina.' 'Urwa replied that he had missed (i.e. did not pray according to) the Prophet's tradition.\" Sulaiman bin Kathir and Sufyan bin Husain narrated from Az-Zuhri that the prayer for the eclipse used to be offered with loud recitation",
+          "fr": "Rapporté par `Aisha : Le Prophète (ﷺ) récitait le Coran à voix haute pendant la prière de l’éclipse et, quand il terminait, il disait le Takbir et s’inclinait. Quand il se redressait après l’inclinaison, il disait : « Sami' allahu liman hamidah Rabbana wa laka l-hamd. » Puis il recommençait à réciter. Dans la prière de l’éclipse, il y a quatre inclinaisons et quatre prosternations en deux rak`at. Al-Auza'i et d’autres ont dit qu’ils avaient entendu Az-Zuhri, de 'Urwa, de `Aisha, dire : « Du vivant du Messager d’Allah (ﷺ), le soleil s’est éclipsé, et il a demandé à quelqu’un d’annoncer : ‘Prière en groupe.’ Il a dirigé la prière et a fait quatre inclinaisons et quatre prosternations en deux rak`at. » Al-Walid a rapporté que `Abdur-Rahman bin Namir lui avait dit avoir entendu la même chose. Ibn Shihab a entendu la même chose. Az-Zuhri a dit : « J’ai demandé à ('Urwa) : ‘Qu’a fait ton frère `Abdullah bin Az-Zubair ?’ Il a prié deux rak`at (de la prière de l’éclipse) comme la prière du matin, quand il a accompli la prière de l’éclipse à Médine.’ ‘Urwa a répondu qu’il n’avait pas suivi la tradition du Prophète. » Sulaiman bin Kathir et Sufyan bin Husain ont rapporté d’Az-Zuhri que la prière de l’éclipse se faisait à voix haute",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Mihran] berkata, telah menceritakan kepada kami [Al Walid bin Muslim] berkata, telah mengabarkan kepada kami [Ibnu Namir], dia mendengar [Ibnu Syihab] dari ['Urwah] dari ['Aisyah radliallahu 'anha]: \"Nabi shallallahu 'alaihi wasallam mengeraskan bacaan dalam shalat gerhana. Jika selesai dari bacaan Beliau membaca takbir kemudian ruku'. Jika mengangkat kepalanya dari ruku' Beliau membaca \"sami'allahu liman hamidah Rabbanaa lakal hamd\". Kemudian Beliau mengulang bacaannya dalam shalat gerhana dengan empat kali ruku' dalam dua raka'at dan empat kali sujud\". Berkata, [Al Awza'iy] dan selainnya aku mendengar [Az Zuhriy] dari ['Urwah] dari ['Aisyah radliallahu 'anha] bahwa pernah terjadi gerhana matahari pada zaman Rasulullah shallallahu 'alaihi wasallam, maka Beliau mengutus seorang mu'adzin untuk menyerukan \"Ashalaatul Jaami'ah\". Maka kemudian Beliau maju dan shalat dengan empat kali ruku' dalam dua raka'at dan empat kali sujud\". Dan telah mengabarkan kepada saya ['Abdurrahman bin Namir] bahwasanya dia mendengar [Ibnu Syihab] seperti ini. Berkata, [Az Zuhriy]; Aku bertanya: \"Apa alasan saudaramu 'Abdullah bin Az Zubair yang tidak melaksanakan shalat (gerhana) kecuali dengan dua raka'at seperti shalat Shubuh ketika shalat di Madinah?\" Dia menjawab: \"Benar begitu adanya dan itu adalah menyalahi sunnah\". Riwayat ini juga diikuti oleh [Sufyan bin Husain], [Sulaiman bin Katsir] dari [Az Zuhri] dalam (shalat) jahar (shalat yang bacaan alfatihah dan surat sesudahnya dibaca terang)",
+          "tr": "Aişe (r.anha)'dan nakledilmiştir: \"Resulullah Sallallahu Aleyhi ve Sellem güneş tutulması dolayısıyla kıldırdığı namazda Kur'an'ı açıktan okumuştu. Kıraat bitince tekbir getirip rükuya vardı. Rükudan kalkarken (Semi'allahu limen hamideh; Rabbena, ve lekel hamd) dedi. Sonra yine kıraate başlayarak dört rüku ve dört secde ile iki rekatlık namazı tamamladı"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 16,
+        "hadith": 24
+      },
+      "narrator": {
+        "en": "`Aisha"
+      }
+    }
+  ],
+  "metadata": {
+    "averageLength": "long",
+    "size": "22KB"
+  }
+}

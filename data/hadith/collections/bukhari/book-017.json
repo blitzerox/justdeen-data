@@ -1,0 +1,345 @@
+{
+  "collection": "bukhari",
+  "book": 17,
+  "name": {
+    "arabic": "كتاب Prostration During Recital of Qur'an",
+    "transliteration": "prostration during recital of qur'an",
+    "translation": "Prostration During Recital of Qur'an"
+  },
+  "totalHadith": 13,
+  "hadithNumberRange": {
+    "first": 1067,
+    "last": 1079
+  },
+  "content": [
+    {
+      "hadithNumber": 1067,
+      "arabicNumber": 1067,
+      "book": 17,
+      "hadithInBook": 1,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، قَالَ حَدَّثَنَا غُنْدَرٌ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ أَبِي إِسْحَاقَ، قَالَ سَمِعْتُ الأَسْوَدَ، عَنْ عَبْدِ اللَّهِ ـ رضى الله عنه ـ قَالَ قَرَأَ النَّبِيُّ صلى الله عليه وسلم النَّجْمَ بِمَكَّةَ فَسَجَدَ فِيهَا، وَسَجَدَ مَنْ مَعَهُ، غَيْرَ شَيْخٍ أَخَذَ كَفًّا مِنْ حَصًى أَوْ تُرَابٍ فَرَفَعَهُ إِلَى جَبْهَتِهِ وَقَالَ يَكْفِينِي هَذَا‏.‏ فَرَأَيْتُهُ بَعْدَ ذَلِكَ قُتِلَ كَافِرًا‏.‏",
+        "translations": {
+          "en": "Narrated `Abdullah bin Mas`ud:The Prophet (ﷺ) recited Surat an-Najm (53) at Mecca and prostrated while reciting it and those who were with him did the same except an old man who took a handful of small stones or earth and lifted it to his forehead and said, \"This is sufficient for me.\" Later on, I saw him killed as a non-believer",
+          "ur": "ہم سے محمد بن بشار نے بیان کیا، کہا کہ ہم سے غندر محمد بن جعفر نے بیان کیا کہا کہ ہم سے شعبہ نے بیان کیا اور ان سے ابواسحاق نے انہوں نے کہا کہ میں نے اسود سے سنا انہوں نے عبداللہ بن مسعود رضی اللہ عنہ سے کہ مکہ میں نبی کریم صلی اللہ علیہ وسلم نے سورۃ النجم کی تلاوت کی اور سجدہ تلاوت کیا آپ صلی اللہ علیہ وسلم کے پاس جتنے آدمی تھے ( مسلمان اور کافر ) ان سب نے بھی آپ صلی اللہ علیہ وسلم کے ساتھ سجدہ کیا البتہ ایک بوڑھا شخص ( امیہ بن خلف ) اپنے ہاتھ میں کنکری یا مٹی اٹھا کر اپنی پیشانی تک لے گیا اور کہا میرے لیے یہی کافی ہے میں نے دیکھا کہ بعد میں وہ بوڑھا حالت کفر میں ہی مارا گیا۔",
+          "fr": "Rapporté par `Abdullah bin Mas`ud : Le Prophète (ﷺ) a récité la sourate An-Najm (53) à La Mecque et s’est prosterné en la récitant, et ceux qui étaient avec lui ont fait de même, sauf un vieil homme qui a pris une poignée de petits cailloux ou de terre, l’a portée à son front et a dit : « Cela me suffit. » Plus tard, je l’ai vu mourir en non-croyant",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Basysyar] berkata, telah menceritakan kepada kami [Ghundar] berkata, telah menceritakan kepada kami [Syu'bah] dari [Abu Ishaq] berkata; aku mendengar [Al Aswad] dari ['Abdullah radliallahu 'anhu] berkata: \"Nabi shallallahu 'alaihi wasallam membaca surah An-Najm ketika berada di Makkah. Maka Beliau sujud tilawah begitu juga orang-orang yang bersama Beliau. Kecuali ada seorang yang tua, dia hanya mengambil segenggam kerikil atau tanah lalu menempelkannya pada mukanya seraya berkata; \"bagiku cukup begini\". Di kemudian hari aku melihat orang itu terbunuh dalam kekafiran",
+          "tr": "Abdullah (İbn Mes'ud radiyallahu anh)'dan nakledilmiştir: \"Nebi Sallallahu Aleyhi ve Sellem Necm suresini Mekke'de iken okuyup secde edince orada bulunanlar da onunla birlikte secde etti. Fakat sadece yaşlı bir adam secdeye varmadı. Bu adam yerden bir avuç çakıl veya toprak alıp alnına kadar kaldırdı ve: Böyle yapmak bana yeter dedi. Ben o adam'ı daha sonra gördüm; o inkarcı bir kafir olarak öldürüldü. Tekrar: 1070, 3853, 3972, 4863. باب: سجدة {تنزيل} السجدة. 2. Secde Süresindeki Secde"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 17,
+        "hadith": 1
+      },
+      "narrator": {
+        "en": "`Abdullah bin Mas`ud"
+      }
+    },
+    {
+      "hadithNumber": 1068,
+      "arabicNumber": 1068,
+      "book": 17,
+      "hadithInBook": 2,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ يُوسُفَ، حَدَّثَنَا سُفْيَانُ، عَنْ سَعْدِ بْنِ إِبْرَاهِيمَ، عَنْ عَبْدِ الرَّحْمَنِ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ قَالَ كَانَ النَّبِيُّ صلى الله عليه وسلم يَقْرَأُ فِي الْجُمُعَةِ فِي صَلاَةِ الْفَجْرِ ‏{‏الم * تَنْزِيلُ‏}‏ السَّجْدَةَ وَ‏{‏هَلْ أَتَى عَلَى الإِنْسَانِ‏}‏",
+        "translations": {
+          "en": "Narrated Abu Huraira:On Fridays the Prophet (ﷺ) used to recite Alif Lam Mim Tanzil-As-Sajda (in the first rak`a) and Hal ata `alal-insani i.e. Surat ad-Dahr (LXXVI) (in the second rak`a), in the Fajr prayer",
+          "ur": "ہم سے محمد بن یوسف فریابی نے بیان کیا، انہوں نے کہا کہ ہم سے سفیان ثوری نے بیان کیا، انہوں نے سعد بن ابراہیم بن عبدالرحمٰن بن عوف سے بیان کیا، ان سے عبدالرحمٰن بن ہرمز اعرج نے، ان سے ابوہریرہ رضی اللہ عنہ نے کہ نبی کریم صلی اللہ علیہ وسلم جمعہ کے دن فجر کی نماز میں «الم تنزيل‏ السجدة» اور «هل أتى على الإنسان‏» ( سورۃ دھر ) پڑھا کرتے تھے۔",
+          "fr": "Rapporté par Abu Huraira : Le vendredi, le Prophète (ﷺ) récitait « Alif Lam Mim Tanzil-As-Sajda » (dans la première rak`a) et « Hal ata `alal-insani », c’est-à-dire la sourate Ad-Dahr (LXXVI) (dans la deuxième rak`a), pendant la prière de l’aube",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Yusuf] telah menceritakan kepada kami [Sufyan] dari [Sa'ad bin Ibrahim] dari ['Abdurrahman] dari [Abu Hurairah radliallahu 'anhu] berkata: \"Nabi shallallahu 'alaihi wasallam membaca pada shalat Shubuh hari Jum'at surah As-Sajadah dan Al Insan",
+          "tr": "Ebu Hureyre'nin şöyle dediği nakledilmiştir: \"Nebi Sallallahu Aleyhi ve Sellem Cum'a günleri sabah namazlarında Secde ve Dehr surelerini okurdu"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 17,
+        "hadith": 2
+      },
+      "narrator": {
+        "en": "Abu Huraira"
+      }
+    },
+    {
+      "hadithNumber": 1069,
+      "arabicNumber": 1069,
+      "book": 17,
+      "hadithInBook": 3,
+      "text": {
+        "arabic": "حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ، وَأَبُو النُّعْمَانِ، قَالاَ حَدَّثَنَا حَمَّادٌ، عَنْ أَيُّوبَ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ قَالَ ‏{‏ص‏}‏ لَيْسَ مِنْ عَزَائِمِ السُّجُودِ، وَقَدْ رَأَيْتُ النَّبِيَّ صلى الله عليه وسلم يَسْجُدُ فِيهَا‏.‏",
+        "translations": {
+          "en": "Narrated Ibn `Abbas:The prostration of Sa`d is not a compulsory one but I saw the Prophet (ﷺ) prostrating while reciting it",
+          "ur": "ہم سے سلیمان بن حرب اور ابوالنعمان بن فضل نے بیان کیا، ان دونوں نے کہا کہ ہم سے حماد بن زید نے بیان کیا، ان سے ایوب نے بیان کیا، ان سے عکرمہ نے بیان کیا اور ان سے عبداللہ بن عباس رضی اللہ عنہما نے فرمایا کہ سورۃ ص کا سجدہ کچھ تاکیدی سجدوں میں سے نہیں ہے اور میں نے نبی کریم صلی اللہ علیہ وسلم کو سجدہ کرتے ہوئے دیکھا۔",
+          "fr": "Rapporté par Ibn `Abbas : La prosternation de Sa`d n’est pas obligatoire, mais j’ai vu le Prophète (ﷺ) se prosterner en la récitant",
+          "id": "Telah menceritakan kepada kami [Sulaiman bin Harb] dan [Abu an-Nu'man] keduanya berkata,, telah menceritakan kepada kami [Hammad bin Zaid] dari [Ayyub] dari ['Ikrimah] dari [Ibnu 'Abbas radliallahu 'anhuma] berkata: Pada surat Shad tidak ada kewajiban untuk sujud tilawah, namun aku melihat Nabi shallallahu 'alaihi wasallam melaksanakan sujud ketika membacanya",
+          "tr": "İbn Abbas (r.a.)'ın şöyle dediği nakledilmiştir: \"Sad suresi mutlaka yapılması gereken secdelerden (azaimü's-sücud) birini içermez. Ancak ben Nebi Sallallahu Aleyhi ve Sellem'in bu sureyi okuduğunda secde ettiğini gördüm"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 17,
+        "hadith": 3
+      },
+      "narrator": {
+        "en": "Ibn `Abbas"
+      }
+    },
+    {
+      "hadithNumber": 1070,
+      "arabicNumber": 1070,
+      "book": 17,
+      "hadithInBook": 4,
+      "text": {
+        "arabic": "حَدَّثَنَا حَفْصُ بْنُ عُمَرَ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ أَبِي إِسْحَاقَ، عَنِ الأَسْوَدِ، عَنْ عَبْدِ اللَّهِ ـ رضى الله عنه ـ أَنَّ النَّبِيَّ صلى الله عليه وسلم قَرَأَ سُورَةَ النَّجْمِ فَسَجَدَ بِهَا، فَمَا بَقِيَ أَحَدٌ مِنَ الْقَوْمِ إِلاَّ سَجَدَ، فَأَخَذَ رَجُلٌ مِنَ الْقَوْمِ كَفًّا مِنْ حَصًى أَوْ تُرَابٍ، فَرَفَعَهُ إِلَى وَجْهِهِ وَقَالَ يَكْفِينِي هَذَا، فَلَقَدْ رَأَيْتُهُ بَعْدُ قُتِلَ كَافِرًا‏.‏",
+        "translations": {
+          "en": "Narrated `Abdullah bin Mas`ud:The Prophet (ﷺ) recited Surat-an-Najm (53) and prostrated while reciting it and all the people prostrated and a man amongst the people took a handful of stones or earth and raised it to his face and said, \"This is sufficient for me.\" Later on I saw him killed as a non-believer",
+          "ur": "ہم سے حفص بن عمر نے بیان کیا، کہا کہ ہم سے شعبہ نے، ابواسحاق سے بیان کیا، ان سے اسود نے، ان سے عبداللہ بن مسعود رضی اللہ عنہ نے کہ نبی کریم صلی اللہ علیہ وسلم نے سورۃ النجم کی تلاوت کی اور اس میں سجدہ کیا اس وقت قوم کا کوئی فرد ( مسلمان اور کافر ) بھی ایسا نہ تھا جس نے سجدہ نہ کیا ہو۔ البتہ ایک شخص ( امیہ بن خلف ) نے ہاتھ میں کنکری یا مٹی لے کر اپنے چہرہ تک اٹھائی اور کہا کہ میرے لیے یہی کافی ہے۔ عبداللہ بن مسعود رضی اللہ عنہ نے کہا کہ بعد میں میں نے دیکھا کہ وہ کفر کی حالت ہی میں قتل ہوا۔",
+          "fr": "Rapporté par `Abdullah bin Mas`ud : Le Prophète (ﷺ) a récité la sourate An-Najm (53) et s’est prosterné en la récitant, et tout le monde s’est prosterné. Un homme parmi les gens a pris une poignée de cailloux ou de terre, l’a portée à son visage et a dit : « Cela me suffit. » Plus tard, je l’ai vu mourir en non-croyant",
+          "id": "Telah menceritakan kepada kami [Hafsh bin 'Umar] berkata, telah menceritakan kepada kami [Syu'bah] dari [Abu Ishaq] dari [Al Aswad] dari ['Abdullah radliallahu 'anhu] berkata: \"Bahwa Nabi shallallahu 'alaihi wasallam membaca surah An-Najm lalu Beliau sujud dan tidak ada seorang pun dari kaum saat itu melainkan mengikuti beliau untuk sujud. Kecuali ada seseorang dari mereka yang ia hanya mengambil segenggam kerikil atau tanah lalu menempelkannya pada mukanya seraya berkata; \"bagiku cukup begini\". Berkata, 'Abdullah: Di kemudian hari aku melihat orang itu terbunuh dalam kekafiran",
+          "tr": "Abdullah İbn Mes'ud (r.a.)'den nakledilmiştir: \"Resul-i Ekrem Sallallahu Aleyhi ve Sellem Necm suresini okudu ve bu nedenle secde etti. O secde edince orada bulunan herkes secdeye vardı. Fakat sadece bir kişi yerden bir avuç çakıl veya toprak alıp yüzüne doğru kaldırarak: 'Böyle yapmak bana yeter!' dedi. Ben o adamı daha sonra gördüm; O, kafir olarak öldürüldü"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 17,
+        "hadith": 4
+      },
+      "narrator": {
+        "en": "`Abdullah bin Mas`ud"
+      }
+    },
+    {
+      "hadithNumber": 1071,
+      "arabicNumber": 1071,
+      "book": 17,
+      "hadithInBook": 5,
+      "text": {
+        "arabic": "حَدَّثَنَا مُسَدَّدٌ، قَالَ حَدَّثَنَا عَبْدُ الْوَارِثِ، قَالَ حَدَّثَنَا أَيُّوبُ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما أَنَّ النَّبِيَّ صلى الله عليه وسلم سَجَدَ بِالنَّجْمِ وَسَجَدَ مَعَهُ الْمُسْلِمُونَ وَالْمُشْرِكُونَ وَالْجِنُّ وَالإِنْسُ‏.‏ وَرَوَاهُ ابْنُ طَهْمَانَ عَنْ أَيُّوبَ‏.‏",
+        "translations": {
+          "en": "Narrated Ibn `Abbas:The Prophet (ﷺ) prostrated while reciting An-Najm and with him prostrated the Muslims, the pagans, the jinns, and all human beings",
+          "ur": "ہم سے مسدد بن مسرہد نے بیان کیا، کہا کہ ہم سے عبدالوارث نے بیان کیا، کہا ہم سے ایوب سختیانی نے بیان کیا، ان سے عکرمہ نے، ان سے ابن عباس رضی اللہ عنہما نے کہ نبی کریم صلی اللہ علیہ وسلم نے سورۃ النجم میں سجدہ کیا تو مسلمانوں، مشرکوں اور جن و انس سب نے آپ صلی اللہ علیہ وسلم کے ساتھ سجدہ کیا۔ اس حدیث کی روایت ابراہیم بن طہمان نے بھی ایوب سختیانی سے کی ہے۔",
+          "fr": "Rapporté par Ibn `Abbas : Le Prophète (ﷺ) s’est prosterné en récitant An-Najm, et avec lui se sont prosternés les musulmans, les polythéistes, les djinns et tous les êtres humains",
+          "id": "Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami ['Abdul Warits] berkata, telah menceritakan kepada kami [Ayyub] dari ['Ikrimah] dari [Ibnu 'Abbas radliallahu 'anhuma]: \"Bahwa Nabi shallallahu 'alaihi wasallam melakukan sujud tilawah ketika membaca surah An-Najm. Begitu juga ikut sujud bersama Beliau dari kalangan Kaum Muslimin, Musyrikin, bangsa jin dan manusia. Hadits ini juga diriwayatkan oleh [Ibrahim bin Thahman] dari [Ayyub]",
+          "tr": "İbn Abbas (r.a.)'den nakledilmiştir: Nebi Sallallahu Aleyhi ve Sellem Necm suresini okuduktan sonra secde etti. Onunla birlikte müslümanlar, müşrikler, cinler ve insanlar da secde etti.\" باب: من قرأ السجدة ولم يسجد. 6. Secde ayeti Okuyup Secde Etmemek"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 17,
+        "hadith": 5
+      },
+      "narrator": {
+        "en": "Ibn `Abbas"
+      }
+    },
+    {
+      "hadithNumber": 1072,
+      "arabicNumber": 1072,
+      "book": 17,
+      "hadithInBook": 6,
+      "text": {
+        "arabic": "حَدَّثَنَا سُلَيْمَانُ بْنُ دَاوُدَ أَبُو الرَّبِيعِ، قَالَ حَدَّثَنَا إِسْمَاعِيلُ بْنُ جَعْفَرٍ، قَالَ أَخْبَرَنَا يَزِيدُ بْنُ خُصَيْفَةَ، عَنِ ابْنِ قُسَيْطٍ، عَنْ عَطَاءِ بْنِ يَسَارٍ، أَنَّهُ أَخْبَرَهُ، أَنَّهُ، سَأَلَ زَيْدَ بْنَ ثَابِتٍ ـ رضى الله عنه ـ فَزَعَمَ أَنَّهُ قَرَأَ عَلَى النَّبِيِّ صلى الله عليه وسلم ‏{‏وَالنَّجْمِ‏}‏ فَلَمْ يَسْجُدْ فِيهَا‏.‏",
+        "translations": {
+          "en": "Narrated `Ata' bin Yasar:I asked Zaid bin Thabit about prostration on which he said that he had recited An-Najm before the Prophet, yet he (the Prophet) had not performed a prostration",
+          "ur": "ہم سے سلیمان بن داؤد ابوالربیع نے بیان کیا، انہوں نے کہا کہ ہم سے اسماعیل بن جعفر نے بیان کیا، کہا کہ ہمیں یزید بن خصیفہ نے خبر دی، انہیں (یزید بن عبداللہ) ابن قسیط نے، اور انہیں عطاء بن یسار نے کہ انہوں نے زید بن ثابت رضی اللہ عنہ سے سوال کیا۔ آپ نے یقین کے ساتھ اس امر کا اظہار کیا کہ نبی کریم صلی اللہ علیہ وسلم کے سامنے سورۃ النجم کی تلاوت آپ نے کی تھی اور نبی کریم صلی اللہ علیہ وسلم نے اس میں سجدہ نہیں کیا۔",
+          "fr": "Rapporté par `Ata' bin Yasar : J’ai demandé à Zaid bin Thabit au sujet de la prosternation, et il a dit qu’il avait récité An-Najm devant le Prophète, mais que celui-ci n’avait pas fait de prosternation",
+          "id": "Telah menceritakan kepada kami [Sulaiman bin Daud Abu Ar-Rabi'] berkata, telah menceritakan kepada kami [Isma'il bin Ja'far] berkata, telah mengabarkan kepada kami [Yazid bin Khushaifah] dari [Ibnu Qusaith] dari ['Atho' bin Basar] bahwa dia mengabarkannya, bahwa dia pernah bertanya kepada [Zaid bin Tsabit radliallahu 'anhu] (tentang sujud tilawah pada surah An-Najm). Maka dia menceritakan bahwa dia pernah membaca surah An-Najm untuk Nabi shallallahu 'alaihi wasallam namun Beliau tidak melakukan sujud tilawah padanya",
+          "tr": "İbn Kusayt, Ata İbn Yesar'ın kendisine şu bilgiyi naklettiğini söylemiştir: \"Ben, Zeyd İbn Sabit'e (Necm süresindeki secdeyi) sordum; bana kendisinin Nebi Sallallahu Aleyhi ve Sellem'e secde ayetini okuduğunu fakat Resulullah Sallallahu Aleyhi ve Sellem'in secde etmediğini söyledi"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 17,
+        "hadith": 6
+      },
+      "narrator": {
+        "en": "`Ata' bin Yasar"
+      }
+    },
+    {
+      "hadithNumber": 1073,
+      "arabicNumber": 1073,
+      "book": 17,
+      "hadithInBook": 7,
+      "text": {
+        "arabic": "حَدَّثَنَا آدَمُ بْنُ أَبِي إِيَاسٍ، قَالَ حَدَّثَنَا ابْنُ أَبِي ذِئْبٍ، قَالَ حَدَّثَنَا يَزِيدُ بْنُ عَبْدِ اللَّهِ بْنِ قُسَيْطٍ، عَنْ عَطَاءِ بْنِ يَسَارٍ، عَنْ زَيْدِ بْنِ ثَابِتٍ، قَالَ قَرَأْتُ عَلَى النَّبِيِّ صلى الله عليه وسلم ‏{‏وَالنَّجْمِ‏}‏ فَلَمْ يَسْجُدْ فِيهَا‏.‏",
+        "translations": {
+          "en": "Narrated Zaid bin Thabit:I recited An-Najm before the Prophet, yet he did not perform a prostration",
+          "ur": "ہم سے آدم بن ابی ایاس نے بیان کیا، کہا کہ ہم سے ابن ابی ذئب نے بیان کیا، کہا کہ ہم سے یزید بن عبداللہ بن قسیط نے بیان کیا، ان سے عطاء بن یسار نے، ان سے زید بن ثابت رضی اللہ عنہ نے کہا کہ میں نے رسول اللہ صلی اللہ علیہ وسلم کے سامنے سورۃ النجم کی تلاوت کی اور آپ صلی اللہ علیہ وسلم نے اس میں سجدہ نہیں کیا۔",
+          "fr": "Rapporté par Zaid bin Thabit : J’ai récité An-Najm devant le Prophète, mais il n’a pas fait de prosternation",
+          "id": "Telah menceritakan kepada kami [Adam bin Abu Iyas] berkata, telah menceritakan kepada kami [Ibnu Abu Dza'bi] berkata, telah menceritakan kepada kami [Yazid bin 'Abdullah bin Qusaith] dari ['Atho' bin Basar] dari [Zaid bin Tsabit radliallahu 'anhu] berkata: \"Aku pernah membaca surah An-Najm untuk Nabi shallallahu 'alaihi wasallam dan Beliau tidak melakukan sujud tilawah padanya",
+          "tr": "Zeyd İbn Sabit şöyle demiştir: \"Resulullah Sallallahu Aleyhi ve Sellem'e Necm suresini okudum fakat secde etmedi"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 17,
+        "hadith": 7
+      },
+      "narrator": {
+        "en": "Zaid bin Thabit"
+      }
+    },
+    {
+      "hadithNumber": 1074,
+      "arabicNumber": 1074,
+      "book": 17,
+      "hadithInBook": 8,
+      "text": {
+        "arabic": "حَدَّثَنَا مُسْلِمٌ، وَمُعَاذُ بْنُ فَضَالَةَ، قَالاَ أَخْبَرَنَا هِشَامٌ، عَنْ يَحْيَى، عَنْ أَبِي سَلَمَةَ، قَالَ رَأَيْتُ أَبَا هُرَيْرَةَ ـ رضى الله عنه ـ قَرَأَ ‏{‏إِذَا السَّمَاءُ انْشَقَّتْ‏}‏ فَسَجَدَ بِهَا فَقُلْتُ يَا أَبَا هُرَيْرَةَ، أَلَمْ أَرَكَ تَسْجُدُ قَالَ لَوْ لَمْ أَرَ النَّبِيَّ صلى الله عليه وسلم يَسْجُدُ لَمْ أَسْجُدْ‏.‏",
+        "translations": {
+          "en": "Narrated Abu Salama:I saw Abu Huraira reciting Idha-Sama' un-Shaqqat and he prostrated during its recitation. I asked Abu Huraira, \"Didn't I see you prostrating?\" Abu Huraira said, \"Had I not seen the Prophet (ﷺ) prostrating, I would not have prostrated",
+          "ur": "ہم سے مسلم بن ابراہیم اور معاذ بن فضالہ نے بیان کیا، انہوں نے کہا کہ ہم سے ہشام بن ابی عبداللہ دستوائی نے بیان کیا، ان سے یحییٰ بن ابی کثیر نے، ان سے ابوسلمہ نے کہا کہ میں نے ابوہریرہ رضی اللہ عنہ کو سورۃ «إذا السماء انشقت‏» پڑھتے دیکھا۔ آپ نے اس میں سجدہ کیا میں نے کہا کہ اے ابوہریرہ! کیا میں نے آپ کو سجدہ کرتے ہوئے نہیں دیکھا ہے۔ آپ نے کہا کہ اگر میں نبی کریم صلی اللہ علیہ وسلم کو سجدہ کرتے نہ دیکھتا تو میں بھی نہ کرتا۔",
+          "fr": "Rapporté par Abu Salma : J’ai vu Abu Huraira réciter « Idha-Sama' un-Shaqqat » et il s’est prosterné pendant sa récitation. Je lui ai demandé : « Ne t’ai-je pas vu te prosterner ? » Abu Huraira a dit : « Si je n’avais pas vu le Prophète (ﷺ) se prosterner, je ne me serais pas prosterné. »",
+          "id": "Telah menceritakan kepada kami [Muslim bin Ibrahim] dan [Mu'adz bin Fadhalah] keduanya berkata, telah mengabarkan kepada kami [Hisyam] dari [Yahya] dari [Abu Salamah] berkata; \"Aku melihat [Abu Hurairah radliallahu 'anhu] membaca idzas samaa-unsyaqqat (QS Al Insyiqaq) lalu dia sujud tilawah. Kemudian aku bertanya kepadanya: \"Wahai Abu Hurairah mengapa anda melakukan sujud?\" Maka dia menjawab: \"Seandainya aku tidak melihat Nabi shallallahu 'alaihi wasallam sujud, tentu aku tidak akan sujud",
+          "tr": "Ebu Seleme (r.a.)'in şöyle dediği nakledilmiştir: Ebu Hureyre (r.a.)'in İnşikak suresini okuyup secde ettiğini gördüm. Kendisine, şaşkınlıkla niçin secde ettiğini sorunca bana şu cevabı verdi: \"Resul-i Ekrem Sallallahu Aleyhi ve Sellem'in secde ettiğini görmeseydim ben de secde etmezdim.\" باب: منن سجد لسجود القارىء. 8. Secde ayetini Okuyan Secde Ettiğinde, Onu Dinleyenin De Secde Etmesi -وقال ابن مسعود لتميم بن حذلم، وهو غلام، فقرأ عليه سجدة، فقال: اسجد، فإنك إمامنا فيها. İbn Mes'ud, o sıralarda daha küçük olan Temîm İbn Hazlem'e Kur'an okumasını emretti. Temîm de bir secde ayeti okuyunca İbn Mes'ud ona: \"Haydi secde et, bu secdede sen bizim imamımızsın\" dedi"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 17,
+        "hadith": 8
+      },
+      "narrator": {
+        "en": "Abu Salama"
+      }
+    },
+    {
+      "hadithNumber": 1075,
+      "arabicNumber": 1075,
+      "book": 17,
+      "hadithInBook": 9,
+      "text": {
+        "arabic": "حَدَّثَنَا مُسَدَّدٌ، قَالَ حَدَّثَنَا يَحْيَى، عَنْ عُبَيْدِ اللَّهِ، قَالَ حَدَّثَنِي نَافِعٌ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ قَالَ كَانَ النَّبِيُّ صلى الله عليه وسلم يَقْرَأُ عَلَيْنَا السُّورَةَ فِيهَا السَّجْدَةُ، فَيَسْجُدُ وَنَسْجُدُ، حَتَّى مَا يَجِدُ أَحَدُنَا مَوْضِعَ جَبْهَتِهِ‏.‏",
+        "translations": {
+          "en": "Narrated Ibn `Umar:When the Prophet (ﷺ) recited a Sura that contained the prostration he would prostrate and we would do the same and some of us (because of the heavy rush) could not find a place for prostration",
+          "ur": "ہم سے مسدد بن مسرہد نے بیان کیا، کہا کہ ہم سے یحییٰ بن سعید قطان نے بیان کیا، کہا کہ ہم سے عبیداللہ عمری نے بیان کیا کہا کہ ہم سے نافع نے بیان کیا ان سے ابن عمر رضی اللہ عنہما نے کہا کہ نبی کریم صلی اللہ علیہ وسلم ہماری موجودگی میں آیت سجدہ پڑھتے اور سجدہ کرتے تو ہم بھی آپ صلی اللہ علیہ وسلم کے ساتھ ( ہجوم کی وجہ سے ) اس طرح سجدہ کرتے کہ پیشانی رکھنے کی جگہ بھی نہ ملتی جس پر سجدہ کرتے۔",
+          "fr": "Rapporté par Ibn `Umar : Quand le Prophète (ﷺ) récitait une sourate contenant une prosternation, il se prosternait et nous faisions de même, et certains d’entre nous (à cause de la foule) ne trouvaient pas de place pour se prosterner",
+          "id": "Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Yahya] telah menceritakan kepada kami ['Ubaidullah] berkata, telah menceritakan kepada saya [Nafi'] dari [Ibnu 'Umar radliallahu 'anhuma] berkata; \"Nabi shallallahu 'alaihi wasallam pernah membacakan untuk kami satu surat yang berisi ayat sajadah. Kemudian Beliau sujud. Lalu kami pun sujud hingga ada seorang diantara kami yang tidak mendapatkan tempat untuk meletakkan keningnya",
+          "tr": "İbn Ömer (r.a.)'in şöyle dediği nakledilmiştir: \"Nebi Sallallahu Aleyhi ve Sellem bize içinde secde ayeti bulunan bir sure okuduktan sonra secde ederdi ve biz de bunun üzerine secdeye varırdık. Hatta kalabalık dolayısıyla alnımızı koyacak yer bulamazdık"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 17,
+        "hadith": 9
+      },
+      "narrator": {
+        "en": "Ibn `Umar"
+      }
+    },
+    {
+      "hadithNumber": 1076,
+      "arabicNumber": 1076,
+      "book": 17,
+      "hadithInBook": 10,
+      "text": {
+        "arabic": "حَدَّثَنَا بِشْرُ بْنُ آدَمَ، قَالَ حَدَّثَنَا عَلِيُّ بْنُ مُسْهِرٍ، قَالَ أَخْبَرَنَا عُبَيْدُ اللَّهِ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، قَالَ كَانَ النَّبِيُّ صلى الله عليه وسلم يَقْرَأُ السَّجْدَةَ وَنَحْنُ عِنْدَهُ فَيَسْجُدُ وَنَسْجُدُ مَعَهُ فَنَزْدَحِمُ حَتَّى مَا يَجِدُ أَحَدُنَا لِجَبْهَتِهِ مَوْضِعًا يَسْجُدُ عَلَيْهِ‏.‏",
+        "translations": {
+          "en": "Narrated Ibn `Umar:When the Prophet (ﷺ) recited Surat As-Sajda and we were with him, he would prostrate and we also would prostrate with him and some of us (because of the heavy rush) would not find a place (for our foreheads) to prostrate on",
+          "ur": "ہم سے بشر بن آدم نے بیان کیا، کہا کہ ہم سے علی بن مسہر نے بیان کیا، کہا کہ ہمیں عبیداللہ عمری نے خبر دی، انہیں نافع نے اور نافع کو ابن عمر رضی اللہ عنہما نے کہ نبی کریم صلی اللہ علیہ وسلم آیت سجدہ کی تلاوت اگر ہماری موجودگی میں کرتے تو آپ صلی اللہ علیہ وسلم کے ساتھ ہم بھی سجدہ کرتے تھے۔ اس وقت اتنا اژدھام ہو جاتا کہ سجدہ کے لیے پیشانی رکھنے کی جگہ نہ ملتی جس پر سجدہ کرنے والا سجدہ کر سکے۔",
+          "fr": "Rapporté par Ibn `Umar : Quand le Prophète (ﷺ) récitait la sourate As-Sajda et que nous étions avec lui, il se prosternait et nous nous prosternions aussi avec lui, et certains d’entre nous (à cause de la foule) ne trouvaient pas de place (pour poser leur front) pour se prosterner",
+          "id": "Telah menceritakan kepada kami [Bisyir bin Adam] berkata, telah menceritakan kepada kami ['Ali bin Mushir] berkata, telah mengabarkan kepada kami ['Ubaidullah] dari [Nafi'] dari [Ibnu 'Umar radliallahu 'anhuma] berkata; \"Nabi shallallahu 'alaihi wasallam pernah membaca ayat sajadah. Saat itu kami sedang berkumpul bersama Beliau. Maka Beliau pun sujud. Lalu kami pun sujud bersama Beliau dengan berebut berdesakan, hingga ada seorang diantara kami yang tidak mendapatkan tempat untuk keningnya untuk bersujud",
+          "tr": "İbn Ömer (r.a.)'in şöyle dediği nakledilmiştir: \"Nebi Sallallahu Aleyhi ve Sellem biz kendisinin yanında iken secde ayeti okuduktan sonra secde ederdi ve biz de bunun üzerine secdeye varırdık. Hatta kalabalık dolayısıyla alnımızı koyacak yer bulamazdık"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 17,
+        "hadith": 10
+      },
+      "narrator": {
+        "en": "Ibn `Umar"
+      }
+    },
+    {
+      "hadithNumber": 1077,
+      "arabicNumber": 1077,
+      "book": 17,
+      "hadithInBook": 11,
+      "text": {
+        "arabic": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ مُوسَى، قَالَ أَخْبَرَنَا هِشَامُ بْنُ يُوسُفَ، أَنَّ ابْنَ جُرَيْجٍ، أَخْبَرَهُمْ قَالَ أَخْبَرَنِي أَبُو بَكْرِ بْنُ أَبِي مُلَيْكَةَ، عَنْ عُثْمَانَ بْنِ عَبْدِ الرَّحْمَنِ التَّيْمِيِّ، عَنْ رَبِيعَةَ بْنِ عَبْدِ اللَّهِ بْنِ الْهُدَيْرِ التَّيْمِيِّ ـ قَالَ أَبُو بَكْرٍ وَكَانَ رَبِيعَةُ مِنْ خِيَارِ النَّاسِ عَمَّا حَضَرَ رَبِيعَةُ مِنْ عُمَرَ بْنِ الْخَطَّابِ ـ رضى الله عنه ـ قَرَأَ يَوْمَ الْجُمُعَةِ عَلَى الْمِنْبَرِ بِسُورَةِ النَّحْلِ حَتَّى إِذَا جَاءَ السَّجْدَةَ نَزَلَ فَسَجَدَ وَسَجَدَ النَّاسُ، حَتَّى إِذَا كَانَتِ الْجُمُعَةُ الْقَابِلَةُ قَرَأَ بِهَا حَتَّى إِذَا جَاءَ السَّجْدَةَ قَالَ يَا أَيُّهَا النَّاسُ إِنَّا نَمُرُّ بِالسُّجُودِ فَمَنْ سَجَدَ فَقَدْ أَصَابَ، وَمَنْ لَمْ يَسْجُدْ فَلاَ إِثْمَ عَلَيْهِ‏.‏ وَلَمْ يَسْجُدْ عُمَرُ ـ رضى الله عنه‏.‏ وَزَادَ نَافِعٌ عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما إِنَّ اللَّهَ لَمْ يَفْرِضِ السُّجُودَ إِلاَّ أَنْ نَشَاءَ‏.‏",
+        "translations": {
+          "en": "Narrated Rabi`a:`Umar bin Al-Khattab recited Surat-an-Nahl on a Friday on the pulpit and when he reached the verse of Sajda he got down from the pulpit and prostrated and the people also prostrated. The next Friday `Umar bin Al-Khattab recited the same Sura and when he reached the verse of Sajda he said, \"O people! When we recite the verses of Sajda (during the sermon) whoever prostrates does the right thing, yet it is no sin for the one who does not prostrate.\" And `Umar did not prostrate (that day). Added Ibn `Umar \"Allah has not made the prostration of recitation compulsory but if we wish we can do it",
+          "ur": "ہم سے ابراہیم بن موسیٰ نے بیان کیا، انہوں نے کہا کہ ہمیں ہشام بن یوسف نے خبر دی اور انہیں ابن جریج نے خبر دی، انہوں نے کہا کہ مجھے ابوبکر بن ابی ملیکہ نے خبر دی، انہیں عثمان بن عبدالرحمٰن تیمی نے اور انہیں ربیعہ بن عبداللہ بن ہدیر تیمی نے کہا۔۔۔ ابوبکر بن ابی ملیکہ نے بیان کیا کہ ربیعہ بہت اچھے لوگوں میں سے تھے ربیعہ نے وہ حال بیان کیا جو عمر بن خطاب رضی اللہ عنہ کی مجلس میں انہوں نے دیکھا۔ عمر رضی اللہ عنہ نے جمعہ کے دن منبر پر سورۃ النحل پڑھی جب سجدہ کی آیت ( «‏‏‏‏ولله يسجد ما في السمٰوٰت» ‏‏‏‏ ) آخر تک پہنچے تو منبر پر سے اترے اور سجدہ کیا تو لوگوں نے بھی ان کے ساتھ سجدہ کیا۔ دوسرے جمعہ کو پھر یہی سورت پڑھی جب سجدہ کی آیت پر پہنچے تو کہنے لگے لوگو! ہم سجدہ کی آیت پڑھتے چلے جاتے ہیں پھر جو کوئی سجدہ کرے اس نے اچھا کیا اور جو کوئی نہ کرے تو اس پر کچھ گناہ نہیں اور عمر رضی اللہ عنہ نے سجدہ نہیں کیا اور نافع نے عبداللہ بن عمر رضی اللہ عنہما سے نقل کیا کہ اللہ تعالیٰ نے سجدہ تلاوت فرض نہیں کیا ہماری خوشی پر رکھا۔",
+          "fr": "Rapporté par Rabi`a : `Umar bin Al-Khattab a récité la sourate An-Nahl un vendredi sur le minbar et, arrivé au verset de la prosternation, il est descendu du minbar et s’est prosterné, et les gens aussi. Le vendredi suivant, `Umar bin Al-Khattab a récité la même sourate et, arrivé au verset de la prosternation, il a dit : « Ô gens ! Quand nous récitons les versets de prosternation (pendant le sermon), celui qui se prosterne fait bien, mais il n’y a pas de péché pour celui qui ne se prosterne pas. » Et ce jour-là, `Umar ne s’est pas prosterné. Ibn `Umar a ajouté : « Allah n’a pas rendu la prosternation de récitation obligatoire, mais si nous voulons, nous pouvons la faire. »",
+          "id": "Telah menceritakan kepada kami [Ibrahim bin Musa] berkata, telah mengabarkan kepada kami [Hisyam bin Yusuf] bahwa [Ibnu Juraij] mengabarkan mereka katanya telah mengabarkan kepada saya [Abu Bakar bin Abu Mulaikah] dari ['Utsman bin 'Abdurrahman At-Taimiy] dari [Rabi'ah bin 'Abdullah Al Hudair At-Taimiy]. Berkata, Abu Bakar; \"Rabi'ah adalah orang yang paling baik dalam mengisahkan segala hal yang berasal dari majelis ['Umar bin Al Khaththob radliallahu 'anhu], saat hari Jum'at, 'Umar bin Al Khaththab radliallahu 'anhu membaca surah An-Nahl dari atas mimbar hingga ketika sampai pada ayat sajadah, dia turun dari mimbar lalu melakukan sujud tilawah. Maka orang-orang pun turut melakukan sujud. Kemudian pada waktu shalat Jum'at berikutnya dia membaca surat yang sama hingga ketika sampai pada ayat sajadah dia berkata: \"Wahai sekalian manusia, kita telah membaca dan melewati ayat sajadah. Maka barangsiapa yang sujud, benarlah dia. Namun yang tidak melakukan sujud tidak ada dosa baginya. Dan 'Umar bin Al Khaththab radliallahu 'anhu tidak melakukan sujud\". [Nafi'] menambahkan dari [Ibnu 'Umar radliallahu 'anhuma]: \"Allah subhanahu wata'ala tidaklah mewajibkan sujud tilawah. Kecuali siapa yang mau silakan melakukannya",
+          "tr": "Rebîa İbn Abdullah İbnü'l-Hudeyr et-Teymî - Bu zat hakkında Ebu Bekir, o insanların en hayırlılarından biridir, demiştir - Ömer ile birlikte bulunduğu anlardan birini şöyle anlatmıştır: \"Ömer (r.a.) bir Cum'a günü minberde iken Nahl suresini okuyordu. Secde ayetine gelince indi ve secde etti. Bunun üzerine orada bulunan cemaat de secde etti. Diğer Cuma geldiğinde yine Nahl suresini okudu ve secde ayetine gelince cemaate: 'Ey insanlar, biz secde ayetlerini zaman zaman okuruz. Kim bu durumda secde ederse şüphesiz doğru davranmış olur. Fakat secde etmeyenler için de bir günah yoktur' diye seslendi ve secde de etmedi.\" Nafi'in İbn Ömer'den naklettiğine göre Ömer (r.a.) ayrıca şöyle demiştir: \"Allah Teala bize secde etmeyi farz kılmadı. Ancak dilediğimizde secde ederiz"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 17,
+        "hadith": 11
+      },
+      "narrator": {
+        "en": "Rabi`a"
+      }
+    },
+    {
+      "hadithNumber": 1078,
+      "arabicNumber": 1078,
+      "book": 17,
+      "hadithInBook": 12,
+      "text": {
+        "arabic": "حَدَّثَنَا مُسَدَّدٌ، قَالَ حَدَّثَنَا مُعْتَمِرٌ، قَالَ سَمِعْتُ أَبِي قَالَ، حَدَّثَنِي بَكْرٌ، عَنْ أَبِي رَافِعٍ، قَالَ صَلَّيْتُ مَعَ أَبِي هُرَيْرَةَ الْعَتَمَةَ فَقَرَأَ ‏{‏إِذَا السَّمَاءُ انْشَقَّتْ‏}‏ فَسَجَدَ فَقُلْتُ مَا هَذِهِ قَالَ سَجَدْتُ بِهَا خَلْفَ أَبِي الْقَاسِمِ صلى الله عليه وسلم فَلاَ أَزَالُ أَسْجُدُ فِيهَا حَتَّى أَلْقَاهُ‏.‏",
+        "translations": {
+          "en": "Narrated Abu Rafi`:I offered the `Isha' prayer behind Abu Huraira and he recited Idhas-Sama' Un-Shaqqat, and prostrated. I said, \"What is this?\" Abu Huraira said, \"I prostrated behind Abul-Qasim and I will do the same till I meet him",
+          "ur": "ہم سے مسدد بن مسرہد نے بیان کیا، کہا کہ ہم سے معتمر بن سلیمان نے بیان کیا، کہا کہ میں نے اپنے باپ سے سنا کہا کہ ہم سے بکر بن عبداللہ مزنی نے بیان کیا، ان سے ابورافع نے کہا کہ میں نے ابوہریرہ رضی اللہ عنہ کے ساتھ نماز عشاء پڑھی۔ آپ نے «إذا السماء انشقت‏» کی تلاوت کی اور سجدہ کیا۔ میں نے عرض کیا کہ آپ نے یہ کیا کیا؟ انہوں نے اس کا جواب دیا کہ میں نے اس میں ابوالقاسم صلی اللہ علیہ وسلم کی اقتداء میں سجدہ کیا تھا اور ہمیشہ سجدہ کرتا ہوں گا تاآنکہ آپ صلی اللہ علیہ وسلم سے جا ملوں۔",
+          "fr": "Rapporté par Abu Rafi` : J’ai accompli la prière de ‘Isha derrière Abu Huraira et il a récité la sourate \"Idhas-Sama' Un-Shaqqat\", puis il s’est prosterné. J’ai demandé : « Qu’est-ce que c’est ? » Abu Huraira a répondu : « Je me suis prosterné derrière Abul-Qasim et je continuerai à le faire jusqu’à ce que je le retrouve. »",
+          "id": "Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Mu'tamir] berkata; aku mendengar [bapakku] berkata, telah menceritakan kepada saya [Bakar] dari [Abu Rafi'] berkata: \"Aku pernah shalat 'Atmah ('Isya di penghujung malam) bersama [Abu Hurairah radliallahu 'anhu]. Dia membaca idzas samaa-unsyaqqat (QS Al Insyiqaq) lalu dia sujud tilawah. Kemudian aku bertanya kepadanya: \"Mengapa anda melakukan ini?\" Maka dia menjawab: \"Aku pernah sujud di belakang Abul Qasim shallallahu 'alaihi wasallam. Dan senantiasa aku melakukan sujud ketika membacanya sampai akhir hayatku",
+          "tr": "Ebu Rafi (r.a.)'in şöyle dediği nakledilmiştir: Ebu Hureyre ile birlikte yatsı namazı kılmıştım; İnşikak suresini okumuş ve secde etmişti. Ben kendisine şaşkınlık İçinde: \"Bu secde de neyin nesi?!\" diye sorunca şu cevabı verdi: \"Ben bu ayet dolayısıyla Ebü'l-Kasım'ın Sallallahu Aleyhi ve Sellem arkasında da secde ettim. O'na kavuşacağım gün'e kadar da secde etmeye devam edeceğim"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 17,
+        "hadith": 12
+      },
+      "narrator": {
+        "en": "Abu Rafi`"
+      }
+    },
+    {
+      "hadithNumber": 1079,
+      "arabicNumber": 1079,
+      "book": 17,
+      "hadithInBook": 13,
+      "text": {
+        "arabic": "حَدَّثَنَا صَدَقَةُ، قَالَ أَخْبَرَنَا يَحْيَى، عَنْ عُبَيْدِ اللَّهِ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ قَالَ كَانَ النَّبِيُّ صلى الله عليه وسلم يَقْرَأُ السُّورَةَ الَّتِي فِيهَا السَّجْدَةُ فَيَسْجُدُ وَنَسْجُدُ حَتَّى مَا يَجِدُ أَحَدُنَا مَكَانًا لِمَوْضِعِ جَبْهَتِهِ‏.‏",
+        "translations": {
+          "en": "Narrated Ibn `Umar.:Whenever the Prophet (ﷺ) recited the Sura which contained the prostration of recitation he used to prostrate and then we too, would prostrate and some of us did not find a place for prostration",
+          "ur": "ہم سے صدقہ بن فضل نے بیان کیا، ان سے یحییٰ بن سعیدقطان نے بیان کیا، ان سے عبیداللہ نے، ان سے نافع نے، اور ان سے ابن عمر رضی اللہ عنہما نے کہ نبی کریم صلی اللہ علیہ وسلم کسی ایسی سورۃ کی تلاوت کرتے جس میں سجدہ ہوتا پھر آپ صلی اللہ علیہ وسلم سجدہ کرتے اور ہم بھی آپ صلی اللہ علیہ وسلم کے ساتھ سجدہ کرتے یہاں تک کہ ہم میں کسی کو اپنی پیشانی رکھنے کی جگہ نہ ملتی۔ ( معلوم ہوا کہ ایسی حالت میں سجدہ نہ کیا جائے تو کوئی حرج نہیں ہے ) «والله أعلم» ۔",
+          "fr": "Rapporté par Ibn `Umar : Chaque fois que le Prophète ﷺ récitait une sourate contenant un verset de prosternation, il se prosternait et nous faisions de même, au point que certains d’entre nous ne trouvaient même pas de place pour se prosterner",
+          "id": "Telah menceritakan kepada kami [Shadaqah bin Al Fadhal] berkata, telah mengabarkan kepada kami [Yahya bin Sa'id] dari ['Ubaidullah] dari [Nafi'] dari [Ibnu 'Umar radliallahu 'anhuma] berkata; \"Nabi shallallahu 'alaihi wasallam pernah membaca satu surat yang berisi ayat sajadah. Kemudian Beliau sujud. Lalu kami pun sujud bersama Beliau, hingga ada seorang diantara kami yang tidak mendapatkan tempat untuk meletakkan keningnya",
+          "tr": "İbn Ömer (r.a.)'in şöyle dediği nakledilmiştir: \"Nebi Sallallahu Aleyhi ve Sellem içinde secde ayeti bulunan bir sure okuduktan sonra secde ederdi ve biz de bunun üzerine secdeye varırdık. Hatta kalabalık dolayısıyla alnımızı koyacak yer bulamazdık"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 17,
+        "hadith": 13
+      },
+      "narrator": {
+        "en": "Ibn `Umar."
+      }
+    }
+  ],
+  "metadata": {
+    "averageLength": "medium",
+    "size": "7KB"
+  }
+}

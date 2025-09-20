@@ -1,0 +1,188 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2025-09-20T10:30:00Z",
+  "repository": "https://github.com/yourusername/justdeen-data",
+  "cdn": {
+    "baseUrl": "https://cdn.jsdelivr.net/gh/yourusername/justdeen-data@main/",
+    "alternativeUrl": "https://raw.githubusercontent.com/yourusername/justdeen-data/main/"
+  },
+  "content": {
+    "quran": {
+      "available": true,
+      "totalChapters": 114,
+      "totalVerses": 6236,
+      "languages": {
+        "arabic": {
+          "code": "ar",
+          "name": "Arabic",
+          "native": "العربية",
+          "available": true,
+          "type": "original"
+        },
+        "translations": {
+          "en": {
+            "code": "en",
+            "name": "English",
+            "native": "English",
+            "editions": [
+              {
+                "id": "en.sahih",
+                "name": "Sahih International",
+                "type": "translation"
+              }
+            ]
+          }
+        }
+      },
+      "endpoints": {
+        "index": "data/quran/index.json",
+        "chapters": "data/quran/chapters/{chapter}.json",
+        "chapterPattern": "001-114"
+      }
+    },
+    "hadith": {
+      "available": true,
+      "totalCollections": 6,
+      "totalHadith": 34532,
+      "collections": [
+        "bukhari",
+        "muslim",
+        "abudawud",
+        "tirmidhi",
+        "nasai",
+        "majah"
+      ],
+      "languages": {
+        "arabic": {
+          "code": "ar",
+          "name": "Arabic",
+          "native": "العربية",
+          "available": true,
+          "type": "original"
+        },
+        "translations": {
+          "en": {
+            "code": "en",
+            "name": "English",
+            "native": "English",
+            "available": true
+          },
+          "ur": {
+            "code": "ur",
+            "name": "Urdu",
+            "native": "اردو",
+            "available": true
+          },
+          "fr": {
+            "code": "fr",
+            "name": "French",
+            "native": "Français",
+            "available": true,
+            "exceptions": ["tirmidhi"]
+          },
+          "id": {
+            "code": "id",
+            "name": "Indonesian",
+            "native": "Bahasa Indonesia",
+            "available": true
+          },
+          "tr": {
+            "code": "tr",
+            "name": "Turkish",
+            "native": "Türkçe",
+            "available": true
+          }
+        }
+      },
+      "endpoints": {
+        "index": "data/hadith/index.json",
+        "collection": "data/hadith/collections/{collection}/collection.json",
+        "book": "data/hadith/collections/{collection}/book-{number}.json",
+        "bookPattern": "001-999"
+      }
+    },
+    "duas": {
+      "available": true,
+      "totalCategories": 5,
+      "totalDuas": 97,
+      "categories": [
+        "daily",
+        "morning",
+        "evening",
+        "prayer",
+        "essential"
+      ],
+      "languages": {
+        "arabic": {
+          "code": "ar",
+          "name": "Arabic",
+          "native": "العربية",
+          "available": true,
+          "type": "original"
+        },
+        "translations": {
+          "en": {
+            "code": "en",
+            "name": "English",
+            "native": "English",
+            "available": true
+          }
+        },
+        "transliterations": {
+          "en": {
+            "code": "en",
+            "name": "English",
+            "available": true
+          }
+        }
+      },
+      "endpoints": {
+        "index": "data/duas/index.json",
+        "category": "data/duas/categories/{category}.json"
+      }
+    },
+    "tafsir": {
+      "available": false,
+      "comingSoon": true,
+      "plannedLanguages": ["en", "ar", "ur"],
+      "endpoints": {
+        "index": "data/tafsir/index.json",
+        "chapter": "data/tafsir/{edition}/{chapter}.json"
+      }
+    }
+  },
+  "features": {
+    "compression": {
+      "gzip": true,
+      "estimatedReduction": "65%"
+    },
+    "caching": {
+      "recommended": true,
+      "ttl": {
+        "metadata": 86400,
+        "content": 604800
+      }
+    },
+    "offline": {
+      "supported": true,
+      "priorityLoading": true
+    }
+  },
+  "api": {
+    "rateLimit": "None (CDN)",
+    "authentication": "Not required",
+    "cors": "Enabled",
+    "ssl": true
+  },
+  "contribution": {
+    "guidelines": "CONTRIBUTING.md",
+    "newLanguages": {
+      "instructions": "See README.md#adding-languages",
+      "requiredFiles": [
+        "Translation files in source format",
+        "Language metadata update",
+        "Validation against schema"
+      ]
+    }
+  }
+}

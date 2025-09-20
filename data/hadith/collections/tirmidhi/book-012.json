@@ -1,0 +1,1082 @@
+{
+  "collection": "tirmidhi",
+  "book": 12,
+  "name": {
+    "arabic": "كتاب The Book on Suckling",
+    "transliteration": "the book on suckling",
+    "translation": "The Book on Suckling"
+  },
+  "totalHadith": 29,
+  "hadithNumberRange": {
+    "first": 1146,
+    "last": 1174
+  },
+  "content": [
+    {
+      "hadithNumber": 1146,
+      "arabicNumber": 1146,
+      "book": 12,
+      "hadithInBook": 1,
+      "text": {
+        "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ مَنِيعٍ، حَدَّثَنَا إِسْمَاعِيلُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا عَلِيُّ بْنُ زَيْدٍ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، عَنْ عَلِيِّ بْنِ أَبِي طَالِبٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ إِنَّ اللَّهَ حَرَّمَ مِنَ الرَّضَاعِ مَا حَرَّمَ مِنَ النَّسَبِ ‏\"‏ ‏.‏ قَالَ وَفِي الْبَابِ عَنْ عَائِشَةَ وَابْنِ عَبَّاسٍ وَأُمِّ حَبِيبَةَ ‏.‏ قَالَ أَبُو عِيسَى حَدِيثُ عَلِيٍّ حَسَنٌ صَحِيحٌ ‏.‏",
+        "translations": {
+          "en": "Ali (bin Abi Talib) narrated that The Messenger of Allah said:“Indeed Allah has made unlawful through suckling whatever He made unlawful through lineage.”",
+          "ur": "علی بن ابی طالب رضی الله عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”اللہ تعالیٰ نے رضاعت سے بھی وہ سارے رشتے حرام کر دئیے ہیں جو نسب سے حرام ہیں“ ۱؎۔ امام ترمذی کہتے ہیں: ۱- علی کی حدیث حسن صحیح ہے، ۲- اس باب میں عائشہ، ابن عباس اور ام حبیبہ رضی الله عنہم سے بھی احادیث آئی ہیں، ۳- صحابہ کرام وغیرہم میں سے اہل علم کا اسی پر عمل ہے۔ اس سلسلے میں ہم ان کے درمیان اس بارے میں کوئی اختلاف نہیں جانتے۔",
+          "id": "Telah menceritakan kepada kami [Ahmad bin Mani'], telah menceritakan kepada kami [Isma'il bin Ibrahim], telah menceritakan kepada kami [Ali bin Zaid] dari [Sa'id bin Musayyab] dari [Ali bin Abu Thalib] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Allah mengharamkan dari jalur persusuan sebagaimana pengharaman jalur nasab.\" Abu Isa berkata; \"Hadits semakna diriwayatkan dari 'Aisyah, Ibnu Abbas dan Ummu Habibah.\" Dia berkata; \"Hadits Ali merupakan hadits hasan sahih",
+          "tr": "Ali b. ebî Tâlib (r.a.)’den rivâyete göre, şöyle demiştir: Rasulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: “Allah neseb yönünden haram kıldığını süt emme yönünden de aynen haram kılmıştır.” Diğer tahric: Nesâî, Nikah; İbn Mâce: Nikah"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 12,
+        "hadith": 1
+      }
+    },
+    {
+      "hadithNumber": 1147,
+      "arabicNumber": 1147,
+      "book": 12,
+      "hadithInBook": 2,
+      "text": {
+        "arabic": "حَدَّثَنَا بُنْدَارٌ، حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ الْقَطَّانُ، حَدَّثَنَا مَالِكٌ، ح وَحَدَّثَنَا إِسْحَاقُ بْنُ مُوسَى الأَنْصَارِيُّ، قَالَ حَدَّثَنَا مَعْنٌ، قَالَ حَدَّثَنَا مَالِكٌ، عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ، عَنْ سُلَيْمَانَ بْنِ يَسَارٍ، عَنْ عُرْوَةَ بْنِ الزُّبَيْرِ، عَنْ عَائِشَةَ، قَالَتْ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ إِنَّ اللَّهَ حَرَّمَ مِنَ الرَّضَاعَةِ مَا حَرَّمَ مِنَ الْوِلاَدَةِ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏ وَالْعَمَلُ عَلَى هَذَا عِنْدَ أَهْلِ الْعِلْمِ مِنْ أَصْحَابِ النَّبِيِّ صلى الله عليه وسلم وَغَيْرِهِمْ لاَ نَعْلَمُ بَيْنَهُمْ فِي ذَلِكَ اخْتِلاَفًا ‏.‏",
+        "translations": {
+          "en": "Aishah narrated that the Messenger of Allah said:“Indeed Allah has made unlawful through suckling whatever He made unlawful through birth.”",
+          "ur": "ام المؤمنین عائشہ رضی الله عنہا کہتی ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”اللہ نے رضاعت سے بھی وہ تمام رشتے حرام قرار دے دیئے ہیں جو ولادت ( نسب ) سے حرام ہیں“۔ امام ترمذی کہتے ہیں: ۱- یہ حدیث حسن صحیح ہے، ۲- صحابہ وغیرہم میں سے اہل علم کا اسی پر عمل ہے۔ ہمیں نہیں معلوم کہ ان کے درمیان اس بارے میں کوئی اختلاف ہے۔",
+          "id": "Telah menceritakan kepada kami [Bundar], telah menceritakan kepada kami [Yahya bin Sa'id Al Qathan], telah menceritakan kepada kami [Malik] diganti dengan jalur riwayat: telah menceritakan kepada kami [Ishaq bin Musa Al Anshari] berkata; telah menceritakan kepada kami [Ma'an] berkata; Telah menceritakan kepada kami [Malik] dari [Abdullah bin Dinar] dari [Sulaiman bin Yasar] dari ['Urwah bin Zubair] dari [Aisyah] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Allah telah mengharamkan pada hubungan persusuan sebagaimana pengharaman hubungan anak (nasab).\" Abu Isa berkata; \"Ini merupakan hadits hasan sahih. ini merupakan pendapat para ulama dari kalangan sahabat Nabi shallallahu 'alaihi wasallam dan yang lainnya. Kami tidak mengetahui adanya perbedaan pendapat di antara mereka"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 12,
+        "hadith": 2
+      }
+    },
+    {
+      "hadithNumber": 1148,
+      "arabicNumber": 1148,
+      "book": 12,
+      "hadithInBook": 3,
+      "text": {
+        "arabic": "حَدَّثَنَا الْحَسَنُ بْنُ عَلِيٍّ الْخَلاَّلُ، حَدَّثَنَا ابْنُ نُمَيْرٍ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، قَالَتْ جَاءَ عَمِّي مِنَ الرَّضَاعَةِ يَسْتَأْذِنُ عَلَىَّ فَأَبَيْتُ أَنْ آذَنَ لَهُ حَتَّى أَسْتَأْمِرَ رَسُولَ اللَّهِ صلى الله عليه وسلم فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ فَلْيَلِجْ عَلَيْكِ فَإِنَّهُ عَمُّكِ ‏\"‏ ‏.‏ قَالَتْ إِنَّمَا أَرْضَعَتْنِي الْمَرْأَةُ وَلَمْ يُرْضِعْنِي الرَّجُلُ ‏.‏ قَالَ ‏\"‏ فَإِنَّهُ عَمُّكِ فَلْيَلِجْ عَلَيْكِ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏ وَالْعَمَلُ عَلَى هَذَا عِنْدَ بَعْضِ أَهْلِ الْعِلْمِ مِنْ أَصْحَابِ النَّبِيِّ صلى الله عليه وسلم وَغَيْرِهِمْ كَرِهُوا لَبَنَ الْفَحْلِ وَالأَصْلُ فِي هَذَا حَدِيثُ عَائِشَةَ وَقَدْ رَخَّصَ بَعْضُ أَهْلِ الْعِلْمِ فِي لَبَنِ الْفَحْلِ وَالْقَوْلُ الأَوَّلُ أَصَحُّ ‏.‏",
+        "translations": {
+          "en": "Aishah narrated:“My uncle through suckling came and asked permission (to enter) but I refused to admit him until I asked the Messenger of Allah. So the Messenger of Allah said: “Let him in since he is your uncle.’” She said: “It is only the woman who suckled me; I was not suckled by the man.’ So he said: ‘Indeed he is your uncle, so let him in.’”",
+          "ur": "ام المؤمنین عائشہ رضی الله عنہا کہتی ہیں کہ میرے رضاعی چچا آئے، وہ مجھ سے اندر آنے کی اجازت مانگ رہے تھے، تو میں نے انہیں اجازت دینے سے انکار کیا یہاں تک کہ میں رسول اللہ صلی اللہ علیہ وسلم سے اجازت لے لوں، تو رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”وہ تیرے پاس آ سکتے ہیں کیونکہ وہ تیرے چچا ہیں“، اس پر انہوں نے عرض کیا: مجھے عورت نے دودھ پلایا ہے، مرد نے نہیں، تو آپ نے فرمایا: ”تیرے چچا ہیں، وہ تیرے پاس آ سکتے ہیں“ ۱؎۔ امام ترمذی کہتے ہیں: ۱- یہ حدیث حسن صحیح ہے، ۲- صحابہ کرام وغیرہم میں سے بعض اہل علم کا اسی پر عمل ہے انہوں نے «لبن فحل» ( مرد کے دودھ ) کو حرام کہا ہے۔ اس باب میں اصل عائشہ کی حدیث ہے، ۳- اور بعض اہل علم نے «لبن فحل» ( مرد کے دودھ ) کی رخصت دی ہے۔ پہلا قول زیادہ صحیح ہے۔",
+          "id": "Telah menceritakan kepada kami [Al Hasan bin Ali bin Al Khallal], telah menceritakan kepada kami [Ibnu Numair] dari [Hisyam bin 'Urwah] dari [Bapaknya] dari [Aisyah] berkata; \"Paman sepersusuanku datang meminta izin kepadaku, tapi saya menolaknya. Saya meminta pendapat Rasulullah shallallahu 'alaihi wasallam. Beliau bersabda: 'Persilahkan dia masuk, karena dia adalah pamanmu.\"' Aisyah berkata; \"Yang menyusuiku adalah seorang wanita bukan dia.\" Beliau menjawab: \"Dia adalah pamanmu, biarkan dia.\" Abu Isa berkata; \"Ini merupakan hadits hasan sahih. Ini merupakan pendapat para ulama dari kalangan sahabat Nabi shallallahu 'alaihi wasallam dan yang lainnya. Mereka membenci susu fahl, dengan dasar hadits Aisyah tersebut. Sebagian ulama memberi keringanan pada susu fahl, namun pendapat pertama lebih sahih",
+          "tr": "Âişe (r.anha)’dan rivâyet edildiğine göre, şöyle demiştir: Süt emme yönünden amcam olan kişi gelip yanıma girmek için izin istedi. Rasûlullah (s.a.v.)’den emir almadıkça ona izin vermeyi kabul etmedim. Rasûlullah (s.a.v.), Yanına girsin o senin amcan yerindedir. Âişe dedi ki: O’nun karısı beni emzirmişti kocası değil dedi. Rasûlullah (s.a.v.)’de buyurdu ki: “O senin amcandır yanına girsin.” Diğer tahric: Buhârî, Nikah; Müslim, Rada Tirmîzî: Bu hadis hasen sahihtir. Peygamber (s.a.v.)’in ashabından ve daha sonraki dönemlerden bazı ilim adamları uygulamalarını bu hadisle yaparlar ve Lebenel Fahli (yani süt emzirmeden dolayı süt emzirenlerin kocalarını haram kılmayı) hoş görmezler. Âişe’nin hadisi bu konuda asıldır. Kimi ilim adamları da Leben-ül Fahle (yani süt emzirmeden dolayı süt emziren kadınların kocalarından korunmaları gerektiğine kanaat getirmişler) izin vermişlerdir. Birinci görüş daha sahihtir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 12,
+        "hadith": 3
+      }
+    },
+    {
+      "hadithNumber": 1149,
+      "arabicNumber": 1149,
+      "book": 12,
+      "hadithInBook": 4,
+      "text": {
+        "arabic": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا مَالِكٌ، ح وَحَدَّثَنَا الأَنْصَارِيُّ، حَدَّثَنَا مَعْنٌ، قَالَ حَدَّثَنَا مَالِكُ بْنُ أَنَسٍ، عَنِ ابْنِ شِهَابٍ، عَنْ عَمْرِو بْنِ الشَّرِيدِ، عَنِ ابْنِ عَبَّاسٍ، أَنَّهُ سُئِلَ عَنْ رَجُلٍ، لَهُ جَارِيَتَانِ أَرْضَعَتْ إِحْدَاهُمَا جَارِيَةً وَالأُخْرَى غُلاَمًا أَيَحِلُّ لِلْغُلاَمِ أَنْ يَتَزَوَّجَ بِالْجَارِيَةِ فَقَالَ لاَ اللِّقَاحُ وَاحِدٌ ‏.‏ قَالَ أَبُو عِيسَى وَهَذَا تَفْسِيرُ لَبَنِ الْفَحْلِ وَهَذَا الأَصْلُ فِي هَذَا الْبَابِ وَهُوَ قَوْلُ أَحْمَدَ وَإِسْحَاقَ ‏.‏",
+        "translations": {
+          "en": "Amr bin Ash-Shariq narrated that Ibn Abbas was asked about the case in which a man had two slave girls, one of them suckled a girl and the other suckled a boy, is it lawful for the boy to marry the girl? She said:“No, the semen is the same.”",
+          "ur": "عبداللہ بن عباس رضی الله عنہما سے روایت ہے کہ ان سے ایک ایسے شخص کے بارے میں پوچھا گیا جس کے پاس دو لونڈیاں ہوں، ان میں سے ایک نے ایک لڑکی کو دودھ پلایا ہے اور دوسری نے ایک لڑکے کو۔ تو کیا اس لڑکے کے لیے جائز ہے کہ وہ اس لڑکی سے شادی کرے۔ انہوں نے ( ابن عباس رضی الله عنہما ) نے کہا: نہیں۔ اس لیے کہ «لقاح» ایک ہی ہے ۱؎۔ امام ترمذی کہتے ہیں: یہی اس باب میں اصل ہے۔ احمد اور اسحاق بن راہویہ بھی اسی کے قائل ہیں۔",
+          "id": "Telah menceritakan kepada kami [Qutaibah], telah menceritakan kepada kami [Malik] di ganti dengan jalur: telah menceritakan kepada kami [Al Anshari], telah menceritakan kepada kami [Ma'an] berkata; telah menceritakan kepada kami [Malik] dari [Ibnu Syihab] dari ['Amr bin Syarid] dari [Ibnu Abbas] dia ditanya tentang seorang laki-laki yang memiliki dua budak wanita. Seorang dari mereka menyusui anak perempuan sedang yang lainya menyusui anak laki-laki. Apakah laki-laki itu boleh menikah dengan anak perempuan tadi? Dia menjawab; \"Tidak boleh karena air (mani) laki-lakinya satu.\" Abu Isa berkata; \"Ini adalah penjelasan susu fahl. Inilah pokok permasalahan pada bab ini. Ini adalah pendapat Ahmad dan Ishaq",
+          "tr": "İbn Abbâs (r.a.)’den rivâyete göre, iki cariyesi olan bir erkek hakkında şöyle soruldu: “Bu cariyelerden biri bir oğlan çocuğunu diğeri de bir kız çocuğunu emzirmiştir. Bu iki çocuk sonra birbirleriyle evlenebilir mi? İbn Abbâs dedi ki: “Hayır evlenmezler o iki cariye de aynı erkeğin döl suyu ile sulanmıştır dolayısıyla aşı birdir.” Tirmîzî rivâyet etmiştir. Tirmîzî: Bu konuda bu hadis esas delildir. Ahmed ve İshâk’da aynı kanaattedirler"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 12,
+        "hadith": 4
+      }
+    },
+    {
+      "hadithNumber": 1150,
+      "arabicNumber": 1150,
+      "book": 12,
+      "hadithInBook": 5,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ الأَعْلَى الصَّنْعَانِيُّ، قَالَ حَدَّثَنَا الْمُعْتَمِرُ بْنُ سُلَيْمَانَ، قَالَ سَمِعْتُ أَيُّوبَ، يُحَدِّثُ عَنْ عَبْدِ اللَّهِ بْنِ أَبِي مُلَيْكَةَ، عَنْ عَبْدِ اللَّهِ بْنِ الزُّبَيْرِ، عَنْ عَائِشَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\"‏ لاَ تُحَرِّمُ الْمَصَّةُ وَلاَ الْمَصَّتَانِ ‏\"‏ ‏.‏ قَالَ وَفِي الْبَابِ عَنْ أُمِّ الْفَضْلِ وَأَبِي هُرَيْرَةَ وَالزُّبَيْرِ بْنِ الْعَوَّامِ وَابْنِ الزُّبَيْرِ ‏.‏ وَرَوَى غَيْرُ وَاحِدٍ هَذَا الْحَدِيثَ عَنْ هِشَامِ بْنِ عُرْوَةَ عَنْ أَبِيهِ عَنْ عَبْدِ اللَّهِ بْنِ الزُّبَيْرِ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\"‏ لاَ تُحَرِّمُ الْمَصَّةُ وَلاَ الْمَصَّتَانِ ‏\"‏ ‏.‏ وَرَوَى مُحَمَّدُ بْنُ دِينَارٍ عَنْ هِشَامِ بْنِ عُرْوَةَ عَنْ أَبِيهِ عَنْ عَبْدِ اللَّهِ بْنِ الزُّبَيْرِ عَنِ الزُّبَيْرِ عَنِ النَّبِيِّ عَلَيْهِ الصَّلاَةُ وَالسَّلاَمُ ‏.‏ وَزَادَ فِيهِ مُحَمَّدُ بْنُ دِينَارٍ الْبَصْرِيُّ عَنِ الزُّبَيْرِ عَنِ النَّبِيِّ صلى الله عليه وسلم وَهُوَ غَيْرُ مَحْفُوظٍ ‏.‏ وَالصَّحِيحُ عِنْدَ أَهْلِ الْحَدِيثِ حَدِيثُ ابْنِ أَبِي مُلَيْكَةَ عَنْ عَبْدِ اللَّهِ بْنِ الزُّبَيْرِ عَنْ عَائِشَةَ عَنِ النَّبِيِّ صلى الله عليه وسلم ‏.‏ قَالَ أَبُو عِيسَى حَدِيثُ عَائِشَةَ حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏ وَسَأَلْتُ مُحَمَّدًا عَنْ هَذَا فَقَالَ الصَّحِيحُ عَنِ ابْنِ الزُّبَيْرِ عَنْ عَائِشَةَ وَحَدِيثُ مُحَمَّدِ بْنِ دِينَارٍ خَطَأٌ أَخْطَأَ فِيهِ مُحَمَّدُ بْنُ دِينَارٍ وَزَادَ فِيهِ عَنِ الزُّبَيْرِ وَإِنَّمَا هُوَ هِشَامُ بْنُ عُرْوَةَ عَنْ أَبِيهِ عَنِ الزُّبَيْرِ ‏.‏ وَالْعَمَلُ عَلَى هَذَا عِنْدَ بَعْضِ أَهْلِ الْعِلْمِ مِنْ أَصْحَابِ النَّبِيِّ صلى الله عليه وسلم وَغَيْرِهِمْ ‏.‏ وَقَالَتْ عَائِشَةُ أُنْزِلَ فِي الْقُرْآنِ عَشْرُ رَضَعَاتٍ مَعْلُومَاتٍ ‏.‏ فَنُسِخَ مِنْ ذَلِكَ خَمْسٌ وَصَارَ إِلَى خَمْسِ رَضَعَاتٍ مَعْلُومَاتٍ ‏.‏ فَتُوُفِّيَ رَسُولُ اللَّهِ صلى الله عليه وسلم وَالأَمْرُ عَلَى ذَلِكَ ‏.‏ حَدَّثَنَا بِذَلِكَ إِسْحَاقُ بْنُ مُوسَى الأَنْصَارِيُّ حَدَّثَنَا مَعْنٌ حَدَّثَنَا مَالِكٌ عَنْ عَبْدِ اللَّهِ بْنِ أَبِي بَكْرٍ عَنْ عَمْرَةَ عَنْ عَائِشَةَ بِهَذَا ‏.‏ وَبِهَذَا كَانَتْ عَائِشَةُ تُفْتِي وَبَعْضُ أَزْوَاجِ النَّبِيِّ صلى الله عليه وسلم وَهُوَ قَوْلُ الشَّافِعِيِّ وَإِسْحَاقَ ‏.‏ وَقَالَ أَحْمَدُ بِحَدِيثِ النَّبِيِّ صلى الله عليه وسلم ‏\"‏ لاَ تُحَرِّمُ الْمَصَّةُ وَلاَ الْمَصَّتَانِ ‏\"‏ ‏.‏ وَقَالَ إِنْ ذَهَبَ ذَاهِبٌ إِلَى قَوْلِ عَائِشَةَ فِي خَمْسِ رَضَعَاتٍ فَهُوَ مَذْهَبٌ قَوِيٌّ ‏.‏ وَجَبُنَ عَنْهُ أَنْ يَقُولَ فِيهِ شَيْئًا ‏.‏ وَقَالَ بَعْضُ أَهْلِ الْعِلْمِ مِنْ أَصْحَابِ النَّبِيِّ صلى الله عليه وسلم وَغَيْرِهِمْ يُحَرِّمُ قَلِيلُ الرَّضَاعِ وَكَثِيرُهُ إِذَا وَصَلَ إِلَى الْجَوْفِ ‏.‏ وَهُوَ قَوْلُ سُفْيَانَ الثَّوْرِيِّ وَمَالِكِ بْنِ أَنَسٍ وَالأَوْزَاعِيِّ وَعَبْدِ اللَّهِ بْنِ الْمُبَارَكِ وَوَكِيعٍ وَأَهْلِ الْكُوفَةِ ‏.‏ عَبْدُ اللَّهِ بْنُ أَبِي مُلَيْكَةَ هُوَ عَبْدُ اللَّهِ بْنُ عُبَيْدِ اللَّهِ بْنِ أَبِي مُلَيْكَةَ وَيُكْنَى أَبَا مُحَمَّدٍ وَكَانَ عَبْدُ اللَّهِ قَدِ اسْتَقْضَاهُ عَلَى الطَّائِفِ وَقَالَ ابْنُ جُرَيْجٍ عَنِ ابْنِ أَبِي مُلَيْكَةَ قَالَ أَدْرَكْتُ ثَلاَثِينَ مِنْ أَصْحَابِ النَّبِيِّ صلى الله عليه وسلم ‏.‏",
+        "translations": {
+          "en": "Abdullah bin Az-Zubair narrated from Aishah from the Prophet who said:“One sip or two sips do not make a prohibition.”",
+          "ur": "ام المؤمنین عائشہ رضی الله عنہا سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: ”ایک بار یا دو بار چھاتی سے دودھ چوس لینے سے حرمت رضاعت ثابت نہیں ہوتی“ ۱؎۔ امام ترمذی کہتے ہیں: ۱- عائشہ رضی الله عنہا کی حدیث حسن صحیح ہے، ۲- اس باب میں ام فضل، ابوہریرہ، زبیر بن عوام اور ابن زبیر رضی الله عنہم سے بھی احادیث آئی ہیں، ۳- اس حدیث کو دیگر کئی لوگوں نے بطریق: «هشام بن عروة عن أبيه عن عبد الله بن الزبير عن النبي صلى الله عليه وسلم» روایت کیا ہے کہ آپ نے فرمایا: ”ایک یا دو بار دودھ چوس لینے سے حرمت رضاعت ثابت نہیں ہوتی“۔ اور محمد بن دینار نے بطریق: «هشام بن عروة عن أبيه عن عبد الله بن الزبير عن الزبير عن النبي صلى الله عليه وسلم» روایت کیا ہے، اس میں محمد بن دینار بصریٰ نے زبیر کے واسطے کا اضافہ کیا ہے۔ لیکن یہ غیر محفوظ ہے، ۳- محدثین کے نزدیک صحیح ابن ابی ملیکہ کی روایت ہے جسے انہوں نے بطریق: «عبد الله بن الزبير عن عائشة عن النبي صلى الله عليه وسلم» روایت کیا ہے، ۴- میں نے محمد بن اسماعیل بخاری سے اس حدیث کے بارے میں پوچھا تو انہوں نے کہا: صحیح ابن زبیر کی روایت ہے جسے انہوں نے عائشہ سے روایت کی ہے اور محمد بن دینار کی روایت جس میں: زبیر کے واسطے کا اضافہ ہے وہ دراصل ہشام بن عروہ سے مروی ہے جسے انہوں نے اپنے والد عروہ سے اور انہوں نے زبیر سے روایت کی ہے، ۵- صحابہ کرام وغیرہم میں سے اہل علم کا اسی پر عمل ہے۔ ۶- عائشہ رضی اللہ عنہا کہتی ہیں کہ قرآن میں ( پہلے ) دس رضعات والی آیت نازل کی گئی پھر اس میں سے پانچ منسوخ کر دی گئیں تو پانچ رضاعتیں باقی رہ گئیں، اور رسول اللہ صلی اللہ علیہ وسلم کی وفات ہوئی تو معاملہ انہیں پانچ پر قائم رہا ۲؎، ۷- اور عائشہ رضی اللہ عنہا اور بعض دوسری ازواج مطہرات رضی اللہ عنہن اسی کا فتویٰ دیتی تھیں، اور یہی شافعی اور اسحاق بن راہویہ کا بھی قول ہے۔ ۸- امام احمد نبی اکرم صلی اللہ علیہ وسلم کی حدیث ”ایک بار یا دو بار کے چوسنے سے حرمت ثابت نہیں ہوتی“ کے قائل ہیں اور انہوں نے یہ بھی کہا ہے کہ اگر کوئی عائشہ رضی الله عنہا کے پانچ رضعات والے قول کی طرف جائے تو یہ قوی مذہب ہے۔ لیکن انہیں اس کا فتویٰ دینے کی ہمت نہیں ہوئی، ۹- صحابہ کرام وغیرہم میں سے بعض اہل علم کہتے ہیں کہ رضاعت تھوڑی ہو یا زیادہ جب پیٹ تک پہنچ جائے تو اس سے حرمت ثابت ہو جاتی ہے۔ یہی سفیان ثوری، مالک بن انس، اوزاعی، عبداللہ بن مبارک، وکیع اور اہل کوفہ کا قول ہے۔",
+          "tr": "Âişe diyor ki: Kur’ân’da “Belli miktarda on emiş” indirilmişti sonra bunun beşinin hükmü kaldırılarak “Belli miktarda beş emiş” çevrildi durum bu şekilde iken Rasûlüllah (sallallahü aleyhi ve sellem) vefat etti. Bu hadisi bu şekilde bize İshâk b. Mûsâ el Ensarî, Ma’n yoluyla Mâlik’den, Abdullah b. Ebû Bekir’den, Amre’den, Âişe’den rivâyet etmiştir. Peygamber (sallallahü aleyhi ve sellem)’in bazı hanımları ve Âişe böylece fetva vermişlerdir. Şâfii ve İshâk’ta bu görüştedir. b. Hanbel: “Bir veya iki emmek haramlık meydana getirmez” hadisiyle uygulama yapar ve der ki: Her kim Âişe’nin “Belli miktarda beş emiş” hadisindeki sözüne uyarsa o görüş sağlamdır diyor ve bu konuda bir şeyler söylemeye cesaret edemiyor. (sallallahü aleyhi ve sellem)’in ashabından ve daha sonraki dönemlerden bazı ilim adamları; “Mideye inen azda olsa çok da olsa haram kılar” demektedirler. Sûfyân es Sevrî, Mâlik b. enes, Evzâî, Abdullah b. Mübarek, Vekî’ ve Küfeliler bu görüştedirler. b. ebî Müleyke; Abdullah b. Ubeydullah b. ebî Müleyke’dir. Künyesi Ebû Muhammed’dir. Abdullah, Taif’te kadılık yapmıştır. Cüreyc, İbn ebî Müleyke’nin şöyle söylediğini bize aktarır: “Rasûlüllah (sallallahü aleyhi ve sellem)’in ashabından otuz kadar kimseyle görüştüm.”"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 12,
+        "hadith": 5
+      }
+    },
+    {
+      "hadithNumber": 1151,
+      "arabicNumber": 1151,
+      "book": 12,
+      "hadithInBook": 6,
+      "text": {
+        "arabic": "حَدَّثَنَا عَلِيُّ بْنُ حُجْرٍ، حَدَّثَنَا إِسْمَاعِيلُ بْنُ إِبْرَاهِيمَ، عَنْ أَيُّوبَ، عَنْ عَبْدِ اللَّهِ بْنِ أَبِي مُلَيْكَةَ، قَالَ حَدَّثَنِي عُبَيْدُ بْنُ أَبِي مَرْيَمَ، عَنْ عُقْبَةَ بْنِ الْحَارِثِ، قَالَ وَسَمِعْتُهُ مِنْ، عُقْبَةَ وَلَكِنِّي لِحَدِيثِ عُبَيْدٍ أَحْفَظُ قَالَ تَزَوَّجْتُ امْرَأَةً فَجَاءَتْنَا امْرَأَةٌ سَوْدَاءُ فَقَالَتْ إِنِّي قَدْ أَرْضَعْتُكُمَا ‏.‏ فَأَتَيْتُ النَّبِيَّ صلى الله عليه وسلم فَقُلْتُ تَزَوَّجْتُ فُلاَنَةَ بِنْتَ فُلاَنٍ فَجَاءَتْنَا امْرَأَةٌ سَوْدَاءُ فَقَالَتْ إِنِّي قَدْ أَرْضَعْتُكُمَا وَهِيَ كَاذِبَةٌ ‏.‏ قَالَ فَأَعْرَضَ عَنِّي ‏.‏ قَالَ فَأَتَيْتُهُ مِنْ قِبَلِ وَجْهِهِ فَأَعْرَضَ عَنِّي بِوَجْهِهِ فَقُلْتُ إِنَّهَا كَاذِبَةٌ ‏.‏ قَالَ ‏\"‏ وَكَيْفَ بِهَا وَقَدْ زَعَمَتْ أَنَّهَا قَدْ أَرْضَعَتْكُمَا دَعْهَا عَنْكَ ‏\"‏ ‏.‏ قَالَ وَفِي الْبَابِ عَنِ ابْنِ عُمَرَ ‏.‏ قَالَ أَبُو عِيسَى حَدِيثُ عُقْبَةَ بْنِ الْحَارِثِ حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏ وَقَدْ رَوَى غَيْرُ وَاحِدٍ هَذَا الْحَدِيثَ عَنِ ابْنِ أَبِي مُلَيْكَةَ عَنْ عُقْبَةَ بْنِ الْحَارِثِ وَلَمْ يَذْكُرُوا فِيهِ عَنْ عُبَيْدِ بْنِ أَبِي مَرْيَمَ وَلَمْ يَذْكُرُوا فِيهِ ‏\"‏ دَعْهَا عَنْكَ ‏\"‏ ‏.‏ وَالْعَمَلُ عَلَى هَذَا الْحَدِيثِ عِنْدَ بَعْضِ أَهْلِ الْعِلْمِ مِنْ أَصْحَابِ النَّبِيِّ صلى الله عليه وسلم وَغَيْرِهِمْ أَجَازُوا شَهَادَةَ الْمَرْأَةِ الْوَاحِدَةِ فِي الرَّضَاعِ ‏.‏ وَقَالَ ابْنُ عَبَّاسٍ تَجُوزُ شَهَادَةُ امْرَأَةٍ وَاحِدَةٍ فِي الرَّضَاعِ وَيُؤْخَذُ يَمِينُهَا ‏.‏ وَبِهِ يَقُولُ أَحْمَدُ وَإِسْحَاقُ ‏.‏ وَقَدْ قَالَ بَعْضُ أَهْلِ الْعِلْمِ لاَ تَجُوزُ شَهَادَةُ الْمَرْأَةِ الْوَاحِدَةِ حَتَّى يَكُونَ أَكْثَرَ ‏.‏ وَهُوَ قَوْلُ الشَّافِعِيِّ ‏.‏ سَمِعْتُ الْجَارُودَ يَقُولُ سَمِعْتُ وَكِيعًا يَقُولُ لاَ تَجُوزُ شَهَادَةُ امْرَأَةٍ وَاحِدَةٍ فِي الْحُكْمِ وَيُفَارِقُهَا فِي الْوَرَعِ ‏.‏",
+        "translations": {
+          "en": "Abdullah bin Abi Mulaikah narrated:“Ubaid bin Abi Maryam narrated to me from Uqbah bin Al-Harith” and, he (Abdullah bin Abi Mulaikah) said: “And I heard it from Uqbah bin Al-Harith, but to me, the narration of Ubaid is better preserved; he said: (Uqbah bin Al-Harith narrated: ) “I married a woman, then a black woman came to us and she said: ‘I suckled both of you.’ So I went to the Prophet and said: ‘I married so-and-so the daughter of so-and-so, then a black women came to us, and said: “I suckled both of you” but she is a liar.’” He said: “Then he (pbuh) turned away from me.” He said: “So I went around to face him (and he (pbuh) turned his face away from me) so I said: ‘She is a liar.’ He said: ‘How can you stay with her while she claims that she suckled both of you? Leave her.’”",
+          "ur": "عقبہ بن حارث رضی الله عنہ کہتے ہیں کہ نے ایک عورت سے شادی کی تو ایک کالی کلوٹی عورت نے ہمارے پاس آ کر کہا: میں نے تم دونوں کو دودھ پلایا ہے، میں نے نبی اکرم صلی اللہ علیہ وسلم کے پاس آ کر عرض کیا کہ میں نے فلاں کی بیٹی فلاں سے شادی کی ہے، اب ایک کالی کلوٹی عورت نے آ کر کہا کہ میں نے تم دونوں کو دودھ پلایا ہے، وہ جھوٹ کہہ رہی ہے۔ آپ نے اپنا چہرہ مجھ سے پھیر لیا تو میں آپ کے چہرے کی طرف سے آیا، آپ نے ( پھر ) اپنا چہرہ پھیر لیا۔ میں نے عرض کیا: وہ جھوٹی ہے۔ آپ نے فرمایا: ”یہ کیسے ہو سکتا ہے جب کہ وہ کہہ چکی ہے کہ اس نے تم دونوں کو دودھ پلایا ہے۔ اپنی بیوی اپنے سے علاحدہ کر دو“ ۱؎۔ امام ترمذی کہتے ہیں: ۱- عقبہ بن حارث رضی الله عنہ کی حدیث حسن صحیح ہے، ۲- اس حدیث کو کئی اور بھی لوگوں نے ابن ابی ملیکہ سے روایت کیا ہے اور ابن ابی ملیکہ نے عقبہ بن حارث سے روایت کی ہے اور ان لوگوں نے اس میں عبید بن ابی مریم کے واسطے کا ذکر نہیں کیا ہے، نیز اس میں «دعها عنك» ”اسے اپنے سے علاحدہ کر دو“، کا ذکر بھی نہیں ہے۔ اس باب میں ابن عمر رضی الله عنہما سے بھی روایت ہے، ۳- صحابہ کرام وغیرہم میں سے بعض اہل علم کا اسی حدیث پر عمل ہے۔ انہوں نے رضاعت کے سلسلے میں ایک عورت کی شہادت کو درست قرار دیا ہے، ۴- ابن عباس رضی الله عنہما کہتے ہیں: رضاعت کے سلسلے میں ایک عورت کی شہادت جائز ہے۔ لیکن اس سے قسم بھی لی جائے گی۔ احمد اور اسحاق بن راہویہ اسی کے قائل ہیں، ۵- اور بعض اہل علم نے کہا ہے کہ ایک عورت کی گواہی درست نہیں جب تک کہ وہ ایک سے زائد نہ ہوں۔ یہ شافعی کا قول ہے، ۶- وکیع کہتے ہیں: ایک عورت کی گواہی فیصلے میں درست نہیں۔ اور اگر ایک عورت کی گواہی سن کر وہ بیوی سے علاحدگی اختیار کر لے تو یہ عین تقویٰ ہے۔",
+          "id": "Telah menceritakan kepada kami [Ali bin Hujr], telah menceritakan kepada kami [Isma'il bin Ibrahim] dari [Ayyub] dari [Abdullah bin Abu Mulaikah] berkata; telah menceritakan kepadaku ['Ubaid bin Abu Maryam] dari ['Uqbah bin Al Harits] berkata; dan saya telah mendengar dari 'Uqbah tapi bagiku hadits 'Ubaid lebih akurat. 'Uqbah bin Al Harits berkata; \"Saya telah menilkahi seorang wanita. Datanglah seorang wanita hitam dan berkata; 'Saya telah menyusui kalian berdua.' Saya menemui Nabi shallallahu 'alaihi wasallam dan saya ceritakan bahwa saya telah menikahi fulanah binti fulan, lalu datang seorang wanita hitam dan berkata; 'Sungguh saya telah menyusui kalian berdua', wanita itu bohong.\" 'Uqbah berkata; \"Beliau berpaling dariku. Lantas saya mendatangi dari arah depan beliau, namun beliau tetap memalingkan wajahnya. Saya mengulanginya; 'Sungguh dia bohong'. Beliau bersabda: 'Bagaimana bisa begitu, padahal dia benar-benar mengaku telah menyusui kalian berdua. Tinggalkan istrimu!\" Abu Isa berkata; \"Hadits semakna diriwayatkan dari Ibnu Umar. Hadits 'Uqbah bin Al Harits merupakan hadits hasan sahih. Lebih dari seorang yang meriwayatkannya dari Ibnu Abu Mulaikah dari 'Uqbah bin Al Harits dan mereka tidak menyebutkannya di dalamnya, dari 'Ubaid bin Abu Maryam juga kata: \"Tinggalkan dia.\" Ini merupakan pendapat sebagian ulama dari kalangan sahabat Nabi shallallahu 'alaihi wasallam dan yang lainnya. Mereka membolehkan persaksian seorang wanita dalam masalah persusuan. Ibnu Abbas berkata; \"Dibolehkan persaksian seorang wanita dalam masalah persusuan dengan diambil sumpahnya.\" Ini juga pendapat Ahmad dan Ishaq. Sebagian ulama berpendapat tidak bolehnya persaksian seorang wanita sehingga ada yang lainnya. Ini merupakan pendapat Syafi'i. Saya telah mendenger Al Jarud berkata; saya telah mendengar Waki' berkata; \"Tidak boleh persaksian seorang wanita dalam masalah hukum, berbeda dalam masalah persusuan",
+          "tr": "Ukbe b. Hâris (radıyallahü anh)’den rivâyet edilmiştir. (Abdullah b. ebî Müleyke bu hadisi Ukbe’nin kendisinden de işittim fakat Ubeyd’in rivâyetini daha iyi kavramış bulunuyorum dedi) diyor ki: “Bir kadını kendime nikahlamıştım derken siyah bir kadın geldi ve ikinizi de emzirmiştim dedi. Bunun üzerine Rasûlüllah (sallallahü aleyhi ve sellem)’e geldim ve dedim ki: Filanın kızını kendime nikahladım derken siyah bir kadın gelerek ikinizi de emzirdim dedi o kadın yalancıdır dedim. Ukbe diyor ki: “Peygamber (sallallahü aleyhi ve sellem) benden yüz çevirdi. Bu sefer yüzünü çevirdiği taraftan gelerek o kadın yalancıdır dedim. Bunun üzerine şöyle buyurdular: “İkinizi de emzirdiğini iddia ettiği halde sen hala o kadınla nasıl karı koca olarak yaşarsın? Bırak onu!” (Buhârî, Şehâdet: 14; Ebû Dâvûd, Akdıye: 18) Bu konuda İbn Ömer’den de hadis rivâyet edilmiştir. Ukbe b. Hâris hadisi hasen sahihtir. Pek çok kimse bu hadisi İbn ebî Müleyke’den Ukbe b. Hâris’den rivâyet ederek senedinde “Ubeyd ibn ebî Meryem’i” zikretmediler. “Bırak o kadını” da demediler. Rasûlüllah (sallallahü aleyhi ve sellem)’in ashabından ve daha sonraki dönemlerden bazı ilim adamları uygulamalarını bu hadisle yaparlar, emzirme konusunda bir kadının şâhidliğini yeterli görürler. Abbâs der ki: Emzirme konusunda tek bir kadının şâhidliği caiz ve geçerli olup o kadının bu konuda yemin etmesi istenir. Ahmed ve İshâk’ta aynı görüştedirler. ilim adamları da derler ki: Tek kadının şâhidliği caiz ve yeterli olmaz birden fazla olması gerekir. Şâfii’de bu görüştedir. işittim; Vekî’nin şöyle söylediğini işittiğini söyledi: “Emzirme konusunda tek bir kadının şâhidliği adliye açısından geçerli değildir ama takva yönüyle o kimsenin o kadından ayrılması iyi olur.”"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 12,
+        "hadith": 6
+      }
+    },
+    {
+      "hadithNumber": 1152,
+      "arabicNumber": 1152,
+      "book": 12,
+      "hadithInBook": 7,
+      "text": {
+        "arabic": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ فَاطِمَةَ بِنْتِ الْمُنْذِرِ، عَنْ أُمِّ سَلَمَةَ، قَالَتْ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ لاَ يُحَرِّمُ مِنَ الرَّضَاعَةِ إِلاَّ مَا فَتَقَ الأَمْعَاءَ فِي الثَّدْىِ وَكَانَ قَبْلَ الْفِطَامِ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏ وَالْعَمَلُ عَلَى هَذَا عِنْدَ أَكْثَرِ أَهْلِ الْعِلْمِ مِنْ أَصْحَابِ النَّبِيِّ صلى الله عليه وسلم وَغَيْرِهِمْ أَنَّ الرَّضَاعَةَ لاَ تُحَرِّمُ إِلاَّ مَا كَانَ دُونَ الْحَوْلَيْنِ وَمَا كَانَ بَعْدَ الْحَوْلَيْنِ الْكَامِلَيْنِ فَإِنَّهُ لاَ يُحَرِّمُ شَيْئًا ‏.‏ وَفَاطِمَةُ بِنْتُ الْمُنْذِرِ بْنِ الزُّبَيْرِ بْنِ الْعَوَّامِ هِيَ امْرَأَةُ هِشَامِ بْنِ عُرْوَةَ ‏.‏",
+        "translations": {
+          "en": "Umm Salamah narrated that The Messenger of Allah said:“No prohibition results from suckling except for what penetrates the intestines while on the breast before weaning.”",
+          "ur": "ام المؤمنین ام سلمہ رضی الله عنہا کہتی ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”رضاعت سے حرمت اسی وقت ثابت ہوتی ہے جب وہ انتڑیوں کو پھاڑ دے ۱؎، اور یہ دودھ چھڑانے سے پہلے ہو“ ۲؎۔ امام ترمذی کہتے ہیں: ۱- یہ حدیث حسن صحیح ہے، ۲- صحابہ کرام وغیرہم میں سے اکثر اہل علم کا اسی پر عمل ہے کہ رضاعت کی حرمت اس وقت ہوتی ہے جب بچے کی عمر دو برس سے کم ہو، اور جو دو برس پورے ہونے کے بعد ہو تو اس سے کوئی چیز حرام نہیں ہوتی۔",
+          "id": "Telah menceritakan kepada kami [Qutaibah], telah menceritakan kepada kami [Abu 'Awanah] dari [Hisyam bin 'Urwah] dari [Bapaknya] dari [Fathimah bin Al Mundzir] dari [Umu Salamah] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Persusuan tidak bisa menjadikan mahram, kecuali (susuan) yang mengenyangkan dan terjadi sebelum disapih.\" Abu Isa berkata; \"Ini merupakan hadits hasan sahih dan diamalkan para ulama dari kalangan sahabat Nabi shallallahu 'alaihi wasallam dan yang lainnya; bahwa persusuan tidak menjadikan mahram kecuali pada bayi di bawah dua tahun. Jika telah berlangsung waktu dua tahun, tidak menjadikan mahram. Fathimah binti Al Mundzir bin Zubair bin 'Awwam adalah istri Hisyam bin 'Urwah",
+          "tr": "Ümmü Seleme (r.anha)’dan rivâyete göre, şöyle demiştir: Rasûlullah (s.a.v.) şöyle buyurdu: “Süt emmenin haram kılanı, bağırsakları patlatacak kadar çok emilmesi ve sütten kesilme yaşı olan iki yıldan önce emilmesi şeklinde olanıdır.” Tirmîzî rivâyet etmiştir. Tirmîzî: Bu hadis hasen sahihtir. Rasûlullah (s.a.v.)’in ashabından ve daha sonraki dönemlerden pek çok ilim adamı uygulamalarını bu hadisle yaparlar. Süt emme iki yaşın altında olursa haramlık gerçekleşir, iki seneden sonra olanı hiç kimseyi haram kılmaz"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 12,
+        "hadith": 7
+      }
+    },
+    {
+      "hadithNumber": 1153,
+      "arabicNumber": 1153,
+      "book": 12,
+      "hadithInBook": 8,
+      "text": {
+        "arabic": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا حَاتِمُ بْنُ إِسْمَاعِيلَ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ حَجَّاجِ بْنِ حَجَّاجٍ الأَسْلَمِيِّ، عَنْ أَبِيهِ، أَنَّهُ سَأَلَ النَّبِيَّ صلى الله عليه وسلم فَقَالَ يَا رَسُولَ اللَّهِ مَا يُذْهِبُ عَنِّي مَذَمَّةَ الرَّضَاعِ فَقَالَ ‏ \"‏ غُرَّةٌ عَبْدٌ أَوْ أَمَةٌ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏ وَمَعْنَى قَوْلِهِ مَا يُذْهِبُ عَنِّي مَذَمَّةَ الرَّضَاعِ ‏.‏ يَقُولُ إِنَّمَا يَعْنِي بِهِ ذِمَامَ الرَّضَاعَةِ وَحَقَّهَا يَقُولُ إِذَا أَعْطَيْتَ الْمُرْضِعَةَ عَبْدًا أَوْ أَمَةً فَقَدْ قَضَيْتَ ذِمَامَهَا ‏.‏ وَيُرْوَى عَنْ أَبِي الطُّفَيْلِ قَالَ كُنْتُ جَالِسًا مَعَ النَّبِيِّ صلى الله عليه وسلم إِذْ أَقْبَلَتِ امْرَأَةٌ فَبَسَطَ النَّبِيُّ صلى الله عليه وسلم رِدَاءَهُ حَتَّى قَعَدَتْ عَلَيْهِ فَلَمَّا ذَهَبَتْ قِيلَ هِيَ كَانَتْ أَرْضَعَتِ النَّبِيَّ صلى الله عليه وسلم ‏.‏ هَكَذَا رَوَاهُ يَحْيَى بْنُ سَعِيدٍ الْقَطَّانُ وَحَاتِمُ بْنُ إِسْمَاعِيلَ وَغَيْرُ وَاحِدٍ عَنْ هِشَامِ بْنِ عُرْوَةَ عَنْ أَبِيهِ عَنْ حَجَّاجِ بْنِ حَجَّاجٍ عَنْ أَبِيهِ عَنِ النَّبِيِّ صلى الله عليه وسلم ‏.‏ وَرَوَى سُفْيَانُ بْنُ عُيَيْنَةَ عَنْ هِشَامِ بْنِ عُرْوَةَ عَنْ أَبِيهِ عَنْ حَجَّاجِ بْنِ أَبِي حَجَّاجٍ عَنْ أَبِيهِ عَنِ النَّبِيِّ صلى الله عليه وسلم ‏.‏ وَحَدِيثُ ابْنِ عُيَيْنَةَ غَيْرُ مَحْفُوظٍ وَالصَّحِيحُ مَا رَوَى هَؤُلاَءِ عَنْ هِشَامِ بْنِ عُرْوَةَ عَنْ أَبِيهِ ‏.‏ وَهِشَامُ بْنُ عُرْوَةَ يُكْنَى أَبَا الْمُنْذِرِ وَقَدْ أَدْرَكَ جَابِرَ بْنَ عَبْدِ اللَّهِ وَابْنَ عُمَرَ ‏.‏",
+        "translations": {
+          "en": "Hajjaj bin Hajjaj Al-Aslami narrated that His father asked the Prophet:“O Messenger of Allah! What will remove the responsibility of the foster relationship from me?” So he said: “A Ghurrah: a male slave or a female slave.”",
+          "ur": "حجاج اسلمی رضی الله عنہ سے روایت ہے کہ انہوں نے نبی اکرم صلی اللہ علیہ وسلم سے پوچھا کہ اللہ کے رسول! مجھ سے حق رضاعت کس چیز سے ادا ہو گا؟ آپ نے فرمایا: ”ایک جان: غلام یا لونڈی کے ذریعہ سے“۔ امام ترمذی کہتے ہیں: ۱- یہ حدیث حسن صحیح ہے، ۲- اسی طرح اسے یحییٰ بن سعید قطان، حاتم بن اسماعیل اور کئی لوگوں نے بطریق: «هشام بن عروة عن أبيه عن حجاج بن حجاج عن أبيه عن النبي صلى الله عليه وسلم» روایت کی ہے۔ اور سفیان بن عیینہ نے بطریق: «هشام بن عروة عن أبيه عن حجاج بن أبي حجاج عن أبيه عن النبي صلى الله عليه وسلم» روایت کی ہے اور ابن عیینہ کی حدیث غیر محفوظ ہے۔ صحیح وہی ہے جسے ان لوگوں نے ہشام بن عروۃ سے اور انہوں نے اپنے والد سے روایت کی ہے۔ ( یعنی: «حجاج بن حجاج» والی نہ کہ «حجاج بن أبي حجاج» والی ) ۳- اور «مايذهب عني مذمة الرضاعة» سے مراد رضاعت کا حق اور اس کا ذمہ ہے۔ وہ کہتے ہیں: جب تم دودھ پلانے والی کو ایک غلام دے دو، یا ایک لونڈی تو تم نے اس کا حق ادا کر دیا، ۴- ابوالطفیل رضی الله عنہ سے روایت کی گئی ہے، وہ کہتے ہیں کہ میں نبی اکرم صلی اللہ علیہ وسلم کے ساتھ بیٹھا ہوا تھا۔ اتنے میں ایک عورت آئی تو نبی اکرم صلی اللہ علیہ وسلم نے اپنی چادر بچھا دی، یہاں تک کہ وہ اس پر بیٹھ گئی، جب وہ چلی گئی تو کہا گیا: یہی وہ عورت تھی جس نے نبی اکرم صلی اللہ علیہ وسلم کو دودھ پلایا تھا۔",
+          "id": "Telah menceritakan kepada kami [Qutaibah], telah menceritakan kepada kami [Hatim bin Isma'il] dari [Hisyam bin 'Urwah] dari [Bapaknya] dari [Hajjaj bin Hajjaj Al Aslami] dari [Bapaknya] bahwa dia bertanya kepada Nabi shallallahu 'alaihi wasallam; \"Wahai Rasulullah, Apa yang betul-betul bisa membebaskanku dari kewajiban karena persusuan?\" Beliau menjawab; \"Budak laki-laki atau budak wanita.\" Abu Isa berkata; \"Ini merupakan hadits hasan sahih. Demikian juga diriwayatkan dari [Yahya bin Sa'id Al Qathan] dan [Hatim bin Isma'il] dan yang lainnya dari [Hisyam bin 'Urwah] dari [Bapaknya] dari [Hajjaj bin Hajjaj] dari [Bapaknya] dari Nabi shallallahu 'alaihi wasallam. [Sufyan bin 'Uyainah] meriwayatkan dari [Hisyam bin 'Urwah] dari [Bapaknya] dari [Hajjaj bin Abu Hajjaj] dari [Bapaknya] dari Nabi shallallahu 'alaihi wasallam. Hadits Ibnu 'Uyainah tidak Mahfuzh, yang sahih adalah apa yang telah diriwayatkan dari Hisyam bin Umar dari Bapaknya. Hisyam bin 'Urwah diberi kunyah Abu Al Mundzir. Dia telah bertemu Jabir bin Abdullah dan Ibnu Umar. Arti perkataan; dzimam ar radla'ah yaitu haknya. Jika kamu memberikan seorang budak laki-laki atau wanita kepada orang yang menyusuimu, maka kamu telah menunaikan haknya. Telah diriwayatkan dari Abu Thufail, berkata; \"Saya duduk bersama Nabi shallallahu 'alaihi wasallam, ternyata ada seorang wanita yang datang. Nabi shallallahu 'alaihi wasallam membentangkan kainnya sehingga wanita itu mendudukinya. Tatkala wanita itu pergi, ada yang mengatakan bahwa wanita itu adalah orang yang telah menyusui Nabi shallallahu 'alaihi wasallam",
+          "tr": "Haccac b. Haccac el Eslemî (radıyallahü anh)’in babasından rivâyete göre, Rasûlüllah (sallallahü aleyhi ve sellem)’e şöyle sormuştur: “Ey Allah’ın Rasûlü emzirme hakkını nasıl ödeyebilirim? Rasûlüllah (sallallahü aleyhi ve sellem) şöyle buyurdular: “Emziren kadına iyi bir köle ve cariye vermektir.” (Ebû Dâvûd, Nikah: 11; Nesâî, Nikah: 56) Bu hadis hasen sahihtir. Hadiste geçen “Emzirme hakkını nasıl ödeyebilirim” cümlesinin manası süt emziren kimsenin hakkı nasıl ödenebilir demektir. Rasûlüllah (sallallahü aleyhi ve sellem) buna cevap olarak “Süt emziren kadına bir köle ve cariye verirsen hakkını ödemiş olursun” buyurdular. Tufeyl’den rivâyete göre, şöyle demiştir: Peygamber (sallallahü aleyhi ve sellem) ile birlikte oturmakta iken bir kadın çıkageldi. Peygamberimiz (sallallahü aleyhi ve sellem) elbisesini yaydı o da oraya oturdu o kadın gidince şöyle denildi: “Bu kadın küçükken Rasûlüllah (sallallahü aleyhi ve sellem)’i emzirmişti.” b. Saîd el Kattan, Hatîm b. İsmail ve başka pek çok kimse bu hadisi Hişâm b. Urve’den, babasından, Haccac b. Haccac’tan babasından bu şekilde rivâyet etmişlerdir. b. Uyeyne’de Hişâm b. Urve’den babasından Haccac b. ebî Haccac’tan ve babasından rivâyet etmiştir. İbn Uyeyne hadisi pek makbul değildir. Sahih olan rivâyet onların Hişâm b. Urve ve babasından ki Hişâm b. Urve Ebûl Münzir diye künyelenir. Kendisi sahabeden Câbir b. Abdullah’a ve İbn Ömer’e ulaşmıştır. Fatıma bintil Münzir b. Zübeyr b. Avvam; Hişâm b. Urve’nin hanımıdır"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Daif"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 12,
+        "hadith": 8
+      }
+    },
+    {
+      "hadithNumber": 1154,
+      "arabicNumber": 1154,
+      "book": 12,
+      "hadithInBook": 9,
+      "text": {
+        "arabic": "حَدَّثَنَا عَلِيُّ بْنُ حُجْرٍ، أَخْبَرَنَا جَرِيرُ بْنُ عَبْدِ الْحَمِيدِ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، قَالَتْ كَانَ زَوْجُ بَرِيرَةَ عَبْدًا فَخَيَّرَهَا رَسُولُ اللَّهِ صلى الله عليه وسلم فَاخْتَارَتْ نَفْسَهَا وَلَوْ كَانَ حُرًّا لَمْ يُخَيِّرْهَا ‏.‏",
+        "translations": {
+          "en": "Aishah narrated:“Barfah’s husband was a slave, so the Messenger of Allah let her chose, and she chose herself, and if he was a free man she would not have had a choice.”",
+          "ur": "ام المؤمنین عائشہ رضی الله عنہا کہتی ہیں کہ بریرہ کے شوہر غلام تھے، رسول اللہ صلی اللہ علیہ وسلم نے بریرہ کو اختیار دیا، تو انہوں نے خود کو اختیار کیا، ( عروہ کہتے ہیں ) اگر بریرہ کے شوہر آزاد ہوتے تو آپ بریرہ کو اختیار نہ دیتے ۱؎۔",
+          "id": "Telah menceritakan kepada kami [Ali bin Hujr], telah mengabarkan kepada kami [Jarir bin Abdul Hamid] dari [Hisyam bin 'Urwah] dari [Bapaknya] dari [Aisyah] berkata; \"Suami Barirah adalah seorang budak. Rasulullah shallallahu 'alaihi wasallam memberi kesempatan Barirah untuk memilih (antara tetap menjadi budak dan istri Mughits atau merdeka). Dia tetap memilih merdeka. Andai suaminya seorang merdeka niscaya Nabi shallallahu 'alaihi wasallam tidak menyuruhnya memilih",
+          "tr": "Âişe (r.anha)’dan rivâyet edildiğine göre, şöyle demiştir: “Berire’nin kocası köle idi. Berire azâd edilip hürriyetine kavuşturulunca Rasûlullah (s.a.v.) onu serbest bıraktı o da kocasından ayrılmayı seçti. Kocası hür olsaydı Rasûlullah (s.a.v.) onu serbest bırakmazdı.” Diğer tahric: Müslim, Itk; Ebû Dâvûd, Talak"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 12,
+        "hadith": 9
+      }
+    },
+    {
+      "hadithNumber": 1155,
+      "arabicNumber": 1155,
+      "book": 12,
+      "hadithInBook": 10,
+      "text": {
+        "arabic": "حَدَّثَنَا هَنَّادٌ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ، عَنْ إِبْرَاهِيمَ، عَنِ الأَسْوَدِ، عَنْ عَائِشَةَ، قَالَتْ كَانَ زَوْجُ بَرِيرَةَ حُرًّا فَخَيَّرَهَا رَسُولُ اللَّهِ صلى الله عليه وسلم ‏.‏ قَالَ أَبُو عِيسَى حَدِيثُ عَائِشَةَ حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏ هَكَذَا رَوَى هِشَامٌ عَنْ أَبِيهِ عَنْ عَائِشَةَ قَالَتْ كَانَ زَوْجُ بَرِيرَةَ عَبْدًا ‏.‏ وَرَوَى عِكْرِمَةُ عَنِ ابْنِ عَبَّاسٍ قَالَ رَأَيْتُ زَوْجَ بَرِيرَةَ وَكَانَ عَبْدًا يُقَالُ لَهُ مُغِيثٌ ‏.‏ وَهَكَذَا رُوِيَ عَنِ ابْنِ عُمَرَ ‏.‏ وَالْعَمَلُ عَلَى هَذَا عِنْدَ بَعْضِ أَهْلِ الْعِلْمِ وَقَالُوا إِذَا كَانَتِ الأَمَةُ تَحْتَ الْحُرِّ فَأُعْتِقَتْ فَلاَ خِيَارَ لَهَا وَإِنَّمَا يَكُونُ لَهَا الْخِيَارُ إِذَا أُعْتِقَتْ وَكَانَتْ تَحْتَ عَبْدٍ ‏.‏ وَهُوَ قَوْلُ الشَّافِعِيِّ وَأَحْمَدَ وَإِسْحَاقَ ‏.‏ وَرَوَى الأَعْمَشُ عَنْ إِبْرَاهِيمَ عَنِ الأَسْوَدِ عَنْ عَائِشَةَ قَالَتْ كَانَ زَوْجُ بَرِيرَةَ حُرًّا فَخَيَّرَهَا رَسُولُ اللَّهِ صلى الله عليه وسلم ‏.‏ وَرَوَى أَبُو عَوَانَةَ هَذَا الْحَدِيثَ عَنِ الأَعْمَشِ عَنْ إِبْرَاهِيمَ عَنِ الأَسْوَدِ عَنْ عَائِشَةَ فِي قِصَّةِ بَرِيرَةَ قَالَ الأَسْوَدُ وَكَانَ زَوْجُهَا حُرًّا ‏.‏ وَالْعَمَلُ عَلَى هَذَا عِنْدَ بَعْضِ أَهْلِ الْعِلْمِ مِنَ التَّابِعِينَ وَمَنْ بَعْدَهُمْ وَهُوَ قَوْلُ سُفْيَانَ الثَّوْرِيِّ وَأَهْلِ الْكُوفَةِ ‏.‏",
+        "translations": {
+          "en": "Aishah narrated:“Barfah’s husband was a free man, so the Messenger of Allah let her choose.”",
+          "ur": "ام المؤمنین عائشہ رضی الله عنہا کہتی ہیں کہ بریرہ کے شوہر آزاد تھے، پھر بھی رسول اللہ صلی اللہ علیہ وسلم نے انہیں اختیار دیا۔ امام ترمذی کہتے ہیں: ۱- عائشہ رضی الله عنہا کی حدیث حسن صحیح ہے، ۲- اسی طرح ہشام نے اپنے والد عروہ سے اور عروہ نے عائشہ رضی الله عنہا سے روایت کی ہے، وہ کہتی ہیں کہ بریرہ کا شوہر غلام تھا، ۳- عکرمہ سے روایت ہے کہ ابن عباس رضی الله عنہما کہتے ہیں: میں نے بریرہ کے شوہر کو دیکھا ہے، وہ غلام تھے اور انہیں مغیث کہا جاتا تھا، ۴- اسی طرح کی ابن عمر رضی الله عنہما سے روایت کی گئی ہے، ۵- بعض اہل علم کا اسی پر عمل ہے، وہ کہتے ہیں کہ جب لونڈی آزاد مرد کے نکاح میں ہو اور وہ آزاد کر دی جائے تو اسے اختیار نہیں ہو گا۔ اسے اختیار صرف اس صورت میں ہو گا، جب وہ آزاد کی جائے اور وہ کسی غلام کی زوجیت میں ہو۔ یہی شافعی، احمد اور اسحاق بن راہویہ کا قول ہے، ۶- لیکن اعمش نے بطریق: «إبراهيم عن الأسود عن عائشة» روایت کی ہے کہ بریرہ کے شوہر آزاد تھے تو رسول اللہ صلی اللہ علیہ وسلم نے انہیں اختیار دیا۔ اور ابو عوانہ نے بھی اس حدیث کو بطریق: «الأعمش عن إبراهيم عن الأسود عن عائشة» بریرہ کے قصہ کے سلسلہ میں روایت کیا ہے، اسود کہتے ہیں: بریرہ کے شوہر آزاد تھے، ۷- تابعین اور ان کے بعد کے لوگوں میں سے بعض اہل علم کا اسی پر عمل ہے۔ اور یہی سفیان ثوری اور اہل کوفہ کا بھی قول ہے ۱؎۔",
+          "id": "Telah menceritakan kepada kami [Hannad], telah menceritakan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dari [Ibrahim] dari [Al Aswad] dari [Aisyah] berkata; \"Suami Barirah adalah orang yang merdeka. Maka Rasulullah shallallahu 'alaihi wasallam menyuruhnya untuk memilih.\" Abu Isa berkata; \"Hadits Aisyah merupakan hadits hasan sahih. Demikian Hisyam meriwayatkan dari Bapaknya dari Aisyah berkata; \"Suami Barirah adalah seorang budak.\" Ikrimah meriwayatkan dari Ibnu Abbas berkata; \"Saya melihat suami Barirah, dia seorang budak yang bernama Mughits, demikian juga diriwayatkan dari Ibnu Umar. Sebagian ulama berpegang pada pendapat ini, mereka berkata; \"Jika seorang budak menjadi isteri orang merdeka, lalu budak itu dibebaskan maka tidak ada khiyar baginya. Sedangkan jika dia dimerdekakan sedang suaminya masih budak, maka dia berhak memilih. Inilah pendapat Syafi'i, Ahmad dan Ishaq. Al A'masy meriwayatkan dari Ibrahim dari Al Aswad dari Aisyah berkata; \"Suami Barirah adalah orang yang merdeka dan Rasulullah shallallahu 'alaihi wasallam menyuruhnya untuk memilih.\" [Abu 'Awanah] meriwayatkan hadits ini dari [Al A'masy] dari [Ibrahim] dari [Al Aswad] dari [Aisyah] pada cerita Barirah. Al Aswad berkata; \"Suaminya adalah seorang yang merdeka.\" Sebagian ulama dari kalangan Tabiin dan orang-orang setelah mereka berpendapat demikian. Inilah pendapat Sufyan Ats Tsauri dan penduduk Kufah"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Shadh"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 12,
+        "hadith": 10
+      }
+    },
+    {
+      "hadithNumber": 1156,
+      "arabicNumber": 1156,
+      "book": 12,
+      "hadithInBook": 11,
+      "text": {
+        "arabic": "حَدَّثَنَا هَنَّادٌ، حَدَّثَنَا عَبْدَةُ، عَنْ سَعِيدِ بْنِ أَبِي عَرُوبَةَ، عَنْ أَيُّوبَ، وَقَتَادَةَ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ زَوْجَ، بَرِيرَةَ كَانَ عَبْدًا أَسْوَدَ لِبَنِي الْمُغِيرَةِ يَوْمَ أُعْتِقَتْ بَرِيرَةُ وَاللَّهِ لَكَأَنِّي بِهِ فِي طُرُقِ الْمَدِينَةِ وَنَوَاحِيهَا وَإِنَّ دُمُوعَهُ لَتَسِيلُ عَلَى لِحْيَتِهِ يَتَرَضَّاهَا لِتَخْتَارَهُ فَلَمْ تَفْعَلْ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏ وَسَعِيدُ بْنُ أَبِي عَرُوبَةَ هُوَ سَعِيدُ بْنُ مِهْرَانَ وَيُكْنَى أَبَا النَّضْرِ ‏.‏",
+        "translations": {
+          "en": "Ibn Abbas narrated:“Barfahs husband was a black slave belonging to Banu Al-Mughirah. On the day that Barirah was freed. By Allah! It is as if I can see him in the streets of Al-Madinah behind her. Indeed tears were flowing down his beard while he was trying to get her to chose to stay with him, but she did not do it.”",
+          "ur": "عبداللہ بن عباس رضی الله عنہما کہتے ہیں کہ بریرہ کے شوہر بنی مغیرہ کے ایک کالے کلوٹے غلام تھے، جس دن بریرہ آزاد کی گئیں، اللہ کی قسم، گویا میں انہیں مدینے کے گلی کوچوں اور کناروں میں اپنے سامنے دیکھ رہا ہوں کہ ان کے آنسو ان کی داڑھی پر بہہ رہے ہیں، وہ انہیں منا رہے ہیں کہ وہ انہیں ساتھ میں رہنے کے لیے چن لیں لیکن انہوں نے ایسا نہیں کیا۔ امام ترمذی کہتے ہیں: یہ حدیث حسن صحیح ہے۔",
+          "id": "Telah menceritakan kepada kami [Hannad], telah menceritakan kepada kami ['Abdah] dari [Sa'id bin Abu 'Arubah] dari [Ayyub] dan [Qatadah] dari ['Ikrimah] dari [Ibnu Abbas] bahwa suami Barirah adalah seorang budak hitam milik Bani Al Mughirah. Pada hari dimerdekakan Barirah, Demi Allah, saya sedang berada di jalan, di sudut Madinah. Air matanya mengalir melalui jenggotnya. Dia meminta isterinya memilihnya, tapi isterinya tidak melakukannya.\" Abu Isa berkata; \"Ini merupakan hadits hasan sahih. Sa'id bin Abu 'Arubah adalah Sa'id bin Mihran yang berkuniyah (julukan) Abu Nadlr",
+          "tr": "İbn Abbâs (r.a.)’den rivâyet edilmiştir: “Berire hürriyetine kavuşturulduğu gün onun kocası; Muğîre oğullarının siyah bir kölesi idi. Vallahi onu Medîne sokakları ve çevrelerinde hâlâ görür gibiyim göz yaşları sakallarını ıslatmakta Berire’nin kendisini seçmesi için memnun etmeye çalışmaktadır. Fakat Berire’de bunu yapmadı.” Diğer tahric: Ebû Dâvûd, Talak; Müslim, Itk Tirmîzî: Bu hadis hasen sahihtir. Saîd b. ebî Arûbe, Saîd b. Mıhran’dır. Ebû’n Nasr diye künyelenir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 12,
+        "hadith": 11
+      }
+    },
+    {
+      "hadithNumber": 1157,
+      "arabicNumber": 1157,
+      "book": 12,
+      "hadithInBook": 12,
+      "text": {
+        "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ مَنِيعٍ، حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ الْوَلَدُ لِلْفِرَاشِ وَلِلْعَاهِرِ الْحَجَرُ ‏\"‏ ‏.‏ قَالَ وَفِي الْبَابِ عَنْ عُمَرَ وَعُثْمَانَ وَعَائِشَةَ وَأَبِي أُمَامَةَ وَعَمْرِو بْنِ خَارِجَةَ وَعَبْدِ اللَّهِ بْنِ عَمْرٍو وَالْبَرَاءِ بْنِ عَازِبٍ وَزَيْدِ بْنِ أَرْقَمَ ‏.‏ قَالَ أَبُو عِيسَى حَدِيثُ أَبِي هُرَيْرَةَ حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏ وَالْعَمَلُ عَلَى هَذَا عِنْدَ أَهْلِ الْعِلْمِ ‏.‏ وَقَدْ رَوَاهُ الزُّهْرِيُّ عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ وَأَبِي سَلَمَةَ عَنْ أَبِي هُرَيْرَةَ ‏.‏",
+        "translations": {
+          "en": "Abu Hurairah narrated that The Messenger of Allah said:“The child is for the bed, and for the fornicator is the stone.”",
+          "ur": "ابوہریرہ رضی الله عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”بچہ صاحب فراش ( یعنی شوہر یا مالک ) کا ہو گا ۱؎ اور زانی کے لیے پتھر ہوں گے“ ۲؎۔ امام ترمذی کہتے ہیں: ۱- ابوہریرہ کی حدیث حسن صحیح ہے، ۲- اس باب میں عمر، عثمان، عائشہ، ابوامامہ، عمرو بن خارجہ، عبداللہ بن عمر، براء بن عازب اور زید بن ارقم رضی الله عنہم سے بھی احادیث آئی ہیں، ۳- صحابہ کرام میں سے اہل علم کا اسی پر عمل ہے۔",
+          "id": "Telah menceritakan kepada kami [Ahmad bin Mani'], telah menceritakan kepada kami [Sufyan] dari [Az Zuhri] dari [Sa'id bin Musayyab] dari [Abu Hurairah] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Anak itu milik ibunya, sedang bagi pezina tidak mempunyai hak atas anaknya (berhak mendapatkan rajam).\" Abu Isa berkata; \"Hadits semakna diriwayatkan dari Umar, 'Utsman, Aisyah, Abu Umamah, 'Amr bin Kharijah, Abdullah bin 'Amr, Al Bara` bin 'Azib dan Zaid bin Arqam.\" Dia menambahkan; \"Hadits Abu Hurairah merupakan hadits hasan sahih. [Az Zuhri] meriwayatkannya dari [Sa'id bin Musayyab] dan [Abu Salamah] dari [Abu Hurairah]. Inilah pendapat para ulama dari kalangan sahabat Nabi shallallahu 'alaihi wasallam dan yang lainnya",
+          "tr": "Ebû Hureyre (r.a.)’den rivâyete göre, şöyle demiştir: Rasûlullah (s.a.v.) şöyle buyurdu: “Çocuk döşek sahibinindir zina edene ise mahrumiyet vardır.” Diğer tahric: Müslim, Rada Tirmîzî: Bu konuda Ömer, Osman, Âişe, Ebû Umâme, Amr b. Hârice, Abdullah b. Amr, Berâ b. Âzib ve Zeyd b. Erkâm’dan da hadis rivâyet edilmiştir. Tirmîzî: Ebû Hüreyre hadisi hasen sahihtir. Peygamber (s.a.v.)’in ashabından bazı ilim adamları uygulamalarını bu hadisle yaparlar. Zührî bu hadisi Saîd b. Müseyyeb’den, Ebû Seleme’den ve Ebû Hüreyre’den rivâyet etmiştir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Bukhari And Muslim"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 12,
+        "hadith": 12
+      }
+    },
+    {
+      "hadithNumber": 1158,
+      "arabicNumber": 1158,
+      "book": 12,
+      "hadithInBook": 13,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا عَبْدُ الأَعْلَى، حَدَّثَنَا هِشَامُ بْنُ أَبِي عَبْدِ اللَّهِ، وَهُوَ الدَّسْتَوَائِيُّ عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، أَنَّ النَّبِيَّ صلى الله عليه وسلم رَأَى امْرَأَةً فَدَخَلَ عَلَى زَيْنَبَ فَقَضَى حَاجَتَهُ وَخَرَجَ وَقَالَ ‏ \"‏ إِنَّ الْمَرْأَةَ إِذَا أَقْبَلَتْ أَقْبَلَتْ فِي صُورَةِ شَيْطَانٍ فَإِذَا رَأَى أَحَدُكُمُ امْرَأَةً فَأَعْجَبَتْهُ فَلْيَأْتِ أَهْلَهُ فَإِنَّ مَعَهَا مِثْلَ الَّذِي مَعَهَا ‏\"‏ ‏.‏ قَالَ وَفِي الْبَابِ عَنِ ابْنِ مَسْعُودٍ ‏.‏ قَالَ أَبُو عِيسَى حَدِيثُ جَابِرٍ حَدِيثٌ صَحِيحٌ حَسَنٌ غَرِيبٌ ‏.‏ وَهِشَامٌ الدَّسْتَوَائِيُّ هُوَ هِشَامُ بْنُ سَنْبَرٍ ‏.‏",
+        "translations": {
+          "en": "Jabir (bin Abdullah) narrated:“The Prophet saw a woman, then he went to Zainab to fulfill his need and he left. He said: ‘Indeed when the woman enters, she enters in the image of Shaitan. So when one of you sees a woman that he is fascinated with, then let him go to his wife, for indeed with her (his wife) is the same as that which is with her.”",
+          "ur": "جابر بن عبداللہ رضی الله عنہما کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم نے ایک عورت کو دیکھا تو آپ زینب رضی الله عنہا کے پاس تشریف لائے اور آپ نے اپنی ضرورت پوری کی اور باہر تشریف لا کر فرمایا: ”عورت جب سامنے آتی ہے تو وہ شیطان کی شکل میں آتی ہے ۱؎، لہٰذا جب تم میں سے کوئی کسی عورت کو دیکھے اور وہ اسے بھلی لگے تو اپنی بیوی کے پاس آئے اس لیے کہ اس کے پاس بھی اسی جیسی چیز ہے جو اس کے پاس ہے“۔ امام ترمذی کہتے ہیں: ۱- جابر کی حدیث صحیح حسن غریب ہے، ۲- اس باب میں ابن مسعود رضی الله عنہ سے بھی روایت ہے، ۳- ہشام دستوائی دراصل ہشام بن سنبر ہیں۔",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Basyar], telah menceritakan kepada kami [Abdul A'la], telah menceritakan kepada kami [Hisyam bin Abu Abdullah Ad Dastuwa`i] dari [Abu Zubair] dari [Jabir bin Abdullah] bahwa Nabi shallallahu 'alaihi wasallam melihat seorang wanita, lalu beliau menemui Zainab menunaikan hajjatnya (berjimak). Lantas beliau keluar seraya bersabda: \"Sesungguhnya jika seorang wanita datang, dia datang sebagaimana setan. Jika salah seorang dari kalian melihat seorang wanita yang menggugah hasratnya maka datangilah isterinya, karena apa yang dia punyai sama seperti yang dipunyai isterinya.\" Hadits semakna diriwayatkan dari Ibnu Mas'ud. Hadits Jabir merupakan hadits hasan gharib. Hisyam Ad Dastuwa`i adalah Hisyam bin Sanbar",
+          "tr": "Cabir b. Abdullah (r.a.)’den rivâyete göre: “Nebi (s.a.v.) bir kadın görmüştü de hanımlarından Zeyneb’in yanına girerek ihtiyacını gördü ve çıkarak şöyle buyurdu: “Bir kadın gelirken bazen şeytan kılığında ve şeytanın göreviyle gelebilir. Sizden biriniz böyle bir kadın gördüğünde ondan hoşlanır ve gönlü onda kalırsa hemen hanımının yanına gelsin cinsel ilişkide bulunsun çünkü onda bulunanın aynısı bunda da vardır.” Diğer tahric: Müslim, Nikah; Ebû Dâvûd, Nikah Tirmîzî: Bu konuda İbn Mes’ûd’tan da hadis rivâyet edilmiştir. Tirmîzî: Câbir hadisi hasen sahih garibtir. Hişâm ed Destevaî; Hişâm b. Senber’dir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 12,
+        "hadith": 13
+      }
+    },
+    {
+      "hadithNumber": 1159,
+      "arabicNumber": 1159,
+      "book": 12,
+      "hadithInBook": 14,
+      "text": {
+        "arabic": "حَدَّثَنَا مَحْمُودُ بْنُ غَيْلاَنَ، حَدَّثَنَا النَّضْرُ بْنُ شُمَيْلٍ، أَخْبَرَنَا مُحَمَّدُ بْنُ عَمْرٍو، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ لَوْ كُنْتُ آمِرًا أَحَدًا أَنْ يَسْجُدَ لأَحَدٍ لأَمَرْتُ الْمَرْأَةَ أَنْ تَسْجُدَ لِزَوْجِهَا ‏\"‏ ‏.‏ قَالَ وَفِي الْبَابِ عَنْ مُعَاذِ بْنِ جَبَلٍ وَسُرَاقَةَ بْنِ مَالِكِ بْنِ جُعْشُمٍ وَعَائِشَةَ وَابْنِ عَبَّاسٍ وَعَبْدِ اللَّهِ بْنِ أَبِي أَوْفَى وَطَلْقِ بْنِ عَلِيٍّ وَأُمِّ سَلَمَةَ وَأَنَسٍ وَابْنِ عُمَرَ ‏.‏ قَالَ أَبُو عِيسَى حَدِيثُ أَبِي هُرَيْرَةَ حَدِيثٌ حَسَنٌ غَرِيبٌ مِنْ هَذَا الْوَجْهِ مِنْ حَدِيثِ مُحَمَّدِ بْنِ عَمْرٍو عَنْ أَبِي سَلَمَةَ عَنْ أَبِي هُرَيْرَةَ ‏.‏",
+        "translations": {
+          "en": "Abu Hurairah narrated that The Prophet said:“If I were to order anyone to prostrate to anyone, then I would order the wife to prostrate to her husband.”",
+          "ur": "ابوہریرہ رضی الله عنہ سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: ”اگر میں کسی کو کسی کے لیے سجدہ کرنے کا حکم دیتا تو میں عورت کو حکم دیتا کہ وہ اپنے شوہر کو سجدہ کرے“ ۱؎۔ امام ترمذی کہتے ہیں: ۱- ابوہریرہ رضی الله عنہ کی حدیث حسن غریب ہے، ۲- اس باب میں معاذ بن جبل، سراقہ بن مالک بن جعشم، عائشہ، ابن عباس، عبداللہ بن ابی اوفی، طلق بن علی، ام سلمہ، انس اور ابن عمر رضی الله عنہم سے بھی احادیث آئی ہیں۔",
+          "id": "Telah menceritakan kepada kami [Mahmud bin Ghailan], telah menceritakan kepada kami [An Nadlr bin Syumail] telah menghabarkan kepada kami [Muhammad bin 'Amr] dari [Abu Salamah] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam bersabda: \"Jikalau saya boleh memerintahkan seseorang untuk bersujud kepada orang lain, niscaya aku perintahkan seorang istri bersujud kepada suaminya.\" Hadits semakna diriwayatkan dari Mu'adz bin Jabal, Suraqah bin Malik bin Ju'syum, 'Aisyah, Ibnu Abbas, Abdullah bin Abu Aufa, Thalq bin Ali, Umu Salamah, Anas dan Ibnu Umar. Abu 'Isa berkata; \"Hadits Abu Hurairah merupakan hadits hasan gharib dari jalur ini, dari hadits Muhammad bin Amr dari Abu Salamah dari Abu Hurairah",
+          "tr": "Ebû Hureyre (r.a.)’den rivâyete göre, Nebi (s.a.v.) şöyle buyurmuştur: “İnsanlardan birisinin bir diğerine secde etmesini emredecek olsaydım kadının kocasına secde etmesini emrederdim.” Tirmîzî rivâyet etmiştir. Tirmîzî: Bu konuda Muâz b. Cebel, Suraka b. Mâlik b. Cu’şum, Âişe, İbn Abbâs, Abdullah b. ebî Evfâ, Talk b. Ali, Ümmü Seleme, Enes ve İbn Ömer’den de hadis rivâyet edilmiştir. Tirmîzî: Ebû Hüreyre hadisi bu şekliyle yani Muhammed b. Amr, Ebû Seleme ve Ebû Hüreyre rivâyeti olarak hasen garibtir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 12,
+        "hadith": 14
+      }
+    },
+    {
+      "hadithNumber": 1160,
+      "arabicNumber": 1160,
+      "book": 12,
+      "hadithInBook": 15,
+      "text": {
+        "arabic": "حَدَّثَنَا هَنَّادٌ، حَدَّثَنَا مُلاَزِمُ بْنُ عَمْرٍو، قَالَ حَدَّثَنِي عَبْدُ اللَّهِ بْنُ بَدْرٍ، عَنْ قَيْسِ بْنِ طَلْقٍ، عَنْ أَبِيهِ، طَلْقِ بْنِ عَلِيٍّ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ إِذَا الرَّجُلُ دَعَا زَوْجَتَهُ لِحَاجَتِهِ فَلْتَأْتِهِ وَإِنْ كَانَتْ عَلَى التَّنُّورِ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ غَرِيبٌ ‏.‏",
+        "translations": {
+          "en": "Talq bin Ali narrated that The Messenger of Allah said:“When a man calls his wife to fulfill his need, then let her come, even if she is at the oven.”",
+          "ur": "طلق بن علی رضی الله عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”جب آدمی اپنی بیوی کو اپنی خواہش پوری کرنے کے لیے بلائے تو اسے فوراً آنا چاہیئے اگرچہ وہ تنور پر ہو“۔ امام ترمذی کہتے ہیں: یہ حدیث حسن غریب ہے۔",
+          "id": "Telah menceritakan kepada kami [Hannad], telah menceritakan kepada kami [Mulazim bin 'Amr] berkata; Telah menceritakan kepadaku [Abdullah bin Badar] dari [Qais bin Thalq] dari [Bapaknya, Thalq bin Ali] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Jika seorang lelaki mengajak istrinya untuk memenuhi hasratnya, maka hendaknya dia mendatanginya, walau dia sedang berada di dapur.\" Abu Isa berkata; \" Abu Isa berkata; \"Ini adalah hadits hasan gharib",
+          "tr": "Talk b. Ali (r.a.)’den rivâyete göre, şöyle demiştir: Rasûlullah (s.a.v.) şöyle buyurmuştur: “Erkek bir ihtiyacı için hanımını çağırdığında tandır başında ekmek yapıyor bile olsa hemen o işini bırakıp kocasının yanına gelsin.” Tirmîzî rivâyet etmiştir. Tirmîzî: Bu hadis hasen garibtir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 12,
+        "hadith": 15
+      }
+    },
+    {
+      "hadithNumber": 1161,
+      "arabicNumber": 1161,
+      "book": 12,
+      "hadithInBook": 16,
+      "text": {
+        "arabic": "حَدَّثَنَا وَاصِلُ بْنُ عَبْدِ الأَعْلَى الْكُوفِيُّ، حَدَّثَنَا مُحَمَّدُ بْنُ فُضَيْلٍ، عَنْ عَبْدِ اللَّهِ بْنِ عَبْدِ الرَّحْمَنِ أَبِي نَصْرٍ، عَنْ مُسَاوِرٍ الْحِمْيَرِيِّ، عَنْ أُمِّهِ، عَنْ أُمِّ سَلَمَةَ، قَالَتْ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ أَيُّمَا امْرَأَةٍ مَاتَتْ وَزَوْجُهَا عَنْهَا رَاضٍ دَخَلَتِ الْجَنَّةَ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ غَرِيبٌ ‏.‏",
+        "translations": {
+          "en": "Umm Salamah narrated that The Messenger of Allah said:“Whichever woman dies while her husband is pleased with her, then she enters Paradise.”",
+          "ur": "ام المؤمنین ام سلمہ رضی الله عنہا کہتی ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”جو عورت مر جائے اور اس کا شوہر اس سے خوش ہو تو وہ جنت میں داخل ہو گی“۔ امام ترمذی کہتے ہیں: یہ حدیث حسن غریب ہے۔",
+          "id": "Telah menceritakan kepada kami [Washil bin Abdul A'la], telah menceritakan kepada kami [Muhammad bin Fudlail] dari [Abdullah bin Abdurrahman, Abu Nadlr] dari [Musawir Al Himyari] dari [ibunya] dari [Umu Salamah] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda, \"Wanita manapun yang meninggal dan suaminya dalam keadaan ridha (kepadanya), niscaya dia masuk surga.\" Abu 'Isa berkata; \"Ini merupakan hadits hasan gharib",
+          "tr": "Ümmü Seleme (r.anha)’dan rivâyete göre, şöyle demiştir: Rasûlullah (s.a.v.) şöyle buyurdu: “Hangi kadın kocası kendisinden razı olarak ölürse mutlaka Cennete girer.” Diğer tahric: İbn Mâce: Nikah (hno:1854) Tirmîzî: Bu hadis hasen garibtir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Daif"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 12,
+        "hadith": 16
+      }
+    },
+    {
+      "hadithNumber": 1162,
+      "arabicNumber": 1162,
+      "book": 12,
+      "hadithInBook": 17,
+      "text": {
+        "arabic": "حَدَّثَنَا أَبُو كُرَيْبٍ، مُحَمَّدُ بْنُ الْعَلاَءِ حَدَّثَنَا عَبْدَةُ بْنُ سُلَيْمَانَ، عَنْ مُحَمَّدِ بْنِ عَمْرٍو، حَدَّثَنَا أَبُو سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ أَكْمَلُ الْمُؤْمِنِينَ إِيمَانًا أَحْسَنُهُمْ خُلُقًا وَخِيَارُكُمْ خِيَارُكُمْ لِنِسَائِهِمْ خُلُقًا ‏\"‏ ‏.‏ قَالَ وَفِي الْبَابِ عَنْ عَائِشَةَ وَابْنِ عَبَّاسٍ ‏.‏ قَالَ أَبُو عِيسَى حَدِيثُ أَبِي هُرَيْرَةَ هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏",
+        "translations": {
+          "en": "Abu Hurairah narrated that The Messenger of Allah said:“The most complete of the believers in faith, is the one with the best character among them. And the best of you are those who are best to your women.”",
+          "ur": "ابوہریرہ رضی الله عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”ایمان میں سب سے کامل مومن وہ ہے جو سب سے بہتر اخلاق والا ہو، اور تم میں سب سے بہتر وہ ہے جو اخلاق میں اپنی عورتوں کے حق میں سب سے بہتر ہو“۔ امام ترمذی کہتے ہیں: ۱- ابوہریرہ رضی الله عنہ کی یہ حدیث حسن صحیح ہے، ۲- اس باب میں عائشہ اور ابن عباس رضی الله عنہم سے بھی احادیث آئی ہیں۔",
+          "id": "Telah menceritakan kepada kami [Abu Kuraib], telah menceritakan kepada kami ['Abdah bin Sulaiman] dari [Muhammad bin 'Amr], telah menceritakan kepada kami [Abu Salamah] dari [Abu Hurairah] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Orang mukmin yang paling sempurna imannya adalah yang paling baik akhlaknya. Sebaik-baik kalian adalah yang paling baik terhadap para istrinya.\" Abu Isa berkata; \"Hadits semakna diriwayatkan dari Aisyah dan Ibnu Abbas.\" Dia menambahkan; \"Hadits Abu Hurairah merupakan hadits hasan sahih",
+          "tr": "Ebû Hureyre (r.a.)’den rivâyete göre, şöyle demiştir: Rasûlullah (s.a.v.) şöyle buyurmuştur: “Müminlerin iman bakımından en olgun olanları ahlak yönünden de en güzel olanlarıdır. Sizin iyileriniz kadınlarına iyi davrananlardır.” Diğer tahric: Ebû Dâvûd, Sünnet Tirmîzî: Bu konuda Âişe ve İbn Abbâs’tan da hadis rivâyet edilmiştir. Tirmîzî: Ebû Hureyre hadisi hasen sahihtir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 12,
+        "hadith": 17
+      }
+    },
+    {
+      "hadithNumber": 1163,
+      "arabicNumber": 1163,
+      "book": 12,
+      "hadithInBook": 18,
+      "text": {
+        "arabic": "حَدَّثَنَا الْحَسَنُ بْنُ عَلِيٍّ الْخَلاَّلُ، حَدَّثَنَا الْحُسَيْنُ بْنُ عَلِيٍّ الْجُعْفِيُّ، عَنْ زَائِدَةَ، عَنْ شَبِيبِ بْنِ غَرْقَدَةَ، عَنْ سُلَيْمَانَ بْنِ عَمْرِو بْنِ الأَحْوَصِ، قَالَ حَدَّثَنِي أَبِي أَنَّهُ، شَهِدَ حَجَّةَ الْوَدَاعِ مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم فَحَمِدَ اللَّهَ وَأَثْنَى عَلَيْهِ وَذَكَّرَ وَوَعَظَ فَذَكَرَ فِي الْحَدِيثِ قِصَّةً فَقَالَ ‏\"‏ أَلاَ وَاسْتَوْصُوا بِالنِّسَاءِ خَيْرًا فَإِنَّمَا هُنَّ عَوَانٌ عِنْدَكُمْ لَيْسَ تَمْلِكُونَ مِنْهُنَّ شَيْئًا غَيْرَ ذَلِكَ إِلاَّ أَنْ يَأْتِينَ بِفَاحِشَةٍ مُبَيِّنَةٍ فَإِنْ فَعَلْنَ فَاهْجُرُوهُنَّ فِي الْمَضَاجِعِ وَاضْرِبُوهُنَّ ضَرْبًا غَيْرَ مُبَرِّحٍ فَإِنْ أَطَعْنَكُمْ فَلاَ تَبْغُوا عَلَيْهِنَّ سَبِيلاً أَلاَ إِنَّ لَكُمْ عَلَى نِسَائِكُمْ حَقًّا وَلِنِسَائِكُمْ عَلَيْكُمْ حَقًّا فَأَمَّا حَقُّكُمْ عَلَى نِسَائِكُمْ أَلاَّ يُوطِئْنَ فُرُشَكُمْ مَنْ تَكْرَهُونَ وَلاَ يَأْذَنَّ فِي بُيُوتِكُمْ لِمَنْ تَكْرَهُونَ أَلاَ وَحَقُّهُنَّ عَلَيْكُمْ أَنْ تُحْسِنُوا إِلَيْهِنَّ فِي كِسْوَتِهِنَّ وَطَعَامِهِنَّ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏ وَمَعْنَى قَوْلِهِ ‏\"‏ عَوَانٌ عِنْدَكُمْ ‏\"‏ ‏.‏ يَعْنِي أَسْرَى فِي أَيْدِيكُمْ ‏.‏",
+        "translations": {
+          "en": "Sulaiman bin Amr bin Al-Ahwas said:“My father narrated to me that he witnessed the farewell Hajj with the Messenger of Allah. So he thanked and praised Allah and he reminded and gave admonition. He mentioned a story in his narration and he (the Prophet) said: “And indeed I order you to be good to the women, for they are but captives with you over whom you have no power than that, except if they come with manifest Fahishah (evil behavior). If they do that, then abandon their beds and beat them with a beating that is not harmful. And if they obey you then you have no cause against them. Indeed you have rights over your women, and your women have rights over you. As for your rights over your women, then they must not allow anyone whom you dislike to treat on your bedding (furniture), nor to admit anyone in your home that you dislike. And their rights over you are that you treat them well in clothing them and feeding them.”",
+          "ur": "سلیمان بن عمرو بن احوص کہتے ہیں کہ مجھ سے میرے والد نے بیان کیا کہ وہ حجۃ الوداع میں رسول اللہ صلی اللہ علیہ وسلم کے ساتھ شریک ہوئے۔ آپ نے اللہ کی حمد و ثنا بیان کی۔ اور ( لوگوں کو ) نصیحت کی اور انہیں سمجھایا۔ پھر راوی نے اس حدیث میں ایک قصہ کا ذکر کیا اس میں یہ بھی ہے کہ آپ نے فرمایا: ”سنو! عورتوں کے ساتھ خیر خواہی کرو۔ اس لیے کہ وہ تمہارے پاس قیدی ہیں۔ تم اس ( ہمبستری اور اپنی عصمت اور اپنے مال کی امانت وغیرہ ) کے علاوہ اور کچھ اختیار نہیں رکھتے ( اور جب وہ اپنا فرض ادا کرتی ہوں تو پھر ان کے ساتھ بدسلوکی کا جواز کیا ہے ) ہاں اگر وہ کسی کھلی ہوئی بیحیائی کا ارتکاب کریں ( تو پھر تمہیں انہیں سزا دینے کا ہے ) پس اگر وہ ایسا کریں تو انہیں بستروں سے علاحدہ چھوڑ دو اور انہیں مارو لیکن اذیت ناک مار نہ ہو، اس کے بعد اگر وہ تمہاری مطیع ہو جائیں تو پھر انہیں سزا دینے کا کوئی اور بہانہ نہ تلاش کرو، سنو! جس طرح تمہارا تمہاری بیویوں پر حق ہے اسی طرح تم پر تمہاری بیویوں کا بھی حق ہے۔ تمہارا حق تمہاری بیویوں پر یہ ہے کہ وہ تمہارے بستر پر ایسے لوگوں کو نہ روندنے دیں جنہیں تم ناپسند کرتے ہو، اور تمہارے گھر میں ایسے لوگوں کو آنے کی اجازت نہ دیں جنہیں تم اچھا نہیں سمجھتے۔ سنو! اور تم پر ان کا حق یہ ہے کہ تم ان کے لباس اور پہنے میں اچھا سلوک کرو“۔ امام ترمذی کہتے ہیں: ۱- یہ حدیث حسن صحیح ہے، ۲- «عوان عندكم» کا معنی ہے تمہارے ہاتھوں میں قیدی ہیں۔",
+          "id": "Telah menceritakan kepada kami [Al Hasan bin Ali Al Khallal], telah menceritakan kepada [Al Husain bin Ali Al Ju'fi] dari [Za`idah] dari [Syabib bin Gharqadah] dari [Sulaiman bin Amr bin Al Ahwash] berkata; Telah menceritakan kepadaku [Bapakku] bahwa dia melaksanakan haji wada' bersama Nabi shallallahu 'alaihi wasallam. Beliau bertahmid dan memuji Allah, beliau memberi pengingatan dan nasehat. Beliau menuturkan cerita dalam haditsnya, lantas bersabda: \"Ketahuilah, berbuat baiklah terhadap wanita, karena mereka adalah tawanan kalian. Kalian tidak berhak atas mereka lebih dari itu, kecuali jika mereka melakukan perbuatan keji yang nyata. Jika mereka melakukannya, jauhilah mereka di tempat tidur dan pukullah mereka dengan pukulan yang tidak menyakitkan. Jika kemudian mereka menaatimu, maka janganlah kamu mencari-cari jalan untuk menyusahkannya. Ketahuilah; kalian memiliki hak atas istri kalian dan istri kalian memiliki hak atas kalian. Hak kalian atas istri kalian ialah dia tidak boleh memasukkan orang yang kalian benci ke tempat tidur kalian. Tidak boleh memasukan seseorang yang kalian benci ke dalam rumah kalian. Ketahuilah; hak istri kalian atas kalian ialah kalian berbuat baik kepada mereka dalam (memberikan) pakaian dan makanan (kepada) mereka.\" Abu Isa berkata; \"Ini merupakan hadits hasan shahih. Arti dari 'Awaanun' yaitu; mereka adalah tawanan kalian",
+          "tr": "Süleyman b. Amr b. Ahvas (r.a.)’den rivâyete göre, şöyle demiştir: Veda haccında Rasûlullah (s.a.v.) ile birlikte bulunan babam anlatmıştı. Allah’a hamd ederek söze başladı bazı hatırlatmalarda bulunarak va’zu nasihatte bulundu uzunca olan bu hadisin bir kısmında şöyle buyurdu: “Dikkat edin kadınlara karşı iyi davranmanızı tavsiye ederim, onlar size bağlılıkları ve yardımları yönünden esirler gibidir. Cinsel ilişki dışında onlardan fazla bir şey istemeyin, fazla yükler yüklemeyin. Ancak apaçık çirkin bir şey yaparlarsa o zaman onları yataklarında yalnız bırakın ve fazla olmamak şartıyla onları dövün. Size itaat ettikleri takdirde bahaneler arayarak onlara sıkıntı vermeyin. Dikkat edin sizin kadınlarınız üzerinde haklarınız olduğu gibi onlarında sizin üzerinizde hakları vardır. Sizin kadınlarınız üzerindeki hakkınız: Sevmediğiniz kimseleri evinize sokmamaları ve hoşlanmadığınız kimselerle konuşmamalarıdır. Dikkat edin sizin üzerinizde onların hakkı ise: Yedirmek ve giydirmek konusunda onlara iyi davranmanızdır.” Diğer tahric: İbn Mâce: Nikah; Ebû Dâvûd, Nikah Tirmîzî: Bu hadis hasen sahihtir. Tavsiye Vasiyet gibi yapılması gerekli şeydir, hatta bu şari’ den geliyorsa emirdir. Hadiste geçen (Avanün ındeküm)’ün manası: Elinizin altındaki esirler gibidir demektir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 12,
+        "hadith": 18
+      }
+    },
+    {
+      "hadithNumber": 1164,
+      "arabicNumber": 1164,
+      "book": 12,
+      "hadithInBook": 19,
+      "text": {
+        "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ مَنِيعٍ، وَهَنَّادٌ، قَالاَ حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنْ عَاصِمٍ الأَحْوَلِ، عَنْ عِيسَى بْنِ حِطَّانَ، عَنْ مُسْلِمِ بْنِ سَلاَّمٍ، عَنْ عَلِيِّ بْنِ طَلْقٍ، قَالَ أَتَى أَعْرَابِيٌّ النَّبِيَّ صلى الله عليه وسلم فَقَالَ يَا رَسُولَ اللَّهِ الرَّجُلُ مِنَّا يَكُونُ فِي الْفَلاَةِ فَتَكُونُ مِنْهُ الرُّوَيْحَةُ وَيَكُونُ فِي الْمَاءِ قِلَّةٌ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ إِذَا فَسَا أَحَدُكُمْ فَلْيَتَوَضَّأْ وَلاَ تَأْتُوا النِّسَاءَ فِي أَعْجَازِهِنَّ فَإِنَّ اللَّهَ لاَ يَسْتَحْيِي مِنَ الْحَقِّ ‏\"‏ ‏.‏ قَالَ وَفِي الْبَابِ عَنْ عُمَرَ وَخُزَيْمَةَ بْنِ ثَابِتٍ وَابْنِ عَبَّاسٍ وَأَبِي هُرَيْرَةَ ‏.‏ قَالَ أَبُو عِيسَى حَدِيثُ عَلِيِّ بْنِ طَلْقٍ حَدِيثٌ حَسَنٌ ‏.‏ وَسَمِعْتُ مُحَمَّدًا يَقُولُ لاَ أَعْرِفُ لِعَلِيِّ بْنِ طَلْقٍ عَنِ النَّبِيِّ صلى الله عليه وسلم غَيْرَ هَذَا الْحَدِيثِ الْوَاحِدِ وَلاَ أَعْرِفُ هَذَا الْحَدِيثَ مِنْ حَدِيثِ طَلْقِ بْنِ عَلِيٍّ السُّحَيْمِيِّ ‏.‏ وَكَأَنَّهُ رَأَى أَنَّ هَذَا رَجُلٌ آخَرُ مِنْ أَصْحَابِ النَّبِيِّ صلى الله عليه وسلم ‏.‏",
+        "translations": {
+          "en": "Ali bin Talq narrated that A Bedouin came to the Prophet and said:“O Messenger of Allah! A man among us would be in the desert and a small smell would come from him, (what should he do) while the water is scarce? So the Messenger of Allah said: “When one of you breaks wind then let him perform Wudu, and do not go into your women in their behinds for indeed Allah is not shy of the truth.”",
+          "ur": "علی بن طلق رضی الله عنہ کہتے ہیں کہ ایک اعرابی نے نبی اکرم صلی اللہ علیہ وسلم کے پاس آ کر کہا: اللہ کے رسول! ہم میں ایک شخص صحرا ( بیابان ) میں ہوتا ہے، اور اس کو ہوا خارج ہو جاتی ہے ( اور وضو ٹوٹ جاتا ہے ) اور پانی کی قلت بھی ہوتی ہے ( تو وہ کیا کرے؟ ) رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”تم میں سے کسی کی جب ہوا خارج ہو جائے تو چاہیئے کہ وہ وضو کرے، اور عورتوں کی دبر میں صحبت نہ کرو، اللہ تعالیٰ حق بات سے نہیں شرماتا“۔ امام ترمذی کہتے ہیں: ۱- علی بن طلق کی حدیث حسن ہے، ۲- اور میں نے محمد بن اسماعیل بخاری کو کہتے سنا کہ سوائے اس ایک حدیث کے علی بن طلق کی کوئی اور حدیث مجھے نہیں معلوم، جسے انہوں نے نبی اکرم صلی اللہ علیہ وسلم سے روایت کی ہو، اور طلق بن علی سحیمی کی روایت سے میں یہ حدیث نہیں جانتا۔ گویا ان کی رائے یہ ہے کہ یہ صحابہ میں سے کوئی اور آدمی ہیں، ۳- اس باب میں عمر، خزیمہ بن ثابت، ابن عباس اور ابوہریرہ رضی الله عنہم سے بھی احادیث آئی ہیں۔",
+          "id": "Telah menceritakan kepada kami [Ahmad bin Mani'] dan [Hannad] berkata; Telah menceritakan kepada kami [Abu Mu'awiyah] dari ['Ashim Al Ahwal] dari [Isa bin Hithan] dari [Muslim bin Sallam] dari [Ali bin Thalq] berkata; \"Seorang badui menemui Nabi shallallahu 'alaihi wasallam kemudian berkata; 'Wahai Rasulullah, laki-laki di antara kami berada di padang pasir yang luas, lalu dia mengeluarkan sedikit angin (kentut) dan hanya memiliki sedikit air? ' Rasulullah shallallahu 'alaihi wasallam bersabda: 'Jika salah seorang dari kalian membuang angin, maka berwudlu'lah. Janganlah kalian menyetubuhi wanita melalui duburnya. Allah tidak malu terhadap yang haq'.\" Abu Isa berkata; \"Hadits semakna diriwayatkan dari Umar, Khuzaimah bin Tsabit, Ibnu Abbas dan Abu Hurairah.\" Dia menambahkan; \"Ini adalah hadits hasan. Saya mendengar Muhammad berkata; 'Aku tidak mengetahui hadits ini, dari Ali bin Thalq dari Nabi shallallahu 'alaihi wasallam. Saya juga tidak tahu hadits ini termasuk dari hadits Thalq bin Ali As Suhaimi. Muhammad melihat bahwa orang yang dimaksud adalah orang lain, yang termasuk sahabat Nabi shallallahu 'alaihi wasallam. Waki' juga meriwayatkan hadits ini",
+          "tr": "Ali b. Talk (r.a.)’den rivâyete göre, şöyle demiştir: Bir bedevi Peygamber (s.a.v.)’e gelerek şöyle dedi: “Ey Allah’ın Rasûlü! Bizden biri çölde iken yellenir ve su da çok az olursa ne yapması gerekir? Rasûlullah (s.a.v.) şöyle buyurdu: Sizden biriniz yellendiğinde hemen abdestini alsın, kadınlarınıza arkalarından yaklaşmayın, Allah hakkı söylemekten çekinmez.” Diğer tahric: Ebû Dâvûd, Tahara Tirmîzî: Bu konuda Ömer, Huzeyme b. Sabit, İbn Abbâs ve Ebû Hureyre’den de hadis rivâyet edilmiştir. Tirmîzî: Ali b. Talk hadisi hasendir. Muhammed’den işittim diyordu ki: Bu tek bir hadisten başka Ali b. Talk’ın Rasûlullah (s.a.v.)’den rivâyetini bilmiyoruz. Yine bu hadis Ali b. Talk’a mı ait yoksa Talk İbn Ali es Suhaymî’nin midir onu da bilmiyoruz. Buhariye göre anlaşılan bu hadisi rivâyet eden sahabeden başka birisidir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Daif"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 12,
+        "hadith": 19
+      }
+    },
+    {
+      "hadithNumber": 1165,
+      "arabicNumber": 1165,
+      "book": 12,
+      "hadithInBook": 20,
+      "text": {
+        "arabic": "حَدَّثَنَا أَبُو سَعِيدٍ الأَشَجُّ، حَدَّثَنَا أَبُو خَالِدٍ الأَحْمَرُ، عَنِ الضَّحَّاكِ بْنِ عُثْمَانَ، عَنْ مَخْرَمَةَ بْنِ سُلَيْمَانَ، عَنْ كُرَيْبٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ لاَ يَنْظُرُ اللَّهُ إِلَى رَجُلٍ أَتَى رَجُلاً أَوِ امْرَأَةً فِي الدُّبُرِ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ غَرِيبٌ ‏.‏ وَرَوَى وَكِيعٌ هَذَا الْحَدِيثَ ‏.‏",
+        "translations": {
+          "en": "Ibn Abbas narrated that The Messenger of Allah said:“Allah will not look at a man who enters a man or a woman in the behind.”",
+          "ur": "عبداللہ بن عباس رضی الله عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”اللہ اس شخص کی طرف ( رحمت کی نظر سے ) نہیں دیکھے گا جو کسی مرد یا کسی عورت کی دبر میں صحبت کرے“۔ امام ترمذی کہتے ہیں: یہ حدیث حسن غریب ہے۔",
+          "id": "Telah menceritakan kepada kami [Abu Sa'id Al Asyaj], telah menceritakan kepada kami [Abu Khalid Al Ahmar] dari [Adl Dlahak bin 'Utsman] dari [Makhramah bin Sulaiman] dari [Kuraib] dari [Ibnu Abbas] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Allah tidak akan melihat seorang lelaki yang menyetubuhi lelaki lain (homoseksual) atau (menyetubuhi) wanita dari duburnya.\" Abu Isa berkata; \"Ini merupakan hadits hasan gharib",
+          "tr": "İbn Abbâs (r.a.)’den rivâyete göre, şöyle demiştir: Rasûlullah (s.a.v.) şöyle buyurdu: “Allah, bir erkeğe veya kadına arkasından yaklaşan kimseye rahmet bakışıyla bakmaz.” Tirmîzî rivâyet etmiştir. Tirmîzî: Bu hadis hasen garibtir. Bu hadisi Vekî’de rivâyet etmiştir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 12,
+        "hadith": 20
+      }
+    },
+    {
+      "hadithNumber": 1166,
+      "arabicNumber": 1166,
+      "book": 12,
+      "hadithInBook": 21,
+      "text": {
+        "arabic": "حَدَّثَنَا قُتَيْبَةُ، وَغَيْرُ، وَاحِدٍ، قَالُوا حَدَّثَنَا وَكِيعٌ، عَنْ عَبْدِ الْمَلِكِ بْنِ مُسْلِمٍ، وَهُوَ ابْنُ سَلاَّمٍ عَنْ أَبِيهِ، عَنْ عَلِيٍّ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ إِذَا فَسَا أَحَدُكُمْ فَلْيَتَوَضَّأْ وَلاَ تَأْتُوا النِّسَاءَ فِي أَعْجَازِهِنَّ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى وَعَلِيٌّ هَذَا هُوَ عَلِيُّ بْنُ طَلْقٍ ‏.‏",
+        "translations": {
+          "en": "Ali narrated that The Messenger of Allah said:“When one of you breaks wind then let him perform Wudu, and do not go into your women through their behinds.”",
+          "ur": "علی بن طلق رضی الله عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”جب تم میں سے کوئی ہوا خارج کرے تو چاہیئے کہ وضو کرے اور تم عورتوں کی دبر میں صحبت نہ کرو“۔ امام ترمذی کہتے ہیں: علی سے مراد علی بن طلق ہیں۔",
+          "id": "Telah menceritakan kepada kami [Qutaibah] dan yang lainnya berkata; Telah menceritakan kepada kami [Waki'] dari [Abdul Malik bin Muslim] yaitu Ibnu Sallam dari [Bapaknya] dari [Ali] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Jika salah seorang dari kalian buang angin (kentut), maka berwudhulah, dan janganlah kalian menggauli isteri kalian dari dubur mereka.\" Abu Isa berkata; \"Ali yang dimaksud yaitu Ali bin Thalq",
+          "tr": "Ali (r.a.)’den rivâyete göre, şöyle demiştir: Rasûlullah (s.a.v.) şöyle buyurdu: “Sizden biriniz yellendiğinde abdest alsın ve kadınlarınıza arkalarından yaklaşmayın.” Diğer tahric: Ebû Dâvûd, Tahara Tirmîzî: Buradaki Ali, Ali b. Talk’tır"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Daif"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 12,
+        "hadith": 21
+      }
+    },
+    {
+      "hadithNumber": 1167,
+      "arabicNumber": 1167,
+      "book": 12,
+      "hadithInBook": 22,
+      "text": {
+        "arabic": "حَدَّثَنَا عَلِيُّ بْنُ خَشْرَمٍ، أَخْبَرَنَا عِيسَى بْنُ يُونُسَ، عَنْ مُوسَى بْنِ عُبَيْدَةَ، عَنْ أَيُّوبَ بْنِ خَالِدٍ، عَنْ مَيْمُونَةَ بِنْتِ سَعْدٍ، وَكَانَتْ، خَادِمًا لِلنَّبِيِّ صلى الله عليه وسلم قَالَتْ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ مَثَلُ الرَّافِلَةِ فِي الزِّينَةِ فِي غَيْرِ أَهْلِهَا كَمَثَلِ ظُلْمَةِ يَوْمِ الْقِيَامَةِ لاَ نُورَ لَهَا ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ لاَ نَعْرِفُهُ إِلاَّ مِنْ حَدِيثِ مُوسَى بْنِ عُبَيْدَةَ ‏.‏ وَمُوسَى بْنُ عُبَيْدَةَ يُضَعَّفُ فِي الْحَدِيثِ مِنْ قِبَلِ حِفْظِهِ وَهُوَ صَدُوقٌ ‏.‏ وَقَدْ رَوَاهُ بَعْضُهُمْ عَنْ مُوسَى بْنِ عُبَيْدَةَ وَلَمْ يَرْفَعْهُ ‏.‏",
+        "translations": {
+          "en": "Maimunah bin Sa’d who was a servant for the Prophet, narrated that The Messenger of Allah said:“The parable of the woman who walks to impress others in adornments for other than her family, is that of darkness on the Day of Judgment: There is no light for her.”",
+          "ur": "میمونہ بنت سعد رضی الله عنہا کہ جو نبی اکرم صلی اللہ علیہ وسلم کی خادمہ تھیں، وہ کہتی ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”اپنے شوہر کے علاوہ غیروں کے سامنے بناؤ سنگار کر کے اترا کر چلنے والی عورت کی مثال قیامت کے دن کی تاریکی کی طرح ہے، اس کے پاس کوئی نور نہیں ہو گا“۔ امام ترمذی کہتے ہیں: ۱- اس حدیث کو ہم صرف موسیٰ بن عبیدہ ہی کی روایت سے جانتے ہیں، ۲- موسیٰ بن عبیدہ اپنے حفظ کے تعلق سے ضعیف قرار دیے جاتے ہیں، وہ صدوق ہیں، ان سے شعبہ اور ثوری نے بھی روایت کی ہے۔ ۳- اور بعض نے اسے موسیٰ بن عبیدہ سے روایت کیا ہے، اور اسے مرفوع نہیں کیا ہے۔",
+          "id": "Telah menceritakan kepada kami [Ali bin Khasyram], telah menghabarkan kepada kami [Isa bin Yunus] dari [Musa bin 'Ubaidah] dari [Ayyub bin Khalid] dari [Maimunah binti Sa'ad] dia adalah pelayan Nabi shallallahu 'alaihi wasallam, berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Perumpamaan wanita yang bangga dan sombong yang menjulurkan (memperlihatkan) perhiasannya kepada selain suaminya seperti kegelapan pada hari kiamat, tidak ada cahaya sedikitpun padanya.\" Abu 'Isa berkata; \"Ini merupakan hadits yang tidak kami ketahui kecuali dari hadits Musa bin 'Ubaidah padahal Musa bin Ubaidah didla'ifkan dari segi hapalannya, namun dia jujur. Syu'bah dan Ats Tsauri meriwayatkan darinya. Sebagian ahli hadits meriwayatkan dari Musa bin Ubaidah namun tidak memarfu'kannya",
+          "tr": "Sa’d’ın kızı Meymûne (r.anha)’dan rivâyete göre, şöyle demiştir: Rasûlullah (s.a.v.) şöyle buyurdu: “Ailesi dışındaki kimselere süslenerek görünmeye çalışan kadın’ın durumu kıyamet günü gerçekleşecek karanlıklar gibidir, ona hiçbir şekilde aydınlık yoktur.” Tirmîzî rivâyet etmiştir. Tirmîzî: Bu hadisi sadece Musa b. Ubeyde’nin hadisinden bilmekteyiz. Musa b. Ubeyde ise kendisi çok doğru bir kimse olmakla beraber hadis konusunda zayıf sayılmıştır. Bazı râvîler bu hadisi merfu olmaksızın Musa b. Ubeyde’den rivâyet etmektedirler"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Daif"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 12,
+        "hadith": 22
+      }
+    },
+    {
+      "hadithNumber": 1168,
+      "arabicNumber": 1168,
+      "book": 12,
+      "hadithInBook": 23,
+      "text": {
+        "arabic": "حَدَّثَنَا حُمَيْدُ بْنُ مَسْعَدَةَ، حَدَّثَنَا سُفْيَانُ بْنُ حَبِيبٍ، عَنِ الْحَجَّاجِ الصَّوَّافِ، عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ إِنَّ اللَّهَ يَغَارُ وَالْمُؤْمِنُ يَغَارُ وَغَيْرَةُ اللَّهِ أَنْ يَأْتِيَ الْمُؤْمِنُ مَا حَرَّمَ عَلَيْهِ ‏\"‏ ‏.‏ قَالَ وَفِي الْبَابِ عَنْ عَائِشَةَ وَعَبْدِ اللَّهِ بْنِ عُمَرَ ‏.‏ قَالَ أَبُو عِيسَى حَدِيثُ أَبِي هُرَيْرَةَ حَدِيثٌ حَسَنٌ غَرِيبٌ ‏.‏ وَقَدْ رُوِيَ عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ عَنْ أَبِي سَلَمَةَ عَنْ عُرْوَةَ عَنْ أَسْمَاءَ بِنْتِ أَبِي بَكْرٍ عَنِ النَّبِيِّ صلى الله عليه وسلم هَذَا الْحَدِيثُ وَكِلاَ الْحَدِيثَيْنِ صَحِيحٌ ‏.‏ وَالْحَجَّاجُ الصَّوَّافُ هُوَ الْحَجَّاجُ بْنُ أَبِي عُثْمَانَ وَأَبُو عُثْمَانَ اسْمُهُ مَيْسَرَةُ وَالْحَجَّاجُ يُكْنَى أَبَا الصَّلْتِ وَثَّقَهُ يَحْيَى بْنُ سَعِيدٍ الْقَطَّانُ ‏.‏ حَدَّثَنَا أَبُو بَكْرٍ الْعَطَّارُ عَنْ عَلِيِّ بْنِ الْمَدِينِيِّ قَالَ سَأَلْتُ يَحْيَى بْنَ سَعِيدٍ الْقَطَّانَ عَنْ حَجَّاجٍ الصَّوَّافِ فَقَالَ ثِقَةٌ فَطِنٌ كَيِّسٌ ‏.‏",
+        "translations": {
+          "en": "Abu Hurairah narrated that The Messenger of Allah said:“Allah becomes jealous and the believer becomes jealous. Allah’s jealousy occurs when a believer does what He has made unlawful for him.”",
+          "ur": "ابوہریرہ رضی الله عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”اللہ کو غیرت آتی ہے اور مومن کو بھی غیرت آتی ہے، اللہ کی غیرت اس پر ہے کہ مومن کوئی ایسا کام کرے جسے اللہ نے اس پر حرام کیا ہے“۔ امام ترمذی کہتے ہیں: ۱- ابوہریرہ رضی الله عنہ کی حدیث حسن غریب ہے، ۲- اور یہ حدیث یحییٰ بن ابی کثیر ( اس طریق سے بھی ) سے مروی ہے «عن أبي سلمة عن عروة عن أسماء بنت أبي بكر عن النبي صلى الله عليه وسلم» یہ دونوں حدیثیں صحیح ہیں، ۳- حجاج صواف ہی حجاج بن ابی عثمان ہیں۔ ابوعثمان کا نام میسرہ ہے اور حجاج کی کنیت ابوصلت ہے۔ یحییٰ بن سعید نے ان کی توثیق کی ہے۔ یحییٰ بن سعید القطان نے حجاج صواف کے بارے میں کہا: وہ ثقہ ذہین اور ہوشیار ہیں، ۴- اس باب میں عائشہ اور عبداللہ بن عمر رضی الله عنہم سے بھی احادیث آئی ہیں۔",
+          "id": "Telah menceritakan kepada kami [Humaid bin Mas'adah], telah menceritakan kepada kami [Sufyan bin Habaib] dari [Al Hajjaj Ash Shawaf] dari [Yahya bin Abu Katsir] dari [Abu Salamah] dari [Abu Hurairah] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Allah mempunyai rasa cemburu dan orang mukmin juga mempunyai rasa cemburu. Kecemburuan Allah ketika seorang mukmin melakukan apa yang diharamkan oleh-Nya.\" Abu Isa berkata; \"Hadits semakna diriwayatkan dari Aisyah dan Abdullah bin Umar.\" Dia menambahkan; \"Hadits Abu Hurairah merupakan hadits hasan gharib. Telah diriwayatkan dari [Yahya bin Abu Katsir] dari [Abu Salamah] dari ['Urwah] dari [Asma` binti Abu Bakar] dari Nabi shallallahu 'alaihi wasallam hadits ini. Dua hadits itu sahih. Al Hajjaj As Shawaf adalah Al Hajjaj bin Abu 'Utsman. Abu 'Utsman bernama Maisarah. dan Al Hajjaj berkunyah (julukan) Abu As Shalt, Yahya bin Sa'id mentsiqahkanya. Telah menceritakan kepada kami Abu Bakar Al 'Athar dari Ali bin Al Madini berkata; saya telah bertanya Yahya bin Sa'id Al Qathan dari Hajjaj As Shawaf, dia menjawab; tsiqah dan cerdas",
+          "tr": "Ebû Hüreyre (radıyallahü anh)’den rivâyete göre, şöyle demiştir: Rasûlüllah (sallallahü aleyhi ve sellem) şöyle buyurdu: “Allah’ta kıskanır, mü’min’de kıskanır. Allah’ın kıskanması mü’min’in haramları işlemesinden dolayıdır.” (Buhârî, Nikah: 108; Nesâî, Nikah: 16) Bu konuda Âişe ve Abdullah b. Ömer’den de hadis rivâyet edilmiştir. Ebû Hüreyre hadisi hasen garibtir. bu hadis; Yahya b. ebî Kesir’den, Ebû Seleme’den, Urve’den, Esma binti ebî Bekir’den de rivâyet edilmiştir. Her iki rivâyet de sahihtir. Haccac es Savvaf, Haccac b. Ebû Osman’dır. Ebû Osman’ın ismi ise Meysere’dir. Haccac, Ebûs Salt künyesiyle bilinir. Yahya b. Saîd onun güvenilir bir kimse olduğunu söylemektedir. Bekir el Attar, Ali b. el Medînî’nin bize şöyle dediğini aktarmıştır. Yahya b. Saîd el Kattan’a, Haccac es Savvaf’ı sorduğumda “Güvenilen zeki kabiliyetli bir kimsedir” dedi"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 12,
+        "hadith": 23
+      }
+    },
+    {
+      "hadithNumber": 1169,
+      "arabicNumber": 1169,
+      "book": 12,
+      "hadithInBook": 24,
+      "text": {
+        "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ مَنِيعٍ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ لاَ يَحِلُّ لاِمْرَأَةٍ تُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الآخِرِ أَنْ تُسَافِرَ سَفَرًا يَكُونُ ثَلاَثَةَ أَيَّامٍ فَصَاعِدًا إِلاَّ وَمَعَهَا أَبُوهَا أَوْ أَخُوهَا أَوْ زَوْجُهَا أَوِ ابْنُهَا أَوْ ذُو مَحْرَمٍ مِنْهَا ‏\"‏ ‏.‏ وَفِي الْبَابِ عَنْ أَبِي هُرَيْرَةَ وَابْنِ عَبَّاسٍ وَابْنِ عُمَرَ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏ وَرُوِيَ عَنِ النَّبِيِّ صلى الله عليه وسلم أَنَّهُ قَالَ ‏\"‏ لاَ تُسَافِرُ الْمَرْأَةُ مَسِيرَةَ يَوْمٍ وَلَيْلَةٍ إِلاَّ مَعَ ذِي مَحْرَمٍ ‏\"‏ ‏.‏ وَالْعَمَلُ عَلَى هَذَا عِنْدَ أَهْلِ الْعِلْمِ يَكْرَهُونَ لِلْمَرْأَةِ أَنْ تُسَافِرَ إِلاَّ مَعَ ذِي مَحْرَمٍ ‏.‏ وَاخْتَلَفَ أَهْلُ الْعِلْمِ فِي الْمَرْأَةِ إِذَا كَانَتْ مُوسِرَةً وَلَمْ يَكُنْ لَهَا مَحْرَمٌ هَلْ تَحُجُّ ‏.‏ فَقَالَ بَعْضُ أَهْلِ الْعِلْمِ لاَ يَجِبُ عَلَيْهَا الْحَجُّ لأَنَّ الْمَحْرَمَ مِنَ السَّبِيلِ لِقَوْلِ اللَّهِ عَزَّ وَجَلَِّ ‏:‏ ‏(‏ لِمَنِ اسْتَطَاعَ إِلَيْهِ سَبِيلاً ‏)‏ فَقَالُوا إِذَا لَمْ يَكُنْ لَهَا مَحْرَمٌ فَلاَ تَسْتَطِيعُ إِلَيْهِ سَبِيلاً ‏.‏ وَهُوَ قَوْلُ سُفْيَانَ الثَّوْرِيِّ وَأَهْلِ الْكُوفَةِ ‏.‏ وَقَالَ بَعْضُ أَهْلِ الْعِلْمِ إِذَا كَانَ الطَّرِيقُ آمِنًا فَإِنَّهَا تَخْرُجُ مَعَ النَّاسِ فِي الْحَجِّ ‏.‏ وَهُوَ قَوْلُ مَالِكِ بْنِ أَنَسٍ وَالشَّافِعِيِّ ‏.‏",
+        "translations": {
+          "en": "Abu Sa’eed Al-Khudri narrated that The Messenger of Allah said:“It is not lawful for a woman who believers in Allah and the Last Day to travel on a trip that is three days or more, unless she is accompanied by her father, her brother, her husband, her son, or someone who is a Mahram to her.”",
+          "ur": "ابو سعید خدری رضی الله عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”کسی عورت کے لیے جو اللہ اور یوم آخرت پر ایمان رکھتی ہو، حلال نہیں کہ وہ تین دن ۱؎ یا اس سے زائد کا سفر کرے اور اس کے ساتھ اس کا باپ یا اس کا بھائی یا اس کا شوہر یا اس کا بیٹا یا اس کا کوئی محرم نہ ہو“ ۲؎۔ امام ترمذی کہتے ہیں: ۱- یہ حدیث حسن صحیح ہے، ۲- اس باب میں ابوہریرہ، ابن عباس اور ابن عمر رضی الله عنہم سے بھی احادیث آئی ہیں، ۳- نبی اکرم صلی اللہ علیہ وسلم سے یہ بھی مروی ہے کہ آپ نے فرمایا: ”عورت ایک دن اور ایک رات کی مسافت کا سفر کسی محرم کے بغیر نہ کرے۔ اہل علم کا اسی پر عمل ہے، وہ عورت کے لیے درست نہیں سمجھتے کہ محرم کے بغیر سفر کرے۔ اہل علم کا اس عورت کے بارے میں اختلاف ہے کہ جو حج کی استطاعت رکھتی ہو لیکن اس کا کوئی محرم نہ ہو تو وہ حج کرے یا نہیں؟ بعض اہل علم کہتے ہیں: اس پر حج نہیں ہے، اس لیے کہ محرم بھی اللہ تعالیٰ کے ارشاد «من استطاع إليه سبيلا» میں استطاعت سبیل میں داخل ہے۔ وہ کہتے ہیں کہ جب اس کا کوئی محرم نہ ہو تو وہ استطاعت سبیل نہیں رکھتی۔ یہ سفیان ثوری اور اہل کوفہ کا قول ہے۔ اور بعض اہل علم کہتے ہیں کہ جب راستہ مامون ہو، تو وہ لوگوں کے ساتھ حج میں جا سکتی ہے۔ یہی مالک اور شافعی کا بھی قول ہے۔",
+          "id": "Telah menceritakan kepada kami [Ahmad bin Mani'], telah menceritakan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dari [Abu Shalih] dari [Abu Sa'id Al Khudri] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Tidak halal bagi seorang wanita yang beriman kepada Allah dan Hari Akhir melakukan perjalanan tiga hari atau lebih kecuali bersama bapaknya, atau saudara laki-lakinya, atau suaminya, atau anaknya, atau salah satu mahramnya.\" Hadits semakna diriwayatkan dari Abu Hurairah, Ibnu Abbas dan Ibnu Umar. Abu Isa berkata; \"Ini merupakan hadits hasan sahih. Diriwayatkan dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: \"Janganlah seorang wanita melakukan perjalanan sehari semalam kecuali bersama dengan mahramnya.\" Ini merupakan pendapat para ulama, mereka membenci wanita untuk melakukan safar kecuali bersama mahramnya. Para ulama berselisih mengenai wanita yang kaya padahal dia dia tidak memiliki mahram; apakah dia harus berhaji? Sebagian mereka menjawab; dia tidak wajib berhaji karena mahram masuk dalam makna \"as sabil\" (jalan), berdasakan firman Allah 'azza wajalla: \"Barangsiapa yang sanggup mengadakan perjalanan ke Baitullah.\" Mereka berkata; \"Jika dia tidak memiliki mahram, dia tidak mampu mengadakan perjalanan tersebut.\" Ini juga pendapat Sufyan Ats Tsauri dan penduduk Kufah. Sebagian ulama berkata; \"Jika perjalanannya aman, dia wajib keluar bersama orang-orang.\" Ini pendapat Malik dan Syafi'i"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Bukhari And Muslim"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 12,
+        "hadith": 24
+      }
+    },
+    {
+      "hadithNumber": 1170,
+      "arabicNumber": 1170,
+      "book": 12,
+      "hadithInBook": 25,
+      "text": {
+        "arabic": "حَدَّثَنَا الْحَسَنُ بْنُ عَلِيٍّ الْخَلاَّلُ، حَدَّثَنَا بِشْرُ بْنُ عُمَرَ، حَدَّثَنَا مَالِكُ بْنُ أَنَسٍ، عَنْ سَعِيدِ بْنِ أَبِي سَعِيدٍ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ لاَ تُسَافِرُ امْرَأَةٌ مَسِيرَةَ يَوْمٍ وَلَيْلَةٍ إِلاَّ وَمَعَهَا ذُو مَحْرَمٍ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏",
+        "translations": {
+          "en": "Abu Hurairah narrated that The Messenger of Allah said:“A woman is not to travel the distance of a day and a night unless she is accompanied by someone who is a Mahram.”",
+          "ur": "ابوہریرہ رضی الله عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”کوئی عورت ایک دن اور ایک رات کی مسافت کا سفر محرم کے بغیر نہ کرے“۔ امام ترمذی کہتے ہیں: یہ حدیث حسن صحیح ہے۔",
+          "id": "Telah menceritakan kepada kami [Al Hasan bin Ali Al Khallal], telah menceritakan kepada kami [Bisyr bin Umar] telah menceritakan kepada kami [Malik bin Anas] dari [Sa'id bin Abu Sa'id] dari [Bapaknya] dari [Abu Hurairah] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Tidak boleh seorang wanita melakukan perjalanan sehari semalam kecuali bersama mahramnya.\" Abu Isa berkata; \"Ini merupakan hadits hasan sahih",
+          "tr": "Ebû Hureyre (r.a.)’den rivâyete göre, şöyle demiştir: Rasûlullah (s.a.v.) şöyle buyurdu: “Kadın bir günlük ve bir gecelik yola yanında bir mahremi (Nikahlanması mümkün olmayan bir erkek yakını) olmaksızın çıkmasın.” Diğer tahric: Buhârî, Taksirus Salat; Müslim, Hac Tirmîzî: Bu hadis hasen sahihtir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 12,
+        "hadith": 25
+      }
+    },
+    {
+      "hadithNumber": 1171,
+      "arabicNumber": 1171,
+      "book": 12,
+      "hadithInBook": 26,
+      "text": {
+        "arabic": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا اللَّيْثُ، عَنْ يَزِيدَ بْنِ أَبِي حَبِيبٍ، عَنْ أَبِي الْخَيْرِ، عَنْ عُقْبَةَ بْنِ عَامِرٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\"‏ إِيَّاكُمْ وَالدُّخُولَ عَلَى النِّسَاءِ ‏\"‏ ‏.‏ فَقَالَ رَجُلٌ مِنَ الأَنْصَارِ يَا رَسُولَ اللَّهِ أَفَرَأَيْتَ الْحَمْوَ قَالَ ‏\"‏ الْحَمْوُ الْمَوْتُ ‏\"‏ ‏.‏ قَالَ وَفِي الْبَابِ عَنْ عُمَرَ وَجَابِرٍ وَعَمْرِو بْنِ الْعَاصِ ‏.‏ قَالَ أَبُو عِيسَى حَدِيثُ عُقْبَةَ بْنِ عَامِرٍ حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏ وَإِنَّمَا مَعْنَى كَرَاهِيَةِ الدُّخُولِ عَلَى النِّسَاءِ عَلَى نَحْوِ مَا رُوِيَ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\"‏ لاَ يَخْلُوَنَّ رَجُلٌ بِامْرَأَةٍ إِلاَّ كَانَ ثَالِثَهُمَا الشَّيْطَانُ ‏\"‏ ‏.‏ وَمَعْنَى قَوْلِهِ ‏\"‏ الْحَمْوُ ‏\"‏ ‏.‏ يُقَالُ هُوَ أَخُو الزَّوْجِ كَأَنَّهُ كَرِهَ لَهُ أَنْ يَخْلُوَ بِهَا ‏.‏",
+        "translations": {
+          "en": "Uqbah bin Amir narrated that The Messenger of Allah said:“Beware of entering upon women.” So a man from the Ansar said: ‘”O Messenger of Allah! What do you think about Hamu? So he said: “The Hamu is death.”",
+          "ur": "عقبہ بن عامر رضی الله عنہ سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”عورتوں کے پاس خلوت ( تنہائی ) میں آنے سے بچو“، اس پر انصار کے ایک شخص نے کہا: اللہ کے رسول! دیور ( شوہر کے بھائی ) کے بارے میں کیا خیال ہے؟ آپ نے فرمایا: ”دیور موت ہے“۔ امام ترمذی کہتے ہیں: ۱- عقبہ بن عامر رضی الله عنہ کی حدیث حسن صحیح ہے، ۲- اس باب میں عمر، جابر اور عمرو بن العاص رضی الله عنہم سے بھی احادیث آئی ہیں، ۳- عورتوں کے پاس خلوت ( تنہائی ) میں آنے کی حرمت کا مطلب وہی ہے جو نبی اکرم صلی اللہ علیہ وسلم سے مروی ہے کہ آپ نے فرمایا: ”کوئی شخص کسی عورت کے ساتھ خلوت ( تنہائی ) میں ہوتا ہے تو اس کا تیسرا شیطان ہوتا ہے“، ۴- «حمو» شوہر کے بھائی یعنی دیور کو کہتے ہیں، گویا آپ نے دیور کے بھاوج کے ساتھ تنہائی میں ہونے کو حرام قرار دیا ہے۔",
+          "id": "Telah menceritakan kepada kami [Qutaibah], telah menceritakan kepada kami [Laits] dari [Yazid bin Abu Habib] dari [Abu Al Khair] dari ['Uqbah bin 'Amir] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: \"Janganlah kalian menemui para wanita.\" Ada seorang Anshar bertanya; \"Wahai Rasulullah, bagaimana pendapat anda dengan saudara ipar?\" Beliau menjawab: \"Saudara ipar adalah kematian.\" Abu Isa berkata; \"Hadits semakna diriwayatkan dari Umar, Jabir dan 'Amr bin Al Ash.\" Dia menambahkan; \"Hadits 'Uqbah bin 'Amir merupakan hadits hasan sahih. Maksud dibencinya menemui para wanita sebagaimana yang diriwayatkan dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: \"Tidaklah seorang laki-laki berduaan dengan seorang wanita kecuali ketiganya adalah setan.\" Makna dari ipar, yaitu saudara suami, beliau membencinya berduaan dengan isteri",
+          "tr": "Ukbe b. Âmir (r.a.)’den rivâyete göre, Rasûlullah (s.a.v.) şöyle buyurdu: “Kadınlarla beraber olmamaya bakın!” Bunun üzerine Ensârdan bir adam: Ey Allah’ın Rasûlü dedi: “Kocanın babası ve oğullarından başka olan diğer akrabaların durumuna ne dersin? “Onlarla birlikte olmak ölüm gibi felakettir” buyurdular. Diğer tahric: Buhârî, Nikah; Müslim, Selam Tirmîzî: Bu konuda Ömer, Câbir ve Amr b. As’tan da hadis rivâyet edilmiştir. Tirmîzî: Ukbe b. Âmir hadisi hasen sahihtir. Gerçekten kadınlarla birlikte olmanın hoş olmayışı Rasûlullah (s.a.v.)’in şu hadisine uygunluğundandır. “Bir erkek bir kadınla tek başına bir arada kalmasın üçüncüleri şeytandır.” Hadiste geçen “El Hamv” kocanın kardeşi demektir. Bir kadının kocasının kardeşiyle bir arada kalması ölümden beter tehlikeler ortaya çıkarabilir. O yönden hoş görülmemiş daha tehlikelidir denmiştir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 12,
+        "hadith": 26
+      }
+    },
+    {
+      "hadithNumber": 1172,
+      "arabicNumber": 1172,
+      "book": 12,
+      "hadithInBook": 27,
+      "text": {
+        "arabic": "حَدَّثَنَا نَصْرُ بْنُ عَلِيٍّ، حَدَّثَنَا عِيسَى بْنُ يُونُسَ، عَنْ مُجَالِدٍ، عَنِ الشَّعْبِيِّ، عَنْ جَابِرٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\"‏ لاَ تَلِجُوا عَلَى الْمُغِيبَاتِ فَإِنَّ الشَّيْطَانَ يَجْرِي مِنْ أَحَدِكُمْ مَجْرَى الدَّمِ ‏\"‏ ‏.‏ قُلْنَا وَمِنْكَ قَالَ ‏\"‏ وَمِنِّي وَلَكِنَّ اللَّهَ أَعَانَنِي عَلَيْهِ فَأَسْلَمُ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ غَرِيبٌ مِنْ هَذَا الْوَجْهِ ‏.‏ وَقَدْ تَكَلَّمَ بَعْضُهُمْ فِي مُجَالِدِ بْنِ سَعِيدٍ مِنْ قِبَلِ حِفْظِهِ ‏.‏ وَسَمِعْتُ عَلِيَّ بْنَ خَشْرَمٍ يَقُولُ قَالَ سُفْيَانُ بْنُ عُيَيْنَةَ فِي تَفْسِيرِ قَوْلِ النَّبِيِّ صلى الله عليه وسلم ‏\"‏ وَلَكِنَّ اللَّهَ أَعَانَنِي عَلَيْهِ فَأَسْلَمُ ‏\"‏ ‏.‏ يَعْنِي أَسْلَمُ أَنَا مِنْهُ ‏.‏ قَالَ سُفْيَانُ وَالشَّيْطَانُ لاَ يُسْلِمُ ‏.‏ وَ ‏\"‏ لاَ تَلِجُوا عَلَى الْمُغِيبَاتِ ‏\"‏ وَالْمُغِيبَةُ الْمَرْأَةُ الَّتِي يَكُونُ زَوْجُهَا غَائِبًا وَالْمُغِيبَاتُ جَمَاعَةُ الْمُغِيبَةِ ‏.‏",
+        "translations": {
+          "en": "Jabir narrated that The Prophet said:“Do not enter upon Al-Mughibar (the women whose husband are absent), for indeed the Shaitan flows through one of you as the blood flows.” We said: “And you?” He said: “And me, but Allah helped me over him, so I am safe.”",
+          "ur": "جابر رضی الله عنہ سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: ”تم لوگ ایسی عورتوں کے گھروں میں داخل نہ ہو، جن کے شوہر گھروں پر نہ ہوں، اس لیے کہ شیطان تم میں سے ہر ایک کے اندر ایسے ہی دوڑتا ہے جیسے خون جسم میں دوڑتا ہے“، ہم نے عرض کیا: آپ کے بھی؟ آپ نے فرمایا: ”ہاں میرے بھی، لیکن اللہ تعالیٰ نے اس کے مقابلے میں میری مدد کی ہے، اس لیے میں ( اس کے شر سے ) محفوظ رہتا ہوں“۔ امام ترمذی کہتے ہیں: یہ حدیث اس سند سے غریب ہے۔ بعض لوگوں نے مجالد بن سعید کے حفظ کے تعلق سے کلام کیا ہے، ۲- سفیان بن عیینہ نبی اکرم صلی اللہ علیہ وسلم کے قول «ولكن الله اعانني عليه فاسلم» ”لیکن اللہ نے میری مدد کی ہے اس لیے میں محفوظ رہتا ہوں“ کی تشریح میں کہتے ہیں: اس سے مراد یہ ہے کہ ”میں اس شیطان سے محفوظ رہتا ہوں“، نہ یہ کہ وہ اسلام لے آیا ہے ( کیونکہ ) : شیطان مسلمان نہیں ہوتا، ۳- «ولاتلجوا على المغيبات» میں «مغیبة» سے مراد وہ عورت ہے، جس کا شوہر موجود نہ ہو، «مغيبات»،‏‏‏‏ «مغيبة» کی جمع ہے۔",
+          "id": "Telah menceritakan kepada kami [Nashr bin Ali], telah menceritakan kepada kami [Isa bin Yunus] dari [Mujalid] dari [Asy Sya'bi] dari [Jabir] dari Nabi shallallahu 'alaihi wasallam bersabda: \"Janganlah kalian menemui orang yang sedang ditinggal keluarganya. Setan itu mengalir pada diri kalian semua dengan mengikuti aliran darah.\" Kami bertanya; \"Apakah engkau juga?\" Beliau menjawab; \"Ya, tapi Allah telah menolongku. Sehingga aku selamat.\" Abu Isa berkata; \"Ini merupakan hadits gharib dari jalur ini. Sebagian mereka memperbincangkan Mujalid bin Sa'id dari sisi hafalannya. Saya mendengar Ali bin Khusyram berkata; Sufyan bin 'Uyainah berkata mengenai penjelasan sabda Nabi shallallahu 'alaihi wasallam; \"Tapi Allah telah menolongku dari setan itu sehingga akupun selamat.\" Sufyan berkata; \"Setan tidak akan masuk Islam. Janganlah kalian menemui al mughibat. Yaitu wanita yang suaminya sedang pergi. Al mughibaat adalah jamak dari al mughibah",
+          "tr": "Câbir (r.a.)’den rivâyete göre, Nebi (s.a.v.) şöyle buyurdu: “Kocaları ve mahremleri yanında olmayan kadınlarla beraber olmayın. Çünkü şeytan damarlarınızdaki kan gibi sizi şaşırtmak için etrafınızda dolaşmaktadır. Biz de: “Bu durum senin için de geçerli midir?” dedik. Rasûlullah (s.a.v.) şöyle buyurdular: “Benim için de durum aynıdır fakat Allah beni o şeytanın şerrinden korudu ve yardım etti, şeytan bana boyun eğdi.” Tirmîzî rivâyet etmiştir. Tirmîzî: Bu hadis bu yönüyle garibtir. Bazı hadisçiler Mûcâlid b. Saîd’i hafızası yönünden tenkit ederler. Ali b. Haşrem’den işittim şöyle diyordu: Sûfyân b. Uyeyne Rasûlullah (s.a.v.)’in: “Allah bana yardım etti, şeytan bana boyun eğdi” sözünü; “Ben ondan kurtulurum” şeklinde tefsir etmiştir. Çünkü “Şeytan asla Müslüman olmaz” demiştir. Muğibat: Kocası yanında olmayan kadınlar demektir. Muğibe; kelimesinin çoğuludur"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 12,
+        "hadith": 27
+      }
+    },
+    {
+      "hadithNumber": 1173,
+      "arabicNumber": 1173,
+      "book": 12,
+      "hadithInBook": 28,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا عَمْرُو بْنُ عَاصِمٍ، حَدَّثَنَا هَمَّامٌ، عَنْ قَتَادَةَ، عَنْ مُوَرِّقٍ، عَنْ أَبِي الأَحْوَصِ، عَنْ عَبْدِ اللَّهِ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ الْمَرْأَةُ عَوْرَةٌ فَإِذَا خَرَجَتِ اسْتَشْرَفَهَا الشَّيْطَانُ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ غَرِيبٌ ‏.‏",
+        "translations": {
+          "en": "Abdullah narrated that The Prophet said:“The woman is Awrah, so when she goes out, the Shaitan seeks to tempt her.”",
+          "ur": "عبداللہ بن مسعود رضی الله عنہ سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: ”عورت ( سراپا ) پردہ ہے، جب وہ باہر نکلتی ہے تو شیطان اس کو تاکتا ہے“ ۱؎۔ امام ترمذی کہتے ہیں: یہ حدیث حسن غریب ہے۔",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Basyar], telah menceritakan kepada kami ['Amr bin 'Ashim] telah menceritakan kepada kami [Hammam] dari [Qatadah] dari [Muwarriq] dari [Abu Al Ahwash] dari [Abdullah] dari Nabi shallallahu 'alaihi wasallam bersabda: \"Wanita itu adalah aurat. Jika dia keluar maka setan akan memperindahnya di mata laki-laki.\" Abu Isa berkata; \"Ini merupakan hadits hasan gharib",
+          "tr": "Abdullah b. Mes’ûd (r.a.)’den rivâyete göre, Rasûlullah (s.a.v.) şöyle buyurmuştur: “Kadın yabancılara görünmemesi gerekendir. Kadın bu sınırlamanın dışına çıkar ve sokağa dökülürse şeytan onu ayartıp doğru yoldan çıkarabilir.” Tirmîzî rivâyet etmiştir. Tirmîzî: Bu hadis hasen garibtir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 12,
+        "hadith": 28
+      }
+    },
+    {
+      "hadithNumber": 1174,
+      "arabicNumber": 1174,
+      "book": 12,
+      "hadithInBook": 29,
+      "text": {
+        "arabic": "حَدَّثَنَا الْحَسَنُ بْنُ عَرَفَةَ، حَدَّثَنَا إِسْمَاعِيلُ بْنُ عَيَّاشٍ، عَنْ بَحِيرِ بْنِ سَعْدٍ، عَنْ خَالِدِ بْنِ مَعْدَانَ، عَنْ كَثِيرِ بْنِ مُرَّةَ الْحَضْرَمِيِّ، عَنْ مُعَاذِ بْنِ جَبَلٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ لاَ تُؤْذِي امْرَأَةٌ زَوْجَهَا فِي الدُّنْيَا إِلاَّ قَالَتْ زَوْجَتُهُ مِنَ الْحُورِ الْعِينِ لاَ تُؤْذِيهِ قَاتَلَكِ اللَّهُ فَإِنَّمَا هُوَ عِنْدَكِ دَخِيلٌ يُوشِكُ أَنْ يُفَارِقَكِ إِلَيْنَا ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ غَرِيبٌ لاَ نَعْرِفُهُ إِلاَّ مِنْ هَذَا الْوَجْهِ ‏.‏ وَرِوَايَةُ إِسْمَاعِيلَ بْنِ عَيَّاشٍ عَنِ الشَّامِيِّينَ أَصْلَحُ وَلَهُ عَنْ أَهْلِ الْحِجَازِ وَأَهْلِ الْعِرَاقِ مَنَاكِيرُ ‏.‏",
+        "translations": {
+          "en": "Mu’adh bin Jabal narrated that The Prophet said:“No woman annoys her husband in the world except that his wife among the Al-Huril-Ain said: ‘Do not annoy him, may Allah destroy you, he is only like a guest with, soon he will part from you for us.’”",
+          "ur": "معاذ بن جبل رضی الله عنہ سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: ”جو عورت بھی اپنے شوہر کو دنیا میں تکلیف پہنچاتی ہے تو ( جنت کی ) بڑی آنکھوں والی حوروں میں سے اس کی بیوی کہتی ہے: تو اسے تکلیف نہ دے۔ اللہ تجھے ہلاک کرے، یہ تو ویسے بھی تیرے پاس بس مسافر ہے، قریب ہے کہ یہ تجھے چھوڑ کر ہمارے پاس آ جائے“۔ امام ترمذی کہتے ہیں: ۱- یہ حدیث حسن غریب ہے، ہم اسے صرف اسی طریق سے جانتے ہیں، ۲- اسماعیل بن عیاش کی روایتیں جنہیں انہوں نے اہل شام سے روایت کی ہیں بہتر ہے، لیکن اہل حجاز اور اہل عراق سے ان کی روایتیں منکر ہیں۔",
+          "id": "Telah menceritakan kepada kami [Al Hasan bin 'Arafah], telah menceritakan kepada kami [Isma'i bin Ayyasy] dari [Bahir bin Sa'ad] dari [Khalid bin Ma'dan] dari [Katsir bin Murrah Al Hadlrami] dari [Mu'adz bin Jabal] dari Nabi shallallahu 'alaihi wasallam bersabda, \"Tidaklah ada seorang istri yang menyakiti suaminya di dunia kecuali istrinya dari bidadari surga berkata: 'Janganlah kamu menyakitinya. Semoga Allah membalasmu. Dia adalah tamumu, yang sebentar lagi akan meninggalkanmu dan mendatangi kami'.\" Abu 'Isa berkata; \"Ini merupakan hadits hasan gharib. Tidak kami ketahui kecuali dari jalur ini. Riwayat Isma'il bin Ayyasy dari orang-orang Syam lebih baik, dia juga mempunyai hadits-hadits munkar yang diriwayatkan dari penduduk Hijaz dan Iraq",
+          "tr": "Muaz b. Cebel (r.a.)’den rivâyete göre, Rasûlullah (s.a.v.) şöyle buyurmuştur: “Bir kadın dünyada kocasına eziyet ederse Cennet’te ona eş olacak hurîler şöyle derler: Kahrolasıca kadın o erkeğe eziyet etme o senin yanında misafirdir, senin yanından ayrılıp bize gelecektir.” Diğer tahric: İbn Mâce, Nikah Tirmîzî: Bu hadis hasen garibtir. Ancak bu şekliyle bilmekteyiz. İsmail b. Ayyaş’ın Şamlılardan rivâyeti daha sahihtir. Onun Hicazlılardan ve Iraklılardan münker olan rivâyetleri vardır"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 12,
+        "hadith": 29
+      }
+    }
+  ],
+  "metadata": {
+    "averageLength": "long",
+    "size": "33KB"
+  }
+}

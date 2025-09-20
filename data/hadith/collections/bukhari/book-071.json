@@ -1,0 +1,237 @@
+{
+  "collection": "bukhari",
+  "book": 71,
+  "name": {
+    "arabic": "كتاب Sacrifice on Occasion of Birth (`Aqiqa)",
+    "transliteration": "sacrifice on occasion of birth (`aqiqa)",
+    "translation": "Sacrifice on Occasion of Birth (`Aqiqa)"
+  },
+  "totalHadith": 9,
+  "hadithNumberRange": {
+    "first": 5467,
+    "last": 5474
+  },
+  "content": [
+    {
+      "hadithNumber": 5467,
+      "arabicNumber": 5467,
+      "book": 71,
+      "hadithInBook": 1,
+      "text": {
+        "arabic": "حَدَّثَنِي إِسْحَاقُ بْنُ نَصْرٍ، حَدَّثَنَا أَبُو أُسَامَةَ، قَالَ حَدَّثَنِي بُرَيْدٌ، عَنْ أَبِي بُرْدَةَ، عَنْ أَبِي مُوسَى ـ رضى الله عنه ـ قَالَ وُلِدَ لِي غُلاَمٌ، فَأَتَيْتُ بِهِ النَّبِيَّ صلى الله عليه وسلم فَسَمَّاهُ إِبْرَاهِيمَ، فَحَنَّكَهُ بِتَمْرَةٍ، وَدَعَا لَهُ بِالْبَرَكَةِ وَدَفَعَهُ إِلَىَّ، وَكَانَ أَكْبَرَ وَلَدِ أَبِي مُوسَى‏.‏",
+        "translations": {
+          "en": "Narrated Abu Musa:A son was born to me and I took him to the Prophet (ﷺ) who named him Ibrahim, did Tahnik for him with a date, invoked Allah to bless him and returned him to me. (The narrator added: That was Abu Musa's eldest son)",
+          "ur": "مجھ سے اسحاق بن نضر نے بیان کیا، کہا ہم سے ابواسامہ نے بیان کیا، کہا کہ مجھ سے یزید نے بیان کیا، ان سے ابوبردہ نے اور ان سے ابوموسیٰ رضی اللہ عنہ نے بیان کیا کہ میرے یہاں ایک لڑکا پیدا ہوا تو میں اسے لے کر نبی کریم صلی اللہ علیہ وسلم کی خدمت میں حاضر ہوا۔ نبی کریم صلی اللہ علیہ وسلم نے اس کا نام ابراہیم رکھا اور کھجور کو اپنے دندان مبارک سے نرم کر کے اسے چٹایا اور اس کے لیے برکت کی دعا کی پھر مجھے دے دیا۔ یہ ابوموسیٰ رضی اللہ عنہ کے سب سے بڑے لڑکے تھے۔",
+          "fr": "Rapporté par Abu Musa : J'ai eu un fils et je l'ai emmené auprès du Prophète (ﷺ), qui l'a nommé Ibrahim, a fait le Tahnik avec une datte, a invoqué la bénédiction d'Allah pour lui et me l'a rendu. (Le narrateur précise : C'était le fils aîné d'Abu Musa)",
+          "id": "Telah menceritakan kepadaku [Ishaq bin Nashr] berkata, telah menceritakan kepada kami [Abu Usamah] ia berkata; telah menceritakan kepadaku [Buraid] dari [Abu Burdah] dari [Abu Musa] radliallahu 'anhu, ia berkata, \"Anak laki-lakiku lahir, kemudian aku membawanya kepada Nabi shallallahu 'alaihi wasallam. Beliau lalu memberinya nama Ibrahim, beliau menyuapinya dengan kunyahan kurma dan mendoakannya dengan keberkahan, setelah itu menyerahkannya kepadaku.\" Ibrahim adalah anak tertua Abu Musa",
+          "tr": "Ebu Musa r.a.'dan, dedi ki: \"Benim bir oğlum oldu. Onu alıp Nebi Sallallahu Aleyhi ve Sellem'e götürdüm. Ona İbrahim adını verdi ve bir hurmayı ağzında çiğneyerek onun damağına çaldı. Mübarek olması için de ona dua etti, sonra çocuğu bana verdi. Bu çocuk, Ebu Musa'nın en büyük çocuğu idi.\" Bu Hadis 6198 numara ile de geçiyor"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 71,
+        "hadith": 1
+      },
+      "narrator": {
+        "en": "Abu Musa"
+      }
+    },
+    {
+      "hadithNumber": 5468,
+      "arabicNumber": 5468,
+      "book": 71,
+      "hadithInBook": 2,
+      "text": {
+        "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنْ هِشَامٍ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ قَالَتْ أُتِيَ النَّبِيُّ صلى الله عليه وسلم بِصَبِيٍّ يُحَنِّكُهُ، فَبَالَ عَلَيْهِ، فَأَتْبَعَهُ الْمَاءَ‏.‏",
+        "translations": {
+          "en": "Narrated `Aisha:A boy was brought to the Prophet (ﷺ) to do Tahnik for him, but the boy urinated on him, whereupon the Prophet had water poured on the place of urine",
+          "ur": "ہم سے مسدد نے بیان کیا، کہا ہم سے یحییٰ نے بیان کیا، ان سے ہشام نے، ان سے ان کے والد نے اور ان سے عائشہ رضی اللہ عنہا نے بیان کیا کہ نبی کریم صلی اللہ علیہ وسلم کی خدمت میں ایک نو مولود بچہ لایا گیا تاکہ آپ اس کی تحنیک کر دیں اس بچہ نے آپ کے اوپر پیشاب کر دیا، آپ نے اس پر پانی بہا دیا۔",
+          "fr": "Rapporté par `Aisha : On a amené un garçon au Prophète (ﷺ) pour qu'il fasse le Tahnik, mais l'enfant a uriné sur lui. Le Prophète a alors fait verser de l'eau à l'endroit où il y avait de l'urine",
+          "id": "Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Yahya] dari [Hisyam] dari [Bapaknya] dari [Aisyah] radliallahu 'anhuma, ia berkata, \"Seorang bayi dibawa ke hadapan Nabi shallallahu 'alaihi wasallam yang kemudian beliau suapi dengan kunyahan buah kurma, ketika bayi itu kencing, beliau memercikinya dengan air",
+          "tr": "Aişe r.anha'dan, dedi ki: \"Nebi Sallallahu Aleyhi ve Sellem'e tahnik etsin diye küçük bir çocuk getirildi, çocuk Nebi'in üzerine işedi. Allah Rasulü de sidiğinin üzerine su döktü"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 71,
+        "hadith": 2
+      },
+      "narrator": {
+        "en": "`Aisha"
+      }
+    },
+    {
+      "hadithNumber": 5469,
+      "arabicNumber": 5469,
+      "book": 71,
+      "hadithInBook": 3,
+      "text": {
+        "arabic": "حَدَّثَنَا إِسْحَاقُ بْنُ نَصْرٍ، حَدَّثَنَا أَبُو أُسَامَةَ، حَدَّثَنَا هِشَامُ بْنُ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ أَسْمَاءَ بِنْتِ أَبِي بَكْرٍ ـ رضى الله عنهما ـ أَنَّهَا حَمَلَتْ بِعَبْدِ اللَّهِ بْنِ الزُّبَيْرِ بِمَكَّةَ قَالَتْ فَخَرَجْتُ وَأَنَا مُتِمٌّ، فَأَتَيْتُ الْمَدِينَةَ فَنَزَلْتُ قُبَاءً فَوَلَدْتُ بِقُبَاءٍ، ثُمَّ أَتَيْتُ بِهِ رَسُولَ اللَّهِ صلى الله عليه وسلم فَوَضَعْتُهُ فِي حَجْرِهِ، ثُمَّ دَعَا بِتَمْرَةٍ فَمَضَغَهَا، ثُمَّ تَفَلَ فِي فِيهِ فَكَانَ أَوَّلَ شَىْءٍ دَخَلَ جَوْفَهُ رِيقُ رَسُولِ اللَّهِ صلى الله عليه وسلم ثُمَّ حَنَّكَهُ بِالتَّمْرَةِ، ثُمَّ دَعَا لَهُ فَبَرَّكَ عَلَيْهِ، وَكَانَ أَوَّلَ مَوْلُودٍ وُلِدَ فِي الإِسْلاَمِ، فَفَرِحُوا بِهِ فَرَحًا شَدِيدًا، لأَنَّهُمْ قِيلَ لَهُمْ إِنَّ الْيَهُودَ قَدْ سَحَرَتْكُمْ فَلاَ يُولَدُ لَكُمْ‏.‏",
+        "translations": {
+          "en": "Narrated Asma' bint Abu Bakr:I conceived `Abdullah bin Az-Zubair at Mecca and went out (of Mecca) while I was about to give birth. I came to Medina and encamped at Quba', and gave birth at Quba'. Then I brought the child to Allah's Messenger (ﷺ) and placed it (on his lap). He asked for a date, chewed it, and put his saliva in the mouth of the child. So the first thing to enter its stomach was the saliva of Allah's Messenger (ﷺ). Then he did its Tahnik with a date, and invoked Allah to bless him. It was the first child born in the Islamic era, therefore they (Muslims) were very happy with its birth, for it had been said to them that the Jews had bewitched them, and so they would not produce any offspring",
+          "ur": "ہم سے اسحاق بن نضر نے بیان کیا، کہا ہم سے ابواسامہ نے بیان کیا، کہا ہم سے ہشام بن عروہ نے بیان کیا، ان سے ان کے والد نے اور ان سے اسماء بنت ابی بکر رضی اللہ عنہما نے بیان کیا کہ عبداللہ بن زبیر رضی اللہ عنہما مکہ میں ان کے پیٹ میں تھے۔ انہوں نے کہا کہ پھر میں ( جب ہجرت کے لیے ) نکلی تو وقت ولادت قریب تھا۔ مدینہ منورہ پہنچ کر میں نے پہلی منزل قباء میں کی اور یہیں عبداللہ بن زبیر رضی اللہ عنہما پیدا ہو گئے، میں نبی کریم صلی اللہ علیہ وسلم کی خدمت میں بچہ کو لے کر حاضر ہوئی اور اسے آپ کی گود میں رکھ دیا۔ نبی کریم صلی اللہ علیہ وسلم نے کھجور طلب فرمائی اور اسے چبایا اور بچہ کے منہ میں اپنا تھوک ڈال دیا۔ چنانچہ پہلی چیز جو اس بچہ کے پیٹ میں گئی وہ نبی کریم صلی اللہ علیہ وسلم کا تھوک مبارک تھا پھر آپ نے کھجور سے تحنیک کی اور اس کے لیے برکت کی دعا فرمائی۔ یہ سب سے پہلا بچہ اسلام میں ( ہجرت کے بعد مدینہ منورہ میں ) پیدا ہوا۔ صحابہ کرام رضی اللہ عنہم اس سے بہت خوش ہوئے کیونکہ یہ افواہ پھیلائی جا رہی تھی کہ یہودیوں نے تم ( مسلمانوں ) پر جادو کر دیا ہے۔ اس لیے تمہارے یہاں اب کوئی بچہ پیدا نہیں ہو گا۔",
+          "fr": "Rapporté par Asma' bint Abu Bakr : J'étais enceinte de `Abdullah bin AzZubair à La Mecque et j'ai quitté la ville alors que j'étais sur le point d'accoucher. Je suis arrivée à Médine et je me suis installée à Quba', où j'ai donné naissance à l'enfant. Ensuite, j'ai amené le bébé au Messager d'Allah (ﷺ) et je l'ai posé sur ses genoux. Il a demandé une datte, l'a mâchée, puis a mis sa salive dans la bouche de l'enfant. Ainsi, la première chose à entrer dans son estomac a été la salive du Messager d'Allah (ﷺ). Ensuite, il a fait le Tahnik avec la datte et a invoqué la bénédiction d'Allah pour lui. C'était le premier enfant né à l'époque islamique, donc les musulmans étaient très heureux de sa naissance, car on leur avait dit que les Juifs les avaient ensorcelés et qu'ils ne pourraient plus avoir d'enfants",
+          "id": "Telah menceritakan kepada kami [Ishaq bin Nashr] berkata, telah menceritakan kepada kami [Abu Usamah] berkata, telah menceritakan kepada kami [Hisyam bin Urwah] dari [Bapaknya] dari [Asma binti Abu Bakar] radliallahu 'anhuma, Bahwasanya di Makkah ia hamil karena hubungannya dengan Abdullah bin Zubair (suaminya). Ia berkata, \"Aku lalu keluar menuju Madinah, ketika sampai di Quba, aku singgah dan melahirkan di sana. Aku lalu membawa bayiku menemui Rasulullah shallallahu 'alaihi wasallam dan aku letakkan di pangkuannya. Kemudian Beliau minta diambilkan buah kurma, lalu mengunyahnya untuk kemudian meludahkannya ke dalam bayiku. Maka pertama kali yang masuk ke dalam perutnya adalah ludah Rasulullah shallallahu 'alaihi wasallam. Beliau memberi kunyahan kurma dan mendoakan keberkahan kepadanya. Dia adalah bayi pertama yang lahir dalam Islam. Orang-orang pun bangga, sebab telah dikatakan kepada mereka 'sesungguhnya orang-orang Yahudi telah menyihir kalian, sehingga kalian tidak akan memiliki anak",
+          "tr": "Ebu Bekr'in kızı Esma r.anha'dan rivayete göre, \"Kendisi henüz Mekke'de iken Abdullah b. ez-Zubeyr'e hamile kalmıştı. Hicret etmek üzere Mekke'den çıktığında hamileliğimin süresi dolmak üzere idi. Medine'ye geldim ve Kuba'ya indim. Kuba'da doğum yaptım. Daha sonra onu alıp Rasulullah Sallallahu Aleyhi ve Sellem'e götürdüm. Onu Allah Rasulünün kucağına bıraktım. Allah Rasıılü bir hurma getirilmesini istedi. O hurmayı alıp çiğnedikten sonra çocuğun ağzına tükürdü. Böylece onun karnına giren ilk şey, Rasulullah Sallallahu Aleyhi ve Sellem'in tükürüğü oldu. Sonra da o hurmayı onun damağına çaldı (tahnık etti). Arkasından ona dua etti, onun için bereket dileğinde bulundu. İslam döneminde (Medine'de Müslüman aileler arasında) doğan ilk çocuk o oldu. Bundan dolayı da onun doğumuna çok sevindiler. Onlara: Yahudiler size büyü yaptılar. Bundan dolayı sizin çocuğunuz olmaz, denilmişti"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 71,
+        "hadith": 3
+      },
+      "narrator": {
+        "en": "Asma' bint Abu Bakr"
+      }
+    },
+    {
+      "hadithNumber": 5470,
+      "arabicNumber": 5470,
+      "book": 71,
+      "hadithInBook": 4,
+      "text": {
+        "arabic": "حَدَّثَنَا مَطَرُ بْنُ الْفَضْلِ، حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، أَخْبَرَنَا عَبْدُ اللَّهِ بْنُ عَوْنٍ، عَنْ أَنَسِ بْنِ سِيرِينَ، عَنْ أَنَسِ بْنِ مَالِكٍ ـ رضى الله عنه ـ قَالَ كَانَ ابْنٌ لأَبِي طَلْحَةَ يَشْتَكِي، فَخَرَجَ أَبُو طَلْحَةَ، فَقُبِضَ الصَّبِيُّ فَلَمَّا رَجَعَ أَبُو طَلْحَةَ قَالَ مَا فَعَلَ ابْنِي قَالَتْ أُمُّ سُلَيْمٍ هُوَ أَسْكَنُ مَا كَانَ‏.‏ فَقَرَّبَتْ إِلَيْهِ الْعَشَاءَ فَتَعَشَّى، ثُمَّ أَصَابَ مِنْهَا، فَلَمَّا فَرَغَ قَالَتْ وَارِ الصَّبِيَّ‏.‏ فَلَمَّا أَصْبَحَ أَبُو طَلْحَةَ أَتَى رَسُولَ اللَّهِ صلى الله عليه وسلم فَأَخْبَرَهُ فَقَالَ ‏\"‏ أَعْرَسْتُمُ اللَّيْلَةَ ‏\"‏‏.‏ قَالَ نَعَمْ‏.‏ قَالَ ‏\"‏ اللَّهُمَّ بَارِكْ لَهُمَا ‏\"‏‏.‏ فَوَلَدَتْ غُلاَمًا قَالَ لِي أَبُو طَلْحَةَ احْفَظْهُ حَتَّى تَأْتِيَ بِهِ النَّبِيَّ صلى الله عليه وسلم فَأَتَى بِهِ النَّبِيَّ صلى الله عليه وسلم وَأَرْسَلَتْ مَعَهُ بِتَمَرَاتٍ، فَأَخَذَهُ النَّبِيُّ صلى الله عليه وسلم فَقَالَ ‏\"‏ أَمَعَهُ شَىْءٌ ‏\"‏‏.‏ قَالُوا نَعَمْ تَمَرَاتٌ‏.‏ فَأَخَذَهَا النَّبِيُّ صلى الله عليه وسلم فَمَضَغَهَا، ثُمَّ أَخَذَ مِنْ فِيهِ فَجَعَلَهَا فِي فِي الصَّبِيِّ، وَحَنَّكَهُ بِهِ، وَسَمَّاهُ عَبْدَ اللَّهِ‏.‏",
+        "translations": {
+          "en": "Narrated Anas bin Malik: Abu Talha had a child who was sick. Once, while Abu Talha was out, the child died. When Abu Talha returned home, he asked, \"How does my son fare?\" Um Salaim (his wife) replied, \"He is quieter than he has ever been.\" Then she brought supper for him and he took his supper and slept with her. When he had finished, she said (to him), \"Bury the child (as he's dead).\" Next morning Abu Talha came to Allah's Messenger (ﷺ) and told him about that. The Prophet (ﷺ) said (to him), \"Did you sleep with your wife last night?\" Abu Talha said, \"Yes\". The Prophet (ﷺ) said, \"O Allah! Bestow your blessing on them as regards that night of theirs.\" Um Sulaim gave birth to a boy. Abu Talha told me to take care of the child till it was taken to the Prophet. Then Abu Talha took the child to the Prophet (ﷺ) and Um Sulaim sent some dates along with the child. The Prophet (ﷺ) took the child (on his lap) and asked if there was something with him. The people replied, \"Yes, a few dates.\" The Prophet took a date, chewed it, took some of it out of his mouth, put it into the child's mouth and did Tahnik for him with that, and named him 'Abdullah",
+          "ur": "ہم سے مطر بن فضل نے بیان کیا، کہا ہم سے یزید بن ہارون نے، انہیں عبداللہ بن عون نے خبر دی، انہیں انس بن سیرین نے اور ان سے انس بن مالک رضی اللہ عنہ نے بیان کیا کہ ابوطلحہ رضی اللہ عنہ کا ایک لڑکا بیمار تھا۔ ابوطلحہ کہیں باہر گئے ہوئے تھے کہ بچہ کا انتقال ہو گیا۔ جب وہ ( تھکے ماندے ) واپس آئے تو پوچھا کہ بچہ کیسا ہے؟ ان کی بیوی ام سلیم رضی اللہ عنہا نے کہا کہ وہ پہلے سے زیادہ سکون کے ساتھ ہے پھر بیوی نے ان کے سامنے کھانا رکھا اور ابوطلحہ رضی اللہ عنہ نے کھانا کھایا۔ اس کے بعد انہوں نے ان کے ساتھ ہمبستری کی پھر جب فارغ ہوئے تو انہوں نے کہا کہ بچہ کو دفن کر دو۔ صبح ہوئی تو ابوطلحہ رضی اللہ عنہ رسول اللہ صلی اللہ علیہ وسلم کی خدمت میں حاضر ہوئے اور آپ کو واقعہ کی اطلاع دی۔ نبی کریم صلی اللہ علیہ وسلم نے دریافت فرمایا کہ تم نے رات ہمبستری بھی کی تھی؟ انہوں نے عرض کیا کہ جی ہاں۔ نبی کریم صلی اللہ علیہ وسلم نے دعا کی ”اے اللہ! ان دونوں کو برکت عطا فرما۔“ پھر ان کے یہاں ایک بچہ پیدا ہوا تو مجھ سے ابوطلحہ رضی اللہ عنہ نے کہا کہ اسے حفاظت کے ساتھ نبی کریم صلی اللہ علیہ وسلم کی خدمت میں لے جاؤ۔ چنانچہ بچہ نبی کریم صلی اللہ علیہ وسلم کی خدمت میں لائے اور ام سلیم رضی اللہ عنہا نے بچہ کے ساتھ کچھ کھجوریں بھیجیں، نبی کریم صلی اللہ علیہ وسلم نے بچہ کو لیا اور دریافت فرمایا کہ اس کے ساتھ کوئی چیز بھی ہے؟ لوگوں نے کہا کہ جی ہاں کھجوریں ہیں۔ آپ نے اسے لے کر چبایا اور پھر اسے اپنے منہ میں نکال کر بچہ کے منہ میں رکھ دیا اور اس سے بچہ کی تحنیک کی اور اس کا نام عبداللہ رکھا۔",
+          "fr": "Rapporté par Anas bin Malik : Abu Talha avait un enfant malade. Un jour, alors qu'Abu Talha était absent, l'enfant est décédé. Quand Abu Talha est rentré chez lui, il a demandé : « Comment va mon fils ? » Um Salaim (sa femme) a répondu : « Il est plus calme que jamais. » Ensuite, elle lui a servi le dîner, il a mangé puis a dormi avec elle. Quand ils ont fini, elle lui a dit : « Enterre l'enfant (car il est mort). » Le lendemain matin, Abu Talha est allé voir le Messager d'Allah (ﷺ) et lui a raconté ce qui s'était passé. Le Prophète (ﷺ) lui a dit : « As-tu dormi avec ta femme cette nuit ? » Abu Talha a répondu : « Oui. » Le Prophète (ﷺ) a dit : « Ô Allah ! Accorde-leur ta bénédiction pour cette nuit. » Um Sulaim a donné naissance à un garçon. Abu Talha m'a demandé de m'occuper de l'enfant jusqu'à ce qu'il soit présenté au Prophète. Ensuite, Abu Talha a emmené l'enfant chez le Prophète (ﷺ), et Um Sulaim a envoyé quelques dattes avec lui. Le Prophète (ﷺ) a pris l'enfant sur ses genoux et a demandé s'il y avait quelque chose avec lui. Les gens ont répondu : « Oui, quelques dattes. » Le Prophète a pris une datte, l'a mâchée, en a sorti un peu de sa bouche, l'a mise dans la bouche de l'enfant, a fait le Tahnik avec, et l'a nommé 'Abdullah",
+          "id": "Telah menceritakan kepada kami [Mathar Ibnul Fadll] berkata, telah menceritakan kepada kami [Yazid bin Harun] berkata, telah mengabarkan kepada kami [Abdullah bin Aun] dari [Anas bin Sirin] dari [Anas bin Malik] radliallahu 'anhu, ia berkata, \"Anak Abu Thalhah sedang sakit, ketika Abu Thalhah keluar anaknya meninggal. Dan ketika Abu Thalhah kembali ia bertanya, \"Bagaimana keadaan anakku?\" Ummu Sulaim menjawab, \"Dia lebih tenang dari sebelumnya.\" Ummu Sulaim kemudian menyuguhkan makan malam, maka Abu Thalhah pun makan malam kemudian bersetubuh dengannya. Setelah selesai (dari jima') Ummu Sulaim berkata, \"Anakmu telah dikuburkan.\" Maka diwaktu pagi, Abu Thalhah mendatangi Rasulullah shallallahu 'alaihi wasallam dan mengabarkan kejadian tersebut. Beliau bertanya: \"Kalian tadi malam menjadi pengantin?\" Abu Thalhah menjawab, \"Ya.\" Beliau pun berdoa: \"Ya Allah, berkahilah keduanya.\" Ummu Sulaim kemudian melahirkan seorang anak, lalu Abu Thalhah berkata kepadaku, \"Jagalah ia hingga engkau bawa ke hadapan Nabi shallallahu 'alaihi wasallam.\" Anas kemudian membawa bayi tersebut kepada Nabi shallallahu 'alaihi wasallam, dan Ummu Sulaim membekalinya dengan beberapa kurma. Nabi shallallahu 'alaihi wasallam kemudian meraih bayi Abu Thalhah, beliau lalu bertanya: \"Apakah ia (Anas) membawa sesuatu?\" para sahabat menjawab, \"Ya. Beberapa butir kurma.\" Nabi shallallahu 'alaihi wasallam kemudian mengambil kurma dan menguyahnya, kemudian beliau ambil kunyahan dari mulutnya dan memasukkannya ke dalam mulut sang bayi, baru setelah itu memberinya nama Abdullah.\" Telah menceritakan kepada kami [Muhammad Ibnul Mutsanna] berkata, telah menceritakan kepada kami [Ibnu Abu Ady] dari [Ibnu Aun] dari [Muhammad] dari [Anas] lalu ia menyebutkan hadits tersebut",
+          "tr": "Enes b. Malik radıyallahu anh'dan, dedi ki: \"Ebu Talha'nın bir oğlu hastalanmıştı. Ebu Talha Çıkıp gittikten sonra çocuk vefat etti. Ebu Talha geri döndüğünde: Oğlun ne yaptı, diye sordu. Ümmü Suleym: Öncekinden daha bir sakinleşti, dedi. Sonra Ebu Talha'nın önüne yemeğini koydu, o da akşam yemeğini yedi. Sonra hanımı ile dma' etti. Ebu Talha işini bitirince Ümmü Suleym: çocuğu defnet, dedi. Sabah olunca Ebu Talha Rasulullah Sallallahu Aleyhi ve Sellem'in yanına gitti ve ona olanı anlattı. Allah Rasulü: Siz bu gece cima\"ettiniz mi, diye sordu. Ebu Talha: Evet deyince, Allah Rasulü: Allah'ım, gecekrini bu ikisi için mübarek kıl, diye dua etti. Ümmü Suleym bir erkek çocuk doğurdu. Ebu Talha bana: Bu çocuğu Nebi Sallallahu Aleyhi ve Sellem'in yanına bu haliyle götürünceye kadar muhafaza et, dedi. Enes de çocuğu Nebi Sallallahu Aleyhi ve Sellem'e götürdü. Ümmü Suleym onunla beraber birkaç hurma da gönderdi. Nebi Sallallahu Aleyhi ve Sellem çocuğu alınca, beraberinde bir şeyler var mı diye sordu. Evet, birkaç hurma var, dediler. Nebi Sallallahu Aleyhi ve Sellem O hurmaları alıp çiğnedikten sonra ağzından bir miktar alıp onu çocuğun ağzına koydu ve bununla onu tahnik etti (bunları damağına çaldı) ve ona Abdullah adını verdi.\" Fethu'l-Bari Açıklaması: \"çocuğu için akika kesmeyecek olan kimsenin doğduğu sabah çocuğuna isim vermesL\" el-Rrebd'nin rivayetine göre çocuğuna akika kesmek istemeyen bir kimse ona isim vermeyi yedinci güne kadar geciktirmez. Nitekim İbrahim b. Ebi Musa, Abdullah b. Ebi Talha ve aynı şekilde Nebi Sallallahu Aleyhi ve Sellem'in oğlu İbrahim ile Abdullah b. ez-Zubeyr'in doğumu da böyle olmuştur. Bunlardan herhangi birisi hakkında akika kesildiğine dair herhangi bir nakil gelmemiştir. Kendisi için akika kesilmek istenen çocuğa isim vermek, ileride diğer hadislerde geleceği üzere yedinci güne kadar geciktirilir. İşte bu, Buhari'den başkasının gerçekleştirdiğini görmediğim son derece incelikli bir teliftir. \"Ve\" doğduğu günün sabahında \"çocuğa tahnik yapilması.\" Tahmk, bir şeyin çiğnenip küçük çocuğun ağzına konulması ve bunun damağına çalınarak ovaIanması demektir. Tahnik esnasında bu şeyin karnına gitmesi için ağzını açması gerekir. En iyisi bunu hurma ile yapmaktır. Eğer kuru hurma mümkün olmazsa olgun taze hurma ile yapılabilir. O da olmazsa tatlı bir şey ile yapılır. Arı balı başkasından daha iyidir. Başlıktaki \"kendisi için akika kesilmeyecek olan\" ibaresinden akikanın vacip olmadığına işaret edildiği anlaşılabilir. Şafii der ki: Akika hususunda iki kişi aşırıya gitmiştir. Bunlardan birisi akika bid'attir diyenler, diğeri ise vaciptir diyenlerdir. Vacip diyen kimse ile el-leys b. Sa'd'a işaret edilmektedir. Bunun bid'at olduğunu söylediği nakledilen kişi ise Eba. Hanife'dir. İbnu'l-Münzir der ki: Rey ashabı akikanın sünnet olduğunu kabul etmeyerek bu hususta sabit olmuş eserlere (rivayetlere) muhalefet etmişlerdir. \"Onu Nebi Sallallahu Aleyhi ve Sellem'e götürdüm. Ona İbrahim adını verdi ve onu tahnik etti.\" Bu ifadelerde onun, çocuğunu Nebi Sallallahu Aleyhi ve Sellem'in huzuruna getirmekte elini çabuk tuttuğu ve onun tahnikedilmesinin isim verildikten sonra gerçekleştiğini hissettiren ifadeler vardır. O halde buradan, yedinci günü beklemeksizin çocuğa erken isim verilmesi yoluna gidilebileceği anlaşılmaktadır. Beyhaki der ki: çocuğa doğduktan hemen sonra isim vermeye dair hadisler, onun yedinci gününde isminin verileceğini belirten hadislerden daha sahihtir. Derim ki: Bu hususta zikredilenlerden başka rivayetler de varid olmuştur. elBezzar'da ve İbn Hibban ile Hakim'in Sahih'lerinde sahih bir sened ile Aişe'den şöyle dediği rivayet edilmiştir: \"Resulullah Sallallahu Aleyhi ve Sellem doğumlarının yedinci günlerinde el-Hasen ve el-Hüseyn'in akIka kurbanlarını kesti ve onlara isim verdi.\" Tirmizi de, Amr b. Şuayb yoluyla onun babasından, ve dedesinden rivayet ettiğine göre (dedesi Abdullah b. Amr İbnu'ı-k şöyle demiştir): \"Resulullah s.a.v. bana doğan çocuğuma yedinci gün isim vermemi emir buyurdu.\" Başlıktaki üçüncü hadis, Esma radıyallahu anha'nın Abdullah b. ez-Zubeyr'in do- . ğurriu ile ilgili hadisidir. Bu hadise dair yeterli açıklamalar daha önceden Nebi Sallallahu Aleyhi ve Sellem'in Medine'ye hicreti başlığında (3909.hadiste) geçmiş bulunmaktadır. \"Hamileliğimin son günlerinde iken\", yani hamilelik sürem tamamlanmak üzere iken ... \"Mübarek olması için dua etti.\" Ona mübarek kılınması için dua etti. \"Cima' ettiniz mi?\" tabirinde geçen \"arese'r-reculu\" aslında erkeğin hanımı ile zifafa girmesi için kullanılır. Aynı şekilde cima' anlamında da kullanılır"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 71,
+        "hadith": 4
+      },
+      "narrator": {
+        "en": "Anas bin Malik"
+      }
+    },
+    {
+      "hadithNumber": 5470.2,
+      "arabicNumber": 5470.2,
+      "book": 71,
+      "hadithInBook": 5,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ، عَنِ ابْنِ عَوْنٍ، عَنْ مُحَمَّدٍ، عَنْ أَنَسٍ، وَسَاقَ الْحَدِيثَ،‏.‏",
+        "translations": {
+          "en": "Narrated Anas: As above",
+          "fr": "Rapporté par Anas : Comme ci-dessus"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 71,
+        "hadith": 5
+      },
+      "narrator": {
+        "en": "Anas"
+      }
+    },
+    {
+      "hadithNumber": 5471,
+      "arabicNumber": 5471,
+      "book": 71,
+      "hadithInBook": 6,
+      "text": {
+        "arabic": "حَدَّثَنَا أَبُو النُّعْمَانِ، حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، عَنْ أَيُّوبَ، عَنْ مُحَمَّدٍ، عَنْ سَلْمَانَ بْنِ عَامِرٍ، قَالَ مَعَ الْغُلاَمِ عَقِيقَةٌ‏.‏ وَقَالَ حَجَّاجٌ حَدَّثَنَا حَمَّادٌ أَخْبَرَنَا أَيُّوبُ وَقَتَادَةُ وَهِشَامٌ وَحَبِيبٌ عَنِ ابْنِ سِيرِينَ عَنْ سَلْمَانَ عَنِ النَّبِيِّ صلى الله عليه وسلم‏.‏",
+        "translations": {
+          "en": "Narrated Salman bin 'Amri Ad-Dabbi, the Prophet (ﷺ) said, 'Aqiqa is to be offered for a (newly born) boy",
+          "ur": "ہم سے ابوالنعمان نے بیان کیا، کہا ہم سے حماد بن زید نے بیان کیا، ان سے ایوب سختیانی نے، ان سے محمد بن سیرین نے، ان سے سلمان بن عامر رضی اللہ عنہ (صحابی) نے بیان کیا کہ بچہ کا عقیقہ کرنا چاہیئے۔ اور حجاج بن منہال نے کہا۔ ان سے حماد بن سلمہ نے بیان کیا، کہا ہم کو ایوب سختیانی، قتادہ، ہشام بن حسان اور حبیب بن شہید ان چاروں نے خبر دی، انہیں محمد بن سیرین نے اور انہیں سلمان بن عامر رضی اللہ عنہ نے نبی کریم صلی اللہ علیہ وسلم سے۔ اور کئی لوگوں نے بیان کیا، ان سے عاصم بن سلیمان اور ہشام بن حسان نے، ان سے حفصہ بنت سیرین نے، ان سے رباب بنت صلیع نے، ان سے سلمان بن عامر رضی اللہ عنہ نے اور انہوں نے مرفوعاً نبی کریم صلی اللہ علیہ وسلم سے روایت کیا ہے اور اس کی روایت یزید بن ابراہیم تستری نے کی، ان سے محمد بن سیرین نے اور ان سے سلمان بن عامر رضی اللہ عنہ نے اپنا قول موقوفاً ( غیر مرفوع ) ذکر کیا۔",
+          "fr": "Rapporté par Salman bin 'Amri Ad-Dabbi : Le Prophète (ﷺ) a dit : On doit offrir une 'aqiqa pour un garçon nouveau-né",
+          "tr": "Bize Muhammed ibnu'UMüsennâ tahdîs etti. Bize İbnu Ebî Adiyy, İbnu Avn'dan; o da Muhammed ibn Sîrîn'den; o da Enes'ten olmak üzere tahdîs edip bu hadîsi sevketti"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 71,
+        "hadith": 6
+      }
+    },
+    {
+      "hadithNumber": 5472,
+      "arabicNumber": 5472,
+      "book": 71,
+      "hadithInBook": 7,
+      "text": {
+        "arabic": "وَقَالَ غَيْرُ وَاحِدٍ عَنْ عَاصِمٍ، وَهِشَامٍ، عَنْ حَفْصَةَ بِنْتِ سِيرِينَ، عَنِ الرَّبَابِ، عَنْ سَلْمَانَ، عَنِ النَّبِيِّ صلى الله عليه وسلم‏.‏ وَرَوَاهُ يَزِيدُ بْنُ إِبْرَاهِيمَ عَنِ ابْنِ سِيرِينَ عَنْ سَلْمَانَ قَوْلَهُ‏.‏ وَقَالَ أَصْبَغُ أَخْبَرَنِي ابْنُ وَهْبٍ عَنْ جَرِيرِ بْنِ حَازِمٍ عَنْ أَيُّوبَ السَّخْتِيَانِيِّ عَنْ مُحَمَّدِ بْنِ سِيرِينَ حَدَّثَنَا سَلْمَانُ بْنُ عَامِرٍ الضَّبِّيُّ قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏ \"‏ مَعَ الْغُلاَمِ عَقِيقَةٌ، فَأَهْرِيقُوا عَنْهُ دَمًا وَأَمِيطُوا عَنْهُ الأَذَى ‏\"‏‏.‏ حَدَّثَنِي عَبْدُ اللَّهِ بْنُ أَبِي الأَسْوَدِ، حَدَّثَنَا قُرَيْشُ بْنُ أَنَسٍ، عَنْ حَبِيبِ بْنِ الشَّهِيدِ، قَالَ أَمَرَنِي ابْنُ سِيرِينَ أَنْ أَسْأَلَ الْحَسَنَ، مِمَّنْ سَمِعَ حَدِيثَ الْعَقِيقَةِ، فَسَأَلْتُهُ فَقَالَ مِنْ سَمُرَةَ بْنِ جُنْدَبٍ‏.‏",
+        "translations": {
+          "en": "Narrated Salman bin 'Amir Ad-Dabbi:I heard Allah's Messenger (ﷺ) saying, \"'Aqiqa is to be offered for a (newly born) boy, so slaughter (an animal) for him, and relieve him of his suffering.\" Narrated Habib bin Ash-Shahid: Ibn Seereen told me to ask Al-Hassan from whom he had heard the narration of 'Aqiqa. I asked him and he said, \"From Samura bin Jundab",
+          "ur": "اور اصبغ بن فرج نے بیان کیا کہ مجھے عبداللہ بن وہب نے خبر دی، انہیں جریر بن حازم نے، انہیں ایوب سختیانی نے، انہیں محمد بن سیرین نے کہ ہم سے سلمان بن عامر الضبی رضی اللہ عنہ نے بیان کیا، کہا کہ میں نے رسول اللہ صلی اللہ علیہ وسلم سے سنا، آپ صلی اللہ علیہ وسلم نے فرمایا کہ لڑکے کے ساتھ اس کا عقیقہ لگا ہوا ہے اس لیے اس کی طرف سے جانور ذبح کرو اور اس سے بال دور کرو ( سر منڈا دو یا ختنہ کرو ) ۔",
+          "fr": "Rapporté par Salman bin 'Amir Ad-Dabbi : J’ai entendu le Messager d’Allah (ﷺ) dire : On doit offrir une 'aqiqa pour un garçon nouveau-né, alors sacrifiez un animal pour lui et soulagez-le de sa souffrance. Rapporté par Habib bin Ash-Shahid : Ibn Seereen m’a dit de demander à Al-Hassan de qui il avait entendu le récit de l’'aqiqa. Je lui ai demandé et il a répondu : De Samura bin Jundab",
+          "tr": "Selman b. Amir ed-Dabbi'den, dedi ki: \"Resulullah Sallallahu Aleyhi ve Sellem'i şöyle buyururken dinledim: Erkek çocuk(un doğumu) ile birlikte bir akika vardır. O halde onun için bir kan akıtınız ve ondaki eziyet verici şeyleri izale ediniz.\" Diğer tahric edenler: Tirmizî, Kurban; Nesâî, Akika Fethu'l-Bari Açıklaması: \"AkIkada küçük çocuğun üzerinden eziyet verici şeyleri izale etmek. .. Erkek çocuk(un doğumu) ile birlikte bir akika vardır.\" Bu hadisin mefhumunu el-Hasen ve Katade delil alarak: Erkek çocuk için akika kesilir, fakat kız çocuğu için kesilmez, demişlerdir. Ancak cumhur bu konuda onlara muhalefet ederek: Kız çocuğun doğumu dolayısı ile de akika kesilir, demişlerdir. Delilleri ise kız çocuğunu açıkça söz konusu eden hadislerdir. Bundan sonra bu hadisleri zikredeceğim. Eğer çocuklar ikiz olur ise her birisi için bir akika kesmek müstehap olur. Bunu İbn Abdilberr, el-leys'ten diye zikretmiş olup ilim adamlarından bunun hilafına bir nakil geldiğini bilmiyorum, demiştir. \"Onun adına bir kan akıtınız.\" Bu hadiste bu şekilde akıtılacak kan ın neyin kanı olduğu müphem bırakılmıştır. Bundan sonra Semura yoluyla gelen hadiste de böyledir, ama bu birden çok hadis tefsir edilip açıklanmıştır. Bunlardan birisi de Tirmizi'nin sahih olduğunu belirterek rivayet ettiği Aişe radıyallahu anha'dan gelen hadis-i şeriftir. Bu hadiste Yusufb. Maheklin rivayeti ile gelmiştir. Buna göre: \"Abdurrahman b. Ebi Bekr'in kızı Hafsalnın yanına girdiler ve ona akikaya dair soru sordular. Hafsa onlara Nebi Sallallahu Aleyhi ve Sellem 'in kendilerine erkek çocuğu için birbirine denk iki koyun, kız çocuğu için ise bir koyun kesmelerini emrettiğini haber verdi.\" Ayrıca bu hadisi dört Sünen sahibi rivayet etmişlerdir. Bunu Ebu Davud ile Nesai de Amr b. Şuayb yoluyla babasından, o dedesinden diye rivayet etmiş olup bu hadisi: \"Her kim çocuğu için bir kurban kesmek isterse, o takdirde erkek için birbirine denk iki koyun, kız çocuğu için de bir koyun kessin\" hadisini merfu olarak zikretmiştir. Bu hadisi Amrldan rivayet eden Davud b. Kays şöyle demektedir: Ben Zeyd b. Eslem'e: \"Birbirine denkılbuyruğu hakkında sordum. O birbirine benzer olsunlar ve her ikisi biri diğerinden geciktirilmeyerek bir arada kesilsinler, diye cevap verdi.\" Ebu Oavud da Ahmed'den, birbirine denk lafzının, birbirlerine yakın anlamında kullanıldığını nakletmiştir. el-Hattabı der ki: Yani yaşları birbirine denk olmalıdır. Cumhurun görüşüne göre deve ve koyun da kesilebilir. \"Eziyet verici şeyler.\" Ebu Oavud'da, Said b. Ebu Arube ile İbn Avn yoluyla Muhammed b. SMn'den şöyle dediği nakledilmektedir: Eğer eziyetten, rahatsızlık edici şeylerden kasıt, başın traş edilmesi değil ise ne olduğunu bilmiyorum. Hakim'de de Aişe yoluyla gelen hadiste: 'Ve Başlarından rahatsızlık verici şeylerin izale edilmesini emir buyurdu\" denilmektedir. Fakat bunun muayyen olarak başın traş edilmesi hakkında söylendiği ileri sürülemez. Taberani'de, İbn Abbas'ın rivayet ettiği hadiste: \"Üzerinden rahatsızlık verici şeyler izale edilir ve Başı traş edilir\" denilmiş ve böylelikle Başın traşını da ona atfetmiştir. O halde daha uygun olan, rahatsızlık verici şeylerin Başın traş edilmesinden daha genel bir anlamının olduğunun kabul edilmesidir. \"Akika hadisi.\" Buhari'de sözü geçen hadis yer almamıştır. Sanki o, bu hadisin meşhur olması ile yetinerek ayrıca zikretmeye gerek görmemiş gibidir. Sünen sahipleri ise bu hadisi Katade'nin el-Hasen'den, onun Semura'dan bir rivayeti olarak kaydetmişlerdir. Buna göre Nebi Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: \"Erkek çocuk akıkası karşılığında rehin alınmıştır. Bu akika onun için yedinci günü kesilir, başı traş edilir ve ona isim verilir.\" Tirmizi: Hasen, sahihtir, demiştir; ama Ebu Hureyre'nin rivayetinde \"ve ona ad verilir\" anlamındaki son kelime zikredilmemiştir. Katade'den bunu rivayet edenler bu kelime hakkında ihtilM etmişlerdir. Çoğunluğu: \"Ona ad verilir (anlamında: müsemma şeklinde sin ile)\" şeklinde rivayet etmişlerdir; ama Hemmam, Katade'den: \"Yudma: Ona kan bulanır\" diye dal harfi ile rivayet etmiştir. Abdurrezzak, Ma'mer'den, o Katade'den: Akikasının kesildiği günü ona ad verilir, sonra başı traş edilir, dediği rivayet edilmiştir. Ayrıca o şöyle derdi: Ve Başına kan sürülür. Ancak bunun nesh olduğuna dair birçok hadis vaı-id olmuştur. Bunlardan birisi İbn Hibban'ın Sahih'inde Aişe'den şöyle dediğine dair naklettiği rivayettir: \"Cahiliye döneminde küçük çocuk için akika kestikleri takdirde bir pamuk parçasını akika kanına bularlardı. Çocuğun Başını traş ettikten sonra o pamuk parçasını başının üzerine koyarlardı. Nebi Sallallahu Aleyhi ve Sellem bunun üzerine: Kan yerine oraya koku koyunuz, diye buyurdu.\" Ebu'ş-Şeyh ayrıca \"doğan çocuğun başına kanın değdirilmesini nehyetmiştir\" fazlalığını da eklemektedir. Bundan dolayı cumhur çocuğa kan bulaştırmayı mekruh görmüştür. İbn Hazm ise bunun müstehap olduğunu Ömer ve Ata'dan nakletmiştir. Ancak İbnu'lMünzir bunun müstehap .olduğu görüşünü el-Hasen ve Katade'den başkasından nakletrriiş değildir. Hatta Ibn Ebi Şeybede sahih bir sened ile el-Hasen'den, onun kan bulamayı mekruh gördüğü dahi nakledilmiş bulunmaktadır. Nebi efendimizin: \"Akikası karşılığında rehindir\" buyruğunun ne anlama geldiği hususunda da görüş ayn1ığı vardır. el-Hattabi dedi ki: İnsanlar bu hususta görüş aynlığı içindedirler. Bu hususta söylenmiş en güzel görüş Ahmed b. Hanbel'in benimsediği görüş olup o şöyle demiştir: Bu husus, çocuğun şefaati hakkındadır. Yani eğer çocuğun akikasını kesmeyip, çocuk da küçük yaşta ölürse annesi ve babası hakkında şefaatçi olmaz. Şu anlama geldiği de söylenmiştir: Akika gerekli ve kaçınılmaz bir şeydir. Bundan dolayı dağan çocuk için gerekliliği ve ondan aynlmaz bir şey olduğu, rehinin rehin alan kimsenin elinde oluşuna benzetilmiştir. Bu, akikanın vacip olduğunu kabul edenlerin görüşünü pekiştirmektedir. İbn ebi Şeybe, Muhammed b. SMn'den şöyle dediğini rivayet etmektedir: Eğer ben benim için akika kesilmemiş olduğunu bilseydim, şüphesiz kendi adıma ben akika keserdim. el-Kaffal da bu görüşü tercih etmiştir. el-Buveyti'de, Şafıl'nin açıkça şunları belirttiği naklediimiştir: Büyük bir kişi için akika kesilmez. Ancak bu, kişinin kendi adına akika kesmesinin men edildiği hususunda açık bir nas değildir. Aksine bu sözleri ile yaşı büyüdüğü takdirde başkası adına kendisinin aklka kesmeyeceğini kastetme ihtimali vardır. Bu sözleriyle de sanki Nebi Sallallahu Aleyhi ve Sellem'in nübüvvetten sonra kendi adına aklka kesmiş olduğuna dair hadisin sabit olmadığına işaret etmek istemiş gibidir. Hadisin durumu da zaten böyledir"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 71,
+        "hadith": 7
+      },
+      "narrator": {
+        "en": "Salman bin 'Amir Ad-Dabbi"
+      }
+    },
+    {
+      "hadithNumber": 5473,
+      "arabicNumber": 5473,
+      "book": 71,
+      "hadithInBook": 8,
+      "text": {
+        "arabic": "حَدَّثَنَا عَبْدَانُ، حَدَّثَنَا عَبْدُ اللَّهِ، أَخْبَرَنَا مَعْمَرٌ، أَخْبَرَنَا الزُّهْرِيُّ، عَنِ ابْنِ الْمُسَيَّبِ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ لاَ فَرَعَ وَلاَ عَتِيرَةَ ‏\"‏‏.‏ وَالْفَرَعُ أَوَّلُ النِّتَاجِ، كَانُوا يَذْبَحُونَهُ لَطِوَاغِيتِهِمْ، وَالْعَتِيرَةُ فِي رَجَبٍ‏.‏",
+        "translations": {
+          "en": "Narrated Abu Huraira:The Prophet (ﷺ) said, \"Neither Fara' nor 'Atira (is permissible):\" Al-Fara' nor 'Atira (is permissible):\" Al- Fara' was the first offspring (of camels or sheep) which the pagans used to offer (as a sacrifice) to their idols. And Al-`Atira was (a sheep which was to be slaughtered) during the month of Rajab",
+          "ur": "ہم سے عبدان نے بیان کیا، کہا ہم سے عبداللہ بن مبارک نے بیان کیا، کہا ہم کو معمر نے خبر دی، انہیں زہری نے خبر دی، انہیں ابن مسیب نے اور انہیں ابوہریرہ رضی اللہ عنہ نے کہ نبی کریم صلی اللہ علیہ وسلم نے فرمایا ( اسلام میں ) «فرع» اور «عتيرة» نہیں ہیں۔ «فرع» ( اونٹنی کے ) سب سے پہلے بچہ کو کہتے تھے جسے ( جاہلیت میں ) لوگ اپنے بتوں کے لیے ذبح کرتے تھے اور «عتيرة» کو رجب میں ذبح کیا جاتا تھا۔",
+          "fr": "Rapporté par Abu Huraira : Le Prophète (ﷺ) a dit : Ni Fara’ ni ‘Atira ne sont permis. Al-Fara’ était le premier petit (de chameaux ou de moutons) que les polythéistes offraient en sacrifice à leurs idoles. Al-‘Atira était une brebis qu’on sacrifiait pendant le mois de Rajab",
+          "id": "Telah menceritakan kepada kami [Abdan] berkata, telah menceritakan kepada kami [Abdullah] berkata, telah mengabarkan kepada kami [Ma'mar] berkata, telah mengabarkan kepada kami [Az Zuhri] dari [Ibnul Musayyab] dari [Abu Hurairah] radliallahu 'anhu, dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: \"Tidak ada Fara' dan Atirah. Fara' adalah anak pertama seekor unta yang mereka sembelih untuk sesembahan mereka, dan Atirah adalah hewan (kambing) yang mereka potong di bulan rajab",
+          "tr": "Ebu Hureyre r.a.'dan rivayete göre Nebi Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: \"Fera' da yoktur, atire de yoktur.\" Fera' devenin ilk yavrusudur. Onlar bunu kendi tağutlarına, putlarına keserlerdi. Anre ise Receb ayında kesilen bir kurbanlıktır. Bu Hadis 5474 numarada da geçiyor Diğer tahric edenler: Tirmizi Kurban; Müslim, Edâhî Fethu'l-Bari Açıklaması: \"Fera'\" el-Muhkem adlı eserde nakledildiğine göre devenin ve koyunun ilk doğurduğu yavruya denilir. Cahiliye dönemi insanları bunları putları adına keserıerdi. Fera' kesilen bir hayvan adı olup, develer, sahiplerinin arzu ettikleri sayıya ulaştığı takdirde kesilirdi. Aynı şekilde develer yüzü bulduğu takdirde her yıl onlardan bir deve anre olarak kesilirdi. Ondan ne develerin sahibi, ne de aile halkı yerdi. Fera' aynı şekilde doğum dolayısıyla yenilen yemek gibi, develerin doğumu dolayısıyla yapılan bir yemek çeşidinin adıdır. İşte buradan Buhari'nin fera' hadisini akIka ile birlikte zikretmesinin münasebeti de ortaya çıkmaktadır"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 71,
+        "hadith": 8
+      },
+      "narrator": {
+        "en": "Abu Huraira"
+      }
+    },
+    {
+      "hadithNumber": 5474,
+      "arabicNumber": 5474,
+      "book": 71,
+      "hadithInBook": 9,
+      "text": {
+        "arabic": "حَدَّثَنَا عَلِيُّ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا سُفْيَانُ، قَالَ الزُّهْرِيُّ حَدَّثَنَا عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ لاَ فَرَعَ وَلاَ عَتِيرَةَ ‏\"‏‏.‏ قَالَ وَالْفَرَعَ أَوَّلُ نِتَاجٍ كَانَ يُنْتَجُ لَهُمْ، كَانُوا يَذْبَحُونَهُ لِطَوَاغِيتِهِمْ، وَالْعَتِيرَةُ فِي رَجَبٍ‏.‏",
+        "translations": {
+          "en": "Narrated Abu Huraira:The Prophet (ﷺ) said, \"Neither Fara' nor 'Atira) is permissible).\" Al-Fara' was the first offspring (they got of camels or sheep) which they (pagans) used to offer (as a sacrifice) to their idols. 'Atira was (a sheep which used to be slaughtered) during the month of Rajab",
+          "ur": "ہم سے علی بن عبداللہ مدینی نے بیان کیا، کہا ہم سے سفیان بن عیینہ نے بیان کیا، ان سے زہری نے بیان کیا، انہوں نے کہا ہم سے سعید بن مسیب نے بیان کیا اور ان سے ابوہریرہ رضی اللہ عنہ نے کہ نبی کریم صلی اللہ علیہ وسلم نے فرمایا کہ «فرع» اور «عتيرة» ( اسلام میں ) نہیں ہیں۔ بیان کیا کہ «فرع» سب سے پہلے بچہ کو کہتے تھے جو ان کے یہاں ( اونٹنی سے ) پیدا ہوتا تھا، اسے وہ اپنے بتوں کے نام پر ذبح کرتے تھے اور «عتيرة» وہ قربانی جسے وہ رجب میں کرتے تھے ( اور اس کی کھال درخت پر ڈال دیتے ) ۔",
+          "fr": "Rapporté par Abu Huraira : Le Prophète (ﷺ) a dit : Ni Fara’ ni ‘Atira ne sont permis. Al-Fara’ était le premier petit (de chameaux ou de moutons) que les polythéistes offraient en sacrifice à leurs idoles. ‘Atira était une brebis qu’on sacrifiait pendant le mois de Rajab",
+          "id": "Telah menceritakan kepada kami [Ali bin Abdullah] berkata, telah menceritakan kepada kami [Sufyan] berkata; [Az Zuhri] telah menceritakan kepada kami dari [Sa'id Ibnul Musayyab] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: \"Tidak ada Fara' dan Atirah.\" Beliau lalu jelaskan: \"Fara' adalah anak pertama seekor unta yang mereka sembelih untuk sesembahan mereka, dan Atirah adalah hewan (kambing) yang mereka potong di bulan rajab",
+          "tr": "Ebu Hureyre r.a.'den rivayete göre Nebi Sallallahu Aleyhi ve Sellem: \"Feral da yoktur, atlre de yoktur\" diye buyurmuştur. (Zührl) dedi ki: Fera' develerin ilk doğurduğu yavrunun adı idi. Onlar bunu tağutlarına (putlarına) keserlerdi. Atlre ise Receb ayında olurdu. Fethu'l-Bari Açıklaması: \"Onlar bunları tağutlarına keserlerdi.\" Ebu Davud ravilerin bazısından şu fazlalığı zikretmiştir: \"Sonra onu yerler ve derisi de ağaçların üzerine bırakılırdı.\" Hadiste nehyin illetine de işaret vardır. Şafiı buradan, kesimin Allah için olması halinde caiz olacağı hükmünü çıkarmıştır. Böylelikle bu hadis ile: \"Fera' bir haktır\" hadisini bir arada telif etmiş olmaktadır. Bu da Ebu Davud, Nesai ve Hakim'in rivayet ettiği bir hadistir. Hakim'in rivayetinde de aynı şekilde şöyle denilmektedir: \"Resulullah Sallallahu Aleyhi ve Sellem'e ferala dair soru soruldu da o; Fera' bir haktır, senin deveni iki yaına basmış bir dişi deve olana yahut üç yaşına basmış bir erkek deve olana kadar bırakıp Allah yolunda ona yük taşıtman, yahut dul bir kadına onu vermen, senin için eti tüyüne yapışacak halde iken kesme nden ve böylece dişi devenden onu ayırmandan daha hayırlıdır.\" Şafii, Beyhakl'nin, el-Müzenı'nin ondan diye, onun yoluyla naklettiğine göre şöyle demiştir; Fera' cahiliye dönemi insanlarının kestikleri ve bu yolla mallarının bereketlenmesini diledikleri bir işti. Onlardan herhangi birisi dişi devesinin ya da koyununun ilk yavrusunu daha sonra geleceklerde bereket ihsan edilir ümidiyle keserdi. Nebi Sallallahu Aleyhi ve Sellem'e bunun hükmüne dair soru sordular. O da onlara bu hususta onlar için bir kerahet bulunmadığını haber verdiği gibi, Allah yolunda sırtına yük vurulacak hale gelinceye kadar onu bırakmalarımmüstehap olmak üzere emir vermiştir. Hadisteki \"bir haktır\" buyruğu ise, batıl değildir anlamınadır. Bu da soranın sorusuna göre veriImiş bir cevaptır. Bu hadis ile \"fera' da yoktur, anre de yoktur\" şeklindeki diğer hadis arasında da bir muhalefet söz konusu değildir. Çünkü hadis vacip bir fera' da yoktur, vacip bir anre de yoktur anlamındadır. Nevevl şöyle demiştir: Şafiı \"Harmele\"de fera' ve anrenin müstehap olduğunu açıkça ifade etmiştir. Ebu. Davud, Nesai, İbn Mace'nin sahih olduğunu belirterek Hakim ve İbnu'I-Münzir'in Nubeyşe'den şöyle dediğine dair naklettikleri rivayet de bunu desteklemektedir: \"Bir adam Rasulullah Sallallahu Aleyhi ve Sellem'e: Bizler cahiliye döneminde iken Receb ayında bir anre keserdik. Bize ne emredersin, diye sordu. Allah Rasulü: Siz hangi ayda olursa olsun Allah için kesebilirsiniz, diye buyurdu. Adam: Biz cahiliye döneminde fera' diye bir kurban keserdik, dedi. Allah Rasulü: Her bir saimede (meralarda yayılan davarlarda) senin davarlarının arasında beslenen bir fera' vardır. Bu yük taşıyabilecek hale geldiği vakit sen de onu keser, etini tasadduk edersin, böylesi daha hayırlıdır, diye buyurdu.\" Bu hadis-i şeriften anlaşıldığına göre Hz. Nebi Sallallahu Aleyhi ve Sellem fera' ve anreyi kökünden iptal etmemiştir. Bunların her birisine dair bazı nitelikleri kaldırmıştır. Fera'ın iptal ettiği niteliği, ilk doğduğu sırada kesilmesi niteliğidir. Anrenin iptal ettiği niteliği ise özellikle Receb ayında kesilmesi niteliğidir"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 71,
+        "hadith": 9
+      },
+      "narrator": {
+        "en": "Abu Huraira"
+      }
+    }
+  ],
+  "metadata": {
+    "averageLength": "medium",
+    "size": "6KB"
+  }
+}

@@ -1,0 +1,1269 @@
+{
+  "collection": "tirmidhi",
+  "book": 39,
+  "name": {
+    "arabic": "كتاب The Book on the Description of Hellfire",
+    "transliteration": "the book on the description of hellfire",
+    "translation": "The Book on the Description of Hellfire"
+  },
+  "totalHadith": 34,
+  "hadithNumberRange": {
+    "first": 2573,
+    "last": 2795
+  },
+  "content": [
+    {
+      "hadithNumber": 2573,
+      "arabicNumber": 2573,
+      "book": 39,
+      "hadithInBook": 1,
+      "text": {
+        "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ عَبْدِ الرَّحْمَنِ، أَخْبَرَنَا عُمَرُ بْنُ حَفْصِ بْنِ غِيَاثٍ، حَدَّثَنَا أَبِي، عَنِ الْعَلاَءِ بْنِ خَالِدٍ الْكَاهِلِيِّ، عَنْ شَقِيقِ بْنِ سَلَمَةَ، عَنْ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ يُؤْتَى بِجَهَنَّمَ يَوْمَئِذٍ لَهَا سَبْعُونَ أَلْفَ زِمَامٍ مَعَ كُلِّ زِمَامٍ سَبْعُونَ أَلْفَ مَلَكٍ يَجُرُّونَهَا ‏\"‏ ‏.‏ قَالَ عَبْدُ اللَّهِ بْنُ عَبْدِ الرَّحْمَنِ وَالثَّوْرِيُّ لاَ يَرْفَعُهُ ‏.‏ حَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ، حَدَّثَنَا عَبْدُ الْمَلِكِ بْنُ عَمْرٍو أَبُو عَامِرٍ الْعَقَدِيُّ، عَنْ سُفْيَانَ، عَنِ الْعَلاَءِ بْنِ خَالِدٍ، بِهَذَا الإِسْنَادِ نَحْوَهُ وَلَمْ يَرْفَعْهُ ‏.‏",
+        "translations": {
+          "en": "Abdullah bin Mas'ud narrated that the Messenger of Allah (s.a.w) said:\"Hell will be brought forth on that Day (of Resurrection) having seventy thousand bridles, and with every handle will be seventy thousand angels dragging it'\". Other chains report similar narrations",
+          "ur": "عبداللہ بن مسعود رضی الله عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”قیامت کے دن جہنم اس طرح لائی جائے گی کہ اس کی ستر ہزار لگام ہوں گی اور ہر لگام کے ساتھ ستر ہزار فرشتے اسے کھینچ رہے ہوں گے“۔ عبداللہ بن عبدالرحمٰن دارمی کہتے ہیں: ثوری نے اسے مرفوع نہیں کیا ہے۔",
+          "id": "Telah menceritakan kepada kami [Abdullah bin Abdurrahman] telah bercerita kepada kami [Umar bin Hafs bin Ghiyats] telah mengkhabarkan kepada kami [bapakku] dari [Al Ala' bin Khalid Al Kahili] dari [Syaqiq bin Salamah] dari [Abdullah bin Mas'ud] berkata: Rasulullah Shallallahu 'alaihi wa Salam bersabda: \"Pada hari itu, neraka Jahannam di datangkan, ia memiliki tujuh puluh ribu tali, pada tiap tali ada tujuh puluh ribu malaikat menyeretnya.\" Abdullah berkata: Ats Tsauri tidak menyambungkannya sampai kepada Nabi. Telah menceritakan kepada kami Abdu bin Humaid telah bercerita kepada kami Abdul Malik bin Amru dan Abu Amir Al Aqadi dari Sufyan dari Al Ala' bin Khlid dengan sanad ini sepertinya namun tidak memarfu'kannya",
+          "tr": "Abdullah b. Mes’ûd (radıyallahü anh)’den rivâyete göre, Rasûlüllah (sallallahü aleyhi ve sellem) şöyle buyurdu: “O kıyamet günü Cehennem getirilecek ve onun yetmiş bin bağı olacak ve herbir bağı ile beraber o bağdan çeken yetmiş bin melek olacaktır.” (Müslim, Cennet: 17) diyor ki: Sevrî bu hadisi merfu olmaksızın rivâyet ediyor"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 39,
+        "hadith": 1
+      }
+    },
+    {
+      "hadithNumber": 2574,
+      "arabicNumber": 2574,
+      "book": 39,
+      "hadithInBook": 2,
+      "text": {
+        "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُعَاوِيَةَ الْجُمَحِيُّ، حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ مُسْلِمٍ، عَنِ الأَعْمَشِ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ يَخْرُجُ عُنُقٌ مِنَ النَّارِ يَوْمَ الْقِيَامَةِ لَهُ عَيْنَانِ تُبْصِرَانِ وَأُذُنَانِ تَسْمَعَانِ وَلِسَانٌ يَنْطِقُ يَقُولُ إِنِّي وُكِّلْتُ بِثَلاَثَةٍ بِكُلِّ جَبَّارٍ عَنِيدٍ وَبِكُلِّ مَنْ دَعَا مَعَ اللَّهِ إِلَهًا آخَرَ وَبِالْمُصَوِّرِينَ ‏\"‏ ‏.‏ وَفِي الْبَابِ عَنْ أَبِي سَعِيدٍ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ غَرِيبٌ صَحِيحٌ ‏.‏ وَقَدْ رَوَاهُ بَعْضُهُمْ عَنِ الأَعْمَشِ عَنْ عَطِيَّةَ عَنْ أَبِي سَعِيدٍ عَنِ النَّبِيِّ صلى الله عليه وسلم نَحْوَ هَذَا وَرَوَى أَشْعَثُ بْنُ سَوَّارٍ عَنْ عَطِيَّةَ عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ عَنِ النَّبِيِّ صلى الله عليه وسلم نَحْوَهُ ‏.‏",
+        "translations": {
+          "en": "Abu Hurairah narrated that the Messenger of Allah (s.a.w) said:\"Some of the Fire (in the shape of a long neck) will come out of the Fire on the Day of judgment. It will have two eyes which can see, two ears which can hear, and a tongue which can speak. It will say: 'I have been left in charge of three: Every obstinate oppressor, everyone who called upon a deity besides Allah, and the image makers.\" Other chains report similar narrations",
+          "ur": "ابوہریرہ رضی الله عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”قیامت کے دن جہنم سے ایک گردن نکلے گی اس کی دو آنکھیں ہوں گی جو دیکھیں گی، دو کان ہوں گے جو سنیں گے اور ایک زبان ہو گی جو بولے گی، وہ کہے گی: مجھے تین لوگوں پر مقرر کیا گیا ہے: ہر سرکش ظالم پر، ہر اس آدمی پر جو اللہ کے سوا کسی دوسرے کو پکارتا ہو، اور مجسمہ بنانے والوں پر“۔ امام ترمذی کہتے ہیں: ۱- یہ حدیث حسن غریب صحیح ہے، ۲- اس باب میں ابو سعید خدری رضی الله عنہ سے بھی روایت ہے، ۳- بعض لوگوں نے یہ حدیث «عن الأعمش عن عطية عن أبي سعيد عن النبي صلى الله عليه وسلم» کی سند سے اسی طرح روایت کی ہے، ۴- اشعث بن سوار نے بھی «عن عطية عن أبي سعيد الخدري عن النبي صلى الله عليه وسلم» کی سند سے اسی طرح روایت کی ہے۔",
+          "id": "Telah menceritakan kepada kami [Abdullah bin Muawiyah Al Juhami] telah menceritakan kepada kami [Abdul Aziz bin Muslim] dari [Al A'masy] dari [Abu Shalih] dari [Abu Hurairah] berkata: Rasulullah Shallallahu 'alaihi wa Salam bersabda: \" Pada hari kiamat nanti, ada Leher keluar dari neraka, ia memiliki dua mata yang melihat, dua telinga yang mendengar dan lisan yang berbicara, ia berkata: Aku diberi kuasa pada setiap orang sombong lagi membangkang, pada orang yang menyeru tuhan lain bersama Allah dan pada orang-orang yang membuat gambar.\" Dalam hal ini ada hadits serupa dari Abu Sa'id. Abu Isa berkata: Hadits ini hasan gharib shahih. Sebagian meriwayatkan hadits ini dari [Al A'masy] dari [Athiyah] dari [Abu Sa'id] dari nabi Shallallahu 'alaihi wa Salam seperti ini. [Asy'ats bin Sawwar] meriwayatkan dari [Athiyah] dari [Abu Sa'id Al Khudri] dari nabi Shallallahu 'alaihi wa Salam sepertinya",
+          "tr": "Ebû Hureyre (r.a.)’den rivâyete göre, Rasûlullah (s.a.v.) şöyle buyurmuştur: “Kıyamet günü Cehennem’den bir gurup yaratık çıkacaktır ki onun gören iki gözü işiten iki kulağı ve konuşan bir dili olacaktır ve şöyle diyecektir: Ben üç kişiye vekil tayin edildim, her inatçı zorbaya, Allah ile birlikte başkalarına ilahlık yakıştıranlara, resim ve heykel yapanlara.” Diğer tahric: Müsned: 8076 Bu konuda Ebû Saîd (r.a.)’den de hadis rivâyet edilmiştir. Tirmizî: Bu hadis hasen garib sahihtir. Bazıları A’meş’den, Atıyye’den, Ebû Saîd’den bu hadisin bir benzerini rivâyet etmişlerdir. Eş’as b. Sevvar, Atıyye’den ve Ebû Saîd el Hudrî’den bir benzerini rivâyet etmiştir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 39,
+        "hadith": 2
+      }
+    },
+    {
+      "hadithNumber": 2575,
+      "arabicNumber": 2575,
+      "book": 39,
+      "hadithInBook": 3,
+      "text": {
+        "arabic": "حَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ، حَدَّثَنَا حُسَيْنُ بْنُ عَلِيٍّ الْجُعْفِيُّ، عَنْ فُضَيْلِ بْنِ عِيَاضٍ، عَنْ هِشَامٍ، عَنِ الْحَسَنِ، قَالَ قَالَ عُتْبَةُ بْنُ غَزْوَانَ عَلَى مِنْبَرِنَا هَذَا مِنْبَرِ الْبَصْرَةِ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ إِنَّ الصَّخْرَةَ الْعَظِيمَةَ لَتُلْقَى مِنْ شَفِيرِ جَهَنَّمَ فَتَهْوِي فِيهَا سَبْعِينَ عَامًا وَمَا تُفْضِي إِلَى قَرَارِهَا ‏\"‏ ‏.‏ قَالَ وَكَانَ عُمَرُ يَقُولُ أَكْثِرُوا ذِكْرَ النَّارِ فَإِنَّ حَرَّهَا شَدِيدٌ وَإِنَّ قَعْرَهَا بَعِيدٌ وَإِنَّ مَقَامِعَهَا حَدِيدٌ ‏.‏ قَالَ أَبُو عِيسَى لاَ نَعْرِفُ لِلْحَسَنِ سَمَاعًا مِنْ عُتْبَةَ بْنِ غَزْوَانَ وَإِنَّمَا قَدِمَ عُتْبَةُ بْنُ غَزْوَانَ الْبَصْرَةَ فِي زَمَنِ عُمَرَ وَوُلِدَ الْحَسَنُ لِسَنَتَيْنِ بَقِيَتَا مِنْ خِلاَفَةِ عُمَرَ ‏.‏",
+        "translations": {
+          "en": "Al-Hasan said:\"While he was on the pulpit – the pulpit of Al-Basrah – `Utbah bin Ghazwain narrated that the Messenger of Allah (s.a.w) said: “Indeed a giant rock can be thrown from the brink of Hell and it will continue to fall into it for seventy years without reaching the bottom of it.”.He said: “`Umar used to say:'Increase in your remembrance of the Fire, for its heat is extreme, its bottom is distant, and its whips are of Iron.'” (Sahih)",
+          "ur": "حسن بصری کہتے ہیں کہ عتبہ بن غزوان رضی الله عنہ نے ہمارے اس بصرہ کے منبر پر بیان کیا کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: ”اگر ایک بڑا بھاری پتھر جہنم کے کنارہ سے ڈالا جائے تو وہ ستر برس تک اس میں گرتا جائے گا پھر بھی اس کی تہہ تک نہیں پہنچے گا۔ عتبہ کہتے ہیں: عمر رضی الله عنہ کہا کرتے تھے: جہنم کو کثرت یاد کرو، اس لیے کہ اس کی گرمی بہت سخت ہے۔ اس کی گہرائی بہت زیادہ ہے اور اس کے آنکس ( آنکڑے ) لوہے کے ہیں۔ امام ترمذی کہتے ہیں: ہم عتبہ بن غزوان سے حسن بصری کا سماع نہیں جانتے ہیں، عمر رضی الله عنہ کے عہد خلافت میں عتبہ بن غزوان رضی الله عنہ بصرہ آئے تھے، اور حسن بصری کی ولادت اس وقت ہوئی جب عمر رضی الله عنہ کے عہد خلافت کے دو سال باقی تھے۔",
+          "id": "Telah menceritakan kepada kami [Abd bin Humaid] telah menceritakan kepada kami [Husain bin Ali Al Ju'fi] dari [Fudlail bin Iyadl] dari [Hisyam] dari [Al Hasan] berkata: [Utbah bin Ghazwan] berkhutbah di atas mimbar Bashrah, dari nabi Shallallahu 'alaihi wa Salam beliau bersabda: \"Sesungguhnya batu besar di lemparkan dari tepi neraka jahanam lalu jatuh ke dalamnya selama tujuhpuluh tahun dan tidak juga sampai ke dasarnya.\" Berkata Al Hasan: Ibnu Umar berkata: Sering-seringlah mengingat neraka karena panasnya amat sangat, jurangnya jauh dan palu-palunya terbuat dari besi. Abu Isa berkata: Kami tidak mengetahui Al Hasan mendengar dari Utbah bin Ghazwan, Utbah bin Ghazwan hanya datang ke Bashrah di masa Umar, sementara Al Hasan lahir dua tahun di sisa masa khilafah Umar",
+          "tr": "Hasan (r.a.)’den rivâyete göre, şöyle demiştir: Utbe b. Gazvan şu minberimizin Basra minberinin üzerinde Rasûlullah (s.a.v.)’den şöyle buyurduğunu anlattı: “Büyük bir kaya Cehennemin kenarından aşağıya bırakılır Cehenneme yetmiş sene iniş yapar da yine dibine varamaz.” Utbe sözüne şöyle devam etti: “Ömer şöyle derdi: Cehennemi çok hatırlayın onun sıcaklığı çok şiddetli, dibi derin kamçı ve balyozları da demirdendir.” Diğer tahric: Müslim, Zühd Tirmizî: Hasan’ın Utbe b. Gazvan’dan hadis işittiğini bilmiyoruz. Utbe b. Gazban Ömer zamanında Basra’ya geldi, Hasan ise Ömer’in halifeliğinin sona ermesine iki yıl kala dünyaya gelmiştir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 39,
+        "hadith": 3
+      }
+    },
+    {
+      "hadithNumber": 2576,
+      "arabicNumber": 2576,
+      "book": 39,
+      "hadithInBook": 4,
+      "text": {
+        "arabic": "حَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ، حَدَّثَنَا الْحَسَنُ بْنُ مُوسَى، عَنِ ابْنِ لَهِيعَةَ، عَنْ دَرَّاجٍ، عَنْ أَبِي الْهَيْثَمِ، عَنْ أَبِي سَعِيدٍ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ الصَّعُودُ جَبَلٌ مِنْ نَارٍ يُتَصَعَّدُ فِيهِ الْكَافِرُ سَبْعِينَ خَرِيفًا وَيَهْوِي فِيهِ كَذَلِكَ أَبَدًا ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ غَرِيبٌ لاَ نَعْرِفُهُ مَرْفُوعًا إِلاَّ مِنْ حَدِيثِ ابْنِ لَهِيعَةَ ‏.‏",
+        "translations": {
+          "en": "Abu Sa'eed narrated that the Prophet SAW said:\"As-Saud is a mountain in the Fire, a disbeliever will be raised upon it for seventy autumns and then similarly he will fall down it, forever.\" (Daif)",
+          "ur": "ابو سعید خدری رضی الله عنہ سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: ” «صعود» جہنم کا ایک پہاڑ ہے، اس پر کافر ستر سال میں چڑھے گا اور اتنے ہی سال میں نیچے گرے گا اور یہ عذاب اسے ہمیشہ ہوتا رہے گا“۔ امام ترمذی کہتے ہیں: یہ حدیث غریب ہے، ہم اسے صرف ابن لہیعہ کی روایت سے مرفوع جانتے ہیں۔",
+          "id": "Telah menceritakan kepada kami [Abd bin Humaid] telah menceritakan kepada kami [Al Hasan bin Musa] dari [Ibnu Lahi'ah] dari [Darraj] dari [Abu Al Hutsaim] dari [Abu Sa'id] dari Rasulullah Shallallahu 'alaihi wa Salam bersabda: \"Sha'ud adalah salah satu gunung neraka, orang kafir menaikinya selama empatpuluh tahun lalu terjun di dalamnya seperti itu juga selama itu selama-lamanya. Abu Isa berkata: Hadits ini gharib, kemarfu'annya hanya kami ketahui dari hadits Ibnu Lahi'ah",
+          "tr": "Ebû Saîd (r.a.)’den rivâyete göre, Rasûlullah (s.a.v.) şöyle buyurmuştur: “Saûd, ateşten bir dağdır, kafir bu dağda ebedî olarak yetmiş yıl çıkıp yetmiş yıl iniş yapacaktır.” Diğer tahric: Müsned: 11287 Tirmizî: Bu hadis garib olup merfu olarak sadece İbn Lehia’nın bu rivâyetiyle bilmekteyiz"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Daif"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 39,
+        "hadith": 4
+      }
+    },
+    {
+      "hadithNumber": 2577,
+      "arabicNumber": 2577,
+      "book": 39,
+      "hadithInBook": 5,
+      "text": {
+        "arabic": "حَدَّثَنَا عَبَّاسٌ الدُّورِيُّ، حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مُوسَى، أَخْبَرَنَا شَيْبَانُ، عَنِ الأَعْمَشِ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ إِنَّ غِلَظَ جِلْدِ الْكَافِرِ اثْنَانِ وَأَرْبَعُونَ ذِرَاعًا وَإِنَّ ضِرْسَهُ مِثْلُ أُحُدٍ وَإِنَّ مَجْلِسَهُ مِنْ جَهَنَّمَ كَمَا بَيْنَ مَكَّةَ وَالْمَدِينَةِ ‏\"‏ ‏.‏ هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ غَرِيبٌ مِنْ حَدِيثِ الأَعْمَشِ ‏.‏",
+        "translations": {
+          "en": "Abu Hurairah narrated that the Prophet (s.a.w) said:\"Indeed a disbeliever's skin will be forty-two forearm lengths thick, his molar teeth will be like Uhud (mountain), and his sitting place in Hell will be like what is between Makkah and Al-Madinah",
+          "ur": "ابوہریرہ رضی الله عنہ سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: ”کافر کے چمڑے کی موٹائی بیالیس گز ہو گی، اس کی ڈاڑھ احد پہاڑ جیسی ہو گی اور جہنم میں اس کے بیٹھنے کی جگہ اتنی ہو گی جتنا مکہ اور مدینہ کے درمیان کا فاصلہ“۔ امام ترمذی کہتے ہیں: یہ حدیث اعمش کی روایت سے حسن صحیح غریب ہے۔",
+          "id": "Telah menceritakan kepada kami [Abbas Ad Duri] telah menceritakan kepada kami [Ubaidullah bin Musa] telah mengkhabarkan kepada kami [Syaiban] dari [Al A'masy] dari [Abu Shalih] dari [Abu Hurairah] dari nabi Shallallahu 'alaihi wa Salam bersabda: \"Sesungguhnya kulit orang kafir itu setebal empatpuluh dua hasta, gigi gerahamnya seperti Uhud dan tempatnya di neraka jahanam seluas antara Makkah dan Madinah.\" Hadits ini hasan shahih gharib dari hadits Al A'masy",
+          "tr": "Ebû Hureyre (r.a.)’den rivâyete göre, Rasûlullah (s.a.v.) şöyle buyurdu: Cehenneme düşen kafirin derisinin kalınlığı kırk iki arşın olacak, azı dişi ise Uhud dağı kadar olup Cehennem’deki kapladığı yeri ise Mekke ile Medîne arası kadardır. Diğer tahric: (Müslim, Cennet A’meş hadisi hasen sahih garibtir)"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 39,
+        "hadith": 5
+      }
+    },
+    {
+      "hadithNumber": 2578,
+      "arabicNumber": 2578,
+      "book": 39,
+      "hadithInBook": 6,
+      "text": {
+        "arabic": "حَدَّثَنَا عَلِيُّ بْنُ حُجْرٍ، أَخْبَرَنَا مُحَمَّدُ بْنُ عَمَّارٍ، حَدَّثَنِي جَدِّي، مُحَمَّدُ بْنُ عَمَّارٍ وَصَالِحٌ مَوْلَى التَّوْأَمَةِ عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ ضِرْسُ الْكَافِرِ يَوْمَ الْقِيَامَةِ مِثْلُ أُحُدٍ وَفَخِذُهُ مِثْلُ الْبَيْضَاءِ وَمَقْعَدُهُ مِنَ النَّارِ مَسِيرَةَ ثَلاَثٍ مِثْلُ الرَّبَذَةِ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ غَرِيبٌ ‏.‏ ‏\"‏ وَمِثْلُ الرَّبَذَةِ ‏\"‏ كَمَا بَيْنَ الْمَدِينَةِ وَالرَّبَذَةِ ‏.‏ وَالْبَيْضَاءُ جَبَلٌ مِثْلُ أُحُدٍ ‏.‏",
+        "translations": {
+          "en": "Abu Hurairah narrated that the Messenger of Allah (s.a.w) said:\"The molar teeth of the disbeliever on the Day of Judgment will be like Uhud (mountain), his thigh will be like Al-Baida, and his seat in the Fire will be like the distance of three the likes of Ar-Rabadhah.\" His SAW statement: \"The likes of Ar-Rabadhah\" means: like what is between Al-Madinah and ArRabadhah. And Al-Baidã' is a mountain like Uhud",
+          "ur": "ابوہریرہ رضی الله عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”قیامت کے دن کافر کی ڈاڑھ احد پہاڑ جیسی ہو گی، اس کی ران بیضاء ( پہاڑ ) جیسی ہو گی اور جہنم کے اندر اس کے بیٹھنے کی جگہ تین میل کی مسافت کے برابر ہو گی جس طرح ربذہ کی دوری ہے“۔ امام ترمذی کہتے ہیں: ۱- یہ حدیث حسن غریب ہے، ۲- «مثل الربذة» کا مطلب ہے کہ جس طرح ربذہ پہاڑ مدینہ سے دور ہے، ربذہ اور بیضاء احد کی طرح دو پہاڑ ہیں۔",
+          "id": "Telah menceritakan kepada kami [Ali bin Hujr] telah mengabarkan kepada kami [Muhammad bin Ammar] telah menceritakan kepadaku [kakekku, Muhammad bin Ammar] dan [Shalih maula at-Tau`amah] dari [Abu Hurairah], dia berkata, Rasulullah shallallahu 'alaihi wasallam bersabda: \"Gigi orang kafir pada hari kiamat seperti gunung Uhud, pahanya seperti gunung al Baidha', dan tempat duduknya dari api neraka sejarak tiga (malam) seperti ar Rabadzah.\" Abu Isa berkata; Ini hadits hasan gharib. Sedangkan kalimat, 'Seperti ar Rabadzah' adalah seperti jarak antara Madinah dan ar Rabazdah. Kata 'Al Baidha' adalah nama gunung sebagaimana Uhud",
+          "tr": "Ebû Hureyre (r.a.)’den rivâyete göre, Rasûlullah (s.a.v.) şöyle buyurdu: “Kıyamet günü kafirin azı dişi Uhud dağı kadar uyluğu Beyda kadar Cehennem’deki oturma yeri Rebze gibi üç gecelik mesafe kadardır.” Diğer tahric: Müslim, Cennet Tirmizî: Bu hadis hasen garibtir. Rebze gibi sözünden Medîne ile Rebze arası kadarlık mesafe kastedilmektedir. “Beyda” Uhud dağı büyüklüğünde bir dağdır"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 39,
+        "hadith": 6
+      }
+    },
+    {
+      "hadithNumber": 2579,
+      "arabicNumber": 2579,
+      "book": 39,
+      "hadithInBook": 7,
+      "text": {
+        "arabic": "حَدَّثَنَا أَبُو كُرَيْبٍ، حَدَّثَنَا مُصْعَبُ بْنُ الْمِقْدَامِ، عَنْ فُضَيْلِ بْنِ غَزْوَانَ، عَنْ أَبِي حَازِمٍ، عَنْ أَبِي هُرَيْرَةَ، رَفَعَهُ قَالَ ‏ \"‏ ضِرْسُ الْكَافِرِ مِثْلُ أُحُدٍ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ ‏.‏ وَأَبُو حَازِمٍ هُوَ الأَشْجَعِيُّ اسْمُهُ سَلْمَانُ مَوْلَى عَزَّةَ الأَشْجَعِيَّةِ ‏.‏",
+        "translations": {
+          "en": "Abu Hurairah narrated a Marfu' narration:\"The molar teeth of the disbeliever will be like Uhud (mountain)",
+          "ur": "ابوہریرہ رضی الله عنہ سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: ”کافر کی ڈاڑھ احد جیسی ہو گی“۔ امام ترمذی کہتے ہیں: یہ حدیث حسن ہے۔",
+          "id": "Telah menceritakan kepada kami [Abu Kuraib] telah menceritakan kepada kami [Mush'ab bin al Miqdam] dari [Fudhail bin Ghazwan] dari [Abu Hazim] dari [Abu Hurairah] dia menyatakannya marfu', beliau bersabda; \"Geraham orang kafir seperti gunung Uhud.\" Abu Isa berkata; 'Ini hadits hasan. Sedangkan Abu Hazim adalah (bermarga) al Asyja'i, namanya Salman maula 'Azzah al Asyja'iyyah",
+          "tr": "Ebû Hureyre (r.a.)’den merfu olarak rivâyet edildiğine göre: “Kafirin azı dişi Uhud dağı kadardır.” Diğer tahric: Müslim, Cennet Tirmizî: Bu hadis hasendir. Ebû Hazım; Eşcaî denilen zattır. İsmi Selman olup Azze el Eşcaiyye’nin azatlı kölesidir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 39,
+        "hadith": 7
+      }
+    },
+    {
+      "hadithNumber": 2580,
+      "arabicNumber": 2580,
+      "book": 39,
+      "hadithInBook": 8,
+      "text": {
+        "arabic": "حَدَّثَنَا هَنَّادٌ، حَدَّثَنَا عَلِيُّ بْنُ مُسْهِرٍ، عَنِ الْفَضْلِ بْنِ يَزِيدَ، عَنْ أَبِي الْمُخَارِقِ، عَنِ ابْنِ عُمَرَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ إِنَّ الْكَافِرَ لَيُسْحَبُ لِسَانُهُ الْفَرْسَخَ وَالْفَرْسَخَيْنِ يَتَوَطَّؤُهُ النَّاسُ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ غَرِيبٌ إِنَّمَا نَعْرِفُهُ مِنْ هَذَا الْوَجْهِ ‏.‏ وَالْفَضْلُ بْنُ يَزِيدَ هُوَ كُوفِيٌّ قَدْ رَوَى عَنْهُ غَيْرُ وَاحِدٍ مِنَ الأَئِمَّةِ وَأَبُو الْمُخَارِقِ لَيْسَ بِمَعْرُوفٍ ‏.‏",
+        "translations": {
+          "en": "Ibn 'Umar narrated that the Messenger of Allah (s.a.w) said:'Indeed the disbeliever's tongue will be stretched a Farsakh or two Farsakh, such that the people will walk upon it",
+          "ur": "عبداللہ بن عمر رضی الله عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”کافر اپنی زبان کو ایک یا دو فرسخ تک گھسیٹے گا اور لوگ اسے روندیں گے“۔ امام ترمذی کہتے ہیں: ۱- یہ حدیث غریب ہے، ہم اسے صرف اسی سند سے جانتے ہیں، ۲- فضل بن یزید کوفی ہیں، ان سے کئی ائمہ حدیث نے روایت کی ہے، ۳- ابوالمخارق غیر معروف راوی ہیں۔",
+          "id": "Telah menceritakan kepada kami [Hannad] telah menceritakan kepada kami [Ali bin Mushir] dari [al Fadhl bin Yazid] dari [Abu al Mukhariq] dari [Ibnu Umar] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Sesungguhnya lisan orang kafir akan diseret sejarak satu farsakh dan dua farsakh, dan diinjak-injak oleh manusia.\" Abu Isa berkata; 'Ini hadits gharib. Kami hanya mengetahuinya dari jalur ini saja. Sedangkan Fadhl bin Yazid adalah seorang kufah. Bukan hanya satu imam yang meriwayatkan darinya. Sedangkan Abu al Mukhariq tidak dikenal",
+          "tr": "İbn Ömer (r.a.)’den rivâyete göre, Rasûlullah (s.a.v.) şöyle buyurdu: “Kafir dilini bir veya iki fersah yerden sürükleyerek ve insanlarda onu ayaklarıyla çiğneyeceklerdir.” Diğer tahric:Müsned: 5413 Tirmizî: Bu hadis garibtir. Bu hadisi sadece bu şekliyle bilmekteyiz. Fadl b. Yezîd Küfelidir. Pek çok imam kendisinden hadis rivâyet etmiştir. Ebû’l Muhârik ise tanınmış bir kimse değildir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Daif"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 39,
+        "hadith": 8
+      }
+    },
+    {
+      "hadithNumber": 2581,
+      "arabicNumber": 2581,
+      "book": 39,
+      "hadithInBook": 9,
+      "text": {
+        "arabic": "حَدَّثَنَا أَبُو كُرَيْبٍ، حَدَّثَنَا رِشْدِينُ بْنُ سَعْدٍ، عَنْ عَمْرِو بْنِ الْحَارِثِ، عَنْ دَرَّاجٍ، عَنْ أَبِي الْهَيْثَمِ، عَنْ أَبِي سَعِيدٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم فِي قَوْلِهِ‏:‏ ‏(‏كَالْمُهْلِ ‏)‏ قَالَ ‏ \"‏ كَعَكَرِ الزَّيْتِ فَإِذَا قَرَّبَهُ إِلَى وَجْهِهِ سَقَطَتْ فَرْوَةُ وَجْهِهِ فِيهِ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ لاَ نَعْرِفُهُ إِلاَّ مِنْ حَدِيثِ رِشْدِينَ بْنِ سَعْدٍ ‏.‏ وَرِشْدِينُ قَدْ تُكُلِّمَ فِيهِ مِنْ قِبَلِ حِفْظِهِ ‏.‏",
+        "translations": {
+          "en": "Abu Sa'eed narrated regarding His (Allah's) statement:Kal Muhl, the Prophet (s.a.w)said: 'Like boiling oil, such that when it is brought close to his face, the skin of his face will fall off into it",
+          "ur": "ابو سعید خدری رضی الله عنہ سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم سے اللہ تعالیٰ کے قول «كالمهل» کے بارے میں فرمایا: ”وہ پانی تلچھٹ کی طرح ہو گا جب اسے ( کافر ) اپنے منہ کے قریب کرے گا تو اس کے چہرے کی کھال اس میں گر جائے گی“۔ امام ترمذی کہتے ہیں: یہ حدیث ہم صرف رشدین بن سعد کی روایت سے جانتے ہیں، اور رشدین کے بارے میں کلام کیا گیا ہے۔",
+          "id": "Telah menceritakan kepada kami [Abu Kuraib] telah menceritakan kepada kami [Risydin bin Sa'd] dari [Amru bin al Harits] dari [Darraj] dari [Abu al Haitsam] dari [Abu Sa'id] dari Nabi shallallahu 'alaihi wasallam dalam menjelaskan firman Nya, \"Seperti besi yang mendidih.\" Beliau bersabda: \"Maksudnya seperti endapan minyak. Maka apabila (orang yang bermaksiat) mendekatkannya kepada wajahnya, niscaya kulit mukanya akan jatuh mengelupas ke dalamnya.\" Abu Isa berkata; 'Ini hadits yang mana kita tidak mengenalnya kecuali dari hadits Risydin bin Sa'd, sedangkan Risydin kredibilitasnya diperbincangkan",
+          "tr": "Ebû Saîd (r.a.)’den rivâyete göre, Rasûlullah (s.a.v.), Kehf sûresi 29. ayette geçen “Mühl gibi” ayeti hakkında şöyle buyurdu: Yağın tortusu gibi onu yüzüne yaklaştırdığı zaman yüzünün derisi içine düşecektir.” (Kehf 29. ayet… Şüphesiz biz kafirlere öyle bir ateş hazırladık ki etrafındaki alev duvarlar onları çepeçevre kuşatır. Susayıp su istedikleri zaman kaynamış katran gibi bir su ikram edilirde bu su yüzlerini bile kavurur gider…) Diğer tahric: Müsned: 11244 Tirmizî: Bu hadisi sadece Rişdîn b. Sa’dın rivâyetiyle bilmekteyiz. Rişdîn b. Saîd ise hakkında ileri geri konuşulan bir kimsedir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Daif"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 39,
+        "hadith": 9
+      }
+    },
+    {
+      "hadithNumber": 2582,
+      "arabicNumber": 2582,
+      "book": 39,
+      "hadithInBook": 10,
+      "text": {
+        "arabic": "حَدَّثَنَا سُوَيْدُ بْنُ نَصْرٍ، أَخْبَرَنَا عَبْدُ اللَّهِ بْنُ الْمُبَارَكِ، أَخْبَرَنَا سَعِيدُ بْنُ يَزِيدَ، عَنْ أَبِي السَّمْحِ، عَنِ ابْنِ حُجَيْرَةَ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ إِنَّ الْحَمِيمَ لَيُصَبُّ عَلَى رُءُوسِهِمْ فَيَنْفُذُ الْحَمِيمُ حَتَّى يَخْلُصَ إِلَى جَوْفِهِ فَيَسْلِتَ مَا فِي جَوْفِهِ حَتَّى يَمْرُقَ مِنْ قَدَمَيْهِ وَهُوَ الصَّهْرُ ثُمَّ يُعَادُ كَمَا كَانَ ‏\"‏ ‏.‏ وَسَعِيدُ بْنُ يَزِيدَ يُكْنَى أَبَا شُجَاعٍ وَهُوَ مِصْرِيٌّ وَقَدْ رَوَى عَنْهُ اللَّيْثُ بْنُ سَعْدٍ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ غَرِيبٌ ‏.‏ وَابْنُ حُجَيْرَةَ هُوَ عَبْدُ الرَّحْمَنِ بْنُ حُجَيْرَةَ الْمِصْرِيُّ ‏.‏",
+        "translations": {
+          "en": "Abu Hurairah narrated that the Prophet (s.a.w) said:Indeed Hamim will be poured over their heads. The Hamim will penetrate until it finds its way to his insides. Then whatever is inside him will fall out until it pours over his feet while it melts away. Then he will be reformed to how he was",
+          "ur": "ابوہریرہ رضی الله عنہ سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: ”جہنمیوں کے سر پر «ماء حمیم» ( گرم پانی ) انڈیلا جائے گا تو وہ ( بدن میں ) سرایت کر جائے گا یہاں تک کہ اس کے پیٹ تک جا پہنچے گا اور اس کے پیٹ کے اندر جو کچھ ہے اسے کاٹے گا یہاں تک کہ اس کے پیروں ( یعنی سرین ) سے نکل جائے گا۔ یہی وہ «صہر» ہے ( جس کا ذکر قرآن میں آیا ہے ) پھر اسی طرح لوٹا دیا جائے گا جس طرح تھا“۔ امام ترمذی کہتے ہیں: یہ حدیث حسن صحیح غریب ہے۔",
+          "id": "Telah menceritakan kepada kami [Suwaid] telah mengabarkan kepada kami [Abdullah] telah mengabarkan kepada kami [Sa'id bin Yazid] dari [Abu as Samh] dari [Ibnu Hujairah] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: \"Sesungguhnya air yang panas tersebut pasti akan dituangkan ke atas kepala mereka, maka air panas tersebut menembus hingga masuk ke dalam perutnya dan memotong segala sesuatu yang berada dalam perutnya hingga keluar dari kedua telapak kakinya dalam bentuk cairan. Kemudian dia dikembalikan (utuh) sebagaimana sebelumnya.\" Sa'id bin Yazid diberi kunyah Abu Syuja', dia seorang Mesir. Al Laits bin Sa'd telah meriwayatkan darinya. Abu Isa berkata; 'Ini hadits hasan shahih gharib. Sedangkan Ibnu Hujairah adalah Abdurrahman bin Hujairah al Mishri",
+          "tr": "Ebû Hureyre (r.a.)’den rivâyete göre, Rasûlullah (s.a.v.) şöyle buyurdu: “Cehennemliklerin başlarından aşağı hamîm dökülecektir. Hamîm içine işleyecek ve karın boşluğuna varacak karın boşluğunda ne varsa hepsini silip süpürecek ve ayaklarından çıkacaktır. İşte Sahr budur sonra eski haline tekrar dönecek ve bu işlem böylece devam edip gidecektir.” (Hac sûresi 20. ayetin tefsiridir. “Bu dökülen kaynar su ile karınları içindeki organlar ve derileri eritilecektir.”) Saîd b. Yezîd, Ebû Şüca’ diye künyelenir ve Mısırlıdır. Kendisinden Leys b. Sa’d hadis rivâyet etmiştir. Diğer tahric: Müsned: 8509 Tirmizî: Bu hadis hasen sahih garibtir. İbn Huceyre ise Abdurrahman b. Huceyre el Mısrî’dir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Daif"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 39,
+        "hadith": 10
+      }
+    },
+    {
+      "hadithNumber": 2583,
+      "arabicNumber": 2583,
+      "book": 39,
+      "hadithInBook": 11,
+      "text": {
+        "arabic": "حَدَّثَنَا سُوَيْدُ بْنُ نَصْرٍ، أَخْبَرَنَا عَبْدُ اللَّهِ بْنُ الْمُبَارَكِ، أَخْبَرَنَا صَفْوَانُ بْنُ عَمْرٍو، عَنْ عُبَيْدِ اللَّهِ بْنِ بُسْرٍ، عَنْ أَبِي أُمَامَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم فِي قَوْلِهِ‏:‏ ‏(‏يُسْقَى مِنْ مَاءٍ صَدِيدٍ * يَتَجَرَّعُهُ ‏)‏ قَالَ ‏\"‏ يُقَرَّبُ إِلَى فِيهِ فَيَكْرَهُهُ فَإِذَا أُدْنِيَ مِنْهُ شَوَى وَجْهَهُ وَوَقَعَتْ فَرْوَةُ رَأْسِهِ فَإِذَا شَرِبَهُ قَطَّعَ أَمْعَاءَهُ حَتَّى يَخْرُجَ مِنْ دُبُرِهِ يَقُولُ اللَّهُ‏:‏ ‏(‏وَسُقُوا مَاءً حَمِيمًا فَقَطَّعَ أَمْعَاءَهُمْ ‏)‏ وَيَقُولُ‏:‏ ‏(‏وَإِنْ يَسْتَغِيثُوا يُغَاثُوا بِمَاءٍ كَالْمُهْلِ يَشْوِي الْوُجُوهَ بِئْسَ الشَّرَابُ ‏)‏ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ غَرِيبٌ ‏.‏ وَهَكَذَا قَالَ مُحَمَّدُ بْنُ إِسْمَاعِيلَ عَنْ عُبَيْدِ اللَّهِ بْنِ بُسْرٍ وَلاَ نَعْرِفُ عُبَيْدَ اللَّهِ بْنَ بُسْرٍ إِلاَّ فِي هَذَا الْحَدِيثِ وَقَدْ رَوَى صَفْوَانُ بْنُ عَمْرٍو عَنْ عَبْدِ اللَّهِ بْنِ بُسْرٍ صَاحِبِ النَّبِيِّ صلى الله عليه وسلم غَيْرَ هَذَا الْحَدِيثِ وَعَبْدُ اللَّهِ بْنُ بُسْرٍ لَهُ أَخٌ قَدْ سَمِعَ مِنَ النَّبِيِّ صلى الله عليه وسلم ‏.‏ وَأُخْتُهُ قَدْ سَمِعَتْ مِنَ النَّبِيِّ صلى الله عليه وسلم ‏.‏ وَعُبَيْدُ اللَّهِ بْنُ بُسْرٍ الَّذِي رَوَى عَنْهُ صَفْوَانُ بْنُ عَمْرٍو حَدِيثَ أَبِي أُمَامَةَ لَعَلَّهُ أَنْ يَكُونَ أَخَا عَبْدِ اللَّهِ بْنِ بُسْرٍ ‏.‏",
+        "translations": {
+          "en": "Abu Umamah narrated regarding His (Allah's) statement:\"He will be given water of Sadid to drink, he will swallow it...\" that the Prophet (s.a.w) said: \" It will be brought toward his mouth and he will dislike it, so whenever it is brought closer to him it will melt his face and the skin of his head will fall into it. Then whenever he drinks from it, his bowels will be severed until it comes out from his anus. Allah, the Blessed and Exalted says: \"And they will be given water of Hamim to drink such that it cuts up their bowels...\" and He says: \"And if they call for drink they will be given water of Muhl which melts the faces, the worst of drinks",
+          "ur": "ابوامامہ رضی الله عنہ سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم نے اللہ تعالیٰ کے اس قول «ويسقى من ماء صديد يتجرعه» ( ابراہیم: ۱۶ ) کے بارے میں فرمایا: ” «صديد» ( پیپ ) اس کے منہ کے قریب کی جائے گی تو اسے ناپسند کرے گا جب اسے اور قریب کیا جائے گا تو اس کا چہرہ بھن جائے گا اور اس کے سر کی کھال گر جائے گی اور جب اسے پیئے گا تو اس کی آنت کٹ جائے گی یہاں تک کہ اس کے سرین سے نکل جائے گی۔ اللہ تعالیٰ فرماتا ہے «وسقوا ماء حميما فقطع أمعاءهم» ”وہ «ماء حمیم» ( گرم پانی ) پلائے جائیں گے تو وہ ان کی آنتوں کو کاٹ دے گا“ ( سورۃ محمد: ۱۵ ) اور اللہ تعالیٰ فرماتا ہے «وإن يستغيثوا يغاثوا بماء كالمهل يشوي الوجوه بئس الشراب» ”اور اگر وہ فریاد کریں گے تو ان کی فریاد رسی ایسے پانی سے کی جائے گی جو تلچھٹ کی طرح ہو گا چہرے کو بھون دے گا اور وہ نہایت برا مشروب ہے“ ( الکہف: ۲۹ ) امام ترمذی کہتے ہیں: ۱- یہ حدیث غریب ہے، ۲- اسی طرح محمد بن اسماعیل بخاری نے بھی سند میں «عن عبيد الله بن بسر» کہا ہے اور ہم عبیداللہ بن بسر کو صرف اسی حدیث میں جانتے ہیں، ۳- صفوان بن عمر نے عبداللہ بن بسر سے جو نبی اکرم صلی اللہ علیہ وسلم کے صحابی ہیں، ایک دوسری حدیث روایت کی ہے، عبداللہ بن بسر کے ایک بھائی ہیں جنہوں نے نبی اکرم صلی اللہ علیہ وسلم سے سنی ہے اور ان کی ایک بہن نے بھی نبی اکرم صلی اللہ علیہ وسلم سے حدیث سنی ہے۔ جس عبیداللہ بن بسر سے صفوان بن عمرو نے یہ حدیث روایت کی ہے، یہ صحابی نہیں ہیں کوئی دوسرے آدمی ہیں۔",
+          "id": "Telah menceritakan kepada kami [Suwaid bin Nashr] telah mengabarkan kepada kami [Abdullah] telah mengabarkan kepada kami [Shafwan bin Amru] dari [Ubaidillah bin Busr] dari [Abu Umamah] dari Nabi shallallahu 'alaihi wasallam dalam menjelaskan firman Nya, \"Dan dia akan diberi minuman dengan air nanah, lalu dia minum air nanah itu.\" Beliau menjelaskan; '(Minuman itu) didekatkan kepada (orang yang bermaksiat tersebut), maka dia tidak menyukainya, ketika didekatkan kepadanya, minuman itu membakar wajahnya, maka kulit kepalanya jatuh mengelupas. Ketika dia meminumnya, minuman itu memutuskan lambungnya hingga keluar (cairan) dari duburnya. Allah berfirman: 'Dan mereka diberi minuman dengan air yang mendidih sehingga memotong ususnya.' Dan Allah berfirman: 'Dan jika mereka meminta minum, niscaya mereka akan diberi minum dengan air seperti besi yang mendidih yang menghanguskan muka. Itulah minuman yang paling buruk dan tempat istirahat yang paling jelek'.\" Abu Isa berkata; 'Ini hadits gharib. Demikianlah yang dikatakan Muhammad bin Isma'il dari Ubaidullah bin Busr. Dan kami tidak mengetahui Ubaidullah bin Busr kecuali dalam hadits ini. Shafwan telah meriwayatkan dari Amru dari Abdullah bin Busr, sahabat Nabi shallallahu 'alaihi wasallam selain hadits ini. Abdullah bin Busr mempunyai saudara yang telah mendengarkan (hadits) dari Nabi shallallahu 'alaihi wasallam, dan saudarinya juga telah mendengar dari Nabi shallallahu 'alaihi wasallam. Sedangkan Ubaidullah bin Busr yang mana Shafwan bin Amru meriwayatkan hadits ini darinya adalah laki-laki lain yang tidak termasuk kalangan shahabat",
+          "tr": "Ebû Hüreyre (radıyallahü anh)’den rivâyete göre, Rasûlüllah (sallallahü aleyhi ve sellem), İbrahim sûresi 16. 17. âyetleri olan: “Önünde Cehennem var orada kendisine kanlı irinli su içirilecek…” Onu yudum yudum içer fakat boğazında kalır yutamaz her taraftan ölüm gibi felaketler sarar fakat yine ölmez…” ayeti hakkında şöyle buyurdu: “Ağzına yaklaştırılacak ve ondan tiksinecektir. Kendisini yaklaştırıldığında yüzünü yakıp kavuracak ve başının derisi düşecektir. Onu içtiği zaman bağırsakları kopup dübüründen çıkacaktır. Allah; Muhammed sûresi âyet 15 de şöyle buyurur: “… Kaynar sudan içirilecek ve bağırsakları parça parça olacak…” Yine Allah Kehf sûresi 29. ayetinde de; “... Susayıp su istedikleri zaman kaynamış katran gibi bir su ikram edilir de bu su yüzlerini bile kavurur gider. Ne kötü bir içecek ne kötü bir barınaktır orası.” (Müsned: 21254) Bu hadis garibtir. b. İsmail “Böylece Ubeydullah b. Büsr’den” demektedir. Ubeydullah b. Büsr sadece bu hadisle bilinmektedir. b. Amr Rasûlüllah (sallallahü aleyhi ve sellem)’in sahabesi Abdullah b. Büsr’den başka bir hadis rivâyet etmiştir. Abdullah b. Büsr’ün, Peygamber (sallallahü aleyhi ve sellem)’den hadis işiten bir kardeşi ve birde kız kardeşi vardır. Safvân b. Amr’ın kendisinden Ebû Umâme’nin hadisini rivâyet ettiği Ubeydullah b. Büsr ise onun arkadaşı değil başka birisi olabilir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Daif"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 39,
+        "hadith": 11
+      }
+    },
+    {
+      "hadithNumber": 2584,
+      "arabicNumber": 2584,
+      "book": 39,
+      "hadithInBook": 12,
+      "text": {
+        "arabic": "حَدَّثَنَا سُوَيْدُ بْنُ نَصْرٍ، أَخْبَرَنَا عَبْدُ اللَّهِ بْنُ الْمُبَارَكِ، أَخْبَرَنَا رِشْدِينُ بْنُ سَعْدٍ، حَدَّثَنِي عَمْرُو بْنُ الْحَارِثِ، عَنْ دَرَّاجٍ، عَنْ أَبِي الْهَيْثَمِ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ‏:‏ ‏(‏كَالْمُهْلِ ‏)‏ كَعَكَرِ الزَّيْتِ فَإِذَا قُرِّبَ إِلَيْهِ سَقَطَتْ فَرْوَةُ وَجْهِهِ فِيهِ ‏\"‏ ‏.‏ وَبِهَذَا الإِسْنَادِ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\"‏ لِسُرَادِقِ النَّارِ أَرْبَعَةُ جُدُرٍ كِثَفُ كُلِّ جِدَارٍ مِثْلُ مَسِيرَةِ أَرْبَعِينَ سَنَةً ‏\"‏ ‏.‏ وَبِهَذَا الإِسْنَادِ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\"‏ لَوْ أَنَّ دَلْوًا مِنْ غَسَّاقٍ يُهَرَاقُ فِي الدُّنْيَا لأَنْتَنَ أَهْلُ الدُّنْيَا ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ إِنَّمَا نَعْرِفُهُ مِنْ حَدِيثِ رِشْدِينَ بْنِ سَعْدٍ وَفِي رِشْدِينَ مَقَالٌ وَقَدْ تُكُلِّمَ فِيهِ مِنْ قِبَلِ حِفْظِهِ ‏.‏ وَمَعْنَى قَوْلِهِ ‏\"‏ كِثَفُ كُلِّ جِدَارٍ ‏\"‏ يَعْنِي غِلَظَهُ ‏.‏",
+        "translations": {
+          "en": "Abu Sa'eed Al-Khudri narrated that about:Kal Muhl, the Prophet (s.a.w) said: \"Like boiling oil, such that whenever it is brought near him the skin of his face falls into it.\" And also with this chain, from the is Prophet SAW, that he said: \"If a bucket of Ghassaq were poured out in the world, the people of the world would rot. (Da'if) And the meaning of his statement: \"The Kithaf of each wall\" is its thickness",
+          "ur": "ابو سعید خدری رضی الله عنہ سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: ” «كالمهل» یعنی تلچھٹ کی طرح ہو گا جب اسے ( جہنمی ) اپنے قریب کرے گا تو اس کے چہرے کی کھال اس میں گر جائے گی“۔"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Daif"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 39,
+        "hadith": 12
+      }
+    },
+    {
+      "hadithNumber": 2585,
+      "arabicNumber": 2585,
+      "book": 39,
+      "hadithInBook": 13,
+      "text": {
+        "arabic": "حَدَّثَنَا مَحْمُودُ بْنُ غَيْلاَنَ، حَدَّثَنَا أَبُو دَاوُدَ، أَخْبَرَنَا شُعْبَةُ، عَنِ الأَعْمَشِ، عَنْ مُجَاهِدٍ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَرَأَ هَذِهِ الآيَةَ‏:‏ ‏(‏اتَّقُوا اللَّهَ حَقَّ تُقَاتِهِ وَلاَ تَمُوتُنَّ إِلاَّ وَأَنْتُمْ مُسْلِمُونَ ‏)‏ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ لَوْ أَنَّ قَطْرَةً مِنَ الزَّقُّومِ قُطِرَتْ فِي دَارِ الدُّنْيَا لأَفْسَدَتْ عَلَى أَهْلِ الدُّنْيَا مَعَايِشَهُمْ فَكَيْفَ بِمَنْ يَكُونُ طَعَامَهُ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏",
+        "translations": {
+          "en": "Ibn 'Abbas narrated that the Messenger of Allah (s.a.w) recited this Ayah:Have the Taqwa of Allah as His due, and do not die except as Muslims. And the Messenger of Allah (s.a.w) said: \"If only a drop of Az-Zaqqum were to drip into the abode of the world, it would spoil the peoples' livelihood, so how about the person for whom it is his food?",
+          "ur": "عبداللہ بن عباس رضی الله عنہما سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے یہ آیت پڑھی «اتقوا الله حق تقاته ولا تموتن إلا وأنتم مسلمون» ”تم اللہ سے ڈرنے کی طرح ڈرو اور مسلمان ہی رہتے ہوئے مرو“ ( آل عمران: ۱۰۲ ) رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”اگر «زقوم» تھوہڑ کا ایک قطرہ بھی دنیا کی زمین میں ٹپکا دیا جائے تو دنیا والوں کی معیشت بگڑ جائے، بھلا اس آدمی کا کیا ہو گا جس کی غذا ہی «زقوم» ہو۔ امام ترمذی کہتے ہیں: یہ حدیث حسن صحیح ہے۔",
+          "id": "Telah menceritakan kepada kami [Mahmud bin Ghailan] telah menceritakan kepada kami [Abu Daud] telah menceritakan kepada kami [Syu'bah] dari [al A'masy] dari [Mujahid] dari [Ibnu Abbas] bahwa Rasulullah shallallahu 'alaihi wasallam membaca ayat, \"Bertakwalah kamu sekalian kepada Allah dengan sebenar benarnya takwa, dan janganlah kamu sekalian meninggal melainkan kalian dalam keadaan muslim.\" Maka Rasulullah shallallahu 'alaihi wasallam bersabda: \"Kalau seandainya setetes Zaqqum (nama pohon di neraka) menetes ke kampung dunia, niscaya akan merusakkan kehidupan penduduk dunia. Lalu bagaimana dengan (keadaan) orang-orang yang menjadikan zaqqum sebagai makanannya?\" Abu Isa berkata; 'Ini hadits hasan shahih",
+          "tr": "İbn Abbâs (r.a.)’den rivâyete göre, Rasulullah (sallallahu aleyhi ve sellem), Alî-İmrân 102. ayeti olan “Ey iman edenler mutlaka yolunuzu Allah’ın kitabıyla bulmaya çalışın ve Müslüman olarak can verin” ayetini okudu ve şöyle buyurdu: “Cehennemliklerin yiyeceği olan zakkum’dan bir damla dünya yurduna damlatılmış olsaydı dünya halkının geçimini bozardı. Yiyeceği zakkum olan kişi ne yapacak...” Diğer tahric: İbn Mâce, Zühd: 27 Tirmizî: Bu hadis hasen sahihtir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Daif"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 39,
+        "hadith": 13
+      }
+    },
+    {
+      "hadithNumber": 2586,
+      "arabicNumber": 2586,
+      "book": 39,
+      "hadithInBook": 14,
+      "text": {
+        "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ عَبْدِ الرَّحْمَنِ، أَخْبَرَنَا عَاصِمُ بْنُ يُوسُفَ، حَدَّثَنَا قُطْبَةُ بْنُ عَبْدِ الْعَزِيزِ، عَنِ الأَعْمَشِ، عَنْ شِمْرِ بْنِ عَطِيَّةَ، عَنْ شَهْرِ بْنِ حَوْشَبٍ، عَنْ أُمِّ الدَّرْدَاءِ، عَنْ أَبِي الدَّرْدَاءِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ يُلْقَى عَلَى أَهْلِ النَّارِ الْجُوعُ فَيَعْدِلُ مَا هُمْ فِيهِ مِنَ الْعَذَابِ فَيَسْتَغِيثُونَ فَيُغَاثُونَ بِطَعَامٍ مِنْ ضَرِيعٍ لاَ يُسْمِنُ وَلاَ يُغْنِي مِنْ جُوعٍ فَيَسْتَغِيثُونَ بِالطَّعَامِ فَيُغَاثُونَ بِطَعَامٍ ذِي غُصَّةٍ فَيَذْكُرُونَ أَنَّهُمْ كَانُوا يُجِيزُونَ الْغُصَصَ فِي الدُّنْيَا بِالشَّرَابِ فَيَسْتَغِيثُونَ بِالشَّرَابِ فَيُرْفَعُ إِلَيْهِمُ الْحَمِيمُ بِكَلاَلِيبِ الْحَدِيدِ فَإِذَا دَنَتْ مِنْ وُجُوهِهِمْ شَوَتْ وُجُوهَهُمْ فَإِذَا دَخَلَتْ بُطُونَهُمْ قَطَّعَتْ مَا فِي بُطُونِهِمْ فَيَقُولُونَ ادْعُوا خَزَنَةَ جَهَنَّمَ فَيَقُولُونَ أَلَمْ تَكُ تَأْتِيكُمْ رُسُلُكُمْ بِالْبَيِّنَاتِ قَالُوا بَلَى ‏.‏ قَالُوا فَادْعُوا وَمَا دُعَاءُ الْكَافِرِينَ إِلاَّ فِي ضَلاَلٍ ‏.‏ قَالَ فَيَقُولُونَ ادْعُوا مَالِكًا فَيَقُولُونَ‏:‏ ‏(‏يَا مَالِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ ‏)‏ قَالَ فَيُجِيبُهُمْ‏:‏ ‏(‏إِنَّكُمْ مَاكِثُونَ ‏)‏ ‏\"‏ ‏.‏ قَالَ الأَعْمَشُ نُبِّئْتُ أَنَّ بَيْنَ دُعَائِهِمْ وَبَيْنَ إِجَابَةِ مَالِكٍ إِيَّاهُمْ أَلْفَ عَامٍ ‏.‏ قَالَ ‏\"‏ فَيَقُولُونَ ادْعُوا رَبَّكُمْ فَلاَ أَحَدَ خَيْرٌ مِنْ رَبِّكُمْ فَيَقُولُونَ‏:‏ ‏(‏رَبَّنَا غَلَبَتْ عَلَيْنَا شِقْوَتُنَا وَكُنَّا قَوْمًا ضَالِّينَ * رَبَّنَا أَخْرِجْنَا مِنْهَا فَإِنْ عُدْنَا فَإِنَّا ظَالِمُونَ ‏)‏ قَالَ فَيُجِيبُهُمْ‏:‏ ‏(‏اخْسَؤُوا فِيهَا وَلاَ تُكَلِّمُونِ ‏)‏ قَالَ فَعِنْدَ ذَلِكَ يَئِسُوا مِنْ كُلِّ خَيْرٍ وَعِنْدَ ذَلِكَ يَأْخُذُونَ فِي الزَّفِيرِ وَالْحَسْرَةِ وَالْوَيْلِ ‏\"‏ ‏.‏ قَالَ عَبْدُ اللَّهِ بْنُ عَبْدِ الرَّحْمَنِ وَالنَّاسُ لاَ يَرْفَعُونَ هَذَا الْحَدِيثَ ‏.‏ قَالَ أَبُو عِيسَى إِنَّمَا نَعْرِفُ هَذَا الْحَدِيثَ عَنِ الأَعْمَشِ عَنْ شِمْرِ بْنِ عَطِيَّةَ عَنْ شَهْرِ بْنِ حَوْشَبٍ عَنْ أُمِّ الدَّرْدَاءِ عَنْ أَبِي الدَّرْدَاءِ قَوْلَهُ وَلَيْسَ بِمَرْفُوعٍ ‏.‏ وَقُطْبَةُ بْنُ عَبْدِ الْعَزِيزِ هُوَ ثِقَةٌ عِنْدَ أَهْلِ الْحَدِيثِ ‏.‏",
+        "translations": {
+          "en": "Abu Ad-Darda' narrated that the Messenger of Allah (s.a.w) said:\"The inhabitants of the Fire will suffer from a hunger equal to the punishment they experience, so they will seek relief, and be given to eat of Dari; which will neither nourish nor avail against hunger. So they will (again) seek food to relieve (their hunger), and they will be given to eat of a food that causes one to choke. Then they will remember that they used remedy for choking in the world by drinking something. So they will seek relief from drink. Then they will be given Hamim with meat hooks, so when it comes toward their faces it melts their faces, and when it enters their insides it cuts up what is inside of them. So (some of them) say: 'Call the keepers of Hell' so they say: Did there not come to you your Messengers with clear signs? They say: 'Yes!' They say: 'Then call as you like.' And the invocation of the disbelievers is nothing but in vain.\" He said: \"They will say: 'Call Malik.' So they say: O Malik! Let your Lord make an end of us!'\" He said: \"So he answers them: Verily you shall abide forever. Al-A'mash said: \"I was informed that there is a thousand years between their calling him, and Malik's answering them.\" He said: \"They say: 'Call your Lord, for there is none better than your Lord.' So they will say: Our Lord! Our wretchedness over came us, and we were (an) erring people. Our Lord! Bring us out of this. If we ever return (to evil), indeed we shall be wrong doers.\"He said: \"So the reply to them is: You remain in it in ignominy! And do not speak to Me.\" He said: \"So with that, they loose hope of any good, and with that they are taken to moaning, despair and severe ruin",
+          "ur": "ابو الدرداء رضی الله عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”جہنمیوں پر بھوک مسلط کر دی جائے گی اور یہ عذاب کے برابر ہو جائے گی جس سے وہ دوچار ہوں گے، لہٰذا وہ فریاد کریں گے تو ان کی فریاد رسی «ضريع» ( خاردار پودا ) کے کھانے سے کی جائے گی جو نہ انہیں موٹا کرے گا اور نہ ان کی بھوک ختم کرے گا، پھر وہ دوبارہ کھانے کی فریاد کریں گے تو ان کی فریاد رسی گلے میں اٹکنے والے کھانے سے کی جائے گی، پھر وہ یاد کریں گے کہ دنیا میں اٹکے ہوئے نوالے کو پانی کے ذریعہ نگلتے تھے، چنانچہ وہ پانی کی فریاد کریں گے اور ان کی فریاد رسی «حميم» ( جہنمیوں کے مواد ) سے کی جائے گی جو لوہے کے برتنوں میں دیا جائے گا جب مواد ان کے چہروں سے قریب ہو گا تو ان کے چہروں کو بھون ڈالے گا اور جب ان کے پیٹ میں جائے گا تو ان کے پیٹ کے اندر جو کچھ ہے اسے کاٹ ڈالے گا، وہ کہیں گے: جہنم کے داروغہ کو بلاؤ، داروغہ کہیں گے: کیا تمہارے پاس رسول روشن دلائل کے ساتھ نہیں گئے تھے؟ وہ کہیں گے: کیوں نہیں، داروغہ کہیں گے: پکارتے رہو، کافروں کی پکار بیکار ہی جائے گی“۔ آپ نے فرمایا: ”جہنمی کہیں گے: مالک کو بلاؤ اور کہیں گے: اے مالک! چاہیئے کہ تیرا رب ہمارا فیصلہ کر دے ( ہمیں موت دیدے ) “، آپ نے فرمایا: ”ان کو مالک جواب دے گا: تم لوگ ( ہمیشہ کے لیے ) اسی میں رہنے والے ہو“۔ اعمش کہتے ہیں: مجھ سے بیان کیا گیا کہ ان کی پکار اور مالک کے جواب میں ایک ہزار سال کا وقفہ ہو گا، آپ نے فرمایا: ”جہنمی کہیں گے: اپنے رب کو پکارو اس لیے کہ تمہارے رب سے بہتر کوئی نہیں ہے، وہ کہیں گے: اے ہمارے رب! ہمارے اوپر شقاوت غالب آ گئی تھی اور ہم گمراہ لوگ تھے، اے ہمارے رب! ہمیں اس سے نکال دے اگر ہم پھر ویسا ہی کریں گے تو ظالم ہوں گے۔ آپ نے فرمایا: ”اللہ تعالیٰ انہیں جواب دے گا: پھٹکار ہو تم پر اسی میں پڑے رہو اور مجھ سے بات نہ کرو“، آپ نے فرمایا: ”اس وقت وہ ہر خیر سے محروم ہو جائیں گے اور اس وقت گدھے کی طرح رینکنے لگیں گے اور حسرت و ہلاکت میں گرفتار ہوں گے“۔ امام ترمذی کہتے ہیں: ۱- عبداللہ بن عبدالرحمٰن ( دارمی ) کہتے ہیں: لوگ اس حدیث کو مرفوعاً نہیں روایت کرتے ہیں، ۲- ہم اس حدیث کو صرف «عن الأعمش عن شمر بن عطية عن شهر بن حوشب عن أم الدرداء عن أبي الدرداء» کی سند سے جانتے ہیں جو ابودرداء کا اپنا قول ہے، مرفوع حدیث نہیں ہے۔",
+          "id": "Telah menceritakan kepada kami [Abdullah bin Abdurrahman] telah mengabarkan kepada kami ['Ashim bin Yusuf] telah menceritakan kepada kami [Quthbah bin Abdul Aziz] dari [Al A'masy] dari [Syimir bin Athiyyah] dari [Syahr bin Hausyab] dari [Ummu Ad Darda'] dari [Abu Ad Darda'] dia berkata, Rasulullah shallallahu 'alaihi wasallam bersabda: \"Akan dicampakkan kepada penghuni neraka rasa lapar yang sebanding dengan siksa yang mereka alami, lalu mereka memohon pertolongan, kemudian mereka ditolong dengan diberi makanan dari \"dhari\" (pohon yang berduri) Yang tidak menggemukkan dan tidak pula menghilangkan lapar, kemudian mereka memohon diberikan makanan lalu mereka diberi makanan yang menyumbat di kerongkongan, kemudian mereka teringat bahwa dahulu di dunia mereka mengobati tersumbatnya kerongkongan mereka dengan minuman, maka mereka memohon untuk diberi minuman, lalu dituangkanlah air mendidih kepada mereka dengan \"Al Kalalib\" (besi yang bengkok ujungnya digunakan untuk mengangkat daging dari kendi) yang apabila telah dekat ke wajah mereka menjadi gosonglah wajah mereka, dan apabila masuk ke dalam perut mereka niscaya akan memotong motong organ yang ada dalam perut mereka, lalu mereka berkata sesama mereka; 'Memohonlah kepada penjaga neraka Jahannam' namun mereka membacakan ayat 'Dan apakah belum datang kepada kamu rasul-rasulmu dengan membawa keterangan keterangan' Mereka menjawab: 'Benar, sudah datang.' penjaga-penjaga Jahannam berkata: 'Berdoalah kamu.' Dan doa orang-orang kafir itu hanyalah sia-sia belaka\". (QS Ghafir: 50) Rasulullah berkata; \"Lalu mereka berkata; 'Memohonlah kepada Malaikat Malik, ' maka mereka berkata; (Hai Malik Biarlah Tuhanmu membunuh kami saja) \". QS Az-Zukhrf: 77. Nabi berkata: \"Dia menjawab; 'Kamu akan tetap tinggal (di neraka ini) '.\" -Al A'masy berkata; 'Aku diberi tahu bahwa jarak antara permohonan mereka dengan jawaban Malaikat Malik kepada mereka adalah seribu tahun, '- Nabi berkata: \"Lalu mereka saling berkata; 'Mohonlah kepada Rabb kalian karena tidak ada seorang pun yang lebih baik daripada Rabb kalian'. Lalu mereka memohon; 'Ya Tuhan kami, kami telah dikuasai oleh kejahatan kami, dan dahulu kami adalah orang-orang yang sesat. Ya Tuhan kami, keluarkanlah kami dari padanya (dan kembalikanlah kami ke dunia), maka jika kami kembali (juga kepada kekafiran), maka sesungguhnya kami adalah orang-orang yang zhalim.'\" QS Al Mukminun: 106-107. Nabi berkata: \"Lalu Allah menjawab kepada mereka; 'Tinggallah dengan hina di dalamnya, dan janganlah kamu berbicara dengan Aku'.\" QS Al Mukminun: 108. Nabi berkata: \"Maka ketika itu mereka putus asa dari segala kebaikan, dan ketika itu juga mereka meringkik dan menyesal serta celaka.\" Abdullah bin Abdurrahman berkata; \"Orang-orang tidak merafa'kan (menyambungkan sampai kepada Nabi) hadits ini\". Abu Isa berkata; 'Kami mengetahui hadits ini hanya dari Al A'masy dari Syimir bin Athiyyah dari Syahr bin Hasyab dari Ummu Ad Darda' dari perkataan Abu Ad Darda', dan ia tidak marfu'. Adapun Qutbah bin Abdul Aziz, maka dia adalah seorang yang tsiqah menurut para ahli hadits",
+          "tr": "Ebû’d Derdâ (r.a.)’den rivâyete göre, Rasûlullah (s.a.v.) şöyle buyurdu: Cehennemlik olanlara azâblarına eşit biçimde açlık verilir de doyurulmaları için yardım isterler, kendilerine “Dari`” denilen acı ve kuru dikenler ikram edilecektir o dikenler ne besler ne de açlığı giderir. (88 Ğaşiye sûresi 6-7) sonra yine doyurulmalarını isterler de kendilerine boğazdan geçmeyen dikenli yemekler ikram edilir (73 Müzzemmil: 13) Dünyada boğaza duran yiyecekleri içecekle geçirdiklerini hatırlayarak kendilerine içecek yardımı yapılmasını isterlerde kendilerine demir çengelli kaynar sular ikram edilir onlar yüzlerine yaklaştığında yüzlerini yakar ve kavurur. Karınlarına girdiği zaman karınlarında bulunan her şeyi parçalar bu arada Cehennem bekçilerini çağırın derler. Cehennem bekçileri şöyle derler: Elçilerimiz size apaçık delillerle gelmiş değiller miydi? Onlar da evet diyecekler ve Cehennem bekçileri: Yalvarın bakalım! Allah’tan gelen gerçekleri inkar edenlerin yalvarması boşunadır.” (40 Mü’min 50) Sonra kafirler Mâlik’i çağırın deyip, “Ey Mâlik, Rabbin hükmünü verip işimizi bitiriversin böyle yapmaktansa ölüp kül ve kömür olmak iyidir” diyecekler. Mâlik te cevap verip şöyle diyecek: “Hayır siz burada ölmeden bu şekilde ebedi kalacaksınız.” (43 Zuhruf: 77) A’meş diyor ki: Bize bildirdiğine göre kafirlerin çağırması ile Mâlik’in onlara cevap vermesi arasında bin yıl geçecektir. Rasûlullah (s.a.v.) sözünü şöyle sürdürdü: Sonra kafirler, Rabbinize dua edin çünkü Rabbinizden başka rahmeti bol bir kimse yoktur derler ve şu duayı yaparlar: “Ey Rabbimiz bize kötülüklerimiz üstün geldi de bu yüzden yoldan çıkan kimseler olduk Ey Rabbimiz bizi bu Cehennem’den çıkar eğer tekrar işlediğimiz günahlara dönersek o zaman gerçekten zâlimlerden olmuş oluruz.” (23 Müminûn 106-109) “Allah ta onlara Alçaldıkça alçalın yıkılıp kalın orada susun konuşmayın benimle” (23/108) diyecektir. Rasûlullah (s.a.v.) şöyle devam etti: Her kurtuluş çaresinden ümidlerini kesecekler işte o zaman bağrışıp çağrışmaya pişmanlığa ve yazıklar olsun bize demeye başlayacaklardır.” Tirmizî rivâyet etmiştir. Abdullah b. Abdurrahman diyor ki: Hadisçiler bu hadisi merfu olarak rivâyet etmiyorlar. Tirmizî: Bu hadis A’meş’den, Şimr b. Atıyye’den, Şehr b. Havşeb’den, Ümmü Derdâ’dan ve Ebû’d Derdâ’dan kendi sözü olarak rivâyet edildiğini bilmekteyiz dolayısıyla merfu değildir. Kutbe b. Abdulaziz hadisçiler yanında güvenilir bir kişidir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Daif"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 39,
+        "hadith": 14
+      }
+    },
+    {
+      "hadithNumber": 2587,
+      "arabicNumber": 2587,
+      "book": 39,
+      "hadithInBook": 15,
+      "text": {
+        "arabic": "حَدَّثَنَا سُوَيْدٌ، أَخْبَرَنَا عَبْدُ اللَّهِ بْنُ الْمُبَارَكِ، عَنْ سَعِيدِ بْنِ يَزِيدَ أَبِي شُجَاعٍ، عَنْ أَبِي السَّمْحِ، عَنْ أَبِي الْهَيْثَمِ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ‏:‏ ‏(‏وَهُمْ فِيهَا كَالِحُونَ‏)‏ قَالَ ‏\"‏ تَشْوِيهِ النَّارُ فَتَقَلَّصُ شَفَتُهُ الْعُلْيَا حَتَّى تَبْلُغَ وَسَطَ رَأْسِهِ وَتَسْتَرْخِي شَفَتُهُ السُّفْلَى حَتَّى تَضْرِبَ سُرَّتَهُ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ غَرِيبٌ ‏.‏ وَأَبُو الْهَيْثَمِ اسْمُهُ سُلَيْمَانُ بْنُ عَمْرِو بْنِ عَبْدٍ الْعُتْوَارِيُّ وَكَانَ يَتِيمًا فِي حِجْرِ أَبِي سَعِيدٍ ‏.‏",
+        "translations": {
+          "en": "Abu Sa'eed Al-Khudri narrated that the Prophet (s.a.w) said:\"And therein they will grimace in displace lips. -He will be grilled by the Fire until his upper lip is folded up reaching the middle of his head, And his bottom lip pains down, until it hits his navel",
+          "ur": "ابو سعید خدری رضی الله عنہ سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم نے اس آیت کریمہ «وهم فيها كالحون» ”کافر جہنم کے اندر بد شکل ہوں گے“ ( المؤمنون: ۱۰۴ ) کے بارے میں فرمایا: ”ان کے چہروں کو آگ جھلس دے گی تو ان کے اوپر کا ہونٹ سکڑ کر بیچ سر تک پہنچ جائے گا اور نیچے کا ہونٹ لٹک کر ناف سے جا لگے گا“۔ امام ترمذی کہتے ہیں: یہ حدیث حسن صحیح غریب ہے۔",
+          "id": "Telah menceritakan kepada kami [Suwaid] telah mengabarkan kepada kami [Abdullah bin al Mubarak] dari [Sa'id bin Yazid Abu Syuja'] dari [Abu as Samh] dari [Abu al Haitsam] dari [Abu Sa'id al Khudzri] dari Nabi shallallahu 'alaihi wasallam, beliau menjelaskan firmanNya: \"Dan mereka di dalam neraka itu dalam keadaan cacat.\" Beliau bersabda: \"Orang kafir dibakar oleh api neraka, maka bibir atasnya mengkerut (ke atas) sehingga mencapai pertengahan kepalanya, sedangkan bibir bawahnya menjulur hingga mendekati pusarnya.\" Abu Isa berkata; 'Ini hadits hasan shahih gharib. Dan Abu al Haitsam namanya adalah Sulaiman bin Amru bin Murrah bin Abd al Utwari. Dia adalah seorang yatim yang berada pada naungan Abu Sa'id",
+          "tr": "Ebû Saîd el Hudrî (r.a.)’den rivâyete göre, Rasûlullah (s.a.v.), 23 Müminün sûresi 104. ayetini “Ateş onların yüzlerini yalayarak yakarda ateşin içinde yüz etleri sıyrılmış olarak sırıtan dişleriyle kalıverirler.” Şöyle tefsir etmiştir: “Ateşin yüz şeklini değiştirmesidir. Şöyle ki üst dudağı başının ortasına varacak kadar kasılacak alt dudağı ise göbeğine kadar inecektir.” Diğer tahric: Müsned: 11409 Tirmizî: Bu hadis hasen sahih garibtir. Ebû’l Heysem’in ismi Süleyman b. Amr b. Abdulutvârî’dir. Yetim olduğu için Ebû Saîd’in yanında kalmıştır"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Daif"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 39,
+        "hadith": 15
+      }
+    },
+    {
+      "hadithNumber": 2588,
+      "arabicNumber": 2588,
+      "book": 39,
+      "hadithInBook": 16,
+      "text": {
+        "arabic": "حَدَّثَنَا سُوَيْدُ بْنُ نَصْرٍ، أَخْبَرَنَا عَبْدُ اللَّهِ، أَخْبَرَنَا سَعِيدُ بْنُ يَزِيدَ، عَنْ أَبِي السَّمْحِ، عَنْ عِيسَى بْنِ هِلاَلٍ الصَّدَفِيِّ، عَنْ عَبْدِ اللَّهِ بْنِ عَمْرِو بْنِ الْعَاصِي، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ لَوْ أَنَّ رُصَاصَةً مِثْلَ هَذِهِ وَأَشَارَ إِلَى مِثْلِ الْجُمْجُمَةِ أُرْسِلَتْ مِنَ السَّمَاءِ إِلَى الأَرْضِ وَهِيَ مَسِيرَةُ خَمْسِمِائَةِ سَنَةٍ لَبَلَغَتِ الأَرْضَ قَبْلَ اللَّيْلِ وَلَوْ أَنَّهَا أُرْسِلَتْ مِنْ رَأْسِ السِّلْسِلَةِ لَصَارَتْ أَرْبَعِينَ خَرِيفًا اللَّيْلَ وَالنَّهَارَ قَبْلَ أَنْ تَبْلُغَ أَصْلَهَا أَوْ قَعْرَهَا ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ إِسْنَادُهُ حَسَنٌ صَحِيحٌ ‏.‏ وَسَعِيدُ بْنُ يَزِيدَ هُوَ مِصْرِيٌّ وَقَدْ رَوَى عَنْهُ اللَّيْثُ بْنُ سَعْدٍ وَغَيْرُ وَاحِدٍ مِنَ الأَئِمَّةِ ‏.‏",
+        "translations": {
+          "en": "Abdullah bin 'Amr bin Al-'As narrated that the Messenger of Allah said:\"If a pellet like this one, and he pointed to one like Al-jumjumah were to be dropped from the heavens to the earth – and it is the distance of traveling five hundred years it would reach the earth before the night-fall. But if it were dropped from the top of the chain it would travel for forty years, day and night, before it would reach its foundation or bottom.” (Hasan)",
+          "ur": "عبداللہ بن عمرو بن عاص رضی الله عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”اگر اس کے برابر ایک ٹکڑا ( اور آپ نے اپنے سر کی طرف اشارہ کیا ) آسمان سے زمین کی طرف جو پانچ سو سال کی مسافت ہے، چھوڑا جائے تو زمین پر رات سے پہلے پہنچ جائے گا اور اگر وہی ٹکڑا زنجیر ( جس کا ذکر ) قرآن میں آیا ہے: «ثم في سلسلة ذرعها سبعون ذراعا فاسلكوه» ( الحاقة: ۳۲ ) کے سر سے چھوڑا جائے تو اس زنجیر کی جڑ یا اس کی تہہ تک پہنچنے سے پہلے چالیس سال رات اور دن کے گزر جائیں“۔ امام ترمذی کہتے ہیں: ۱- اس حدیث کی سند حسن صحیح ہے، ۲- سعید بن یزید مصری ہیں۔ ان سے لیث بن سعد اور کئی ائمہ نے حدیث روایت کی ہے۔",
+          "id": "Telah menceritakan kepada kami [Suwaid] telah mengabarkan kepada kami [Abdullah] telah mengabarkan kepada kami [Sa'id bin Yazid] dari [Abu as Samh] dari [Isa bin Hilal ash Shadafi] dari [Abdullah bin Amru bin al 'Ash] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Kalau seandainya timah seperti ini -dan beliau menunjuk seperti wadah kecil- dikirim dari langit menuju ke bumi yang jaraknya sepanjang perjalanan lima ratus tahun, niscaya ia akan sampai di bumi sebelum malam, dan kalau seandainya ia dikirim dari puncak 'rantai', niscaya akan (memerlukan) perjalanan empat puluh tahun siang dan malam sebelum mencapai dasarnya atau keraknya.\" Abu Isa berkata; 'Hadits ini sanadnya hasan shahih. Dan Sa'id bin Yazid adalah seorang Mesir. Al Laits bin Sa'id dan bukan satu imam saja yang telah meriwayatkan hadits darinya",
+          "tr": "Abdullah b. Amr b. As (r.a.)’den rivâyete göre, Rasûlullah (s.a.v.) şöyle buyurdu: “Eğer kafatası kadar bir parça gökten yeryüzüne gönderilse –ki aradaki mesafe beş yüz seneliktir- geceden önce yeryüzüne varır eğer o parça bir zincirin başına bağlanmış olsaydı köküne veya dibine varmadan geceli gündüzlü kırk yıl yoluna devam ederdi.” (69 Hakka Sûresi 30-32. ayetlerini tefsir ediyor) Diğer tahric: Müsned: 6561 Tirmizî: Bu hadisin isnadı hasen sahihtir. Saîd b. Yezîd Mısırlıdır. Pek çok ilim adamı ve Leys b. Sa’d kendisinden hadis rivâyet etmiştir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Daif"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 39,
+        "hadith": 16
+      }
+    },
+    {
+      "hadithNumber": 2589,
+      "arabicNumber": 2589,
+      "book": 39,
+      "hadithInBook": 17,
+      "text": {
+        "arabic": "حَدَّثَنَا سُوَيْدُ بْنُ نَصْرٍ، أَخْبَرَنَا عَبْدُ اللَّهِ، أَخْبَرَنَا مَعْمَرٌ، عَنْ هَمَّامِ بْنِ مُنَبِّهٍ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\"‏ نَارُكُمْ هَذِهِ الَّتِي يُوقِدُ بَنُو آدَمَ جُزْءٌ وَاحِدٌ مِنْ سَبْعِينَ جُزءًا مِنْ حَرِّ جَهَنَّمَ ‏\"‏ ‏.‏ قَالُوا وَاللَّهِ إِنْ كَانَتْ لَكَافِيَةً يَا رَسُولَ اللَّهِ ‏.‏ قَالَ ‏\"‏ فَإِنَّهَا فُضِّلَتْ بِتِسْعَةٍ وَسِتِّينَ جُزْءًا كُلُّهُنَّ مِثْلُ حَرِّهَا ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏ وَهَمَّامُ بْنُ مُنَبِّهٍ هُوَ أَخُو وَهْبِ بْنِ مُنَبِّهٍ وَقَدْ رَوَى عَنْهُ وَهْبٌ ‏.‏",
+        "translations": {
+          "en": "Abu Hurairah narrated that the Prophet (s.a.w) said:\"This Fire of yours, which the sons of Adam kindle, is one part from seventy parts of the heat of the Hell.\" They said: \"By Allah! Would it not have been enough O Messenger of Allah?!\" He said: \"It is sixty-nine parts more – all of them similar in heat.” (Sahih)",
+          "ur": "ابوہریرہ رضی الله عنہ سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: ”تمہاری ( دنیا کی ) آگ جسے تم جلاتے ہو جہنم کی آگ کے ستر حصوں میں سے ایک ٹکڑا ( حصہ ) ہے“، لوگوں نے عرض کیا: اللہ کے رسول! اگر یہی آگ رہتی تو کافی ہوتی، آپ نے فرمایا: ”وہ اس سے انہتر حصہ بڑھی ہوئی ہے، ہر حصے کی گرمی اسی آگ کی طرح ہے“۔ امام ترمذی کہتے ہیں: یہ حدیث حسن صحیح ہے۔",
+          "id": "Telah menceritakan kepada kami [Suwaid] telah mengabarkan kepada kami [Abdullah] telah mengabarkan kepada kami [Ma'mar] dari [Hammam bin Munabbih] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: \"Api kalian ini yang kalian gunakan untuk membakar adalah salah satu bagian dari tujuh puluh bagian panasnya api neraka.\" Mereka bertanya; \"Demi Allah, apabila api ini sungguh sudah cukup (panas untuk mengadzab orang yang bermaksiat, lalu mengapa harus ditambah panasnya) wahai Rasulullah?\" Beliau menjawab: \"Panasnya api neraka melebihi (panasnya api dunia) sembilan puluh sembilan bagian. Semua bagian api (yang berjumlah sembilan puluh sembilan) panasnya adalah seperti panas api neraka.\" (maksud jawaban Rasulullah adalah adzab Allah harus lebih besar daripada adzab manusia). Abu Isa berkata; 'Hadits ini hadits hasan shahih. Dan Hammam bin Munabbih adalah saudara Wahb bin Munabbih. Dan Wahb telah meriwayatkan hadits darinya",
+          "tr": "Ebû Hureyre (r.a.)’den rivâyete göre; Rasûlullah (s.a.v.) şöyle buyurdu: Sizin şu yakmakta olduğunuz ateş ki Cehennem sıcaklığının yetmiş parçasından bir parçadır. Bunun üzerine Ashab: Vallahi Cehennem ateşi dünya ateşi kadar bile olsa azab için kafi gelirdi. Ey Allah’ın Rasûlü! Dediler. Cehennem ateşi dünya ateşlerinden altmış dokuz kat fazlalaştırılmıştır. Her bir katın derecesi buradaki ateş kadardır.” Diğer tahric: Buhârî, Bed-il Halk; Müslim: Cennet Tirmizî: Bu hadis hasen sahihtir. Hemmâm b. Münebbih, Vehb b. Münebbih’in kardeşidir. Kendisinden Vehb hadis rivâyet etmiştir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 39,
+        "hadith": 17
+      }
+    },
+    {
+      "hadithNumber": 2590,
+      "arabicNumber": 2590,
+      "book": 39,
+      "hadithInBook": 18,
+      "text": {
+        "arabic": "حَدَّثَنَا الْعَبَّاسُ بْنُ مُحَمَّدٍ الدُّورِيُّ، حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مُوسَى، حَدَّثَنَا شَيْبَانُ، عَنْ فِرَاسٍ، عَنْ عَطِيَّةَ، عَنْ أَبِي سَعِيدٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ نَارُكُمْ هَذِهِ جُزْءٌ مِنْ سَبْعِينَ جُزْءًا مِنْ نَارِ جَهَنَّمَ لِكُلِّ جُزْءٍ مِنْهَا حَرُّهَا ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ غَرِيبٌ مِنْ حَدِيثِ أَبِي سَعِيدٍ ‏.‏",
+        "translations": {
+          "en": "Abu Sa'eed narrated that the Prophet (s.a.w) said:\"This fire of yours is one part from seventy parts of the fire of Hell, each part of it is like the heat of this one",
+          "ur": "ابو سعید خدری رضی الله عنہ سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: ”تمہاری یہ آگ جہنم کی آگ کے ستر حصوں میں سے ایک حصہ ہے، اس کے ہر حصے کی گرمی اسی طرح ہے“۔ امام ترمذی کہتے ہیں: یہ حدیث ابوسعید کی روایت سے حسن غریب ہے۔",
+          "id": "Telah menceritakan kepada kami [Al Abbas Ad Duri al Baghdadi] telah menceritakan kepada kami [Ubaidullah bin Musa] telah menceritakan kepada kami [Syaiban] dari [Firas] dari [Athiyyah] dari [Abu Sa'id] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: \"Api kalian ini adalah satu bagian dari tujuh puluh bagian api neraka Jahannam, panas dari semua bagian adalah sama dengan panas api neraka\". Abu Isa berkata; 'Hadits ini hasan gharib dari hadits Abu Sa'id",
+          "tr": "Ebû Saîd (r.a.)’den rivâyete göre, Rasûlullah (s.a.v.) şöyle buyurdu: “Sizin şu ateşiniz Cehennem ateşinin yetmiş parçasından bir parçadır. Bunlardan her bir parça dünya ateşine denktir.” Tirmizî rivâyet etmiştir. Tirmizî: Ebû Saîd hadisi hasen garibtir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 39,
+        "hadith": 18
+      }
+    },
+    {
+      "hadithNumber": 2591,
+      "arabicNumber": 2591,
+      "book": 39,
+      "hadithInBook": 19,
+      "text": {
+        "arabic": "حَدَّثَنَا عَبَّاسُ بْنُ مُحَمَّدٍ الدُّورِيُّ الْبَغْدَادِيُّ، حَدَّثَنَا يَحْيَى بْنُ أَبِي بُكَيْرٍ، حَدَّثَنَا شَرِيكٌ، عَنْ عَاصِمٍ، هُوَ ابْنُ بَهْدَلَةَ عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ أُوقِدَ عَلَى النَّارِ أَلْفَ سَنَةٍ حَتَّى احْمَرَّتْ ثُمَّ أُوقِدَ عَلَيْهَا أَلْفَ سَنَةٍ حَتَّى ابْيَضَّتْ ثُمَّ أُوقِدَ عَلَيْهَا أَلْفَ سَنَةٍ حَتَّى اسْوَدَّتْ فَهِيَ سَوْدَاءُ مُظْلِمَةٌ ‏\"‏ ‏.‏ حَدَّثَنَا سُوَيْدُ بْنُ نَصْرٍ، أَخْبَرَنَا عَبْدُ اللَّهِ بْنُ الْمُبَارَكِ، عَنْ شَرِيكٍ، عَنْ عَاصِمٍ، عَنْ أَبِي صَالِحٍ، أَوْ رَجُلٍ آخَرَ عَنْ أَبِي هُرَيْرَةَ، نَحْوَهُ وَلَمْ يَرْفَعْهُ ‏.‏ قَالَ أَبُو عِيسَى حَدِيثُ أَبِي هُرَيْرَةَ فِي هَذَا مَوْقُوفٌ أَصَحُّ وَلاَ أَعْلَمُ أَحَدًا رَفَعَهُ غَيْرَ يَحْيَى بْنِ أَبِي بُكَيْرٍ عَنْ شَرِيكٍ ‏.‏",
+        "translations": {
+          "en": "Abu Hurairah narrated that the Prophet (s.a.w) said:\"The Fire was kindled for one thousand years until it reddened, then it was kindled for one thousand years until it whitened, then it was kindled for one thousand years until it became blackened, so it is dark black",
+          "ur": "ابوہریرہ رضی الله عنہ سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: ”جہنم کی آگ ایک ہزار سال دہکائی گئی یہاں تک کہ سرخ ہو گئی، پھر ایک ہزار سال دہکائی گئی یہاں تک کہ سفید ہو گئی، پھر ایک ہزار سال دہکائی گئی یہاں تک کہ سیاہ ہو گئی، اب وہ سیاہ ہے اور تاریک ہے“۔",
+          "id": "Telah menceritakan kepada kami [Abbas Ad Duri Al Baghdadi] telah menceritakan kepada kami [Yahya bin Abu Bukair] telah menceritakan kepada kami [Syarik] dari ['Ashim, yaitu Ibnu Bahdalah] dari [Abu Shalih] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: \"Bara api neraka jahannam itu dipanaskan selama seribu tahun sampai menjadi merah, kemudian dipanaskan lagi selama seribu tahun sampai menjadi putih, kemudian dipanaskan lagi selama seribu tahun sampai menjadi hitam, maka dia menjadi hitam gelap\". Telah menceritakan kepada kami Suwaid telah mengabarkan kepada kami Abdullah bin Al Mubarak dari Syarik dari 'Ashim dari Abu Shalih atau seorang lelaki yang lain dari Abu Hurairah dengan hadits yang semakna namun dia tidak merafa'kannya. Abu Isa berkata; 'Hadits Abu Hurairah dalam masalah ini yang lebih shahih adalah hadits mauquf, dan saya tidak mengetahui seorang pun yang merafa'kannya selain Yahya bin Abu Bukair dari Syarik",
+          "tr": "Ebû Hureyre (r.a.)’den rivâyete göre, Rasûlullah (s.a.v.) şöyle buyurdu: “Cehennem ateşi bin sene yakıldı kırmızılaştı. Sonra bin sene daha yakıldı beyazlaştı tekrar bin sene yakılarak siyahlaştı şimdi simsiyah ve karanlıktır.” Süveyd, Abdullah b. Mübarek vasıtasıyla Şerîk’den, Âsım’dan, Ebû Salih’den ve başka bir râvî’den; Ebû Hureyre’den geçen hadisin bir eşini bize merfu olmaksızın rivâyet etti. Tirmizî rivâyet etmiştir. Tirmizî: Bu konudaki Ebû Hureyre hadisinin sahih olanı mevkuftur. Yahya b. Ebî Bükeyr’in, Şerik’den rivâyetinden başka bu hadisi merfu rivâyet edeni bilmiyoruz"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Daif"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 39,
+        "hadith": 19
+      }
+    },
+    {
+      "hadithNumber": 2592,
+      "arabicNumber": 2592,
+      "book": 39,
+      "hadithInBook": 20,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عُمَرَ بْنِ الْوَلِيدِ الْكِنْدِيُّ الْكُوفِيُّ، حَدَّثَنَا الْمُفَضَّلُ بْنُ صَالِحٍ، عَنِ الأَعْمَشِ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ اشْتَكَتِ النَّارُ إِلَى رَبِّهَا وَقَالَتْ أَكَلَ بَعْضِي بَعْضًا فَجَعَلَ لَهَا نَفَسَيْنِ نَفَسًا فِي الشِّتَاءِ وَنَفَسًا فِي الصَّيْفِ فَأَمَّا نَفَسُهَا فِي الشِّتَاءِ فَزَمْهَرِيرٌ وَأَمَّا نَفَسُهَا فِي الصَّيْفِ فَسَمُومٌ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ صَحِيحٌ قَدْ رُوِيَ عَنْ أَبِي هُرَيْرَةَ عَنِ النَّبِيِّ صلى الله عليه وسلم مِنْ غَيْرِ وَجْهٍ ‏.‏ وَالْمُفَضَّلُ بْنُ صَالِحٍ لَيْسَ عِنْدَ أَهْلِ الْحَدِيثِ بِذَلِكَ الْحَافِظِ ‏.‏",
+        "translations": {
+          "en": "Abu Hurairah narrated:that the Messenger of Allah (s.a.w) said: \"The Fire complained to its Lord. It said: 'Some parts of me consume other parts.' So He allowed it to take two breaths: one during the winter, and during the summer. As for the breath in the winter then it is Zamharir, and as for the breath in the summer then it is Samum. Other chains report similar narrations",
+          "ur": "ابوہریرہ رضی الله عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”جہنم نے اپنے رب سے شکایت کی کہ میرا بعض حصہ بعض حصے کو کھائے جا رہا ہے لہٰذا اللہ تعالیٰ نے اس کے لیے دو سانسیں مقرر کر دیں: ایک سانس گرمی میں اور ایک سانس جاڑے میں، جہنم کے جاڑے کی سانس سے سخت سردی پڑتی ہے۔ اور اس کی گرمی کی سانس سے لو چلتی ہے“۔ امام ترمذی کہتے ہیں: ۱- یہ حدیث صحیح ہے، ۲- ابوہریرہ رضی الله عنہ کے واسطہ سے یہ حدیث نبی اکرم صلی اللہ علیہ وسلم سے دوسری سند سے بھی مروی ہے، ۳- مفضل بن صالح محدثین کے نزدیک کوئی قوی حافظے والے نہیں ہیں۔",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Umar bin al Walid al Kindi al Kufi] telah menceritakan kepada kami [al Mufadhdhal bin Shalih] dari [Al A'masy] dari [Abu Shalih] dari [Abu Hurairah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Neraka mengadu kepada Rabbnya seraya berkata; 'Sebagian anggotaku memakan sebagian anggota lainnya.' Lalu Allah menjadikan dua nafas untuknya, satu nafas di musim panas dan satu nafas di musim dingin. Adapun nafasnya di musim dingin maka (disebut) zamharir (angin dingin), sedangkan nafasnya di musim panas maka (disebut) samum (angin panas).\" Abu Isa berkata; 'Hadits ini hadits shahih, ia telah diriwayatkan dari Abu Hurairah dari Nabi shallallahu 'alaihi wasallam dari bukan satu jalur. Sedangkan al Mufadhdhal bin Shalih menurut ahli hadits pada jalur tersebut bukanlah hafidz",
+          "tr": "Ebû Hureyre (r.a.)’den rivâyete göre, Rasûlullah (s.a.v.) şöyle buyurdu: “Cehennem bir kısım bir kısmımı yiyip bitiriyor diye Allah’a şikayette bulundu. Allah’ta ona iki sefer nefes almasını takdir etti. Kışın bir nefes, yazın bir nefes; kışın aldığı nefesten dolayı soğuklar ve zemheri meydana geldi. Yazın aldığı nefesten dolayı baskın sıcaklar ve sâm yeli ortaya çıktı.” Diğer tahric: Müslim, Mesacid; İbn Mâce: Zühd Tirmizî: Bu hadis sahihtir. Ebû Hureyre’den değişik şekilde de rivâyet edilmiştir. Mufaddal b. Salih hadisçilere göre hafız değildir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 39,
+        "hadith": 20
+      }
+    },
+    {
+      "hadithNumber": 2593,
+      "arabicNumber": 2593,
+      "book": 39,
+      "hadithInBook": 21,
+      "text": {
+        "arabic": "حَدَّثَنَا مَحْمُودُ بْنُ غَيْلاَنَ، حَدَّثَنَا أَبُو دَاوُدَ، حَدَّثَنَا شُعْبَةُ، وَهِشَامٌ، عَنْ قَتَادَةَ، عَنْ أَنَسٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ - قَالَ هِشَامٌ ‏\"‏ يَخْرُجُ مِنَ النَّارِ ‏\"‏ ‏.‏ وَقَالَ شُعْبَةُ ‏\"‏ أَخْرِجُوا مِنَ النَّارِ مَنْ قَالَ لاَ إِلَهَ إِلاَّ اللَّهُ وَكَانَ فِي قَلْبِهِ مِنَ الْخَيْرِ مَا يَزِنُ شَعِيرَةً أَخْرِجُوا مِنَ النَّارِ مَنْ قَالَ لاَ إِلَهَ إِلاَّ اللَّهُ وَكَانَ فِي قَلْبِهِ مِنَ الْخَيْرِ مَا يَزِنُ بُرَّةً أَخْرِجُوا مِنَ النَّارِ مَنْ قَالَ لاَ إِلَهَ إِلاَّ اللَّهُ وَكَانَ فِي قَلْبِهِ مِنَ الْخَيْرِ مَا يَزِنُ ذَرَّةً ‏\"‏ ‏.‏ وَقَالَ شُعْبَةُ ‏\"‏ مَا يَزِنُ ذُرَةً ‏\"‏ ‏.‏ مُخَفَّفَةً ‏.‏ وَفِي الْبَابِ عَنْ جَابِرٍ وَعِمْرَانَ بْنِ حُصَيْنٍ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏",
+        "translations": {
+          "en": "From Anas, that the Messenger of Allah (s.a.w) said – Hisham (one of the narrators) narrated it:“Some will exit the Fire,” Shu`bah (another narrator) narrated it: 'Remove from the Fire whoever said La ilaha illallah and had good in his heart equal to the weight of a grain of barley. Remove from the Fire anyone who said La Ilaha illallah and had good in his heart equal to the weight of a grain of wheat. Remove from the Fire anyone who said La ilaha illallah and had good in his heart equal to the weight of a speck.” And Shubah said: “What is equal to the weight of a light piece of corn.” (Sahih) Other chains report similar narrations",
+          "ur": "انس رضی الله عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”جہنم سے نکلے گا ( شعبہ نے اپنی روایت میں کہا ہے: ( اللہ تعالیٰ کہے گا، اسے جہنم سے نکال لو ) جس نے «لا إلٰہ إلا اللہ» کہا اور اس کے دل میں ایک جو کے دانہ کے برابر بھلائی تھی، اسے جہنم سے نکالو جس نے «لا إلٰہ إلا اللہ» کہا، اور اس کے دل میں گیہوں کے دانہ کے برابر بھلائی تھی، اسے جہنم سے نکالو جس نے «لا إلٰہ إلا اللہ» کہا اس کے دل میں رائی کے دانہ کے برابر بھلائی تھی۔ ( شعبہ نے کہا ہے: جوار کے برابر بھلائی تھی ) “۔ امام ترمذی کہتے ہیں: ۱- یہ حدیث حسن صحیح ہے، ۲- اس باب میں جابر، ابو سعید خدری اور عمران بن حصین رضی الله عنہم سے بھی احادیث آئی ہیں۔",
+          "id": "Telah menceritakan kepada kami [Mahmud bin Ghailan] telah menceritakan kepada kamu [Abu Daud] telah menceritakan kepada kami [Syu'bah] dan [Hisyam] dari [Qatadah] dari [Anas] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: \"Akan keluar dari neraka -sedangkan Syu'bah mengungkapkan; 'Keluarkanlah dari neraka'- orang yang mengucapkan, La Ilaha illa Allah (tidak ada tuhan yang berhak disembah selain Allah) sedangkan di dalam hatinya terdapat sebagian dari kebaikan yang setara dengan biji gandum (sya'irah). Keluarkanlah dari neraka orang yang mengucapkan, La Ilaha illa Allah (tidak ada tuhan yang berhak disembah selain Allah) sedangkan di dalam hatinya terdapat sebagian dari kebaikan yang setara dengan biji gandum (burrah). Keluarkanlah dari neraka orang yang mengucapkan, La Ilaha illa Allah (tidak ada tuhan yang berhak disembah selain Allah) sedangkan di dalam hatinya terdapat sebagian dari kebaikan yang setara dengan biji gandum (dzarrah).\" Syu'bah berkata; \"Sesuatu yang setara dengan timbangan dzurrah yang ringan.\" Dan dalam bab tersebut dari Jabir dan Abu Sa'id serta Imran bin Hushain, Abu Isa berkata; 'Ini hadits hasan shahih",
+          "tr": "Enes (r.a.)’den rivâyete göre, Rasulullah (sallallahu aleyhi ve sellem) şöyle buyurdu: “La ilahe illallah diyen ve kalbinde arpa tanesi kadar iman olan kimse Cehennem’den çıkar. Şu’be’nin rivâyetinde Cehennem’den çıkarınız Allah’tan başka ilah yoktur diyen ve kalbinde buğday tanesi kadar iman bulunan kişiyi Cehennem’den çıkarınız. Allah’tan başka ilah yoktur diyen ve kalbinde zerre kadar imanı bulunan kimseyi Cehennem’den çıkarınız.” Şu’be rivâyetinde “zere” diyerek darı kadar imanı olan demiştir. Diğer tahric: Buharî, İman; İbn Mace, Zühd Bu konuda Cabir Ebû Saîd ve Imrân b. Husayn’dan da hadis rivâyet edilmiştir. Tirmizî: Bu hadis hasen sahihtir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 39,
+        "hadith": 21
+      }
+    },
+    {
+      "hadithNumber": 2594,
+      "arabicNumber": 2594,
+      "book": 39,
+      "hadithInBook": 22,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ رَافِعٍ، حَدَّثَنَا أَبُو دَاوُدَ، عَنْ مُبَارَكِ بْنِ فَضَالَةَ، عَنْ عُبَيْدِ اللَّهِ بْنِ أَبِي بَكْرِ بْنِ أَنَسٍ، عَنْ أَنَسٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ يَقُولُ اللَّهُ أَخْرِجُوا مِنَ النَّارِ مَنْ ذَكَرَنِي يَوْمًا أَوْ خَافَنِي فِي مَقَامٍ ‏\"‏ ‏.‏ قَالَ هَذَا حَدِيثٌ حَسَنٌ غَرِيبٌ ‏.‏",
+        "translations": {
+          "en": "Anas said that the Prophet (s.a.w) said:\"Allah will say: 'Remove from the Fire whoever remembered Me one day, or feared Me while in a state of sinning",
+          "ur": "انس رضی الله عنہ سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: ”اللہ تعالیٰ کہے گا: اسے جہنم سے نکال لو جس نے ایک دن بھی مجھے یاد کیا یا ایک مقام پر بھی مجھ سے ڈرا“۔ امام ترمذی کہتے ہیں: یہ حدیث حسن غریب ہے۔",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Rafi'] telah menceritakan kepada [Abu Daud] dari [Mubarak bin Fadlalah] dari [Ubaidullah bin Abu Bakar bin Anas] dari [Anas] dari Nabi shallallahu 'alaihi wasallam beliau berkata: \"Allah berfirman: 'Keluarkanlah dari neraka orang yang mengingat-Ku pada suatu hari atau takut kepada-Ku pada suatu tempat\". Dia berkata; \"Hadits ini hasan gharib",
+          "tr": "Enes b. Mâlik (r.a.)’den rivâyete göre, Rasûlullah (s.a.v.) şöyle buyurdu: “Allah herhangi bir günde beni anan veya herhangi bir yerde benden korkanları Cehennem’den çıkarınız buyuracaktır.” Tirmizî rivâyet etmiştir. Tirmizî: Bu hadis hasen garibtir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Daif"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 39,
+        "hadith": 22
+      }
+    },
+    {
+      "hadithNumber": 2595,
+      "arabicNumber": 2595,
+      "book": 39,
+      "hadithInBook": 23,
+      "text": {
+        "arabic": "حَدَّثَنَا هَنَّادٌ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ، عَنْ إِبْرَاهِيمَ، عَنْ عَبِيدَةَ السَّلْمَانِيِّ، عَنْ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ إِنِّي لأَعْرِفُ آخِرَ أَهْلِ النَّارِ خُرُوجًا رَجُلٌ يَخْرُجُ مِنْهَا زَحْفًا فَيَقُولُ يَا رَبِّ قَدْ أَخَذَ النَّاسُ الْمَنَازِلَ ‏.‏ قَالَ فَيُقَالُ لَهُ انْطَلِقْ فَادْخُلِ الْجَنَّةَ ‏.‏ قَالَ فَيَذْهَبُ لِيَدْخُلَ فَيَجِدُ النَّاسَ قَدْ أَخَذُوا الْمَنَازِلَ فَيَرْجِعُ فَيَقُولُ يَا رَبِّ قَدْ أَخَذَ النَّاسُ الْمَنَازِلَ ‏.‏ قَالَ فَيُقَالُ لَهُ أَتَذْكُرُ الزَّمَانَ الَّذِي كُنْتَ فِيهِ فَيَقُولُ نَعَمْ ‏.‏ فَيُقَالُ لَهُ تَمَنَّ ‏.‏ قَالَ فَيَتَمَنَّى فَيُقَالُ لَهُ فَإِنَّ لَكَ مَا تَمَنَّيْتَ وَعَشَرَةَ أَضْعَافِ الدُّنْيَا ‏.‏ قَالَ فَيَقُولُ أَتَسْخَرُ بِي وَأَنْتَ الْمَلِكُ ‏\"‏ ‏.‏ قَالَ فَلَقَدْ رَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم ضَحِكَ حَتَّى بَدَتْ نَوَاجِذُهُ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏",
+        "translations": {
+          "en": "Ibn Masud narrated that the Messenger of Allah (s.a.w) said:\"I know the last of the people of the Fire to depart from it. A man will exit it crawling, and he will say: 'O Lord! The people have taken all the places.'\" He said: \"So it will be said to him: 'Go to Paradise to enter Paradise.' So he will go to enter, but he will see that the people have taken all the places. He will return and say: 'O Lord! The people have taken all of the places.' So it will be said to him: 'Do you remember the times you used to live in?' And he will say: 'Yes.' So it will be said to him: 'Wish, He will wish for something, and it will be said to him: 'For you is whatever you wished for, and ten times the world.' He will say: 'Do you mock me while you are the King?'\" He (Ibn Masud) said: \"I saw the Messenger of Allah (s.a.w) laugh until his molars were visible",
+          "ur": "عبداللہ بن مسعود رضی الله عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”جہنم سے سب سے آخر میں نکلنے والے آدمی کو میں جانتا ہوں، وہ ایسا آدمی ہو گا جو سرین کے بل چلتے ہوئے نکلے گا اور عرض کرے گا: اے میرے رب! لوگ جنت کی تمام جگہ لے چکے ہوں گے“، آپ نے فرمایا: ”اس سے کہا جائے گا: چلو جنت میں داخل ہو جاؤ“، آپ نے فرمایا: ”وہ داخل ہونے کے لیے جائے گا ( جنت کو اس حال میں ) پائے گا کہ لوگ تمام جگہ لے چکے ہیں، وہ واپس آ کر عرض کرے گا: اے میرے رب! لوگ تمام جگہ لے چکے ہیں؟ !“، آپ نے فرمایا: ”اس سے کہا جائے گا: کیا وہ دن یاد ہیں جن میں ( دنیا کے اندر ) تھے؟“ وہ کہے گا: ہاں، اس سے کہا جائے گا: ”آرزو کرو“، آپ نے فرمایا: ”وہ آرزو کرے گا، اس سے کہا جائے گا: تمہارے لیے وہ تمام چیزیں جس کی تم نے آرزو کی ہے اور دنیا کے دس گنا ہے“۔ آپ نے فرمایا: ”وہ کہے گا: ( اے باری تعالیٰ! ) آپ مذاق کر رہے ہیں حالانکہ آپ مالک ہیں“، ابن مسعود کہتے ہیں: میں نے رسول اللہ صلی اللہ علیہ وسلم کو ہنستے دیکھا حتیٰ کہ آپ کے اندرونی کے دانت نظر آنے لگے ۱؎۔ امام ترمذی کہتے ہیں: یہ حدیث حسن صحیح ہے۔",
+          "id": "Telah menceritakan kepada kami [Hannad] telah menceritakan kepada kami [Abu Mu'awiyah] dari [al A'masy] dari [Ibrahim] dari [Abidah as Salmani] dari [Abdullah bin Mas'ud] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Sesungguhnya aku mengetahui penduduk neraka yang paling terakhir keluar, dia adalah seorang laki-laki yang keluar darinya dalam keadaan merangkak seraya berkata; 'Wahai Rabbku manusia telah mengambil tempat-tempatnya'.\" Rasulullah berkata; \"Lalu diperintahkan kepadanya; 'Pergilah, lalu masuklah surga'. Lalu dia pergi untuk masuk surga, dan dia mendapatkan manusia telah mengambil tempat-tempat mereka. Maka dia kembali seraya berkata; 'Wahai Rabbku, manusia telah mengambil tempat-tempatnya (sedangkan saya tidak memiliki tempat).' Lalu diperintahkan kepadanya; 'Apakah kamu mengingat zaman yang mana kamu berada di masanya.' Dia menjawab; 'Ya'. Lalu dikatakan kepadanya; 'Berangan anganlah (untuk tempatmu).' Maka dia mengangan angankannya. Kemudian dikatakan kepadanya; 'Sesungguhnya kamu mendapatkan sesuatu yang telah kamu angan angankan dan sepuluh kali lipat dunia.' Maka dia berkata; 'Apakah Engkau mengejekku (dengan pahala yang melimpah ini), sedangkan Engkau adalah Raja Diraja.'\" Perawi berkata; 'Sungguh aku telah melihat Rasulullah shallallahu 'alaihi wasallam tertawa sehingga tampaklah gigi gerahamnya.\" Abu Isa berkata; 'Hadits ini adalah hadits hasan shahih",
+          "tr": "Abdullah b. Mes’ûd (r.a.)’den rivâyete göre; Rasûlullah (s.a.v.) şöyle buyurdu: Cehennemliklerden çıkışı son olan kimseyi biliyorum. Bir kimse ki Cehennem’den sürünerek çıkacak ve şöyle diyecek: Ey Rabbim Cennet’teki tüm yerleri insanlar kapıp yerleştiler. Ona şöyle denilecek git ve Cennete gir. Rasûlullah (s.a.v.) şöyle devam etti: O kimse de Cennete girmek için gider bütün yerlerin insanlar tarafından işgal edildiğini görerek geri döner ve Ey Rabbim der insanlar tüm yerleri doldurmuşlar. Peygamberimiz şöyle devam etti: Ona denilecek ki eskiden içinde bulunduğun durumu hatırlıyor musun? O da evet diyecek sonra kendisine ne dilersen dile denilecek. O da bir şeyler isteyecek ve kendisine dilediğin şey ve dünyanın on katı senindir denilecek. Bunun üzerine O adam sen her şeyin hükümranı olduğun halde benimle şaka mı ediyorsun diyecek İbn Mes’ûd dedi ki: Bu arada Rasûlullah (s.a.v.)’in azı dişleri görünecek derecede güldüğünü gördüm.” Diğer tahric: Buhârî, Rıkak; Müslim, İman Tirmizî: Bu hadis hasen sahihtir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 39,
+        "hadith": 23
+      }
+    },
+    {
+      "hadithNumber": 2596,
+      "arabicNumber": 2596,
+      "book": 39,
+      "hadithInBook": 24,
+      "text": {
+        "arabic": "حَدَّثَنَا هَنَّادٌ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ، عَنِ الْمَعْرُورِ بْنِ سُوَيْدٍ، عَنْ أَبِي ذَرٍّ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ إِنِّي لأَعْرِفُ آخِرَ أَهْلِ النَّارِ خُرُوجًا مِنَ النَّارِ وَآخِرَ أَهْلِ الْجَنَّةِ دُخُولاً الْجَنَّةَ يُؤْتَى بِرَجُلٍ فَيَقُولُ سَلُوا عَنْ صِغَارِ ذُنُوبِهِ وَاخْبَئُوا كِبَارَهَا ‏.‏ فَيُقَالُ لَهُ عَمِلْتَ كَذَا وَكَذَا يَوْمَ كَذَا وَكَذَا عَمِلْتَ كَذَا وَكَذَا فِي يَوْمِ كَذَا وَكَذَا ‏.‏ قَالَ فَيُقَالُ لَهُ فَإِنَّ لَكَ مَكَانَ كُلِّ سَيِّئَةٍ حَسَنَةً ‏.‏ قَالَ فَيَقُولُ يَا رَبِّ لَقَدْ عَمِلْتُ أَشْيَاءَ مَا أَرَاهَا هَا هُنَا ‏\"‏ ‏.‏ قَالَ فَلَقَدْ رَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَضْحَكُ حَتَّى بَدَتْ نَوَاجِذُهُ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏",
+        "translations": {
+          "en": "Abu Dharr narrated that the Messenger of Allah (s.a.w) said:\" I know the last of the people of the Fire to depart from the Fire and the last of the people of Paradise to enter Paradise. A man will be brought forth and He (s.a.w) will say: 'Ask about his small sins and hide his large sins.' So it will be said to him: 'Did you do this and that on such and such a day, did you do this and that on such- and – such a day?'” He said: “Then it will be said to him; 'For each of your sins you shall have a reward.'” He (s.a.w) said: “So he will say: 'O Lord! I have done things that I do not see here.'” He (Abu Dharr) said: “I saw the Messenger of Allah (s.a.w) laugh until his molars were visible.” (Sahih)",
+          "ur": "ابوذر رضی الله عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”جہنم سے سب سے آخر میں نکلنے اور جنت میں سب سے آخر میں داخل ہونے والے آدمی کو میں جانتا ہوں، ایک آدمی کو لایا جائے گا اور اللہ تعالیٰ ( فرشتوں سے ) کہے گا: اس سے اس کے چھوٹے چھوٹے گناہوں کے بارے میں پوچھو اور اس کے بڑے گناہوں کو چھپا دو، اس سے کہا جائے گا: تم نے فلاں فلاں دن ایسے ایسے گناہ کئے تھے، تم نے فلاں فلاں دن ایسے ایسے گناہ کیے تھے؟“، آپ نے فرمایا: ”اس سے کہا جائے گا: تمہارے ہر گناہ کے بدلے ایک نیکی ہے“۔ آپ نے فرمایا: ”وہ عرض کرے گا: اے میرے رب! میں نے کچھ ایسے بھی گناہ کیے تھے جسے یہاں نہیں دیکھ رہا ہوں“۔ ابوذر رضی الله عنہ کہتے ہیں: میں نے رسول اللہ صلی اللہ علیہ وسلم کو ہنستے ہوئے دیکھا حتیٰ کہ آپ کے اندرونی دانت نظر آنے لگے۔ امام ترمذی کہتے ہیں: یہ حدیث حسن صحیح ہے۔",
+          "id": "Telah menceritakan kepada kami [Hannad] telah menceritakan kepada kami [Abu Mu'awiyah] dari [al A'masy] dari [al Ma'rur bin Suwaid] dari [Abu Dzarr] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: Sesungguhnya aku mengetahui penduduk neraka yang paling terakhir keluar dari neraka dan penduduk surga yang paling terakhir masuk surga. (Pada hari kiamat) seorang laki-laki didatangkan, lalu Dia berfirman; 'Tanyakanlah kepadanya tentang dosa-dosa kecilnya, dan sembunyikanlah dosa-dosa besarnya.' Maka ditanyakan kepadanya; '(Apakah) kamu mengetahui peristiwa demikian dan demikian pada hari demikian dan demikian, (Apakah) kamu mengetahui peristiwa demikian dan demikian pada hari demikian dan demikian? ' Lalu dikatakan kepadanya; 'Sesungguhnya kamu mendapatkan pahala tempat segala kejelekan diganti menjadi kebaikan.' Lelaki tersebut berkata; '(benar) wahai Rabbku, sungguh saya telah mengetahui berbagai hal yang telah saya lihat di sini.'\" Perawi berkata; 'Sungguh aku telah melihat Rasulullah shallallahu 'alaihi wasallam tertawa sehingga tampaklah gigi gerahamnya.\" Abu Isa berkata; 'Hadits ini adalah hadits hasan shahih",
+          "tr": "Ebû Zerr (r.a.)’den rivâyete göre, Rasûlullah (s.a.v.) şöyle buyurdu: “Cehennemlik olanlardan ateşten en son çıkacak ve Cennete en son girecek kimseyi iyi biliyorum. Bir adam getirilecek ve Allah, ona küçük günahlarını sorunuz büyük günahlarını gizli tutunuz buyuracaktır. Bunun üzerine kendisine falan günde şöyle filan günde böyle yaptın denilecek. Rasûlullah (s.a.v.) sözüne şöyle devam etti: Kendisine şöyle denilecek senin her günahının yerine sana bir sevap verilecektir. Rasûlullah (s.a.v.) şöyle dedi. Bunun üzerine O kimse Ya Rabbi! Bir takım günahlar işlemiştim fakat onları burada göremiyorum... Ebû Zerr dedi ki: Bunun üzerine Rasûlullah (s.a.v.)’i azı dişleri görünecek kadar güldüğünü gördüm.” Diğer tahric: Müslim, İman Tirmizî: Bu hadis hasen sahihtir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 39,
+        "hadith": 24
+      }
+    },
+    {
+      "hadithNumber": 2597,
+      "arabicNumber": 2597,
+      "book": 39,
+      "hadithInBook": 25,
+      "text": {
+        "arabic": "حَدَّثَنَا هَنَّادٌ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ، عَنْ أَبِي سُفْيَانَ، عَنْ جَابِرٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ يُعَذَّبُ نَاسٌ مِنْ أَهْلِ التَّوْحِيدِ فِي النَّارِ حَتَّى يَكُونُوا فِيهَا حُمَمًا ثُمَّ تُدْرِكُهُمُ الرَّحْمَةُ فَيُخْرَجُونَ وَيُطْرَحُونَ عَلَى أَبْوَابِ الْجَنَّةِ ‏.‏ قَالَ فَيَرُشُّ عَلَيْهِمْ أَهْلُ الْجَنَّةِ الْمَاءَ فَيَنْبُتُونَ كَمَا يَنْبُتُ الْغُثَاءُ فِي حِمَالَةِ السَّيْلِ ثُمَّ يَدْخُلُونَ الْجَنَّةَ ‏\"‏ ‏.‏ قَالَ هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ وَقَدْ رُوِيَ مِنْ غَيْرِ وَجْهٍ عَنْ جَابِرٍ ‏.‏",
+        "translations": {
+          "en": "Jabir narrated that the Messenger of Allah (s.a.w) said:\" Some of the people of Tawhid will be punished in the Fire until they are coals. Then the Mercy (of Allah) will reach them, they will be taken out and tossed at the doors of Paradise.\" He said: \" The people of Paradise will pour water over them, and they will sprout as the debris carried by the flood sprouts, then they will enter Paradise",
+          "ur": "جابر رضی الله عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”موحدین میں سے کچھ لوگ جہنم میں عذاب دئیے جائیں گے، یہاں تک کہ کوئلہ ہو جائیں گے، پھر ان پر رحمت الٰہی سایہ فگن ہو گی تو وہ نکالے جائیں گے اور جنت کے دروازے پر ڈال دئیے جائیں گے“۔ آپ نے فرمایا: ”جنتی ان پر پانی چھڑکیں گے تو وہ ویسے ہی اگیں گے جیسے سیلاب کی مٹیوں میں دانہ اگتا ہے، پھر وہ جنت میں داخل ہوں گے“۔ امام ترمذی کہتے ہیں: ۱- یہ حدیث حسن صحیح ہے، ۲- یہ دوسری سند سے بھی جابر سے مروی ہے۔",
+          "id": "Telah menceritakan kepada kami [Hannad] telah menceritakan kepada kami [Abu Mu'awiyah] dari [al A'masy] dari [Abu Sufyan] dari [Jabir] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Segolongan orang dari ahli tauhid diadzab di neraka sehingga mereka menjadi abu, kemudian mereka mendapatkan rahmat, lalu mereka dikeluarkan dan diletakkan di depan pintu surga.' Rasulullah berkata; 'Lalu penduduk surga menyiramkan air kepada mereka, maka mereka tumbuh kembali sebagaimana buih tumbuh dalam sesuatu yang dibawa aliran air, kemudian mereka masuk surga.\" Abu Isa berkata; 'Hadits ini hadits hasan shahih, ia telah diriwayatkan dari berbagai jalur dari Jabir",
+          "tr": "Câbir (r.a.)’den rivâyete göre, Rasûlullah (s.a.v.) şöyle buyurdu: “Tevhid inancına sahip fakat günahkar olanlar Cehennem’de azâb görecekler ve kömür gibi olacaklardır. Sonra kendilerine rahmet ulaşacak Cehennem’den çıkarılacak Cennetin kapıları önüne atılacaktır. Rasûlullah (s.a.v.) şöyle devam etti: Cennetlikler onlar üzerine su serpeceklerdir. Sel birikintisinde çalı çırpının bitmesi gibi onlar da yeniden hayata geçecekler ve Cennete gireceklerdir.” Diğer tahric: Müsned: 14665 Tirmizî: Bu hadis hasen sahihtir. Bu hadis değişik bir şekilde Câbir’den de rivâyet edilmiştir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 39,
+        "hadith": 25
+      }
+    },
+    {
+      "hadithNumber": 2598,
+      "arabicNumber": 2598,
+      "book": 39,
+      "hadithInBook": 26,
+      "text": {
+        "arabic": "حَدَّثَنَا سَلَمَةُ بْنُ شَبِيبٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنْ زَيْدِ بْنِ أَسْلَمَ، عَنْ عَطَاءِ بْنِ يَسَارٍ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏\"‏ يُخْرَجُ مِنَ النَّارِ مَنْ كَانَ فِي قَلْبِهِ مِثْقَالُ ذَرَّةٍ مِنَ الإِيمَانِ ‏\"‏ ‏.‏ قَالَ أَبُو سَعِيدٍ فَمَنْ شَكَّ فَلْيَقْرَأْ‏:‏ ‏(‏إِنَّ اللَّهَ لاَ يَظْلِمُ مِثْقَالَ ذَرَّةٍ ‏)‏ ‏.‏ قَالَ هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏",
+        "translations": {
+          "en": "Abu Sa'eed Al-Khudri narrated that the Messenger of Allah (s.a.w) said:\"Whoever had the weight of a speck of faith in his heart will depart from the Fire.\" Abu Sa'eed said: \"Whoever has doubt then let him recite: Indeed Allah does not deal unjustly with even the weight of a speck",
+          "ur": "ابو سعید خدری رضی الله عنہ کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: ”جہنم سے وہ آدمی نکلے گا جس کے دل میں ذرہ برابر ایمان ہو گا، ابو سعید خدری رضی الله عنہ نے کہا: جس کو شک ہو وہ یہ آیت پڑھے «إن الله لا يظلم مثقال ذرة» ”اللہ ذرہ برابر بھی ظلم نہیں کرتا ہے“ ( النساء: ۴۰ ) ۔ امام ترمذی کہتے ہیں: یہ حدیث حسن صحیح ہے۔",
+          "id": "Telah menceritakan kepada kami [Salamah bin Syabib] telah menceritakan kepada kami [Abdurrazzaq] telah mengabarkan kepada kami [Ma'mar] dari [Zaid bin Aslam] dari [Atha' bin Yasar] dari [Abu Sa'id al Khudzri] bahwa Nabi shallallahu 'alaihi wasallam bersabda: \"Akan keluar dari neraka, orang yang di dalam hatinya terdapat iman seberat gandum.\" Abu Sa'id berkata; \"Barangsiapa yang ragu-ragu maka hendaklah dia membaca, 'Sesungguhnya Allah tidak akan menzhalimi (walaupun kebaikan) seberat biji gandum.\" Abu Isa berkata; 'Hadits ini hadits hasan shahih",
+          "tr": "Ebu Saîd el Hudrî (r.a.)’den rivayete göre, Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: Kalbinde zerre kadar imanı olan kişi Cehennem’den çıkacaktır. Ebu Saîd şöyle dedi: Kim bunun doğruluğunda şüphe ederse şu ayeti okusun: “Allah, kimseye zerre kadar haksızlık etmez.” (Nisa: 40) Diğer tahric: Müsned: 10655 Tirmizî: Bu hadis hasen sahihtir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 39,
+        "hadith": 26
+      }
+    },
+    {
+      "hadithNumber": 2599,
+      "arabicNumber": 2599,
+      "book": 39,
+      "hadithInBook": 27,
+      "text": {
+        "arabic": "حَدَّثَنَا سُوَيْدُ بْنُ نَصْرٍ، أَخْبَرَنَا عَبْدُ اللَّهِ، أَخْبَرَنَا رِشْدِينُ بْنُ سَعْدٍ، حَدَّثَنِي ابْنُ أَنْعُمَ، عَنْ أَبِي عُثْمَانَ، أَنَّهُ حَدَّثَهُ عَنْ أَبِي هُرَيْرَةَ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ إِنَّ رَجُلَيْنِ مِمَّنْ دَخَلَ النَّارَ اشْتَدَّ صِيَاحُهُمَا فَقَالَ الرَّبُّ عَزَّ وَجَلَّ أَخْرِجُوهُمَا ‏.‏ فَلَمَّا أُخْرِجَا قَالَ لَهُمَا لأَىِّ شَيْءٍ اشْتَدَّ صِيَاحُكُمَا قَالاَ فَعَلْنَا ذَلِكَ لِتَرْحَمَنَا ‏.‏ قَالَ إِنَّ رَحْمَتِي لَكُمَا أَنْ تَنْطَلِقَا فَتُلْقِيَا أَنْفُسَكُمَا حَيْثُ كُنْتُمَا مِنَ النَّارِ ‏.‏ فَيَنْطَلِقَانِ فَيُلْقِي أَحَدُهُمَا نَفْسَهُ فَيَجْعَلُهَا عَلَيْهِ بَرْدًا وَسَلاَمًا وَيَقُومُ الآخَرُ فَلاَ يُلْقِي نَفْسَهُ فَيَقُولُ لَهُ الرَّبُّ عَزَّ وَجَلَّ مَا مَنَعَكَ أَنْ تُلْقِيَ نَفْسَكَ كَمَا أَلْقَى صَاحِبُكَ فَيَقُولُ يَا رَبِّ إِنِّي لأَرْجُو أَنْ لاَ تُعِيدَنِي فِيهَا بَعْدَ مَا أَخْرَجْتَنِي ‏.‏ فَيَقُولُ لَهُ الرَّبُّ لَكَ رَجَاؤُكَ ‏.‏ فَيَدْخُلاَنِ جَمِيعًا الْجَنَّةَ بِرَحْمَةِ اللَّهِ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى إِسْنَادُ هَذَا الْحَدِيثِ ضَعِيفٌ لأَنَّهُ عَنْ رِشْدِينَ بْنِ سَعْدٍ ‏.‏ وَرِشْدِينُ بْنُ سَعْدٍ هُوَ ضَعِيفٌ عِنْدَ أَهْلِ الْحَدِيثِ عَنِ ابْنِ أَنْعُمَ وَهُوَ الإِفْرِيقِيُّ وَالإِفْرِيقِيُّ ضَعِيفٌ عِنْدَ أَهْلِ الْحَدِيثِ ‏.‏",
+        "translations": {
+          "en": "Abu Hurairah narrated that the Messenger of Allah (s.a.w) said:\"Indeed two men among those who entered the Fire will be screaming violently. So the Lord, Blessed and Exalted, will say: 'Take them out.' Then when they are taken out He will say: 'What caused you to scream so violently?' They will say: 'We did that so You would have mercy on us.' He will say: 'My mercy for you is that you both go and throw yourselves where you were in the Fire.' So they will go. One of them will throw himself in, and He will make it cool and peaceful for him. And the other will stand there and not throw himself in, so the Lord, Mighty and Majestic, will say to him: 'What prevented you from throwing yourself in as your companion did?' He will say: 'O Lord! I hope that you will not return me to it aftrr You have taken me out.' So the Lord, Blessed and Exalted, will say to him: 'For you is what you hoped for,' and so they will both enter Paradise together by the mercy of Allah",
+          "ur": "ابوہریرہ رضی الله عنہ سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”جہنم میں داخل ہونے والوں میں سے دو آدمیوں کی چیخ بلند ہو گی“۔ رب عزوجل کہے گا: ان دونوں کو نکالو، جب انہیں نکالا جائے گا تو اللہ تعالیٰ ان سے پوچھے گا: تمہاری چیخ کیوں بلند ہو رہی ہے؟ وہ دونوں عرض کریں گے: ہم نے ایسا اس وجہ سے کیا تاکہ تو ہم پر رحم کر۔ اللہ تعالیٰ فرمائے گا: تم دونوں کے لیے ہماری رحمت یہی ہے کہ تم جاؤ اور اپنے آپ کو اسی جگہ جہنم میں ڈال دو جہاں پہلے تھے۔ وہ دونوں چلیں گے ان میں سے ایک اپنے آپ کو جہنم میں ڈال دے گا تو اللہ تعالیٰ اس کے لیے جہنم کو ٹھنڈا اور سلامتی والی بنا دے گا اور دوسرا کھڑا رہے گا اور اپنے آپ کو نہیں ڈالے گا۔ اس سے رب عزوجل پوچھے گا: تمہیں جہنم میں اپنے آپ کو ڈالنے سے کس چیز نے روکا؟ جیسے تمہارے ساتھی نے اپنے آپ کو ڈالا؟ وہ عرض کرے گا: اے میرے رب! مجھے امید ہے کہ تو جہنم سے نکالنے کے بعد اس میں دوبارہ نہیں داخل کرے گا، اس سے رب تعالیٰ کہے گا: تمہارے لیے تیری تمنا پوری کی جا رہی ہے، پھر وہ دونوں اللہ کی رحمت سے جنت میں داخل ہوں گے“۔ امام ترمذی کہتے ہیں: اس حدیث کی سند ضعیف ہے، اس لیے کہ یہ رشدین بن سعد کے واسطہ سے مروی ہے، اور رشدین بن سعد محدثین کے نزدیک ضعیف ہیں، اور رشدین عبدالرحمٰن بن انعم سے روایت کرتے ہیں، یہ ابن انعم افریقی ہیں اور افریقی بھی محدثین کے نزدیک ضعیف ہیں۔",
+          "id": "Telah menceritakan kepada kami [Suwaid bin Nashr] telah mengabarkan kepada kami [Abdullah] telah mengabarkan kepada kami [Risydin] telah menceritakan kepadaku [Ibnu An'um] dari [Abu Utsman] bahwa dia menceritakan kepadanya dari [Abu Hurairah] dari Rasulullah shallallahu 'alaihi wasallam; \"Sesunguhnya ada dua orang yang masuk ke dalam neraka, keduanya menjerit dengan suara keras, maka Rabb 'azza wajalla memerintahkan (kepada Malaikat Zabaniyah): 'Keluarkanlah keduanya! ' Setelah keduanya dikeluarkan, maka Allah bertanya kepada keduanya: 'Untuk apa kalian berdua menjerit dengan suara keras? ' Keduanya menjawab; 'Kami melakukan demikian agar supaya Engkau mengasihani kami, ' kemudian Allah berfirman, 'Sesungguhnya rahmat-Ku untuk kalian berdua, hendaklah kalian berdua pergi lalu menceburkan diri kalian di tempat kalian dahulu berada dalam neraka, ' maka keduanya pergi, dan salah seorang dari keduanya menceburkan dirinya ke dalam neraka, namun Allah menjadikannya dingin dan selamat atasnya, sedangkan yang lain tetap berdiri dan tidak menceburkan dirinya, kemudian Allah 'azza wajalla bertanya kepadanya; 'Apa yang menghalangimu untuk menceburkan dirimu sebagaimana temanmu telah menceburkan dirinya? ' dia menjawab; 'Wahai Rabbku sesungguhnya aku sangat mengharap agar supaya Engkau tidak mengembalikanku ke dalamnya (neraka) setelah Engkau keluarkan aku darinya.' Maka Allah berfirman: 'Kamu mendapatkan apa yang kamu harapkan.' Kemudian keduanya masuk Surga dengan rahmat Allah\". Abu Isa berkata; 'Isnad hadits ini lemah, karena ia berasal dari Risydin bin Sa'ad. Sedangkan Risydin bin Sa'ad adalah seorang yang dhaif (lemah) menurut ahli hadits dari Ibnu An'um, karena dia seorang warga Afrika, sedangkan orang Afrika adalah dhaif menurut ahli hadits",
+          "tr": "Ebû Hureyre (r.a.)’den rivâyete göre, Rasûlullah (s.a.v.) şöyle buyurdu: “Cehenneme girenlerin iki kişinin çığlıkları şiddetli olacak ve Allah onları çıkarın buyuracaktır. Çıkarıldıklarında neden çığlıklarınız şiddetli oldu diye soracaktır. O ikisi de bize acıyasın diye böyle yaptık diyecekler. Allah’ta: Benim size rahmetim kendinizi Cehennem’deki olduğunuz yere atmanızdır buyuracak. Bunun üzerine gidecekler onlardan biri kendini atacak fakat cenabı hak ateşi ona soğuk ve selamet kılacaktır. Öbürü ise dikilecek ve kendisini atmayacaktır. Bunun üzerine Allah ona: Arkadaşının attığı gibi senin de kendini ateşe atmana engel olan nedir? Buyuracak o kimse de: Ya rabbi diyecek beni çıkardıktan sonra tekrar oraya atmamanı senden bekliyorum. Bunun üzerine Allah: Sende umduğuna erişeceksin diyecek ve her ikisi de Allah’ın Rahmetiyle Cennete girecektir.” Tirmizî rivâyet etmiştir. Tirmizî: Bu hadisin senedi zayıftır, çünkü Rişdîn b. Sa’d’tan rivâyet edilmektedir. Rişdîn b. Sa’d’ın İbn Nu’m’dan rivâyeti hadisçiler yanında zayıftır. İbn Nu’m el Ifrikî’dir. İfrîkî’de hadisçiler yanında zayıftır"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Daif"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 39,
+        "hadith": 27
+      }
+    },
+    {
+      "hadithNumber": 2600,
+      "arabicNumber": 2600,
+      "book": 39,
+      "hadithInBook": 28,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، حَدَّثَنَا الْحَسَنُ بْنُ ذَكْوَانَ، عَنْ أَبِي رَجَاءٍ الْعُطَارِدِيِّ، عَنْ عِمْرَانَ بْنِ حُصَيْنٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ لَيَخْرُجَنَّ قَوْمٌ مِنْ أُمَّتِي مِنَ النَّارِ بِشَفَاعَتِي يُسَمَّوْنَ الْجَهَنَّمِيُّونَ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏ وَأَبُو رَجَاءٍ الْعُطَارِدِيُّ اسْمُهُ عِمْرَانُ بْنُ تَيْمٍ وَيُقَالُ ابْنُ مِلْحَانَ ‏.‏",
+        "translations": {
+          "en": "Imran bin Husain narrated that the Prophet (s.a.w) said:'A group from my Ummah will depart from the Fire through my intercession, and they will be called the Jahannamiyyun",
+          "ur": "عمران بن حصین رضی الله عنہ سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: ”میری امت کی ایک جماعت میری شفاعت کے سبب جہنم سے نکلے گی ان کا نام جہنمی رکھا جائے گا“۔ امام ترمذی کہتے ہیں: یہ حدیث حسن صحیح ہے۔",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Basyar] telah menceritakan kepada kami [Yahya bin Sa'id] telah menceritakan kepada kami [Al Hasan bin Dzakwan] dari [Abu Raja' Al 'Utharidi] dari [Imran bin Hushain] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: \"Suatu kaum dari Ummatku pasti akan keluar dari neraka dengan Syafa'atku, mereka dinamakan al Jahannamiyyun (orang-orang neraka jahannam) \". Abu Isa berkata; 'Hadits ini hasan shahih, adapun Abu Raja' al 'Utharidi namanya adalah Imran bin Taim, dan dinamakan juga Ibnu Milhan",
+          "tr": "İmrân b. Husayn (r.a.)’den rivâyete göre, Rasûlullah (s.a.v.) şöyle buyurdu: “Ümmetimden bir gurup benim şefaatimle Cehennem’den çıkarılacaklardır. Kendilerine Cehennemlikler adı verilecektir.” Diğer tahric: Buhârî, Rıkak; İbn Mâce, Zühd Tirmizî: Bu hadis hasen sahihtir. Ebû Reca el Utaridî’nin ismi Imrân b. Teym’dir. İbn Milhan adı da verilir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 39,
+        "hadith": 28
+      }
+    },
+    {
+      "hadithNumber": 2601,
+      "arabicNumber": 2601,
+      "book": 39,
+      "hadithInBook": 29,
+      "text": {
+        "arabic": "حَدَّثَنَا سُوَيْدُ بْنُ نَصْرٍ، أَخْبَرَنَا عَبْدُ اللَّهِ بْنُ الْمُبَارَكِ، عَنْ يَحْيَى بْنِ عُبَيْدِ اللَّهِ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ مَا رَأَيْتُ مِثْلَ النَّارِ نَامَ هَارِبُهَا وَلاَ مِثْلَ الْجَنَّةِ نَامَ طَالِبُهَا ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ إِنَّمَا نَعْرِفُهُ مِنْ حَدِيثِ يَحْيَى بْنِ عُبَيْدِ اللَّهِ ‏.‏ وَيَحْيَى بْنُ عُبَيْدِ اللَّهِ ضَعِيفٌ عِنْدَ أَهْلِ الْحَدِيثِ تَكَلَّمَ فِيهِ شُعْبَةُ وَيَحْيَى بْنُ عُبَيْدِ اللَّهِ هُوَ ابْنُ مَوْهَبٍ وَهُوَ مَدَنِيٌّ ‏.‏",
+        "translations": {
+          "en": "Abu Hurairah narrated that the Messenger of Allah (s.a.w) said:\"I have not seen the likes of the Fire in which the one who runs from it sleeps, nor the likes of Paradise in which the one who seeks it sleeps",
+          "ur": "ابوہریرہ رضی الله عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”میں نے جہنم جیسی کوئی چیز نہیں دیکھی جس سے بھاگنے والے سو رہے ہیں اور جنت جیسی کوئی چیز نہیں دیکھی جس کے طلب کرنے والے سو رہے ہیں“۔ امام ترمذی کہتے ہیں: اس کو ہم صرف یحییٰ بن عبیداللہ کی سند سے جانتے ہیں اور یحییٰ بن عبیداللہ اکثر محدثین کے نزدیک ضعیف ہیں، ان کے بارے میں شعبہ نے کلام کیا ہے۔ یحییٰ بن عبیداللہ کے دادا کا نام موہب ہے اور وہ مدنی ہیں۔",
+          "id": "Telah menceritakan kepada kami [Suwaid] telah mengabarkan kepada kami [Abdullah] dari [Yahya bin Ubaidillah] dari [bapaknya] dari [Abu Hurairah] dia berkata Rasulullah shallallahu 'alaihi wasallam bersabda: \"Aku tidak melihat seperti (ketakutan yang berlebihan terhadap) api neraka (membuat) tidur orang yang ingin lari darinya. Dan aku tidak melihat seperti (kesungguhan menuju) surga membuat tidur orang yang mencari surga.\" Abu Isa berkata; 'Kami hanya mengetahui hadits ini dari hadits Yahya bin Ubaidillah, sedangkan Yahya bin Ubaidillah adalah lemah menurut kebanyakan ahli hadits di mana Syu'bah telah membicarakannya, dan Yahya bin Ubaidillah adalah Ibnu Mauhab, dan dia orang Madinah",
+          "tr": "Ebu Hureyre (r.a.)’den rivâyete göre, Rasulullah (Sallallahu aleyhi ve Sellem) şöyle buyurmuştur: “Cehennemden kaçıp, o'na karşı tedbir almayıp uyuyan; veya cennet'i isteyip cennetlik ameller yapmamak suretiyle uyuyan kimseler gibisini görmedim.” Tirmizî rivâyet etmiştir. Tirmizî: Bu hadisi sadece Yahya b. Ubeydullah’ın rivâyetiyle bilmekteyiz. Yahya b. Ubeydullah hadisçiler yanında zayıftır. Şu’be onun hakkında söz etmiştir. Yahya b. Ubeydullah’ın adı İbn Mevhib olup Medînelidir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 39,
+        "hadith": 29
+      }
+    },
+    {
+      "hadithNumber": 2602,
+      "arabicNumber": 2602,
+      "book": 39,
+      "hadithInBook": 30,
+      "text": {
+        "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ مَنِيعٍ، حَدَّثَنَا إِسْمَاعِيلُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا أَيُّوبُ، عَنْ أَبِي رَجَاءٍ الْعُطَارِدِيِّ، قَالَ سَمِعْتُ ابْنَ عَبَّاسٍ، يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ اطَّلَعْتُ فِي الْجَنَّةِ فَرَأَيْتُ أَكْثَرَ أَهْلِهَا الْفُقَرَاءَ وَاطَّلَعْتُ فِي النَّارِ فَرَأَيْتُ أَكْثَرَ أَهْلِهَا النِّسَاءَ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Ibn 'Abbas narrated that the Messenger Of Allah (s.a.w) said:\"I looked into Paradise and I saw that the most of its people were the poor; and I looked into the Fire and I saw that most of its people were women",
+          "ur": "عبداللہ بن عباس رضی الله عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”میں نے جنت میں جھانکا تو دیکھا کہ اکثر جنتی فقیر ہیں اور جہنم میں جھانکا تو دیکھا کہ اکثر جہنمی عورتیں ہیں“۔",
+          "id": "Telah menceritakan kepada kami [Ahmad bin Mani'] telah menceritakan kepada kami [Ismail bin Ibrahim] telah menceritakan kepada kami [Ayyub] dari [Abu Raja' al Utharidi], dia berkata, aku mendengar [Ibnu Abbas] berkata, Rasulullah shallallahu 'alaihi wasallam bersabda: \"Saya memperhatikan surga, maka saya melihat mayoritas penduduknya adalah kaum fakir, dan saya memeriksa neraka, maka saya melihat mayoritas penduduknya adalah kaum wanita",
+          "tr": "İbn Abbâs (r.a.)’den rivâyete göre, Rasûlullah (s.a.v.) şöyle buyurdu: “Cennete baktım Cennetin çoğunluğunun fakirler olduğunu gördüm Cehenneme baktım çoğunluğunun kadınlar olduğunu gördüm.” (Müslim, Zikir ve Dua)"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 39,
+        "hadith": 30
+      }
+    },
+    {
+      "hadithNumber": 2603,
+      "arabicNumber": 2603,
+      "book": 39,
+      "hadithInBook": 31,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ، وَمُحَمَّدُ بْنُ جَعْفَرٍ، وَعَبْدُ الْوَهَّابِ الثَّقَفِيُّ، قَالُوا حَدَّثَنَا عَوْفٌ، هُوَ ابْنُ أَبِي جَمِيلَةَ عَنْ أَبِي رَجَاءٍ الْعُطَارِدِيِّ، عَنْ عِمْرَانَ بْنِ حُصَيْنٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ اطَّلَعْتُ فِي النَّارِ فَرَأَيْتُ أَكْثَرَ أَهْلِهَا النِّسَاءَ وَاطَّلَعْتُ فِي الْجَنَّةِ فَرَأَيْتُ أَكْثَرَ أَهْلِهَا الْفُقَرَاءَ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏ وَهَكَذَا يَقُولُ عَوْفٌ عَنْ أَبِي رَجَاءٍ عَنْ عِمْرَانَ بْنِ حُصَيْنٍ وَيَقُولُ أَيُّوبُ عَنْ أَبِي رَجَاءٍ عَنِ ابْنِ عَبَّاسٍ وَكِلاَ الإِسْنَادَيْنِ لَيْسَ فِيهِمَا مَقَالٌ وَيُحْتَمَلُ أَنْ يَكُونَ أَبُو رَجَاءٍ سَمِعَ مِنْهُمَا جَمِيعًا وَقَدْ رَوَى غَيْرُ عَوْفٍ أَيْضًا هَذَا الْحَدِيثَ عَنْ أَبِي رَجَاءٍ عَنْ عِمْرَانَ بْنِ حُصَيْنٍ ‏.‏",
+        "translations": {
+          "en": "Imran bin Husain narrated that the Messenger Of Allah (s.a.w) said:\" I looked into the Fire and I saw that most of its people are women, and I looked into Paradise and I saw that most of its people were the poor.\" Other chains report similar narrations",
+          "ur": "عمران بن حصین رضی الله عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”میں نے جہنم میں جھانکا تو دیکھا کہ اکثر جہنمی عورتیں ہیں اور جنت میں جھانکا تو دیکھا کہ اکثر جنتی فقیر ہیں“۔ امام ترمذی کہتے ہیں: ۱- یہ حدیث حسن صحیح ہے، ۲- عوف نے سند بیان کرتے ہوئے اس طرح کہا ہے: «عن أبي رجاء عن عمران بن حصين» اور ایوب نے کہا: «عن أبي رجاء عن ابن عباس»،‏‏‏‏ دونوں سندوں میں کوئی کلام نہیں ہے۔ اس بات کا احتمال ہے کہ ابورجاء نے عمران بن حصین اور ابن عباس دونوں سے سنا ہو، عوف کے علاوہ دوسرے لوگوں نے بھی یہ حدیث ابورجاء کے واسطہ سے عمران بن حصین سے روایت کی ہے۔",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada kami [Ibnu Abi 'Adi] dan [Muhammad bin Ja'far] serta [Abdul Wahhab ats Tsaqafi] mereka berkata, telah menceritakan kepada kami [Auf], dan dia adalah Ibnu Abi Jamilah, dari [Abu Raja' al Utharidi] dari [Imran bin Hushain] dia berkata, Rasulullah shallallahu 'alaihi wasallam bersabda: \"Saya memperhatikan neraka, maka saya melihat mayoritas penduduknya adalah kaum wanita, dan saya memmperhatikan surga, maka saya melihat mayoritas penduduknya adalah kaum fakir.\" Abu Isa berkata; 'Ini hadits hasan shahih. Demikianlah Auf berkata dari Abu Raja' dari Imran bin Hushain. Dan [Ayyub] berkata dari [Abu Raja'] dari [Ibnu Abbas]. Dan kedua sanadnya tidak terdapat pembicaraan di dalamnya. Dan mengandung kemungkinan bahwa Abu Raja' mendengar hadits tersebut dari kedua jalur itu semua. Selain Auf juga telah meriwayatkan hadits ini dari Abu Raja' dari Imran bin Hushain",
+          "tr": "Imrân b. Husayn (radıyallahü anh)’den rivâyete göre, Rasûlüllah (sallallahü aleyhi ve sellem) şöyle buyurdu: “Cehenneme baktım içerisindekilerin çoğunluğunu kadınlar olarak gördüm. Cennete baktım Cennetin çoğunluğunu fakirler olarak gördüm.” (Müsned: 19008) Bu hadis hasen sahihtir. burada olduğu Ebû Reca’dan, Imrân b. Husayn’dan diyor. Eyyûb ise Ebû Reca’dan ve İbn Abbâs’tan demektedir. Her iki senede de diyecek yoktur. Ebû Reca’nın her ikisinden de (yani İbn Abbâs ve Imrân b. Husayn) dan da hadis işittiği muhtemeldir. Avf’tan başkası bu hadisi Ebû Reca vasıtasıyla Imrân b. Husayn’dan rivâyet etmiştir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 39,
+        "hadith": 31
+      }
+    },
+    {
+      "hadithNumber": 2604,
+      "arabicNumber": 2604,
+      "book": 39,
+      "hadithInBook": 32,
+      "text": {
+        "arabic": "حَدَّثَنَا مَحْمُودُ بْنُ غَيْلاَنَ، حَدَّثَنَا وَهْبُ بْنُ جَرِيرٍ، عَنْ شُعْبَةَ، عَنْ أَبِي إِسْحَاقَ، عَنِ النُّعْمَانِ بْنِ بَشِيرٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ إِنَّ أَهْوَنَ أَهْلِ النَّارِ عَذَابًا يَوْمَ الْقِيَامَةِ رَجُلٌ فِي إِخْمَصِ قَدَمَيْهِ جَمْرَتَانِ يَغْلِي مِنْهُمَا دِمَاغُهُ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏ وَفِي الْبَابِ عَنِ الْعَبَّاسِ بْنِ عَبْدِ الْمُطَّلِبِ وَأَبِي سَعِيدٍ الْخُدْرِيِّ وَأَبِي هُرَيْرَةَ ‏.‏",
+        "translations": {
+          "en": "An-Numan bin Bashir narrated that the Messenger Of Allah (s.a.w) said:\"Indeed the person among the inhabitants of the Fire punished least [on the Day of Judgment] is a man who has two coals beneath his feet, which cause his brain to boil.\" Other chains report similar narrations",
+          "ur": "نعمان بن بشیر رضی الله عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”قیامت کے دن سب سے ہلکا عذاب والا وہ جہنمی ہو گا جس کے تلوے میں دو انگارے ہوں گے جن سے اس کا دماغ کھول رہا ہو گا“ ۱؎۔ امام ترمذی کہتے ہیں: ۱- یہ حدیث حسن صحیح ہے، ۲- اس باب میں عباس بن عبدالمطلب، ابو سعید خدری اور ابوہریرہ رضی الله عنہم سے بھی احادیث آئی ہیں۔",
+          "id": "Telah menceritakan kepada kami [Mahmud bin Ghailan] telah menceritakan kepada kami [Wahab bin Jarir] dari [Syu'bah] dari [Abu Ishaq] dari [an Nu'man bin Basyir] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: \"Sesungguhnya penduduk neraka yang adzabnya paling ringan pada hari kiamat adalah seorang laki-laki di mana pada tumit kedua kakinya terdapat dua bara api yang membuat otoknya mendidih disebabkan keduanya.\"Abu Isa berkata; 'Ini hadits hasan shahih. Dan dalam bab tersebut (juga diriwayatkan) dari al Abbas bin Abdul Muththalib dan Abu Sa'id al Khudri, serta Abu Hurairah",
+          "tr": "Numân b. Beşîr (r.a.)’den rivâyete göre, Rasûlullah (s.a.v.) şöyle buyurmuştur: “Cehennemliklerin azabı en hafif olanı iki ayağının altında ateş közü bulunan ve bunlarla beyni kaynayan kişidir.” Diğer tahric: Buhârî, Rıkak; Müslim, İman Tirmizî: Bu hadis hasen sahihtir. Bu konuda Ebû Hureyre, Abbâs b. Abdulmuttalib ve Ebû Saîd ve Ebû Hureyre’den de hadis rivâyet edilmiştir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 39,
+        "hadith": 32
+      }
+    },
+    {
+      "hadithNumber": 2605,
+      "arabicNumber": 2605,
+      "book": 39,
+      "hadithInBook": 33,
+      "text": {
+        "arabic": "حَدَّثَنَا مَحْمُودُ بْنُ غَيْلاَنَ، حَدَّثَنَا أَبُو نُعَيْمٍ، حَدَّثَنَا سُفْيَانُ، عَنْ مَعْبَدِ بْنِ خَالِدٍ، قَالَ سَمِعْتُ حَارِثَةَ بْنَ وَهْبٍ الْخُزَاعِيَّ، يَقُولُ سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم يَقُولُ ‏ \"‏ أَلاَ أُخْبِرُكُمْ بِأَهْلِ الْجَنَّةِ كُلُّ ضَعِيفٍ مُتَضَعِّفٍ لَوْ أَقْسَمَ عَلَى اللَّهِ لأَبَرَّهُ أَلاَ أُخْبِرُكُمْ بِأَهْلِ النَّارِ كُلُّ عُتُلٍّ جَوَّاظٍ مُتَكَبِّرٍ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏",
+        "translations": {
+          "en": "Harithah bin Wahb Al-Khuzai narrated that the Messenger of Allah (s.a.w) said:\"Should I not inform you about the people of Paradise: They are every humble and weak person, who if he were to make an Oath by Allah, He would fulfill it. Should I not inform you about the people of the Fire: They are every prideful, swaggering, ill-speaking person",
+          "ur": "حارثہ بن وہب خزاعی رضی الله عنہ کہتے ہیں کہ میں نے نبی اکرم صلی اللہ علیہ وسلم کو فرماتے ہوئے سنا: ”کیا میں تمہیں جنتیوں کے بارے میں نہ بتا دوں؟ ہر کمزور حال آدمی جسے لوگ حقیر سمجھیں اگر وہ اللہ کی قسم کھائے تو اللہ اسے پوری کر دے۔ کیا میں تمہیں جہنمیوں کے بارے میں نہ بتا دوں؟ ہر سرکش، بخیل اور متکبر“، ( جہنم میں جائے گا۔ ) امام ترمذی کہتے ہیں: یہ حدیث حسن صحیح ہے۔",
+          "id": "Telah menceritakan kepada kami [Mahmud bin Ghailan] telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Sufyan] dari [Ma'bad bin Khalid] dia berkata, 'Saya mendengar [Haritsah bin Wahb al Khuza'i] berkata; Saya mendengar Nabi Shallallahu 'Alaihi Wasalam bersabda: \"Maukah kalian aku kabarkan tentang penduduk surga, yaitu setiap orang yang lemah lagi dilemahkan (diremehkan), kalau dia bersumpah (dengan nama Allah atas sesuatu) kepada Allah, niscaya Dia akan membaikinya (mengabulkannya). Maukah kalian aku beritahukan tentang penduduk neraka, yaitu setiap orang yang zhalim, keras lagi sombong.\" Abu Isa berkata; 'Ini hadits hasan shahih",
+          "tr": "Hârise b. Vehb el Huzaî (r.a.)’den rivâyete göre, Rasûlullah (s.a.v.) şöyle buyurdu: “Dikkat edin size Cennet ehlini haber vereceğim her güçsüz ve zayıf görülen insan ki Allah’a karşı yemin etse Allah, onun yeminini yerine getirir. Dikkat edin size Cehennemlikleri haber vereyim; her kaba, bencil ve büyüklük taslayan kişi.” Diğer tahric: Müslim, Cennet Tirmizî: Bu hadis hasen sahihtir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 39,
+        "hadith": 33
+      }
+    },
+    {
+      "hadithNumber": 2795,
+      "arabicNumber": 2795,
+      "book": 39,
+      "hadithInBook": 19,
+      "text": {
+        "arabic": "حَدَّثَنَا ابْنُ أَبِي عُمَرَ، حَدَّثَنَا سُفْيَانُ، عَنْ أَبِي النَّضْرِ، مَوْلَى عُمَرَ بْنِ عُبَيْدِ اللَّهِ عَنْ زُرْعَةَ بْنِ مُسْلِمِ بْنِ جَرْهَدٍ الأَسْلَمِيِّ، عَنْ جَدِّهِ، جَرْهَدٍ قَالَ مَرَّ النَّبِيُّ صلى الله عليه وسلم بِجَرْهَدٍ فِي الْمَسْجِدِ وَقَدِ انْكَشَفَ فَخِذُهُ فَقَالَ ‏ \"‏ إِنَّ الْفَخِذَ عَوْرَةٌ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ مَا أَرَى إِسْنَادَهُ بِمُتَّصِلٍ ‏.‏",
+        "translations": {
+          "en": "Narrated Zur'ah bin Muslim bin Jardah Al-Aslami:about his grandfather Jarhad, he said: \"The Prophet (ﷺ) passed by Jarhad in the Masjid and his thigh was exposed, so he said: 'Indeed the thigh is 'Awrah",
+          "ur": "جرہد رضی الله عنہ کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم مسجد میں جرہد کے پاس ( یعنی میرے پاس سے ) سے گزرے ( اس وقت ) ان کی ران کھلی ہوئی تھی تو آپ نے فرمایا: ”ران بھی ستر ( چھپانے کی چیز ) ہے“۔ امام ترمذی کہتے ہیں: ۱- یہ حدیث حسن ہے، ۲- میرے نزدیک اس کی سند متصل نہیں ہے۔",
+          "id": "Telah menceritakan kepada kami [Ibnu Abu Umar] telah menceritakan kepada kami [Sufyan] dari [Abu An Nadlrah] bekas budak Umar bin 'Ubaidullah, dari [Zur'ah bin Muslim bin Jarhad Al Aslami] dari kakeknya yaitu [Jarhad] ia berkata; Nabi shallallahu 'alaihi wasallam melintasi Jarhad di masjid, sedangkan pahanya tersingkap, maka beliau bersabda: \"Sesungguhnya paha itu aurat.\" Abu Isa berkata; Hadits ini hasan, menurutku sanadnya tidak bersambung",
+          "tr": "Cerhed (r.a.)’den rivâyet edildiğine göre, şöyle demiştir: “Nebi (s.a.v.), mescidde uyluğu açılmış vaziyette olan Cerhed’in yanından geçti ve uyluk avretten sayılır (ört) buyurdu.” Diğer tahric: Ebû Dâvûd, Hamam Tirmizî: Bu hadis hasendir. Bu hadisin senedinin muttasıl olduğunu zannetmiyorum"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 39,
+        "hadith": 19
+      },
+      "narrator": {
+        "en": "Zur'ah bin Muslim bin Jardah Al-Aslami"
+      }
+    }
+  ],
+  "metadata": {
+    "averageLength": "long",
+    "size": "34KB"
+  }
+}

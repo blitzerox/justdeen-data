@@ -1,0 +1,1695 @@
+{
+  "collection": "nasai",
+  "book": 3,
+  "name": {
+    "arabic": "كتاب The Book of Menstruation and Istihadah",
+    "transliteration": "kitab menstruation and istihadah",
+    "translation": "The Book of Menstruation and Istihadah"
+  },
+  "totalHadith": 49,
+  "hadithNumberRange": {
+    "first": 348,
+    "last": 395
+  },
+  "content": [
+    {
+      "hadithNumber": 348,
+      "arabicNumber": 348,
+      "book": 3,
+      "hadithInBook": 1,
+      "text": {
+        "arabic": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ أَنْبَأَنَا سُفْيَانُ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ الْقَاسِمِ بْنِ مُحَمَّدِ بْنِ أَبِي بَكْرٍ الصِّدِّيقِ، - رضى الله عنه - عَنْ أَبِيهِ، عَنْ عَائِشَةَ، قَالَتْ خَرَجْنَا مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم لاَ نُرَى إِلاَّ الْحَجَّ فَلَمَّا كُنَّا بِسَرِفَ حِضْتُ فَدَخَلَ عَلَىَّ رَسُولُ اللَّهِ صلى الله عليه وسلم وَأَنَا أَبْكِي فَقَالَ ‏\"‏ مَا لَكِ أَنَفِسْتِ ‏\"‏ ‏.‏ قُلْتُ نَعَمْ ‏.‏ قَالَ ‏\"‏ هَذَا أَمْرٌ كَتَبَهُ اللَّهُ عَزَّ وَجَلَّ عَلَى بَنَاتِ آدَمَ فَاقْضِي مَا يَقْضِي الْحَاجُّ غَيْرَ أَنْ لاَ تَطُوفِي بِالْبَيْتِ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated that 'Aishah said:\"We went out with the Messenger of Allah (ﷺ) with no intention other than Hajj. When he was in Sarif I began menstruating. The Messenger of Allah (ﷺ) entered upon me and I was weeping. He said: 'What is the matter with you? Has you Nifas begun?' I said: 'Yes.' He said: 'This is something that Allah the Mighty and Sublime has decreed for the daughters of Adam. Do what the pilgrims do but do not perform Tawaf around the House",
+          "ur": "ام المؤمنین عائشہ رضی اللہ عنہا کہتی ہیں کہ ہم لوگ رسول اللہ صلی اللہ علیہ وسلم کے ساتھ نکلے، ہمارا مقصد صرف حج کرنا تھا، جب ہم مقام سرف میں پہنچے تو میں حائضہ ہو گئی، تو رسول اللہ صلی اللہ علیہ وسلم میرے پاس آئے اور میں رو رہی تھی، تو آپ صلی اللہ علیہ وسلم نے پوچھا: کیا بات ہے؟ کیا تم حائضہ ہو گئی ہو؟ میں نے عرض کیا: جی ہاں؟ آپ صلی اللہ علیہ وسلم نے فرمایا: یہ ایک ایسا معاملہ ہے جسے اللہ تعالیٰ نے آدم زادیوں پر مقدر کر دیا ہے ۱؎، اب تم وہ سارے کام کرو، جو حاجی کرتا ہے، البتہ خانہ کعبہ کا طواف نہ کرنا ۔",
+          "fr": "Rapporté par 'Aishah : Nous sommes sorties avec le Messager d’Allah (ﷺ) sans autre intention que de faire le Hajj. Quand il était à Sarif, j’ai eu mes règles. Le Messager d’Allah (ﷺ) est venu me voir et j’étais en train de pleurer. Il a dit : \"Qu’as-tu ? Est-ce que tes règles ont commencé ?\" J’ai répondu : \"Oui.\" Il a dit : \"C’est quelque chose qu’Allah, le Puissant et le Sublime, a décrété pour les filles d’Adam. Fais comme les pèlerins, sauf que tu ne dois pas faire le Tawaf autour de la Maison",
+          "id": "Telah mengabarkan kepada kami [Ishaq bin Ibrahim] dia berkata; Telah memberitakan kepada kami [Sufyan] dari [Abdurrahman bin Al Qasim bin Muhammad bin Abu Bakar As-Shiddiq Radliyallahu'anhu] dari [Bapaknya] dari [Aisyah] Radliyallahu'anha dia berkata; \"Kami pergi bersama Rasulullah shallallahu 'alaihi wasallam dan kami tidak menaksir selain untuk haji. Setelah sampai di Sarif, aku haidl. Ketika Rasulullah shallallahu 'alaihi wasallam datang kepadaku, aku sedang menangis. Beliau lalu bersabda, 'Ada apa denganmu? Apakah kamu sedang haidl? ' Aku menjawab; Ya. Beliau bersabda: Ini adalah perkara yang telah Allah Azza wa Jalla tetapkan bagi kaum wanita, maka kerjakan apa yang dikerjakan oleh orang yang haji, kecuali thawaf di Ka'bah",
+          "tr": "Aişe (r.anha)’dan rivâyete göre, şöyle demiştir: Rasûlullah (s.a.v) ile birlikte hac için yola çıktık. Serif denilen yere geldiğimizde ben aybaşı oluverdim ve ağlıyordum, yanıma giren Rasûlullah (s.a.v): “Ne oldu sana yoksa nifas (hayız) mı oldun?” buyurdu. Ben de “Evet” diye cevap verince şöyle buyurdu: “Bu hayız olma işi Allah’ın Adem kızlarına yazdığı bir yazgısıdır. Kâbe’yi tavaf dışında haccın gereklerinin hepsini yerine getir.” (Buhârî, Hayz: 9; Ebû Davud, Menasik:)"
+        }
+      },
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "nasai",
+        "book": 3,
+        "hadith": 1
+      }
+    },
+    {
+      "hadithNumber": 349,
+      "arabicNumber": 349,
+      "book": 3,
+      "hadithInBook": 2,
+      "text": {
+        "arabic": "أَخْبَرَنَا عِمْرَانُ بْنُ يَزِيدَ، قَالَ حَدَّثَنَا إِسْمَاعِيلُ بْنُ عَبْدِ اللَّهِ، - وَهُوَ ابْنُ سَمَاعَةَ - قَالَ حَدَّثَنَا الأَوْزَاعِيُّ، قَالَ حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، قَالَ أَخْبَرَنِي هِشَامُ بْنُ عُرْوَةَ، عَنْ عُرْوَةَ، أَنَّ فَاطِمَةَ بِنْتَ قَيْسٍ، مِنْ بَنِي أَسَدِ قُرَيْشٍ أَنَّهَا أَتَتْ رَسُولَ اللَّهِ صلى الله عليه وسلم فَذَكَرَتْ أَنَّهَا تُسْتَحَاضُ فَزَعَمَتْ أَنَّهُ قَالَ لَهَا ‏ \"‏ إِنَّمَا ذَلِكِ عِرْقٌ فَإِذَا أَقْبَلَتِ الْحَيْضَةُ فَدَعِي الصَّلاَةَ وَإِذَا أَدْبَرَتْ فَاغْتَسِلِي وَاغْسِلِي عَنْكِ الدَّمَ ثُمَّ صَلِّي ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated from Fatimah bint Qais from Banu Asad Quraish that she came to the Prophet (ﷺ) and mentioned that she suffered from Istihadah. She said that he said to her:\"That is a vein, so when the time of menstruation comes, stop praying, and when it goes, take your bath and wash the blood from yourself then pray",
+          "ur": "عروۃ سے روایت ہے کہ فاطمہ بنت قیس رضی اللہ عنہا جو قریش کی شاخ قبیلہ بنو اسد کی ایک خاتون ہیں رسول اللہ صلی اللہ علیہ وسلم کے پاس آئیں، اور ذکر کیا کہ انہیں استحاضہ آتا ہے، تو آپ صلی اللہ علیہ وسلم نے ان سے فرمایا: یہ تو ایک رگ ہے، تو جب حیض آئے تو نماز ترک کر دو، اور جب وہ ختم ہو جائے تو تو غسل کر لو، اور اپنے ( بدن سے ) خون دھو لو پھر نماز پڑھو ۔",
+          "fr": "Rapporté par Fatimah bint Qais, de Banu Asad Quraish : Elle est venue voir le Prophète (ﷺ) et a expliqué qu’elle souffrait de saignements anormaux. Elle a dit qu’il lui a dit : \"C’est une veine, donc quand la période des règles arrive, arrête de prier, et quand elle se termine, prends un bain et lave le sang, puis prie",
+          "id": "Telah mengabarkan kepada kami ['Imran bin Yazid] dia berkata; Telah menceritakan kepada kami [Ismail bin Abdullah yaitu Ibnu Sama'ah] dia berkata; Telah menceritakan kepada kami [Al Auza'i] dia berkata; Telah menceritakan kepada kami [Yahya bin Sa'id] dia berkata; Telah mengabarkan kepadaku [Hisyam bin Urwah] dari [Urwah] bahwa [Fatimah binti Qais] -dari Bani Asad Quraisy- pernah datang kepada Rasulullah shallallahu 'alaihi wasallam untuk menceritakan bahwa dirinya sedang mengalami istihadah. Seingatnya Rasulullah shallallahu 'alaihi wasallam bersabda kepadanya, \"Itu darah penyakit. Bila datang haidl maka tinggalkan shalat, dan bila telah selesai mandilah dan cucilah darah yang masih ada kemudian kerjakanlah shalat",
+          "tr": "Urve (r.a)’den rivâyete göre, Kureyş kabilesinin Esed kolundan olan Fatıma binti Kays, Rasûlullah (s.a.v)’e gelerek: “Benden kan geliyor halbuki günüm değil” dedi. Bunun üzerine Rasûlullah (s.a.v): “O gördüğün damardan gelen bir kandır, sen normal hayız kanını gördüğünde namaz kılmayı bırak, kan kesilince guslet, üzerine bulaşan kan lekelerini temizle ve namazını kılmaya başla” buyurdular. (Buhârî, Hayz: 9; İbn Mâce, Tahara:)"
+        }
+      },
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "nasai",
+        "book": 3,
+        "hadith": 2
+      }
+    },
+    {
+      "hadithNumber": 350,
+      "arabicNumber": 350,
+      "book": 3,
+      "hadithInBook": 3,
+      "text": {
+        "arabic": "أَخْبَرَنَا هِشَامُ بْنُ عَمَّارٍ، قَالَ حَدَّثَنَا سَهْلُ بْنُ هَاشِمٍ، قَالَ حَدَّثَنَا الأَوْزَاعِيُّ، عَنِ الزُّهْرِيِّ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏ \"‏ إِذَا أَقْبَلَتِ الْحِيضَةُ فَدَعِي الصَّلاَةَ وَإِذَا أَدْبَرَتْ فَاغْتَسِلِي ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated from 'Aishah that the Prophet (ﷺ) said:\"When the time of menstruation comes, stop praying, and when it goes, perform Ghusl",
+          "ur": "ام المؤمنین عائشہ رضی اللہ عنہا سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: جب حیض آئے تو نماز چھوڑ دو اور جب بند ہو جائے تو غسل کر لو ( اور نماز پڑھو ) ۔",
+          "fr": "Rapporté par 'Aishah : Le Prophète (ﷺ) a dit : \"Quand la période des règles arrive, arrête de prier, et quand elle se termine, fais le Ghusl",
+          "id": "Telah mengabarkan kepada kami [Hisyam bin 'Ammar] dia berkata; Telah menceritakan kepada kami [Sahal bin Hasyim] dia berkata; Telah menceritakan kepada kami [Al Auza'i] dari [Az-Zuhri] dari [Urwah] dari [Aisyah] Radliyallahu'anha, bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: \"Bila datang haidl, tinggalkan shalat, dan bila selesai, mandilah",
+          "tr": "Aişe (r.anha)’dan rivâyete göre, Rasûlullah (s.a.v) şöyle buyurdu: “Hayız görmeye başladığınız zaman namazı bırakın bitince gusledin.” (Buhârî, Hayz: 9; İbn Mâce, Tahara:)"
+        }
+      },
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "nasai",
+        "book": 3,
+        "hadith": 3
+      }
+    },
+    {
+      "hadithNumber": 351,
+      "arabicNumber": 351,
+      "book": 3,
+      "hadithInBook": 4,
+      "text": {
+        "arabic": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا اللَّيْثُ، عَنِ ابْنِ شِهَابٍ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، قَالَتِ اسْتَفْتَتْ أُمُّ حَبِيبَةَ بِنْتُ جَحْشٍ رَسُولَ اللَّهِ صلى الله عليه وسلم فَقَالَتْ يَا رَسُولَ اللَّهِ إِنِّي أُسْتَحَاضُ فَقَالَ ‏ \"‏ إِنَّ ذَلِكِ عِرْقٌ فَاغْتَسِلِي ثُمَّ صَلِّي ‏\"‏ ‏.‏ فَكَانَتْ تَغْتَسِلُ عِنْدَ كُلِّ صَلاَةٍ ‏.‏",
+        "translations": {
+          "en": "It was narrated that 'Aishah said:\"Umm Habibah bint Jahsh asked the Messenger of Allah (ﷺ): 'O Messenger of Allah, I suffer from Istihadah.' He said: 'That is a vein, so perform Ghusl, then pray.' And she used to perform Ghusl for each prayer",
+          "ur": "ام المؤمنین عائشہ رضی اللہ عنہا کہتی ہیں کہ ام حبیبہ بنت جحش رضی اللہ عنہا نے رسول اللہ صلی اللہ علیہ وسلم سے مسئلہ پوچھا، کہنے لگیں: اللہ کے رسول! مجھے استحاضہ کا خون آتا ہے، آپ صلی اللہ علیہ وسلم نے فرمایا: یہ ایک رگ ہے، تو تم غسل کر لو پھر نماز پڑھو ، چنانچہ وہ ہر نماز کے وقت غسل کرتی تھیں۔",
+          "fr": "Rapporté par 'Aishah : Umm Habibah bint Jahsh a demandé au Messager d’Allah (ﷺ) : \"Ô Messager d’Allah, j’ai des saignements anormaux.\" Il a répondu : \"C’est une veine, alors fais le Ghusl, puis prie.\" Et elle faisait le Ghusl pour chaque prière",
+          "id": "Telah mengabarkan kepada kami [Qutaibah] dia berkata; Telah menceritakan kepada kami [Al-Laits] dari [Ibnu Syihab] dari ['Urwah] dari [Aisyah] Radliyallahu'anha, bahwa Ummu Habibah binti Jahsy meminta fatwa kepada Rasulullah shallallahu 'alaihi wasallam, \"Wahai Rasulullah shallallahu 'alaihi wasallam! Aku mengalami istihadhah? ' Beliau shallallahu 'alaihi wasallam bersabda: \"Itu darah penyakit, maka mandilah kemudian kerjakanlah shalat.\" Lalu dia pun mandi di setiap akan shalat",
+          "tr": "Âişe (radıyallahü anha)’dan rivâyete göre, şöyle demiştir: Ümmü Habibe binti Cahş, Rasûlüllah (sallallahü aleyhi ve sellem)’den fetva isteyerek şöyle dedi: Allah’ın Rasûlü! Benden hayız günlerim dışında kan geliyor ne yapmalıyım?) Rasûlüllah (sallallahü aleyhi ve sellem) şöyle buyurdu: damardan gelen bir kandır guslet ve namazlarını kıl.) Bundan sonra Ümmü Habibe her namaz için yıkanırdı. (Buhârî, Hayz: 26; Tirmizî, Tahara:)"
+        }
+      },
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "nasai",
+        "book": 3,
+        "hadith": 4
+      }
+    },
+    {
+      "hadithNumber": 352,
+      "arabicNumber": 352,
+      "book": 3,
+      "hadithInBook": 5,
+      "text": {
+        "arabic": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا اللَّيْثُ، عَنْ يَزِيدَ بْنِ أَبِي حَبِيبٍ، عَنْ جَعْفَرِ بْنِ رَبِيعَةَ، عَنْ عِرَاكِ بْنِ مَالِكٍ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، قَالَتْ إِنَّ أُمَّ حَبِيبَةَ سَأَلَتْ رَسُولَ اللَّهِ صلى الله عليه وسلم عَنِ الدَّمِ - فَقَالَتْ عَائِشَةُ رَأَيْتُ مِرْكَنَهَا مَلآنَ دَمًا - فَقَالَ لَهَا رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ امْكُثِي قَدْرَ مَا كَانَتْ تَحْبِسُكِ حِيضَتُكِ ثُمَّ اغْتَسِلِي ‏\"‏ ‏.‏وَأَخْبَرَنَا بِهِ قُتَيْبَةُ مَرَّةً أُخْرَى وَلَمْ يَذْكُرْ فِيهِ جَعْفَرَ بْنَ رَبِيعَةَ",
+        "translations": {
+          "en": "It was narrated from 'Aishah that Umm Habibah asked the Messenger of Allah (ﷺ) about bleeding. 'Aishah said:\"I saw her wash tub filled with blood.\" The Messenger of Allah (ﷺ) said to her: \"Stop (praying) for as long as your period used to last, then perform Ghusl. And Qutayba told us about it again, and he did not mention Ja`far ibn Rabi`ah in it",
+          "ur": "ام المؤمنین عائشہ رضی اللہ عنہا کہتی ہیں کہ ام حبیبہ رضی اللہ عنہا نے رسول اللہ صلی اللہ علیہ وسلم سے خون کے متعلق دریافت کیا، ام المؤمنین عائشہ رضی اللہ عنہا کہتی ہیں کہ میں نے ان کے ٹب کو خون سے بھرا دیکھا، تو رسول اللہ صلی اللہ علیہ وسلم نے ان سے فرمایا: تم ( نماز روزے سے ) اتنے دن رکی رہو جس قدر تمہیں تمہارا حیض روکے رکھتا تھا، پھر غسل کر لو ۔ ( امام نسائی فرماتے ہیں ) ہمیں قتیبہ نے دوبارہ یہ حدیث بیان کی تو ( یزید بن ابی حبیب اور عراک بن مالک کے درمیان ) جعفر بن ربیعہ کا ذکر نہیں کیا۔",
+          "fr": "Rapporté par 'Aishah : Umm Habibah a interrogé le Messager d'Allah (ﷺ) au sujet de saignements. 'Aishah a dit : \"J'ai vu sa bassine de lavage remplie de sang.\" Le Messager d'Allah (ﷺ) lui a dit : \"Arrête de prier pendant la durée habituelle de tes règles, puis fais le Ghusl.\" Qutayba nous a rapporté cela à nouveau, sans mentionner Ja`far ibn Rabi`ah",
+          "id": "Telah mengabarkan kepada kami [Qutaibah] dia berkata; Telah menceritakan kepada kami [Al-Laits] dari [Yazid bin Abu Habib] dari [Ja'far bin Rabi'ah] dari ['Irak bin Malik] dari ['Urwah] dari [Aisyah] bahwa Ummu Habibah bertanya kepada Rasulullah shallallahu 'alaihi wasallam tentang darah? Aisyah Radliyallahu'anha lalu berkata, \"Aku melihat tempatnya mencuci pakaian penuh darah. Lantas Rasulullah shallallahu 'alaihi wasallam bersabda kepadanya: \"Tetapkanlah olehmu sesuai ukuran kebiasaan haidlmu, kemudian mandilah. Juga telah mengabarkan kepada kami Qutaibah dengan hadits yang serupa, tetapi tidak menyebutkan Ja'far bin Rabi'ah",
+          "tr": "Âişe (radıyallahü anha)’dan rivâyete göre, şöyle demiştir: Ümmü Habibe, Rasûlüllah (sallallahü aleyhi ve sellem)’e hayız kanıyla ilgili bir soru sormuştu. Âişe diyor ki: Ümmü Habibe’nin yıkandığı leğen kanla dolmuştu. Rasûlüllah (sallallahü aleyhi ve sellem) ona: müddetin ne kadarsa bekle sonra guslet) buyurdular. (İbn Mâce, Tahara: 116; Ebû Dâvûd, Tahara:)"
+        }
+      },
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "nasai",
+        "book": 3,
+        "hadith": 5
+      }
+    },
+    {
+      "hadithNumber": 353,
+      "arabicNumber": 353,
+      "book": 3,
+      "hadithInBook": 5,
+      "text": {
+        "arabic": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا اللَّيْثُ، عَنْ يَزِيدَ بْنِ أَبِي حَبِيبٍ، عَنْ جَعْفَرِ بْنِ رَبِيعَةَ، عَنْ عِرَاكِ بْنِ مَالِكٍ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، قَالَتْ إِنَّ أُمَّ حَبِيبَةَ سَأَلَتْ رَسُولَ اللَّهِ صلى الله عليه وسلم عَنِ الدَّمِ - فَقَالَتْ عَائِشَةُ رَأَيْتُ مِرْكَنَهَا مَلآنَ دَمًا - فَقَالَ لَهَا رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ امْكُثِي قَدْرَ مَا كَانَتْ تَحْبِسُكِ حِيضَتُكِ ثُمَّ اغْتَسِلِي ‏\"‏ ‏.‏وَأَخْبَرَنَا بِهِ قُتَيْبَةُ مَرَّةً أُخْرَى وَلَمْ يَذْكُرْ فِيهِ جَعْفَرَ بْنَ رَبِيعَةَ",
+        "translations": {
+          "en": "It was narrated from 'Aishah that Umm Habibah asked the Messenger of Allah (ﷺ) about bleeding. 'Aishah said:\"I saw her wash tub filled with blood.\" The Messenger of Allah (ﷺ) said to her: \"Stop (praying) for as long as your period used to last, then perform Ghusl. And Qutayba told us about it again, and he did not mention Ja`far ibn Rabi`ah in it",
+          "ur": "ام المؤمنین عائشہ رضی اللہ عنہا کہتی ہیں کہ ام حبیبہ رضی اللہ عنہا نے رسول اللہ صلی اللہ علیہ وسلم سے خون کے متعلق دریافت کیا، ام المؤمنین عائشہ رضی اللہ عنہا کہتی ہیں کہ میں نے ان کے ٹب کو خون سے بھرا دیکھا، تو رسول اللہ صلی اللہ علیہ وسلم نے ان سے فرمایا: تم ( نماز روزے سے ) اتنے دن رکی رہو جس قدر تمہیں تمہارا حیض روکے رکھتا تھا، پھر غسل کر لو ۔ ( امام نسائی فرماتے ہیں ) ہمیں قتیبہ نے دوبارہ یہ حدیث بیان کی تو ( یزید بن ابی حبیب اور عراک بن مالک کے درمیان ) جعفر بن ربیعہ کا ذکر نہیں کیا۔",
+          "fr": "Rapporté par 'Aishah : Umm Habibah a interrogé le Messager d'Allah (ﷺ) au sujet de saignements. 'Aishah a dit : \"J'ai vu sa bassine de lavage remplie de sang.\" Le Messager d'Allah (ﷺ) lui a dit : \"Arrête de prier pendant la durée habituelle de tes règles, puis fais le Ghusl.\" Qutayba nous a rapporté cela à nouveau, sans mentionner Ja`far ibn Rabi`ah",
+          "id": "Telah mengabarkan kepada kami [Qutaibah] dia berkata; Telah menceritakan kepada kami [Al-Laits] dari [Yazid bin Abu Habib] dari [Ja'far bin Rabi'ah] dari ['Irak bin Malik] dari ['Urwah] dari [Aisyah] bahwa Ummu Habibah bertanya kepada Rasulullah shallallahu 'alaihi wasallam tentang darah? Aisyah Radliyallahu'anha lalu berkata, \"Aku melihat tempatnya mencuci pakaian penuh darah. Lantas Rasulullah shallallahu 'alaihi wasallam bersabda kepadanya: \"Tetapkanlah olehmu sesuai ukuran kebiasaan haidlmu, kemudian mandilah. Juga telah mengabarkan kepada kami Qutaibah dengan hadits yang serupa, tetapi tidak menyebutkan Ja'far bin Rabi'ah",
+          "tr": "Âişe (radıyallahü anha)’dan rivâyete göre, şöyle demiştir: Ümmü Habibe, Rasûlüllah (sallallahü aleyhi ve sellem)’e hayız kanıyla ilgili bir soru sormuştu. Âişe diyor ki: Ümmü Habibe’nin yıkandığı leğen kanla dolmuştu. Rasûlüllah (sallallahü aleyhi ve sellem) ona: müddetin ne kadarsa bekle sonra guslet) buyurdular. (İbn Mâce, Tahara: 116; Ebû Dâvûd, Tahara:)"
+        }
+      },
+      "grades": [
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "nasai",
+        "book": 3,
+        "hadith": 5
+      }
+    },
+    {
+      "hadithNumber": 354,
+      "arabicNumber": 354,
+      "book": 3,
+      "hadithInBook": 6,
+      "text": {
+        "arabic": "أَنْبَأَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ الْمُبَارَكِ، قَالَ حَدَّثَنَا أَبُو أُسَامَةَ، قَالَ حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ عُمَرَ، قَالَ أَخْبَرَنِي عَنْ نَافِعٍ، عَنْ سُلَيْمَانَ بْنِ يَسَارٍ، عَنْ أُمِّ سَلَمَةَ، قَالَتْ سَأَلَتِ امْرَأَةٌ النَّبِيَّ صلى الله عليه وسلم قَالَتْ إِنِّي أُسْتَحَاضُ فَلاَ أَطْهُرُ أَفَأَدَعُ الصَّلاَةَ قَالَ ‏ \"‏ لاَ وَلَكِنْ دَعِي قَدْرَ تِلْكَ الأَيَّامِ وَاللَّيَالِي الَّتِي كُنْتِ تَحِيضِينَ فِيهَا ثُمَّ اغْتَسِلِي وَاسْتَثْفِرِي وَصَلِّي ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated that Umm Salamah said:\"A woman asked the Prophet (ﷺ): 'I suffer from Istihadah and I never become pure; should I stop praying?' He said: 'No. Stop praying for the number of days and nights that you used to menstruate, then perform Ghusl, wrap a cloth around yourself, and pray",
+          "ur": "ام المؤمنین ام سلمہ رضی اللہ عنہا کہتی ہیں کہ ایک عورت نے نبی اکرم صلی اللہ علیہ وسلم سے پوچھا: مجھے استحاضہ کا خون آتا ہے تو میں پاک نہیں رہ پاتی، کیا میں نماز چھوڑ دوں؟ آپ صلی اللہ علیہ وسلم نے فرمایا: نہیں، البتہ صرف ان دنوں اور راتوں کے بقدر چھوڑ دو جن میں تم حائضہ رہتی ہو، پھر غسل کر لو اور لنگوٹ کس کر نماز پڑھو ۔",
+          "fr": "Rapporté par Umm Salamah : Une femme a demandé au Prophète (ﷺ) : \"J'ai des saignements persistants et je ne deviens jamais pure ; dois-je arrêter de prier ?\" Il a dit : \"Non. Arrête de prier pendant le nombre de jours et de nuits où tu avais tes règles, puis fais le Ghusl, mets un tissu autour de toi, et prie",
+          "id": "Telah memberitakan kepada kami [Muhammad bin Abdullah bin Al Mubarak] dia berkata; Telah menceritakan kepada kami [Abu Usamah] berkata; Telah menceritakan kepada kami ['Ubaidullah bin Umar] berkata; Telah mengabarkan kepadaku dari [Nafi'] dari [Sulaiman bin Yasar] dari [Ummu Salamah] berkata; \"Ada seorang perempuan yang bertanya kepada Nabi shallallahu 'alaihi wasallam, 'Aku sedang istihadhah, maka aku tidak suci. Apakah aku harus meninggalkan shalat? ' beliau shallallahu 'alaihi wasallam bersabda: 'Tidak, tetapi tinggalkan shalat pada ukuran hari dan malam sesuai jadwal haidlmu, kemudian mandi dan balutlah dengan kain pada tempat keluarnya darah, lalu shalatlah",
+          "tr": "Ümmü Seleme (radıyallahü anha)’dan rivâyete göre, şöyle demiştir: kadın, Peygamber (sallallahü aleyhi ve sellem)’e: devamlı kan geliyor ve temizlenemiyorum, namazları bırakayım mı?) diye sormuştu da; Rasûlüllah (sallallahü aleyhi ve sellem) ona şöyle buyurmuştu: namazları bırakma fakat hayız gördüğün gün ve geceler miktarınca namazı bırak sonra guslet, kan gelecek yerleri sıkıca bağla ve namazlarını kıl.) (İbn Mâce, Tahara: 116; Müslim, Hayz:)"
+        }
+      },
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "nasai",
+        "book": 3,
+        "hadith": 6
+      }
+    },
+    {
+      "hadithNumber": 355,
+      "arabicNumber": 355,
+      "book": 3,
+      "hadithInBook": 7,
+      "text": {
+        "arabic": "أَخْبَرَنَا قُتَيْبَةُ، عَنْ مَالِكٍ، عَنْ نَافِعٍ، عَنْ سُلَيْمَانَ بْنِ يَسَارٍ، عَنْ أُمِّ سَلَمَةَ، أَنَّ امْرَأَةً، كَانَتْ تُهَرَاقُ الدَّمَ عَلَى عَهْدِ رَسُولِ اللَّهِ صلى الله عليه وسلم اسْتَفْتَتْ لَهَا أُمُّ سَلَمَةَ رَسُولَ اللَّهِ صلى الله عليه وسلم فَقَالَ ‏ \"‏ لِتَنْظُرْ عَدَدَ اللَّيَالِي وَالأَيَّامِ الَّتِي كَانَتْ تَحِيضُ مِنَ الشَّهْرِ قَبْلَ أَنْ يُصِيبَهَا الَّذِي أَصَابَهَا فَلْتَتْرُكِ الصَّلاَةَ قَدْرَ ذَلِكَ مِنَ الشَّهْرِ فَإِذَا خَلَّفَتْ ذَلِكَ فَلْتَغْتَسِلْ ثُمَّ لْتَسْتَثْفِرْ بِالثَّوْبِ ثُمَّ لْتُصَلِّي ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated from Umm Salamah that a woman suffered from constant bleeding during the time of the Messenger of Allah (ﷺ), so Umm Salamah consulted the Prophet (ﷺ) for her. He said:\"Let her count the number of nights and days that she used to menstruate each month before this happened to her, and let her stop praying for that period of time each month. Then when that is over let her perform Ghusl, then wrap a cloth around herself, and pray",
+          "ur": "ام المؤمنین ام سلمہ رضی اللہ عنہا سے روایت ہے کہ ایک عورت کو رسول اللہ صلی اللہ علیہ وسلم کے زمانے میں خون آتا تھا، تو انہوں نے اس کے لیے رسول اللہ صلی اللہ علیہ وسلم سے مسئلہ دریافت کیا: تو آپ صلی اللہ علیہ وسلم نے فرمایا: وہ ان راتوں اور دنوں کی تعداد شمار کر کے رکھے جن میں اسے اس بیماری سے پہلے جو اسے لاحق ہوئی ہے حیض آتا تھا، اور اسی کے بقدر ہر مہینہ نماز چھوڑ دے، پھر جب یہ دن گزر جائیں تو غسل کرے، پھر کپڑے کا لنگوٹ باندھ لے پھر نماز پڑھے ۔",
+          "fr": "Rapporté par Umm Salamah : Une femme avait des saignements constants à l'époque du Messager d'Allah (ﷺ), alors Umm Salamah a consulté le Prophète (ﷺ) pour elle. Il a dit : \"Qu'elle compte le nombre de jours et de nuits où elle avait ses règles chaque mois avant que cela ne lui arrive, et qu'elle arrête de prier pendant cette période chaque mois. Ensuite, quand c'est terminé, qu'elle fasse le Ghusl, mette un tissu autour d'elle, et prie",
+          "id": "Telah mengabarkan kepada kami [Qutaibah] dari [Malik] dari [Nafi'] dari [Sulaiman bin Yasar] dari [Ummu Salamah] bahwa ada seorang perempuan yang selalu mengeluarkan darah pada zaman Rasulullah shallallahu 'alaihi wasallam, dia meminta fatwa kepada Rasulullah shallallahu 'alaihi wasallam? beliau bersabda, \"Hendaklah kamu menghitung malam dan hari sesuai jadwal haidlmu setiap bulan, sebelum mengalami hal (seringnya darah keluar) tersebut dalam setiap bulannya. Bila waktu kebiasaan haidl telah selesai, maka mandi dan letakkan kain pada tempat haidl, lalu shalatlah"
+        }
+      },
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "nasai",
+        "book": 3,
+        "hadith": 7
+      }
+    },
+    {
+      "hadithNumber": 356,
+      "arabicNumber": 356,
+      "book": 3,
+      "hadithInBook": 8,
+      "text": {
+        "arabic": "أَخْبَرَنَا الرَّبِيعُ بْنُ سُلَيْمَانَ بْنِ دَاوُدَ بْنِ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا إِسْحَاقُ، - وَهُوَ ابْنُ بَكْرِ بْنِ مُضَرَ - قَالَ حَدَّثَنِي أَبِي، عَنْ يَزِيدَ بْنِ عَبْدِ اللَّهِ، - وَهُوَ ابْنُ أُسَامَةَ بْنِ الْهَادِ - عَنْ أَبِي بَكْرٍ، - وَهُوَ ابْنُ مُحَمَّدِ بْنِ عَمْرِو بْنِ حَزْمٍ - عَنْ عَمْرَةَ، عَنْ عَائِشَةَ، قَالَتْ إِنَّ أُمَّ حَبِيبَةَ بِنْتَ جَحْشٍ الَّتِي كَانَتْ تَحْتَ عَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ وَأَنَّهَا اسْتُحِيضَتْ لاَ تَطْهُرُ فَذُكِرَ شَأْنُهَا لِرَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ لَيْسَتْ بِالْحِيضَةِ وَلَكِنَّهَا رَكْضَةٌ مِنَ الرَّحِمِ لِتَنْظُرْ قَدْرَ قُرْئِهَا الَّتِي كَانَتْ تَحِيضُ لَهَا فَلْتَتْرُكِ الصَّلاَةَ ثُمَّ تَنْظُرْ مَا بَعْدَ ذَلِكَ فَلْتَغْتَسِلْ عِنْدَ كُلِّ صَلاَةٍ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated from 'Aishah that Umm Habibah bint Jahsh who was married to 'Abdur-Rahman bin 'Awf suffered from Istihadah and did not become pure. Her situation was mentioned to the Messenger of Allah (ﷺ) and he said:\"That is not menstruation, rather it is a kick in the womb, so let her work out the length of the menses that she used to have, and stop praying (for that period of time), then after that let her perform Ghusl for every for every prayer",
+          "ur": "ام المؤمنین عائشہ رضی اللہ عنہا کہتی ہیں کہ ام حبیبہ بنت جحش رضی اللہ عنہا جو عبدالرحمٰن بن عوف رضی اللہ عنہ کے عقد میں تھیں کو استحاضہ کا خون آتا تھا، وہ پاک نہیں رہ پاتی تھیں، تو رسول اللہ صلی اللہ علیہ وسلم سے ان کا معاملہ ذکر کیا گیا، تو آپ صلی اللہ علیہ وسلم نے فرمایا: یہ حیض نہیں ہے، بلکہ یہ رحم میں شیطان کی ایک ایڑ ہے، تو اسے چاہیئے کہ اپنے حیض کو دیکھ لے جس میں وہ حائضہ ہوتی تھی ( اور اسی کے بقدر ) نماز چھوڑ دے، پھر اس کے بعد جو دیکھے تو ہر نماز کے وقت غسل کرے ۔",
+          "fr": "Rapporté par 'Aishah : Umm Habibah bint Jahsh, qui était mariée à 'Abdur-Rahman bin 'Awf, avait des saignements persistants et ne devenait pas pure. On a parlé de sa situation au Messager d'Allah (ﷺ) et il a dit : \"Ce n'est pas la menstruation, c'est plutôt un coup dans l'utérus. Qu'elle calcule la durée habituelle de ses règles, qu'elle arrête de prier pendant ce temps, puis qu'elle fasse le Ghusl pour chaque prière",
+          "id": "Telah mengabarkan kepada kami [Ar-Rabi' bin Sulaiman bin Daud bin Ibrahim] dia berkata; Telah menceritakan kepada kami [Ishaq yaitu Ibnu Bakr bin Mudlar] dia berkata; Telah menceritakan kepadaku [Bapakku] dari [Yazid bin Abdullah yaitu Ibnu Usamah bin Al Had] dari [Abu Bakr yaitu Ibnu Muhammad bin 'Amr bin Hazm] dari ['Amrah] dari [Aisyah] dia berkata; Bahwa Ummu Habibah binti Jahsy -istri Abdurrahman bin Auf- mengalami istihadhah dan tidak suci, sehingga hal itu diadukan kepada Rasulullah shallallahu 'alaihi wasallam. Lalu beliau shallallahu 'alaihi wasallam bersabda kepadanya: \"Ini bukan haidl, tetapi hentakan rahim. Jadi hendaklah dia mandi dan mengerjakan shalat. Lalu hendaklah dia memperhatikan kebiasaan masa haidlnya, kemudian meninggalkan shalat dan melihat apa yang terjadi setelah itu, lalu hendaknya mandi setiap akan shalat",
+          "tr": "Âişe (radıyallahü anha)’dan rivâyete göre; Abdurrahman b. Avf’ın karısı Ümmü Habibe binti Cahş’tan özür kanı geliyordu ve hiç temizlenemiyordu. Bu durum, Rasûlüllah (sallallahü aleyhi ve sellem)’e arz edildi. O da şöyle buyurdu: kan hayız kanı değildir. Rahimden gelen birikmiş bir kandır. Normal zamanlardaki hayız günlerini saysın o kadar gün namazlarını terk etsin sonraki günlerde ise her namaz için gusletsin.) (Buhârî, Hayz: 27; Tirmizî, Tahara:)"
+        }
+      },
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "nasai",
+        "book": 3,
+        "hadith": 8
+      }
+    },
+    {
+      "hadithNumber": 357,
+      "arabicNumber": 357,
+      "book": 3,
+      "hadithInBook": 9,
+      "text": {
+        "arabic": "أَخْبَرَنَا أَبُو مُوسَى، قَالَ حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ، عَنْ عَمْرَةَ، عَنْ عَائِشَةَ، أَنَّ ابْنَةَ جَحْشٍ، كَانَتْ تُسْتَحَاضُ سَبْعَ سِنِينَ فَسَأَلَتِ النَّبِيَّ صلى الله عليه وسلم فَقَالَ ‏ \"‏ لَيْسَتْ بِالْحَيْضَةِ إِنَّمَا هُوَ عِرْقٌ ‏\"‏ ‏.‏ فَأَمَرَهَا أَنْ تَتْرُكَ الصَّلاَةَ قَدْرَ أَقْرَائِهَا وَحِيضَتِهَا وَتَغْتَسِلَ وَتُصَلِّيَ فَكَانَتْ تَغْتَسِلُ عِنْدَ كُلِّ صَلاَةٍ ‏.‏",
+        "translations": {
+          "en": "It was narrated from 'Aishah that Umm Habibah bint Jahsh used to suffer from Istihadah for seven years. She asked the Prophet (ﷺ) and he said:\"That is not menstruation, rather it is a vein. Tell her not to pray for the period of time that her period used to last, then let her perform Ghusl and pray.\" She used to perform Ghusl for every prayer",
+          "ur": "ام المؤمنین عائشہ رضی اللہ عنہا سے روایت ہے کہ جحش کی بیٹی ( ام حبیبہ ) کو سات سال تک استحاضہ کا خون آتا رہا، تو انہوں نے نبی اکرم صلی اللہ علیہ وسلم سے مسئلہ پوچھا: تو آپ صلی اللہ علیہ وسلم نے فرمایا: یہ حیض نہیں ہے، یہ تو ایک رگ ہے ، آپ صلی اللہ علیہ وسلم نے انہیں حکم دیا کہ اپنے حیض کے دنوں کے برابر نماز ترک کر دیں، اور غسل کریں اور نماز پڑھیں، تو وہ ہر نماز کے لیے غسل کرتی تھی ۔",
+          "fr": "Rapporté par 'Aishah : Umm Habibah bint Jahsh avait des saignements persistants pendant sept ans. Elle a interrogé le Prophète (ﷺ) et il a dit : \"Ce n'est pas la menstruation, c'est une veine. Dis-lui de ne pas prier pendant la durée habituelle de ses règles, puis qu'elle fasse le Ghusl et prie.\" Elle faisait le Ghusl pour chaque prière",
+          "id": "Telah mengabarkan kepada kami [Abu Musa] dia berkata; Telah menceritakan kepada kami [Sufyan] dari [Az-Zuhri] dari ['Amrah] dari [Aisyah] bahwa Ummu Habibah binti Jahsy pernah mengalami haidl selama tujuh tahun. Lalu ia bertanya kepada Rasulullah shallallahu 'alaihi wasallam tentang hal tersebut, dan beliau menjawab, \"Itu bukan haidl, tetapi darah penyakit. ' Kemudian beliau memerintahkannya meninggalkan shalat menurut jadwal haidlnya, lalu mandi serta tetap shalat, dan dia mandi setiap akan shalat",
+          "tr": "Âişe (radıyallahü anha)’dan rivâyete göre, Cahş’ın kızı yedi yıl boyunca kendisinden kan gelmişti. Rasûlüllah (sallallahü aleyhi ve sellem)’e durumu sordu da Peygamber (sallallahü aleyhi ve sellem): hayız kanı değildir damardan gelen bir kandır. Hayız süresi kadar günlerde namazı terk etmesini sonra gusletmesini ve her namaz için gusletmesini emretti.) (Buhârî, Hayz: 27; Tirmizî, Tahara:)"
+        }
+      },
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "nasai",
+        "book": 3,
+        "hadith": 9
+      }
+    },
+    {
+      "hadithNumber": 358,
+      "arabicNumber": 358,
+      "book": 3,
+      "hadithInBook": 10,
+      "text": {
+        "arabic": "أَخْبَرَنَا عِيسَى بْنُ حَمَّادٍ، قَالَ أَنْبَأَنَا اللَّيْثُ، عَنْ يَزِيدَ بْنِ أَبِي حَبِيبٍ، عَنْ بُكَيْرِ بْنِ عَبْدِ اللَّهِ، عَنِ الْمُنْذِرِ بْنِ الْمُغِيرَةِ، عَنْ عُرْوَةَ، أَنَّ فَاطِمَةَ بِنْتَ أَبِي حُبَيْشٍ، حَدَّثَتْهُ أَنَّهَا، أَتَتْ رَسُولَ اللَّهِ صلى الله عليه وسلم فَشَكَتْ إِلَيْهِ الدَّمَ فَقَالَ لَهَا رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ إِنَّمَا ذَلِكِ عِرْقٌ فَانْظُرِي إِذَا أَتَاكِ قَرْؤُكِ فَلاَ تُصَلِّي وَإِذَا مَرَّ قَرْؤُكِ فَلْتَطَهَّرِي ثُمَّ صَلِّي مَا بَيْنَ الْقُرْءِ إِلَى الْقُرْءِ ‏\"‏ ‏.‏ قَالَ أَبُو عَبْدِ الرَّحْمَنِ قَدْ رَوَى هَذَا الْحَدِيثَ هِشَامُ بْنُ عُرْوَةَ عَنْ عُرْوَةَ وَلَمْ يَذْكُرْ فِيهِ مَا ذَكَرَ الْمُنْذِرُ ‏.‏",
+        "translations": {
+          "en": "It was narrated from 'Urwah that Fatimah bint Abi Hubaish narrated that she came to the Messenger of Allah (ﷺ) and complained to him about bleeding. The Messenger of Allah (ﷺ) said to her:\"That is a vein, so when your period comes, do not pray, and when your period is over, purify yourself and pray in between one period and the next.\" Abu 'Abdur-Rahman said: Hisham bin 'Urwah reported this Hadith from 'Urwah, and he did not mention what Al-Mundhir mentioned in it",
+          "ur": "فاطمہ بنت ابی حبیش رضی اللہ عنہا نے بیان کیا کہ وہ رسول اللہ صلی اللہ علیہ وسلم کے پاس آئیں اور آپ سے استحاضہ کے خون کی شکایت کی، تو رسول اللہ صلی اللہ علیہ وسلم نے ان سے فرمایا: یہ تو بس ایک رگ ہے، تو تم دیکھتی رہو جب تمہارا حیض آئے تو نماز نہ پڑھو، اور جب تمہارا حیض گزر جائے تو پاکی حاصل کرو ( یعنی غسل کرو ) پھر اس حیض سے دوسرے حیض کے بیچ نماز پڑھو ۔",
+          "fr": "Rapporté par 'Urwah : Fatimah bint Abi Hubaish a raconté qu'elle est allée voir le Messager d'Allah (ﷺ) et s'est plainte de saignements. Le Messager d'Allah (ﷺ) lui a dit : \"C'est une veine, alors quand tes règles arrivent, ne prie pas, et quand elles sont terminées, purifie-toi et prie entre deux périodes.\" Abu 'Abdur-Rahman a dit : Hisham bin 'Urwah a rapporté ce hadith de 'Urwah, sans mentionner ce qu'Al-Mundhir a dit",
+          "id": "Telah mengabarkan kepada kami ['Isa bin Hammad] dia berkata; Telah memberitakan kepada kami [Al-Laits] dari [Yazid bin Abu Habib] dari [Bukair bin Abdullah] dari [Al Mundzir bin Al Mughirah] dari [Urwah] bahwa [Fatimah binti Abu Hubaisy] berkata kepadanya, dirinya pernah datang kepada Rasulullah shallallahu 'alaihi wasallam untuk mengadukan darahnya. Rasulullah shallallahu 'alaihi wasallam lalu bersabda kepadanya: \"Itu darah penyakit. Perhatikanlah jadwal haidlmu. Jika datang maka jangan shalat dan jika telah berlalu jadwal haidlnya maka bersucilah, kemudian shalatlah antara waktu haidl yang satu ke waktu haidl yang lain",
+          "tr": "Urve (radıyallahü anh)’den rivâyete göre, Fatıma binti ebi Hubeyş’in haber verdiğine göre, kendisi: Rasûlüllah (sallallahü aleyhi ve sellem)’e kendisinden devamlı kan geldiğinden şikayet etti. Rasûlüllah (sallallahü aleyhi ve sellem) de ona: damardan gelen bir kandır. Hayız süresi kadar bekle namaz kılma, temizlik süresi gelince gusül abdesti al sonra temizlik ve hayız süreleri arasında namazlarını kıl.) (Buhârî, Hayz: 27; Tirmizî, Tahara:)"
+        }
+      },
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "nasai",
+        "book": 3,
+        "hadith": 10
+      }
+    },
+    {
+      "hadithNumber": 359,
+      "arabicNumber": 359,
+      "book": 3,
+      "hadithInBook": 11,
+      "text": {
+        "arabic": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا عَبْدَةُ، وَوَكِيعٌ، وَأَبُو مُعَاوِيَةَ قَالُوا حَدَّثَنَا هِشَامُ بْنُ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، قَالَتْ جَاءَتْ فَاطِمَةُ بِنْتُ أَبِي حُبَيْشٍ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَتْ إِنِّي امْرَأَةٌ أُسْتَحَاضُ فَلاَ أَطْهُرُ أَفَأَدَعُ الصَّلاَةَ قَالَ ‏ \"‏ لاَ إِنَّمَا ذَلِكِ عِرْقٌ وَلَيْسَتْ بِالْحِيضَةِ فَإِذَا أَقْبَلَتِ الْحِيضَةُ فَدَعِي الصَّلاَةَ وَإِذَا أَدْبَرَتْ فَاغْسِلِي عَنْكِ الدَّمَ وَصَلِّي ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated that 'Aishah said:Fatimah bint Abi Hubaish came to the Messenger of Allah (ﷺ) and said: \"I am a woman who suffers from Istihadah and I never become pure. Should I stop praying?\" He said: \"No, that is a vein, it is not menstruation. When your period comes, stop praying, and when it goes, wash the blood from yourself and pray",
+          "ur": "ام المؤمنین عائشہ رضی اللہ عنہا کہتی ہیں کہ فاطمہ بنت ابی حبیش رضی اللہ عنہا رسول اللہ صلی اللہ علیہ وسلم کے پاس آئیں، اور عرض کیا کہ مجھے استحاضہ کا خون آتا ہے، میں پاک نہیں رہ پاتی ہوں، کیا نماز ترک کر دوں؟ آپ صلی اللہ علیہ وسلم نے فرمایا: نہیں، یہ تو ایک رگ ( کا خون ) ہے، حیض نہیں ہے، تو جب حیض آنے لگے تو نماز ترک کر دو اور جب ختم ہو جائے تو اپنے بدن سے خون دھو لو، اور ( غسل کر کے ) نماز پڑھو ۔",
+          "fr": "Rapporté par 'Aishah : Fatimah bint Abi Hubaish est venue voir le Messager d'Allah (ﷺ) et a dit : \"Je suis une femme qui a des saignements persistants et je ne deviens jamais pure. Dois-je arrêter de prier ?\" Il a dit : \"Non, c'est une veine, ce n'est pas la menstruation. Quand tes règles arrivent, arrête de prier, et quand elles partent, lave le sang de toi et prie",
+          "id": "Telah mengabarkan kepada kami [Ishaq bin Ibrahim] dia berkata; Telah menceritakan kepada kami ['Abdah], [Waki'] dan [Abu Mu'awiyah] mereka berkata; Telah menceritakan kepada kami [Hisyam bin Urwah] dari [Bapaknya] dari [Aisyah] dia berkata, \" Fatimah binti Hubaisy datang kepada Rasulullah shallallahu 'alaihi wasallam dan berkata, 'Aku sedang mengalami istihadhah dan aku tidak suci, jadi apakah aku harus meninggalkan shalat? ' Beliau bersabda: 'Tidak, itu darah penyakit, bukan haidl. Bila datang haidl maka tinggalkanlah shalat, dan jika sudah selesai haidl maka cucilah darah itu dan shalatlah",
+          "tr": "Âişe (radıyallahü anha)’dan rivâyete göre, şöyle demiştir: Fatıma binti ebi Hubeyş, Rasûlüllah (sallallahü aleyhi ve sellem)’e geldi ve şöyle dedi: kan gelen ve asla temizlenemeyen bir kadınım, bu durumda namazları terk edebilir miyim?) Rasûlüllah (sallallahü aleyhi ve sellem) ise:“O damardan gelen bir kandır hayız kanı değildir. Hayız günün başladığında namazını bırak hayız bitip kan kesilince namazlarını kıl.) (Buhârî, Hayz: 27; Tirmizî, Tahara:)"
+        }
+      },
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "nasai",
+        "book": 3,
+        "hadith": 11
+      }
+    },
+    {
+      "hadithNumber": 360,
+      "arabicNumber": 360,
+      "book": 3,
+      "hadithInBook": 12,
+      "text": {
+        "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ بَشَّارٍ، قَالَ حَدَّثَنَا مُحَمَّدٌ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ الْقَاسِمِ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، أَنَّ امْرَأَةً، مُسْتَحَاضَةً عَلَى عَهْدِ النَّبِيِّ صلى الله عليه وسلم قِيلَ لَهَا إِنَّهُ عِرْقٌ عَانِدٌ وَأُمِرَتْ أَنْ تُؤَخِّرَ الظُّهْرَ وَتُعَجِّلَ الْعَصْرَ وَتَغْتَسِلَ لَهُمَا غُسْلاً وَاحِدًا وَتُؤَخِّرَ الْمَغْرِبَ وَتُعَجِّلَ الْعِشَاءَ وَتَغْتَسِلَ لَهُمَا غُسْلاً وَاحِدًا وَتَغْتَسِلَ لِصَلاَةِ الصُّبْحِ غُسْلاً وَاحِدًا ‏.‏",
+        "translations": {
+          "en": "It was narrated from 'Aishah that a woman who suffered from Istihadah at the time of the Messenger of Allah (ﷺ) was told that it was a stubborn vein (i.e., one that would not stop bleeding). She was told to delay Zuhr and bring 'Asr forward, and to perform one Ghusl for both, and to delay Maghrib and bring 'Isha' forward, and to perform one Ghusl for both, and she would perform one Ghusl for Subh",
+          "ur": "ام المؤمنین عائشہ رضی اللہ عنہا سے روایت ہے کہ ایک مستحاضہ عورت سے نبی اکرم صلی اللہ علیہ وسلم کے زمانہ میں کہا گیا کہ یہ ایک نہ بند ہونے والی رگ ہے، اور اسے حکم دیا گیا کہ وہ ظہر کو مؤخر کرے اور عصر کو جلدی پڑھ لے، اور ان دونوں کے لیے ایک غسل کرے، اور مغرب کو مؤخر کرے، عشاء کو جلدی پڑھ لے، اور ان دونوں کے لیے ایک غسل کرے، اور صبح کی نماز کے لیے ایک غسل کرے۔",
+          "fr": "Rapporté par 'Aishah : Une femme qui avait des saignements persistants à l'époque du Messager d'Allah (ﷺ) a appris que c'était une veine tenace (c'est-à-dire qui ne s'arrêtait pas de saigner). On lui a dit de retarder la prière du Zuhr et d'avancer celle du 'Asr, et de faire un seul Ghusl pour les deux, puis de retarder Maghrib et d'avancer 'Isha', et de faire un seul Ghusl pour les deux, et elle faisait un Ghusl pour le Subh",
+          "id": "Telah mengabarkan kepada kami [Muhammad bin Basyar] dia berkata; Telah menceritakan kepada kami [Muhammad] dia berkata; Telah menceritakan kepada kami [Syu'bah] dari [Abdurrahman bin Al Qasim] dari [Bapaknya] dari [Aisyah] bahwa ada seorang perempuan yang sedang istihadhah pada jaman Rasulullah shallallahu 'alaihi wasallam, lalu dikatakan kepadanya bahwa itu adalah darah penyakit di luar kebiasaan. Lalu diperintahkan untuk mengakhirkan shalat Zhuhur dan memajukan shalat Ashar, dengan satu kali mandi untuk keduanya. Mengakhirkan maghrib dan memajukan Isya' dengan satu kali mandi untuk keduanya. Dan satu kali mandi untuk shalat subuh",
+          "tr": "Âişe (radıyallahü anha)’dan rivâyete göre, Rasûlüllah (sallallahü aleyhi ve sellem) zamanında devamlı kan gelen bir kadına; Peygamber (sallallahü aleyhi ve sellem) şöyle dedi: damardan devamlı akan bir kandır, böylece öğle namazını geciktirip ikindiyle birlikte bir gusül abdestiyle kılmasını, akşam namazını geciktirip yatsıyla beraber yine tek gusül abdestiyle kılmasını, sabah namazı için de tek gusül yaparak kılmasını emretti.) (Buhârî, Hayz: 27; Tirmizî, Tahara:)"
+        }
+      },
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "nasai",
+        "book": 3,
+        "hadith": 12
+      }
+    },
+    {
+      "hadithNumber": 361,
+      "arabicNumber": 361,
+      "book": 3,
+      "hadithInBook": 13,
+      "text": {
+        "arabic": "أَخْبَرَنَا سُوَيْدُ بْنُ نَصْرٍ، قَالَ حَدَّثَنَا عَبْدُ اللَّهِ، عَنْ سُفْيَانَ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ الْقَاسِمِ، عَنِ الْقَاسِمِ، عَنْ زَيْنَبَ بِنْتِ جَحْشٍ، قَالَتْ قُلْتُ لِلنَّبِيِّ صلى الله عليه وسلم إِنَّهَا مُسْتَحَاضَةٌ ‏.‏ فَقَالَ ‏ \"‏ تَجْلِسُ أَيَّامَ أَقْرَائِهَا ثُمَّ تَغْتَسِلُ وَتُؤَخِّرُ الظُّهْرَ وَتُعَجِّلُ الْعَصْرَ وَتَغْتَسِلُ وَتُصَلِّي وَتُؤَخِّرُ الْمَغْرِبَ وَتُعَجِّلُ الْعِشَاءَ وَتَغْتَسِلُ وَتُصَلِّيهِمَا جَمِيعًا وَتَغْتَسِلُ لِلْفَجْرِ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated that Zainab bint Jahsh said:\"I said to the Prophet (ﷺ) that I was suffering from Istihadah. He said: 'Do not pray during the days of your period, then perform Ghusl and delay Zuhr and bring Maghrib and bring 'Isha' forward and pray them together, and perform Ghusl for Fajr",
+          "ur": "زینب بنت جحش رضی اللہ عنہا کہتی ہیں کہ میں نے نبی اکرم صلی اللہ علیہ وسلم سے عرض کیا: میں مستحاضہ ہوں، آپ صلی اللہ علیہ وسلم نے فرمایا: اپنے حیض کے دنوں میں بیٹھ جاؤ ( نماز نہ پڑھو ) پھر غسل کرو، اور ظہر کو مؤخر کرو، اور عصر میں جلدی کرو، اور غسل کرو، اور نماز پڑھو، اور مغرب کو مؤخر کرو، اور عشاء کو جلدی کرو، اور غسل کر کے ( دونوں کو ایک ساتھ ) پڑھو، اور فجر کے لیے ( الگ ایک ) غسل کرو ۔",
+          "fr": "Rapporté par Zainab bint Jahsh : J'ai dit au Prophète (ﷺ) que j'avais des saignements persistants. Il a dit : \"Ne prie pas pendant les jours de tes règles, puis fais le Ghusl, retarde Zuhr et avance Maghrib et 'Isha', prie-les ensemble, et fais le Ghusl pour Fajr",
+          "id": "Telah mengabarkan kepada kami [Suwaid bin Nashr] dia berkata; Telah menceritakan kepada kami [Abdullah] dari [Sufyan] dari [Abdurrahman bin Al Qasim] dari [Al Qasim] dari [Zainab binti Jahsy], dia berkata; \"Aku berkata kepada Rasulullah Shallallahu'alihi wasallam bahwa aku sedang istihadhah, lalu beliau bersabda: \"Hendaknya kamu duduk (menunggu) pada hari-hari biasa haidl, kemudian mandi dan akhirkanlah shalat Zhuhur dan memajukan shalat Ashar. Mandi dan shalat, juga untuk mengakhirkan Maghrib dan memajukan shalat Isya, serta mandi satu kali untuk dua shalat, kemudian mandi sekali untuk shalat Subuh",
+          "tr": "Zeyneb binti cahş (radıyallahü anh) tan rivâyete göre, şöyle demiştir: Peygamber (sallallahü aleyhi ve sellem)’e: özür kanı geliyor ne yapmalıyım?) dedim şöyle buyurdular: günlerinde namazlarını terkedip oturursun sonra gusleder öğleyi geciktirip ikindiyle birlikte kılarsın. Sonra tekrar gusleder akşam namazını geciktirip yatsıyla beraber kılarsın. Sabah namazını ise tek bir gusülle kılarsın.) (Tirmizî, Tahara:)"
+        }
+      },
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "nasai",
+        "book": 3,
+        "hadith": 13
+      }
+    },
+    {
+      "hadithNumber": 362,
+      "arabicNumber": 362,
+      "book": 3,
+      "hadithInBook": 14,
+      "text": {
+        "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، قَالَ حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ، عَنْ مُحَمَّدِ بْنِ عَمْرٍو، - وَهُوَ ابْنُ عَلْقَمَةَ بْنِ وَقَّاصٍ - عَنِ ابْنِ شِهَابٍ، عَنْ عُرْوَةَ بْنِ الزُّبَيْرِ، عَنْ فَاطِمَةَ بِنْتِ أَبِي حُبَيْشٍ، أَنَّهَا كَانَتْ تُسْتَحَاضُ فَقَالَ لَهَا رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ إِذَا كَانَ دَمُ الْحَيْضِ - فَإِنَّهُ دَمٌ أَسْوَدُ يُعْرَفُ - فَأَمْسِكِي عَنِ الصَّلاَةِ وَإِذَا كَانَ الآخَرُ فَتَوَضَّئِي فَإِنَّمَا هُوَ عِرْقٌ ‏\"‏ ‏.‏ قَالَ مُحَمَّدُ بْنُ الْمُثَنَّى حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ هَذَا مِنْ كِتَابِهِ ‏.‏",
+        "translations": {
+          "en": "It was narrated from Fatimah bint Abi Hubaish that she suffered from Istihadah and the Messenger of Allah (ﷺ) said to her:\"If it is menstrual blood then it is blood that is black and recognizable, so stop prying, and if it is other than that then perform Wudu', for it is just a vein",
+          "ur": "فاطمہ بنت ابی حبیش رضی اللہ عنہا کہتی ہیں کہ انہیں استحاضہ آتا تھا تو رسول اللہ صلی اللہ علیہ وسلم نے ان سے فرمایا: جب حیض کا خون ہو تو وہ سیاہ خون ہوتا ہے پہچان لیا جاتا ہے، تو تم نماز سے رک جاؤ، اور جب دوسرا ہو تو وضو کرو، کیونکہ یہ رگ ( کا خون ) ہے ۔ محمد بن مثنی کا کہنا ہے کہ ہم سے یہ حدیث ابن ابی عدی نے اپنی کتاب سے بیان کی ہے۔",
+          "fr": "Rapporté par Fatimah bint Abi Hubaish : Elle avait des saignements persistants et le Messager d'Allah (ﷺ) lui a dit : \"Si c'est du sang menstruel, il est noir et reconnaissable, alors arrête de prier, et si ce n'est pas cela, fais le Wudu', car ce n'est qu'une veine",
+          "id": "Telah mengabarkan kepada kami [Muhammad bin Al Mutsanna] dia berkata; Telah menceritakan kepada kami [Ibnu Abu 'Adi] dari telah menceritakan kepada kami [Muhammad bin Amr yaitu Ibnu 'Alqamah bin Waqqash] dari [Ibnu Syihab] dari [Urwah bin Jubair] dari [Fathimah binti Abu Hubaisy], bahwa ia mengalami istihadhah, maka Rasulullah shallallahu 'alaihi wasallam bersabda kepadanya: \"Bila darah itu adalah darah haidl, maka darahnya hitam yang sudah dikenal, sehingga tinggalkanlah shalat. Jika selain itu maka berwudlulah, karena itu adalah darah penyakit.\" Muhammad bin Al Mutsanna berkata; Telah menceritakan kepada kami -tentang ini- Ibnu Abu Adi dari kitabnya"
+        }
+      },
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "nasai",
+        "book": 3,
+        "hadith": 14
+      }
+    },
+    {
+      "hadithNumber": 363,
+      "arabicNumber": 363,
+      "book": 3,
+      "hadithInBook": 15,
+      "text": {
+        "arabic": "وَأَخْبَرَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، قَالَ حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ، مِنْ حِفْظِهِ قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ عَمْرٍو، عَنِ ابْنِ شِهَابٍ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، أَنَّ فَاطِمَةَ بِنْتَ أَبِي حُبَيْشٍ، كَانَتْ تُسْتَحَاضُ فَقَالَ لَهَا رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ إِنَّ دَمَ الْحَيْضِ دَمٌ أَسْوَدُ يُعْرَفُ فَإِذَا كَانَ ذَلِكِ فَأَمْسِكِي عَنِ الصَّلاَةِ فَإِذَا كَانَ الآخَرُ فَتَوَضَّئِي وَصَلِّي ‏\"‏ ‏.‏ قَالَ أَبُو عَبْدِ الرَّحْمَنِ قَدْ رَوَى هَذَا الْحَدِيثَ غَيْرُ وَاحِدٍ وَلَمْ يَذْكُرْ أَحَدٌ مِنْهُمْ مَا ذَكَرَ ابْنُ أَبِي عَدِيٍّ وَاللَّهُ تَعَالَى أَعْلَمُ ‏.‏",
+        "translations": {
+          "en": "It was narrated from 'Aishah that Fatimah bint Abi Hubaish suffered from Istihadah. The Messenger of Allah (ﷺ) said to her:\"Menstrual blood is blood that is black and recognizable, so if it is like that, then stop praying, and if it is otherwise, then perform Wudu' and pray.\" Abu 'Abdur-Rahman said: Others reported this Hadith, and none of them mentioned what Ibn 'Adi mentioned, and Allah knows best",
+          "ur": "ام المؤمنین عائشہ رضی اللہ عنہا سے روایت ہے کہ فاطمہ بنت ابی حبیش رضی اللہ عنہا کو استحاضہ کا خون آتا تھا تو ان سے رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: حیض کا خون سیاہ ہوتا ہے پہچان لیا جاتا ہے، تو جب یہ ہو تو نماز سے رک جاؤ، اور جب دوسرا ہو تو وضو کر کے نماز پڑھو ۔ ابوعبدالرحمٰن نسائی کہتے ہیں: اس حدیث کو کئی لوگوں نے روایت کیا ہے، ان میں سے کسی نے بھی اس چیز کا ذکر نہیں کیا ہے جس کا ابن ابی عدی نے ذکر کیا ہے «واللہ تعالیٰ اعلم»۔",
+          "fr": "Rapporté par 'Aishah : Fatimah bint Abi Hubaish avait des saignements persistants. Le Messager d'Allah (ﷺ) lui a dit : \"Le sang menstruel est noir et reconnaissable, donc si c'est comme ça, arrête de prier, et si ce n'est pas le cas, fais le Wudu' et prie.\" Abu 'Abdur-Rahman a dit : D'autres ont rapporté ce hadith, et aucun n'a mentionné ce qu'Ibn 'Adi a dit, et Allah sait mieux",
+          "id": "Telah mengabarkan kepada kami [Muhammad bin Al Mutsanna] dia berkata; Telah menceritakan kepada kami [Ibnu Abu Adi] -dari hafalannya- dia berkata; Telah menceritakan kepada kami [Muhammad bin Amr] dari [Ibnu syihab] dari [Urwah] dari [Aisyah] bahwa Fatimah binti Hubaisy mengalami istihadhah, lalu Rasulullah shallallahu 'alaihi wasallam bersabda kepadanya, \"Bila darah itu adalah darah haidl, maka darahnya hitam yang sudah dikenal, sehingga tinggalkanlah shalat. Jika selain itu maka berwudlulah, dan kerjakanlah shalat.\" Abu Abdurrahman berkata; Tidak hanya satu orang yang meriwayatkan hadits ini, dan tidak seorangpun dari mereka yang menyebutkan sebagaimana yang disebutkan oleh Ibnu Adi Wallahu Ta'ala A'lam",
+          "tr": "Fatıma binti ebi Hubeyş (radıyallahü anha)’den özür kanı geliyordu. Rasûlüllah (sallallahü aleyhi ve sellem) ona: kanı bilindiği gibi siyahımsı bir kandır, o süre içinde namaz kılmayı bırak. O günler dışında gelen kan özür kanı olup o günlerde abdest alarak namaz kılabilirsin.) (İbn Mâce, Tahara: 115; Buhârî, Hayz:)"
+        }
+      },
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "nasai",
+        "book": 3,
+        "hadith": 15
+      }
+    },
+    {
+      "hadithNumber": 364,
+      "arabicNumber": 364,
+      "book": 3,
+      "hadithInBook": 16,
+      "text": {
+        "arabic": "أَخْبَرَنَا يَحْيَى بْنُ حَبِيبِ بْنِ عَرَبِيٍّ، عَنْ حَمَّادٍ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، قَالَتِ اسْتُحِيضَتْ فَاطِمَةُ بِنْتُ أَبِي حُبَيْشٍ فَسَأَلَتِ النَّبِيَّ صلى الله عليه وسلم فَقَالَتْ يَا رَسُولَ اللَّهِ إِنِّي أُسْتَحَاضُ فَلاَ أَطْهُرُ أَفَأَدَعُ الصَّلاَةَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ إِنَّمَا ذَلِكِ عِرْقٌ وَلَيْسَتْ بِالْحِيضَةِ فَإِذَا أَقْبَلَتِ الْحِيضَةُ فَدَعِي الصَّلاَةَ وَإِذَا أَدْبَرَتْ فَاغْسِلِي عَنْكِ الدَّمَ وَتَوَضَّئِي وَصَلِّي فَإِنَّمَا ذَلِكِ عِرْقٌ وَلَيْسَتْ بِالْحَيْضَةِ ‏\"‏ ‏.‏ قِيلَ لَهُ فَالْغُسْلُ قَالَ ‏\"‏ وَذَلِكَ لاَ يَشُكُّ فِيهِ أَحَدٌ ‏\"‏ ‏.‏ قَالَ أَبُو عَبْدِ الرَّحْمَنِ قَدْ رَوَى هَذَا الْحَدِيثَ غَيْرُ وَاحِدٍ عَنْ هِشَامِ بْنِ عُرْوَةَ وَلَمْ يَذْكُرْ فِيهِ ‏\"‏ وَتَوَضَّئِي ‏\"‏ ‏.‏ غَيْرُ حَمَّادٍ وَاللَّهُ تَعَالَى أَعْلَمُ ‏.‏",
+        "translations": {
+          "en": "It was narrated that 'Aishah said:\"Fatimah bint Abi Hubaish suffered from Istihadah and she asked the Prophet (ﷺ): 'O Messenger of Allah, I suffer from Istihadah and I do not become pure; should I stop praying?' The Messenger of Allah (ﷺ) said: 'That is a vein and is not menstruation. When your period comes, stop praying, and when it goes wash the traces of blood from yourself and do Wudu'. That is a vein and is not menstruation.'\" It was said to him (one of the narrators): \"What about Ghusl?\" He said: \"No one is in doubt about that",
+          "ur": "ام المؤمنین عائشہ رضی اللہ عنہا کہتی ہیں کہ فاطمہ بنت ابی حبیش رضی اللہ عنہا مستحاضہ ہوئیں، تو انہوں نے نبی اکرم صلی اللہ علیہ وسلم سے پوچھا: اللہ کے رسول! مجھے استحاضہ کا خون آتا رہتا ہے، اور میں پاک نہیں رہ پاتی ہوں، کیا نماز ترک کر دوں؟ تو رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: یہ تو ایک رگ ( کا خون ) ہے، حیض نہیں ہے، تو جب حیض کا خون آئے تو نماز ترک کر دو، اور جب ختم ہو جائے تو اپنے ( جسم ) سے خون دھو لو اور وضو کرو اور نماز پڑھو، یہ تو بس رگ ( کا خون ) ہے حیض نہیں ہے، ( راوی سے ) پوچھا گیا غسل کرے؟ تو اس نے کہا: اس میں کسی کو شک نہیں ۱؎۔ ابوعبدالرحمٰن نسائی کہتے ہیں: اس حدیث کو ہشام بن عروہ سے کئی لوگوں نے روایت کیا ہے، اور اس میں «وتوضئي» کا ذکر حماد کے علاوہ کسی نے نہیں کیا ہے، «واللہ تعالیٰ اعلم»۔",
+          "fr": "Rapporté par 'Aishah : Fatimah bint Abi Hubaish avait des saignements persistants et elle a demandé au Prophète (ﷺ) : \"Ô Messager d'Allah, j'ai des saignements persistants et je ne deviens pas pure ; dois-je arrêter de prier ?\" Le Messager d'Allah (ﷺ) a dit : \"C'est une veine et ce n'est pas la menstruation. Quand tes règles arrivent, arrête de prier, et quand elles partent, lave les traces de sang de toi et fais le Wudu'. C'est une veine et ce n'est pas la menstruation.\" On lui a demandé (à l'un des rapporteurs) : \"Et le Ghusl ?\" Il a dit : \"Personne n'a de doute là-dessus",
+          "id": "Telah mengabarkan kepada kami [Yahya bin Habib bin 'Arabi] dari [Hammad] dari [Hisyam bin Urwah] dari [Bapaknya] dari [Aisyah] Radliyallahu'anha bahwa Fatimah binti Hubaisy mengalami istihadhah, lalu bertanya kepada Rasulullah shallallahu 'alaihi wasallam, \"Wahai Rasulullah shallallahu 'alaihi wasallam! Aku sedang istihadhah, maka aku tidak suci. Jadi apakah aku harus meninggalkan shalat?\" Rasulullah shallallahu 'alaihi wasallam menjawab; \"Itu darah penyakit, bukan haidl. Bila datang haidl, maka cucilah bekas darah darimu dan berwudlulah, karena itu hanya darah penyakit, bukan haidl.\" Beliau ditanya, \"Bagaimana dengan mandi?\" Beliau menjawab: \"Tidak seorang pun yang meragukannya.\" Abu Abdurrahman berkata; Yang meriwayatkan hadits ini tidak hanya satu orang, dari Hisyam bin Urwah dan dia tidak menyebutkan didalamnya -wa tawadla'i- (.. dan berwudlulah..) selain Hammad saja. Wallahu Ta'ala A'lam",
+          "tr": "Âişe (radıyallahü anha)’dan rivâyete göre, şöyle demiştir: Fatıma binti ebi Hubeyş’ten özür kanı gelmekteydi, bu durumu Rasûlüllah (sallallahü aleyhi ve sellem)’e sormuştu da Rasûlüllah (sallallahü aleyhi ve sellem) şöyle cevap vermişti: damardan gelen bir kandır hayız kanı değildir. Hayız günlerinde namazı bırak hayız bitince gusledip kanı yıkayın ve namazınızı kılın çünkü o gelen kan hayız kanı olmayıp damardan gelen bir kandır.) Rasûlüllah (sallallahü aleyhi ve sellem)’e: mı?) denildi. Cevaben buyurdular ki: hiç şüphe yok.) (İbn Mâce, Tahara: 115; Buhârî, Hayz:)"
+        }
+      },
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "nasai",
+        "book": 3,
+        "hadith": 16
+      }
+    },
+    {
+      "hadithNumber": 365,
+      "arabicNumber": 365,
+      "book": 3,
+      "hadithInBook": 17,
+      "text": {
+        "arabic": "أَخْبَرَنَا سُوَيْدُ بْنُ نَصْرٍ، قَالَ حَدَّثَنَا عَبْدُ اللَّهِ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، أَنَّ فَاطِمَةَ بِنْتَ أَبِي حُبَيْشٍ، أَتَتْ رَسُولَ اللَّهِ صلى الله عليه وسلم فَقَالَتْ يَا رَسُولَ اللَّهِ إِنِّي أُسْتَحَاضُ فَلاَ أَطْهُرُ ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ إِنَّمَا ذَلِكِ عِرْقٌ وَلَيْسَتْ بِالْحِيضَةِ فَإِذَا أَقْبَلَتِ الْحِيضَةُ فَأَمْسِكِي عَنِ الصَّلاَةِ وَإِذَا أَدْبَرَتْ فَاغْسِلِي عَنْكِ الدَّمَ وَصَلِّي ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated that 'Aishah said:\"Fatimah bint Abi Hubaish said to the Messenger of Allah (ﷺ): 'O Messenger of Allah (ﷺ), I do not become pure. Should I stop praying?' The Messenger of Allah (ﷺ) said: 'That is a vein and is not menstruation. When your period comes, stop praying, and when it has passed, then wash the blood from yourself and pray",
+          "ur": "ام المؤمنین عائشہ رضی اللہ عنہا سے روایت ہے کہ فاطمہ بنت ابی حبیش رضی اللہ عنہا رسول اللہ صلی اللہ علیہ وسلم کے پاس آئیں، اور انہوں نے عرض کیا: اللہ کے رسول! مجھے استحاضہ کا خون آ رہا ہے اور میں پاک نہیں رہ پاتی ہوں، تو رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: یہ تو رگ ( کا خون ) ہے حیض نہیں ہے، تو جب حیض آئے تو نماز سے رک جاؤ، اور جب ختم ہو جائے تو اپنے بدن سے خون دھو لو، اور نماز پڑھو ۔",
+          "fr": "Rapporté par 'Aishah : Fatimah bint Abi Hubaish a dit au Messager d'Allah (ﷺ) : \"Ô Messager d'Allah (ﷺ), je ne deviens pas pure. Dois-je arrêter de prier ?\" Le Messager d'Allah (ﷺ) a dit : \"C'est une veine et ce n'est pas la menstruation. Quand tes règles arrivent, arrête de prier, et quand elles sont passées, lave le sang de toi et prie",
+          "id": "Telah mengabarkan kepada kami [Suwaid bin Nashr] dia berkata; Telah menceritakan kepada kami [Abdullah] dari [Hisyam bin Urwah] dari [Bapaknya] dari [Aisyah] Radliyallahu'anha dia berkata: Fatimah binti Abu Hubaisy berkata, \"Wahai Rasulullah Shallallahu'alihi wasallam, aku sedang mengalami istihadhah, dan aku tidak suci.\" Beliau Shallallahu'alihi wasallam bersabda: \"Itu hanya darah penyakit, bukan darah haidl. Bila datang waktu haidl, maka tinggalkanlah shalat, dan jika telah selesai haidl, maka cucilah tempat darah itu dan shalatlah"
+        }
+      },
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "-"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "collection": "nasai",
+        "book": 3,
+        "hadith": 17
+      }
+    },
+    {
+      "hadithNumber": 366,
+      "arabicNumber": 366,
+      "book": 3,
+      "hadithInBook": 18,
+      "text": {
+        "arabic": "أَخْبَرَنَا قُتَيْبَةُ، عَنْ مَالِكٍ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، قَالَتْ قَالَتْ فَاطِمَةُ بِنْتُ أَبِي حُبَيْشٍ لِرَسُولِ اللَّهِ صلى الله عليه وسلم لاَ أَطْهُرُ أَفَأَدَعُ الصَّلاَةَ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ إِنَّمَا ذَلِكِ عِرْقٌ وَلَيْسَتْ بِالْحِيضَةِ فَإِذَا أَقْبَلَتِ الْحِيضَةُ فَدَعِي الصَّلاَةَ وَإِذَا ذَهَبَ قَدْرُهَا فَاغْسِلِي عَنْكِ الدَّمَ وَصَلِّي ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated that 'Aishah said:Fatimah bint Abi Hubaish said to the Messenger of Allah (ﷺ): \"O Messenger of Allah (ﷺ), I do not become pure. Should I stop praying?\" The Messenger of Allah (ﷺ) said: \"That is a vein and is not menstruation. When your period comes, stop praying, and when the same amount of time as your regular period has passed, then wash the blood from yourself and pray",
+          "ur": "ام المؤمنین عائشہ رضی اللہ عنہا کہتی ہیں کہ فاطمہ بنت ابی حبیش رضی اللہ عنہا نے رسول اللہ صلی اللہ علیہ وسلم سے عرض کیا: میں پاک نہیں رہ پاتی ہوں، کیا نماز ترک کر دوں؟ تو رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: یہ تو ایک رگ ( کا خون ) ہے حیض نہیں ہے، تو جب حیض آئے تو نماز ترک کر دو، اور جب اس کے بقدرگزر جائے تو اپنے بدن سے خون دھو لو، اور نماز پڑھو ۔",
+          "fr": "Rapporté par 'Aishah : Fatimah bint Abi Hubaish a dit au Messager d'Allah (ﷺ) : \"Ô Messager d'Allah (ﷺ), je ne deviens pas pure. Dois-je arrêter de prier ?\" Le Messager d'Allah (ﷺ) a dit : \"C'est une veine et ce n'est pas la menstruation. Quand tes règles arrivent, arrête de prier, et quand le même temps que ta période habituelle est passé, lave le sang de toi et prie",
+          "id": "Telah mengabarkan kepada kami [Qutaibah] dari [Malik] dari [Hisyam bin Urwah] dari [Bapaknya] dari [Aisyah] Radliyallahu'anha dia berkata; \" Fatimah binti Abu Hubaisy berkata, 'Wahai Rasulullah shallallahu 'alaihi wasallam, aku tidak suci, jadi apakah aku harus meninggalkan shalat? ' Beliau shallallahu 'alaihi wasallam menjawab: 'Itu hanya darah penyakit, bukan darah haidl. Bila datang haidl, maka tinggalkanlah shalat, dan jika telah selesai waktu jadwal haidlnya, maka cucilah tempat darah itu dan shalatlah",
+          "tr": "Yine Âişe (radıyallahü anha)’dan rivâyete göre, şöyle demiştir: Fatıma binti ebi Hubeyş, Rasûlüllah (sallallahü aleyhi ve sellem)’e gelerek: devamlı kan geliyor namazları bırakabilir miyim?) dedi. Bunun üzerine Rasûlüllah (sallallahü aleyhi ve sellem) şöyle buyurdu: kan damardan gelen bir kandır hayız kanı değildir. Hayzın başladığında namaz kılmayı bırak bittiğinde ise guslet, kanı temizle ve namazını kıl.) (İbn Mâce, Tahara: 115; Buhârî, Hayz:)"
+        }
+      },
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "nasai",
+        "book": 3,
+        "hadith": 18
+      }
+    },
+    {
+      "hadithNumber": 367,
+      "arabicNumber": 367,
+      "book": 3,
+      "hadithInBook": 19,
+      "text": {
+        "arabic": "أَخْبَرَنَا أَبُو الأَشْعَثِ، قَالَ حَدَّثَنَا خَالِدُ بْنُ الْحَارِثِ، قَالَ سَمِعْتُ هِشَامًا، يُحَدِّثُ عَنْ أَبِيهِ، عَنْ عَائِشَةَ، أَنَّ بِنْتَ أَبِي حُبَيْشٍ، قَالَتْ يَا رَسُولَ اللَّهِ إِنِّي لاَ أَطْهُرُ أَفَأَتْرُكُ الصَّلاَةَ قَالَ ‏\"‏ لاَ إِنَّمَا هُوَ عِرْقٌ ‏\"‏ ‏.‏ قَالَ خَالِدٌ وَفِيمَا قَرَأْتُ عَلَيْهِ ‏\"‏ وَلَيْسَتْ بِالْحِيضَةِ فَإِذَا أَقْبَلَتِ الْحِيضَةُ فَدَعِي الصَّلاَةَ وَإِذَا أَدْبَرَتْ فَاغْسِلِي عَنْكِ الدَّمَ ثُمَّ صَلِّي ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated from 'Aishah that the daughter of Abu Hubaish said:\"O Messenger of Allah, I do not become pure, so should I stop praying? He said: \"no, that is a vein.\" - (One of the narrators) Khalid said, in what I read from him - \"and it is not menstruation, so when your period comes, stop praying, and when it goes, wash the blood from yourself and pray",
+          "ur": "ام المؤمنین عائشہ رضی اللہ عنہا سے روایت ہے کہ بنت ابی حبیش رضی اللہ عنہا نے عرض کیا: اللہ کے رسول! میں پاک نہیں رہ پاتی ہوں، کیا نماز ترک کر دوں؟ آپ صلی اللہ علیہ وسلم نے فرمایا: نہیں یہ تو رگ ( کا خون ) ہے، ( خالد کہتے ہیں: اور اس روایت میں جسے میں نے ہشام پر پڑھا ہے «وليست بالحيضة» کا جملہ نہیں ہے ) تو جب حیض آئے تو نماز چھوڑ دو، اور جب ختم ہو جائے تو اپنے ( جسم ) سے خون دھو لو، پھر نماز پڑھو۔",
+          "fr": "Rapporté par 'Aishah : La fille d'Abu Hubaish a dit : \"Ô Messager d'Allah, je ne deviens pas pure, dois-je arrêter de prier ?\" Il a dit : \"Non, c'est une veine.\" - (Un des rapporteurs) Khalid a dit, dans ce que j'ai lu de lui - \"et ce n'est pas la menstruation, donc quand tes règles arrivent, arrête de prier, et quand elles partent, lave le sang de toi et prie",
+          "id": "Telah mengabarkan kepada kami [Abu Asy'ats] dia berkata; Telah menceritakan kepada kami [Khalid bin Harits] dia berkata; Saya mendengar [Hisyam] berkata; dari [Bapaknya] dari [Aisyah] Radliyallahu'anha dia berkata: ' Fatimah binti Abu Hubaisy berkata, 'Wahai Rasulullah shallallahu 'alaihi wasallam, aku tidak suci, jadi apakah aku harus meninggalkan shalat? ' Beliau shallallahu 'alaihi wasallam menjawab: \"Itu hanya darah penyakit\". Khalid berkata; Dan dari apa yang saya baca ada tambahan lain: \"Dan bukan darah haidl. Jadi bila datang waktu haidl maka tinggalkanlah shalat, dan jika telah selesai haidl maka cucilah tempat itu dan shalatlah",
+          "tr": "Yine Âişe (radıyallahü anha)’dan aktarıldığına göre, Fatıma binti ebi Hubeyş şöyle demiştir: Allah’ın Rasûlü! Ben hiç temizlenemiyorum bu yüzden namazlarımı terk edebilir miyim?) dedi. Rasûlüllah (sallallahü aleyhi ve sellem)’de şöyle buyurdu: damardan gelen bir kandır. Namazlarını bırakma.) Hadisin Ravisi Halid hocama okuduğum hadiste şu ilave vardı: hayız kanı değildir, hayzın başladığında namazı bırak bittiğinde ise yıkan ve kanı temizleyerek namazını kıl.) (İbn Mâce, Tahara: 115; Buhârî, Hayz:)"
+        }
+      },
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "nasai",
+        "book": 3,
+        "hadith": 19
+      }
+    },
+    {
+      "hadithNumber": 368,
+      "arabicNumber": 368,
+      "book": 3,
+      "hadithInBook": 20,
+      "text": {
+        "arabic": "أَخْبَرَنَا عَمْرُو بْنُ زُرَارَةَ، قَالَ أَنْبَأَنَا إِسْمَاعِيلُ، عَنْ أَيُّوبَ، عَنْ مُحَمَّدٍ، قَالَ قَالَتْ أُمُّ عَطِيَّةَ كُنَّا لاَ نَعُدُّ الصُّفْرَةَ وَالْكُدْرَةَ شَيْئًا ‏.‏",
+        "translations": {
+          "en": "It was narrated that Muhammad said:\"Umm 'Atiyah said: 'We used not to regard yellowish and brownish discharge as anything important",
+          "ur": "ام عطیہ رضی اللہ عنہا (نسیبہ) کہتی ہیں کہ ہم لوگ زردی اور مٹیالا پن کو کچھ نہیں شمار کرتے تھے ۱؎۔",
+          "fr": "Rapporté par Muhammad : Umm 'Atiyah a dit : \"Nous ne considérions pas les pertes jaunes ou brunâtres comme quelque chose d'important",
+          "id": "Telah mengabarkan kepada kami [Amr bin Zurarah] dia berkata; Telah memberitakan kepada kami [Ismail] dari [Ayyub] dari [Muhammad] dia berkata; \" [Ummu Athiyyah] berkata; 'Kita tidak menganggap (darah) yang kekuning-kuningan dan (darah) yang kehitam-hitaman (sebagai darah haidl)",
+          "tr": "Muhammed (radıyallahü anh)’ten rivâyete göre, şöyle demiştir: Ümmü Atıyye şöyle demiştir: hayız kanı dışında sarı ve bulanık akıntı diye bir şey bilmezdik.) (Buhârî, Hayz: 21; Dârimi, Tahara:)"
+        }
+      },
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari"
+        }
+      ],
+      "reference": {
+        "collection": "nasai",
+        "book": 3,
+        "hadith": 20
+      }
+    },
+    {
+      "hadithNumber": 369,
+      "arabicNumber": 369,
+      "book": 3,
+      "hadithInBook": 21,
+      "text": {
+        "arabic": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ أَنْبَأَنَا سُلَيْمَانُ بْنُ حَرْبٍ، قَالَ حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ، عَنْ ثَابِتٍ، عَنْ أَنَسٍ، قَالَ كَانَتِ الْيَهُودُ إِذَا حَاضَتِ الْمَرْأَةُ مِنْهُمْ لَمْ يُؤَاكِلُوهُنَّ وَلاَ يُشَارِبُوهُنَّ وَلاَ يُجَامِعُوهُنَّ فِي الْبُيُوتِ فَسَأَلُوا النَّبِيَّ صلى الله عليه وسلم فَأَنْزَلَ اللَّهُ عَزَّ وَجَلَّ ‏{‏ وَيَسْأَلُونَكَ عَنِ الْمَحِيضِ قُلْ هُوَ أَذًى ‏}‏ الآيَةَ فَأَمَرَهُمْ رَسُولُ اللَّهِ صلى الله عليه وسلم أَنْ يُؤَاكِلُوهُنَّ وَيُشَارِبُوهُنَّ وَيُجَامِعُوهُنَّ فِي الْبُيُوتِ وَأَنْ يَصْنَعُوا بِهِنَّ كُلَّ شَىْءٍ مَا خَلاَ الْجِمَاعَ ‏.‏ فَقَالَتِ الْيَهُودُ مَا يَدَعُ رَسُولُ اللَّهِ صلى الله عليه وسلم شَيْئًا مِنْ أَمْرِنَا إِلاَّ خَالَفَنَا ‏.‏ فَقَامَ أُسَيْدُ بْنُ حُضَيْرٍ وَعَبَّادُ بْنُ بِشْرٍ فَأَخْبَرَا رَسُولَ اللَّهِ صلى الله عليه وسلم قَالاَ أَنُجَامِعُهُنَّ فِي الْمَحِيضِ فَتَمَعَّرَ رَسُولُ اللَّهِ صلى الله عليه وسلم تَمَعُّرًا شَدِيدًا حَتَّى ظَنَنَّا أَنَّهُ قَدْ غَضِبَ فَقَامَا فَاسْتَقْبَلَ رَسُولُ اللَّهِ صلى الله عليه وسلم هَدِيَّةَ لَبَنٍ فَبَعَثَ فِي آثَارِهِمَا فَرَدَّهُمَا فَسَقَاهُمَا فَعُرِفَ أَنَّهُ لَمْ يَغْضَبْ عَلَيْهِمَا ‏.‏",
+        "translations": {
+          "en": "It was narrated that Anas said:\"When one of their womenfolk menstruated, the Jews would not eat or drink with them, or mix with them in their houses. They (the Companions) asked the Prophet of Allah (ﷺ) about that, and Allah, the Mighty and Sublime, revealed the Ayah: They ask you concerning menstruation. Say: \"That is an Adha (a harmful thing).[2] So the Messenger of Allah (ﷺ) commanded them to eat and drink with them (menstruating women) and to mix them in their houses, and to do everything with them except intercourse. The Jews said: 'The Messenger of Allah (ﷺ) does not leave anything of our affairs except he goes against it.' Usaid bin Hudair and 'Abbad bin Bishr went and told the Messenger of Allah (ﷺ) and they said: 'Should we have intercourse with them when they are menstruating?' The expression of the Messenger of Allah (ﷺ) changed greatly until we thought he was angry with them, and they left. Then the Messenger of Allah (ﷺ) received a gift of milk, so he sent someone to bring them back and he gave them some to drink, so we knew that he was not angry with them.\" [1] Al-Baqarah 2:222 [2] Al-Baqarah 2:",
+          "ur": "انس رضی اللہ عنہ کہتے ہیں کہ یہود کی عورتیں جب حائضہ ہو جاتیں تھی تو وہ ان کے ساتھ نہ کھاتے پیتے اور نہ انہیں اپنے ساتھ گھروں میں رکھتے تھے، تو لوگوں نے نبی اکرم صلی اللہ علیہ وسلم سے ( اس کے متعلق ) پوچھا، تو اللہ عزوجل نے آیت کریمہ: «ويسألونك عن المحيض قل هو أذى» آپ سے لوگ حیض کے بارے میں پوچھتے ہیں تو آپ کہہ دیجئیے وہ گندگی ہے ( البقرہ: ۲۲۲ ) نازل فرمائی، تو رسول اللہ صلی اللہ علیہ وسلم نے انہیں حکم دیا کہ وہ ان کے ساتھ کھائیں پئیں اور انہیں اپنے گھروں میں رکھیں، اور جماع کے علاوہ ان کے ساتھ سب کچھ کریں، اس پر یہود کہنے لگے: رسول اللہ صلی اللہ علیہ وسلم کوئی معاملہ ایسا نہیں چھوڑتے جس میں ہماری مخالفت نہ کرتے ہوں، اس پر اسید بن حضیر اور عباد بن بشر رضی اللہ عنہم دونوں اٹھے، اور جا کر رسول اللہ صلی اللہ علیہ وسلم کو اس کی خبر دی، اور کہنے لگے: کیا ہم حیض کے دنوں میں ان سے جماع نہ کریں؟ تو رسول اللہ صلی اللہ علیہ وسلم کا چہرہ سخت متغیر ہو گیا یہاں تک کہ ہم نے سمجھا کہ آپ ناراض ہو گئے ہیں، ( اسی دوران ) آپ صلی اللہ علیہ وسلم کے پاس دودھ کا تحفہ آیا، تو آپ نے ان کے پیچھے ( آدمی ) بھیجا وہ انہیں بلا کر لایا، آپ نے ان کو دودھ پلایا، تو اس سے جانا گیا کہ آپ ان دونوں سے ناراض نہیں ہیں۔",
+          "fr": "Rapporté par Anas : Quand l'une de leurs femmes avait ses règles, les Juifs ne mangeaient ni ne buvaient avec elles, et ne restaient pas avec elles dans leurs maisons. Les Compagnons ont interrogé le Prophète d'Allah (ﷺ) à ce sujet, et Allah, le Tout-Puissant et Majestueux, a révélé le verset : Ils t'interrogent au sujet des menstrues. Dis : \"C'est un mal.\" Ainsi, le Messager d'Allah (ﷺ) leur a ordonné de manger et de boire avec elles (les femmes menstruées), de vivre avec elles dans leurs maisons, et de tout faire avec elles sauf les rapports sexuels. Les Juifs ont dit : \"Le Messager d'Allah (ﷺ) ne laisse rien de nos affaires sans faire le contraire.\" Usaid bin Hudair et 'Abbad bin Bishr sont allés voir le Messager d'Allah (ﷺ) et ont dit : \"Pouvons-nous avoir des rapports avec elles pendant leurs règles ?\" L'expression du Messager d'Allah (ﷺ) a beaucoup changé, au point que nous avons cru qu'il était fâché contre eux, alors ils sont partis. Ensuite, le Messager d'Allah (ﷺ) a reçu un cadeau de lait, il a envoyé quelqu'un les chercher et il leur en a donné à boire, alors nous avons compris qu'il n'était pas fâché contre eux",
+          "id": "Telah mengabarkan kepada kami [Ishaq bin Ibrahim] dia berkata; Telah memberitakan kepada kami [Sulaiman bin Harb] dia berkata; Telah menceritakan kepada kami [Hammad bin Salamah] dari [Tsabit] dari [Anas] dia berkata; orang Yahudi bila istri mereka haidl, mereka tidak mengajak makan dan minum bersama, dan tidak berkumpul bersamanya di rumah. Mereka menanyakan hal itu kepada Nabi shallallahu 'alaihi wasallam, Lalu Allah Azza wa Jalla menurunkan ayat \"Mereka bertanya kepadamu tentang haidl. Katakanlah, 'Itu adalah penyakit…\" Lalu Rasulullah shallallahu 'alaihi wasallam memerintahkan mereka untuk ikut makan dan minum dengannya, berkumpul dengan mereka di rumah, serta berbuat apa saja selain bersetubuh. Perempuan Yahudi tersebut berkata, \"Rasulullah shallallahu 'alaihi wasallam tidak membiarkan satu perkara pun yang ada pada kami kecuali dia menyelisihinya!\" Lalu bangkitlah Usaid bin Hudlair dan Abbad bin Bisyr untuk memberitahukannya kepada Rasulullah shallallahu 'alaihi wasallam, mereka berkata: \"Apakah kita boleh menggauli mereka (para istri) yang sedang haidl?\" Wajah Rasulullah shallallahu 'alaihi wasallam lalu berubah dengan perubahan yang mencolok, sehingga kami menyangka bahwa beliau sangat marah, lalu keduanya pergi. Kemudian Rasulullah shallallahu 'alaihi wasallam menerima hadiah susu, maka beliau mencari jejak kedua orang ini lalu keduanya dibawa kepada Nabi shallallahu 'alaihi wasallam dan beliau memberi minum susu kepada keduanya. Jadi diketahuilah bahwa beliau shallallahu 'alaihi wasallam tidak marah pada kedua orang ini",
+          "tr": "Enes (radıyallahü anh)’den rivâyete göre, şöyle demiştir: Yahudiler hayız gören kadınlarla birlikte yiyip içmezler ve evlerinde bile birlikte olmazlardı. Bu durumu Rasûlüllah (sallallahü aleyhi ve sellem)’e sordular da, bunun üzerine Allah, Bakara sûresi 222. ayetini indirdi. (Sana kadınların ay halleri hakkında soruyorlar. De ki: O bir sıkıntı, kirlilik, ve rahatsızlık halidir. Bu yüzden ay hali sırasında kadınların kadınlıklarından yararlanmayın, uzak durun ve onlar temizleninceye kadar kendileriyle cinsel ilişkide bulunmayın. Temizlendiklerinde ise Allah’ın buyurduğu şekilde onlara yaklaşın. Doğrusu Allah, pişmanlıkla kendisine yönelenleri ve tertemiz olanları sever.) Sonra, Rasûlüllah (sallallahü aleyhi ve sellem); Müslümanların hayız gören hanımlarıyla yiyip içmelerini ve evlerde birlikte kalmalarını ve cinsel ilişki dışında her şeyi yapmalarını emretti. Bunun üzerine Yahudiler: Rasûlü, bize aykırı davranmadık hiçbir şey bırakmadı) dediler. b. Hudayr ve Abbad b. Bişr, kalkıp bunu Rasûlüllah (sallallahü aleyhi ve sellem)’e bildirdiler ve: günlerinde hanımlarımızla cinsel ilişkide bulunacak mıyız?) dediler. Rasûlüllah (sallallahü aleyhi ve sellem), bu söz üzerine bir anda değişti, öyle ki kızdığını zannettik. Useyd b. hudayr ve Abbad b. Bişr kalkıp gittiler. Bu arada Rasûlüllah (sallallahü aleyhi ve sellem)’e hediye olarak süt getirilmişti. Onların arkasından adam gönderip çağırdı ve onlara süt içirdi. Böylece Rasûlüllah (sallallahü aleyhi ve sellem)’in onlara kızmadığı anlaşılmış oldu. (Buhârî, Hayz: 1; Müslim, Hayz:)"
+        }
+      },
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "nasai",
+        "book": 3,
+        "hadith": 21
+      }
+    },
+    {
+      "hadithNumber": 370,
+      "arabicNumber": 370,
+      "book": 3,
+      "hadithInBook": 22,
+      "text": {
+        "arabic": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، قَالَ حَدَّثَنَا يَحْيَى، عَنْ شُعْبَةَ، قَالَ حَدَّثَنِي الْحَكَمُ، عَنْ عَبْدِ الْحَمِيدِ، عَنْ مِقْسَمٍ، عَنِ ابْنِ عَبَّاسٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم فِي الرَّجُلِ يَأْتِي امْرَأَتَهُ وَهِيَ حَائِضٌ يَتَصَدَّقُ بِدِينَارٍ أَوْ بِنِصْفِ دِينَارٍ ‏.‏",
+        "translations": {
+          "en": "It was narrated from Ibn 'Abbas from the Prophet (ﷺ) concerning a man who has had intercourse with his wife while she was menstruating:\"Let him give a Dinar or half a Dinar in charity",
+          "ur": "عبداللہ بن عباس رضی اللہ عنہم نبی اکرم صلی اللہ علیہ وسلم سے روایت کرتے ہیں کہ جو آدمی اپنی بیوی کے پاس آئے ۱؎ اور وہ حائضہ ہو تو وہ ایک دینار یا آدھا دینار صدقہ کرے ۲؎۔",
+          "fr": "Rapporté par Ibn 'Abbas du Prophète (ﷺ) à propos d'un homme qui a eu un rapport avec sa femme pendant qu'elle avait ses règles : \"Qu'il donne un dinar ou un demi-dinar en aumône",
+          "id": "Telah mengabarkan kepada kami [Amr bin Ali] dia berkata; Telah menceritakan kepada kami [Yahya] dari [Syu'bah] dia berkata; Telah menceritakan kepadaku [Al Hakam] dari [Abdul Hamid] dari [Miqsam] dari [Ibnu Abbas] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda tentang seseorang laki-laki yang menggauli istrinya dalam keadaan haidl, \"Bersedekahlah dengan satu Dinar atau setengah Dinar",
+          "tr": "İbn Abbâs (radıyallahü anh)’den rivâyete göre: Hayız günlerinde hanımıyla cinsel ilişki kuran kimseye, Rasûlüllah (sallallahü aleyhi ve sellem): veya yarım dinar tasadduk etsin) buyurdu. (Tirmizî, Tahara: 103; Ebû Dâvûd, Tahara:)"
+        }
+      },
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "nasai",
+        "book": 3,
+        "hadith": 22
+      }
+    },
+    {
+      "hadithNumber": 371,
+      "arabicNumber": 371,
+      "book": 3,
+      "hadithInBook": 23,
+      "text": {
+        "arabic": "أَخْبَرَنَا عُبَيْدُ اللَّهِ بْنُ سَعِيدٍ، قَالَ حَدَّثَنَا مُعَاذُ بْنُ هِشَامٍ، ح وَأَنْبَأَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ أَنْبَأَنَا مُعَاذُ بْنُ هِشَامٍ، قَالَ حَدَّثَنِي أَبِي ح، وَأَنْبَأَنَا إِسْمَاعِيلُ بْنُ مَسْعُودٍ، قَالَ حَدَّثَنَا خَالِدٌ، - وَهُوَ ابْنُ الْحَارِثِ - قَالَ حَدَّثَنَا هِشَامٌ، عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ، قَالَ حَدَّثَنِي أَبُو سَلَمَةَ، أَنَّ زَيْنَبَ بِنْتَ أَبِي سَلَمَةَ، حَدَّثَتْهُ أَنَّ أُمَّ سَلَمَةَ حَدَّثَتْهَا قَالَتْ، بَيْنَمَا أَنَا مُضْطَجِعَةٌ، مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم إِذْ حِضْتُ فَانْسَلَلْتُ فَأَخَذْتُ ثِيَابَ حَيْضَتِي فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ أَنَفِسْتِ ‏\"‏ ‏.‏ قُلْتُ نَعَمْ فَدَعَانِي فَاضْطَجَعْتُ مَعَهُ فِي الْخَمِيلَةِ ‏.‏ وَاللَّفْظُ لِعُبَيْدِ اللَّهِ بْنِ سَعِيدٍ ‏.‏",
+        "translations": {
+          "en": "Umm Salamah narrated:\"While I was lying down with the Messenger of Allah (ﷺ) under a blanket, my period came so I slipped away and put on the clothes I used to wear when I was menstruating. The Messenger of Allah (ﷺ) said: 'Are you menstruating?' I said: 'Yes.' Then he called me to lie down with him under the blanket.\" This is the wording of 'Ubaidullah bin Sa'eed.[1] [1] That is, one of the narrators in one of the chains, as the author reported it through different chains, as he did when it preceded, see No",
+          "ur": "ام المؤمنین ام سلمہ رضی اللہ عنہا کہتی ہیں کہ میں رسول اللہ صلی اللہ علیہ وسلم کے ساتھ لیٹی ہوئی تھی کہ اسی دوران مجھے حیض آ گیا، تو میں چپکے سے کھسک آئی، اور جا کر میں نے اپنے حیض کا کپڑا لیا، تو رسول اللہ صلی اللہ علیہ وسلم نے پوچھا: کیا تم حائضہ ہو گئی؟ میں نے عرض کیا: جی ہاں، پھر آپ نے مجھے بلایا، تو میں جا کر آپ صلی اللہ علیہ وسلم کے ساتھ چادر میں لیٹ گئی، یہ الفاظ عبیداللہ بن سعید کے ہیں۔",
+          "fr": "Rapporté par Umm Salamah : \"Alors que j'étais allongée avec le Messager d'Allah (ﷺ) sous une couverture, mes règles sont arrivées, alors je me suis discrètement éloignée et j'ai mis les vêtements que je portais pendant mes règles. Le Messager d'Allah (ﷺ) a dit : 'As-tu tes règles ?' J'ai répondu : 'Oui.' Alors il m'a appelée à revenir m'allonger avec lui sous la couverture.\" Ceci est la version de 'Ubaidullah bin Sa'eed",
+          "id": "Telah mengabarkan kepada kami [Ubaidullah bin Sa'id] dia berkata; Telah menceritakan kepada kami [Mu'adz bin Hisyam] dan Telah memberitakan kepada kami [Ishaq bin Ibrahim] dia berkata; Telah memberitakan kepada kami [Mu'adz bin Hisyam] dia berkata; Telah menceritakan kepadaku [Bapakku] dan Telah memberitakan kepada kami [Ismail bin Mas'ud] dia berkata; Telah menceritakan kepada kami [Khalid yaitu Ibnu Al Harits] dia berkata; Telah menceritakan kepada kami [Hisyam] dari [Yahya bin Abu Katsir] berkata; Telah menceritakan kepadaku [Abu Salamah] bahwa [Zainab binti Abu Salamah] berkata kepadanya; [Ummu Salamah] berkata kepadanya; \"Ketika aku sedang berbaring bersama Rasulullah shallallahu 'alaihi wasallam di dalam selimut, tiba-tiba aku mendapat haidl, maka akupun segera keluar perlahan-lahan kemudian mengambil pakaian (yang biasa dipakai saat) haidl. Rasulullah shallallahu 'alaihi wasallam bertanya, 'Apakah kamu sedang haidl? ' Aku menjawab, 'Ya'. Beliau lalu memanggilku dan tidur bersama dalam satu selimut.\" Lafazh ini dari Abdullah bin Sa'id",
+          "tr": "Ümmü Seleme (radıyallahü anha)’dan rivâyete göre, şöyle demiştir: Rasûlüllah (sallallahü aleyhi ve sellem) ile birlikte yatıyordum, aybaşı oldum yavaşça Rasûlüllah (sallallahü aleyhi ve sellem)’in yanından ayrılıp hayız elbisemi giydim. Rasûlüllah (sallallahü aleyhi ve sellem): (Aybaşı mı) oldun?) buyurdu. Ben de: dedim. Beni çağırdı ve bir yatakta birlikte yattık. (Buhârî, Hayz: 22; Müslim, Hayz:)"
+        }
+      },
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "nasai",
+        "book": 3,
+        "hadith": 23
+      }
+    },
+    {
+      "hadithNumber": 372,
+      "arabicNumber": 372,
+      "book": 3,
+      "hadithInBook": 24,
+      "text": {
+        "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، قَالَ حَدَّثَنَا يَحْيَى، عَنْ جَابِرِ بْنِ صُبْحٍ، قَالَ سَمِعْتُ خِلاَسًا، يُحَدِّثُ عَنْ عَائِشَةَ، قَالَتْ كُنْتُ أَنَا وَرَسُولُ اللَّهِ، صلى الله عليه وسلم نَبِيتُ فِي الشِّعَارِ الْوَاحِدِ وَأَنَا طَامِثٌ حَائِضٌ فَإِنْ أَصَابَهُ مِنِّي شَىْءٌ غَسَلَ مَكَانَهُ لَمْ يَعْدُهُ ثُمَّ صَلَّى فِيهِ ثُمَّ يَعُودُ فَإِنْ أَصَابَهُ مِنِّي شَىْءٌ فَعَلَ مِثْلَ ذَلِكَ غَسَلَ مَكَانَهُ لَمْ يَعْدُهُ وَصَلَّى فِيهِ ‏.‏",
+        "translations": {
+          "en": "It was narrated that 'Aishah said:\"The Messenger of Allah (ﷺ) and I would sleep under a single blanket when I was menstruating. If anything got on him from me, he would wash that spot and no more, and pray in it, then come back. If anything got on it again from me, he would do likewise and no more, and he would pray in it",
+          "ur": "ام المؤمنین عائشہ رضی اللہ عنہا کہتی ہیں کہ میں اور رسول اللہ صلی اللہ علیہ وسلم دونوں ایک ہی کپڑے میں رات گزارتے تھے، اور میں حائضہ ہوتی، اگر آپ کو مجھ سے کچھ لگ جاتا تو آپ اسی جگہ کو دھوتے، اس سے تجاوز نہ فرماتے، اور اسی کپڑا میں نماز ادا کرتے، پھر واپس آ کر لیٹ جاتے، پھر اگر دوبارہ مجھ سے آپ کو کچھ لگ جاتا تو آپ پھر اسی طرح کرتے، صرف اسی جگہ کو دھوتے اس سے تجاوز نہ فرماتے، اور اسی میں نماز پڑھتے ۱؎۔",
+          "fr": "Rapporté par 'Aishah : \"Le Messager d'Allah (ﷺ) et moi dormions sous une seule couverture quand j'avais mes règles. Si quelque chose de moi touchait ses vêtements, il lavait juste cet endroit et priait avec, puis revenait. Si cela se reproduisait, il faisait de même et priait avec",
+          "id": "Telah mengabarkan kepada kami [Muhammad bin Mutsanna] dia berkata; Telah menceritakan kepada kami [Yahya] dari [Jabir bin Shubhi] dia berkata; Saya mendengar [Khilas] berkata; dari [Aisyah] Radliyallahu'anha berkata; \"Aku pernah tidur bersama Rasulullah shallallahu 'alaihi wasallam dalam satu selimut, sedang aku sedang haidl. Jika beliau terkena sesuatu dariku, maka beliau membasuh tempat yang terkena tadi dan tidak melebihinya, kemudian beliau shalat dengan selimut tadi, dan beliau kembali lagi. Jika beliau terkena sesuatu dariku, maka dia melakukan seperti tadi dan tidak melebihinya, lalu shalat dengan selimut tersebut",
+          "tr": "Âişe (radıyallahü anha)’dan rivâyete göre, şöyle diyor: Ben ve Rasûlüllah (sallallahü aleyhi ve sellem), hayızlı günlerimde birlikte bir yatakta yatardık. Benden kendisine bir şey bulaşırsa sadece bulaşan yeri yıkar ve öylece namazlarını kılardı. Sonra yatağına döner ve yine benden bir şeyler bulaşırsa aynı şekilde sadece bulaşan yeri yıkar ve öylece sabah namazını kılardı. (Müslim, Hayz: 3; İbn Mâce, Tahara:)"
+        }
+      },
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "nasai",
+        "book": 3,
+        "hadith": 24
+      }
+    },
+    {
+      "hadithNumber": 373,
+      "arabicNumber": 373,
+      "book": 3,
+      "hadithInBook": 25,
+      "text": {
+        "arabic": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا أَبُو الأَحْوَصِ، عَنْ أَبِي إِسْحَاقَ، عَنْ عَمْرِو بْنِ شُرَحْبِيلَ، عَنْ عَائِشَةَ، قَالَتْ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَأْمُرُ إِحْدَانَا إِذَا كَانَتْ حَائِضًا أَنْ تَشُدَّ إِزَارَهَا ثُمَّ يُبَاشِرُهَا ‏.‏",
+        "translations": {
+          "en": "It was narrated that 'Aishah said:\"The Messenger of Allah (ﷺ) would tell one of us, if she was menstruating, to tie her Izar (waist wrap) tightly then he would fondle her",
+          "ur": "ام المؤمنین عائشہ رضی اللہ عنہا کہتی ہیں کہ رسول اللہ صلی اللہ علیہ وسلم ہم بیویوں میں سے کسی کو جب وہ حائضہ ہوتی حکم دیتے کہ وہ اپنا ازار باندھ لے، پھر آپ اس سے چمٹتے ۱؎۔",
+          "fr": "Rapporté par 'Aishah : \"Le Messager d'Allah (ﷺ) disait à l'une d'entre nous, si elle avait ses règles, de serrer son Izar (pagne) autour de la taille, puis il la caressait",
+          "id": "Telah mengabarkan kepada kami [Qutaibah] dia berkata; Telah menceritakan kepada kami [Abu Ahwash] dari [Abu Ishaq] dari [Amr bin Surahbil] dari [Aisyah] Radliyallahu'anha dia berkata; bahwa Rasulullah shallallahu 'alaihi wasallam memerintahkan salah satu dari kami yang sedang haidl mengikat kainnya, kemudian beliau mempergaulinya (selain hubungan intim)",
+          "tr": "Âişe (radıyallahü anha)’dan rivâyete göre, şöyle demiştir: Rasûlüllah (sallallahü aleyhi ve sellem), biz hanımlarından biri hayız gördüğünde hayız elbisesini giymesini emreder ve onunla birlikte bir yatakta yatardı. (Müslim, Hayz: 3; Tirmizî, Tahara:)"
+        }
+      },
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "nasai",
+        "book": 3,
+        "hadith": 25
+      }
+    },
+    {
+      "hadithNumber": 374,
+      "arabicNumber": 374,
+      "book": 3,
+      "hadithInBook": 26,
+      "text": {
+        "arabic": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ أَنْبَأَنَا جَرِيرٌ، عَنْ مَنْصُورٍ، عَنْ إِبْرَاهِيمَ، عَنِ الأَسْوَدِ، عَنْ عَائِشَةَ، قَالَتْ كَانَتْ إِحْدَانَا إِذَا حَاضَتْ أَمَرَهَا رَسُولُ اللَّهِ صلى الله عليه وسلم أَنْ تَتَّزِرَ ثُمَّ يُبَاشِرُهَا ‏.‏",
+        "translations": {
+          "en": "It was narrated that 'Aishah said:\"If one of us was menstruating, the Messenger of Allah (ﷺ) would tell her to put on an Izar (waist wrap) then he would fondle her",
+          "ur": "ام المؤمنین عائشہ رضی اللہ عنہا کہتی ہیں کہ ہم سے کوئی جب حائضہ ہوتی تو رسول اللہ صلی اللہ علیہ وسلم اسے تہبند باندھنے کا حکم دیتے، پھر اس سے چمٹتے۔",
+          "fr": "Rapporté par 'Aishah : \"Si l'une d'entre nous avait ses règles, le Messager d'Allah (ﷺ) lui disait de mettre un Izar (pagne), puis il la caressait",
+          "id": "Telah mengabarkan kepada kami [Ishaq bin Ibrahim] dia berkata; Telah memberitakan kepada kami [Jarir] dari [Manshur] dari [Ibrahim] dari [Al Aswad] dari [Aisyah] Radliyallahu'anha dia berkata; \"Salah satu dari kami sedang haidl, maka Rasulullah shallallahu 'alaihi wasallam memerintahkannya untuk memakai kain, kemudian beliau mempergaulinya (selain hubungan intim)",
+          "tr": "Âişe (radıyallahü anha)’dan rivâyete göre, şöyle demiştir: Bizden biri hayız olduğu zaman Rasûlüllah (sallallahü aleyhi ve sellem), hayız elbisesini giymesini emreder sonra da onunla birlikte yatardı. (Müslim, Hayz: 3; İbn Mâce, Tahara:)"
+        }
+      },
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "nasai",
+        "book": 3,
+        "hadith": 26
+      }
+    },
+    {
+      "hadithNumber": 375,
+      "arabicNumber": 375,
+      "book": 3,
+      "hadithInBook": 27,
+      "text": {
+        "arabic": "أَخْبَرَنَا هَنَّادُ بْنُ السَّرِيِّ، عَنِ ابْنِ عَيَّاشٍ، - وَهُوَ أَبُو بَكْرٍ - عَنْ صَدَقَةَ بْنِ سَعِيدٍ، ثُمَّ ذَكَرَ كَلِمَةً مَعْنَاهَا حَدَّثَنَا جُمَيْعُ بْنُ عُمَيْرٍ، قَالَ دَخَلْتُ عَلَى عَائِشَةَ مَعَ أُمِّي وَخَالَتِي فَسَأَلَتَاهَا كَيْفَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَصْنَعُ إِذَا حَاضَتْ إِحْدَاكُنَّ قَالَتْ كَانَ يَأْمُرُنَا إِذَا حَاضَتْ إِحْدَانَا أَنْ تَتَّزِرَ بِإِزَارٍ وَاسِعٍ ثُمَّ يَلْتَزِمُ صَدْرَهَا وَثَدْيَيْهَا ‏.‏",
+        "translations": {
+          "en": "Jumai' bin 'Umair said:\"I entered upon 'Aishah with my mother and maternal aunt, and we asked her what the Prophet (ﷺ) used to do when one of (his wives) was menstruating. She said: He would tell us, when when of us menstruated, to wrap a wide Izar around herself then he would embrace her chest and breasts",
+          "ur": "جمیع بن عمیر کہتے ہیں: میں اپنی ماں اور خالہ کے ساتھ ام المؤمنین عائشہ رضی اللہ عنہا کے پاس آیا، تو ان دونوں نے عائشہ رضی اللہ عنہا سے پوچھا: جب آپ میں سے کوئی حائضہ ہو جاتی تو رسول اللہ صلی اللہ علیہ وسلم کیسے کرتے تھے؟ کہا: جب ہم میں سے کوئی حائضہ ہو جاتی تو آپ ہمیں کشادہ تہبند باندھنے کا حکم دیتے، پھر آپ اس کے سینہ اور چھاتی سے چمٹتے۔",
+          "fr": "Rapporté par Jumai' bin 'Umair : \"Je suis entré chez 'Aishah avec ma mère et ma tante maternelle, et nous lui avons demandé ce que le Prophète (ﷺ) faisait quand l'une de ses femmes avait ses règles. Elle a dit : Quand l'une de nous avait ses règles, il nous disait d'enrouler un large Izar autour de nous, puis il nous serrait contre lui, au niveau de la poitrine et des seins",
+          "id": "Telah mengabarkan kepada kami [Hannad bin As-Sariy] dari [Ibnu Ayyas yaitu Abu Bakr] dari [Shadaqah bin Sa'id] kemudian dia menyebutkan satu kalimat yang maksudnya adalah Telah menceritakan kepada kami [Jumai' bin 'Umair] dia berkata; Saya, Ibuku dan bibiku menemui Aisyah maka Ibuku dan bibiku bertanya kepada Aisyah; \"Apa yang diperbuat oleh Rasulullah shallallahu 'alaihi wasallam kepada salah seorang diantara kalian -istri-istrinya- ketika sedang haidl? [Aisyah] menjawab; \"Jika di antara kami sedang haidl, maka beliau menyuruh salah seorang di antara kami -yang haidl- agar memakai kain yang longgar kemudian beliau menggauli dada dan kedua susunya",
+          "tr": "Cümey’ b. Umeyr (radıyallahü anh)’den rivâyete göre, şöyle demiştir: Annem ve teyzemle birlikte Âişe’nin yanına girdik. Annem ve teyzem; Âişe’ye: Sizden biriniz hayız olduğunda Rasûlüllah (sallallahü aleyhi ve sellem) ne yapardı diye sordular o da dedi ki: biri hayz olduğunda Rasûlüllah (sallallahü aleyhi ve sellem), özel hayz elbisesi giymemizi emreder ve bizi kollarına alıp göğsüne basardı.) (Müslim, Hayz: 3; İbn Mâce, Tahara:)"
+        }
+      },
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Munkar"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "nasai",
+        "book": 3,
+        "hadith": 27
+      }
+    },
+    {
+      "hadithNumber": 376,
+      "arabicNumber": 376,
+      "book": 3,
+      "hadithInBook": 28,
+      "text": {
+        "arabic": "أَخْبَرَنَا الْحَارِثُ بْنُ مِسْكِينٍ، قِرَاءَةً عَلَيْهِ وَأَنَا أَسْمَعُ، عَنِ ابْنِ وَهْبٍ، عَنْ يُونُسَ، وَاللَّيْثُ، عَنِ ابْنِ شِهَابٍ، عَنْ حَبِيبٍ، مَوْلَى عُرْوَةَ عَنْ بُدَيَّةَ، - وَكَانَ اللَّيْثُ يَقُولُ نَدَبَةَ - مَوْلاَةِ مَيْمُونَةَ عَنْ مَيْمُونَةَ قَالَتْ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يُبَاشِرُ الْمَرْأَةَ مِنْ نِسَائِهِ وَهِيَ حَائِضٌ إِذَا كَانَ عَلَيْهَا إِزَارٌ يَبْلُغُ أَنْصَافَ الْفَخِذَيْنِ وَالرُّكْبَتَيْنِ فِي حَدِيثِ اللَّيْثِ تَحْتَجِزُ بِهِ ‏.‏",
+        "translations": {
+          "en": "It was narrated that Maimunah said:\"The Messenger of Allah (ﷺ) would fondle one of his wives when she was menstruating, if she wore and Izar (waist wrap) that reached halfway down her thighs or to her knees",
+          "ur": "ام المؤمنین میمونہ رضی اللہ عنہا کہتی ہیں کہ رسول اللہ صلی اللہ علیہ وسلم اپنی حائضہ بیوی سے چمٹتے جب وہ تہبند باندھے ہوتی جو کبھی اس کے دونوں رانوں کے نصف تک پہنچتا، اور کبھی گھٹنوں تک۔ لیث کی روایت میں ہے: وہ اسے اپنی کمر پر باندھے ہوتی۔",
+          "fr": "Rapporté par Maimunah : \"Le Messager d'Allah (ﷺ) caressait l'une de ses femmes quand elle avait ses règles, si elle portait un Izar (pagne) qui descendait jusqu'à mi-cuisse ou jusqu'aux genoux",
+          "id": "Telah mengabarkan kepada kami [Al Harits bin Miskin] telah dibacakan kepadanya dan saya mendengarnya dari [Ibnu Wahab] dari [Yunus] dan [Al-Laits] dari [Ibnu Syihab] dari [Habib] -budak Urwah- dari [Budayyah] dan Al-Laits menyebutnya budak Maimunah yang fasih, dari [Maimunah] dia berkata; \"Rasulullah shallallahu 'alaihi wasallam mencumbui salah satu istrinya yang sedang haidl bila di atasnya ada kain yang sampai ke tengah-tengah kedua pahanya dan kedua lututnya, sebagai penghalang",
+          "tr": "Meymune (radıyallahü anha)’dan rivâyete göre, şöyle demiştir: Rasûlüllah (sallallahü aleyhi ve sellem), hayız gören hanımlarıyla uylukları ve dizlerinin yarısına kadar örten bir elbise olduğu halde onlarla bir yatakta yatar ve beraber olurdu. (Buhârî, Hayz: 6; Müslim, Hayz:)"
+        }
+      },
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "nasai",
+        "book": 3,
+        "hadith": 28
+      }
+    },
+    {
+      "hadithNumber": 377,
+      "arabicNumber": 377,
+      "book": 3,
+      "hadithInBook": 29,
+      "text": {
+        "arabic": "أَخْبَرَنَا قُتَيْبَةُ بْنُ سَعِيدِ بْنِ جَمِيلِ بْنِ طَرِيفٍ، قَالَ أَنْبَأَنَا يَزِيدُ بْنُ الْمِقْدَامِ بْنِ شُرَيْحِ بْنِ هَانِئٍ، عَنْ أَبِيهِ، عَنْ شُرَيْحٍ، أَنَّهُ سَأَلَ عَائِشَةَ هَلْ تَأْكُلُ الْمَرْأَةُ مَعَ زَوْجِهَا وَهِيَ طَامِثٌ قَالَتْ نَعَمْ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَدْعُونِي فَآكُلُ مَعَهُ وَأَنَا عَارِكٌ كَانَ يَأْخُذُ الْعَرْقَ فَيُقْسِمُ عَلَىَّ فِيهِ فَأَعْتَرِقُ مِنْهُ ثُمَّ أَضَعُهُ فَيَأْخُذُهُ فَيَعْتَرِقُ مِنْهُ وَيَضَعُ فَمَهُ حَيْثُ وَضَعْتُ فَمِي مِنَ الْعَرْقِ وَيَدْعُو بِالشَّرَابِ فَيُقْسِمُ عَلَىَّ فِيهِ مِنْ قَبْلِ أَنْ يَشْرَبَ مِنْهُ فَآخُذُهُ فَأَشْرَبُ مِنْهُ ثُمَّ أَضَعُهُ فَيَأْخُذُهُ فَيَشْرَبُ مِنْهُ وَيَضَعُ فَمَهُ حَيْثُ وَضَعْتُ فَمِي مِنَ الْقَدَحِ ‏.‏",
+        "translations": {
+          "en": "It was narrated from Shuraih that he asked 'Aishah:\"Can a woman eat with her husband while she is menstruating?' She said: 'Yes. The Messenger of Allah (ﷺ) would call me to eat with him while I was menstruating. He would take a piece of bone on which some bits of meat were left and insist that I take it first, so I would nibble a little from it, then put it down. Then he would take it and nibble from it, and he would put his mouth where mine had been on the bone. Then he would call for a drink and insist that I take it first before he drank from it. So I would take it and drink from it, then put it down, then he would take it and drink from it, putting his mouth where mine had been on the cup",
+          "ur": "شریح کہتے ہیں کہ انہوں نے ام المؤمنین عائشہ رضی اللہ عنہا سے دریافت کیا: کیا عورت اپنے شوہر کے ساتھ کھا سکتی ہے جب کہ وہ حائضہ ہو؟، تو انہوں نے کہا: ہاں، رسول اللہ صلی اللہ علیہ وسلم مجھے بلاتے، تو میں آپ کے ساتھ کھاتی، اور میں حائضہ ہوتی، آپ ہڈی لیتے تو مجھے اس کے سلسلہ میں قسم دلاتے، تو میں اس سے اپنے دانتوں سے نوچتی پھر رکھ دیتی، تو آپ اسے اٹھا لیتے، اور اس سے اپنے دانتوں سے نوچتے، آپ ہڈی پر اسی جگہ منہ رکھتے جہاں میں اپنا منہ رکھے ہوتی، اور آپ پانی مانگتے تو پینے سے پہلے مجھے اس کے سلسلہ میں قسم دلاتے، تو میں اسے اٹھا لیتی اور اس میں سے پیتی، پھر اسے رکھ دیتی، تو آپ اسے اٹھا لیتے اور اس میں سے پیتے، آپ پیالہ میں اسی جگہ اپنا منہ رکھتے جہاں میں اپنا منہ رکھے ہوتی۔",
+          "fr": "Rapporté par Shuraih : Il a demandé à ‘Aïcha : « Une femme peut-elle manger avec son mari pendant ses règles ? » Elle a répondu : « Oui. Le Messager d’Allah (ﷺ) m’appelait pour manger avec lui alors que j’étais indisposée. Il prenait un os où il restait un peu de viande et insistait pour que je le prenne en premier, alors j’en grignotais un peu puis je le reposais. Ensuite, il le prenait et grignotait là où j’avais mis ma bouche. Puis il demandait à boire et voulait que je boive avant lui. Je buvais, puis il prenait le récipient et buvait à l’endroit où j’avais posé mes lèvres. »",
+          "id": "Telah mengabarkan kepada kami [Qutaibah bin Sa'id bin Jamil bin Tharif] dia berkata; Telah memberitakan kepada kami; [Yazid bin Miqdam bin Syuraih bin Hani] dari Bapaknya - [Syuraih] - bahwa dia pernah bertanya kepada [Aisyah] Radliyallahu'anha 'Apakah perempuan boleh makan bersama suaminya jika dia sedang haidl? ' Dia (Aisyah) berkata, 'Ya, boleh. Rasulullah shallallahu 'alaihi wasallam pernah memanggilku, lalu aku makan bersama beliau, padahal aku sedang haidl. Beliau shallallahu 'alaihi wasallam mengambil daging, kemudian membaginya kepadaku, dan aku segera memakannya. Kemudian aku menaruhnya, lalu Rasulullah shallallahu 'alaihi wasallam mengambil dan memakannya. Beliau meletakkan mulutnya pada daging di tempat aku meletakkan mulutku tadi. Lalu beliau meminta air minum dan membaginya kepadaku, sebelum beliau meminumnya, maka aku mengambil dan meminumnya, lalu meletakkannya. Kemudian beliau mengambilnya dan meminumnya, dan beliau meletakkan mulutnya ditempat aku meletakkan mulutku di gelas tadi",
+          "tr": "Şureyh (radıyallahü anh), babasından naklederek şöyle diyor: Âişe’ye: gören kadın kocası ile yemek yiyebilir mi?) diye sordum: Âişe (radıyallahü anha): Rasûlüllah (sallallahü aleyhi ve sellem) beni çağırır, hayızlı olduğum halde Onunla yemek yerdim. Et parçasını alır bana verir bende ondan ısırırdım sonra sofraya bırakırdım Rasûlüllah (sallallahü aleyhi ve sellem), o et parçasını alır benim ısırdığım yerden yerdi. İçecek bir şeyler ister, bana verir o içmeden ben içerdim ve kabı bırakırdım. Rasûlüllah (sallallahü aleyhi ve sellem) de o kabı alır benim içtiğim ve ağzıma aldığım yerden içerdi.) (Müslim, Hayz: 3; İbn Mâce, Tahara:)"
+        }
+      },
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "nasai",
+        "book": 3,
+        "hadith": 29
+      }
+    },
+    {
+      "hadithNumber": 378,
+      "arabicNumber": 378,
+      "book": 3,
+      "hadithInBook": 30,
+      "text": {
+        "arabic": "أَخْبَرَنِي أَيُّوبُ بْنُ مُحَمَّدٍ الْوَزَّانُ، قَالَ حَدَّثَنَا عَبْدُ اللَّهِ بْنُ جَعْفَرٍ، قَالَ حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ عَمْرٍو، عَنِ الأَعْمَشِ، عَنِ الْمِقْدَامِ بْنِ شُرَيْحٍ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، قَالَتْ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَضَعُ فَاهُ عَلَى الْمَوْضِعِ الَّذِي أَشْرَبُ مِنْهُ وَيَشْرَبُ مِنْ فَضْلِ شَرَابِي وَأَنَا حَائِضٌ ‏.‏",
+        "translations": {
+          "en": "It was narrated from Al-Miqdam bin Shuraih, from his father, that 'Aishah said:\"The Messenger of Allah (ﷺ) would put his mouth on the place from which I had drunk, and he would drink from my leftovers when I was menstruating",
+          "ur": "ام المؤمنین عائشہ رضی اللہ عنہا کہتی ہیں کہ رسول اللہ صلی اللہ علیہ وسلم اپنا منہ اسی جگہ رکھتے تھے جہاں سے میں پیتی تھی، آپ میرا بچا ہوا پانی پیتے تھے، اور میں حائضہ ہوتی۔",
+          "fr": "Rapporté par Al-Miqdam bin Shuraih, de la part de son père, que ‘Aïcha a dit : « Le Messager d’Allah (ﷺ) posait sa bouche à l’endroit où j’avais bu et buvait ce qu’il restait, même quand j’étais indisposée. »",
+          "id": "Telah mengabarkan kepada kami [Ayyub bin Muhammad Al Wazzan] dia berkata; Telah menceritakan kepada kami [Abdullah bin Ja'far] dia berkata; [Ubaidullah bin Amr] dari [Al A'masy] dari [Miqdam bin Syuraih] dari [Bapaknya] dari [Aisyah] Radliyallahu'anha dia berkata; \"Rasulullah shallallahu 'alaihi wasallam meletakkan mulutnya di tempat aku meminumnya, dan beliau meminum sisa minumku, padahal aku sedang haidl",
+          "tr": "Âişe (radıyallahü anha)’dan rivâyete göre, şöyle demiştir: sallallahü aleyhi ve sellem), hayızlı olduğum zamanlarda bile benim içtiğim kabın ağzıma aldığım yerinden içerdi ve benim artığımı da içerdi, hayızlı olduğum halde!) (İbn Mâce, Tahara: 125; Müslim, Hayz:)"
+        }
+      },
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "nasai",
+        "book": 3,
+        "hadith": 30
+      }
+    },
+    {
+      "hadithNumber": 379,
+      "arabicNumber": 379,
+      "book": 3,
+      "hadithInBook": 31,
+      "text": {
+        "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ مَنْصُورٍ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ مِسْعَرٍ، عَنِ الْمِقْدَامِ بْنِ شُرَيْحٍ، عَنْ أَبِيهِ، قَالَ سَمِعْتُ عَائِشَةَ، تَقُولُ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يُنَاوِلُنِي الإِنَاءَ فَأَشْرَبُ مِنْهُ وَأَنَا حَائِضٌ ثُمَّ أُعْطِيهِ فَيَتَحَرَّى مَوْضِعَ فَمِي فَيَضَعُهُ عَلَى فِيهِ ‏.‏",
+        "translations": {
+          "en": "It was narrated from Al-Miqdam bin Shuraih that his father said:\"I heard 'Aishah say: 'The Messenger of Allah (ﷺ) would give me the vessel and I would drink from it, when I was menstruating, then I would give it to him and he would look for the place where I had put my mouth and put that to his mouth",
+          "ur": "شریح کہتے ہیں کہ میں نے ام المؤمنین عائشہ رضی اللہ عنہا کو کہتے ہوئے سنا کہ رسول اللہ صلی اللہ علیہ وسلم مجھے برتن دیتے، تو میں اس سے پیتی جب کہ میں حائضہ ہوتی تھی، پھر میں اسے آپ کو دے دیتی تھی تو آپ میرے منہ رکھنے کی جگہ تلاشتے اور اسی ( جگہ ) کو اپنے منہ پر رکھتے۔",
+          "fr": "Rapporté par Al-Miqdam bin Shuraih, son père a dit : « J’ai entendu ‘Aïcha dire : “Le Messager d’Allah (ﷺ) me tendait le récipient et je buvais dedans alors que j’étais indisposée. Ensuite, je le lui donnais et il cherchait l’endroit où j’avais posé ma bouche pour boire à cet endroit.” »",
+          "id": "Telah mengabarkan kepada kami [Muhammad bin Manshur] dia berkata; Telah menceritakan kepada kami [Sufyan] dari [Mis'ar] dari [Miqdam bin Suraih] dari [Bapaknya] dia berkata; Saya mendengar [Aisyah] Radliyallahu'anha berkata; \"Rasulullah shallallahu 'alaihi wasallam memberi gelas kepadaku, lalu aku minum darinya, sementara aku sedang haidl. Kemudian aku berikan kepadanya -gelas itu- maka beliau mencari bekas tempat mulutku, lalu meletakkan mulutnya di situ",
+          "tr": "Mıkdam b. Şüreyh (radıyallahü anh), babasından naklediyor ve diyor ki: Âişe’den işittim şöyle diyordu: hayızlı olduğum zamanlarda Rasûlüllah (sallallahü aleyhi ve sellem) bana bir kapla içecek getirir bende ondan içerdim, kabı kendisine verince benim içtiğim bölgeyi araştırır O da oradan içerdi.) (İbn Mâce, Tahara: 125; Müslim, Hayz:)"
+        }
+      },
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "nasai",
+        "book": 3,
+        "hadith": 31
+      }
+    },
+    {
+      "hadithNumber": 380,
+      "arabicNumber": 380,
+      "book": 3,
+      "hadithInBook": 32,
+      "text": {
+        "arabic": "أَخْبَرَنَا مَحْمُودُ بْنُ غَيْلاَنَ، قَالَ حَدَّثَنَا وَكِيعٌ، قَالَ حَدَّثَنَا مِسْعَرٌ، وَسُفْيَانُ، عَنِ الْمِقْدَامِ بْنِ شُرَيْحٍ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، قَالَتْ كُنْتُ أَشْرَبُ مِنَ الْقَدَحِ وَأَنَا حَائِضٌ، فَأُنَاوِلُهُ النَّبِيَّ صلى الله عليه وسلم فَيَضَعُ فَاهُ عَلَى مَوْضِعِ فِيَّ فَيَشْرَبُ مِنْهُ وَأَتَعَرَّقُ مِنَ الْعَرْقِ وَأَنَا حَائِضٌ فَأُنَاوِلُهُ النَّبِيَّ صلى الله عليه وسلم فَيَضَعُ فَاهُ عَلَى مَوْضِعِ فِيَّ ‏.‏",
+        "translations": {
+          "en": "It was narrated that 'Aishah said:\"I would drink when I was menstruating, then I would hand it to the Prophet (ﷺ), and he would put his mouth where mine had been and drink. And I would nibble at a bone on which some bits of meat were left when I was menstruating, then I would give it to the Prophet (ﷺ) and he would put his mouth where my mouth had been",
+          "ur": "ام المؤمنین عائشہ رضی اللہ عنہا کہتی ہیں کہ میں پیالہ سے پانی پیتی اور میں حائضہ ہوتی، پھر اسے نبی اکرم صلی اللہ علیہ وسلم کو دے دیتی تو آپ اپنا منہ میرے منہ کی جگہ رکھتے اور اس سے پیتے، اور میں ہڈی سے اپنے دانت سے گوشت نوچتی اور حائضہ ہوتی، پھر اسے نبی اکرم صلی اللہ علیہ وسلم کو دے دیتی، تو آپ اپنا منہ میرے منہ کی جگہ پر رکھتے۔",
+          "fr": "Rapporté par ‘Aïcha : « Je buvais pendant mes règles, puis je donnais le récipient au Prophète (ﷺ) et il buvait à l’endroit où j’avais mis ma bouche. Je grignotais aussi un os avec un peu de viande pendant mes règles, puis je le donnais au Prophète (ﷺ) et il posait sa bouche là où j’avais mis la mienne. »",
+          "id": "Telah mengabarkan kepada kami [Mahmud bin Ghailan] dia berkata; telah menceritakan kepada kami [Waki'] dia berkata; telah menceritakan kepada kami [Mis'ar] dan [Syufyan] dari [Al-Miqdam bin syuraih] dari [bapaknya] dari [Aisyah] Radliyallahu'anha dia berkata, \"Aku pernah minum dari sebuah gelas, sementara aku sedang haidl. Lalu aku berikan gelas itu kepada Nabi shallallahu 'alaihi wasallam, maka beliau meletakkan mulutnya di tempat bekas mulutku, lalu meminumnya. Aku juga pernah menggigit sepotong daging saat sedang haidl, lalu daging itu aku berikan kepada Nabi shallallahu 'alaihi wasallam, maka beliau meletakkan mulutnya di tempat bekas mulutku tadi",
+          "tr": "Âişe (radıyallahü anha)’dan rivâyete göre, şöyle demiştir: olduğum günlerde su içtiğim kabı Rasûlüllah (sallallahü aleyhi ve sellem)’e verirdim o da benim içtiğim yerden içerdi. Yine hayızlı iken yediğim et parçasını sofraya bırakınca o eti alır, benim ısırdığım yerden yerdi.) (İbn Mâce, Tahara: 115; Müslim, Hayz:)"
+        }
+      },
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "nasai",
+        "book": 3,
+        "hadith": 32
+      }
+    },
+    {
+      "hadithNumber": 381,
+      "arabicNumber": 381,
+      "book": 3,
+      "hadithInBook": 33,
+      "text": {
+        "arabic": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، وَعَلِيُّ بْنُ حُجْرٍ، - وَاللَّفْظُ لَهُ - قَالاَ حَدَّثَنَا سُفْيَانُ، عَنْ مَنْصُورٍ، عَنْ أُمِّهِ، عَنْ عَائِشَةَ، قَالَتْ كَانَ رَأْسُ رَسُولِ اللَّهِ صلى الله عليه وسلم فِي حِجْرِ إِحْدَانَا وَهِيَ حَائِضٌ وَهُوَ يَقْرَأُ الْقُرْآنَ ‏.‏",
+        "translations": {
+          "en": "It was narrated that 'Aishah said:\"The head of the Messenger of Allah (ﷺ) would rest in the lap of one of us when she was menstruating, and he would recite Qur'an",
+          "ur": "ام المؤمنین عائشہ رضی اللہ عنہا کہتی ہیں کہ رسول اللہ صلی اللہ علیہ وسلم کا سر ہم ( بیویوں ) میں سے کسی کی گود میں ہوتا، اور وہ حائضہ ہوتی اور آپ قرآن پڑھتے۔",
+          "fr": "Rapporté par ‘Aïcha : « La tête du Messager d’Allah (ﷺ) reposait sur les genoux de l’une d’entre nous quand elle avait ses règles, et il récitait le Coran. »",
+          "id": "Telah mengabarkan kepada kami [Ishaq bin Ibrahim] dan [Ali bin Hujr] lafazhnya dari dia, keduanya berkata; telah menceritakan kepada kami [Syufyan] dari [Manshur] dari [ibunya] dari [Aisyah] Radliyallahu'anha dia berkata; \"Kepala Rasulullah shallallahu 'alaihi wasallam di pangkuan salah satu dari kami (istri-istri Nabi) yang sedang haidl, sementara beliau membaca Al Qur'an"
+        }
+      },
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "nasai",
+        "book": 3,
+        "hadith": 33
+      }
+    },
+    {
+      "hadithNumber": 382,
+      "arabicNumber": 382,
+      "book": 3,
+      "hadithInBook": 34,
+      "text": {
+        "arabic": "أَخْبَرَنَا عَمْرُو بْنُ زُرَارَةَ، قَالَ أَنْبَأَنَا إِسْمَاعِيلُ، عَنْ أَيُّوبَ، عَنْ أَبِي قِلاَبَةَ، عَنْ مُعَاذَةَ الْعَدَوِيَّةِ، قَالَتْ سَأَلَتِ امْرَأَةٌ عَائِشَةَ أَتَقْضِي الْحَائِضُ الصَّلاَةَ فَقَالَتْ أَحَرُورِيَّةٌ أَنْتِ قَدْ كُنَّا نَحِيضُ عِنْدَ رَسُولِ اللَّهِ صلى الله عليه وسلم فَلاَ نَقْضِي وَلاَ نُؤْمَرُ بِقَضَاءٍ ‏.‏",
+        "translations": {
+          "en": "It was narrated that Mu'adhah Al-'Adawiyyah said:\"A woman asked 'Aishah: 'Should a menstruating woman make up the Salah she misses? She said: 'Are you a Haruri? [1] We used to menstruate during the time of Allah's Messenger (ﷺ) but we did not make up the missed Salah nor were we commanded to do so.'\" [1] Meaning are you one of the Khawarij. Harura is a place associated with a group of the Khawarij",
+          "ur": "معاذہ عدویہ کہتی ہیں کہ ایک عورت نے ام المؤمنین عائشہ رضی اللہ عنہا سے دریافت کیا: کیا حائضہ اپنی نماز قضاء کرے گی؟ تو انہوں نے کہا: کیا تو حروریہ ۱؎ ( خارجیہ ) ہے؟ ہم رسول اللہ صلی اللہ علیہ وسلم کے پاس حائضہ ہوتی تھیں، تو نہ ہم قضاء کرتے اور نہ ہمیں قضاء کا حکم دیا جاتا تھا۔",
+          "fr": "Rapporté par Mu’adhah Al-‘Adawiyyah : Une femme a demandé à ‘Aïcha : « Une femme qui a ses règles doit-elle rattraper les prières manquées ? » Elle a répondu : « Es-tu une Harurite ? Nous avions nos règles à l’époque du Messager d’Allah (ﷺ) et nous ne rattrapions pas les prières manquées, ni n’y étions obligées. »",
+          "id": "Telah mengabarkan kepada kami [Amr bin Zurarah] dia berkata; telah menceritakan kepada kami [Isma'il] dari [Ayyub] dari [Abu Qilabah] dari [Mu'adzah Al 'Adawiyah] dari dia berkata; \"Seorang perempuan bertanya kepada [Aisyah], 'Apakah orang haidl harus mengqadla shalat? ' dia menjawab, 'Apakah kamu orang Haruriyah? Kita dahulu mengalami haidl pada zaman Rasulullah shallallahu 'alaihi wasallam, dan kita tidak mengqadlanya, dan juga tidak disuruh mengqadlanya"
+        }
+      },
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "collection": "nasai",
+        "book": 3,
+        "hadith": 34
+      }
+    },
+    {
+      "hadithNumber": 383,
+      "arabicNumber": 383,
+      "book": 3,
+      "hadithInBook": 35,
+      "text": {
+        "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، قَالَ حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، عَنْ يَزِيدَ بْنِ كَيْسَانَ، قَالَ حَدَّثَنِي أَبُو حَازِمٍ، قَالَ قَالَ أَبُو هُرَيْرَةَ بَيْنَا رَسُولُ اللَّهِ صلى الله عليه وسلم فِي الْمَسْجِدِ إِذْ قَالَ ‏\"‏ يَا عَائِشَةُ نَاوِلِينِي الثَّوْبَ ‏\"‏ ‏.‏ فَقَالَتْ إِنِّي لاَ أُصَلِّي ‏.‏ فَقَالَ ‏\"‏ إِنَّهُ لَيْسَ فِي يَدِكِ ‏\"‏ ‏.‏ فَنَاوَلَتْهُ ‏.‏",
+        "translations": {
+          "en": "Abu Hurairah said:\"While the Messenger of Allah (ﷺ) was in the Masjid, he said: 'O 'Aishah, hand me the garment.' She said: 'I am not praying.' He said: 'It is not in your hand.' So she gave it to him",
+          "ur": "ابوہریرہ رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم مسجد میں تھے کہ اسی دوران آپ صلی اللہ علیہ وسلم نے فرمایا: عائشہ! مجھے کپڑا اٹھا دو ، تو انہوں نے کہا: میں ( آج کل ) نماز نہیں پڑھ رہی ہوں ۱؎ آپ صلی اللہ علیہ وسلم نے فرمایا: یہ ( حیض ) تمہارے ہاتھ میں نہیں ، تو انہوں نے کپڑا اٹھا کر نبی اکرم صلی اللہ علیہ وسلم کو دے دیا۔",
+          "fr": "Rapporté par Abu Hurairah : Pendant que le Messager d’Allah (ﷺ) était à la mosquée, il a dit : « Ô ‘Aïcha, passe-moi le vêtement. » Elle a répondu : « Je ne prie pas. » Il a dit : « Ce n’est pas dans ta main. » Alors elle le lui a donné",
+          "id": "Telah mengabarkan kepada kami [Muhammad Al-Mutsana] dia berkata; telah menceritakan kepada kami [Yahya bin Sa'id] dari [Yazid bin Kaisan] dia berkata; telah menceritakan kepadaku [Abu Hazim] dia berkata; [Abu Hurairah] berkata; \"Tatkala Rasulullah shallallahu 'alaihi wasallam berada di masjid, tiba-tiba beliau bersabda; 'Wahai Aisyah, ambilkan baju'. Aisyah menjawab, 'Aku sedang tidak suci'. Beliau bersabda, 'Haidl itu tidak di tanganmu'. Lalu dia pun mengambilkannya"
+        }
+      },
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "nasai",
+        "book": 3,
+        "hadith": 35
+      }
+    },
+    {
+      "hadithNumber": 384,
+      "arabicNumber": 384,
+      "book": 3,
+      "hadithInBook": 36,
+      "text": {
+        "arabic": "أَخْبَرَنَا قُتَيْبَةُ، عَنْ عَبِيدَةَ، عَنِ الأَعْمَشِ، ح وَأَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا جَرِيرٌ، عَنِ الأَعْمَشِ، عَنْ ثَابِتِ بْنِ عُبَيْدٍ، عَنِ الْقَاسِمِ بْنِ مُحَمَّدٍ، قَالَ قَالَتْ عَائِشَةُ قَالَ لِي رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ نَاوِلِينِي الْخُمْرَةَ مِنَ الْمَسْجِدِ ‏\"‏ ‏.‏ فَقُلْتُ إِنِّي حَائِضٌ ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ لَيْسَتْ حَيْضَتُكِ فِي يَدِكِ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated that 'Aishah said:\"The Messenger of Allah (ﷺ) said: 'Give me the mat from the MAsjid.' She said: 'I am menstruating.' The Messenger of Allah (ﷺ) said: 'Your menstruation is not in your hand",
+          "ur": "ام المؤمنین عائشہ رضی اللہ عنہا کہتی ہیں کہ مجھ سے رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: مجھے مسجد سے چٹائی اٹھا دو ، میں نے کہا: میں حائضہ ہوں، تو رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: تمہارا حیض تمہارے ہاتھ میں نہیں ہے ۔",
+          "fr": "Rapporté par ‘Aïcha : Le Messager d’Allah (ﷺ) a dit : « Donne-moi le tapis de la mosquée. » Elle a dit : « J’ai mes règles. » Le Messager d’Allah (ﷺ) a répondu : « Tes règles ne sont pas dans ta main. »",
+          "id": "Telah mengabarkan kepada kami [Qutaibah] dari ['Abidah] dari [Al-A'masy] dan dalam jalur periwayatan yang lain disebutkan; telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Jarir] dari [Al A'masy] dari [Tsabit bin Ubaid] dari [Al Qasim bin Muhammad] dia berkata; [Aisyah] Radliyallahu'anha berkata; \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Ambilkan tikar kecil dari masjid'. Aisyah berkata, 'Aku sedang haidl'. Rasulullah shallallahu 'alaihi wasallam bersabda: 'Haidlmu itu bukan di tanganmu.\" Ishaq mengatakan; [Abu Mu'awiyah] telah memberitakan kepada kami dari A'masy dengan isnad ini semisalnya",
+          "tr": "Ebû Hüreyre (radıyallahü anh)’den rivâyete göre, şöyle demiştir: Rasûlüllah (sallallahü aleyhi ve sellem) ile birlikte Mescidde idik, Rasûlüllah (sallallahü aleyhi ve sellem): Âişe elbisemi getir) demişti. Âişe’de: kılmıyorum yani hayızlıyım) demişti. Bunun üzerine Rasûlüllah (sallallahü aleyhi ve sellem): elinde değil ya, getir) buyurdular. (Ebû Dâvûd, Tahara: 104; Müslim, Hayz:)"
+        }
+      },
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "nasai",
+        "book": 3,
+        "hadith": 36
+      }
+    },
+    {
+      "hadithNumber": 384.2,
+      "arabicNumber": 384.2,
+      "book": 3,
+      "hadithInBook": 37,
+      "text": {
+        "arabic": "قَالَ إِسْحَاقُ أَنْبَأَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ، بِهَذَا الإِسْنَادِ مِثْلَهُ ‏.‏",
+        "translations": {
+          "en": "(Another chain) with similarity",
+          "fr": "Rapporté par un autre transmetteur avec un contenu similaire"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "nasai",
+        "book": 3,
+        "hadith": 37
+      }
+    },
+    {
+      "hadithNumber": 385,
+      "arabicNumber": 385,
+      "book": 3,
+      "hadithInBook": 38,
+      "text": {
+        "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ مَنْصُورٍ، عَنْ سُفْيَانَ، عَنْ مَنْبُوذٍ، عَنْ أُمِّهِ، أَنَّ مَيْمُونَةَ، قَالَتْ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَضَعُ رَأْسَهُ فِي حِجْرِ إِحْدَانَا فَيَتْلُو الْقُرْآنَ وَهِيَ حَائِضٌ وَتَقُومُ إِحْدَانَا بِخُمْرَتِهِ إِلَى الْمَسْجِدِ فَتَبْسُطُهَا وَهِيَ حَائِضٌ ‏.‏",
+        "translations": {
+          "en": "Maimunah said:\"The Messenger of Allah (ﷺ) used to lay his head in the lap of one of us and recite Qur'an while she was menstruating, and one of us would take the mat to the Masjid and spread it out when she was menstruating",
+          "ur": "المؤمنین میمونہ رضی اللہ عنہا کہتی ہیں کہ رسول اللہ صلی اللہ علیہ وسلم ہم میں سے کسی کی گود میں اپنا سر رکھ کر قرآن کی تلاوت کرتے وہ حائضہ ہوتی، اور ہم میں سے کوئی آپ کی چٹائی لے کر مسجد جاتی، اور اس کو بچھا دیتی ۱؎ وہ حائضہ ہوتی۔",
+          "fr": "Rapporté par Maymouna : Le Messager d’Allah (ﷺ) posait sa tête sur les genoux de l’une d’entre nous et récitait le Coran alors qu’elle avait ses règles. L’une d’entre nous apportait aussi le tapis à la mosquée et l’étendait, même pendant ses règles",
+          "id": "Telah mengabarkan kepada kami [Muhammad bin Manshur] dari [Syufyan] dari [Manbudz] dari [Ibunya] bahwasanya [Maimunah] berkata; \"Rasulullah shallallahu 'alaihi wasallam meletakkan kepalanya di pangkuan salah seorang dari kami (istri-istri Nabi shallallahu 'alaihi wasallam), dan beliau membaca Al Qur'an, sedangkan ia sedang haidl. Salah seorang dari kami (istri-istri Nabi shallallahu 'alaihi wasallam) bangkit menggelar untuk tikar di masjid, padahal ia sedang haidl"
+        }
+      },
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "nasai",
+        "book": 3,
+        "hadith": 38
+      }
+    },
+    {
+      "hadithNumber": 386,
+      "arabicNumber": 386,
+      "book": 3,
+      "hadithInBook": 39,
+      "text": {
+        "arabic": "أَخْبَرَنَا نَصْرُ بْنُ عَلِيٍّ، قَالَ حَدَّثَنَا عَبْدُ الأَعْلَى، قَالَ حَدَّثَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، أَنَّهَا كَانَتْ تُرَجِّلُ رَأْسَ رَسُولِ اللَّهِ صلى الله عليه وسلم وَهِيَ حَائِضٌ وَهُوَ مُعْتَكِفٌ فَيُنَاوِلُهَا رَأْسَهُ وَهِيَ فِي حُجْرَتِهَا ‏.‏",
+        "translations": {
+          "en": "It was narrated from 'Aishah that she used to comb the hair of the Messenger of Allah (ﷺ) when she was menstruating and he was performing I'tikaf. He would put his head out to her while she was in her room",
+          "ur": "ام المؤمنین عائشہ رضی اللہ عنہا سے روایت ہے کہ وہ رسول اللہ صلی اللہ علیہ وسلم کے سر میں کنگھی کرتیں وہ حائضہ ہوتیں، اور آپ معتکف ہوتے، ( اس طرح کہ ) آپ اپنا سر ( مسجد سے نکال کر ) ان کے پاس کر دیتے، اور وہ اپنے حجرے میں ہوتیں۔",
+          "fr": "Rapporté par ‘Aïcha : Elle coiffait les cheveux du Messager d’Allah (ﷺ) alors qu’elle avait ses règles et qu’il faisait l’I‘tikaf. Il sortait sa tête vers elle pendant qu’elle était dans sa chambre",
+          "id": "Telah mengabarkan kepada kami [Nashr bin Ali] dia berkata; Telah menceritakan kepada kami [Abdul A'la] dia berkata; Telah menceritakan kepada kami [Ma'mar] dari [Az-Zuhri] dari [Urwah] dari [Aisyah] Radliyallahu'anha bahwa ia pernah menyisir rambut Rasulullah shallallahu 'alaihi wasallam, padahal ia sedang haidl, sementara Rasulullah shallallahu 'alaihi wasallam sedang i'tikaf, maka Rasulullah shallallahu 'alaihi wasallam memberikan (menyodorkan) kepalanya sementara ia berada di kamarnya",
+          "tr": "Âişe (radıyallahü anha)’dan rivâyete göre, şöyle demiştir: sallallahü aleyhi ve sellem) itikafa girdiği mescidden başını bana uzatır bende hayızlı olduğum halde O’nun başını tarardım.) (Müslim, Hayz: 3; Buhârî, Hayz:)"
+        }
+      },
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "collection": "nasai",
+        "book": 3,
+        "hadith": 39
+      }
+    },
+    {
+      "hadithNumber": 387,
+      "arabicNumber": 387,
+      "book": 3,
+      "hadithInBook": 40,
+      "text": {
+        "arabic": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، قَالَ حَدَّثَنَا يَحْيَى، قَالَ حَدَّثَنِي سُفْيَانُ، قَالَ حَدَّثَنِي مَنْصُورٌ، عَنْ إِبْرَاهِيمَ، عَنِ الأَسْوَدِ، عَنْ عَائِشَةَ، قَالَتْ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يُدْنِي إِلَىَّ رَأْسَهُ وَهُوَ مُعْتَكِفٌ فَأَغْسِلُهُ وَأَنَا حَائِضٌ ‏.‏",
+        "translations": {
+          "en": "It was narrated that 'Aishah said:\"The Prophet (ﷺ) would put his head out while he was performing I'tikaf and I would wash it, while I was menstruating",
+          "ur": "ام المؤمنین عائشہ رضی اللہ عنہا کہتی ہیں کہ رسول اللہ صلی اللہ علیہ وسلم اپنا سر میرے قریب کر دیتے اور آپ معتکف ہوتے، تو میں اسے دھوتی، اور میں حائضہ ہوتی۔",
+          "fr": "Rapporté par ‘Aïcha : Le Prophète (ﷺ) sortait sa tête pendant qu’il faisait l’I‘tikaf et je la lavais, même quand j’avais mes règles",
+          "id": "Telah mengabarkan kepada kami [Amru bin Ali] dia berkata; telah menceritakan kepada kami [Yahya] dia berkata; telah menceritakan kepadaku [Syufyan] dia berkata; telah menceritakan kepadaku [Manshur] dari [Ibrahim] dari [Al-Aswad] dari [Aisyah] Radliyallahu'anha dia berkata, \"Rasulullah shallallahu 'alaihi wasallam pernah mendekatkan kepalanya kepadaku, padahal ia sedang i'tikaf di masjid, maka aku membasuhnya sedangkan aku dalam keadaan haidl",
+          "tr": "Âişe (radıyallahü anha)’dan rivâyete göre, şöyle demiştir: sallallahü aleyhi ve sellem), başını bana uzatır ben de hayızlı olduğum halde O’nun başını itikafta olduğu halde yıkardım.) (Müslim, Hayz: 3; Buhârî, Hayz:)"
+        }
+      },
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "nasai",
+        "book": 3,
+        "hadith": 40
+      }
+    },
+    {
+      "hadithNumber": 388,
+      "arabicNumber": 388,
+      "book": 3,
+      "hadithInBook": 41,
+      "text": {
+        "arabic": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا الْفُضَيْلُ، - وَهُوَ ابْنُ عِيَاضٍ - عَنِ الأَعْمَشِ، عَنْ تَمِيمِ بْنِ سَلَمَةَ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ يُخْرِجُ رَأْسَهُ مِنَ الْمَسْجِدِ وَهُوَ مُعْتَكِفٌ فَأَغْسِلُهُ وَأَنَا حَائِضٌ ‏.‏",
+        "translations": {
+          "en": "It was narrated from 'Aishah:\"The Messenger of Allah (ﷺ) used to put his head out of the Masjid while he was performing I'tikaf, and I would wash it, while I was menstruating",
+          "ur": "ام المؤمنین عائشہ رضی اللہ عنہا سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم اپنا سر مسجد سے نکالتے اور آپ معتکف ہوتے تو میں اسے دھوتی، اور میں حائضہ ہوتی۔",
+          "fr": "Rapporté par ‘Aïcha : Le Messager d’Allah (ﷺ) sortait sa tête de la mosquée pendant l’I‘tikaf, et je la lavais alors que j’étais indisposée",
+          "id": "Telah mengabarkan kepada kami [Qutaibah] dia berkata; Telah menceritakan kepada kami [Al-fudhail yaitu Ibnu Iyadl] dari dia berkata; [Al-A'masy] dari [Tamim bin Salamah] dari [Urwah] dari [Aisyah] Radliyallahu'anha dia berkata: \"Rasulullah shallallahu 'alaihi wasallam pernah mengeluarkan kepalanya kepadaku, dan beliau sedang I'tikaf di masjid, maka aku membasuhnya, sedangkan aku sedang haidl",
+          "tr": "Âişe (radıyallahü anha)’dan rivâyete göre: sallallahü aleyhi ve sellem), mescidde itikafta iken başını bana çıkarır ben de hayızlı olduğum halde O’nun başını yıkardım.) (Müslim, Hayz: 3; Buhârî, Hayz:)"
+        }
+      },
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "nasai",
+        "book": 3,
+        "hadith": 41
+      }
+    },
+    {
+      "hadithNumber": 389,
+      "arabicNumber": 389,
+      "book": 3,
+      "hadithInBook": 42,
+      "text": {
+        "arabic": "أَخْبَرَنَا قُتَيْبَةُ، عَنْ مَالِكٍ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، قَالَتْ كُنْتُ أُرَجِّلُ رَأْسَ رَسُولِ اللَّهِ صلى الله عليه وسلم وَأَنَا حَائِضٌ ‏.‏",
+        "translations": {
+          "en": "It was narrated that 'Aishah said:\"I used to comb the hair of the Messenger of Allah (ﷺ) while I was menstruating",
+          "ur": "ام المؤمنین عائشہ رضی اللہ عنہا کہتی ہیں کہ میں رسول اللہ صلی اللہ علیہ وسلم کے سر میں کنگھی کرتی، اور میں حائضہ ہوتی۔",
+          "fr": "Rapporté par ‘Aïcha : Je coiffais les cheveux du Messager d’Allah (ﷺ) alors que j’avais mes règles",
+          "id": "Telah mengabarkan kepada kami [Qutaibah] dari [Malik] dari [Hisyam bin Urwah] dari [Bapaknya] dari [Aisyah], dia berkata: \"Aku pernah menyisir rambut Rasulullah shallallahu 'alaihi wasallam, padahal aku sedang haidl",
+          "tr": "Yine Âişe (radıyallahü anha)’dan rivâyete göre, şöyle demiştir: olduğum zamanlarda bile Rasûlüllah (sallallahü aleyhi ve sellem)’in saçını tarardım.) (Müslim, Hayz: 3; Buhârî, Hayz:)"
+        }
+      },
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "nasai",
+        "book": 3,
+        "hadith": 42
+      }
+    },
+    {
+      "hadithNumber": 390,
+      "arabicNumber": 390,
+      "book": 3,
+      "hadithInBook": 43,
+      "text": {
+        "arabic": "أَخْبَرَنَا عَمْرُو بْنُ زُرَارَةَ، قَالَ أَنْبَأَنَا إِسْمَاعِيلُ، عَنْ أَيُّوبَ، عَنْ حَفْصَةَ، قَالَتْ كَانَتْ أُمُّ عَطِيَّةَ لاَ تَذْكُرُ رَسُولَ اللَّهِ صلى الله عليه وسلم إِلاَّ قَالَتْ بِأَبَا ‏.‏ فَقُلْتُ أَسَمِعْتِ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ كَذَا وَكَذَا قَالَتْ نَعَمْ بِأَبَا قَالَ ‏ \"‏ لِتَخْرُجِ الْعَوَاتِقُ وَذَوَاتُ الْخُدُورِ وَالْحُيَّضُ فَيَشْهَدْنَ الْخَيْرَ وَدَعْوَةَ الْمُسْلِمِينَ وَتَعْتَزِلِ الْحُيَّضُ الْمُصَلَّى ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated that Hafsah said:\"Umm 'Atiyah would never mention the Messenger of Allah (ﷺ) without saying: 'May my father be ransomed for him.' I said: 'Did you hear the Messenger of Allah (ﷺ) say such and such?' And she said: 'Yes, may my father be ransomed for him.' He said: 'Let the mature girls, virgins staying in seclusion, and menstruating woman go out and witness the good occasions and the supplications of the Muslims, but let the menstruating women keep away from the prayer place",
+          "ur": "حفصہ (حفصہ بنت سیرین) کہتی ہیں کہ ام عطیہ جب بھی رسول اللہ صلی اللہ علیہ وسلم کا ذکر کرتیں تو کہتیں: میرے والد آپ پر قربان ہوں، تو میں نے پوچھا: کیا آپ نے رسول اللہ صلی اللہ علیہ وسلم کو ایسا ایسا فرماتے سنا ہے، انہوں نے کہا: ہاں، میرے والد آپ پر قربان ہوں، آپ صلی اللہ علیہ وسلم نے فرمایا ہے: بالغ لڑکیاں، پردے والیاں، اور حائضہ عورتیں نکلیں، اور خطبہ اور مسلمانوں کی دعا میں شریک ہوں، البتہ حائضہ عورتیں نماز پڑھنے کی جگہ سے الگ رہیں ۔",
+          "fr": "Rapporté par Hafsa : Umm ‘Atiyah ne mentionnait jamais le Messager d’Allah (ﷺ) sans dire : « Que mon père soit sacrifié pour lui. » J’ai demandé : « As-tu entendu le Messager d’Allah (ﷺ) dire telle ou telle chose ? » Elle a répondu : « Oui, que mon père soit sacrifié pour lui. » Il a dit : « Que les jeunes filles, les vierges qui restent à la maison et les femmes ayant leurs règles sortent pour assister aux bonnes occasions et aux invocations des musulmans, mais que les femmes ayant leurs règles restent à l’écart de l’endroit de la prière. »",
+          "id": "Telah mengabarkan kepada kami [Amr bin Zurarah] dia berkata; telah memberitakan kepada kami [Ismail] dari [Ayub] dari [Hafshah] dia berkata; \" [Ummu Athiyyah] berkata kepada Rasulullah shallallahu 'alaihi wasallam, 'Ayahku menjadi jaminanku'. Aku berkata, 'Apakah kamu mendengar Rasulullah shallallahu 'alaihi wasallam bersabda begini dan begitu? ' Ia menjawab, 'Ya, ayahku menjadi jaminanku. Beliau shallallahu 'alaihi wasallam bersabda, \"Hendaklah para budak dan gadis-gadis pingitan, serta perempuan-perempuan yang sedang haidl keluar untuk menyaksikan kebaikan dan dakwah kaum muslimin. Perempuan-perempuan yang sedang haidl hendaknya menjauh dari tempat shalat",
+          "tr": "Hafsa (radıyallahü anha)’dan rivâyete göre, şöyle demiştir: Ümmü Atıyye, Rasûlüllah (sallallahü aleyhi ve sellem)’i hatırladıkça: Anam sana kurban olsun) derdi. Ben de: sallallahü aleyhi ve sellem)’in şöyle buyurduğunu işitin mi?) dedim. O da: dedi. (Babam Anam Sana kurban olsun) dedi; Rasûlüllah (sallallahü aleyhi ve sellem)’in şöyle buyurduğunu aktardı: çağına gelen genç kızlar, hayız gören kadınlar, yaşlı kadınlar hayırlı toplantılar da ve Müslümanların davetlerinde bulunsunlar. Hayızlı kadınlar mescidlere girmesin ve uzakta dursunlar.) (Buhârî, Hayz: 24; İbn Mâce, İkametü’s Salat:)"
+        }
+      },
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "collection": "nasai",
+        "book": 3,
+        "hadith": 43
+      }
+    },
+    {
+      "hadithNumber": 391,
+      "arabicNumber": 391,
+      "book": 3,
+      "hadithInBook": 44,
+      "text": {
+        "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ سَلَمَةَ، قَالَ حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ الْقَاسِمِ، قَالَ أَخْبَرَنِي مَالِكٌ، عَنْ عَبْدِ اللَّهِ بْنِ أَبِي بَكْرٍ، عَنْ أَبِيهِ، عَنْ عَمْرَةَ، عَنْ عَائِشَةَ، أَنَّهَا قَالَتْ لِرَسُولِ اللَّهِ صلى الله عليه وسلم إِنَّ صَفِيَّةَ بِنْتَ حُيَىٍّ قَدْ حَاضَتْ ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ لَعَلَّهَا تَحْبِسُنَا أَلَمْ تَكُنْ طَافَتْ مَعَكُنَّ بِالْبَيْتِ ‏\"‏ ‏.‏ قَالَتْ بَلَى ‏.‏ قَالَ ‏\"‏ فَاخْرُجْنَ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated from 'Aishah that she said to the Messenger of Allah (ﷺ):\"Safiyyah bint Huyai began menstruating.\" The Messenger of Allah (ﷺ) said: \"Perhaps she has detained us. Did she not circumambulate the House with you?\" She said: \"Yes.\" He said: \"Then you can leave",
+          "ur": "ام المؤمنین عائشہ رضی اللہ عنہا سے روایت ہے کہ انہوں نے رسول اللہ صلی اللہ علیہ وسلم سے عرض کیا: ام المؤمنین صفیہ بنت حیی رضی اللہ عنہا کو حیض آ گیا ہے، تو رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: شاید وہ ہمیں روک لے گی، کیا اس نے تم لوگوں کے ساتھ طواف ( افاضہ ) نہیں کیا تھا؟ انہوں نے عرض کیا: کیوں نہیں ( ضرور کیا تھا ) ، آپ صلی اللہ علیہ وسلم نے فرمایا: تو پھر تو نکلو ۱؎۔",
+          "fr": "Rapporté par ‘Aïcha : Elle a dit au Messager d’Allah (ﷺ) : « Safiyyah bint Houyay a eu ses règles. » Le Messager d’Allah (ﷺ) a dit : « Peut-être qu’elle va nous retenir. N’a-t-elle pas déjà fait le tour de la Kaaba avec vous ? » Elle a répondu : « Oui. » Il a dit : « Alors vous pouvez partir. »",
+          "id": "Telah mengabarkan kepada kami [Muhammad bin Salamah] dia berkata; Telah menceritakan kepada kami [Abdurrahman bin Al Qasim] dia berkata; Telah mengabarkan kepadaku [Malik] dari [Abdullah bin Abu Bakar] dari [Bapaknya] dari ['Amrah] dari [Aisyah] Radliyallahu'anha, dia berkata kepada Rasulullah shallallahu 'alaihi wasallam bahwa Shafiyyah binti Huyay telah haidl. Lalu Rasulullah shallallahu 'alaihi wasallam bersabda: \"Barangkalikah dia membuat kita tertahan? Bukankah dia sudah thawaf di Ka'bah bersama kalian?\" Aisyah berkata, \"Ya\" Rasulullah shallallahu 'alaihi wasallam bersabda, \"Keluarlah kalian",
+          "tr": "Âişe (radıyallahü anha) anlatıyor: Rasûlüllah (sallallahü aleyhi ve sellem)’e; Safiye binti Huyey hayız oldu dedim. Rasûlüllah (sallallahü aleyhi ve sellem) de: halde bizi geciktirecek, sizinle Kâbe’yi tavaf etmemiş miydi?) buyurdu. Bende: tavaf etti) dedim. Bunun üzerine Rasûlüllah (sallallahü aleyhi ve sellem): ise yola çıkın) buyurdular. (Buhârî, Hayz: 28; Tirmizî, Hac:)"
+        }
+      },
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "collection": "nasai",
+        "book": 3,
+        "hadith": 44
+      }
+    },
+    {
+      "hadithNumber": 392,
+      "arabicNumber": 392,
+      "book": 3,
+      "hadithInBook": 45,
+      "text": {
+        "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ قُدَامَةَ، قَالَ حَدَّثَنَا جَرِيرٌ، عَنْ يَحْيَى بْنِ سَعِيدٍ، عَنْ جَعْفَرِ بْنِ مُحَمَّدٍ، عَنْ أَبِيهِ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، فِي حَدِيثِ أَسْمَاءَ بِنْتِ عُمَيْسٍ حِينَ نُفِسَتْ بِذِي الْحُلَيْفَةِ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ لأَبِي بَكْرٍ ‏ \"‏ مُرْهَا أَنْ تَغْتَسِلَ وَتُهِلَّ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated from Jabir bin 'Abdullah concerning Asma' bint Umais that when she gave birth at Dhul-Hulaifah, the Messenger of Allah (ﷺ) said to Abu Bakr:\"Tell her to perform Ghusl and (begin the Talbiyah)",
+          "ur": "جابر بن عبداللہ رضی اللہ عنہم اسماء بنت عمیس رضی اللہ عنہا کے واقعہ کے بارے میں بیان کرتے ہیں کہ جب انہیں ذوالحلیفہ میں نفاس آ گیا تو رسول اللہ صلی اللہ علیہ وسلم نے ابوبکر رضی اللہ عنہ سے فرمایا: انہیں حکم دو کہ غسل کر لیں، اور احرام باندھ لیں ۱؎۔",
+          "fr": "Rapporté par Jabir bin ‘Abdullah, à propos de Asma’ bint Oumays : Quand elle a accouché à Dhul-Hulaifah, le Messager d’Allah (ﷺ) a dit à Abu Bakr : « Dis-lui de faire le Ghusl et de commencer la Talbiyah. »",
+          "id": "Telah mengabarkan kepada kami [Muhammad bin Qudamah] dia berkata; telah menceritakan kepada kami [Jarir] dari [Yahya bin Sa'id] dari [Ja'far bin Muhammad] dari [Bapaknya] dari [Jabir bin Abdullah] dalam hadis Asma' binti Umais ketika dia nifas (haidl) di Dzul Hulaifah, bahwa Rasulullah shallallahu 'alaihi wasallam pernah berkata kepada Abu Bakar, \"Suruh dia mandi lalu berihram",
+          "tr": "Esma binti Umeys (radıyallahü anha) anlatıyor: Zülhuleyfe denilen yerde aybaşı olmuştum. Rasûlüllah (sallallahü aleyhi ve sellem), Ebû Bekir’e: ona gusletsin ve telbiye getirsin) buyurdu. (Ebû Dâvûd, Menasik: 10; Müslim, Hac:)"
+        }
+      },
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "nasai",
+        "book": 3,
+        "hadith": 45
+      }
+    },
+    {
+      "hadithNumber": 393,
+      "arabicNumber": 393,
+      "book": 3,
+      "hadithInBook": 46,
+      "text": {
+        "arabic": "أَخْبَرَنَا حُمَيْدُ بْنُ مَسْعَدَةَ، عَنْ عَبْدِ الْوَارِثِ، عَنْ حُسَيْنٍ، - يَعْنِي الْمُعَلِّمَ - عَنِ ابْنِ بُرَيْدَةَ، عَنْ سَمُرَةَ، قَالَ صَلَّيْتُ مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم عَلَى أُمِّ كَعْبٍ مَاتَتْ فِي نِفَاسِهَا فَقَامَ رَسُولُ اللَّهِ صلى الله عليه وسلم فِي الصَّلاَةِ فِي وَسَطِهَا ‏.‏",
+        "translations": {
+          "en": "It was narrated that Samurah said:\"I offered the funeral prayer with the Messenger of Allah (ﷺ) for Umm Ka'b who had died during childbirth, and during the prayer, the Messenger of Allah (ﷺ) stood at her middle",
+          "ur": "سمرہ رضی اللہ عنہ کہتے ہیں کہ میں نے رسول اللہ صلی اللہ علیہ وسلم کے ساتھ ام کعب رضی اللہ عنہا کی نماز جنازہ پڑھی جو اپنی نفاس میں وفات پا گئی تھیں، تو رسول اللہ صلی اللہ علیہ وسلم صلاۃ میں ان کے بیچ میں ( کمر کے پاس ) کھڑے ہوئے۔",
+          "fr": "Rapporté par Samurah : J’ai fait la prière funéraire avec le Messager d’Allah (ﷺ) pour Umm Ka’b, qui était morte en couches, et pendant la prière, le Messager d’Allah (ﷺ) s’est placé au niveau du milieu de son corps",
+          "id": "Telah mengabarkan kepada kami [Humaid bin Mas'adah] dari [Abdul Warits] dari [Husain yaitu Al-Mu'allim] dari [Ibnu Buraidah] dari [Samurah] dia berkata; \"Aku shalat (jenazah) bersama Rasulullah shallallahu 'alaihi wasallam atas mayit Ummu Ka'ab -yang meninggal dunia dalam keadaan nifas (haidl) - maka Rasulullah shallallahu 'alaihi wasallam berdiri shalat (menghadap) di tengah-tengahnya",
+          "tr": "Semure (radıyallahü anh)’den rivâyete göre, şöyle demiştir: Rasûlüllah (sallallahü aleyhi ve sellem) ile beraber hayızlı iken vefat eden Ümmü Ka’b’ın cenaze namazını kıldık. Rasûlüllah (sallallahü aleyhi ve sellem) cemaatin ortasında idi veya cenazenin ortasına durmuş idi. (Buhârî, Hayz:)"
+        }
+      },
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "collection": "nasai",
+        "book": 3,
+        "hadith": 46
+      }
+    },
+    {
+      "hadithNumber": 394,
+      "arabicNumber": 394,
+      "book": 3,
+      "hadithInBook": 47,
+      "text": {
+        "arabic": "أَخْبَرَنَا يَحْيَى بْنُ حَبِيبِ بْنِ عَرَبِيٍّ، قَالَ حَدَّثَنَا حَمَّادٌ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ فَاطِمَةَ بِنْتِ الْمُنْذِرِ، عَنْ أَسْمَاءَ بِنْتِ أَبِي بَكْرٍ، - وَكَانَتْ تَكُونُ فِي حِجْرِهَا - أَنَّ امْرَأَةً اسْتَفْتَتِ النَّبِيَّ صلى الله عليه وسلم عَنْ دَمِ الْحَيْضِ يُصِيبُ الثَّوْبَ فَقَالَ ‏ \"‏ حُتِّيهِ وَاقْرُصِيهِ وَانْضَحِيهِ وَصَلِّي فِيهِ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated from Asma' bint Abi Bakr that a woman asked the Messenger of Allah (ﷺ) about menstrual blood that gets on clothes. He said:\"Scratch it, then rub it with water, then sprinkle water over it, and pray in it",
+          "ur": "فاطمہ بنت منذر اسماء بنت ابوبکر رضی اللہ عنہا سے روایت کرتی ہیں (جو ان کے زیر پرورش تھیں) کہ ایک عورت نے نبی اکرم صلی اللہ علیہ وسلم سے حیض کے خون کے بارے میں جو کپڑے میں لگ جائے مسئلہ پوچھا، تو آپ صلی اللہ علیہ وسلم نے فرمایا: اسے رگڑ دو، اور ناخن سے مل لو، اور پانی سے دھو لو، اور اس میں نماز پڑھو ۔",
+          "fr": "Rapporté par Asma’ bint Abi Bakr : Une femme a demandé au Messager d’Allah (ﷺ) à propos du sang des règles qui tache les vêtements. Il a dit : « Gratte-le, frotte-le avec de l’eau, puis asperge-le d’eau, et prie avec. »",
+          "id": "Telah mengabarkan kepada kami [Yahya bin Habib bin 'Arabi] dia berkata; telah menceritakan kepada kami [Hamad] dari [Hisyam bin Urwah] dari [Fathimah binti Mundzir] dari [Asma' binti Abu Bakar] -dan dia berada di kamarnya- bahwa ada seorang perempuan meminta fatwa kepada Rasulullah shallallahu 'alaihi wasallam tentang darah haidl yang mengenai pakaian, Beliau bersabda: \"Gosoklah dengan ujung jari, kemudian cucilah dengan air. Lalu shalatlah dengan kain tersebut",
+          "tr": "Esma binti Ebû Bekir (radıyallahü anha)’dan: Münzir b. Fatıma kucağımda iken bir kadın elbiseye bulaşan hayız kanı hakkında fetva istedi: Rasûlüllah (sallallahü aleyhi ve sellem)’de: çitile, temizle ve namazını kıl) buyurdu. (Ebû Dâvûd, Tahara: 132; Buhârî, Hayz:)"
+        }
+      },
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "nasai",
+        "book": 3,
+        "hadith": 47
+      }
+    },
+    {
+      "hadithNumber": 395,
+      "arabicNumber": 395,
+      "book": 3,
+      "hadithInBook": 48,
+      "text": {
+        "arabic": "أَخْبَرَنَا عُبَيْدُ اللَّهِ بْنُ سَعِيدٍ، قَالَ حَدَّثَنَا يَحْيَى، عَنْ سُفْيَانَ، قَالَ حَدَّثَنِي أَبُو الْمِقْدَامِ، ثَابِتٌ الْحَدَّادُ عَنْ عَدِيِّ بْنِ دِينَارٍ، قَالَ سَمِعْتُ أُمَّ قَيْسٍ بِنْتَ مِحْصَنٍ، أَنَّهَا سَأَلَتْ رَسُولَ اللَّهِ صلى الله عليه وسلم عَنْ دَمِ الْحِيضَةِ يُصِيبُ الثَّوْبَ قَالَ ‏ \"‏ حُكِّيهِ بِضِلَعٍ وَاغْسِلِيهِ بِمَاءٍ وَسِدْرٍ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated that 'Adi bin Dinar said:\"I heard Umm Qais bint Mihsan say that she asked the Messenger of Allah (ﷺ) about menstrual blood that gets on one's clothes. He said: 'Scratch it with a stick and wash it with water and lotus leaves",
+          "ur": "ام قیس بنت محصن رضی اللہ عنہا کہتی ہیں کہ انہوں نے رسول اللہ صلی اللہ علیہ وسلم سے کپڑے میں حیض کا خون لگ جانے کے بارے میں پوچھا؟ تو آپ صلی اللہ علیہ وسلم نے فرمایا: تم اسے لکڑی سے کھرچ دو، اور پانی اور بیر کے پتے سے دھو ڈالو ۔",
+          "fr": "Rapporté par ‘Adi bin Dinar : J’ai entendu Umm Qais bint Mihsan dire qu’elle a demandé au Messager d’Allah (ﷺ) à propos du sang des règles sur les vêtements. Il a dit : « Gratte-le avec un bâton, lave-le avec de l’eau et des feuilles de lotus. »",
+          "id": "Telah mengabarkan kepada kami [Ubaidullah bin Sa'id] dia berkata; telah menceritakan kepada kami [Yahya] dari [Syufyan] dia berkata; telah menceritakan kepadaku [Abu Miqdam Tsabit Al-Haddad] dari [Adi bin Dinar] dia berkata; saya mendengar [Ummu Qais bin Mihshan], bahwa dia pernah bertanya kepada Rasulullah shallallahu 'alaihi wasallam tentang darah haidl yang mengenai pakaian, Maka beliau menjawab.\"Gosoklah dengan kayu, lalu cuci dengan air dan sidr (daun Bidara)"
+        }
+      },
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "nasai",
+        "book": 3,
+        "hadith": 48
+      }
+    }
+  ],
+  "metadata": {
+    "averageLength": "medium",
+    "size": "35KB"
+  }
+}

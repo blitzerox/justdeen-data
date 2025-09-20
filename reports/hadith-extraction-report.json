@@ -1,0 +1,48 @@
+{
+  "timestamp": "2025-09-19T23:58:45.516Z",
+  "extraction": {
+    "collectionsProcessed": 6,
+    "hadithExtracted": 34532,
+    "booksCreated": 337,
+    "errors": 0,
+    "errorDetails": []
+  },
+  "collections": [
+    {
+      "source": "ara-bukhari",
+      "target": "bukhari",
+      "status": "success"
+    },
+    {
+      "source": "ara-muslim",
+      "target": "muslim",
+      "status": "success"
+    },
+    {
+      "source": "ara-abudawud",
+      "target": "abudawud",
+      "status": "success"
+    },
+    {
+      "source": "ara-tirmidhi",
+      "target": "tirmidhi",
+      "status": "success"
+    },
+    {
+      "source": "ara-nasai",
+      "target": "nasai",
+      "status": "success"
+    },
+    {
+      "source": "ara-ibnmajah",
+      "target": "majah",
+      "status": "success"
+    }
+  ],
+  "recommendations": [
+    "Validate extracted files against schema",
+    "Add English translations if available",
+    "Consider adding commentary/explanations",
+    "Implement search indexing for hadith text"
+  ]
+}

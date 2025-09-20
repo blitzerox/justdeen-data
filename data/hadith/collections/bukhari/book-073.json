@@ -1,0 +1,765 @@
+{
+  "collection": "bukhari",
+  "book": 73,
+  "name": {
+    "arabic": "كتاب Al-Adha Festival Sacrifice (Adaahi)",
+    "transliteration": "al-adha festival sacrifice (adaahi)",
+    "translation": "Al-Adha Festival Sacrifice (Adaahi)"
+  },
+  "totalHadith": 30,
+  "hadithNumberRange": {
+    "first": 5545,
+    "last": 5574
+  },
+  "content": [
+    {
+      "hadithNumber": 5545,
+      "arabicNumber": 5545,
+      "book": 73,
+      "hadithInBook": 1,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا غُنْدَرٌ، حَدَّثَنَا شُعْبَةُ، عَنْ زُبَيْدٍ الإِيَامِيِّ، عَنِ الشَّعْبِيِّ، عَنِ الْبَرَاءِ ـ رضى الله عنه ـ قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ إِنَّ أَوَّلَ مَا نَبْدَأُ بِهِ فِي يَوْمِنَا هَذَا أَنْ نُصَلِّيَ ثُمَّ نَرْجِعَ فَنَنْحَرَ، مَنْ فَعَلَهُ فَقَدْ أَصَابَ سُنَّتَنَا، وَمَنْ ذَبَحَ قَبْلُ فَإِنَّمَا هُوَ لَحْمٌ قَدَّمَهُ لأَهْلِهِ، لَيْسَ مِنَ النُّسُكِ فِي شَىْءٍ ‏\"‏‏.‏ فَقَامَ أَبُو بُرْدَةَ بْنُ نِيَارٍ وَقَدْ ذَبَحَ فَقَالَ إِنَّ عِنْدِي جَذَعَةً‏.‏ فَقَالَ ‏\"‏ اذْبَحْهَا وَلَنْ تَجْزِيَ عَنْ أَحَدٍ بَعْدَكَ ‏\"‏‏.‏ قَالَ مُطَرِّفٌ عَنْ عَامِرٍ عَنِ الْبَرَاءِ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ مَنْ ذَبَحَ بَعْدَ الصَّلاَةِ تَمَّ نُسُكُهُ، وَأَصَابَ سُنَّةَ الْمُسْلِمِينَ ‏\"‏‏.‏",
+        "translations": {
+          "en": "Narrated Al-Bara:The Prophet (ﷺ) said (on the day of Idal-Adha), \"The first thing we will do on this day of ours, is to offer the (`Id) prayer and then return to slaughter the sacrifice. Whoever does so, he acted according to our Sunna (tradition), and whoever slaughtered (the sacrifice) before the prayer, what he offered was just meat he presented to his family, and that will not be considered as Nusak (sacrifice).\" (On hearing that) Abu Burda bin Niyar got up, for he had slaughtered the sacrifice before the prayer, and said, \"I have got a six month old ram.\" The Prophet (ﷺ) said, 'Slaughter it (as a sacrifice) but it will not be sufficient for any-one else (as a sacrifice after you). Al-Bara' added: The Prophet (ﷺ) said, \"Whoever slaughtered (the sacrifice) after the prayer, he slaughtered it at the right time and followed the tradition of the Muslims",
+          "ur": "ہم سے محمد بن بشار نے بیان کیا، کہا ہم سے غندر نے بیان کیا، کہا ہم سے شعبہ نے بیان کیا، ان سے زبید ایامی نے، ان سے شعبی نے اور ان سے براء بن عازب رضی اللہ عنہ نے بیان کیا کہ نبی کریم صلی اللہ علیہ وسلم نے فرمایا کہ آج ( عید الاضحی کے دن ) کی ابتداء ہم نماز ( عید ) سے کریں گے پھر واپس آ کر قربانی کریں گے جو اس طرح کرے گا وہ ہماری سنت کے مطابق کرے گا لیکن جو شخص ( نماز عید سے ) پہلے ذبح کرے گا تو اس کی حیثیت صرف گوشت کی ہو گی جو اس نے اپنے گھر والوں کے لیے تیار کر لیا ہے قربانی وہ قطعاً بھی نہیں۔ اس پر ابوبردہ بن نیار رضی اللہ عنہ کھڑے ہوئے انہوں نے ( نماز عید سے پہلے ہی ) ذبح کر لیا تھا اور عرض کیا کہ میرے پاس ایک سال سے کم عمر کا بکرا ہے ( کیا اس کی دوبارہ قربانی اب نماز کے بعد کر لوں؟ ) نبی کریم صلی اللہ علیہ وسلم نے فرمایا کہ اس کی قربانی کر لو لیکن تمہارے بعد یہ کسی اور کے لیے کافی نہیں ہو گا۔ مطرف نے عامر سے بیان کیا اور ان سے براء بن عازب رضی اللہ عنہ نے کہ نبی کریم صلی اللہ علیہ وسلم نے فرمایا کہ جس نے نماز عید کے بعد قربانی کی اس کی قربانی پوری ہو گی اور اس نے مسلمانوں کی سنت کے مطابق عمل کیا۔",
+          "fr": "Rapporté par Al-Bara : Le Prophète (ﷺ) a dit, le jour de l’Aïd al-Adha : « La première chose que nous allons faire aujourd’hui, c’est accomplir la prière de l’Aïd, puis revenir pour sacrifier l’animal. Celui qui fait ainsi suit notre Sunna (tradition), et celui qui sacrifie avant la prière, ce qu’il a offert n’est qu’une viande qu’il a donnée à sa famille, cela ne compte pas comme un sacrifice (Nusak). » En entendant cela, Abu Burda bin Niyar s’est levé, car il avait déjà sacrifié avant la prière, et a dit : « J’ai un bélier de six mois. » Le Prophète (ﷺ) a dit : « Sacrifie-le (comme offrande), mais cela ne suffira pour personne d’autre après toi. » Al-Bara a ajouté : Le Prophète (ﷺ) a dit : « Celui qui sacrifie après la prière, il l’a fait au bon moment et a suivi la tradition des musulmans. »",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Basyar] telah menceritakan kepada kami [Ghundar] telah menceritakan kepada kami [Syu'bah] dari [Zubaid Al Iyyami] dari [As Sya'bi] dari [Al Barra`] radliallahu 'anhu dia berkata; Nabi shallallahu 'alaihi wasallam bersabda: \"Sesungguhnya yang pertama kali kita lakukan pada hari ini ('iedul adha) adalah mengerjakan shalat kemudian pulang dan menyembelih binatang kurban, barangsiapa melakukan hal itu, maka dia telah bertindak sesuai dengan sunnah kita, dan barangsiapa menyembelih biantang kurban sebelum (shalat ied), maka sesembelihannya itu hanya berupa daging yang ia berikan kepada keluarganya, tidak ada hubungannya dengan ibadah kurban sedikitpun.\" Lalu Abu Burdah bin Niyar berdiri seraya berkata; \"Sesungguhnya aku masih memiliki jad'ah (anak kambing yang berusia dua tahun), maka beliau bersabda: \"Sembelihlah, namun hal itu tidak untuk orang lain setelahmu.\" [Muttharif] berkata; dari ['Amir] dari [Al Barra`], bahwa Nabi shallallahu 'alaihi wasallam bersabda: \"Barangsiapa menyembelih (hewan kurban) setelah shalat (ied) maka ibadah kurbannya telah sempurna dan dia telah melaksanakan sunnah kaum Muslimin dengan tepat",
+          "tr": "Bera' r.a.'dan, dedi ki: \"Nebi Sallallahu Aleyhi ve Sellem şöyle buyurdu: Bu günümüzde ilk başlayacağımız iş namaz kılmamız, sonra dönüp kurban kesmemizdir. Kim bunu (böylece) yaparsa sünnetimize göre iş yapmış olur. Kim de (namazdan) önce keserse o (bu kestiği) ancak aile halkı için takdim ettiği bir et olur. Onun kurban ibadetiyle bir ilgisi yoktur. Bunun üzerine Ebu Burde b. Niyar -ki daha önce kurbanını kesmişti- ayağa kalkarak: Yanımda henüz bir yaşını doldurmamış bir keçi (cezea) vardır (onu kessem olur mu), dedi. Allah Rasulü: Onu kes! Fakat senden sonra kimse için olmayacaktır, diye buyurdu.\" Mutarrif, Amir'den, o el-Bera'dan naklen dedi ki: \"Nebi Sallallahu Aleyhi ve Sellem: Her kim namazdan sonra (kurbanını) keserse onun ibadeti tamam olur ve müslümanların sünnetine uygun bir iş yapmış olur, diye buyurdu"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 73,
+        "hadith": 1
+      },
+      "narrator": {
+        "en": "Al-Bara"
+      }
+    },
+    {
+      "hadithNumber": 5546,
+      "arabicNumber": 5546,
+      "book": 73,
+      "hadithInBook": 2,
+      "text": {
+        "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا إِسْمَاعِيلُ، عَنْ أَيُّوبَ، عَنْ مُحَمَّدٍ، عَنْ أَنَسِ بْنِ مَالِكٍ ـ رضى الله عنه ـ قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏ \"‏ مَنْ ذَبَحَ قَبْلَ الصَّلاَةِ فَإِنَّمَا ذَبَحَ لِنَفْسِهِ، وَمَنْ ذَبَحَ بَعْدَ الصَّلاَةِ فَقَدْ تَمَّ نُسُكُهُ، وَأَصَابَ سُنَّةَ الْمُسْلِمِينَ ‏\"‏‏.‏",
+        "translations": {
+          "en": "Narrated Anas bin Malik:The Prophet (ﷺ) said, \"Whoever slaughtered the sacrifice before the prayer, he just slaughtered it for himself, and whoever slaughtered it after the prayer, he slaughtered it at the right time and followed the tradition of the Muslims",
+          "ur": "ہم سے مسدد نے بیان کیا، کہا ہم سے اسماعیل نے بیان کیا، ان سے ایوب نے، ان سے محمد بن سیرین نے اور ان سے انس بن مالک رضی اللہ عنہ نے بیان کیا کہ نبی کریم صلی اللہ علیہ وسلم نے فرمایا کہ جس نے نماز عید سے پہلے قربانی کر لی اس نے اپنی ذات کے لیے جانور ذبح کیا اور جس نے نماز عید کے بعد قربانی کی اس کی قربانی پوری ہوئی۔ اس نے مسلمانوں کی سنت کو پا لیا۔",
+          "fr": "Rapporté par Anas bin Malik : Le Prophète (ﷺ) a dit : « Celui qui sacrifie avant la prière, il l’a fait seulement pour lui-même, et celui qui sacrifie après la prière, il l’a fait au bon moment et a suivi la tradition des musulmans. »",
+          "id": "Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Isma'il] dari [Ayyub] dari [Muhammad] dari [Anas bin Malik] radliallahu 'anhu, dia berkata; Nabi shallallahu 'alaihi wasallam bersabda: \"Barangsiapa menyembelih (binatang kurban) sebelum shalat (ied), maka ia menyembelih untuk dirinya sendiri, dan barangsiapa menyembelih setelah shalat (ied), maka ibadah kurbannya telah sempurna dan bertindak sesuai dengan sunnah kaum Muslimin",
+          "tr": "Enes b. Malik r.a.'dan, dedi ki: \"Nebi Sallallahu Aleyhi ve Sellem şöyle buyurdu: Kim namazdan önce keserse o ancak kendisi için kesmiş olur, kim de namazdan sonra keserse onun kurban ibadeti tamam olur ve müslümanların sünnetine göre iş yapmış olur.\" Fethu'l-Bari Açıklaması: \"Udhiyeler (kurbanlıklar) bölümü; Udhiye sünneti.\" Buhari başlıkta \"sünnet\" lafZlnı zikretmekle onun vacip olduğunu söyleyenlere muhalif olduğuna işaret etmiş gibidir. İbn Hazm dedi ki: Kurban kesmenin vacip olduğu görüşü, ashabdan kimseden sahih olarak nakledilmiş değildir. Cumhurdan vacip olmadığı da sahih olarak rivayet edilmiştir. Bununla birlikte kurban kesmenin dinin şer'! hükümlerinden olduğunda görüş ayrılığı yoktur. Kurban Şafillere ve cumhura göre kifayet yoluyla müekked bir sünnettir. Şafiilerden gelen bir diğer görüşe göre de kifaye farzlarındandır. Ebu Hanife'den gelen görüşe göre mukim ve varlıklı kimseye vaciptir. Malik'ten nakledilen rivayetlerden birisi de onun görüşü gibidir, ama mukim kaydı yoktur. el-Evzal, Rabia ve el-leys'ten de onun gibi bir görüş nakledilmiştir. Hanefilerden Ebu Yusuf ve Malikllerden de Eşheb, mezhep görüşlerine muhalefet ederek cumhura uygun kanaat belirtmişlerdir. Ahmed de: Güç yetirmekle birlikte kurban kesmeyi terk etmek mekruhtur. Ondan vacip olduğu görüşü de naklediImiştir. Muhammed b. el-Hasen'den terk edilmesine ruhsat verilmemiş bir sünnet olduğu görüşü nakledilmiştir. Tahav! der ki: Biz bu görüşü kabul ediyoruz. Nakledilegelmiş rivayetler arasında vacip olduğuna delil bulunmamaktadır. J Kurban kesmenin vacip olduğu lehine gösterilebilecek en güçlü hadis, Ebu Hureyre'nin Nebie merfu olarak nispet ettiği şu hadistir: \"Her kim bir genişlik bulduğu halde kurban kesmezse sakın mescidimize yaklaşmasın.\" Hadisi İbn Mace ve Ahmed rivayet etmiş olup ravileri sikadırlar. Fakat hadisin Nebie refi ile Ebu Hureyre'ye mevkuf olduğu hususu ihtilaflıdır. Mevkuf olması doğruya daha yakın görünmektedir. Böyle olduğunu Tahav! ve başkaları söylemiştir. Bununla birlikte hadis, kurban kesmenin vacip oluşu hususunda da açık değildir"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 73,
+        "hadith": 2
+      },
+      "narrator": {
+        "en": "Anas bin Malik"
+      }
+    },
+    {
+      "hadithNumber": 5547,
+      "arabicNumber": 5547,
+      "book": 73,
+      "hadithInBook": 3,
+      "text": {
+        "arabic": "حَدَّثَنَا مُعَاذُ بْنُ فَضَالَةَ، حَدَّثَنَا هِشَامٌ، عَنْ يَحْيَى، عَنْ بَعْجَةَ الْجُهَنِيِّ، عَنْ عُقْبَةَ بْنِ عَامِرٍ الْجُهَنِيِّ، قَالَ قَسَمَ النَّبِيُّ صلى الله عليه وسلم بَيْنَ أَصْحَابِهِ ضَحَايَا، فَصَارَتْ لِعُقْبَةَ جَذَعَةٌ‏.‏ فَقُلْتُ يَا رَسُولَ اللَّهِ صَارَتْ جَذَعَةٌ‏.‏ قَالَ ‏ \"‏ ضَحِّ بِهَا ‏\"‏‏.‏",
+        "translations": {
+          "en": "Narrated `Uqba bin 'Amir Al-Juhani:that the Prophet (ﷺ) distributed among his companions some animals for sacrifice (to be slaughtered on `Id-al-Adha). `Uqba's share was a Jadha'a (a six month old goat). `Uqba said, \"O Allah's Messenger (ﷺ)! I get in my share of Jadha'a (a six month old ram).\" The Prophet (ﷺ) said, \"Slaughter it as a sacrifice",
+          "ur": "ہم سے معاذ بن فضالہ نے بیان کیا، کہا ہم سے ہشام بن عروہ نے بیان کیا، ان سے یحییٰ نے اور ان سے بعجہ الجہنی نے اور ان سے عقبہ بن عامر جہنی رضی اللہ عنہ نے بیان کیا کہ نبی کریم صلی اللہ علیہ وسلم نے اپنے صحابہ میں قربانی کے جانور تقسیم کئے۔ عقبہ رضی اللہ عنہ کے حصہ میں ایک سال سے کم کا بکری کا بچہ آیا۔ انہوں نے بیان کیا کہ اس پر میں نے عرض کیا: یا رسول اللہ! میرے حصہ میں تو ایک سال سے کم کا بچہ آیا ہے؟ نبی کریم صلی اللہ علیہ وسلم نے فرمایا کہ تم اسی کی قربانی کر لو۔",
+          "fr": "Rapporté par `Uqba bin 'Amir Al-Juhani : Le Prophète (ﷺ) a distribué à ses compagnons des animaux à sacrifier pour l’Aïd al-Adha. La part de `Uqba était une chèvre de six mois. `Uqba a dit : « Ô Messager d’Allah (ﷺ) ! J’ai reçu une chèvre de six mois dans ma part. » Le Prophète (ﷺ) a dit : « Sacrifie-la comme offrande. »",
+          "id": "Telah menceritakan kepada kami [Mu'adz bin Fadlalah] telah menceritakan kepada kami [Hisyam] dari [Yahya] dari [Ba'jah Al Juhani] dari ['Uqbah bin 'Amir Al Juhani] dia berkata; Nabi shallallahu 'alaihi wasallam pernah membagi-bagikan binatang kurban kepada para sahabatnya, sementara 'Uqbah sendiri hanya mendapatkan Jad'ah (anak kambing yang berusia dua tahun), maka kataku selanjutnya; \"Wahai Rasulullah, aku hanya mendapatkan jad'ah (anak kambing yang berusia dua tahun)?\" beliau bersabda: \"Berkurbanlah dengannya",
+          "tr": "Ukbe b. Amir el-Cüheni'den şöyle dediği rivayet edilmiştir: \"Nebi Sallallahu Aleyhi ve Sellem ashabı arasında bazı kurbanlıkları paylaştırdı. Ukbe'ye (bana) de bir yaşına yakın bir dişi keçi isabet etti. Ben: Ey Allah'ın Rasulü, bana bir yaşına yakın dişi bir keçi isabet etti, dedim. O: Onu kurban kes, diye buyurdu.\" Fethu'l-Bari Açıklaması: \"İmamın insanlar arasında kurbanlıkları\" bizzat ya da emir vererek \"paylaştırması.\" \"Ukbe'ye\" yani Ukbe b. Amir'e (kendisine) \"bir yaşına yakın, bir yaşını do 1durmamış (bir cezea) isabet etti.\" Cezea, davarların yaşını nitelemek için kullanılan bir lafızdır. Koyun türünden bir yaşını bitirmiş olan için kullanılır. Cumhurun görüşü budur. Keçi türünden ise iki yaşına girmiş olan demektir. İnek türünden üç yaşını bitirmiş olana, deve türünden de beş yaşına girmiş olana denilir"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 73,
+        "hadith": 3
+      },
+      "narrator": {
+        "en": "`Uqba bin 'Amir Al-Juhani"
+      }
+    },
+    {
+      "hadithNumber": 5548,
+      "arabicNumber": 5548,
+      "book": 73,
+      "hadithInBook": 4,
+      "text": {
+        "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا سُفْيَانُ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ الْقَاسِمِ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ أَنَّ النَّبِيَّ صلى الله عليه وسلم دَخَلَ عَلَيْهَا وَحَاضَتْ بِسَرِفَ، قَبْلَ أَنْ تَدْخُلَ مَكَّةَ وَهْىَ تَبْكِي فَقَالَ ‏\"‏ مَا لَكِ أَنَفِسْتِ ‏\"‏‏.‏ قَالَتْ نَعَمْ‏.‏ قَالَ ‏\"‏ إِنَّ هَذَا أَمْرٌ كَتَبَهُ اللَّهُ عَلَى بَنَاتِ آدَمَ، فَاقْضِي مَا يَقْضِي الْحَاجُّ غَيْرَ أَنْ لاَ تَطُوفِي بِالْبَيْتِ ‏\"‏‏.‏ فَلَمَّا كُنَّا بِمِنًى أُتِيتُ بِلَحْمِ بَقَرٍ، فَقُلْتُ مَا هَذَا قَالُوا ضَحَّى رَسُولُ اللَّهِ صلى الله عليه وسلم عَنْ أَزْوَاجِهِ بِالْبَقَرِ‏.‏",
+        "translations": {
+          "en": "Narrated `Aisha:that the Prophet (ﷺ) entered upon her when she had her menses at Sarif before entering Mecca, and she was weeping (because she was afraid that she would not be able to perform the Hajj). The Prophet (ﷺ) said, \"What is wrong with you? Have you got your period?\" She said, \"Yes.\" He said, \"This is a matter Allah has decreed for all the daughters of Adam, so perform all the ceremonies of Hajj like the others, but do not perform the Tawaf around the Ka`ba.\" `Aisha added: When we were at Mina, beef was brought to me and I asked, \"What is this?\" They (the people) said, \"Allah's Messenger (ﷺ) has slaughtered some cows as sacrifices on behalf of his wives",
+          "ur": "ہم سے مسدد نے بیان کیا، ہم سے سفیان نے بیان کیا، ان سے عبدالرحمٰن بن قاسم نے، ان سے ان کے والد نے اور ان سے عائشہ رضی اللہ عنہا نے کہ نبی کریم صلی اللہ علیہ وسلم ( حجۃ الوداع کے موقع پر ) ان کے پاس آئے وہ مکہ مکرمہ میں داخل ہونے سے پہلے مقام سرف میں حائضہ ہو گئی تھیں۔ اس وقت آپ رو رہی تھیں۔ نبی کریم صلی اللہ علیہ وسلم نے دریافت فرمایا کہ کیا بات ہے کیا تمہیں حیض کا خون آنے لگا ہے؟ عائشہ رضی اللہ عنہا نے عرض کیا کہ جی ہاں۔ آپ صلی اللہ علیہ وسلم نے فرمایا کہ یہ تو اللہ تعالیٰ نے آدم علیہ السلام کی بیٹیوں کے مقدر میں لکھ دیا ہے۔ تم حاجیوں کی طرح تمام اعمال حج ادا کر لو بس بیت اللہ کا طواف نہ کرو، پھر جب ہم منیٰ میں تھے تو ہمارے پاس گائے کا گوشت لایا گیا۔ میں نے پوچھا کہ یہ کیا ہے؟ لوگوں نے بتایا کہ رسول اللہ صلی اللہ علیہ وسلم نے اپنی بیویوں کی طرف سے گائے کی قربانی کی ہے۔",
+          "fr": "Rapporté par `Aisha رضي الله عنها : Le Prophète (ﷺ) est entré auprès d’elle alors qu’elle avait ses règles à Sarif, avant d’entrer à La Mecque, et elle pleurait parce qu’elle pensait ne pas pouvoir accomplir le Hajj. Le Prophète (ﷺ) a dit : « Qu’as-tu ? As-tu tes règles ? » Elle a répondu : « Oui. » Il a dit : « C’est une chose qu’Allah a décidée pour toutes les filles d’Adam. Accomplis toutes les étapes du Hajj comme les autres, sauf que tu ne dois pas faire le Tawaf autour de la Ka`ba. » `Aisha a ajouté : Quand nous étions à Mina, on m’a apporté du bœuf et j’ai demandé : « Qu’est-ce que c’est ? » Les gens ont répondu : « Le Messager d’Allah (ﷺ) a sacrifié des vaches en offrande pour ses femmes. »",
+          "id": "Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Sufyan] dari [Abdurrahman bin Qasim] dari [Ayahnya] dari [Aisyah] radliallahu 'anha bahwa Nabi shallallahu 'alaihi wasallam pernah menemuinya ketika berada di Sarif sebelum masuk ke Makkah, beliau mendapatinya sedang menangis karena datang bulan, lalu beliau bertanya: \"Kenapa, apakah kamu sedang haidh?\" Aisyah menjawab; \"Ya.\" Beliau bersabda: \"Sesungguhnya hal ini telah di tetapkan Allah atas wanita-wanita anak Adam, lakukanlah apa yang biasa di kerjakan dalam berhaji, namun kamu jangan thawaf di Ka'bah.\" Ketika kami sampai di Mina, aku di beri daging sapi, lantas tanyaku; \"Daging apakah ini?\" para sahabat menjawab; \"Rasulullah shallallahu 'alaihi wasallam menyembelih binatang kurban berupa sapi untuk para isterinya",
+          "tr": "Aişe r.anha'dan rivayete göre \"Nebi Sallallahu Aleyhi ve Sellem Mekke'ye girmeden önce Serifte iken yanıma girdi. Ay hali olmuş ve ağlıyordum. Allah Rasulü: Neyin var? Yoksa ay hali mi oldun, diye sordu. Aişe: Evet dedi. Allah Rasulü: Şüphesiz ki bu Allah'ın Adem'in kızları üzerine yazmış olduğu bir emirdir. Sen hacıların yaptıklarını yap, ancak Beyt'i tavaf etme. Mina'ya geldiğimiz sırada bana bir miktar inek eti getirildi. Bu da ne diye sordum. Rasulullah Sallallahu Aleyhi ve Sellem hanımları adına kurban kesti, dediler.\" Fethu'l-Bari Açıklaması: \"Yolcu ve kadın için kurban kesmek.\" Bu başlık ile yolcu olanın kurban kesme yükümlülüğü yoktur, diyen kimselerin kanaatinin aksine de işaret vardır. Bu husustaki nakil, birinci başlıkta geçmiş bulunmaktadır. Aynca kadınların kurban kesmek yükümlülüğü yoktur, diyenlerin kanaatinin aksine de işaret vardır. \"Şerif', Mekke'nin dışında bilinen bir yerdir. Hadisten Çıkan Sonuçlar Cumhur erkeğin kestiği kurbanın hem kendisinin, hem de aile halkının adına yeterli olacağına bu hadisi delil göstermiştir. Ancak Hanefiler bu hususta muhalefet etmişlerdir. Kurtubi der ki: Nebi Sallallahu Aleyhi ve Sellem'in kurban kesilen yılların tekrarlanmasına, hanımlarının da birden çok olmasına rağmen her bir hanımına ayrıca kurban kesmesini emrettiği nakledilmiş değildir. Ayrıca bunu Malik, İbn Mace ve sahih olduğunu belirterek Tirmizi'nin Ata b. Yesar yolu ile naklettikleri şu rivayet de desteklemektedir: \"Ben Ebu Eyyub'a: Rasulullah Sallallahu Aleyhi ve Sellem döneminde kurbanlar ne şekilde kesilirdi, diye sordum, o: Adam koyunu hem kendi adına, hem de aile halkı adına kurban olarak keser, kendileri de ondan yer, başkalarına da yedirirlerdi. Bu da gördüğün gibi insanlar bugüne gelinceye kadar böylece devam etti"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 73,
+        "hadith": 4
+      },
+      "narrator": {
+        "en": "`Aisha"
+      }
+    },
+    {
+      "hadithNumber": 5549,
+      "arabicNumber": 5549,
+      "book": 73,
+      "hadithInBook": 5,
+      "text": {
+        "arabic": "حَدَّثَنَا صَدَقَةُ، أَخْبَرَنَا ابْنُ عُلَيَّةَ، عَنْ أَيُّوبَ، عَنِ ابْنِ سِيرِينَ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم يَوْمَ النَّحْرِ ‏ \"‏ مَنْ كَانَ ذَبَحَ قَبْلَ الصَّلاَةِ فَلْيُعِدْ ‏\"‏‏.‏ فَقَامَ رَجُلٌ فَقَالَ يَا رَسُولَ اللَّهِ إِنَّ هَذَا يَوْمٌ يُشْتَهَى فِيهِ اللَّحْمُ ـ وَذَكَرَ جِيرَانَهُ ـ وَعِنْدِي جَذَعَةٌ خَيْرٌ مِنْ شَاتَىْ لَحْمٍ‏.‏ فَرَخَّصَ لَهُ فِي ذَلِكَ، فَلاَ أَدْرِي أَبَلَغَتِ الرُّخْصَةُ مَنْ سِوَاهُ أَمْ لاَ، ثُمَّ انْكَفَأَ النَّبِيُّ صلى الله عليه وسلم إِلَى كَبْشَيْنِ فَذَبَحَهُمَا، وَقَامَ النَّاسُ إِلَى غُنَيْمَةٍ فَتَوَزَّعُوهَا أَوْ قَالَ فَتَجَزَّعُوهَا‏.‏",
+        "translations": {
+          "en": "Narrated Anas bin Malik:The Prophet (ﷺ) said on the day of Nahr, \"Whoever has slaughtered his sacrifice before the prayer, should repeat it (slaughter another sacrifice).\" A man got up and said, \"O Allah's Messenger (ﷺ)! This is a day on which meat is desired.\" He then mentioned his neighbors saying, \"I have a six month old ram which is to me better than the meat of two sheep.\" The Prophet (ﷺ) allowed him to slaughter it as a sacrifice, but I do not know whether this permission was valid for other than that man or not. The Prophet (ﷺ) then went towards two rams and slaughtered them, and then the people went towards some sheep and distributed them among themselves",
+          "ur": "ہم سے صدقہ نے بیان کیا، کہا ہم کو ابن علیہ نے خبر دی، انہیں ایوب نے، انہیں محمد بن سیرین نے اور ان سے انس بن مالک رضی اللہ عنہ نے بیان کیا کہ نبی کریم صلی اللہ علیہ وسلم نے قربانی کے دن فرمایا کہ جس نے نماز عید سے پہلے قربانی ذبح کر لی ہے وہ دوبارہ قربانی کرے اس پر ایک صاحب نے کھڑے ہو کر عرض کیا: یا رسول اللہ! یہ وہ دن ہے جس میں گوشت کھانے کی خواہش ہوتی ہے پھر انہوں نے اپنے پڑوسیوں کا ذکر کیا اور ( کہا کہ ) میرے پاس ایک سال سے کم کا بکری کا بچہ ہے جس کا گوشت دو بکریوں کے گوشت سے بہتر ہے تو نبی کریم صلی اللہ علیہ وسلم نے انہیں اس کی اجازت دے دی۔ مجھے نہیں معلوم کہ یہ اجازت دوسروں کو بھی ہے یا نہیں۔ پھر نبی کریم صلی اللہ علیہ وسلم دو مینڈھوں کی طرف مڑے اور انہیں ذبح کیا پھر لوگ بکریوں کی طرف بڑھے اور انہیں تقسیم کر کے ( ذبح کیا ) ۔",
+          "fr": "Rapporté par Anas bin Malik : Le Prophète (ﷺ) a dit le jour de Nahr : « Celui qui a sacrifié son offrande avant la prière doit recommencer (et en sacrifier une autre). » Un homme s’est levé et a dit : « Ô Messager d’Allah (ﷺ) ! Aujourd’hui, la viande est très recherchée. » Il a ensuite parlé de ses voisins et a ajouté : « J’ai un bélier de six mois qui, pour moi, vaut mieux que la viande de deux moutons. » Le Prophète (ﷺ) lui a permis de le sacrifier comme offrande, mais je ne sais pas si cette permission valait aussi pour d’autres personnes. Ensuite, le Prophète (ﷺ) est allé vers deux béliers et les a sacrifiés, puis les gens sont allés vers des moutons et les ont partagés entre eux",
+          "id": "Telah menceritakan kepada kami [Shadaqah] telah mengabarkan kepada kami [Ibnu 'Ulayyah] dari [Ayyub] dari [Ibnu Sirin] dari [Anas bin Malik] dia berkata; pada hari raya kurban, Nabi shallallahu 'alaihi wasallam pernah bersabda: \"Barangsiapa menyembelih binatang kurban sebelum shalat (ied), hendaknya ia mengulangi lagi.\" Lalu ada seorang laki-laki yang berdiri sambil bertanya; \"Wahai Rasulullah, Sesungguhnya hari ini adalah hari di bagi-bagikannya daging kurban, -lalu ia menyebutkan sebagian para tetangganya- sementara aku hanya memiliki jad'ah (anak kambing yang berusia dua tahun) yang lebih banyak dagingnya daripada dua ekor kambing biasa.\" Maka beliau memberi keringanan kepadanya untuk berkurban dengan kambing tersebut, aku tidak tahu apakah keringanan tersebut juga untuk yang lain atau tidak. Setelah itu Nabi shallallahu 'alaihi wasallam pergi menuju dua ekor kambing dan menyembelihnya, lalu orang-orang pun pergi menuju sekumpulan kambing dan membagi-bagikannya",
+          "tr": "Enes b. Malik r.a.'den, dedi ki: \"Nebi Sallallahu Aleyhi ve Sellem nahr (kurban bayramı birinci) günü: Her kim namazdan önce kurban kesmişse onu tekrar etsin, diye buyurdu. Bir adam ayağa kalkarak: Ey Allah'ın Resulü, bu canın eti çektiği bir gündür, dedi ve komşularını söz konusu ederek: Yanımda bir yaşını bitirmemiş bir dişi keçi vardır ve bu etli iki koyundan daha iyidir, dedi. Bu hususta Nebi ona ruhsat verdi, ama bu ruhsat onun dışındakileri de kapsadı mı kapsamadı mı bilemiyorum. Daha sonra Nebi Sallallahu Aleyhi ve Sellem iki koçun yanına giderek onları kesti. İnsanlar da birkaç koyunluk küçük bir sürünün yanına vardı ve onu (aralarında) dağıttılar -ya da: Hisseler halinde paylaştırdılar. -\" Fethu'l-Bari Açıklaması: \"Kurban kesme günü canın et çekmesi.\" Bu husustaki adete uyarak kurban bayramı et yemek suretiyle lezzet alınması demektir. Şanı yüce Allah da: \"Ta ki belirli günlerde Allah'ın kendilerine rızık olarak verdiği kurban edilen hayvanlar üzerineAllah'ın adını ansınlar.\"(Hac, 28) diye buyurmaktadır. \"Birkaç koyunluk bir sürünün yanına gittiler, onu kendi aralarında dağıttılar -yahut kendi aralarında paylaştırdılar- dedi.\" Bu, raviden kaynaklanan bir şüphedir. Birincisi tevzi etmek, dağıtmak anlamındadır. İkincisi ise kesip hisseler halinde bölüştürmek demektir. Maksat koyunları kestikten sonra herkesin bir parça et alarak paylaştırdıklarını söylemek değildir. Maksat herkesin koyunlardan bir pay aldığını anlatmaktır. Çünkü \"parça\" her şeyden düşen pay hakkında kullanılır"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 73,
+        "hadith": 5
+      },
+      "narrator": {
+        "en": "Anas bin Malik"
+      }
+    },
+    {
+      "hadithNumber": 5550,
+      "arabicNumber": 5550,
+      "book": 73,
+      "hadithInBook": 6,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ سَلاَمٍ، حَدَّثَنَا عَبْدُ الْوَهَّابِ، حَدَّثَنَا أَيُّوبُ، عَنْ مُحَمَّدٍ، عَنِ ابْنِ أَبِي بَكْرَةَ، عَنْ أَبِي بَكْرَةَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\"‏ الزَّمَانُ قَدِ اسْتَدَارَ كَهَيْئَتِهِ يَوْمَ خَلَقَ اللَّهُ السَّمَوَاتِ وَالأَرْضَ، السَّنَةُ اثْنَا عَشَرَ شَهْرًا، مِنْهَا أَرْبَعَةٌ حُرُمٌ، ثَلاَثٌ مُتَوَالِيَاتٌ ذُو الْقَعْدَةِ وَذُو الْحِجَّةِ وَالْمُحَرَّمُ، وَرَجَبُ مُضَرَ الَّذِي بَيْنَ جُمَادَى وَشَعْبَانَ، أَىُّ شَهْرٍ هَذَا ‏\"‏‏.‏ قُلْنَا اللَّهُ وَرَسُولُهُ أَعْلَمُ‏.‏ فَسَكَتَ حَتَّى ظَنَنَّا أَنَّهُ سَيُسَمِّيهِ بِغَيْرِ اسْمِهِ، قَالَ ‏\"‏ أَلَيْسَ ذَا الْحِجَّةِ ‏\"‏‏.‏ قُلْنَا بَلَى‏.‏ قَالَ ‏\"‏ أَىُّ بَلَدٍ هَذَا ‏\"‏‏.‏ قُلْنَا اللَّهُ وَرَسُولُهُ أَعْلَمُ‏.‏ فَسَكَتَ حَتَّى ظَنَنَّا أَنَّهُ سَيُسَمِّيهِ بِغَيْرِ اسْمِهِ، قَالَ ‏\"‏ أَلَيْسَ الْبَلْدَةَ ‏\"‏‏.‏ قُلْنَا بَلَى‏.‏ قَالَ ‏\"‏ فَأَىُّ يَوْمٍ هَذَا ‏\"‏‏.‏ قُلْنَا اللَّهُ وَرَسُولُهُ أَعْلَمُ، فَسَكَتَ حَتَّى ظَنَنَّا أَنَّهُ سَيُسَمِّيهِ بِغَيْرِ اسْمِهِ قَالَ ‏\"‏ أَلَيْسَ يَوْمَ النَّحْرِ ‏\"‏‏.‏ قُلْنَا بَلَى‏.‏ قَالَ ‏\"‏ فَإِنَّ دِمَاءَكُمْ وَأَمْوَالَكُمْ ـ قَالَ مُحَمَّدٌ وَأَحْسِبُهُ قَالَ ـ وَأَعْرَاضَكُمْ عَلَيْكُمْ حَرَامٌ كَحُرْمَةِ يَوْمِكُمْ هَذَا، فِي بَلَدِكُمْ هَذَا فِي شَهْرِكُمْ، وَسَتَلْقَوْنَ رَبَّكُمْ فَيَسْأَلُكُمْ عَنْ أَعْمَالِكُمْ، أَلاَ فَلاَ تَرْجِعُوا بَعْدِي ضُلاَّلاً، يَضْرِبُ بَعْضُكُمْ رِقَابَ بَعْضٍ، أَلاَ لِيُبَلِّغِ الشَّاهِدُ الْغَائِبَ، فَلَعَلَّ بَعْضَ مَنْ يَبْلُغُهُ أَنْ يَكُونَ أَوْعَى لَهُ مِنْ بَعْضِ مَنْ سَمِعَهُ ـ وَكَانَ مُحَمَّدٌ إِذَا ذَكَرَهُ قَالَ صَدَقَ النَّبِيُّ صلى الله عليه وسلم ثُمَّ قَالَ ـ أَلاَ هَلْ بَلَّغْتُ أَلاَ هَلْ بَلَّغْتُ ‏\"‏‏.‏",
+        "translations": {
+          "en": "Narrated Abu Bakra:The Prophet (ﷺ) said, \"Time has come back to its original state which it had on the day Allah created the Heavens and the Earth. The year is twelve months, four of which are sacred, three of them are in succession, namely Dhul-Qa'da, Dhul Hijja and Muharram, (the fourth being) Rajab Mudar which is between Juma'da (ath-thamj and Sha'ban. The Prophet (ﷺ) then asked, \"Which month is this?\" We said, \"Allah and his Apostle know better.\" He kept silent so long that we thought that he would call it by a name other than its real name. He said, \"Isn't it the month of Dhul-Hijja?\" We said, \"Yes.\" He said, \"Which town is this?\" We said, \"Allah and His Apostle know better.\" He kept silent so long that we thought that he would call it t,y a name other than its real name. He said, \"isn't it the town (of Mecca)?\" We replied, \"Yes.\" He said, \"What day is today?\" We replied, \"Allah and His Apostle know better.\" He kept silent so long that we thought that he would call it by a name other than its real name. He said, \"Isn't it the day of Nahr?\" We replied, \"Yes.\" He then said, \"Your blood, properties and honor are as sacred to one another as this day of yours in this town of yours in this month of yours. You will meet your Lord, and He will ask you about your deeds. Beware! Do not go astray after me by cutting the necks of each other. It is incumbent upon those who are present to convey this message to those who are absent, for some of those to whom it is conveyed may comprehend it better than some of those who have heard it directly.\" (Muhammad, the sub-narrator, on mentioning this used to say: The Prophet then said, \"No doubt! Haven't I delivered (Allah's) Message (to you)? Haven't I delivered Allah's message (to you)?",
+          "ur": "ہم سے محمد بن سلام نے بیان کیا، کہا ہم سے عبدالوہاب نے بیان کیا، کہا ہم سے ایوب سختیانی نے بیان کیا، ان سے محمد بن سیرین نے، ان سے ابن ابی بکرہ نے اور ان سے ابوبکر رضی اللہ عنہ نے کہ نبی کریم صلی اللہ علیہ وسلم نے فرمایا کہ زمانہ پھر کر اسی حالت پر آ گیا ہے جس حالت پر اس دن تھا جس دن اللہ تعالیٰ نے آسمان و زمین پیدا کئے تھے۔ سال بارہ مہینہ کا ہوتا ہے ان میں چار حرمت کے مہینے ہیں، تین پے در پے ذی قعدہ، ذی الحجہ اور محرم اور ایک مضر کا رجب جو جمادی الاخریٰ اور شعبان کے درمیان میں پڑتا ہے۔ ( پھر آپ صلی اللہ علیہ وسلم نے دریافت فرمایا ) یہ کون سا مہینہ ہے، ہم نے عرض کیا اللہ اور اس کے رسول زیادہ جانتے ہیں۔ آپ صلی اللہ علیہ وسلم خاموش ہو گئے۔ ہم نے سمجھا کہ شاید نبی کریم صلی اللہ علیہ وسلم اس کا کوئی اور نام رکھیں گے لیکن آپ صلی اللہ علیہ وسلم نے فرمایا کیا یہ ذی الحجہ نہیں ہے؟ ہم نے عرض کیا ذی الحجہ ہی ہے۔ پھر فرمایا یہ کون سا شہر ہے؟ ہم نے کہا کہ اللہ اور اس کے رسول کو اس کا زیادہ علم ہے۔ پھر نبی کریم صلی اللہ علیہ وسلم خاموش ہو گئے اور ہم نے سمجھا کہ شاید آپ اس کا کوئی اور نام رکھیں گے لیکن آپ صلی اللہ علیہ وسلم نے فرمایا کیا یہ بلدہ ( مکہ مکرمہ ) نہیں ہے؟ ہم نے عرض کیا کیوں نہیں۔ پھر آپ صلی اللہ علیہ وسلم نے دریافت فرمایا یہ دن کون سا ہے؟ ہم نے عرض کیا کہ اللہ اور اس کے رسول کو اس کا بہتر علم ہے۔ نبی کریم صلی اللہ علیہ وسلم خاموش ہو گئے اور ہم نے سمجھا کہ آپ اس کا کوئی اور نام تجویز کریں گے لیکن آپ صلی اللہ علیہ وسلم نے فرمایا کیا یہ قربانی کا دن ( یوم النحر ) نہیں ہے؟ ہم نے عرض کیا کیوں نہیں! پھر آپ صلی اللہ علیہ وسلم نے فرمایا پس تمہارا خون، تمہارے اموال۔ محمد بن سیرین نے بیان کیا کہ میرا خیال ہے کہ ( ابن ابی بکرہ نے ) یہ بھی کہا کہ اور تمہاری عزت تم پر ( ایک کی دوسرے پر ) اس طرح باحرمت ہیں جس طرح اس دن کی حرمت تمہارے اس شہر میں اور اس مہینہ میں ہے اور عنقریب اپنے رب سے ملو گے اس وقت وہ تم سے تمہارے اعمال کے بارے میں سوال کرے گا آ گاہ ہو جاؤ میرے بعد گمراہ نہ ہو جانا کہ تم میں سے بعض بعض دوسرے کی گردن مارنے لگے۔ ہاں جو یہاں موجود ہیں وہ ( میرا یہ پیغام ) غیر موجود لوگوں کو پہنچا دیں۔ ممکن ہے کہ بعض وہ جنہیں یہ پیغام پہنچایا جائے بعض ان سے زیادہ اسے محفوظ کرنے والے ہوں جو اسے سن رہے ہیں۔ اس پر محمد بن سیرین کہا کرتے تھے کہ نبی کریم صلی اللہ علیہ وسلم نے سچ فرمایا۔ پھر نبی کریم صلی اللہ علیہ وسلم نے فرمایا کہ آگاہ ہو جاؤ کیا میں نے ( اس کا پیغام تم کو ) پہنچا دیا ہے۔ آگاہ ہو جاؤ کیا میں نے پہنچا دیا ہے؟",
+          "fr": "Rapporté par Abu Bakra : Le Prophète (ﷺ) a dit : « Le temps est revenu à son état d’origine, comme il était le jour où Allah a créé les cieux et la terre. L’année compte douze mois, dont quatre sont sacrés. Trois d’entre eux se suivent : Dhul-Qa'da, Dhul-Hijja et Muharram, et le quatrième est Rajab Mudar, qui se trouve entre Juma'da ath-thani et Sha'ban. » Le Prophète (ﷺ) demanda alors : « Quel est ce mois ? » Nous avons répondu : « Allah et Son Messager savent mieux. » Il garda le silence si longtemps que nous avons cru qu’il allait lui donner un autre nom. Il dit : « N’est-ce pas le mois de Dhul-Hijja ? » Nous avons répondu : « Oui. » Il dit : « Quelle est cette ville ? » Nous avons répondu : « Allah et Son Messager savent mieux. » Il resta silencieux si longtemps que nous avons cru qu’il allait lui donner un autre nom. Il dit : « N’est-ce pas la ville (de La Mecque) ? » Nous avons répondu : « Oui. » Il dit : « Quel jour sommes-nous aujourd’hui ? » Nous avons répondu : « Allah et Son Messager savent mieux. » Il garda le silence si longtemps que nous avons cru qu’il allait lui donner un autre nom. Il dit : « N’est-ce pas le jour du sacrifice ? » Nous avons répondu : « Oui. » Il dit alors : « Votre sang, vos biens et votre honneur sont sacrés entre vous, comme ce jour-ci, dans cette ville-ci, en ce mois-ci. Vous rencontrerez votre Seigneur, et Il vous interrogera sur vos actions. Faites attention ! Ne vous égarez pas après moi en vous entre-tuant. Ceux qui sont présents doivent transmettre ce message à ceux qui sont absents, car certains de ceux à qui il sera transmis le comprendront peut-être mieux que certains de ceux qui l’ont entendu directement. » (Muhammad, le sous-narrateur, en mentionnant cela, disait : Le Prophète a ensuite dit : « N’ai-je pas transmis le Message d’Allah ? N’ai-je pas transmis le Message d’Allah ? »)",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Salam] telah menceritakan kepada kami [Abdul Wahab] telah menceritakan kepada kami [Ayyub] dari [Muhammad] dari [Ibnu Abu Bakrah] dari [Abu Bakrah] radliallahu 'anhu dari Nabi shallallahu 'alaihi wasallam beliau bersabda: \"Sesungguhnya zaman itu terus berputar sama seperti saat Allah menciptakan langit dan bumi, setahun ada dua belas bulan, dan empat di antaranya adalah bulan-bulan haram, dan tiga di antaranya adalah bulan-bulan yang berurutan yaitu; Dzul Qa'dah, Dzul Hijjah, Muharram dan Rajab. Sedangkan bulan Rajab adalah bulan Mudzar yaitu bulan yang terletak antara Jumadil Akhir dan Sya'ban.\" (beliau bertanya): \"Bulan apakah sekarang ini?\" kami menjawab; \"Allah dan Rasul-Nya yang lebih mengetahui.\" Beliau terdiam beberapa saat, hingga kami menduga bahwa beliau akan menyebutnya dengan nama yang lain, lalu beliau bersabda: \"Bukankah sekarang bulan Dzul Hijjah?\" kami menjawab; \"Benar.\" Beliau bertanya lagi: \"Negeri apakah ini?\" kami menjawab; \"Allah dan Rasul-Nya yang lebih mengetahui.\" Beliau terdiam beberapa saat, hingga kami menduga beliau akan menyebutnya dengan nama yang lain, lalu beliau bersabda: \"Bukankah sekarang kita berada di negeri Baldah?\" kami menjawab; \"Benar.\" Beliau kembali bertanya: \"Hari apakah ini?\" kami menjawab; \"Allah dan Rasul-Nya yang lebih mengetahui.\" Beliau terdiam beberapa saat, hingga kami mengira beliau akan menyebutnya dengan nama yang lain. Kemudian beliau bersabda: \"Bukankah sekarang adalah hari Nahr (kurban)?\" kami menjawab; \"Benar.\" Beliau kemudian bersabda: \"Sesungguhnya darah kalian, harta bendamu -Muhammad berkata; saya kira beliau juga bersabda: dan kehormatan kalian- adalah haram atas diri kalian, seperti haramnya harimu sekarang ini, di negerimu ini, dan di bulan kalian ini. Sesungguhnya kalian pasti akan bertemu dengan Rabb kalian (di hari kiamat kelak), dan Dia akan menanyakan tentang semua amal perbuatan kalian. Oleh karena itu, sepeninggalku nanti, janganlah kalian kembali kepada kesesatan -dimana sebagian dari kalian membunuh sebagian yang lain-, hendaknya orang yang hadir pada saat ini menyampaikan kepada orang yang tidak hadir! bisa jadi orang yang mendengar dari mulut kedua justru lebih menjaga apa-apa yang di dengarnya daripada orang yang mendengarnya secara langsung.\" Sedangkan apabila Muhammad menyebutkan hadits tersebut, dia berkata; \"Nabi shallallahu 'alaihi wasallam benar.\" Setelah itu beliau bersabda: \"Bukankah aku telah menyampaikannya, bukankah aku telah menyampaikannya?! Hingga dua kali",
+          "tr": "Muhammed b. Ebi Bekre'den, o Ebu. Bekre r.a.'dan, o Nebi Sallallahu Aleyhi ve Sellem'den şöyle buyurduğunu nakletmektedir: \"Şüphesiz zaman Allahlın gökleri ve yeri yarattığı günkü haline dönüp gelmiş bulunuyor. Sene on iki aydır. Bunlardan dört ay haram aylardır. Bunların da üçü Zülkade, Zülhicce ve Muharrem arka arkaya gelirler. Dördüncüleri ise Cumada ile Şaban arasındaki Mudarlıların (tazim ettikleri) Receb ayıdır. Bu ay hangi aydır? Bizler: Allah ve Rasulü daha iyi bilir, dedik. Allah Rasulü, bu aya isminden başka bir isim vereceğini zannettirecek kadar sustu. Daha sonra: Bu Zülhicce ayı değil midir, diye sordu. Biz: Evet, Zülhiccedir, dedik. Sonra: Bu belde hangi beldedir, diye sordu. Bizler: Allah ve Rasulü daha iyi bilir, dedik. Ona isminden başka bir isim verecek diye zannettirinceye kadar sustu. Daha sonra: Bu o belde (Mekke) değil midir, diye sordu. Biz: Evet, dedik. Daha sonra: Peki bugün hangi gündür, diye sordu. Biz: Allah ve Rasulü daha iyi bilir, dedik. Ona isminden başka bir isim verecek diye zannettirecek kadar sustu. Sonra: Bu nahr günü değil midir, diye sordu. Biz: Evet dedik. Devamla şöyle buyurdu: Şüphesiz sizin kanlarınız ve mallannız -(ravilerden) Muhammed (b. SMn) dedi ki: Zannederim Muhammed b. Ebi Bekre: Ve ırzlarınız da dedi- size bugününüzün bu beldenizde, bu ayınızda haram oluşu gibi haramdır. Yakında Rabbinizin huzuruna çıkacaksınız. Size amellerinize dair soru soracaktır. Dikkat edin! Benden sonra birbirinizin boynunu vuran dalalete düşmüş kimseler olarak gerisin geri dönmeyiniz. Dikkat edin! Burada hazır bulunan, bulunmayana tebliğ etsin. Olur ki kendisine bu tebliğin ulaştığı bir kimse, bunu bizzat işiten bazı kimselerden o tebliği daha iyi bilebilir. -Muhammed (b. SIr1n) bunu zikrettiği vakit: Nebi Sallallahu Aleyhi ve Sellem doğru söylemiştir, derdi.- Daha sonra Allah Rasulü: Dikkat edin! Tebliğ ettim mi? Dikkat edin! Tebliğ ettim mi, diye buyurdu.\" Fethu'l-Bari Açıklaması: \"el-Adha, nahr günüdür diyen\" İbnu't-Tln dedi ki: Bundan maksadı bütün bölgelerde udhiyelerin (kurbanlıkların) nahr edildiği (kesildiği) gün demektir. Bununla özel olarak ancak o günde kurbanlıkların kesildiğini kastetmektedir, denilmiştir. Malik şunu da eklemektedir: Ondan (yani Nahr gününden) sonraki iki günde de kurban kesilir. Şafii dördüncü günü de eklemiştir. Ayrıca (İbnu't-TIn) on gün boyunca kurban kesildiği de söylenmiştir, demiş; fakat bunu muayyen bir kişiye nispet etmemiştir. Ayın sonuna kadar kurban kesileceği de söylenmiştir. Bu görüş ise Ömer b. Abdulaziz, Ebu Seleme b. Abdurrahman, Süleyman b. Yesar ve daha başkalarından da nakledilmiştir. İbn Hazm da süre kaydı getiren bir nassın varid olmayışına dayanarak bu görüşü ifade etmiştir"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 73,
+        "hadith": 6
+      },
+      "narrator": {
+        "en": "Abu Bakra"
+      }
+    },
+    {
+      "hadithNumber": 5551,
+      "arabicNumber": 5551,
+      "book": 73,
+      "hadithInBook": 7,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ أَبِي بَكْرٍ الْمُقَدَّمِيُّ، حَدَّثَنَا خَالِدُ بْنُ الْحَارِثِ، حَدَّثَنَا عُبَيْدُ اللَّهِ، عَنْ نَافِعٍ، قَالَ كَانَ عَبْدُ اللَّهِ يَنْحَرُ فِي الْمَنْحَرِ‏.‏ قَالَ عُبَيْدُ اللَّهِ يَعْنِي مَنْحَرَ النَّبِيِّ صلى الله عليه وسلم‏.‏",
+        "translations": {
+          "en": "Narrated Nafi': 'Abdullah (bin 'Umar) used to slaughter his sacrifice at the slaughtering place (i.e the slaughtering place of the Prophet (ﷺ)",
+          "ur": "ہم سے محمد بن ابی بکر مقدمی نے بیان کیا، کہا ہم سے خالد بن حارث نے بیان کیا، کہا ہم سے عبیداللہ نے بیان کیا اور ان سے نافع نے بیان کیا کہ عبداللہ بن عمر رضی اللہ عنہما قربان گاہ میں نحر کیا کرتے تھے اور عبیداللہ نے بیان کیا کہ مراد وہ جگہ ہے جہاں نبی کریم صلی اللہ علیہ وسلم قربانی کرتے تھے۔",
+          "fr": "Rapporté par Nafi' : 'Abdullah (bin 'Umar) avait l’habitude de faire son sacrifice à l’endroit où le Prophète (ﷺ) faisait le sien",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Abu Bakr Al Muqaddami] telah menceritakan kepada kami [Khalid bin Al Harits] telah menceritakan kepada kami ['Ubaidullah] dari [Nafi'] dia berkata; bahwa [Abdullah] pernah menyembelih binatang kurban di tempat penyembelihan, Ubaidullah mengatakan; \"Yaitu di tempat yang biasa digunakan Nabi shallallahu 'alaihi wasallam untuk menyembelih binatang kurban",
+          "tr": "Nafi'den, dedi ki: \"Abdullah menhar (denilen nahr yerinde) kurbanını kesereii.\" Ubeydullah da: Nebi Sallallahu Aleyhi ve Sellem'in menharını (kurbanını kestiği yeri) kastetmektedir, demiştir"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 73,
+        "hadith": 7
+      },
+      "narrator": {
+        "en": "Nafi'"
+      }
+    },
+    {
+      "hadithNumber": 5552,
+      "arabicNumber": 5552,
+      "book": 73,
+      "hadithInBook": 8,
+      "text": {
+        "arabic": "حَدَّثَنَا يَحْيَى بْنُ بُكَيْرٍ، حَدَّثَنَا اللَّيْثُ، عَنْ كَثِيرِ بْنِ فَرْقَدٍ، عَنْ نَافِعٍ، أَنَّ ابْنَ عُمَرَ ـ رضى الله عنهما ـ أَخْبَرَهُ قَالَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَذْبَحُ وَيَنْحَرُ بِالْمُصَلَّى‏.‏",
+        "translations": {
+          "en": "Ibn 'Umar said, \"Allah's Messenger (ﷺ) used to slaughter (camels and sheep, etc.,) as sacrifices at the Musalla",
+          "ur": "ہم سے یحییٰ بن بکیر نے بیان کیا، کہا ہم سے لیث نے بیان کیا، ان سے کثیر بن فرقد نے، ان سے نافع نے اور انہیں عبداللہ بن عمر رضی اللہ عنہما نے خبر دی کہ رسول اللہ صلی اللہ علیہ وسلم ( قربانی ) ذبح اور نحر عیدگاہ میں کیا کرتے تھے۔",
+          "fr": "Rapporté par Ibn 'Umar : Le Messager d’Allah (ﷺ) avait l’habitude de sacrifier (des chameaux, des moutons, etc.) à la Musalla",
+          "id": "Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami [Al Laits] dari [Katsir bin Farqad] dari [Nafi'] bahwa [Ibnu Umar] radliallahu 'anhuma telah mengabarkan kepadanya, dia berkata; \"Rasulullah shallallahu 'alaihi wasallam biasa menyembelih binatang kurban di tempat yang di gunakan untuk shalat (ied)",
+          "tr": "Nafi'den rivayete göre İbn Ömer r.a. kendisine haber vererek: \"Resulullah Sallallahu Aleyhi ve Sellem küçük Baş kurbanlıklarını da, develeri de musallada keserdi\" demiştir. Fethu'l-Bari Açıklaması: \"el-Adha (bayram namazı) ve nahr (kurban kesmek) musallada olur.\" İbn Battal dedi ki: Bu Malik'e göre özellikle imamın yerine getirmesi gereken bir sünnettir. İbn Vehb'in rivayetine göre de Maıik şöyle demiştir: İmamın bunu yapması, kimsenin ondan önce kurbanlığını kesmemesi içindir. el-Mühelleb de: Ondan sonra da kesin olarak kendilerinin (cemaatin) kurbanlıklannı kesmeleri ve ondan kesmenin niteliğini öğrenmeleri içindir, diye eklemiştir"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 73,
+        "hadith": 8
+      }
+    },
+    {
+      "hadithNumber": 5553,
+      "arabicNumber": 5553,
+      "book": 73,
+      "hadithInBook": 9,
+      "text": {
+        "arabic": "حَدَّثَنَا آدَمُ بْنُ أَبِي إِيَاسٍ، حَدَّثَنَا شُعْبَةُ، حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ صُهَيْبٍ، قَالَ سَمِعْتُ أَنَسَ بْنَ مَالِكٍ ـ رضى الله عنه ـ قَالَ كَانَ النَّبِيُّ صلى الله عليه وسلم يُضَحِّي بِكَبْشَيْنِ وَأَنَا أُضَحِّي بِكَبْشَيْنِ‏.‏",
+        "translations": {
+          "en": "Narrated Anas bin Malik:The Prophet (ﷺ) used to offer two rams as sacrifices, and I also used to offer two rams",
+          "ur": "ہم سے آدم بن ابی ایاس نے بیان کیا، انہوں نے کہا ہم سے شعبہ نے بیان کیا، ان سے عبدالعزیز بن صہیب نے بیان کیا، انہوں نے انس بن مالک رضی اللہ عنہ سے سنا کہ انہوں نے بیان کیا کہ نبی کریم صلی اللہ علیہ وسلم دو مینڈھوں کی قربانی کرتے تھے اور میں بھی دو مینڈھوں کی قربانی کرتا تھا۔",
+          "fr": "Rapporté par Anas bin Malik : Le Prophète (ﷺ) offrait deux béliers en sacrifice, et moi aussi j’offrais deux béliers",
+          "id": "Telah menceritakan kepada kami [Adam bin Abu Iyyas] telah menceritakan kepada kami [Syu'bah] telah menceritakan kepada kami [Abdul Aziz bin Shuhaib] dia berkata; saya mendengar [Anas bin Malik] radliallahu 'anhu berkata; Nabi shallallahu 'alaihi wasallam berkurban dengan dua ekor domba, sementara aku juga berkurban dengan dua ekor domba",
+          "tr": "Enes b. Malik r.a.'dan, dedi ki: \"Nebi Sallallahu Aleyhi ve Sellem boynuzlu iki koç kurban ederdi. Ben de iki koç kurban ediyorum. \" Bu Hadis Hadis 5554, 5558, 5564, 5565, 7399 numaralarda da geçiyor"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 73,
+        "hadith": 9
+      },
+      "narrator": {
+        "en": "Anas bin Malik"
+      }
+    },
+    {
+      "hadithNumber": 5554,
+      "arabicNumber": 5554,
+      "book": 73,
+      "hadithInBook": 10,
+      "text": {
+        "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا عَبْدُ الْوَهَّابِ، عَنْ أَيُّوبَ، عَنْ أَبِي قِلاَبَةَ، عَنْ أَنَسٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم انْكَفَأَ إِلَى كَبْشَيْنِ أَقْرَنَيْنِ أَمْلَحَيْنِ فَذَبَحَهُمَا بِيَدِهِ‏.‏ تَابَعَهُ وُهَيْبٌ عَنْ أَيُّوبَ‏.‏ وَقَالَ إِسْمَاعِيلُ وَحَاتِمُ بْنُ وَرْدَانَ عَنْ أَيُّوبَ عَنِ ابْنِ سِيرِينَ عَنْ أَنَسٍ‏.‏",
+        "translations": {
+          "en": "Narrated Anas:Allah's Messenger (ﷺ) came towards two horned rams having black and white colors and slaughtered them with his own hands",
+          "ur": "ہم سے قتیبہ بن سعید نے بیان کیا، کہا ہم سے عبدالوہاب نے بیان کیا، ان سے ایوب نے، ان سے ابوقلابہ نے اور ان سے انس رضی اللہ عنہ نے کہ رسول اللہ صلی اللہ علیہ وسلم سینگ والے دو چتکبرے مینڈھوں کی طرف متوجہ ہوئے اور انہیں اپنے ہاتھ سے ذبح کیا۔ اس کی متابعت وہیب نے کی، ان سے ایوب نے اور اسماعیل اور حاکم بن وردان نے بیان کیا کہ ان سے ایوب نے، ان سے محمد بن سیرین نے اور ان سے انس رضی اللہ عنہ نے بیان کیا۔",
+          "fr": "Rapporté par Anas : Le Messager d’Allah (ﷺ) est venu vers deux béliers à cornes, noirs et blancs, et il les a sacrifiés de ses propres mains",
+          "id": "Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Abdul Wahab] telah menceritakan kepada kami [Ayyub] dari [Abu Qilabah] dari [Anas] bahwa Rasulullah shallallahu 'alaihi wasallam pergi menuju dua ekor domba yang warna putihnya lebih banyak di banding warna hitamnya dan bertanduk, lalu beliau menyembelih domba tersebut dengan tangannya sendiri.\" Hadits ini juga di kuatkan oleh riwayat [Wuhaib] dari [Ayyub]. [Isma'il] dan [Hatim bin Wardan] juga berkata dari [Ayyub] dari [Ibnu Sirin] dari [Anas]",
+          "tr": "Enes'ten rivayete göre: \"Resulullah Sallallahu Aleyhi ve Sellem boynuzlu, alacalı beyaz iki kaça yöneldi ve onları kendi elleriyle kesti"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 73,
+        "hadith": 10
+      },
+      "narrator": {
+        "en": "Anas"
+      }
+    },
+    {
+      "hadithNumber": 5555,
+      "arabicNumber": 5555,
+      "book": 73,
+      "hadithInBook": 11,
+      "text": {
+        "arabic": "حَدَّثَنَا عَمْرُو بْنُ خَالِدٍ، حَدَّثَنَا اللَّيْثُ، عَنْ يَزِيدَ، عَنْ أَبِي الْخَيْرِ، عَنْ عُقْبَةَ بْنِ عَامِرٍ ـ رضى الله عنه أَنَّ النَّبِيَّ صلى الله عليه وسلم أَعْطَاهُ غَنَمًا يَقْسِمُهَا عَلَى صَحَابَتِهِ ضَحَايَا، فَبَقِيَ عَتُودٌ فَذَكَرَهُ لِلنَّبِيِّ صلى الله عليه وسلم فَقَالَ ‏ \"‏ ضَحِّ أَنْتَ بِهِ ‏\"‏‏.‏",
+        "translations": {
+          "en": "Narrated `Uqba bin 'Amir:that the Prophet (ﷺ) gave him some sheep to distribute among his companions to slaughter as sacrifices (`Id--al--Adha). A kid goat was left and he told the Prophet (ﷺ) of that whereupon he said to him, \"Slaughter it as a sacrifice (on your behalf)",
+          "ur": "ہم سے عمرو بن خالد نے بیان کیا، کہا ہم سے لیث نے بیان کیا، ان سے یزید نے، ان سے ابوالخیر نے اور ان سے عقبہ بن عامر رضی اللہ عنہ نے کہ نبی کریم صلی اللہ علیہ وسلم نے اپنے صحابہ میں تقسیم کرنے کے لیے آپ کو کچھ قربانی کی بکریاں دیں انہوں نے انہیں تقسیم کیا پھر ایک سال سے کم کا ایک بچہ بچ گیا تو انہوں نے نبی کریم صلی اللہ علیہ وسلم سے اس کا تذکرہ کیا۔ نبی کریم صلی اللہ علیہ وسلم نے فرمایا کہ اس کی قربانی تم کر لو۔",
+          "fr": "Rapporté par `Uqba bin 'Amir : Le Prophète (ﷺ) lui a donné des moutons à distribuer à ses compagnons pour les sacrifier lors de l’Aïd al-Adha. Il restait un chevreau et il en a informé le Prophète (ﷺ), qui lui a dit : « Sacrifie-le pour toi. »",
+          "id": "Telah menceritakan kepada kami [Amru bin Khalid] telah menceritakan kepada kami [Al Laits] dari [Yazid] dari [Abu Al Khair] dari ['Uqbah bin 'Amir] radliallahu 'anhu bahwa Nabi shallallahu 'alaihi wasallam pernah menyerahkan sejumlah kambing kepadanya untuk dibagi-bagikan kepada para sahabat beliau sebagai binatang kurban, setelah dibagi-bagikan ternyata masih tinggal seekor anak kambing yang masih sangat muda, lalu hal itu diberitahukan kepada Nabi shallallahu 'alaihi wasallam, maka beliau bersabda: \"Berkurbanlah kamu dengan kambing tersebut",
+          "tr": "Ukbe b. Amir r.a.'dan rivayete göre; \"Nebi Sallallahu Aleyhi ve Sellem kendisine kurban olarak kesi\\mek üzere ashabına paylaştırması için bir miktar koyun verdi. Geriye bir yaşını bitirmiş bir keçi kaldı. Bunu Nebi Sallallahu Aleyhi ve Sellem'e söyleyince, Allah Rasulü: Onu da sen kurban olarak kes, diye buyurdu.\" Fethu'l-Bari Açıklaması: Bunun Abdurrezzak tarafından Musannefinde Ebu Seleme'den, o Aişe'den yahut Ebu Hureyre'den diye rivayet ettiği bir başka rivayet yolu daha vardır. \"Nebi Sallallahu Aleyhi ve Sellem kurban kesmek istedi mi büyük, semiz, boynuzlu, beyaz alacalı, burulmuş iki koç satın alırdı. Bunlardan birisini Muhammed ve Muhammed'in aile halkı adına, diğerini de Allah'ın vahdaniyetine, kendisinin de tebliğ ettiğine şahitlik eden ümmeti adına keserdi.\" Ebu Davud bir başka yoldan, Cabir'den şu rivS.yeti nakletmektedir: \"Nebi Sallallahu Aleyhi ve Sellem boynuzlu, beyaz alacalı ve burulmuş iki koç kesti.\" el-Hattabi dedi ki: Burulmuş: Husyeleri alınmış demektir. Burmak (el-vica) husyeleri almak anlamındadır. Hadisten Çıkarılan Sonuçlar 1- Burulmuş koçun kurban edilmesi caizdir. Bir organın eksikliği dolayısıyla bazı ilim adamlarıbunu mekruh görmüş iseler de bu bir kusur değildir. Çünkü burmanın, etin lezzetini artırıcı bir faydası vardır. Ayrıca hayvanın kötü ve pis kokusunu da giderir. 2- Kurban kesecek olanın bizzatkurbanlığını kesmesi müstehaptır. 3- Hadis ayrıca nitelik ve rengi itibariyle kurbanlığın güzel seçilmesinin meşruiyetine de delil gösterilmiştir. \"Geriye bir yaşını bitirmiş bir keçi kaldı.\" Bu anlamdaki \"atud\" lafzı güçlü, merada otlamış ve bir yaşını tamamlamış keçi yavrularına denilir. \"Onu da sen kurban kes, diye buyurdu.\" Musannıf bu başlıkta -ki Nebi Sallallahu Aleyhi ve Sellem'in iki koçu kurbanlık etmesi ile ilgilidir- Ukbe'nin rivayet ettiği bu hadisi zikretmekle, belirtilen şekilde kurban kesmenin vücub değil, bir ihtiyar (muhayyerlik) ifade ettiğine dair delil göstermek istemiş gibidir. Bu sebeple tek bir kurbanlık, kesen için de yeterli oluı:. Daha fazlasını kesen olursa bu da hayırlıdır. Fakat en faziletli olan ise, iki koç kurban etmek suretiyle Nebi'e tabi olmaktır. Etin çokluğunu göz önünde bulundl!ran kimseler ise -Şafil gibi-; en faziletlisi deve, sonra koyun türü, sonra da inektir, derler"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 73,
+        "hadith": 11
+      },
+      "narrator": {
+        "en": "`Uqba bin 'Amir"
+      }
+    },
+    {
+      "hadithNumber": 5556,
+      "arabicNumber": 5556,
+      "book": 73,
+      "hadithInBook": 12,
+      "text": {
+        "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا خَالِدُ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا مُطَرِّفٌ، عَنْ عَامِرٍ، عَنِ الْبَرَاءِ بْنِ عَازِبٍ ـ رضى الله عنهما ـ قَالَ ضَحَّى خَالٌ لِي يُقَالُ لَهُ أَبُو بُرْدَةَ قَبْلَ الصَّلاَةِ، فَقَالَ لَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ شَاتُكَ شَاةُ لَحْمٍ ‏\"‏‏.‏ فَقَالَ يَا رَسُولَ اللَّهِ إِنَّ عِنْدِي دَاجِنًا جَذَعَةً مِنَ الْمَعَزِ‏.‏ قَالَ ‏\"‏ اذْبَحْهَا وَلَنْ تَصْلُحَ لِغَيْرِكَ ‏\"‏‏.‏ ثُمَّ قَالَ ‏\"‏ مَنْ ذَبَحَ قَبْلَ الصَّلاَةِ فَإِنَّمَا يَذْبَحُ لِنَفْسِهِ، وَمَنْ ذَبَحَ بَعْدَ الصَّلاَةِ فَقَدْ تَمَّ نُسُكُهُ، وَأَصَابَ سُنَّةَ الْمُسْلِمِينَ ‏\"‏‏.‏ تَابَعَهُ عُبَيْدَةُ عَنِ الشَّعْبِيِّ وَإِبْرَاهِيمَ‏.‏ وَتَابَعَهُ وَكِيعٌ عَنْ حُرَيْثٍ عَنِ الشَّعْبِيِّ‏.‏ وَقَالَ عَاصِمٌ وَدَاوُدُ عَنِ الشَّعْبِيِّ عِنْدِي عَنَاقُ لَبَنٍ‏.‏ وَقَالَ زُبَيْدٌ وَفِرَاسٌ عَنِ الشَّعْبِيِّ عِنْدِي جَذَعَةٌ‏.‏ وَقَالَ أَبُو الأَحْوَصِ حَدَّثَنَا مَنْصُورٌ عَنَاقٌ جَذَعَةٌ‏.‏ وَقَالَ ابْنُ عَوْنٍ عَنَاقٌ جَذَعٌ، عَنَاقُ لَبَنٍ‏.‏",
+        "translations": {
+          "en": "Narrated Al-Bara' bin `Azib:An uncle of mine called Abu Burda, slaughtered his sacrifice before the `Id prayer. So Allah's Messenger (ﷺ) said to him, \"Your (slaughtered) sheep was just mutton (not a sacrifice).\" Abu Burda said, \"O Allah's Apostle! I have got a domestic kid goat.\" The Prophet (ﷺ) said, \"Slaughter it (as a sacrifice) but it will not be permissible for anybody other than you\" The Prophet (ﷺ) added, \"Whoever slaughtered his sacrifice before the (`Id) prayer, he only slaughtered for himself, and whoever slaughtered it after the prayer, he offered his sacrifice properly and followed the tradition of the Muslims",
+          "ur": "ہم سے مسدد نے بیان کیا، کہا ہم سے خالد بن عبداللہ نے بیان کیا، کہا ہم سے مطرف نے بیان کیا، ان سے عامر نے اور ان سے براء بن عازب رضی اللہ عنہ نے، انہوں نے بیان کیا کہ میرے ماموں ابوبردہ رضی اللہ عنہ نے عید کی نماز سے پہلے ہی قربانی کر لی تھی۔ نبی کریم صلی اللہ علیہ وسلم نے ان سے فرمایا کہ تمہاری بکری صرف گوشت کی بکری ہے۔ انہوں نے عرض کیا: یا رسول اللہ! میرے پاس ایک سال سے کم عمر کا ایک بکری کا بچہ ہے؟ آپ صلی اللہ علیہ وسلم نے فرمایا کہ تم اسے ہی ذبح کر لو لیکن تمہارے بعد ( اس کی قربانی ) کسی اور کے لیے جائز نہیں ہو گی پھر فرمایا جو شخص نماز عید سے پہلے قربانی کر لیتا ہے وہ صرف اپنے کھانے کو جانور ذبح کرتا ہے اور جو عید کی نماز کے بعد قربانی کرے اس کی قربانی پوری ہوتی ہے اور وہ مسلمانوں کی سنت کو پا لیتا ہے۔ اس روایت کی متابعت عبیدہ نے شعبی اور ابراہیم نے کی اور اس کی متابعت وکیع نے کی، ان سے حریث نے اور ان سے شعبی نے ( بیان کیا ) اور عاصم اور داؤد نے شعبی سے بیان کیا کہ ”میرے پاس ایک دودھ پیتی پٹھیا ہے۔“ اور زبید اور فراس نے شعبی سے بیان کیا کہ ”میرے پاس ایک سال سے کم عمر کا بچہ ہے۔“ اور ابوالاحوص نے بیان کیا، ان سے منصور نے بیان کیا کہ ”ایک سال سے کم کی پٹھیا۔“ اور ابن العون نے بیان کیا کہ ”ایک سال سے کم عمر کی دودھ پیتی پٹھیا ہے۔“",
+          "fr": "Rapporté par Al-Bara' bin `Azib : Un de mes oncles, appelé Abu Burda, a sacrifié son animal avant la prière de l’Aïd. Alors le Messager d’Allah (ﷺ) lui a dit : « Ton mouton n’était que de la viande, pas un sacrifice. » Abu Burda a dit : « Ô Messager d’Allah ! J’ai un chevreau à la maison. » Le Prophète (ﷺ) a dit : « Sacrifie-le (en guise de sacrifice), mais cela ne sera permis à personne d’autre que toi. » Le Prophète (ﷺ) a ajouté : « Celui qui a sacrifié son animal avant la prière n’a fait qu’un sacrifice pour lui-même, et celui qui l’a fait après la prière a accompli le sacrifice comme il faut et a suivi la tradition des musulmans. »",
+          "id": "Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Khalid bin Abdullah] telah menceritakan kepada kami [Muttharif] dari ['Amir] dari [Al Barra` bin 'Azib] radliallahu 'anhu dia berkata; Pamanku yaitu Abu Burdah pernah menyembelih binatang kurban sebelum shalat (ied), maka Rasulullah shallallahu 'alaihi wasallam bersabda kepadanya: \"Kambingmu hanya berupa daging biasa (bukan daging kurban) Lantas pamanku berkata; \"Ya Rasulullah, sesungguhnya aku hanya memiliki seekor jad'ah (anak kambing yang berusia dua tahun).\" Beliau bersabda: \"Berkurbanlah dengan kambing tersebut, namun hal itu tidak sah untuk selain kamu.\" Kemudian beliau melanjutkan sabdanya: \"Barang siapa berkurban sebelum shalat (Iedul Adlha), dia hanya menyembelih untuk dirinya sendiri, dan barang siapa menyembelih setelah shalat (Iedul Adlha), maka sempurnalah ibadahnya dan dia telah melaksanakan sunnah kaum Muslimin dengan tepat.\" Hadits ini diperkuat oleh [Ubaidah] dari [Asy Sya'bi] dan [Ibrahim] dan diperkuat pula oleh [Waki'] dari [Huraits] dari [Asy Sya'bi], dan berkata [Ashim] dan [Daud] dari [Asy Sya'bi], sesungguhnya aku mempunyai kambing perahan. Dan berkata [Zubaid] dan [Firas] dari [Asy Sya'bi], saya mempunyai anak kambing berumur dua tahun, dan berkata [Abu Al Ahwash] telah menceritakan kepada kami [Manshur], kambing perah yang berumur dua tahun. Dan berkata [Ibnu Aun], kambing perah yang berumur dua taun yang diperah susunya",
+          "tr": "Bera b. Azib r.a.'dan, dedi ki:, \"Ebu Burde diye anılan bir dayım bayram namazından önce kurbanını kesti. Rasulullah Sallallahu Aleyhi ve Sellem ona: Senin o kestiğin koyun, et için kesilen bir koyun oldu, diye buyurdu. Ebu Burde: Ey Allah'ın Rasulü, bende evde beslediğim bir yaşını doldurmamış bir keçi oğlağı var, dedi. Allah Rasulü: Onu kes, senden başkası için de,bu uygun düşmez, diye buyurdu. Daha sonra: Her kim bayram namazından önce kurbanını keserse o ancak kendisi için kesmiş olur. Kim de namazdan sonra kurbanını keserse onun kurban ibadeti tamam olur ve müslümanların sünnetine de uygun bir iş yapmış olur, diye ekledi"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 73,
+        "hadith": 12
+      },
+      "narrator": {
+        "en": "Al-Bara' bin `Azib"
+      }
+    },
+    {
+      "hadithNumber": 5557,
+      "arabicNumber": 5557,
+      "book": 73,
+      "hadithInBook": 13,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، عَنْ سَلَمَةَ، عَنْ أَبِي جُحَيْفَةَ، عَنِ الْبَرَاءِ، قَالَ ذَبَحَ أَبُو بُرْدَةَ قَبْلَ الصَّلاَةِ فَقَالَ لَهُ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ أَبْدِلْهَا ‏\"‏‏.‏ قَالَ لَيْسَ عِنْدِي إِلاَّ جَذَعَةٌ ـ قَالَ شُعْبَةُ وَأَحْسِبُهُ قَالَ ـ هِيَ خَيْرٌ مِنْ مُسِنَّةٍ‏.‏ قَالَ ‏\"‏ اجْعَلْهَا مَكَانَهَا، وَلَنْ تَجْزِيَ عَنْ أَحَدٍ بَعْدَكَ ‏\"‏‏.‏ وَقَالَ حَاتِمُ بْنُ وَرْدَانَ عَنْ أَيُّوبَ، عَنْ مُحَمَّدٍ، عَنْ أَنَسٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم وَقَالَ عَنَاقٌ جَذَعَةٌ‏.‏",
+        "translations": {
+          "en": "Narrated Al-Bara':Abu Burda slaughtered (the sacrifice) before the (`Id) prayer whereupon the Prophet (ﷺ) said to him, \"Slaughter another sacrifice instead of that.\" Abu Burda said, \"I have nothing except a Jadha'a.\" (Shu`ba said: Perhaps Abu Burda also said that Jadha'a was better than an old sheep in his opinion.) The Prophet (ﷺ) said, \"(Never mind), slaughter it to make up for the other one, but it will not be sufficient for anyone else after you",
+          "ur": "ہم سے محمد بن بشار نے بیان کیا، کہا ہم سے محمد بن جعفر نے بیان کیا، ان سے شعبہ نے بیان کیا، ان سے سلمہ نے، ان سے ابوجحیفہ نے اور ان سے براء رضی اللہ عنہ نے بیان کیا کہ ابوبردہ رضی اللہ عنہ نے نماز عید سے پہلے قربانی ذبح کر لی تھی تو نبی کریم صلی اللہ علیہ وسلم نے ان سے فرمایا کہ اس کے بدلے میں دوسری قربانی کر لو۔ انہوں نے عرض کیا کہ میرے پاس ایک سال سے کم عمر کے بچے کے سوا اور کوئی جانور نہیں۔ شعبہ نے بیان کیا کہ میرا خیال ہے کہ ابوبردہ رضی اللہ عنہ نے یہ بھی کہا تھا کہ وہ ایک سال کی بکری سے بھی عمدہ ہے۔ آپ صلی اللہ علیہ وسلم نے فرمایا کہ پھر اسی کی اس کے بدلے میں قربانی کر دو لیکن تمہارے بعد یہ کسی کے لیے کافی نہیں ہو گی۔ اور حاتم بن وردان نے بیان کیا، ان سے ایوب نے، ان سے محمد نے اور ان سے انس رضی اللہ عنہ نے کہ نبی کریم صلی اللہ علیہ وسلم سے آخر حدیث تک ( اس روایت میں یہ لفظ ہیں ) کہ ”ایک سال سے کم عمر کی بچی ہے۔“",
+          "fr": "Rapporté par Al-Bara' : Abu Burda a sacrifié son animal avant la prière de l’Aïd. Le Prophète (ﷺ) lui a alors dit : « Sacrifie un autre animal à la place. » Abu Burda a répondu : « Je n’ai qu’un Jadha'a. » (Shu`ba a précisé : Peut-être qu’Abu Burda a aussi dit qu’à son avis, le Jadha'a était meilleur qu’une vieille brebis.) Le Prophète (ﷺ) a dit : « Ce n’est pas grave, sacrifie-le pour remplacer l’autre, mais cela ne suffira pour personne d’autre que toi. »",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Basyar] telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Salamah] dari [Abu Juhaifah] dari [Al Barra`] dia berkata; Abu Burdah pernah menyembelih binatang kurban sebelum shalat (Iedul Adlha), maka Nabi shallallahu 'alaihi wasallam bersabda kepadanya: \"Gantilah kurbanmu.\" Dia berkata; \"Aku tidak memilikinya lagi kecuali hanya jad'ah (anak kambing berusia dua tahun). [Syu'bah] mengatakan; aku mengira Abu Burdah mengatakan; \"dan dia lebih baik daripada kambing muda.\" Beliau bersabda: \"Kurbanlah dengan kambing itu, dan tidak sah untuk orang lain setelahmu.\" [Hatim bin Wardan] mengatakan dari [Ayyub] dari [Muhammad] dari [Anas] dari Nabi shallallahu 'alaihi wasallam, perawi berkata; \"Betina jad'ah (anak kambing yang berusia dua tahun)",
+          "tr": "Bera'dan, dedi ki: \"Ebu Burde bayram namazından önce kurbanını kesti. Nebi Sallallahu Aleyhi ve Sellem ona: Onun yerine başkasını kes, diye buyurdu. Ebu Burde: Bende yaşını doldurmamış dişi bir keçiden başkası yok, dedi. -Şube dedi ki: Zannederim o (ravilerden Ebu Burde, el-Bera'dan naklen): Hem o, yaşını tamamlamış bir dişi keçiden daha iyidir, dedi.- Bunun üzerine Nebi Sallallahu Aleyhi ve Sellem: O halde sen onu diğerinin (daha önce kestiğin kurbanlığın) yerine kes ve senden sonra da böylesi, hiç kimse için geçerli olmayacaktır, diye buyurdu.\" Fethu'l-Bari Açıklaması: \"Senin koyunun et için kesilmiş bir koyun oldu.\" Yani o bir kurbanlık değildir. Aksine o, kendisinden yararlanılabilecek bir etten ibarettir. Nitekim Zubeyd el-İyamı'nin rivayetinde (bölümün başındaki 5545 nolu hadis) de geçtiği üzere \"o ancak aile halkına takdim ettiği bir etten ibaret olur.\" Hadisten Çıkan Sonuçlar 1- Bir yaşını doldurmamış keçinin kurbanlığı caiz değildir. Cumhurun görüşü budur. Ata ve onun ashabından (ondan rivayet almış olanlardan) el-Evza1'ye göre mutlak olarak caizdir. Bu hususta Cabir'in Nebie merfu olarak zikrettiği bir sahih hadis de vardır: \"Yaşını doldurmamış olanı kesmeyiniz. Ancak yaşını doldurmuşu bulmakta zorlanırsanız bir yaşını doldurmamış koyun kesebilirsiniz.\" Bu hadisi Müslim, Ebu Davud, Nesai ve başkaları da rivayet etmiş bulunmaktadır. Fakat Nevevı cumhurdan bunu (bir yaşını bitirmiş olanı kurban etmeyi) daha faziletli olana yorumladıklarını nakletmiş bulunmaktadır. İfadenin takdiri ise şöyledir: Sizin için müstehap olan ancak bir yaşını doldurmuş olanı kesmektir. Eğer bulamayacak olursanız o takdirde bir yaşını doldurmamış bir koyun kesebilirsiniz. Bir yaşını doldurmamiş olan (el-ceza') koyun türünün yeterli olabileceğini kabul eden cumhur, yaşı hususunda farklı görüşlere sahiptir. Birinci görüşe göre bir yaşını doldurup iki yaşına basmış alandır. Şafi1lere göre daha sahih, dil bilginleri ne göre de daha meşhur olan görüş budur. İkinci görüşe göre ise bu altı aydır. Bu da Hanefılerle, Hanbelilerin görüşüdür. \"Sonra kim bayram namazından önce keserse ancak kendisi için kesmiş olur diye buyurdu.\" Yani onun o kestiği kurban olmaz. \"Kim de namazdan sonra keserse onun kurban ibadeti tamamlanmış olur ve müslümanların sünnetine de\" onlann izledikleri yola \"uygun iş yapmış olur.\" 2- Hadisten sözü edilen sonuçlardan başka şu da anlaşılmaktadır: Hükümlerde baş vurulacak kaynak, Nebi Sallallahu Aleyhi ve SellemIdir. O bazı hallerde ümmeti arasından birisi için özel bir hüküm verebilir ve başkası hakkında da bu hükmü -bu konuda bir mazeret veya gerekçe bulunmasa dahi- uygun görmeyebilir. 3- Allah Resulü'nün bir kişiye hitabı, o hitabın özeloluşuna dair açık bir delil ortaya çıkıncaya kadar bütün mükellefleri kapsar. 4- Yapılan bir amel, güzel bir niyet ile yapılsa dahi şeriate uygun düşmedikj çe sahih degildir"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 73,
+        "hadith": 13
+      },
+      "narrator": {
+        "en": "Al-Bara'"
+      }
+    },
+    {
+      "hadithNumber": 5558,
+      "arabicNumber": 5558,
+      "book": 73,
+      "hadithInBook": 14,
+      "text": {
+        "arabic": "حَدَّثَنَا آدَمُ بْنُ أَبِي إِيَاسٍ، حَدَّثَنَا شُعْبَةُ، حَدَّثَنَا قَتَادَةُ، عَنْ أَنَسٍ، قَالَ ضَحَّى النَّبِيُّ صلى الله عليه وسلم بِكَبْشَيْنِ أَمْلَحَيْنِ، فَرَأَيْتُهُ وَاضِعًا قَدَمَهُ عَلَى صِفَاحِهِمَا يُسَمِّي وَيُكَبِّرُ، فَذَبَحَهُمَا بِيَدِهِ‏.‏",
+        "translations": {
+          "en": "Narrated Anas:The Prophet (ﷺ) slaughtered two rams, black and white in color (as sacrifices), and I saw him putting his foot on their sides and mentioning Allah's Name and Takbir (Allahu Akbar). Then he slaughtered them with his own hands",
+          "ur": "ہم سے آدم بن ابی ایاس نے بیان کیا، کہا ہم سے شعبہ نے بیان کیا، کہا ہم سے قتادہ نے بیان کیا، ان سے انس رضی اللہ عنہ نے بیان کیا کہ نبی کریم صلی اللہ علیہ وسلم نے دو چتکبرے مینڈھوں کی قربانی کی۔ میں نے دیکھا کہ نبی کریم صلی اللہ علیہ وسلم اپنے پاؤں جانور کے اوپر رکھے ہوئے ہیں اور بسم اللہ واللہ اکبر پڑھ رہے ہیں۔ اس طرح آپ نے دونوں مینڈھوں کو اپنے ہاتھ سے ذبح کیا۔",
+          "fr": "Rapporté par Anas : Le Prophète (ﷺ) a sacrifié deux béliers, l’un noir et l’autre blanc, comme sacrifices. Je l’ai vu poser son pied sur leur flanc, prononcer le nom d’Allah et dire « Allahu Akbar », puis il les a sacrifiés de ses propres mains",
+          "id": "Telah menceritakan kepada kami [Adam bin Abu Iyas] telah menceritakan kepada kami [Syu'bah] telah menceritakan kepada kami [Qatadah] dari [Anas] dia berkata; Nabi shallallahu 'alaihi wasallam berkurban dengan dua ekor domba yang warna putihnya lebih banyak daripada warna hitam, aku melihat beliau meletakkan kaki beliau di atas rusuk domba tersebut sambil menyebut nama Allah dan bertakbir, lalu beliau menyembelih domba itu dengan tangan beliau sendiri",
+          "tr": "Enes'teh şöyle dediği rivayet edilmiştir: \"Nebi Sallallahu Aleyhi ve Sellem alacalı, beyaz tüylü iki koç kurban etti. Ben onun bir ayağını (her birini keserken) böğrünün üzerine koyduğunu, besmele çekip tekbir getirdiğini ve o ikisini de bizzat eliyle kestiğini gördüm.\" Fethu'l-Bari Açıklaması: \"Kurbanlıkları bizzat eliyle kesen kimse.\" Yani bu şart mıdır yoksa evla (daha uygun olan) mıdır? Bizzat kesmeye gücü yeten kimsenin başkasını vekil tayin etmesinin caiz oluşu üzerinde fukahanın ittifakı vardır. Fakat Malikilerde kesebilen kimsenin vekalet vermesinin yeterli olmayacağına dair bir görüş vardır. çoğunluğa göre ise bu mekruhtur ama kesiminde hazır bulunması da müstehaptır. \"Ben onu, onların her birini keserken ayağını böğrüne koyduğunu gördüm.\" Yani her bir kurbanlığını keserken bir ayağını onun böğrüne, kurbanlığın yanlarından birisi üzerine koyuyordu. \"Besmele çekiyor, tekbir getiriyordu.\" Hadisten anlaşıldığına göre; 1- Kesim yaparken besmele çekmek meşrudur. 2- Besmele ile birlikte tekbir getirmek müstehaptır. 3- Kurbanlığın boynunun sağ yanı üzerine ayağı koymak müstehaptır. Fukaha, kurbanlığın sol yanı üzere yatırılacağını ittifakla kabul etmişlerdir. Buna göre ayağını sağ yanına koyarak kurbanlığı kesenin, bıçağı sağ eline alıp sol eliyle de başını yakalaması daha kolayolur"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 73,
+        "hadith": 14
+      },
+      "narrator": {
+        "en": "Anas"
+      }
+    },
+    {
+      "hadithNumber": 5559,
+      "arabicNumber": 5559,
+      "book": 73,
+      "hadithInBook": 15,
+      "text": {
+        "arabic": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا سُفْيَانُ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ الْقَاسِمِ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ قَالَتْ دَخَلَ عَلَىَّ رَسُولُ اللَّهِ صلى الله عليه وسلم بِسَرِفَ وَأَنَا أَبْكِي، فَقَالَ ‏\"‏ مَا لَكِ أَنَفِسْتِ ‏\"‏‏.‏ قُلْتُ نَعَمْ‏.‏ قَالَ ‏\"‏ هَذَا أَمْرٌ كَتَبَهُ اللَّهُ عَلَى بَنَاتِ آدَمَ اقْضِي مَا يَقْضِي الْحَاجُّ غَيْرَ أَنْ لاَ تَطُوفِي بِالْبَيْتِ ‏\"‏‏.‏ وَضَحَّى رَسُولُ اللَّهِ صلى الله عليه وسلم عَنْ نِسَائِهِ بِالْبَقَرِ‏.‏",
+        "translations": {
+          "en": "Narrated `Aisha:Allah's Messenger (ﷺ) entered upon me at Sarif while I was weeping (because I was afraid that I would not be able to perform the ,Hajj). He said, \"What is wrong with you? Have you got your period?\" I replied, \"Yes.\" He said, \"This is a matter Allah has decreed for all the daughters of Adam, so perform the ceremonies of the Hajj as the pilgrims do, but do not perform the Tawaf around the Ka`ba.\" Allah's Messenger (ﷺ) slaughtered some cows as sacrifices on behalf of his wives",
+          "ur": "ہم سے قتیبہ نے بیان کیا، کہا ہم سے سفیان نے بیان کیا، ان سے عبدالرحمٰن بن قاسم نے، ان سے ان کے والد نے اور ان سے عائشہ رضی اللہ عنہا نے بیان کیا کہ مقام سرف میں رسول اللہ صلی اللہ علیہ وسلم میرے پاس تشریف لائے اور میں رو رہی تھی تو نبی کریم صلی اللہ علیہ وسلم نے فرمایا کیا بات ہے، کیا تمہیں حیض آ گیا ہے؟ میں نے عرض کیا جی ہاں۔ آپ صلی اللہ علیہ وسلم نے فرمایا کہ یہ تو اللہ تعالیٰ نے آدم کی بیٹیوں کی تقدیر میں لکھ دیا ہے۔ اس لیے حاجیوں کی طرح تمام اعمال حج انجام دو صرف کعبہ کا طواب نہ کرو اور نبی کریم صلی اللہ علیہ وسلم نے اپنے بیویوں کی طرف سے گائے کی قربانی کی۔",
+          "fr": "Rapporté par `Aisha : Le Messager d’Allah (ﷺ) est entré chez moi à Sarif alors que je pleurais parce que j’avais peur de ne pas pouvoir accomplir le Hajj. Il m’a demandé : « Qu’as-tu ? As-tu tes règles ? » J’ai répondu : « Oui. » Il a dit : « C’est une chose qu’Allah a décrétée pour toutes les filles d’Adam. Accomplis les rites du Hajj comme les autres pèlerins, mais ne fais pas le Tawaf autour de la Ka`ba. » Le Messager d’Allah (ﷺ) a sacrifié des vaches en offrande pour ses femmes",
+          "id": "Telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [Sufyan] dari [Abdurrahman bin Al Qasim] dari [Ayahnya] dari [Aisyah] radliallahu 'anha dia berkata; Rasulullah shallallahu 'alaihi wasallam menemuiku ketika berada di Sarif, sementara aku sedang menangis, lalu beliau bertanya: \"Kenapa denganmu? Apakah kamu haidl?\" Jawabku; \"Ya\" beliau bersabda: \"Ini adalah suatu perkara yang telah ditetapkan Allah atas para wanita anak Adam, lakukanlah sebagaimana yang di lakukan oleh orang-orang yang berhaji, namun kamu jangan melakukan thawaf di Ka'bah.\" Setelah itu Rasulullah shallallahu 'alaihi wasallam berkurban untuk para isterinya dengan seekor sapi",
+          "tr": "Aişe r.anha'dan şöyle dediği rivayet edilmiştir: \"Şerif'te ben ağIıyorken Hasulullah Sallallahu Aleyhi ve Sellem yanıma girdi. Ne oldu sana? Ay hali mi oldun, diye sordu. Ben: Evet dedim. O: Bu, Allah'ın, Adem'in kızları üzerine yazdığı bir iştir. Hacıların yaptıklarını sen de yap! Ancak Beyt'i tavaf etme, buyurdu. Hasulullah Sallallahu Aleyhi ve Sellem hanımları adına kurban olarak inek kesti.\" Fethu'l-Bari Açıklaması: \"Bir adam, (Mina'da) İbn Ömer'e devesin (i kesmek) de yardım etmiştir.\" İbnu'l-Müneyyir dedi ki: Bu rivayet, başlığa ancak yardım istemenin meşru olması halinde \"vekalet de ona katılır (onun gibi değerlendirilir)\" cihetiyle uygun düşmektedir. İbn Ömer'in başından geçen bu olaya yakın Ahmed'in rivayet ettiği merfu' bir hadis de gelmiş bulunmaktadır. Bunu ensardan bir adam şöylece rivayet etmektedir: \"Nebi Sallallahu Aleyhi ve Sellem kurbanlığını yatırdı ve: Kurbanlığımı kesmek üzere bana yardımcı ol, dedi, o da ona yardım etti.\" Hadisin ravileri sikadırlar. \"Ebu Musa kızlarına kurbanlıklarını kendi elleriyle kesmelerini emretti.\" İbnu't-Tin dedi ki: Hadisten kadının hayvan kesmesinin caiz olduğu anlaşılmaktadır. Muhammed ise Malik'ten bunun mekruh olduğunu nakletmektedir. Derim ki: Bu husus daha önce Zebaih bölümünde (5504 ve 5500.hadislerde) geçmiş bulunmaktadır. Şafillerden nakledilen görüşe göre ise kadın için daha uygun olan, kurbanlığını kesmek üzere başkasına vekalet vermesi ve kendisinin bizzat kesmemesidir"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 73,
+        "hadith": 15
+      },
+      "narrator": {
+        "en": "`Aisha"
+      }
+    },
+    {
+      "hadithNumber": 5560,
+      "arabicNumber": 5560,
+      "book": 73,
+      "hadithInBook": 16,
+      "text": {
+        "arabic": "حَدَّثَنَا حَجَّاجُ بْنُ الْمِنْهَالِ، حَدَّثَنَا شُعْبَةُ، قَالَ أَخْبَرَنِي زُبَيْدٌ، قَالَ سَمِعْتُ الشَّعْبِيَّ، عَنِ الْبَرَاءِ ـ رضى الله عنه ـ قَالَ سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم يَخْطُبُ فَقَالَ ‏\"‏ إِنَّ أَوَّلَ مَا نَبْدَأُ مِنْ يَوْمِنَا هَذَا أَنْ نُصَلِّيَ، ثُمَّ نَرْجِعَ فَنَنْحَرَ، فَمَنْ فَعَلَ هَذَا فَقَدْ أَصَابَ سُنَّتَنَا، وَمَنْ نَحَرَ فَإِنَّمَا هُوَ لَحْمٌ يُقَدِّمُهُ لأَهْلِهِ، لَيْسَ مِنَ النُّسُكِ فِي شَىْءٍ ‏\"‏‏.‏ فَقَالَ أَبُو بُرْدَةَ يَا رَسُولَ اللَّهِ ذَبَحْتُ قَبْلَ أَنْ أُصَلِّيَ، وَعِنْدِي جَذَعَةٌ خَيْرٌ مِنْ مُسِنَّةٍ‏.‏ فَقَالَ ‏\"‏ اجْعَلْهَا مَكَانَهَا، وَلَنْ تَجْزِيَ أَوْ تُوفِيَ عَنْ أَحَدٍ بَعْدَكَ ‏\"‏‏.‏",
+        "translations": {
+          "en": "Narrated Al-Bara':I heard the Prophet (ﷺ) delivering a sermon, and he said (on the Day of `Id-Allah. a), \"The first thing we will do on this day of ours is that we will offer the `Id prayer, then we will return and slaughter our sacrifices; and whoever does so, then indeed he has followed our tradition, and whoever slaughtered his sacrifice (before the prayer), what he offered was just meat that he presented to his family, and that was not a sacrifice.\" Abu Burda got up and said, \"O Allah's Messenger (ﷺ)! I slaughtered the sacrifice before the prayer and I have got a Jadha'a which is better than an old sheep.\" The Prophet (ﷺ) said, \"Slaughter it to make up for that, but it will not be sufficient for anybody else after you",
+          "ur": "ہم سے حجاج بن منہال نے بیان کیا، کہا ہم سے شعبہ نے بیان کیا، کہا کہ مجھے زبید نے خبر دی، کہا کہ میں نے شعبی سے سنا، ان سے براء بن عازب رضی اللہ عنہ نے بیان کیا کہ میں نے نبی کریم صلی اللہ علیہ وسلم سے سنا، نبی کریم صلی اللہ علیہ وسلم خطبہ دے رہے تھے۔ خطبہ میں آپ صلی اللہ علیہ وسلم نے فرمایا کہ آج کے دن کی ابتداء ہم نماز ( عید ) سے کریں گے پھر واپس آ کر قربانی کریں گے جو شخص اس طرح کرے گا وہ ہماری سنت کو پا لے گا لیکن جس نے ( عید کی نماز سے پہلے ) جانور ذبح کر لیا تو وہ ایسا گوشت ہے جسے اس نے اپنے گھر والوں کے کھانے کے لیے تیار کیا ہے وہ قربانی کسی درجہ میں بھی نہیں۔ ابوبردہ رضی اللہ عنہ نے عرض کیا: یا رسول اللہ! میں نے تو عید کی نماز سے پہلے قربانی کر لی ہے البتہ میرے پاس ابھی ایک سال سے کم عمر کا ایک بکری کا بچہ ہے اور سال بھر کی بکری سے بہتر ہے۔ نبی کریم صلی اللہ علیہ وسلم نے فرمایا کہ تم اسی کی قربانی اس کے بدلہ میں کرو لیکن تمہارے بعد یہ کسی کے لیے جائز نہ ہو گا۔",
+          "fr": "Rapporté par Al-Bara' : J'ai entendu le Prophète (ﷺ) prononcer un sermon, et il a dit, le jour de l'`Id-Allah : « La première chose que nous ferons aujourd'hui, c'est de prier la prière de l'`Id, puis nous retournerons pour faire nos sacrifices. Celui qui agit ainsi suit notre tradition. Mais celui qui a sacrifié avant la prière, ce qu'il a offert n'est qu'une viande qu'il a donnée à sa famille, ce n'est pas un sacrifice. » Abu Burda s'est levé et a dit : « Ô Messager d'Allah (ﷺ) ! J'ai sacrifié avant la prière et j'ai un Jadha'a qui vaut mieux qu'une vieille brebis. » Le Prophète (ﷺ) a dit : « Sacrifie-le pour compenser, mais cela ne suffira pour personne d'autre après toi. »",
+          "id": "Telah menceritakan kepada kami [Hajjaj bin Minhal] telah menceritakan kepada kami [Syu'bah] dia berkata; telah mengabarkan kepadaku [Zubaid] dia berkata; saya mendengar [As Sya'bi] dari [Al Barra`] radliallahu 'anhu dia berkata; saya mendengar Nabi shallallahu 'alaihi wasallam berkhutbah, sabdanya: \"Sesungguhnya yang pertama kali kita lakukan pada hari ini adalah melaksanakan shalat ('iedul adlha) kemudian kembali pulang dan menyembelih binatang kurban, barangsiapa melakukan hal ini, berarti dia telah bertindak sesuai dengan sunnah kita, barangsiapa menyembelih binatang kurban sebelum (shalat ied), maka sesembelihannya itu hanya berupa daging yang ia berikan kepada keluarganya, tidak ada hubungannya dengan ibadah kurban sedikitpun.\" Lalu Abu Burdah berkata; \"Aku menyembelih sebelum shalat, sementara aku masih memiliki jad'ah (anak kambing yang berusia dua tahun) yang lebih baik daripada kambing muda, maka beliau bersabda: \"Sembelihlah binatang kurban itu, namun hal itu tidak sah untuk orang lain setelahmu",
+          "tr": "Bera r.a.'dan şöyle dediğirivayetedilmiştir: \"Nebi Sallallahu Aleyhi ve Sellem'i hutbe irad ederken dinledim. Şöyle buyurdu: Bugünümüzde ilk yapacağımız iş, namaz kılmamız, sonra dönüp kurbanlıklanmızı kesmemizdir. Kim bunu yaparsa bizim sünnetimize uygun iş yapmış olur. Her kim (namazdan önce) kesmiş ise onun bu kestiği, aile halkına takdim ettiği bir et olur. Kurban ibadetiyle hiçbir alakası olmaz. Bunun üzerine Ebu Burde: Ey Allah'ın Rasulü, bayram namazını kılmadan önce kestim. Yanımda ise bir yaşını doldurmuş olandan daha iyi, yaşını doldurmamış bir dişi keçi vardır, dedi. Allah Rasulü şöyle buyurdu: Sen onu o kestiğinin yerine kes! Ancak bu, senden sonra hiçbir kimse için yeterli olmayacaktır -yahut onun yerini tutmayacaktır (diyebuyurdu)"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 73,
+        "hadith": 16
+      },
+      "narrator": {
+        "en": "Al-Bara'"
+      }
+    },
+    {
+      "hadithNumber": 5561,
+      "arabicNumber": 5561,
+      "book": 73,
+      "hadithInBook": 17,
+      "text": {
+        "arabic": "حَدَّثَنَا عَلِيُّ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا إِسْمَاعِيلُ بْنُ إِبْرَاهِيمَ، عَنْ أَيُّوبَ، عَنْ مُحَمَّدٍ، عَنْ أَنَسٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ مَنْ ذَبَحَ قَبْلَ الصَّلاَةِ فَلْيُعِدْ ‏\"‏‏.‏ فَقَالَ رَجُلٌ هَذَا يَوْمٌ يُشْتَهَى فِيهِ اللَّحْمُ ـ وَذَكَرَ مِنْ جِيرَانِهِ فَكَأَنَّ النَّبِيَّ صلى الله عليه وسلم عَذَرَهُ ـ وَعِنْدِي جَذَعَةٌ خَيْرٌ مِنْ شَاتَيْنِ فَرَخَّصَ لَهُ النَّبِيُّ صلى الله عليه وسلم فَلاَ أَدْرِي بَلَغَتِ الرُّخْصَةُ أَمْ لاَ، ثُمَّ انْكَفَأَ إِلَى كَبْشَيْنِ ـ يَعْنِي فَذَبَحَهُمَا ـ ثُمَّ انْكَفَأَ النَّاسُ إِلَى غُنَيْمَةٍ فَذَبَحُوهَا‏.‏",
+        "translations": {
+          "en": "Narrated Anas:The Prophet (ﷺ) said, \"Whoever slaughtered the sacrifice before the `Id prayer, should repeat it (slaughter another one).\" A man said \"This is the day on which meat is desired.\" Then he mentioned the need of his neighbors (for meat) and the Prophet (ﷺ) seemed to accept his excuse. The man said, \"I have a Jadha'a which is to me better than two sheep.\" The Prophet (ﷺ) allowed him (to slaughter it as a sacrifice). But I do not know whether this permission was general for all Muslims or not. The Prophet (ﷺ) then went towards two rams and slaughtered them, and the people went towards their sheep and slaughtered them",
+          "ur": "ہم سے علی بن عبداللہ نے بیان کیا، کہا ہم سے اسماعیل بن ابراہیم نے بیان کیا، ان سے ایوب نے، ان سے محمد نے اور ان سے انس رضی اللہ عنہ نے کہ نبی کریم صلی اللہ علیہ وسلم نے فرمایا کہ جس نے نماز سے پہلے قربانی کر لی ہو وہ دوبارہ قربانی کرے۔ اس پر ایک صحابی اٹھے اور عرض کیا: ( یا رسول اللہ! ) اس دن گوشت کی لوگوں کو خواہش زیادہ ہوتی ہے پھر انہوں نے اپنے پڑوسیوں کی محتاجی کا ذکر کیا جیسے نبی کریم صلی اللہ علیہ وسلم نے ان کا عذر قبول کر لیا ہو ( انہوں نے یہ بھی کہا کہ ) میرے پاس ایک سال کا ایک بچہ ہے اور بکریوں سے بھی اچھا ہے۔ چنانچہ نبی کریم صلی اللہ علیہ وسلم نے انہیں اس کے قربانی کی اجازت دے دی لیکن مجھے اس کا علم نہیں کہ یہ اجازت دوسروں کو بھی تھی یا نہیں پھر نبی کریم صلی اللہ علیہ وسلم دو مینڈھوں کی طرف متوجہ ہوئے۔ ان کی مراد یہ تھی کہ انہیں نبی کریم صلی اللہ علیہ وسلم نے ذبح کیا پھر لوگ بکریوں کی طرف متوجہ ہوئے اور انہیں ذبح کیا۔",
+          "fr": "Rapporté par Anas : Le Prophète (ﷺ) a dit : « Celui qui a sacrifié avant la prière de l'`Id doit recommencer (et sacrifier un autre animal). » Un homme a dit : « C'est le jour où la viande est recherchée. » Puis il a parlé du besoin de ses voisins (en viande) et le Prophète (ﷺ) a semblé accepter son excuse. L'homme a dit : « J'ai un Jadha'a qui, pour moi, vaut mieux que deux brebis. » Le Prophète (ﷺ) lui a permis de le sacrifier. Mais je ne sais pas si cette permission concernait tous les musulmans ou non. Ensuite, le Prophète (ﷺ) est allé vers deux béliers et les a sacrifiés, et les gens sont allés vers leurs moutons et les ont sacrifiés",
+          "id": "Telah menceritakan kepada kami [Ali bin Abdullah] telah menceritakan kepada kami [Isma'il bin Ibrahim] dari [Ayyub] dari [Muhammad] dari [Anas] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: \"Barangsiapa menyembelih binatang kurban sebelum shalat (iedul adlha) hendaknya ia mengulangi kurbannya.\" Seseorang berdiri dan berkata; \"Wahai Rasulullah, sesungguhnya hari ini adalah hari pembagian daging kurban -lalu laki-laki itu menceritakan kesusahan yang di alami tetangganya, seakan-akan dia berharap Nabi shallallahu 'alaihi wasallam membenarkan perbuatannya- sementara aku hanya masih memiliki jad'ah (anak kambing yang berusia dua tahun) yang lebih aku cintai daripada dua ekor kambing muda.\" Maka nabi shallallahu 'alaihi wasallam memberi keringanan kepadanya, aku tidak mengetahui apakah keringanan itu berlaku juga kepada orang lain ataukah tidak. Selanjutnya beliau berpaling dan pergi menuju dua ekor domba lalu beliau menyembelihnya, setelah itu orang-orang berpaling dan pergi menuju segerombolan kambing, lalu mereka menyembelihnya",
+          "tr": "Enes'ten rivayete göre o Nebi Sallallahu Aleyhi ve Sellem'den şöyle buyurduğunu nakletmiştir: \"Kim namazdan önce kurbanını keserse tekrar kessin. Bir adam: Bu, canın et çektiği bir gündür, dedi ve komşulannın ihtiyaç içinde olduklarını zikretti. -Nebi Sallallahu Aleyhi ve Sellem onu mazur görür gibi oldu.- Adam devamla dedi ki: Hem benim yanımda iki koyundan daha iyi, bir yaşını doldurmamış bir dişi keçi var deyince, Nebi Sallallahu Aleyhi ve Sellem ona ruhsat verdi. Artık, bu ruhsat başkalarını kapsar mı kapsamaz mı bilemiyorum. Daha sonra Nebi Sallallahu Aleyhi ve Sellem iki koçun yanına vardı -yani onları kesti- sonra da (diğer) insanlar birkaç koyunluk bir sürüye gidip onları kestiler"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 73,
+        "hadith": 17
+      },
+      "narrator": {
+        "en": "Anas"
+      }
+    },
+    {
+      "hadithNumber": 5562,
+      "arabicNumber": 5562,
+      "book": 73,
+      "hadithInBook": 18,
+      "text": {
+        "arabic": "حَدَّثَنَا آدَمُ، حَدَّثَنَا شُعْبَةُ، حَدَّثَنَا الأَسْوَدُ بْنُ قَيْسٍ، سَمِعْتُ جُنْدَبَ بْنَ سُفْيَانَ الْبَجَلِيَّ، قَالَ شَهِدْتُ النَّبِيَّ صلى الله عليه وسلم يَوْمَ النَّحْرِ فَقَالَ ‏ \"‏ مَنْ ذَبَحَ قَبْلَ أَنْ يُصَلِّيَ فَلْيُعِدْ مَكَانَهَا أُخْرَى، وَمَنْ لَمْ يَذْبَحْ فَلْيَذْبَحْ ‏\"‏‏.‏",
+        "translations": {
+          "en": "Narrated Jundab bin Sufyan Al-Bajali:I witnessed the Prophet (ﷺ) on the Day of Nahr. He said, \"Whoever slaughtered the sacrifice before offering the `Id prayer, should slaughter another sacrifice in its place; and whoever has not slaughtered their sacrifice yet, should slaughter now",
+          "ur": "ہم سے آدم نے بیان کیا، کہا ہم سے شعبہ نے بیان کیا، کہا ہم سے اسود بن قیس نے بیان کیا، کہا میں نے جندب بن سفیان بجلی رضی اللہ عنہ سے سنا کہ قربانی کے دن میں نبی کریم صلی اللہ علیہ وسلم کی خدمت میں حاضر ہوا۔ نبی کریم صلی اللہ علیہ وسلم نے فرمایا کہ جس نے نماز سے پہلے قربانی کر لی ہو وہ اس کی جگہ دوبارہ کرے اور جس نے قربانی ابھی نہ کی ہو وہ کرے۔",
+          "fr": "Rapporté par Jundab bin Sufyan Al-Bajali : J'ai assisté au Prophète (ﷺ) le jour de Nahr. Il a dit : « Celui qui a sacrifié avant la prière de l'`Id doit refaire un sacrifice à la place ; et celui qui n'a pas encore sacrifié doit le faire maintenant. »",
+          "id": "Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Syu'bah] telah menceritakan kepada kami [Al Aswad bin Qais] saya mendengar [Jundab bin Sufyan Al Bajali] berkata; aku ikut menyaksikan Nabi shallallahu 'alaihi wasallam pada hari raya kurban, lalu beliau bersabda: \"Barangsiapa menyembelih binatang kurban sebelum shalat (iedul adlha), hendaknya ia mengulangi kurbannya, dan barangsiapa belum berkurban hendaknya ia berkurban",
+          "tr": "Cündeb b. Süfyan el-Becell'den şöyle dediği rivayet edilmiştir: \"Ben kurban bayramı birinci günü (Nahr günü) Nebi Sallallahu Aleyhi ve Sellem'in şöyle buyurduğuna tanık oldum: Kim bayram namazını kılmadan önce kurbanını keserse onunyerine başkasını kessin. Kim de şimdiye kadar kesmemişse (namazdan sonra) artık kesiversin"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 73,
+        "hadith": 18
+      },
+      "narrator": {
+        "en": "Jundab bin Sufyan Al-Bajali"
+      }
+    },
+    {
+      "hadithNumber": 5563,
+      "arabicNumber": 5563,
+      "book": 73,
+      "hadithInBook": 19,
+      "text": {
+        "arabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ فِرَاسٍ، عَنْ عَامِرٍ، عَنِ الْبَرَاءِ، قَالَ صَلَّى رَسُولُ اللَّهِ صلى الله عليه وسلم ذَاتَ يَوْمٍ، فَقَالَ ‏\"‏ مَنْ صَلَّى صَلاَتَنَا وَاسْتَقْبَلَ قِبْلَتَنَا، فَلاَ يَذْبَحْ حَتَّى يَنْصَرِفَ ‏\"‏‏.‏ فَقَامَ أَبُو بُرْدَةَ بْنُ نِيَارٍ فَقَالَ يَا رَسُولَ اللَّهِ فَعَلْتُ‏.‏ فَقَالَ ‏\"‏ هُوَ شَىْءٌ عَجَّلْتَهُ ‏\"‏‏.‏ قَالَ فَإِنَّ عِنْدِي جَذَعَةً هِيَ خَيْرٌ مِنْ مُسِنَّتَيْنِ آذْبَحُهَا قَالَ ‏\"‏ نَعَمْ، ثُمَّ لاَ تَجْزِي عَنْ أَحَدٍ بَعْدَكَ ‏\"‏‏.‏ قَالَ عَامِرٌ هِيَ خَيْرُ نَسِيكَتِهِ‏.‏",
+        "translations": {
+          "en": "Narrated Al-Bara':One day Allah's Messenger (ﷺ) offered the `Id prayer and said, \"Whoever offers our prayer and faces our Qibla should not slaughter the sacrifice till he finishes the `Id prayer.\" Abu Burda bin Niyar got up and said, \"O Allah's Messenger (ﷺ)! I have already done it. The Prophet (ﷺ) said, \"That is something you have done before its due time.\" Abu Burda said, \"I have a Jadha'a which is better than two old sheep; shall I slaughter it?\" The Prophet (ﷺ) said, \"Yes, but it will not be sufficient for anyone after you",
+          "ur": "ہم سے موسیٰ بن اسماعیل نے بیان کیا، کہا ہم سے ابوعوانہ نے، ان سے فراس نے، ان سے عامر نے، ان سے براء رضی اللہ عنہ نے بیان کیا کہ نبی کریم صلی اللہ علیہ وسلم نے ایک دن نماز عید پڑھی اور فرمایا کہ جو ہماری طرح نماز پڑھتا ہو اور ہمارے قبلہ کو قبلہ بناتا ہو وہ نماز عید سے فارغ ہونے سے پہلے قربانی نہ کرے۔ اس پر ابوبردہ بن نیار رضی اللہ عنہ کھڑے ہوئے اور عرض کیا: یا رسول اللہ! میں نے تو قربانی کر لی۔ نبی کریم صلی اللہ علیہ وسلم نے فرمایا پھر وہ ایک ایسی چیز ہوئی جسے تم نے وقت سے پہلے ہی کر لیا ہے۔ انہوں نے عرض کیا میرے پاس ایک سال سے کم عمر کا ایک بچہ ہے جو ایک سال کی دو بکریوں سے عمدہ ہے کیا میں اسے ذبح کر لوں۔ نبی کریم صلی اللہ علیہ وسلم نے فرمایا کر لو لیکن تمہارے بعد یہ کسی اور کے لیے جائز نہیں ہے۔ عامر نے بیان کیا کہ یہ ان کی بہترین قربانی تھی۔",
+          "fr": "Rapporté par Al-Bara' : Un jour, le Messager d'Allah (ﷺ) a fait la prière de l'`Id et a dit : « Celui qui fait notre prière et se tourne vers notre Qibla ne doit pas sacrifier avant d'avoir fini la prière de l'`Id. » Abu Burda bin Niyar s'est levé et a dit : « Ô Messager d'Allah (ﷺ) ! Je l'ai déjà fait. » Le Prophète (ﷺ) a dit : « Tu l'as fait trop tôt. » Abu Burda a dit : « J'ai un Jadha'a qui vaut mieux que deux vieilles brebis ; puis-je le sacrifier ? » Le Prophète (ﷺ) a dit : « Oui, mais cela ne suffira pour personne d'autre après toi. »",
+          "id": "Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Abu 'Awanah] dari [Firas] dari ['Amir] dari [Al Barra`] dia berkata; \"Pada suatu hari Rasulullah shallallahu 'alaihi wasallam mengerjakan shalat, setelah itu beliau bersabda: \"Barangsiapa mengerjakan shalat seperti shalat kami, dan menghadap kiblat kami, hendaknya tidak menyembelih binatang kurban sehingga selesai mengerjakan shalat.\" Lalu Abu Burdah bin Niyar berdiri dan berkata; \"Wahai Rasulullah, padahal aku telah melakukannya.\" Beliau bersabda: \"Itu adalah ibadah yang kamu kerjakan dengan tergesa-gesa.\" Abu Burdah berkata; \"Sesungguhnya aku masih memiki jad'ah (anak kambing yang berusia dua tahun) dan dia lebih baik daripada dua ekor kambing muda, apakah aku juga harus menyembelihnya untuk berkurban? Beliau bersabda: \"Ya, namun hal itu tidak sah untuk orang lain setelahmu.\" Amir berkata; \"Itu lebih baik daripada ibadah kurban yang kamu lakukan",
+          "tr": "Amir'den rivayete göre el-Bera şöyle demiştir: \"Bir gün Resulullah Sallallahu Aleyhi ve Sellem bayram namazı kıl(dır)dı ve şöyle buyurdu: Kim bizim kıldığımız namazı kılar, kıblemize yönelir ise namazdan ayrılıncaya kadar kurbanını kesmesin. Ebu Burde b. Niyar ayağa kalkarak: Ey Allah'ın Resulü, ben böyle yaptım, dedi. Allah Resulü: Bu, erken davranarak yaptığın bir iş oldu, diye buyurdu. Ebu Burde: Benim yanımda yaşını doldurmamış bir dişi keçi var ve o, yaşını doldurmuş iki koyundan hayırlıdır. Onu kesebilir miyim, diye sordu. Allah Rasulü: Evet. Fakat bundan sonra artık hiç kimse için yeterli olmaz, diye buyurdu.\" Amir (eş-Şa'bl): \"İşte o, onun kestiği iki kurbanın hayırlı alanıdır\" dedi. Fethu'l-Bari Açıklaması:• \"Namazdan önce kurbanın! kesen iade eder\", yani kurban kesme işini tekrarlar. \"Kim bizim bu namazımıZ! kılar ve kıblemize yönelirse ... \" Kim İslam dini üzere ise ... demektir"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 73,
+        "hadith": 19
+      },
+      "narrator": {
+        "en": "Al-Bara'"
+      }
+    },
+    {
+      "hadithNumber": 5564,
+      "arabicNumber": 5564,
+      "book": 73,
+      "hadithInBook": 20,
+      "text": {
+        "arabic": "حَدَّثَنَا حَجَّاجُ بْنُ مِنْهَالٍ، حَدَّثَنَا هَمَّامٌ، عَنْ قَتَادَةَ، حَدَّثَنَا أَنَسٌ ـ رضى الله عنه ـ أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ يُضَحِّي بِكَبْشَيْنِ أَمْلَحَيْنِ أَقْرَنَيْنِ، وَوَضَعَ رِجْلَهُ عَلَى صَفْحَتِهِمَا، وَيَذْبَحُهُمَا بِيَدِهِ‏.‏",
+        "translations": {
+          "en": "Narrated Anas:The Prophet (ﷺ) used to offer as sacrifices, two horned rams, black and white in color, and used to put his foot on their sides and slaughter them with his own hands",
+          "ur": "ہم سے حجاج بن منہال نے بیان کیا، کہا ہم سے ہمام نے بیان کیا، ان سے قتادہ نے، انہوں نے کہا کہ ہم سے انس رضی اللہ عنہ نے بیان کیا کہ نبی کریم صلی اللہ علیہ وسلم سینگ والے دو چتکبرے مینڈھوں کی قربانی کیا کرتے تھے اور نبی کریم صلی اللہ علیہ وسلم اپنا پاؤں ان کی گردنوں کے اوپر رکھتے اور انہیں اپنے ہاتھ سے ذبح کرتے تھے۔",
+          "fr": "Rapporté par Anas : Le Prophète (ﷺ) avait l'habitude de sacrifier deux béliers à cornes, noirs et blancs, et il posait son pied sur leur flanc avant de les égorger lui-même",
+          "id": "Telah menceritakan kepada kami [Hajjaj bin Minhal] telah menceritakan kepada kami [Hammam] dari [Qatadah] telah menceritakan kepada kami [Anas] radliallahu 'anhu bahwa Nabi shallallahu 'alaihi wasallam pernah berkurban dengan dua ekor domba yang warna putihnya lebih banyak daripada warna hitamnya dan bertanduk, beliau meletakkan kaki beliau di atas rusuk domba tersebut lalu menyembelihnya dengan tangan beliau sendiri",
+          "tr": "Enes r.a.'dan rivayete göre: \"Nebi Sallallahu Aleyhi ve Sellem boynuzlu, alaca beyaz tüylü iki koç kurban eder ve bir ayağını boyunlarına yakın yere koyar ve onları kendi eliyle keserdi"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 73,
+        "hadith": 20
+      },
+      "narrator": {
+        "en": "Anas"
+      }
+    },
+    {
+      "hadithNumber": 5565,
+      "arabicNumber": 5565,
+      "book": 73,
+      "hadithInBook": 21,
+      "text": {
+        "arabic": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ قَتَادَةَ، عَنْ أَنَسٍ، قَالَ ضَحَّى النَّبِيُّ صلى الله عليه وسلم بِكَبْشَيْنِ أَمْلَحَيْنِ أَقْرَنَيْنِ، ذَبَحَهُمَا بِيَدِهِ، وَسَمَّى وَكَبَّرَ وَوَضَعَ رِجْلَهُ عَلَى صِفَاحِهِمَا‏.‏",
+        "translations": {
+          "en": "Narrated Anas:The Prophet (ﷺ) offered as sacrifices, two horned rams, black and white in color. He slaughtered them with his own hands and mentioned Allah's Name over them and said Takbir and put his foot on their sides",
+          "ur": "ہم سے قتیبہ نے بیان کیا، کہا ہم سے ابوعوانہ نے بیان کیا، ان سے قتادہ نے اور ان سے انس رضی اللہ عنہ نے بیان کیا کہ نبی کریم صلی اللہ علیہ وسلم نے سینگ والے دو چتکبرے مینڈھوں کی قربانی کی۔ انہیں اپنے ہاتھ سے ذبح کیا۔ بسم اللہ اور اللہ اکبر پڑھا اور اپنا پاؤں ان کی گردن کے اوپر رکھ کر ذبح کیا۔",
+          "fr": "Rapporté par Anas : Le Prophète (ﷺ) a offert en sacrifice deux béliers à cornes, noirs et blancs. Il les a égorgés de ses propres mains, a prononcé le nom d’Allah sur eux, a dit le takbir et a posé son pied sur leur flanc",
+          "id": "Telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [Abu 'Awanah] dari [Qatadah] dari [Anas] dia berkata; Nabi shallallahu 'alaihi wasallam berkurban dengan dua ekor domba yang warna putihnya lebih dominan di banding warna hitamnya, dan bertanduk, beliau menyembelih domba tersebut dengan tangan beliau sendiri sambil menyebut nama Allah dan bertakbir dan meletakkan kaki beliau di atas rusuk domba tersebut",
+          "tr": "Enes r.a.'den şöyle dediği rivayet edilmiştir: \"Nebi Sallallahu Aleyhi ve Sellem boynuzlu, alaca beyaz tüylü iki koç kurban etti. Onları kendi eliyle kesti, besmele çekti, tekbir getirdi ve bir ayağını onların boyunlarına yakın yere koydu"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 73,
+        "hadith": 21
+      },
+      "narrator": {
+        "en": "Anas"
+      }
+    },
+    {
+      "hadithNumber": 5566,
+      "arabicNumber": 5566,
+      "book": 73,
+      "hadithInBook": 22,
+      "text": {
+        "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ مُحَمَّدٍ، أَخْبَرَنَا عَبْدُ اللَّهِ، أَخْبَرَنَا إِسْمَاعِيلُ، عَنِ الشَّعْبِيِّ، عَنْ مَسْرُوقٍ، أَنَّهُ أَتَى عَائِشَةَ، فَقَالَ لَهَا يَا أُمَّ الْمُؤْمِنِينَ إِنَّ رَجُلاً يَبْعَثُ بِالْهَدْىِ إِلَى الْكَعْبَةِ، وَيَجْلِسُ فِي الْمِصْرِ، فَيُوصِي أَنْ تُقَلَّدَ بَدَنَتُهُ، فَلاَ يَزَالُ مِنْ ذَلِكَ الْيَوْمِ مُحْرِمًا حَتَّى يَحِلَّ النَّاسُ‏.‏ قَالَ فَسَمِعْتُ تَصْفِيقَهَا مِنْ وَرَاءِ الْحِجَابِ فَقَالَتْ لَقَدْ كُنْتُ أَفْتِلُ قَلاَئِدَ هَدْىِ رَسُولِ اللَّهِ صلى الله عليه وسلم فَيَبْعَثُ هَدْيَهُ إِلَى الْكَعْبَةِ، فَمَا يَحْرُمُ عَلَيْهِ مِمَّا حَلَّ لِلرِّجَالِ مِنْ أَهْلِهِ، حَتَّى يَرْجِعَ النَّاسُ‏.‏",
+        "translations": {
+          "en": "Narrated Masruq:that he came to `Aisha and said to her, \"O Mother of the Believers! There is a man who sends a Hadi to Ka`ba and stays in his city and requests that his Hadi camel be garlanded while he remains in a state of Ihram from that day till the people finish their Ihram (after completing all the ceremonies of Hajj)\" (What do you say about it?) Masruq added, I heard the clapping of her hands behind the curtain. She said, \"I used to twist the garlands for the Hadi of Allah's Messenger (ﷺ) and he used to send his Hadi to Ka`ba but he never used to regard as unlawful what was lawful for men to do with their wives till the people returned (from the Hajj)",
+          "ur": "ہم سے احمد بن محمد نے بیان کیا، کہا ہم کو عبداللہ نے خبر دی، انہیں اسماعیل نے خبر دی، انہیں شعبی نے، انہیں مسروق نے کہ وہ عائشہ رضی اللہ عنہا کی خدمت میں آئے اور عرض کیا کہ ام المؤمنین! اگر کوئی شخص قربانی کا جانور کعبہ میں بھیج دے اور خود اپنے شہر میں مقیم ہو اور جس کے ذریعے بھیجے اسے اس کی وصیت کر دے کہ اس کے جانور کے گلے میں ( نشانی کے طور پر ) ایک قلادہ پہنا دیا جائے تو کیا اس دن سے وہ اس وقت تک کے لیے محرم ہو جائے گا جب تک حاجی اپنا احرام نہ کھول لیں۔ بیان کیا کہ اس پر میں نے پردے کے پیچھے ام المؤمنین کے اپنے ایک ہاتھ سے دوسرے ہاتھ پر مارنے کی آواز سنی اور انہوں نے کہا میں خود نبی کریم صلی اللہ علیہ وسلم کے قربانی کے جانوروں کے قلادے باندھتی تھی، نبی کریم صلی اللہ علیہ وسلم اسے کعبہ بھیجتے تھے لیکن لوگوں کے واپس ہونے تک نبی کریم صلی اللہ علیہ وسلم پر کوئی چیز حرام نہیں ہوتی تھی جو ان کے گھر کے دوسرے لوگوں کے لیے حلال ہو۔",
+          "fr": "Rapporté par Masruq : Il est allé voir `Aisha et lui a dit : « Ô Mère des Croyants ! Il y a un homme qui envoie un animal destiné au sacrifice à la Ka`ba, reste dans sa ville et demande qu’on mette une guirlande à son chameau tout en restant en état d’ihram depuis ce jour jusqu’à la fin de l’ihram des gens (après avoir accompli tous les rites du Hajj). » Masruq ajoute : J’ai entendu le bruit de ses mains qui frappaient derrière le rideau. Elle a dit : « Je faisais les guirlandes pour les animaux destinés au sacrifice du Messager d’Allah (ﷺ) et il envoyait son animal à la Ka`ba, mais il ne considérait pas interdit ce qui était permis aux hommes avec leurs femmes jusqu’au retour des gens (du Hajj). »",
+          "id": "Telah menceritakan kepada kami [Ahmad bin Muhammad] telah mengabarkan kepada kami [Abdullah] telah mengabarkan kepada kami [Isma'il] dari [Asy Sya'bi] dari [Masruq] bahwa dia pernah menemui [Aisyah] sambil bertanya; \"Wahai ummul mukminin, ada seorang laki-laki mengirimkan hewan kurbannya ke Ka'bah, sementara laki-laki yang mengirim binatang kurban itu berada di daerahnya, dia berwasiat (kepada orang yang di serahi binatang kurban) untuk mengalungi binatang kurbannya. Waktu itu laki-laki (yang di serahi binatang kurban) masih dalam keadaan ihram, hingga akhirnya orang-orang melakukan tahallul.\" Masruq berkata; \"Kemudian aku mendengar tepuk tangan Aisyah dari balik tabir sambil berkata; \"Sesungguhnya aku juga pernah membuatkan kalung binatang kurban Rasulullah shallallahu 'alaihi wasallam, kemudian beliau mengirim binatang kurban itu ke Ka'bah, dan segala sesuatu yang halal di lakukan oleh suami kepada isterinya di haramkan atasnya hingga orang-orang kembali pulang (dari menunaikan ibadah haji)",
+          "tr": "Mesruk'tan rivayete göre; \"O, Aişe r.anha'nın yanına giderek ona: Ey mu'minlerin annesi, bir adam Ka'be'ye kurbanlığını gönderse, kendisi de bulunduğu yerde otursa, gönderdiği kimselere kurbanlık devesine gerdanıık takılmasını tavsiye etse, o günden itibaren insanlar ihramdan çıkıncaya kadar kendisi de ihramlı kalmaya devam eder (mi), dedi. Mesruk devamla: Ben onun hicabın (perdenin) arkasından ellerini çırpmasının sssini işittim. Sonra: Ben Resulullah Sallallahu Aleyhi ve Sellem'in Harem'e gönderdiği kurbanlıkların gerdanlıklarını bükerdim. ° da hediyelik kurbanlıklarını Ka'be'ye gönderirdi. Ama insanlar (Hac'dan) geri dönünceye kadar erkeklere hanımlarından helal olan hiçbir şey de haram olmazdı, dedi.\" Fethu'l-Bari Açıklaması: ed-Davudl, Aişe radıyallahu anha'nın \"hediyelik kurbanlıklarını\" sözlerini MeymOnelnin merfu olarak rivayet ettiği: \"Zülhicce'nin ilk on günü girdi mi kurban kesmek isteyen bir kimse saçını kesmesin, tırnaklarını kesmesin\" şeklindeki hadisinin, Aişe radıyallahu anha'nın hadisiyle mensuh yahut nasih olması gerektiğine delil göstermiştir. İbnu't-TIn dedi ki: Ancak buna gerek yoktur. Çünkü Aişe radıyallahu anha kurbanlığını Harem'in içerisine gönderen bir kimsenin, mücerred göndermesi sebebiyle ihramlı olmasını kabul etmemiş, ancak özelolarak Zülhicce'nin ilk on gününde kaçınılması müstehap olan saçları ve tırnakları kesmeyi ele almamıştır. Daha sonra İbnu't-TIn şunları söylemektedir: Fakat hadisin umumi ifadesi edDawdi'nin dediğine delil teşkil etmektedir. Şafil de Zülhicce'nin ilk on gününde bu işlerin mubah olduğuna bunu delil göstermiştir. İbnu't-TIn dedi ki: Sözü geçen hadisi de Müslim, Ebu Davud, Tirmizi ve Nesai rivayet etmiş bulunmaktadır. Derim ki: Söz konusu bu hadis MeymCıne'nin rivayet ettiği bir hadis değil, Ümmü Selemelnin rivayet ettiği bir hadistir"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 73,
+        "hadith": 22
+      },
+      "narrator": {
+        "en": "Masruq"
+      }
+    },
+    {
+      "hadithNumber": 5567,
+      "arabicNumber": 5567,
+      "book": 73,
+      "hadithInBook": 23,
+      "text": {
+        "arabic": "حَدَّثَنَا عَلِيُّ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا سُفْيَانُ، قَالَ عَمْرٌو أَخْبَرَنِي عَطَاءٌ، سَمِعَ جَابِرَ بْنَ عَبْدِ اللَّهِ ـ رضى الله عنهما ـ قَالَ كُنَّا نَتَزَوَّدُ لُحُومَ الأَضَاحِيِّ عَلَى عَهْدِ النَّبِيِّ صلى الله عليه وسلم إِلَى الْمَدِينَةِ، وَقَالَ غَيْرَ مَرَّةٍ لُحُومَ الْهَدْىِ‏.‏",
+        "translations": {
+          "en": "Narrated Jabir bin `Abdullah:During the lifetime of the Prophet (ﷺ) we used to take with us the meat of the sacrifices (of Id al Adha) to Medina. (The narrator often said. The meat of the Hadi)",
+          "ur": "ہم سے علی بن عبداللہ نے بیان کیا، ان سے سفیان نے بیان کیا کہ عمرو نے بیان کیا، انہیں عطاء نے خبر دی، انہوں نے جابر بن عبداللہ رضی اللہ عنہما سے سنا، انہوں نے بیان کیا کہ مدینہ پہنچنے تک ہم رسول اللہ صلی اللہ علیہ وسلم کے زمانے میں قربانی کا گوشت جمع کرتے تھے اور کئی مرتبہ ( بجائے «لحوم الأضاحي» کے ) «لحوم الهدى‏.‏» کا لفظ استعمال کیا۔",
+          "fr": "Rapporté par Jabir bin `Abdullah : Du vivant du Prophète (ﷺ), nous ramenions à Médine la viande des sacrifices (de l’Aïd al-Adha). (Le narrateur disait souvent : la viande des animaux destinés au sacrifice)",
+          "id": "Telah menceritakan kepada kami [Ali bin Abdullah] telah menceritakan kepada kami [Sufyan], ['Amru] berkata; telah mengabarkan kepadaku ['Atha`] bahwa dia mendengar [Jabir bin Abdullah] radliallahu 'anhuma berkata; Pada masa Nabi shallallahu 'alaihi wasallam kami biasa menyimpan daging kurban sebagai perbekalan kami menuju Madinah, Jabir juga mengatakan berkali-kali tentang daging binatang kurban",
+          "tr": "Cabir b. Abdullah r.a.'dan, dedi ki: \"Biz Nebi Sallallahu Aleyhi ve Sellem'in zamanında kurbanlık etleri azık yapar ve onları Medine'ye kadar getirirdik. \" (Süfyan) çoğu kere de: \"Hedy (deve) kurbanlıkların etlerini. .. \" demiştir"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 73,
+        "hadith": 23
+      },
+      "narrator": {
+        "en": "Jabir bin `Abdullah"
+      }
+    },
+    {
+      "hadithNumber": 5568,
+      "arabicNumber": 5568,
+      "book": 73,
+      "hadithInBook": 24,
+      "text": {
+        "arabic": "حَدَّثَنَا إِسْمَاعِيلُ، قَالَ حَدَّثَنِي سُلَيْمَانُ، عَنْ يَحْيَى بْنِ سَعِيدٍ، عَنِ الْقَاسِمِ، أَنَّ ابْنَ خَبَّابٍ، أَخْبَرَهُ أَنَّهُ، سَمِعَ أَبَا سَعِيدٍ، يُحَدِّثُ أَنَّهُ كَانَ غَائِبًا، فَقَدِمَ فَقُدِّمَ إِلَيْهِ لَحْمٌ‏.‏ قَالَ وَهَذَا مِنْ لَحْمِ ضَحَايَانَا‏.‏ فَقَالَ أَخِّرُوهُ لاَ أَذُوقُهُ‏.‏ قَالَ ثُمَّ قُمْتُ فَخَرَجْتُ حَتَّى آتِيَ أَخِي قَتَادَةَ ـ وَكَانَ أَخَاهُ لأُمِّهِ، وَكَانَ بَدْرِيًّا ـ فَذَكَرْتُ ذَلِكَ لَهُ فَقَالَ إِنَّهُ قَدْ حَدَثَ بَعْدَكَ أَمْرٌ‏.‏",
+        "translations": {
+          "en": "Narrated Abu Sa`id Al-Khudri:that once he was not present (at the time of `Id-al-Adha) and when he came. some meat was presented to him. and the people said (to him), 'This is the meat of our sacrifices\" He said. 'Take it away; I shall not taste it. (In his narration) Abu Sa`id added: I got up and went to my brother, Abu Qatada (who was his maternal brother and was one of the warriors of the battle of Badr) and mentioned that to him He Sa`d. 'A new verdict was given in your absence (i.e., meat of sacrifices was allowed to be stored and eaten later on)",
+          "ur": "ہم سے اسماعیل نے بیان کیا، کہا کہ مجھ سے سلیمان نے بیان کیا، ان سے یحییٰ بن سعید نے، ان سے قاسم نے، انہیں ابن خزیمہ نے خبر دی، انہوں نے ابوسعید رضی اللہ عنہ سے سنا، انہوں نے بیان کیا کہ وہ سفر میں تھے جب واپس آئے تو ان کے سامنے گوشت لایا گیا۔ کہا گیا کہ یہ ہماری قربانی کا گوشت ہے۔ ابوسعید رضی اللہ عنہ نے کہا کہ اسے ہٹاؤ میں اسے نہیں چکھوں گا۔ ابوسعید رضی اللہ عنہ نے بیان کیا کہ پھر اٹھ گیا اور گھر سے باہر نکل کر اپنے بھائی ابوقتادہ رضی اللہ عنہ کے پاس آیا وہ ماں کی طرف سے ان کے بھائی تھے اور بدر کی لڑائی میں شرکت کرنے والوں میں سے تھے۔ میں نے ان سے اس کا ذکر کیا اور انہوں نے کہا کہ تمہارے بعد حکم بدل گیا ہے۔",
+          "fr": "Rapporté par Abu Sa`id Al-Khudri : Une fois, il n’était pas présent lors de l’Aïd al-Adha et, à son retour, on lui a présenté de la viande. Les gens lui ont dit : « C’est la viande de nos sacrifices. » Il a dit : « Enlevez-la, je n’y toucherai pas. » (Dans son récit) Abu Sa`id ajoute : Je me suis levé et je suis allé voir mon frère, Abu Qatada (qui était son demi-frère maternel et un des combattants de la bataille de Badr), et je lui ai raconté cela. Il a dit : « Une nouvelle décision a été prise pendant ton absence (c’est-à-dire qu’il est désormais permis de conserver et de manger la viande des sacrifices plus tard). »",
+          "id": "Telah menceritakan kepada kami [Isma'il] dia berkata; telah menceritakan kepadaku [Sulaiman] dari [Yahya bin Sa'id] dari [Al Qasim] bahwa [Ibnu Khabbab] mengabarkan kepadanya, dia pernah mendengar [Abu Sa'id] bercerita bahwa suatu ketika dia pernah datang dari suatu perjalanan, lalu beberapa potong daging di hidangkan di hadapannya, keluarganya berkata; \"Ini adalah sisa dari daging kurban kita.\" Maka Abu Sa'id berkata; \"Singkirkanlah, sebab aku tidak mau memakannya.\" Abu Sa'id melanjutkan, setelah itu aku berdiri dan pergi menemui saudaraku yaitu Abu Qatadah -dia adalah saudara seibu dan salah seorang ahli Badr- lalu aku menceritakan hal itu kepadanya, Abu Qatadah menjawab; \"Sesungguhnya telah terjadi pula peristiwa seperti yang kamu alami",
+          "tr": "Kasım'dan rivayete göre İbn Habbab kendisine Ebu Said'işu hadisi naklederken dinlediğini haber vermiştir: \"Ebu Said bir seferinde evinden uzakta idi. Seferden geri döndü. Ona bir et takdim edilerek: Bu bizim kestiğimiz kurbanlıkların etlerindendir, dediler. O: Bunu geri çekiniz. Ben onun tadına bakmam dedi. (Ebu Said) dedi ki: Sonra kalkıp çıktım ve nihayet kardeşim Ebu Katade'nin yanına kadar vardım. -Ebu Katade onun anne bir kardeşi olup Bedir'e katılan ashabdandı- bunu ona nakledince, o: Senden sonra yeni bir hal meydana geldi, dedi"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 73,
+        "hadith": 24
+      },
+      "narrator": {
+        "en": "Abu Sa`id Al-Khudri"
+      }
+    },
+    {
+      "hadithNumber": 5569,
+      "arabicNumber": 5569,
+      "book": 73,
+      "hadithInBook": 25,
+      "text": {
+        "arabic": "حَدَّثَنَا أَبُو عَاصِمٍ، عَنْ يَزِيدَ بْنِ أَبِي عُبَيْدٍ، عَنْ سَلَمَةَ بْنِ الأَكْوَعِ، قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ مَنْ ضَحَّى مِنْكُمْ فَلاَ يُصْبِحَنَّ بَعْدَ ثَالِثَةٍ وَفِي بَيْتِهِ مِنْهُ شَىْءٌ ‏\"‏‏.‏ فَلَمَّا كَانَ الْعَامُ الْمُقْبِلُ قَالُوا يَا رَسُولَ اللَّهِ نَفْعَلُ كَمَا فَعَلْنَا عَامَ الْمَاضِي قَالَ ‏\"‏ كُلُوا وَأَطْعِمُوا وَادَّخِرُوا فَإِنَّ ذَلِكَ الْعَامَ كَانَ بِالنَّاسِ جَهْدٌ فَأَرَدْتُ أَنْ تُعِينُوا فِيهَا ‏\"‏‏.‏",
+        "translations": {
+          "en": "Narrated Salama bin Al-Aqua':The Prophet (ﷺ) said, \"Whoever has slaughtered a sacrifice should not keep anything of Its meat after three days.\" When it was the next year the people said, \"O Allah's Messenger (ﷺ)! Shall we do as we did last year?\" He said, ' Eat of it and feed of it to others and store of it for in that year the people were having a hard time and I wanted you to help (the needy)",
+          "ur": "ہم سے ابوعاصم نے بیان کیا، ان سے یزید بن ابی عبید نے اور ان سے سلمہ بن الاکوع رضی اللہ عنہ نے بیان کیا کہ نبی کریم صلی اللہ علیہ وسلم نے فرمایا کہ جس نے تم میں سے قربانی کی تو تیسرے دن وہ اس حالت میں صبح کرے کہ اس کے گھر میں قربانی کے گوشت میں سے کچھ بھی باقی نہ ہو۔ دوسرے سال صحابہ کرام رضی اللہ عنہم نے عرض کیا: یا رسول اللہ! کیا ہم اس سال بھی وہی کریں جو پچھلے سال کیا تھا۔ ( کہ تین دن سے زیادہ قربانی کا گوشت بھی نہ رکھیں ) ۔ نبی کریم صلی اللہ علیہ وسلم نے فرمایا کہ اب کھاؤ، کھلاؤ اور جمع کرو۔ پچھلے سال تو چونکہ لوگ تنگی میں مبتلا تھے، اس لیے میں نے چاہا کہ تم لوگوں کی مشکلات میں ان کی مدد کرو۔",
+          "fr": "Rapporté par Salama bin Al-Aqua' : Le Prophète (ﷺ) a dit : « Celui qui a sacrifié un animal ne doit rien garder de sa viande après trois jours. » L’année suivante, les gens ont demandé : « Ô Messager d’Allah (ﷺ) ! Devons-nous faire comme l’an dernier ? » Il a répondu : « Mangez-en, donnez-en à manger aux autres et gardez-en, car cette année-là les gens traversaient une période difficile et je voulais que vous aidiez (ceux dans le besoin). »",
+          "id": "Telah menceritakan kepada kami [Abu 'Ashim] dari [Yazid bin Abu 'Ubaid] dari [Salamah bin Al Akwa'] dia berkata; Nabi shallallahu 'alaihi wasallam bersabda: \"Siapa saja di antara kalian yang berkurban, janganlah menyisakan daging kurban di rumahnya melebihi tiga hari.\" Pada tahun berikutnya orang-orang bertanya; \"Wahai Rasulullah, apakah kami harus melakukan sebagaimana yang kami lakukan pada tahun lalu?\" beliau bersabda: \"Makanlah daging kurban tersebut dan bagilah sebagiannya kepada orang lain serta simpanlah sebagian yang lain, sebab tahun lalu orang-orang dalam keadaan kesusahan, oleh karena itu saya bermaksud supaya kalian dapat membantu mereka",
+          "tr": "Seleme b. el-Ekva'dan, dedi ki: \"Nebi Sallallahu Aleyhi ve Sellem: Sizden kim kurban kesmişse artık üçüncü geceden sonra evinde ondan bir şey kalmış olarak sabahı etmesin, diye buyurdu. Ertesi sene olunca, ashab: Ey Allah'ın Rasulü, geçen yıl yaptığımız gibi yapalım mı, diye sordular. Allah Rasulü: Yiyin, yedirin ve saklayın. Çünkü geçen sene insanlar darlık ve sıkıntı içerisinde idiler. Bu sebeple ben de bu sıkıntıda yardımcı olmanız! istedim, buyurdu"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 73,
+        "hadith": 25
+      },
+      "narrator": {
+        "en": "Salama bin Al-Aqua'"
+      }
+    },
+    {
+      "hadithNumber": 5570,
+      "arabicNumber": 5570,
+      "book": 73,
+      "hadithInBook": 26,
+      "text": {
+        "arabic": "حَدَّثَنَا إِسْمَاعِيلُ بْنُ عَبْدِ اللَّهِ، قَالَ حَدَّثَنِي أَخِي، عَنْ سُلَيْمَانَ، عَنْ يَحْيَى بْنِ سَعِيدٍ، عَنْ عَمْرَةَ بِنْتِ عَبْدِ الرَّحْمَنِ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ قَالَتِ الضَّحِيَّةُ كُنَّا نُمَلِّحُ مِنْهُ، فَنَقْدَمُ بِهِ إِلَى النَّبِيِّ صلى الله عليه وسلم بِالْمَدِينَةِ فَقَالَ ‏ \"‏ لاَ تَأْكُلُوا إِلاَّ ثَلاَثَةَ أَيَّامٍ ‏\"‏‏.‏ وَلَيْسَتْ بِعَزِيمَةٍ، وَلَكِنْ أَرَادَ أَنْ يُطْعِمَ مِنْهُ وَاللَّهُ أَعْلَمُ‏.‏",
+        "translations": {
+          "en": "Narrated `Aisha:We used to salt some of the meat of sacrifice and present it to the Prophet (ﷺ) at Medina. Once he said, \"Do not eat (of that meat) for more than three days.\" That was not a final order, but (that year) he wanted us to feed of it to others, Allah knows better",
+          "ur": "ہم سے اسماعیل بن عبداللہ نے بیان کیا، کہا کہ مجھ سے میرے بھائی نے بیان کیا، ان سے سلیمان نے اور ان سے یحییٰ بن سعید نے، ان سے عمرہ بنت عبدالرحمٰن نے اور ان سے عائشہ رضی اللہ عنہا نے بیان کیا کہ مدینہ میں ہم قربانی کے گوشت میں نمک لگا کر رکھ دیتے تھے اور پھر اسے رسول اللہ صلی اللہ علیہ وسلم کی خدمت میں بھی پیش کرتے تھے پھر نبی کریم صلی اللہ علیہ وسلم نے فرمایا کہ قربانی کا گوشت تین دن سے زیادہ نہ کھایا کرو۔ یہ حکم ضروری نہیں تھا بلکہ آپ کا منشا یہ تھا کہ ہم قربانی کا گوشت ( ان لوگوں کو بھی جن کے یہاں قربانی نہ ہوئی ہو ) کھلائیں اور اللہ زیادہ جاننے والا ہے۔",
+          "fr": "Rapporté par `Aisha : Nous avions l’habitude de saler une partie de la viande du sacrifice et de l’apporter au Prophète (ﷺ) à Médine. Un jour, il a dit : « Ne mangez pas de cette viande plus de trois jours. » Ce n’était pas un ordre définitif, mais cette année-là, il voulait que nous en donnions aux autres. Allah sait mieux",
+          "id": "Telah menceritakan kepada kami [Isma'il bin Abdullah] dia berkata; telah menceritakan kepadaku [saudaraku] dari [Sulaiman] dari [Yahya bin Sa'id] dari ['Amrah binti Abdurrahman] dari [Aisyah] radliallahu 'anha dia berkata; Kami pernah menggarami daging kurban, lalu kami menyerahkannya kepada Nabi shallallahu 'alaihi wasallam di Madinah, maka beliau bersabda: \"Janganlah kalian memakannya jika melebihi tiga hari, hal ini bukan karena keharusan, akan tetapi aku hanya hendak membagikannya kepada yang lain.\" Wallahu a'lam",
+          "tr": "Aişe r.anha'dan, dedi ki: \"Biz kurbanlık etlerin bir kısmını tuzlar ve onu Medine'de Nebi Sallallahu Aleyhi ve Sellem'e getirirdik. Allah Rasulü: Üç günden fazla yemeyiniz, buyurdu. (Aişe:) Ancak bu kesin bir yasak değildi. Fakat bizim kurbanlıklardan başkasına yedirmemizi istedi. Bununla birlikte doğrusunu en iyi bilen Allah'tır, dedi"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 73,
+        "hadith": 26
+      },
+      "narrator": {
+        "en": "`Aisha"
+      }
+    },
+    {
+      "hadithNumber": 5571,
+      "arabicNumber": 5571,
+      "book": 73,
+      "hadithInBook": 27,
+      "text": {
+        "arabic": "حَدَّثَنَا حِبَّانُ بْنُ مُوسَى، أَخْبَرَنَا عَبْدُ اللَّهِ، قَالَ أَخْبَرَنِي يُونُسُ، عَنِ الزُّهْرِيِّ، قَالَ حَدَّثَنِي أَبُو عُبَيْدٍ، مَوْلَى ابْنِ أَزْهَرَ أَنَّهُ شَهِدَ الْعِيدَ يَوْمَ الأَضْحَى مَعَ عُمَرَ بْنِ الْخَطَّابِ ـ رضى الله عنه ـ فَصَلَّى قَبْلَ الْخُطْبَةِ، ثُمَّ خَطَبَ النَّاسَ فَقَالَ يَا أَيُّهَا النَّاسُ إِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَدْ نَهَاكُمْ عَنْ صِيَامِ هَذَيْنِ الْعِيدَيْنِ، أَمَّا أَحَدُهُمَا فَيَوْمُ فِطْرِكُمْ مِنْ صِيَامِكُمْ وَأَمَّا الآخَرُ فَيَوْمٌ تَأْكُلُونَ نُسُكَكُمْ‏.‏",
+        "translations": {
+          "en": "Narrated Abu `Ubaid:the freed slave of Ibn Azhar that he witnessed the Day of `Id-al-Adha with `Umar bin Al-Khattab. `Umar offered the `Id prayer before the sermon and then delivered the sermon before the people, saying, \"O people! Allah's Messenger (ﷺ) has forbidden you to fast (on the first day of) each of these two 'Ida, for one of them is the Day of breaking your fast, and the other is the one, on which you eat the meat of your sacrifices",
+          "ur": "ہم سے حبان بن موسیٰ نے بیان کیا، انہوں نے کہا ہم کو عبداللہ نے خبر دی، انہوں نے کہا کہ مجھے یونس نے خبر دی، ان سے زہری نے، انہوں نے کہا کہ مجھے ابن ازہر کے غلام ابو عبید نے بیان کیا کہ وہ بقر عید کے دن عمر بن خطاب رضی اللہ عنہ کے ساتھ عیدگاہ میں موجود تھے۔ عمر رضی اللہ عنہ نے خطبہ سے پہلے عید کی نماز پڑھائی پھر لوگوں کے سامنے خطبہ دیا اور خطبہ میں فرمایا اے لوگو! رسول اللہ صلی اللہ علیہ وسلم نے تمہیں ان دو عیدوں میں روزہ رکھنے سے منع فرمایا ہے ایک وہ دن ہے جس دن تم ( رمضان کے ) روزے پورے کر کے افطار کرتے ہو ( عیدالفطر ) اور دوسرا تمہاری قربانی کا دن ہے۔",
+          "fr": "Rapporté par Abu `Ubaid : L’esclave affranchi d’Ibn Azhar a raconté qu’il a assisté au jour de l’`Id al-Adha avec `Umar bin Al-Khattab. `Umar a accompli la prière de l’`Id avant le sermon, puis il a fait un sermon devant les gens en disant : « Ô gens ! Le Messager d’Allah (ﷺ) vous a interdit de jeûner le premier jour de chacun de ces deux `Id, car l’un est le jour où vous rompez le jeûne, et l’autre est celui où vous mangez la viande de vos sacrifices. »",
+          "tr": "İbn Ezher'in mevlası Ubeyd'den rivayete göre; \"O kurban bayramı birinci günü Ömer b. el-Hattab r.a. ile birlikte bayramda hazır olduk. Ömer hutbeden önce namaz kıldırdı. Sonra insanlara hutbe verdi. Ey insanlar! Rasulullah Sallallahu Aleyhi ve Sellem size bu iki bayram (ın birinci günü) oruç tutmanızı yasakladı. Bunların biri orucunuzu bitirdikten sonra oruç açtığınız gün (olan ramazan bayramı birinci günü)dür. Diğeri ise kestiğiniz kurbanlıklardan yiyeceğiniz gündür, dedi"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 73,
+        "hadith": 27
+      },
+      "narrator": {
+        "en": "Abu `Ubaid"
+      }
+    },
+    {
+      "hadithNumber": 5572,
+      "arabicNumber": 5572,
+      "book": 73,
+      "hadithInBook": 28,
+      "text": {
+        "arabic": "قَالَ أَبُو عُبَيْدٍ ثُمَّ شَهِدْتُ مَعَ عُثْمَانَ بْنِ عَفَّانَ فَكَانَ ذَلِكَ يَوْمَ الْجُمُعَةِ، فَصَلَّى قَبْلَ الْخُطْبَةِ ثُمَّ خَطَبَ فَقَالَ يَا أَيُّهَا النَّاسُ إِنَّ هَذَا يَوْمٌ قَدِ اجْتَمَعَ لَكُمْ فِيهِ عِيدَانِ، فَمَنْ أَحَبَّ أَنْ يَنْتَظِرَ الْجُمُعَةَ مِنْ أَهْلِ الْعَوَالِي فَلْيَنْتَظِرْ، وَمَنْ أَحَبَّ أَنْ يَرْجِعَ فَقَدْ أَذِنْتُ لَهُ‏.‏",
+        "translations": {
+          "en": "Narrated Abu `Ubaid:(in continuation of above). Then I witnessed the `Id with `Uthman bin `Affan, and that was on a Friday. He offered the prayer before the sermon, saying, \"O people! Today you have two 'Its (festivals) together, so whoever of those who live at Al-`Awali (suburbs) would like to wait for the Jumua prayer, he may wait, and whoever would like to return (home) Is granted my permission to do so",
+          "ur": "ابو عبید نے بیان کیا کہ پھر میں عثمان بن عفان رضی اللہ عنہ کے ساتھ ( ان کی خلافت کے زمانہ میں عیدگاہ میں ) حاضر تھا۔ اس دن جمعہ بھی تھا۔ آپ نے خطبہ سے پہلے نماز عید پڑھائی پھر خطبہ دیا اور فرمایا کہ اے لوگو! آج کے دن تمہارے لیے دو عیدیں جمع ہو گئیں ہیں۔ ( عید اور جمعہ ) پس اطراف کے رہنے والوں میں سے جو شخص پسند کرے جمعہ کا بھی انتظار کرے اور اگر کوئی واپس جانا چاہے ( نماز عید کے بعد ہی ) تو وہ واپس جا سکتا ہے، میں نے اسے اجازت دے دی ہے۔",
+          "fr": "Rapporté par Abu `Ubaid : (suite du précédent). Ensuite, j’ai assisté à l’`Id avec `Uthman bin `Affan, et c’était un vendredi. Il a accompli la prière avant le sermon et a dit : « Ô gens ! Aujourd’hui, vous avez deux fêtes en même temps. Donc, ceux qui habitent à Al-`Awali (en banlieue) et qui veulent attendre la prière du vendredi peuvent attendre, et ceux qui préfèrent rentrer chez eux ont ma permission de le faire. »",
+          "id": "Telah menceritakan kepada kami [Hibban bin Musa] telah mengabarkan kepada kami [Abdullah] dia berkata; telah mengabarkan kepadaku [Yunus] dari [Az Zuhri] dia berkata; telah menceritakan kepadaku [Abu 'Ubaid] bekas budak Ibnu Azhar, bahwa dia pernah ikut shalat Iedul Adlha bersama [Umar bin Khatthab] radliallahu 'anhu, maka dia mengerjakan shalat sebelum khutbah, lalu berkhutbah di hadapan manusia, katanya; \"Wahai sekalian manusia, sesungguhnya Rasulullah shallallahu 'alaihi wasallam telah melarang kalian untuk berpuasa di dua hari raya ini, salah satu dari hari itu adalah hari raya di mana kalian berbuka setelah kalian berpuasa, sedangkan yang kedua adalah pada hari kalian memakan daging binatang kurban kalian.\" Abu 'Ubaid berkata; Setelah itu aku juga pernah shalat ied bersama [Utsman bin 'Affan], waktu itu bertepatan dengan hari Jum'at, kemudian dia mengerjakan shalat ied sebelum berkhutbah lalu berkhutbah, katanya; \"Wahai sekalian manusia, sesungguhnya pada hari ini telah berkumpul dua hari raya kalian, maka siapa di antara kalian dari penduduk luar kota yang hendak menunggu di sini (hingga tiba waktu Jum'at), silahkan menunggu, namun jika menginginkan pulang sekarang, maka aku telah mengizinkannya pulang.\" Abu 'Ubaid mengatakan; \"Setelah itu, aku juga pernah ikut shalat ied bersama [Ali bin Abu Thalib], dia mengerjakan shalat ied sebelum berkhutbah, kemudian dia berkhutbah di hadapan manusia, katanya; \"Sesungguhnya Rasulullah shallallahu 'alaihi wasallam telah melarang kalian memakan daging kurban kalian lebih dari tiga hari.\" Dari dari [Ma'mar] dari [Az Zuhri] dari [Abu 'Ubaid] seperti itu juga",
+          "tr": "Eba. Ubeyd dedi ki: \"Sonra Osman b. Affan ile (bayramda) hazır bulundum. O gün Cuma günü idi. Hutbeden önce namaz kıldırdı, sonra hutbe vererek: Ey insanlar' Şüphesiz bugün sizin için iki bayramın bir arada olduğu bir gündür. Her kim Avaıi ahalisinden cumayı beklemeyi arzu ederse beklesin. Kim de dönmeyi arzu ederse ona izin verdim, dedi"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 73,
+        "hadith": 28
+      },
+      "narrator": {
+        "en": "Abu `Ubaid"
+      }
+    },
+    {
+      "hadithNumber": 5573,
+      "arabicNumber": 5573,
+      "book": 73,
+      "hadithInBook": 29,
+      "text": {
+        "arabic": "قَالَ أَبُو عُبَيْدٍ ثُمَّ شَهِدْتُهُ مَعَ عَلِيِّ بْنِ أَبِي طَالِبٍ، فَصَلَّى قَبْلَ الْخُطْبَةِ، ثُمَّ خَطَبَ النَّاسَ فَقَالَ إِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَاكُمْ أَنْ تَأْكُلُوا لُحُومَ نُسُكِكُمْ فَوْقَ ثَلاَثٍ‏.‏ وَعَنْ مَعْمَرٍ عَنِ الزُّهْرِيِّ عَنْ أَبِي عُبَيْدٍ نَحْوَهُ‏.‏",
+        "translations": {
+          "en": "Narrated Abu `Ubaid:(in continuation of above). Then I witnessed (the 'Its) with `Ali bin Abi Talib, and he too offered the `Id prayer before the sermon and then delivered the sermon before the people and said, \"Allah's Messenger (ﷺ) has forbidden you to eat the meat of your sacrifices for more than three days",
+          "ur": "ابوعبید نے بیان کیا کہ پھر میں عید کی نماز میں علی بن ابی طالب رضی اللہ عنہ کے ساتھ آیا۔ انہوں نے بھی نماز خطبہ سے پہلے پڑھائی پھر لوگوں کو خطبہ دیا اور کہا کہ رسول اللہ صلی اللہ علیہ وسلم نے تمہیں اپنی قربانی کا گوشت تین دن سے زیادہ کھانے کی ممانعت کی ہے اور معمر نے زہری سے اور ان سے ابوعبیدہ نے اسی طرح بیان کیا۔",
+          "fr": "Rapporté par Abu `Ubaid : (suite du précédent). Ensuite, j’ai assisté aux fêtes avec `Ali bin Abi Talib, et lui aussi a accompli la prière de l’`Id avant le sermon, puis il a fait un sermon devant les gens et a dit : « Le Messager d’Allah (ﷺ) vous a interdit de manger la viande de vos sacrifices plus de trois jours. »",
+          "tr": "Ebu Ubeyd dedi ki: \"Sonra bayramda Ali b. Ebi Talib ile birlikte bulundum. O da hutbeden önce namaz kıldırdJ. Sonra insanlara hutbe vererek: Şüphesiz Rasulullah Sallallahu Aleyhi ve Sellem sizlere üç günden fazla kurbanlıklarınızın etlerini yemenizi yasakladı, dedi"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 73,
+        "hadith": 29
+      },
+      "narrator": {
+        "en": "Abu `Ubaid"
+      }
+    },
+    {
+      "hadithNumber": 5574,
+      "arabicNumber": 5574,
+      "book": 73,
+      "hadithInBook": 30,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ الرَّحِيمِ، أَخْبَرَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ بْنِ سَعْدٍ، عَنِ ابْنِ أَخِي ابْنِ شِهَابٍ، عَنْ عَمِّهِ ابْنِ شِهَابٍ، عَنْ سَالِمٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ـ رضى الله عنهما ـ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ كُلُوا مِنَ الأَضَاحِيِّ ثَلاَثًا ‏\"‏‏.‏ وَكَانَ عَبْدُ اللَّهِ يَأْكُلُ بِالزَّيْتِ حِينَ يَنْفِرُ مِنْ مِنًى، مِنْ أَجْلِ لُحُومِ الْهَدْىِ‏.‏",
+        "translations": {
+          "en": "Narrated Salim:`Abdullah bin `Umar said, \"Allah's Messenger (ﷺ) said, \"Eat of the meat of sacrifices (of `Id al Adha) for three days.\" When `Abdullah departed from Mina, he used to eat (bread with) oil, lest he should eat of the meat of Hadi (which is regarded as unlawful after the three days of the `Id)",
+          "ur": "ہم سے محمد بن عبدالرحیم نے بیان کیا، انہوں نے کہا ہم کو یعقوب بن ابراہیم بن سعد نے خبر دی، انہیں ابن شہاب کے بھتیجے نے، انہیں ان کے چچا ابن شہاب (محمد بن مسلم) نے، انہیں سالم نے اور ان سے عبداللہ بن عمر رضی اللہ عنہما نے بیان کیا کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا کہ قربانی کا گوشت تین دن تک کھاؤ۔ عبداللہ بن عمر رضی اللہ عنہما منیٰ سے کوچ کرتے وقت روٹی زیتون کے تیل سے کھاتے کیونکہ وہ قربانی کے گوشت سے ( تین دن کے بعد ) پرہیز کرتے تھے۔",
+          "fr": "Rapporté par Salim : `Abdullah bin `Umar a dit : « Le Messager d’Allah (ﷺ) a dit : Mangez de la viande des sacrifices (de l’`Id al-Adha) pendant trois jours. » Quand `Abdullah quittait Mina, il mangeait du pain avec de l’huile, pour éviter de manger la viande du Hadi (qui est considérée comme interdite après les trois jours de l’`Id)",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Abdurrahim] telah mengabarkan kepada kami [Ya'qub bin Ibrahim bin Sa'd] dari [Ibnu Akhi Ibnu Syihab] dari pamannya [Ibnu Syihab] dari [Salim] dari [Abdullah bin Umar] radliallahu 'anhuma dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Makanlah daging kurban selama tiga hari.\" Sementara Abdullah makan daging kurban tersebut dengan minyak, ketika dia kembali dari Mina",
+          "tr": "Abdullah b. Ömer r.a.'dan rivayete göre Rasulullah Sallallahu Aleyhi ve Sellem şöyle buyurdu: \"Kurbanlık etlerinden üç gün yiyiniz. Abdullah da kurbanlıketlerinden yememek için Mina'dan ayrıldığı vakit (ekmeği) zeytinyağı ileyerdi.\" Fethu'l-Bari Açıklaması: \"Kurbanlık etlerinden yenilmesi.\" Yani üç gün ya da yarısı gibi bir kayıt olmaksızın \"ve ondan azık edinmek.\" Hem yolculuk için, hem hazarda demektir. Üç gün ile kayda dair açıklama ya neshedilmiştir yahut belli bir sebebe aittir. \"Senden sonra bir iş meydana geldi.\" el-leys şu fazlalığı eklemektedir: \"Bu iş üç günden sonra kurbanlık etlerini yemeğe dair kendilerine konulmuş olan yasağı kaldırdı.\" Bunu da Ahmed, Muhammed b. İshak'tan gelen rivayet olarak kaydetmiştir. Muhammed b. İshak dedi ki: \"Banababam ve Muhammed b. Ali b. Huseyn, Abdullah b. Habbab'dan tahdis etti, diyerek hadisi uzunca zikretmektedir. Ebu Said yoluyla hadisin lafzı şöyledir: \"RasÜlullah saJlaJlahu aJeyhi vesellem bizlere kurbanlık etlerimizi üç günden fazla yemeği yasa!\\damıştı. Ben bir yolculuğa çıktıktan sonra geriye aile halkımın yanına döndüm. -Bu dönüşüm de kurban bayramından birkaç gün sonra olmuştu.- Eşim bana içine kurutulmuş et katmış olduğu bir pazı yemeği getirdi. Bu (et) kurbanlıklarımızın etlerindendir, dedi. Ben ona: O (Allah Rasulü) bize bunu nehyetmedi mi, dedim. O: Gerçek şu ki bundan sonra insanlara bu hususta ruhsat verdi, dedi. Ama ben onu tasdik etmedim. Nihayet kardeşim Katade b. en-Numan'a haber gönderdim -diyerek hadisi zikretti. Bu rivayette şunlar da vardır: Rasulullah s.a.v. bu hususta Müslümanlara ruhsat verdi (dedi).\" \"İnsanlar açlık sebebiyle zorluk ile karşı karşıya idiler.\" Kıtlığın zorluk ve SIkıntısına düşmüşlerdi. \"Ancak bu kesin bir yasak değildi. Ama ondan yedirmemizi istemişti.\" Müslimlin kaydettiği Abdullah b. Ebi Bekr b. Hazm'ın, Amre'den naklettiği rivayette şöyle denilmektedir: \"Şüphesiz ben sizlere bunu, gelmiş olan o misafirler dolayısı ile yasaklamıştım. Artık kurban etlerinden tasadduk edebilir, saklayabilirsiniz de.\" Müslim'de hadisin baş tarafları şöyledir: \"Rasulullah Sallallahu Aleyhi ve Sellem döneminde kurban bayramına yakın bir zamanda çöl ahalisinden birtakım insanlar geldi. Allah Rasulü: Üç günlük için et saklayabilirsiniz, geri kalanı da tasadduk ediniz.\" dedi. Daha sonra: Ey Allah'ın Rasulü, insanlar kurbanlıklarından yararlanıyorlardı, denildi. Bunun üzerine o şöyle buyurdu: \"Ben sizlere gelen misafirler dolayısı ile (üç günden fazla) et saklamanızı yasaklamıştım. Artık ondan bir kısmını yiyiniz, tasadduk ediniz ve (bir kısmını da) saklayabilirsiniz.\" el-Hattabi dedi ki: \"ed-Duff\" hızlıca yürümek demektir. \"ed-Daffe\" (hadis tercümesinde: misafirler) aniden gelen muhtaçlar demektir. Bu hadislerin mutlak oluşu, yedirmek için yeterli olacak miktarda bir kayıtlama olmayacağına delil gösterilmiştir. Kurban kesen bir kimsenin kurbanlığından bir miktar yiyip, geri kalanı da sadaka ve hediye olarak başkasına yedirmesi müstehaptır. Şafii'den gelen rivayete göre kurban etlerinin üçe paylaştırılması müstehaptır. Çünkü Allah Rasulü: \"Ondan yiyiniz, tasadduk ediniz ve yediriniz\" diye buyurmuştur. İbn Abdilberr dedi ki: Ondan başkası da şöyle derdi: Yarısını yemesi, yarısını da başkasına yedirmesi müstehaptır. Nevevı dedi ki: Cumhurun görüşüne göre kurbanlıktan yemek vacip değildir. Buradaki emir bu hususta izin içindir. Seleften bazıları da emrin zahirini kabul etmek kanaatindedir. Kurban etinden tasadduk etmeye gelince, sahih olan, kurbanlıktan sadaka denilebilecek miktarın tasadduk edilmesinin vacip olduğudur. Daha kamil olanı ise onun çoğunluğunu tasadduk etmesidir. Şafii der ki: Üç günden sonra kurbanlık etlerinin alıkonulmasının yasaklanışının herhalde ve durumda neshedilmiş olma ihtimali vardır. Derim ki: Bu ikinci kanaati Şamlerin müteahhir olanları benimsemişlerdir. Rafi' dedi ki: Kuvvetli görünen görüş şu ki; bugün kurban etinden sa:klamak, hiçbir şekilde haram değildir. Nevevi de bu hususta onu takip ederek Şerhu'l-Mühezzeb adlı eserinde: Doğru olarak bilinen şu ki: Bugün kurbanlık etlerini saklamak hiç bir şekilde haram değildir, demektedir. Müslim Şerhindede alimlerin cumhurundan bunun sünnetin sünnet ile neshi türünden olduğu nakledilmektedir. Şöyle denmektedir: Doğru olan da nehyin mutlak olarak neshedildiği ve artık haramlığın da, mekruhluğun da kalmadığıdır. Bugün üç günden sonrasına yetecek kadarını saklamak da, dilediği zamana kadar yiyecek miktarını alıkoymak da mubahtır"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 73,
+        "hadith": 30
+      },
+      "narrator": {
+        "en": "Salim"
+      }
+    }
+  ],
+  "metadata": {
+    "averageLength": "medium",
+    "size": "19KB"
+  }
+}

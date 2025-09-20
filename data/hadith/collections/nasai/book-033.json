@@ -1,0 +1,495 @@
+{
+  "collection": "nasai",
+  "book": 33,
+  "name": {
+    "arabic": "كتاب The Book of ar-Ruqba",
+    "transliteration": "kitab ar-ruqba",
+    "translation": "The Book of ar-Ruqba"
+  },
+  "totalHadith": 14,
+  "hadithNumberRange": {
+    "first": 3706,
+    "last": 3719
+  },
+  "content": [
+    {
+      "hadithNumber": 3706,
+      "arabicNumber": 3706,
+      "book": 33,
+      "hadithInBook": 1,
+      "text": {
+        "arabic": "أَخْبَرَنَا هِلاَلُ بْنُ الْعَلاَءِ، قَالَ حَدَّثَنَا أَبِي قَالَ، حَدَّثَنَا عُبَيْدُ اللَّهِ، - وَهُوَ ابْنُ عَمْرٍو - عَنْ سُفْيَانَ، عَنِ ابْنِ أَبِي نَجِيحٍ، عَنْ طَاوُسٍ، عَنْ زَيْدِ بْنِ ثَابِتٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ الرُّقْبَى جَائِزَةٌ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Hilal bin Al-'Ala' informed us:\"My father narrated to us: Ubaidullah -he is, Ibn 'Amr- narrated to us, from Sufyan, from Ibn Abi Najih, from Tawus, from Zaid bin Thabit, that the Prophet said: 'Ar-Ruqba is permissible",
+          "ur": "زید بن ثابت رضی الله عنہ روایت کرتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: رقبیٰ لاگو ہو گا ۱؎۔",
+          "fr": "Rapporté par Hilal bin Al-'Ala' : Mon père nous a rapporté : Ubaidullah – c'est Ibn 'Amr – nous a rapporté, de Sufyan, d'Ibn Abi Najih, de Tawus, de Zaid bin Thabit, que le Prophète ﷺ a dit : « Ar-Ruqba est permise. »",
+          "id": "Telah mengabarkan kepada kami [Hilal bin Al 'Ala] berkata; telah menceritakan kepada kami [ayahku] berkata; telah menceritakan kepada kami ['Ubaidullah] -yaitu Ibnu 'Amru- dari [Sufyan] dari [Ibnu Abu Najih] dari [Thawus] darii [Zaid bin Tsabit] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: \"Ruqba itu dibolehkan"
+        }
+      },
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "nasai",
+        "book": 33,
+        "hadith": 1
+      }
+    },
+    {
+      "hadithNumber": 3707,
+      "arabicNumber": 3707,
+      "book": 33,
+      "hadithInBook": 2,
+      "text": {
+        "arabic": "أَخْبَرَنِي مُحَمَّدُ بْنُ عَلِيِّ بْنِ مَيْمُونٍ، قَالَ حَدَّثَنَا مُحَمَّدٌ، - وَهُوَ ابْنُ يُوسُفَ - قَالَ حَدَّثَنَا سُفْيَانُ، عَنِ ابْنِ أَبِي نَجِيحٍ، عَنْ طَاوُسٍ، عَنْ رَجُلٍ، عَنْ زَيْدِ بْنِ ثَابِتٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم جَعَلَ الرُّقْبَى لِلَّذِي أُرْقِبَهَا ‏.‏",
+        "translations": {
+          "en": "Muhammad bin 'Ali bin Maimun informed us, he said:\"Muhammad -he is, Ibn Yusuf- narrated to us, he said: 'Sufyan narrated to us from Ibn Abi Najih, from Tawus, from a man, from Zaid bin Thabit that the Prophet ruled that the Ruqba belongs to the one to whom it is given",
+          "ur": "زید بن ثابت رضی الله عنہ سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم نے رقبیٰ کو اسی کا حق قرار دیا ہے جسے رقبیٰ کیا گیا ہے ۱؎۔",
+          "fr": "Rapporté par Muhammad bin 'Ali bin Maimun : Muhammad – c'est Ibn Yusuf – nous a rapporté, il a dit : Sufyan nous a rapporté, d'Ibn Abi Najih, de Tawus, d'un homme, de Zaid bin Thabit, que le Prophète ﷺ a jugé que la Ruqba appartient à celui à qui elle est donnée",
+          "id": "Telah mengabarkan kepada kami [Muhammad bin Ali bin Maimun] berkata; telah menceritakan kepada kami [Muhammad] -yaitu Ibnu Yusuf- berkata; telah menceritakan kepada kami [Sufyan] dari [Ibnu Abu Najih] dari [Thawus] dari [seorang laki-laki] dari [Zaid bin Tsabit], bahwa Nabi shallallahu 'alaihi wasallam menjadikan ruqba untuk orang yang diberinya"
+        }
+      },
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "nasai",
+        "book": 33,
+        "hadith": 2
+      }
+    },
+    {
+      "hadithNumber": 3708,
+      "arabicNumber": 3708,
+      "book": 33,
+      "hadithInBook": 3,
+      "text": {
+        "arabic": "أَخْبَرَنَا زَكَرِيَّا بْنُ يَحْيَى، قَالَ حَدَّثَنَا عَبْدُ الْجَبَّارِ بْنُ الْعَلاَءِ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنِ ابْنِ أَبِي نَجِيحٍ، عَنْ طَاوُسٍ، لَعَلَّهُ عَنِ ابْنِ عَبَّاسٍ، قَالَ لاَ رُقْبَى فَمَنْ أُرْقِبَ شَيْئًا فَهُوَ سَبِيلُ الْمِيرَاثِ ‏.‏",
+        "translations": {
+          "en": "Zakariyya bin Yahya informed us, he said:\"Abdul-Jabbar bin Al-'Ala' narrated to us, he said: 'Sufyan narrated to us from Ibn Abi Najih, from Tawus, and perhaps it is from Ibn 'Abbas, who said: There is no Ruqba, and whoever gives a gift on the basis of Ruqba, it is part of his estate",
+          "ur": "عبداللہ بن عباس رضی الله عنہما کہتے ہیں کہ رقبیٰ ( مصلحتاً جائز ) نہیں ہے ( لیکن اگر کسی نے کر دیا ہے ) تو جسے رقبیٰ کیا گیا ہے اس کے ورثاء کو میراث میں ملے گا، دینے والے کو واپس نہ ہو گا۔",
+          "fr": "Rapporté par Zakariyya bin Yahya : Abdul-Jabbar bin Al-'Ala' nous a rapporté, il a dit : Sufyan nous a rapporté, d'Ibn Abi Najih, de Tawus, et peut-être d'Ibn 'Abbas, qui a dit : « Il n'y a pas de Ruqba, et celui qui fait un cadeau sous forme de Ruqba, cela fait partie de son héritage. »",
+          "id": "Telah mengabarkan kepada kami [Zakaria bin Yahya] berkata; telah menceritakan kepada kami [Abdul Jabbar bin Al 'Ala] berkata; telah menceritakan kepada kami [Sufyan] dari [Ibnu Abu Najih] dari [Thawus] kemungkinan dari [Ibnu Abbas] ia berkata, \"Tidak ada ruqba. Barangsiapa diberi sesuatu dengan system ruqba maka hal itu adalah jalan warisan"
+        }
+      },
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "nasai",
+        "book": 33,
+        "hadith": 3
+      }
+    },
+    {
+      "hadithNumber": 3709,
+      "arabicNumber": 3709,
+      "book": 33,
+      "hadithInBook": 4,
+      "text": {
+        "arabic": "أَخْبَرَنِي مُحَمَّدُ بْنُ وَهْبٍ، قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ سَلَمَةَ، قَالَ حَدَّثَنِي أَبُو عَبْدِ الرَّحِيمِ، قَالَ حَدَّثَنِي زَيْدٌ، عَنْ أَبِي الزُّبَيْرِ، عَنْ طَاوُسٍ، عَنِ ابْنِ عَبَّاسٍ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ لاَ تُرْقِبُوا أَمْوَالَكُمْ فَمَنْ أَرْقَبَ شَيْئًا فَهُوَ لِمَنْ أُرْقِبَهُ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Zaid narrated from Abu Az-Zubair, from Tawus, from Ibn 'Abbas that the Messenger of Allah said:\"Do not give away your property on the basis of Ruqba, for whoever gives a gift on that basis, it belongs to the one to whom he gave it",
+          "ur": "عبداللہ بن عباس رضی الله عنہما سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”تم اپنے مال کا رقبیٰ نہ کرو، اور جس نے کسی چیز کا رقبیٰ کیا تو وہ چیز اسی کی ہو گی جس کو وہ بطور رقبیٰ دی گئی“۔",
+          "fr": "Rapporté par Zaid, d'Abu Az-Zubair, de Tawus, d'Ibn 'Abbas : Le Messager d'Allah ﷺ a dit : « Ne donnez pas vos biens sous forme de Ruqba, car celui qui fait un cadeau de cette manière, cela appartient à celui à qui il l'a donné. »",
+          "id": "Telah mengabarkan kepada kami [Muhammad bin Wahb] berkata; telah menceritakan kepada kami [Muhammad bin Salamah] berkata; telah menceritakan kepadaku [Abu Abdurrahim] berkata; telah menceritakan kepadaku [Zaid] dari [Abu Az Zubair] dari [Thawus] dari [Ibnu Abbas] dari Rasulullah shallallahu 'alaihi wasallam, beliau bersabda: \"Janganlah memberikan harta kalian dengan system ruqba, barangsiapa memberikan sesuatu dengan system ruqba maka sesuatu tersebut untuk orang yang diberi"
+        }
+      },
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "nasai",
+        "book": 33,
+        "hadith": 4
+      }
+    },
+    {
+      "hadithNumber": 3710,
+      "arabicNumber": 3710,
+      "book": 33,
+      "hadithInBook": 5,
+      "text": {
+        "arabic": "أَخْبَرَنَا أَحْمَدُ بْنُ حَرْبٍ، قَالَ حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنْ حَجَّاجٍ، عَنْ أَبِي الزُّبَيْرِ، عَنْ طَاوُسٍ، عَنِ ابْنِ عَبَّاسِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ الْعُمْرَى جَائِزَةٌ لِمَنْ أُعْمِرَهَا وَالرُّقْبَى جَائِزَةٌ لِمَنْ أُرْقِبَهَا وَالْعَائِدُ فِي هِبَتِهِ كَالْعَائِدِ فِي قَيْئِهِ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Hajjaj narrated from Abu Az-Zubair, from Tawus, from Ibn 'Abbas, who said:\"The Messenger of Allah said: 'Umra (life-long gift) is permissible for the one to whom it is given, and Ruqba is permissible to the one to whom it is given, and the one who takes back his gift is like the one who goes back to his vomit",
+          "ur": "عبداللہ بن عباس رضی الله عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”عمریٰ ۱؎ لاگو ہو گا، اور وہ اسی کا حق ہو گا جسے وہ عمریٰ کیا گیا ہے، اور رقبیٰ لاگو ہو گا، اور یہ اسی کا ہو گا جسے وہ رقبیٰ کیا گیا ہو اور اپنا ہبہ کر کے واپس لینے والا قے کر کے چاٹنے والے کی طرح ہے“۔",
+          "fr": "Rapporté par Hajjaj, d'Abu Az-Zubair, de Tawus, d'Ibn 'Abbas : Le Messager d'Allah ﷺ a dit : « L'Umra (don à vie) est permise pour celui à qui elle est donnée, et la Ruqba est permise pour celui à qui elle est donnée, et celui qui reprend son cadeau est comme celui qui retourne à son vomi. »",
+          "id": "Telah mengabarkan kepada kami [Ahmad bin Harb] berkata; telah menceritakan kepada kami [Abu Mu'awiyah] dari [Hajjaj] dari [Abu Az Zubair] dari [Thawus] dari [Ibnu Abbas] berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Umra adalah diperbolehkan bagi orang yang diberinya dan ruqba diperbolehkan bagi orang yang diberinya, dan orang yang mengambil kembali pemberiannya seperti orang yang memakan kembali muntahannya"
+        }
+      },
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "nasai",
+        "book": 33,
+        "hadith": 5
+      }
+    },
+    {
+      "hadithNumber": 3711,
+      "arabicNumber": 3711,
+      "book": 33,
+      "hadithInBook": 6,
+      "text": {
+        "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ بَشَّارٍ، قَالَ حَدَّثَنَا يَحْيَى، قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ أَبِي الزُّبَيْرِ، عَنْ طَاوُسٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ الْعُمْرَى وَالرُّقْبَى سَوَاءٌ ‏.‏",
+        "translations": {
+          "en": "Sufyan narrated from Abu Az-Zubair, from Tawus, from Ibn 'Abbas, who said:\"'Umra and Ruqba are the same",
+          "ur": "عبداللہ بن عباس رضی الله عنہما کہتے ہیں کہ عمریٰ اور رقبیٰ دونوں برابر ہیں ( ان میں کچھ فرق نہیں ) ۔",
+          "fr": "Rapporté par Sufyan, d'Abu Az-Zubair, de Tawus, d'Ibn 'Abbas : « L'Umra et la Ruqba sont la même chose. »",
+          "id": "Telah mengabarkan kepada kami [Muhammad bin Basysyar] berkata; telah menceritakan kepada kami [Yahya] berkata; telah menceritakan kepada kami [Sufyan] dari [Abu Az Zubair] dari [Thawus] dari [Ibnu Abbas] berkata, \"'Umra dan Ruqba adalah sama"
+        }
+      },
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "nasai",
+        "book": 33,
+        "hadith": 6
+      }
+    },
+    {
+      "hadithNumber": 3712,
+      "arabicNumber": 3712,
+      "book": 33,
+      "hadithInBook": 7,
+      "text": {
+        "arabic": "أَخْبَرَنَا أَحْمَدُ بْنُ سُلَيْمَانَ، قَالَ حَدَّثَنَا يَعْلَى، قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ أَبِي الزُّبَيْرِ، عَنْ طَاوُسٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ لاَ تَحِلُّ الرُّقْبَى وَلاَ الْعُمْرَى فَمَنْ أُعْمِرَ شَيْئًا فَهُوَ لَهُ وَمَنْ أُرْقِبَ شَيْئًا فَهُوَ لَهُ ‏.‏",
+        "translations": {
+          "en": "(A different chain) from Sufyan, from Abu Az-Zubair, from Tawus, from Ibn 'Abbas, who said:\"Ruqba and 'Umra are not permissible; whoever is given something on the basis of 'Umra, it is his, and whoever is given something on the basis of Ruqba, it is his",
+          "ur": "عبداللہ بن عباس رضی الله عنہما کہتے ہیں کہ رقبیٰ اور عمریٰ جائز نہیں ہیں ۱؎ لیکن اگر کسی نے کوئی چیز عمریٰ کسی کو دی تو وہ اسی کی ہو جائے گی جسے عمریٰ میں دی گئی ہے، اور جس نے کسی کو کوئی چیز رقبیٰ کی تو وہ چیز اس کی ہو جائے گی جسے اس نے رقبیٰ کی ہے۔",
+          "fr": "Rapporté par une autre chaîne, de Sufyan, d'Abu Az-Zubair, de Tawus, d'Ibn 'Abbas : « La Ruqba et l'Umra ne sont pas permises ; celui à qui on donne quelque chose sous forme d'Umra, c'est à lui, et celui à qui on donne quelque chose sous forme de Ruqba, c'est à lui. »",
+          "id": "Telah mengabarkan kepada kami [Ahmad bin Sulaiman] berkata; telah menceritakan kepada kami [Ya'la] berkata; telah menceritakan kepada kami [Sufyan] dari [Abu Az Zubair] dari [Thawus] dari [Ibnu Abbas] berkata, \"Tidak halal Ruqba dan 'Umra, barangsiapa yang diberi sesuatu dengan system 'Umra maka sesuatu tersebut menjadi miliknya. Dan barangsiapa diberi sesuatu dengan system Ruqba maka sesuatu tersebut adalah miliknya"
+        }
+      },
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "nasai",
+        "book": 33,
+        "hadith": 7
+      }
+    },
+    {
+      "hadithNumber": 3713,
+      "arabicNumber": 3713,
+      "book": 33,
+      "hadithInBook": 8,
+      "text": {
+        "arabic": "أَخْبَرَنَا أَحْمَدُ بْنُ سُلَيْمَانَ، قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ بِشْرٍ، قَالَ حَدَّثَنَا حَجَّاجٌ، عَنْ أَبِي الزُّبَيْرِ، عَنْ طَاوُسٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ لاَ تَصْلُحُ الْعُمْرَى وَلاَ الرُّقْبَى فَمَنْ أَعْمَرَ شَيْئًا أَوْ أَرْقَبَهُ فَإِنَّهُ لِمَنْ أُعْمِرَهُ وَأُرْقِبَهُ حَيَاتَهُ وَمَوْتَهُ ‏.‏ أَرْسَلَهُ حَنْظَلَةُ ‏.‏",
+        "translations": {
+          "en": "(A different chain) from Hajjaj, from Abu Az-Zubair, from Tawus, from Ibn 'Abbas, who said:\"'Umra and Ruqba are not proper. Whoever gives something on the basis of 'Umra or Ruqba, it belongs to the one to whom he gave it on that basis, both during his lifetime and after his death.\" Hanzalah narrated it in Mursal form",
+          "ur": "عبداللہ بن عباس رضی الله عنہما کہتے ہیں کہ عمریٰ اور رقبیٰ کرنا جائز نہیں، لیکن جس کسی نے کسی کو کوئی چیز عمریٰ یا رقبیٰ میں دی تو جس کو دی ہے وہ چیز اسی کی ہو جائے گی، اس کی زندگی میں اور اس کے مرنے کے بعد بھی ( یعنی مرنے کے بعد اس کے ورثہ کو ملے گی ) ۔ حنظلہ نے اس حدیث کو مرسلاً بیان کیا ہے۔",
+          "fr": "Rapporté par une autre chaîne, de Hajjaj, d'Abu Az-Zubair, de Tawus, d'Ibn 'Abbas : « L'Umra et la Ruqba ne sont pas correctes. Celui qui donne quelque chose sous forme d'Umra ou de Ruqba, cela appartient à celui à qui il l'a donnée, aussi bien de son vivant qu'après sa mort. » Hanzalah a rapporté cela sous forme Mursal",
+          "id": "Telah mengabarkan kepada kami [Ahmad bin Sulaiman] berkata; telah menceritakan kepada kami [Muhammad bin Bisyr] berkata; telah menceritakan kepada kami [Hajjaj] dari [Abu Az Zubair] dari [Thawus] dari Ibnu Abbas berkata, \"Tidak layak 'Umra dan Ruqba, barangsiapa yang diberi sesuatu dengan system Umra atau Ruqba maka sesuatu tersebut milik orang yang diberi, disaat ia hidup dan matinya.\" Hadits tersebut dimursalkan oleh Hanzhalah"
+        }
+      },
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "nasai",
+        "book": 33,
+        "hadith": 8
+      }
+    },
+    {
+      "hadithNumber": 3714,
+      "arabicNumber": 3714,
+      "book": 33,
+      "hadithInBook": 9,
+      "text": {
+        "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ حَاتِمٍ، قَالَ أَنْبَأَنَا حِبَّانُ، قَالَ حَدَّثَنَا عَبْدُ اللَّهِ، عَنْ حَنْظَلَةَ، أَنَّهُ سَمِعَ طَاوُسًا، يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ لاَ تَحِلُّ الرُّقْبَى فَمَنْ أُرْقِبَ رُقْبَى فَهُوَ سَبِيلُ الْمِيرَاثِ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Hanzalah narrated that he heard Tawus say:\"The Messenger of Allah said: 'Ruqba is not permissible. Whoever is given something on the basis of Ruqba, it is part of his estate",
+          "ur": "طاؤس کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”رقبیٰ کرنا جائز نہیں، لیکن جس کسی کو رقبیٰ میں کوئی چیز دی گئی تو ( وہ چیز اسی کی ہو گی اور ) اس میں میراث نافذ ہو گی“۔",
+          "fr": "Rapporté par Hanzalah : Il a entendu Tawus dire : Le Messager d'Allah ﷺ a dit : « La Ruqba n'est pas permise. Celui à qui on donne quelque chose sous forme de Ruqba, cela fait partie de son héritage. »",
+          "id": "Telah mengabarkan kepada kami [Muhammad bin Hatim] berkata; telah memberitakan kepada kami [Hibban] berkata; telah menceritakan kepada kami [Abdullah] dari [Hanzhalah] bahwa ia telah mendengar [Thawus] berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Tidak halal Ruqba, maka barangsiapa yang diberi dengan system ruqba maka itu adalah jalan warisan"
+        }
+      },
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "nasai",
+        "book": 33,
+        "hadith": 9
+      }
+    },
+    {
+      "hadithNumber": 3715,
+      "arabicNumber": 3715,
+      "book": 33,
+      "hadithInBook": 10,
+      "text": {
+        "arabic": "أَخْبَرَنِي عَبْدَةُ بْنُ عَبْدِ الرَّحِيمِ، عَنْ وَكِيعٍ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنِ ابْنِ أَبِي نَجِيحٍ، عَنْ طَاوُسٍ، عَنْ زَيْدِ بْنِ ثَابِتٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ الْعُمْرَى مِيرَاثٌ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Sufyan narrated from Ibn Abi Najih, from Tawus, from Zaid bin Thabit, who said:\"The Messenger of Allah said: 'Umra (a gift given for life) is part of the estate",
+          "ur": "زید بن ثابت رضی الله عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”عمریٰ میراث ہے“ ۱؎۔",
+          "fr": "Rapporté par Sufyan, d'Ibn Abi Najih, de Tawus, de Zaid bin Thabit : Le Messager d'Allah ﷺ a dit : « L'Umra (don à vie) fait partie de l'héritage. »",
+          "id": "Telah mengabarkan kepada kami ['Abdah bin Abdurrahim] dari [Waki'] berkata; telah menceritakan kepada kami [Sufyan] dari [Ibnu Abu Najih] dari [Thawus] dari [Zaid bin Tsabit] berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"'Umra adalah warisan"
+        }
+      },
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "nasai",
+        "book": 33,
+        "hadith": 10
+      }
+    },
+    {
+      "hadithNumber": 3716,
+      "arabicNumber": 3716,
+      "book": 33,
+      "hadithInBook": 11,
+      "text": {
+        "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ يَزِيدَ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنِ ابْنِ طَاوُسٍ، عَنْ أَبِيهِ، عَنْ حُجْرٍ الْمَدَرِيِّ، عَنْ زَيْدٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ الْعُمْرَى لِلْوَارِثِ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Sufyan narrated from Ibn Tawus, from his father, from Hujr Al-Madari, from Zaid, who said:\"The Messenger of Allah said: 'Umra (a gift given for life) is for the heir",
+          "ur": "زید بن ثابت رضی الله عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”عمریٰ وارث کا حق ہے“ ۱؎۔",
+          "fr": "Rapporté par Sufyan, d'Ibn Tawus, de son père, de Hujr Al-Madari, de Zaid : Le Messager d'Allah ﷺ a dit : « L'Umra (don à vie) revient à l'héritier. »",
+          "id": "Telah mengabarkan kepada kami [Muhammad bin Abdullah bin Yazid] berkata; telah menceritakan kepada kami [Sufyan] dari [Ibnu Thawus] dari [ayahnya] dari [Hujr Al Madari] dari [Zaid] berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"'Umra adalah untuk pewaris"
+        }
+      },
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "nasai",
+        "book": 33,
+        "hadith": 11
+      }
+    },
+    {
+      "hadithNumber": 3717,
+      "arabicNumber": 3717,
+      "book": 33,
+      "hadithInBook": 12,
+      "text": {
+        "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ عُبَيْدٍ، قَالَ حَدَّثَنَا عَبْدُ اللَّهِ بْنُ الْمُبَارَكِ، عَنْ مَعْمَرٍ، عَنِ ابْنِ طَاوُسٍ، عَنْ أَبِيهِ، عَنْ حُجْرٍ الْمَدَرِيِّ، عَنْ زَيْدِ بْنِ ثَابِتٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ الْعُمْرَى جَائِزَةٌ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Ma'mar narrated from Ibn Tawus, from his father, from Hujr Al-Madari, from Zaid bin Thabit, from Prophet, who said:\"'Umra (a gift given for life) is permissible",
+          "ur": "زید بن ثابت رضی الله عنہ نبی اکرم صلی اللہ علیہ وسلم سے روایت کرتے ہیں کہ آپ صلی اللہ علیہ وسلم نے فرمایا: ”عمریٰ لاگو ہو گا“۔",
+          "fr": "Rapporté par Ma'mar, d'Ibn Tawus, de son père, de Hujr Al-Madari, de Zaid bin Thabit, du Prophète ﷺ, qui a dit : « L'Umra (don à vie) est permise. »"
+        }
+      },
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "nasai",
+        "book": 33,
+        "hadith": 12
+      }
+    },
+    {
+      "hadithNumber": 3718,
+      "arabicNumber": 3718,
+      "book": 33,
+      "hadithInBook": 13,
+      "text": {
+        "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ عُبَيْدٍ، عَنِ ابْنِ الْمُبَارَكِ، عَنْ مَعْمَرٍ، عَنْ عَمْرِو بْنِ دِينَارٍ، عَنْ طَاوُسٍ، عَنْ زَيْدِ بْنِ ثَابِتٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ الْعُمْرَى لِلْوَارِثِ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Ma'mar narrated from 'Amr bin Dinar, from Tawus, from Zaid bin Thabit, that the Prophet said:\"'Umra (a gift given for life) belongs to the heir",
+          "ur": "زید بن ثابت رضی الله عنہ نبی اکرم صلی اللہ علیہ وسلم سے روایت کرتے ہیں کہ آپ صلی اللہ علیہ وسلم نے فرمایا: ”عمریٰ وارث کا حق ہے“۔",
+          "fr": "Rapporté par Ma'mar, de 'Amr bin Dinar, de Tawus, de Zaid bin Thabit : Le Prophète ﷺ a dit : « L'Umra (don à vie) revient à l'héritier. »",
+          "id": "Telah mengabarkan kepada kami [Muhammad bin 'Ubaid] dari [Ibnu Al Mubarak] dari [Ma'mar] dari ['Amru bin Dinar] dari [Thawus] dari [Zaid bin Tsabit] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: \"'Umra adalah untuk pewaris"
+        }
+      },
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "nasai",
+        "book": 33,
+        "hadith": 13
+      }
+    },
+    {
+      "hadithNumber": 3719,
+      "arabicNumber": 3719,
+      "book": 33,
+      "hadithInBook": 14,
+      "text": {
+        "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ حَاتِمٍ، قَالَ أَنْبَأَنَا حِبَّانُ، قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ، عَنْ مَعْمَرٍ، قَالَ سَمِعْتُ عَمْرَو بْنَ دِينَارٍ، يُحَدِّثُ عَنْ طَاوُسٍ، عَنْ حُجْرٍ الْمَدَرِيِّ، عَنْ زَيْدِ بْنِ ثَابِتٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ الْعُمْرَى لِلْوَارِثِ ‏\"‏ ‏.‏ وَاللَّهُ أَعْلَمُ ‏.‏",
+        "translations": {
+          "en": "(A different chain) from Ma'mar who said:\"I heard 'Amr bin Dinar, narrating from Tawus, from Hujr Al-Madari, from Zaid bin Thabit, that the Messenger of Allah said: \"'Umra (a gift given for life) belongs to the heir.\" And Allah knows best",
+          "ur": "زید بن ثابت رضی الله عنہ سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”عمریٰ وارث کا حق ہے“، واللہ اعلم ( اللہ زیادہ بہتر جانتا ہے ) ۔",
+          "fr": "Rapporté par une autre chaîne, de Ma'mar, qui a dit : J'ai entendu 'Amr bin Dinar rapporter de Tawus, de Hujr Al-Madari, de Zaid bin Thabit, que le Messager d'Allah ﷺ a dit : « L'Umra (don à vie) revient à l'héritier. » Et Allah sait mieux",
+          "id": "Telah mengabarkan kepada kami [Muhammad bin Hatim] berkata; telah memberitakan kepada kami [Hibban] berkata; telah memberitakan kepada kami [Abdullah] dari [Ma'mar] berkata; aku mendengar ['Amru bin Dinar] menceritakan dari [Thawus] dari [Hujr Al Madari] dari [Zaid bin Tsabit], bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: \"'Umra adalah untuk pewaris.\" Wallahu a'lam"
+        }
+      },
+      "grades": [
+        {
+          "name": "Abu Ghuddah",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih Isnaad"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "nasai",
+        "book": 33,
+        "hadith": 14
+      }
+    }
+  ],
+  "metadata": {
+    "averageLength": "medium",
+    "size": "8KB"
+  }
+}

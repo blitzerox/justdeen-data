@@ -1,0 +1,481 @@
+{
+  "collection": "abudawud",
+  "book": 38,
+  "name": {
+    "arabic": "كتاب The Promised Deliverer (Kitab Al-Mahdi)",
+    "transliteration": "the promised deliverer (kitab al-mahdi)",
+    "translation": "The Promised Deliverer (Kitab Al-Mahdi)"
+  },
+  "totalHadith": 12,
+  "hadithNumberRange": {
+    "first": 4279,
+    "last": 4290
+  },
+  "content": [
+    {
+      "hadithNumber": 4279,
+      "arabicNumber": 4279,
+      "book": 38,
+      "hadithInBook": 1,
+      "text": {
+        "arabic": "حَدَّثَنَا عَمْرُو بْنُ عُثْمَانَ، حَدَّثَنَا مَرْوَانُ بْنُ مُعَاوِيَةَ، عَنْ إِسْمَاعِيلَ، - يَعْنِي ابْنَ أَبِي خَالِدٍ - عَنْ أَبِيهِ، عَنْ جَابِرِ بْنِ سَمُرَةَ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\"‏ لاَ يَزَالُ هَذَا الدِّينُ قَائِمًا حَتَّى يَكُونَ عَلَيْكُمُ اثْنَا عَشَرَ خَلِيفَةً كُلُّهُمْ تَجْتَمِعُ عَلَيْهِ الأُمَّةُ ‏\"‏ ‏.‏ فَسَمِعْتُ كَلاَمًا مِنَ النَّبِيِّ صلى الله عليه وسلم لَمْ أَفْهَمْهُ قُلْتُ لأَبِي مَا يَقُولُ قَالَ ‏\"‏ كُلُّهُمْ مِنْ قُرَيْشٍ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Narrated Jabir ibn Samurah: The Prophet (ﷺ) said: The religion will continue to be established till there are twelve caliphs over you, and the whole community will agree on each of them. I then heard from the Prophet (ﷺ) some remarks which I could not understand. I asked my father: What is he saying: He said: all of them will belong to Quraysh",
+          "ur": "جابر بن سمرہ رضی اللہ عنہ کہتے ہیں کہ میں نے رسول اللہ صلی اللہ علیہ وسلم کو فرماتے ہوئے سنا: یہ دین برابر قائم رہے گا یہاں تک کہ تم پر بارہ خلیفہ ہوں گے، ان میں سے ہر ایک پر امت اتفاق کرے گی پھر میں نے نبی اکرم صلی اللہ علیہ وسلم سے ایک ایسی بات سنی جسے میں سمجھ نہیں سکا میں نے اپنے والد سے پوچھا: آپ نے کیا فرمایا؟ تو انہوں نے بتایا کہ آپ صلی اللہ علیہ وسلم نے فرمایا ہے: یہ سارے خلفاء قریش میں سے ہوں گے ۔",
+          "fr": "Rapporté par Jabir ibn Samurah : Le Prophète ﷺ a dit : « La religion continuera d’être établie tant qu’il y aura douze califes parmi vous, et toute la communauté sera d’accord sur chacun d’eux. » J’ai ensuite entendu du Prophète ﷺ des paroles que je n’ai pas comprises. J’ai demandé à mon père : « Que dit-il ? » Il a répondu : « Ils seront tous issus des Quraysh. »",
+          "id": "Telah menceritakan kepada kami [Amru bin Utsman] berkata, telah menceritakan kepada kami [Marwan bin Mu'awiyah] dari [Isma'il] -maksudnya Ismail bin Abu Khalid- dari [Bapaknya] dari [Jabir bin Samurah] ia berkata, \"Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: \"Agama ini akan senantiasa tegak hingga muncul di antara kalian dua belas khalifah, dan manusia akan ikut bersama mereka.\" Aku mendengar ucapan dari Nabi shallallahu 'alaihi wasallam yang tidak aku mengerti, lalu aku kepada bertanya bapakku tentang apa yang beliau katakan itu, ia (bapakku) menjawab, \"Mereka semua (para khalifah) dari bangsa Quraisy",
+          "tr": "Câbir b. Semure (r.a) şöyle demiştir: Rasûlullah (s.a.v.)'i, şöyle buyururken işittim: \"Size etrafında (tüm) ümmetin toplanacağı on iki halife gelinceye kadar, bu din ayakta kalmaya devam edecektir.\" (Bu arada) Rasûlullah (s.a.v.)'den bir söz duydum ama anlamadım, babama: Rasûlullah ne diyor?\" dedim. \"Hepsi Kureyş'den\" (buyurdu) dedi. Bu hadis'i ayrıca; Tirmizî, Fiten de tahric etti"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 38,
+        "hadith": 1
+      },
+      "narrator": {
+        "en": "Jabir ibn Samurah"
+      }
+    },
+    {
+      "hadithNumber": 4280,
+      "arabicNumber": 4280,
+      "book": 38,
+      "hadithInBook": 2,
+      "text": {
+        "arabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا وُهَيْبٌ، حَدَّثَنَا دَاوُدُ، عَنْ عَامِرٍ، عَنْ جَابِرِ بْنِ سَمُرَةَ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\"‏ لاَ يَزَالُ هَذَا الدِّينُ عَزِيزًا إِلَى اثْنَىْ عَشَرَ خَلِيفَةً ‏\"‏ ‏.‏ قَالَ فَكَبَّرَ النَّاسُ وَضَجُّوا ثُمَّ قَالَ كَلِمَةً خَفِيَّةً قُلْتُ لأَبِي يَا أَبَةِ مَا قَالَ قَالَ ‏\"‏ كُلُّهُمْ مِنْ قُرَيْشٍ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Narrated Jabir b. Samurah:I heard the Messenger of Allah (ﷺ) say: This religion will continue to be strong till the time of twelve caliphs. The people then uttered: Allah is more great and uproared. He then silently a word which I could not understand. So I said to my father: What did he say, father ? He said: All of them will belong to Quraish",
+          "ur": "جابر بن سمرہ رضی اللہ عنہ کہتے ہیں کہ میں نے رسول اللہ صلی اللہ علیہ وسلم کو فرماتے ہوئے سنا: یہ دین بارہ خلفاء تک برابر غالب رہے گا لوگوں نے یہ سن کر اللہ اکبر کہا، اور ہنگامہ کرنے لگے پھر آپ نے ایک بات آہستہ سے فرمائی، میں نے اپنے والد سے پوچھا: ابا جان! نبی اکرم صلی اللہ علیہ وسلم نے کیا فرمایا؟ کہا: آپ صلی اللہ علیہ وسلم نے فرمایا ہے: یہ سب قریش میں سے ہوں گے ۔",
+          "fr": "Rapporté par Jabir ibn Samurah : J’ai entendu le Messager d’Allah ﷺ dire : « Cette religion restera forte jusqu’à l’époque de douze califes. » Les gens ont alors dit : « Allah est le Plus Grand ! » et il y a eu du tumulte. Ensuite, il a dit quelque chose à voix basse que je n’ai pas compris. J’ai donc demandé à mon père : « Qu’a-t-il dit, père ? » Il a répondu : « Ils seront tous issus des Quraysh. »",
+          "tr": "Cabir b. Semûre (r.a) şöyle demiştir. Rasûlullah (s.a.v.)'i şunları söylerken işittim. \"On iki halife (gelince)ye kadar bu din aziz olarak devam edecektir.\" Bunun üzerine insanlar, tekbir getirdiler, feryad ettiler. Sonra Rasûlullah sessizce bir şey söyledi, Babam'a: \"Babacığım, Rasûlullah ne dedi?\" dedim \"Hepsi Kureyş'ten (buyurdu) dedi. Bu hadis'i ayrıca; Müslîm. İmare; Ahmed b. Hanbel V-90,93. te rivayet etti"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim (1821)"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 38,
+        "hadith": 2
+      },
+      "narrator": {
+        "en": "Jabir b. Samurah"
+      }
+    },
+    {
+      "hadithNumber": 4281,
+      "arabicNumber": 4281,
+      "book": 38,
+      "hadithInBook": 3,
+      "text": {
+        "arabic": "حَدَّثَنَا ابْنُ نُفَيْلٍ، حَدَّثَنَا زُهَيْرٌ، حَدَّثَنَا زِيَادُ بْنُ خَيْثَمَةَ، حَدَّثَنَا الأَسْوَدُ بْنُ سَعِيدٍ الْهَمْدَانِيُّ، عَنْ جَابِرِ بْنِ سَمُرَةَ، بِهَذَا الْحَدِيثِ زَادَ فَلَمَّا رَجَعَ إِلَى مَنْزِلِهِ أَتَتْهُ قُرَيْشٌ فَقَالُوا ثُمَّ يَكُونُ مَاذَا قَالَ ‏ \"‏ ثُمَّ يَكُونُ الْهَرْجُ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "The tradition mentioned above has also been transmitted by Jabir b. Samurah through a different chain of narrators. This version adds:When he came back to his home. the Quraish came to him and said: Then what will happen ? He said: Then turmoil will prevail",
+          "ur": "اس سند سے بھی جابر بن سمرہ رضی اللہ عنہ سے یہی حدیث مروی ہے اس میں اتنا اضافہ ہے: پھر آپ صلی اللہ علیہ وسلم اپنے گھر واپس گئے تو قریش کے لوگ آپ کے پاس آئے اور انہوں نے عرض کیا: پھر کیا ہو گا؟ آپ نے فرمایا: پھر قتل ہو گا ۔",
+          "fr": "Le hadith mentionné ci-dessus a aussi été transmis par Jabir ibn Samurah par une autre chaîne de rapporteurs. Cette version ajoute : Lorsqu’il est rentré chez lui, les Quraysh sont venus le voir et ont dit : « Que se passera-t-il ensuite ? » Il a répondu : « Alors, le désordre régnera. »",
+          "id": "Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan kepada kami [Wuhaib] berkata, telah menceritakan kepada kami [Dawud] dari [Amir] dari [Jabir bin Samurah] ia berkata, \"Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: \"Agama ini akan tetap mulia hingga khalifah ke dua belas.\" Jabir berkata, \"Orang-orang bertakbir dan berteriak. Kemudian beliau mengatakan suatu ucapan yang pelan (hingga aku tidak mendengarnyanya, lalu aku bertanya kepada bapakku, \"Wahai bapakku, apa yang beliau katakan?\" Ia menjawab, \"Beliau mengatakan bahwa mereka dari bangsa Quraisy.\" Telah menceritakan kepada kami [Ibnu Nufail] berkata, telah menceritakan kepada kami [Zuhair] berkata, telah menceritakan kepada kami [Ziyad bin Khaitsamah] berkata, telah menceritakan kepada kami [Al Aswad bin Sa'id Al Hamdani] dari [Jabir bin Samurah] dengan hadits yang sama. Namun ia menambahkan, \"Ketika beliau kembali ke rumahnya, orang-orang Quraisy mendatanginya seraya bertanya, \"Setelah itu akan terjadi peristiwa apa?\" beliau menjawab: \"Akan terjadi pembunuhan",
+          "tr": "Esveb. Saîd el Hemedânî, Cabir b. Semûre (r.a)'den bu (önceki 4280.) hadisi rivayet etti ve şunu ilâve etti: Rasûlullah evine dönünce, Kureyşliler o'na gelip \"Sonra ne olacak?'' dediler. \"Fitne ve iç savaş\" buyurdu"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 38,
+        "hadith": 3
+      }
+    },
+    {
+      "hadithNumber": 4282,
+      "arabicNumber": 4282,
+      "book": 38,
+      "hadithInBook": 4,
+      "text": {
+        "arabic": "حَدَّثَنَا مُسَدَّدٌ، أَنَّ عُمَرَ بْنَ عُبَيْدٍ، حَدَّثَهُمْ ح، وَحَدَّثَنَا مُحَمَّدُ بْنُ الْعَلاَءِ، حَدَّثَنَا أَبُو بَكْرٍ، - يَعْنِي ابْنَ عَيَّاشٍ ح وَحَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنْ سُفْيَانَ، ح وَحَدَّثَنَا أَحْمَدُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مُوسَى، أَخْبَرَنَا زَائِدَةُ، ح وَحَدَّثَنَا أَحْمَدُ بْنُ إِبْرَاهِيمَ، حَدَّثَنِي عُبَيْدُ اللَّهِ بْنُ مُوسَى، عَنْ فِطْرٍ، - الْمَعْنَى وَاحِدٌ - كُلُّهُمْ عَنْ عَاصِمٍ، عَنْ زِرٍّ، عَنْ عَبْدِ اللَّهِ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\"‏ لَوْ لَمْ يَبْقَ مِنَ الدُّنْيَا إِلاَّ يَوْمٌ ‏\"‏ ‏.‏ قَالَ زَائِدَةُ فِي حَدِيثِهِ ‏\"‏ لَطَوَّلَ اللَّهُ ذَلِكَ الْيَوْمَ ‏\"‏ ‏.‏ ثُمَّ اتَّفَقُوا ‏\"‏ حَتَّى يَبْعَثَ فِيهِ رَجُلاً مِنِّي ‏\"‏ ‏.‏ أَوْ ‏\"‏ مِنْ أَهْلِ بَيْتِي يُوَاطِئُ اسْمُهُ اسْمِي وَاسْمُ أَبِيهِ اسْمَ أَبِي ‏\"‏ ‏.‏ زَادَ فِي حَدِيثِ فِطْرٍ ‏\"‏ يَمْلأُ الأَرْضَ قِسْطًا وَعَدْلاً كَمَا مُلِئَتْ ظُلْمًا وَجَوْرًا ‏\"‏ ‏.‏ وَقَالَ فِي حَدِيثِ سُفْيَانَ ‏\"‏ لاَ تَذْهَبُ أَوْ لاَ تَنْقَضِي الدُّنْيَا حَتَّى يَمْلِكَ الْعَرَبَ رَجُلٌ مِنْ أَهْلِ بَيْتِي يُوَاطِئُ اسْمُهُ اسْمِي ‏\"‏ ‏.‏ قَالَ أَبُو دَاوُدَ لَفْظُ عُمَرَ وَأَبِي بَكْرٍ بِمَعْنَى سُفْيَانَ ‏.‏",
+        "translations": {
+          "en": "Narrated Abdullah ibn Mas'ud: The Prophet (ﷺ) said: If only one day of this world remained. Allah would lengthen that day (according to the version of Za'idah), till He raised up in it a man who belongs to me or to my family whose father's name is the same as my father's, who will fill the earth with equity and justice as it has been filled with oppression and tyranny (according to the version of Fitr). Sufyan's version says: The world will not pass away before the Arabs are ruled by a man of my family whose name will be the same as mine. Abu Dawud said: The version of 'Umar and Abu Bakr is the same as that of Sufyan",
+          "ur": "عبداللہ بن مسعود رضی اللہ عنہ کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: اگر دنیا کا ایک دن بھی رہ جائے گا تو اللہ تعالیٰ اس دن کو لمبا کر دے گا، یہاں تک کہ اس میں ایک شخص کو مجھ سے یا میرے اہل بیت میں سے اس طرح کا برپا کرے گا کہ اس کا نام میرے نام پر، اور اس کے والد کا نام میرے والد کے نام پر ہو گا، وہ عدل و انصاف سے زمین کو بھر دے گا، جیسا کہ وہ ظلم و جور سے بھر دی گئی ہے ۔ سفیان کی روایت میں ہے: دنیا نہیں جائے گی یا ختم نہیں ہو گی تاآنکہ عربوں کا مالک ایک ایسا شخص ہو جائے جو میرے اہل بیت میں سے ہو گا اس کا نام میرے نام کے موافق ہو گا ۔ ابوداؤد کہتے ہیں: عمر اور ابوبکر کے الفاظ سفیان کی روایت کے مفہوم کے مطابق ہیں۔",
+          "fr": "Rapporté par Abdullah ibn Mas’ud : Le Prophète ﷺ a dit : « Même s’il ne restait qu’un seul jour à ce monde, Allah prolongerait ce jour (selon la version de Za’idah), jusqu’à ce qu’Il fasse venir un homme qui fait partie de moi ou de ma famille, dont le nom du père est le même que celui de mon père, qui remplira la terre d’équité et de justice comme elle a été remplie d’oppression et de tyrannie (selon la version de Fitr). » Selon la version de Sufyan : « Le monde ne disparaîtra pas avant que les Arabes ne soient gouvernés par un homme de ma famille dont le nom sera le même que le mien. » Abu Dawud a dit : La version de ‘Umar et Abu Bakr est la même que celle de Sufyan",
+          "id": "Telah menceritakan kepada kami [Musaddad] bahwa [Umar bin Ubaid] menceritakan kepada mereka. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Muhammad bin Al 'Ala] berkata, telah menceritakan kepada kami [Abu Bakr] -maksudnya Abu Bakar bin 'Ayyasy-. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Yahya] dari [Sufyan]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ahmad bin Ibrahim] berkata, telah menceritakan kepada kami [Ubaidullah bin Musa] berkata, telah mengabarkan kepada kami [Zaidah]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ahmad bin Ibrahim] berkata, telah menceritakan kepadaku [Ubaidullah bin Musa] dari [Fithr] dengan makna hadits yang sama. Dan semuanya dari [Ashim] dari [Zir] dari [Abdullah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: \"Sekiranya dunia ini tidak tersisa kecuali hanya sehari, Zaidah menyebutkan dalam haditsnya, \"maka Allah akan memanjangkan hari itu, \" kemudian mereka bersepakat -dalam menyebutkan lafadz- hingga Allah mengutus seorang laki-laki dariku, atau dari keluargaku; namanya mirip dengan namaku, dan nama bapaknya juga mirip dengan nama bapakku. Dalam hadits Fithr ditambahkan, \"Ia akan memenuhi bumi dengan keadilan, sebagaimana kezhaliman dan kelaliman pernah memenuhinya.\" Dalam hadits riwayat Sufyan beliau mengatakan: \"(Dunia) tidak akan pergi, atau tidak akan hancur hingga seorang laki-laki dari ahli baitku menguasai Arab; namanya seperti namanku.\" Abu Daud berkata; \"lafadz hadits Umar dan Abu Bakar semakna dengan lafadz Abu Sufyan",
+          "tr": "Bize Müsedded haber verdi, Onlara Ömer b. Abîd haber vermiş. Bize Ebû Bekir, yani İbn-i Ayaş haber verdi. (H), Bize Müsedded haber verdi, bize Sûfyân'dan Yahya haber verdi (H). Bize Ahmed b. İbrahim haber verdi. Bize Ubeyduilah b. Musa haber verdi. Bize Zaide haber verdi. (H) Bize Ahmed b. İbrahim haber verdi, bana Ubeyduilah b. Mûsa Fıtri'dan haber verdi, dedi. (Rivâyetlerdeki) mânâ aynıdır. Bunların hepsi Asım'dan, Asım, Zir'den o da Abdullah (b.Mes'ûd (r.a) vasıtasıyla Rasûfullah (s.a.v.)'den rivayet etmiştir; Rasûlullah (s.a.v.) şöyle buyurmuştur: \"Dünyada sadece bir gün kalsa, -Zaîde, hadisinde şöyle dedi - Allah o gün'ü uzatır da - sonra bütün râvîler ittifak ettiler.[şek râvî'dendir,] -O günde Benden veya ehli beytimden, adı adıma, babasının adı da babamın adına uyan bir adam gönderir\" Fitr hadisinde şu ilâve vardır: O şahıs \"dünyayı, zulümle dolduğu gibi, adaletle dolduracaktır\" Süfyân hadisinde şöyle dedi. , Araplara, adı adıma uyan ehl-i beytimden biri hakim olmadıkça dünya son bulmayacak, - Veya gitmeyecektir -[Şek râvîdendir.] Ebû Davûd der ki, Ömer ve Ebu Bekr'in (rivayetleri) Süfyân'ın (rivayetinin) aynıdır, (yani son ilâve, bunların rivayetinde de vardır)"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 38,
+        "hadith": 4
+      },
+      "narrator": {
+        "en": "Abdullah ibn Mas'ud"
+      }
+    },
+    {
+      "hadithNumber": 4283,
+      "arabicNumber": 4283,
+      "book": 38,
+      "hadithInBook": 5,
+      "text": {
+        "arabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا الْفَضْلُ بْنُ دُكَيْنٍ، حَدَّثَنَا فِطْرٌ، عَنِ الْقَاسِمِ بْنِ أَبِي بَزَّةَ، عَنْ أَبِي الطُّفَيْلِ، عَنْ عَلِيٍّ، - رضى الله تعالى عنه - عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ لَوْ لَمْ يَبْقَ مِنَ الدَّهْرِ إِلاَّ يَوْمٌ لَبَعَثَ اللَّهُ رَجُلاً مِنْ أَهْلِ بَيْتِي يَمْلأُهَا عَدْلاً كَمَا مُلِئَتْ جَوْرًا ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Narrated Ali ibn AbuTalib: The Prophet (ﷺ) said: If only one day of this time (world) remained, Allah would raise up a man from my family who would fill this earth with justice as it has been filled with oppression",
+          "ur": "علی رضی اللہ عنہ کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: اگر زمانہ سے ایک ہی دن باقی رہ جائے گا تو بھی اللہ تعالیٰ میرے اہل بیت میں سے ایک شخص کھڑا بھیجے گا وہ اسے عدل و انصاف سے اس طرح بھر دے گا جیسے یہ ظلم و جور سے بھر دی گئی ہے ۔",
+          "fr": "Rapporté par Ali ibn Abu Talib : Le Prophète ﷺ a dit : « Même s’il ne restait qu’un seul jour à ce monde, Allah ferait venir un homme de ma famille qui remplira la terre de justice comme elle a été remplie d’oppression. »",
+          "id": "Telah menceritakan kepada kami [Utsman bin Abu Syaibah] berkata, telah menceritakan kepada kami [Al Fadhl bin Dukain] berkata, telah menceritakan kepada kami [Fithr] dari [Al Qasim bin Abu Bazzah] dari [Abu Ath Thufail] dari [Ali radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: \"Sekiranya dunia ini tidak lagi tersisa kecuali hanya sehari, sungguh Allah akan mengutus seorang laki-laki dari ahli baitku, ia akan memenuhi bumi dengan keadilan sebagaimana bumi pernah dipenuhi kajahatan",
+          "tr": "Ali (b. Ebî Talib) (r.a)'dan; Rasûlullah (s.a.v.)'in şöyle buyurduğu rivayet edilmiştir. Dünyanın ömründen sadece birgün kalsa bile, Allah (C.C.) benim ehl-i beytimden bir adam gönderecektir. O dünyayı, (daha önce) zulümle olduğu gibi, Adaletle dolduracaktır"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 38,
+        "hadith": 5
+      },
+      "narrator": {
+        "en": "Ali ibn AbuTalib"
+      }
+    },
+    {
+      "hadithNumber": 4284,
+      "arabicNumber": 4284,
+      "book": 38,
+      "hadithInBook": 6,
+      "text": {
+        "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ جَعْفَرٍ الرَّقِّيُّ، حَدَّثَنَا أَبُو الْمَلِيحِ الْحَسَنُ بْنُ عُمَرَ، عَنْ زِيَادِ بْنِ بَيَانٍ، عَنْ عَلِيِّ بْنِ نُفَيْلٍ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، عَنْ أُمِّ سَلَمَةَ، قَالَتْ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏ \"‏ الْمَهْدِيُّ مِنْ عِتْرَتِي مِنْ وَلَدِ فَاطِمَةَ ‏\"‏ ‏.‏ قَالَ عَبْدُ اللَّهِ بْنُ جَعْفَرٍ وَسَمِعْتُ أَبَا الْمَلِيحِ يُثْنِي عَلَى عَلِيِّ بْنِ نُفَيْلٍ وَيَذْكُرُ مِنْهُ صَلاَحًا ‏.‏",
+        "translations": {
+          "en": "Narrated Umm Salamah, Ummul Mu'minin: The Prophet (ﷺ) said: The Mahdi will be of my family, of the descendants of Fatimah. Abdullah ibn Ja'far said: I heard AbulMalih praising Ali ibn Nufayl and describing his good qualities",
+          "ur": "ام المؤمنین ام سلمہ رضی اللہ عنہا کہتی ہیں کہ میں نے رسول اللہ صلی اللہ علیہ وسلم کو فرماتے ہوئے سنا: مہدی میری نسل سے فاطمہ کی اولاد میں سے ہوں گے ۔",
+          "fr": "Rapporté par Umm Salamah, la mère des croyants رضي الله عنها : Le Prophète ﷺ a dit : « Le Mahdi fera partie de ma famille, des descendants de Fatimah. » Abdullah ibn Ja’far a dit : « J’ai entendu AbulMalih faire l’éloge de Ali ibn Nufayl et décrire ses bonnes qualités. »",
+          "id": "Telah menceritakan kepada kami [Ahmad bin Ibrahim] berkata, telah menceritakan kepada kami [Abdullah bin Ja'far Ar Raqqi] berkata, telah menceritakan kepada kami [Abu Al Malih Al Hasan bin Umar] dari [Ziyad bin Bayan] dari [Ali bin Nufail] dari [Sa'id Ibnul Musayyab] dari [Ummu Salamah] ia berkata, \"Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: \"Al Mahdi dari keturunanku, dari jalur Fatimah.\" Abdullah bin Ja'far berkata, \"Aku mendengar Abul Malih memuji Ali bin Nufail, dan ia menyebutkan akan kebaikannya",
+          "tr": "Ümmü seleme (r.a) şöyle demiştir: Rasûlullah (s.a.v.)'i şöyle buyururken işittim: \"Mehdî [\"Mühdi\" şeklinde okumak mümkündür] benim ailemden, Fatima'nın oğullarındandır.\" Abdullah b. Cafer şöyle demiştir: Ebûl Melh'i, Ali b. Nüfeyl'i överken ve onun iyiliğini söylerken dinledim"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 38,
+        "hadith": 6
+      },
+      "narrator": {
+        "en": "Umm Salamah, Ummul Mu'minin"
+      }
+    },
+    {
+      "hadithNumber": 4285,
+      "arabicNumber": 4285,
+      "book": 38,
+      "hadithInBook": 7,
+      "text": {
+        "arabic": "حَدَّثَنَا سَهْلُ بْنُ تَمَّامِ بْنِ بَزِيعٍ، حَدَّثَنَا عِمْرَانُ الْقَطَّانُ، عَنْ قَتَادَةَ، عَنْ أَبِي نَضْرَةَ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ الْمَهْدِيُّ مِنِّي أَجْلَى الْجَبْهَةِ أَقْنَى الأَنْفِ يَمْلأُ الأَرْضَ قِسْطًا وَعَدْلاً كَمَا مُلِئَتْ جَوْرًا وَظُلْمًا يَمْلِكُ سَبْعَ سِنِينَ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Narrated AbuSa'id al-Khudri: The Prophet (ﷺ) said: The Mahdi will be of my stock, and will have a broad forehead a prominent nose. He will fill the earth will equity and justice as it was filled with oppression and tyranny, and he will rule for seven years",
+          "ur": "ابو سعید خدری رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: مہدی میری اولاد میں سے کشادہ پیشانی، اونچی ناک والے ہوں گے، وہ روئے زمین کو عدل و انصاف سے بھر دیں گے، جیسے کہ وہ ظلم و جور سے بھر دی گئی ہے، ان کی حکومت سات سال تک رہے گی ۔",
+          "fr": "Rapporté par Abu Sa’id al-Khudri : Le Prophète ﷺ a dit : « Le Mahdi sera de ma descendance, il aura un large front et un nez proéminent. Il remplira la terre d’équité et de justice comme elle a été remplie d’oppression et de tyrannie, et il gouvernera pendant sept ans. »",
+          "id": "Telah menceritakan kepada kami [Sahl bin Tammam bin Bazi'] berkata, telah menceritakan kepada kami [Imran Al Qaththan] dari [Qatadah] dari [Abu Nadhrah] dari [Abu Sa'id Al Khudri] ia berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Al Mahdi itu dari keturunanku, dahinya lebar dan hidungnya mancung, ia akan memenuhi bumi dengan keadilan sebagaimana bumi pernah dipenuhi dengan kejahatan dan kezhaliman. Ia akan berkuasa selama tujuh tahun",
+          "tr": "Ebû Saîd El Hudrî (r.a)'dan rivâyt edildiğine göre, Rasûlullah (s.a.v.) şöyle buyurmuştur: \"Mehdî ben (im neslim) dendir. O açık alınlı ve ince burunludur. Dünyayı zulümle dolduğu gibi adaletle dolduracak ve yedi sene hüküm sürecektir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 38,
+        "hadith": 7
+      },
+      "narrator": {
+        "en": "AbuSa'id al-Khudri"
+      }
+    },
+    {
+      "hadithNumber": 4286,
+      "arabicNumber": 4286,
+      "book": 38,
+      "hadithInBook": 8,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا مُعَاذُ بْنُ هِشَامٍ، حَدَّثَنِي أَبِي، عَنْ قَتَادَةَ، عَنْ صَالِحٍ أَبِي الْخَلِيلِ، عَنْ صَاحِبٍ، لَهُ عَنْ أُمِّ سَلَمَةَ، زَوْجِ النَّبِيِّ صلى الله عليه وسلم عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\"‏ يَكُونُ اخْتِلاَفٌ عِنْدَ مَوْتِ خَلِيفَةٍ فَيَخْرُجُ رَجُلٌ مِنْ أَهْلِ الْمَدِينَةِ هَارِبًا إِلَى مَكَّةَ فَيَأْتِيهِ نَاسٌ مِنْ أَهْلِ مَكَّةَ فَيُخْرِجُونَهُ وَهُوَ كَارِهٌ فَيُبَايِعُونَهُ بَيْنَ الرُّكْنِ وَالْمَقَامِ وَيُبْعَثُ إِلَيْهِ بَعْثٌ مِنَ الشَّامِ فَيُخْسَفُ بِهِمْ بِالْبَيْدَاءِ بَيْنَ مَكَّةَ وَالْمَدِينَةِ فَإِذَا رَأَى النَّاسُ ذَلِكَ أَتَاهُ أَبْدَالُ الشَّامِ وَعَصَائِبُ أَهْلِ الْعِرَاقِ فَيُبَايِعُونَهُ بَيْنَ الرُّكْنِ وَالْمَقَامِ ثُمَّ يَنْشَأُ رَجُلٌ مِنْ قُرَيْشٍ أَخْوَالُهُ كَلْبٌ فَيَبْعَثُ إِلَيْهِمْ بَعْثًا فَيَظْهَرُونَ عَلَيْهِمْ وَذَلِكَ بَعْثُ كَلْبٍ وَالْخَيْبَةُ لِمَنْ لَمْ يَشْهَدْ غَنِيمَةَ كَلْبٍ فَيَقْسِمُ الْمَالَ وَيَعْمَلُ فِي النَّاسِ بِسُنَّةِ نَبِيِّهِمْ صلى الله عليه وسلم وَيُلْقِي الإِسْلاَمُ بِجِرَانِهِ إِلَى الأَرْضِ فَيَلْبَثُ سَبْعَ سِنِينَ ثُمَّ يُتَوَفَّى وَيُصَلِّي عَلَيْهِ الْمُسْلِمُونَ ‏\"‏ ‏.‏ قَالَ أَبُو دَاوُدَ قَالَ بَعْضُهُمْ عَنْ هِشَامٍ ‏\"‏ تِسْعَ سِنِينَ ‏\"‏ ‏.‏ وَقَالَ بَعْضُهُمْ ‏\"‏ سَبْعَ سِنِينَ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Narrated Umm Salamah, Ummul Mu'minin: The Prophet (ﷺ) said: Disagreement will occur at the death of a caliph and a man of the people of Medina will come flying forth to Mecca. Some of the people of Mecca will come to him, bring him out against his will and swear allegiance to him between the Corner and the Maqam. An expeditionary force will then be sent against him from Syria but will be swallowed up in the desert between Mecca and Medina. When the people see that, the eminent saints of Syria and the best people of Iraq will come to him and swear allegiance to him between the Corner and the Maqam. Then there will arise a man of Quraysh whose maternal uncles belong to Kalb and send against them an expeditionary force which will be overcome by them, and that is the expedition of Kalb. Disappointed will be the one who does not receive the booty of Kalb. He will divide the property, and will govern the people by the Sunnah of their Prophet (ﷺ) and establish Islam on Earth. He will remain seven years, then die, and the Muslims will pray over him. Abu Dawud said: Some transmitted from Hisham \"nine years\" and some \"seven years",
+          "ur": "ام المؤمنین ام سلمہ رضی اللہ عنہا سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: ایک خلیفہ کی موت کے وقت اختلاف ہو گا تو اہل مدینہ میں سے ایک شخص مکہ کی طرف بھاگتے ہوئے نکلے گا، اہل مکہ میں سے کچھ لوگ اس کے پاس آئیں گے اور اس کو امامت کے لیے پیش کریں گے، اسے یہ پسند نہ ہو گا، پھر حجر اسود اور مقام ابراہیم کے درمیان لوگ اس سے بیعت کریں گے، اور شام کی جانب سے ایک لشکر اس کی طرف بھیجا جائے گا تو مکہ اور مدینہ کے درمیان مقام بیداء میں وہ سب کے سب دھنسا دئیے جائیں گے، جب لوگ اس صورت حال کو دیکھیں گے تو شام کے ابدال اور اہل عراق کی جماعتیں اس کے پاس آئیں گی، حجر اسود اور مقام ابراہیم کے درمیان اس سے بیعت کریں گی، اس کے بعد ایک شخص قریش میں سے اٹھے گا جس کا ننہال بنی کلب میں ہو گا جو ایک لشکر ان کی طرف بھیجے گا، وہ اس پر غالب آئیں گے، یہی کلب کا لشکر ہو گا، اور نامراد رہے گا وہ شخص جو کلب کے مال غنیمت میں حاضر نہ رہے، وہ مال غنیمت تقسیم کرے گا اور لوگوں میں ان کے نبی کی سنت کو جاری کرے گا، اور اسلام اپنی گردن زمین میں ڈال دے گا، وہ سات سال تک حکمرانی کرے گا، پھر وفات پا جائے گا، اور مسلمان اس کی نماز جنازہ پڑھیں گے ۔ ابوداؤد کہتے ہیں: بعض نے ہشام سے نو سال کی روایت کی ہے اور بعض نے سات کی۔",
+          "fr": "Rapporté par Umm Salamah, la mère des croyants رضي الله عنها : Le Prophète ﷺ a dit : « Il y aura un désaccord à la mort d’un calife et un homme du peuple de Médine se précipitera vers La Mecque. Certains habitants de La Mecque viendront à lui, le feront sortir contre son gré et lui prêteront allégeance entre le Coin et la Station. Une armée sera alors envoyée contre lui depuis la Syrie, mais elle sera engloutie dans le désert entre La Mecque et Médine. Quand les gens verront cela, les meilleurs saints de Syrie et les meilleurs gens d’Irak viendront à lui et lui prêteront allégeance entre le Coin et la Station. Ensuite, un homme des Quraysh, dont les oncles maternels appartiennent à Kalb, enverra une armée contre eux, qui sera vaincue, et ce sera l’expédition de Kalb. Malheureux sera celui qui ne recevra pas le butin de Kalb. Il répartira les biens et gouvernera les gens selon la Sunna de leur Prophète ﷺ et établira l’islam sur la terre. Il restera sept ans, puis mourra, et les musulmans prieront sur lui. » Abu Dawud a dit : Certains ont transmis de Hisham « neuf ans » et d’autres « sept ans »",
+          "id": "Telah menceritakan kepada kami [Muhammad Ibnul Mutsanna] berkata, telah menceritakan kepada kami [Mu'adz bin Hisyam] berkata, telah menceritakan kepadaku [Bapakku] dari [Qatadah] dari [Shalih Abu Al Khalil] dari [Sahabatnya] dari [Ummu Salamah] isteri Nabi shallallahu 'alaihi wasallam, dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: \"Akan terjadi perselisihan saat matinya khalifah, lalu seorang laki-laki (Al Mahdi) akan keluar dari Madinah pergi menuju Makkah. Lantas beberapa orang dari penduduk Makkah mendatanginya, mereka memaksanya keluar (dari dalam rumah) meskipun ia tidak menginginkannya. Orang-orang itu kemudian membaiatnya pada suatu tempat antara Rukun (Hajar Asawad) dan Maqam (Ibrahim). Lalu dikirimlah sepasukan dari penduduk Syam untuk memeranginya, tetapi pasukan itu justru ditenggelamkan oleh (Allah) di Al Baida, tempat antara Makkah dan Madinah. Maka ketika manusia melihat hal itu, orang-orang shalih dari Syam dan orang-orang terbaik dari penduduk Irak membaiatnya antara rukun dan Maqam. Lalu tumbuhlah seorang laki-laki dari bangsa Quraisy, paman-pamannya dari suku Kalb, ia lalu mengirimkan sepasukan untuk memerangi mereka (orang-orang yang berbaiat kepada Al mahdi) namun mereka dapat mengalahkan mereka (pasukan yang dikirim oleh lelaki Quraisy dari suku Kalb). Alangkah ruginya orang yang tidak ikut serta dalam pembagian ghanimah perang melawan suku Kalb. ia (Al Mahdi) lalu membagi ghanimah, dan membina manusia dengan sunnah Nabi mereka shallallahu 'alaihi wasallam dan menyampaikan Islam ke semua penduduk bumi. Ia berkuasa selama tujuh tahun, kemudian wafat dan dishalati oleh kaum muslimin.\" Abu Dawud berkata, \"Sebagian mereka menyebutkan dari Hisyam, \" selama sembilan tahun.\" Dan sebagian yang lain menyebutkan, \"Selama tujuh tahun.\" Telah menceritakan kepada kami [Harun bin Abdullah] berkata, telah menceritakan kepada kami [Abdu Ash Shamad] dari [Hammam] dari [Qatadah] dengan hadits yang sama. Beliau mengatakan, \"sembilan tahun.\" Abu Dawud berkata, \"Selain Mu'adz menyebutkan dari Hisyam, \"selama sembilan tahun.\" Telah menceritakan kepada kami [Ibnul Mutsanna] berkata, telah menceritakan kepada kami [Amru bin Ashim] berkata, telah menceritakan kepada kami [Abu Al Awwam] berkata, telah menceritakan kepada kami [Qatadah] dari [Abu Al Khalil] dari [Abdullah bin Al Harits] dari [Ummu Salamah] dari Nabi shallallahu 'alaihi wasallam seperti hadits ini, namun hadits Mu'adz lebih lengkap",
+          "tr": "Rasûlullah (s.a.v.)'in hanımı Ümmü Seleme (r.a)'dan Rasûlullah'ın şöyle buyurduğu rivayet edilmiştir. \"Bir halife öldüğünde kargaşa çıkacak. Medineliler'den birisi, Medine'den çıkıp, Mekke'ye kaçacak. (Ama) Mekke'lilerden bazı insanlar, onu (bulunduğu yerden) çıkarıp, istemediği halde (Kabe'de) Rükün ile Makam-ı İbrahim arasında ona bîat edecekler. Şam'lilarda Onun üzerine bir ordu gönderilecek, ama o ordu Mekke ile Medine arasındaki Beydâ denilen yerde yere batacak. İnsanlar bunu görünce, Şam'ın ebdâli ve Iraklıların asâîbi (şam ve Irak'ın hayırlı salih kulları) ona gelip, bîat edecek. Sonra Kureyş'ten, dayıları Kelp (kabilesinden) olan bir adam çıkıp, o biat edenler üzerine bir ordu gönderecek. Fakat bîat edenler, Ben-î Kelb'linin gönderdiği orduya galip gelecekler. Bu ordu Kelb'in gönderdiği ordudur, (o zaman) Kelb'in ganimetinde hazır bulunmayana yazık!... Halife olan zat (Mehdî) malı taksim edecek. İnsanlardan bir kısmı, Nebilerinin Sünneti ile amel edecek, İslâmiyet yeryüzüne tamamen yerleşecek. (Mehdî) yedi sene kalıp, sonra vefat edecek ve Müslümanlar o'nun namazını kılacak\" Ebû Davûd derki: \"Bazıları Hişâm'dan rivayetle, dokuz sene\" bazıları da \"yedi sene\" dedi. Bu Hadis'i ayrıca Büyük İmam Ahmed Müsnedinde 6/316 da tahric etti"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 38,
+        "hadith": 8
+      },
+      "narrator": {
+        "en": "Umm Salamah, Ummul Mu'minin"
+      }
+    },
+    {
+      "hadithNumber": 4287,
+      "arabicNumber": 4287,
+      "book": 38,
+      "hadithInBook": 9,
+      "text": {
+        "arabic": "حَدَّثَنَا هَارُونُ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا عَبْدُ الصَّمَدِ، عَنْ هَمَّامٍ، عَنْ قَتَادَةَ، بِهَذَا الْحَدِيثِ وَقَالَ ‏\"‏ تِسْعَ سِنِينَ ‏\"‏ ‏.‏ قَالَ أَبُو دَاوُدَ وَقَالَ غَيْرُ مُعَاذٍ عَنْ هِشَامٍ ‏\"‏ تِسْعَ سِنِينَ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "The tradition mentioned above has also been transmitted by Qatadah through a different chain of narrators. This version has \"nine years\". Abu Dawud said:The other narrators mentioned \"nine years\" from Hisham except Mu'adh",
+          "ur": "اس سند سے قتادہ سے بھی یہی حدیث مروی ہے اس میں نو سال ہے۔ ابوداؤد کہتے ہیں: معاذ کے علاوہ نے ہشام سے نو سال کی روایت کی ہے۔",
+          "fr": "Le hadith mentionné ci-dessus a aussi été transmis par Qatadah par une autre chaîne de rapporteurs. Cette version indique « neuf ans ». Abu Dawud a dit : Les autres rapporteurs ont mentionné « neuf ans » de Hisham sauf Mu’adh",
+          "tr": "Bize Harun b. Abdullah haber verdi, bize Hemmam'dan naklen Abdüssamed haber verdi. Hemmam'da katâde'den bu (4286 nolu) hadisi rivayet etti. Hemmam rivayetinde \"dokuz sene\" dedi"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 38,
+        "hadith": 9
+      }
+    },
+    {
+      "hadithNumber": 4288,
+      "arabicNumber": 4288,
+      "book": 38,
+      "hadithInBook": 10,
+      "text": {
+        "arabic": "حَدَّثَنَا ابْنُ الْمُثَنَّى، حَدَّثَنَا عَمْرُو بْنُ عَاصِمٍ، حَدَّثَنَا أَبُو الْعَوَّامِ، حَدَّثَنَا قَتَادَةُ، عَنْ أَبِي الْخَلِيلِ، عَنْ عَبْدِ اللَّهِ بْنِ الْحَارِثِ، عَنْ أُمِّ سَلَمَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم بِهَذَا الْحَدِيثِ وَحَدِيثُ مُعَاذٍ أَتَمُّ ‏.‏",
+        "translations": {
+          "en": "The tradition mentioned above has also been transmitted by Umm Salamah from the Prophet (ﷺ) through a different chain of narrators. The tradition of Mu'adh is more perfect",
+          "ur": "اس سند سے بھی ام المؤمنین ام سلمہ رضی اللہ عنہا نبی اکرم صلی اللہ علیہ وسلم سے یہی حدیث روایت کرتی ہیں، معاذ کی حدیث زیادہ کامل ہے۔",
+          "fr": "Le hadith mentionné ci-dessus a aussi été transmis par Umm Salamah de la part du Prophète ﷺ par une autre chaîne de rapporteurs. La version de Mu’adh est plus complète",
+          "tr": "Bize İbnü'l Müsenna haber verdi, Bize Amr b. Asım haber verdi. Bize Ebûl Avam haber verdi.Bize Katâde Ebûl Halil'den, O Abdullah b. Halis'ten , o da Ümmü Seleme (r.a) vasıtasıyla Rasûlullah (s.a.v.)'den bu (yukardaki 4287.) hadisi rivayet etti. Muâz'ın hadisi daha mükemmeldir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 38,
+        "hadith": 10
+      }
+    },
+    {
+      "hadithNumber": 4289,
+      "arabicNumber": 4289,
+      "book": 38,
+      "hadithInBook": 11,
+      "text": {
+        "arabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا جَرِيرٌ، عَنْ عَبْدِ الْعَزِيزِ بْنِ رُفَيْعٍ، عَنْ عُبَيْدِ اللَّهِ ابْنِ الْقِبْطِيَّةِ، عَنْ أُمِّ سَلَمَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم بِقِصَّةِ جَيْشِ الْخَسْفِ قُلْتُ يَا رَسُولَ اللَّهِ فَكَيْفَ بِمَنْ كَانَ كَارِهًا قَالَ ‏ \"‏ يُخْسَفُ بِهِمْ وَلَكِنْ يُبْعَثُ يَوْمَ الْقِيَامَةِ عَلَى نِيَّتِهِ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Umm salamah reported the Prophet (ﷺ) as saying about the swallowing up an army by the earth. I asked:How will a man who comes against his will (be swallowed up by the earth), Messenger of Allah ? He replied: All will be swallowed up, but each will be raised according to his intention on the Day of Resurrection",
+          "ur": "ام المؤمنین ام سلمہ رضی اللہ عنہا نبی اکرم صلی اللہ علیہ وسلم سے دھنسائے جانے والے لشکر کا واقعہ روایت کرتی ہیں اس میں ہے: میں نے عرض کیا: اللہ کے رسول! اس شخص کا کیا حال ہو گا جو نہ چاہتے ہوئے زبردستی لایا گیا ہو؟ آپ صلی اللہ علیہ وسلم نے فرمایا: وہ بھی ان کے ساتھ دھنسا دیا جائے گا البتہ قیامت کے دن وہ اپنی نیت پر اٹھایا جائے گا ۔",
+          "fr": "Umm Salamah رضي الله عنها a rapporté que le Prophète ﷺ a parlé de l’engloutissement d’une armée par la terre. J’ai demandé : « Comment un homme qui vient contre son gré sera-t-il englouti, Messager d’Allah ? » Il a répondu : « Tous seront engloutis, mais chacun sera ressuscité selon son intention le Jour de la Résurrection. »",
+          "id": "Telah menceritakan kepada kami [Utsman bin Abu Syaibah] berkata, telah menceritakan kepada kami [Jarir] dari [Abdul Aziz bin rufai'] dari [Ubaidullah bin Al Qibthiyyah] dari [Ummu Salamah] dari Nabi shallallahu 'alaihi wasallam berkenaan dengan kisah pasukan yang ditenggelamkan. Aku bertanya, \"Wahai Rasulullah shallallahu 'alaihi wasallam, bagaimana dengan orang yang terpaksa (bersama tentara yang ditenggelamkan)?\" beliau menjawab: \"Ia juga akan ditenggelamkan, hanyasaja pada hari kiamat ia akan dibangkitkan sesuai dengan niatnya",
+          "tr": "Ümmü Seleme (r.a) Rasûlullah (s.a.v.)'den (Mekke ile Medine arasında) batırılacak olanların kıssasını haber verip (şöyle devam etti): \"Ya Rasûlullah, bu orduya istemeyerek zorla götürülen ne olacak? dedim. Rasûlullah (s.a.v.): Öbürleriyle birlikte o da batırılacak, ama Kıyamet Günü niyetine göre diriltilir, buyurdu"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim (2882)"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 38,
+        "hadith": 11
+      }
+    },
+    {
+      "hadithNumber": 4290,
+      "arabicNumber": 4290,
+      "book": 38,
+      "hadithInBook": 12,
+      "text": {
+        "arabic": "",
+        "translations": {
+          "ur": "ابواسحاق کہتے ہیں کہ علی رضی اللہ عنہ نے اپنے بیٹے حسن رضی اللہ عنہ کی طرف دیکھا، اور کہا: یہ میرا بیٹا سردار ہو گا جیسا کہ رسول اللہ صلی اللہ علیہ وسلم نے اس کا نام رکھا ہے، اور عنقریب اس کی نسل سے ایک ایسا شخص پیدا ہو گا جس کا نام تمہارے نبی کے نام جیسا ہو گا، اور سیرت میں ان کے مشابہ ہو گا البتہ صورت میں مشابہ نہ ہو گا پھر انہوں نے «سيملأ الأرض عدلاً» کا واقعہ ذکر کیا۔",
+          "fr": "Abu Dawud a dit : Abu Ishaq a rapporté qu’Ali a regardé son fils al-Hasan et a dit : « Mon fils est un sayyid (chef) comme l’a nommé le Prophète ﷺ, et de sa descendance viendra un homme qui portera le nom de votre Prophète ﷺ et lui ressemblera dans le comportement, mais pas dans l’apparence. » Il a ensuite mentionné l’histoire où il remplira la terre de justice",
+          "id": "Abu Dawud berkata; Aku diceritakan dari [Harun Ibnul Mughirah] ia berkata; telah menceritakan kepada kami [Amru bin Abu Qais] dari [Syu'aib bin Khalid] dari [Abu Ishaq] ia berkata; Sambil melihat puteranya Al hasan, Ali radliallahu 'anhu berkata berkata, \"Puteraku ini adalah seorang pemimpin sebagaimana yang disebutkan oleh Nabi shallallahu 'alaihi wasallam, dan akan keluar dari keturunannya seorang laki-laki yang bernama seperti nama Nabi kalian, akhlaqnya sama tetapi tidak untuk postur tubuhnya.\" Kemudian beliau menyebutkan kisahnya, \"Ia akan memenuhi bumi dengan keadilan.\" Harun berkata, \"Telah menceritakan kepada kami [Amru bin Abu Qais] dari [Mutharrif bin Tharif] dari [Abu Al Hasan] dari [Hilal bin Amru] ia berkata; Aku mendengar [Ali radliallahu 'anhu] berkata, \"Nabi shallallahu 'alaihi wasallam bersabda: \"Akan keluar seorang laki-laki dari seberang sungai (seperti Bukhara dan Samarqan), dia bernama Al Harits bin Hurrats, lalu setelahnya akan keluar seorang laki-laki bernama Manshur. Ia memperkokoh keluarga Muhammad sebagaimana bangsa Quraisy memperkokoh Rasulullah shallallahu 'alaihi wasallam. Maka wajib atas setiap mukmin menolongnya, atau beliau mengatakan: \"memenuhi seruannya",
+          "tr": "Ebû İshak'tan rivayet edildiğine göre; Ali (r.a) oğlu Hasan'a bakıp şöyle demiştir: \"Benim şu oğlum Rasûlullah (s.a.v.)'in isimlendiği gibi seyyiddir. Onun sulbünden, adı Nebimizin adından olan, ona yaratılışta değil, huyda benzeyen bir adam gelecektir.\" Hz. Ali kıssayı zikretti, \"Dünyayı Adaletle dolduracak...\" dedi. Harun şöyle dedi: Bize Amr b. Abi Kays Mutarrıf b. Tariften o Ebî Hasen'den, o'da Hilâl b. Amr'dan şöyle dediğini rivayet etti: Maverâünnenehir'de el-Haris b. Harras adında bir adam çıkacak. Onun (ordusunun) önünde Mansur denilen birisi bulunacak, Kureyş'in Rasûlullah'a imkan verdiği gibi âl-i Muhammed'e (Hilâfetine) imkân verecek - veya hazırlayacak.[Şek ravîdendir.] Her mü'minin ona yardım etmesi veya onun davetini kabul etmesi vaciptir.[Şek râvîdendir]"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 38,
+        "hadith": 12
+      }
+    }
+  ],
+  "metadata": {
+    "averageLength": "medium",
+    "size": "10KB"
+  }
+}

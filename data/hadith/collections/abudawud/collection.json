@@ -1,0 +1,23 @@
+{
+  "collection": "abudawud",
+  "name": {
+    "arabic": "سنن أبي داود",
+    "transliteration": "Sunan Abi Dawud",
+    "translation": "The Sunan of Abu Dawud"
+  },
+  "compiler": {
+    "arabic": "أبو داود السجستاني",
+    "transliteration": "Abu Dawud as-Sijistani",
+    "dates": "202-275 AH"
+  },
+  "authenticity": "hasan-sahih",
+  "totalBooks": 43,
+  "totalHadith": 5274,
+  "metadata": {
+    "extractedFrom": "ara-abudawud",
+    "sourceFormat": "hadith-api-1",
+    "extractionDate": "2025-09-19T23:58:45.312Z",
+    "description": "Collection focusing on legal hadith",
+    "priority": 2
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "collection": "muslim",
+  "name": {
+    "arabic": "صحيح مسلم",
+    "transliteration": "Sahih Muslim",
+    "translation": "The Authentic Collection of Muslim"
+  },
+  "compiler": {
+    "arabic": "مسلم بن الحجاج النيسابوري",
+    "transliteration": "Muslim ibn al-Hajjaj an-Naysaburi",
+    "dates": "206-261 AH"
+  },
+  "authenticity": "sahih",
+  "totalBooks": 57,
+  "totalHadith": 7563,
+  "metadata": {
+    "extractedFrom": "ara-muslim",
+    "sourceFormat": "hadith-api-1",
+    "extractionDate": "2025-09-19T23:58:45.241Z",
+    "description": "Second most authentic collection of hadith",
+    "priority": 1
+  }
+}

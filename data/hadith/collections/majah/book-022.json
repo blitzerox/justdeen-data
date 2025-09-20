@@ -1,0 +1,931 @@
+{
+  "collection": "majah",
+  "book": 22,
+  "name": {
+    "arabic": "كتاب The Chapters on Wills",
+    "transliteration": "the chapters on wills",
+    "translation": "The Chapters on Wills"
+  },
+  "totalHadith": 24,
+  "hadithNumberRange": {
+    "first": 2695,
+    "last": 2718
+  },
+  "content": [
+    {
+      "hadithNumber": 2695,
+      "arabicNumber": 2695,
+      "book": 22,
+      "hadithInBook": 1,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ نُمَيْرٍ، حَدَّثَنَا أَبِي وَأَبُو مُعَاوِيَةَ ح وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَعَلِيُّ بْنُ مُحَمَّدٍ، قَالاَ حَدَّثَنَا أَبُو مُعَاوِيَةَ، - قَالَ أَبُو بَكْرٍ وَعَبْدُ اللَّهِ بْنُ نُمَيْرٍ - عَنِ الأَعْمَشِ، عَنْ شَقِيقٍ، عَنْ مَسْرُوقٍ، عَنْ عَائِشَةَ، قَالَتْ مَا تَرَكَ رَسُولُ اللَّهِ صلى الله عليه وسلم دِينَارًا وَلاَ دِرْهَمًا وَلاَ شَاةً وَلاَ بَعِيرًا وَلاَ أَوْصَى بِشَىْءٍ ‏.‏",
+        "translations": {
+          "en": "It was narrated that Aishah said:“The Messenger of Allah (ﷺ) did not leave behind a Dinar nor a Dirham, nor a sheep, nor a camel, and he did not make a will concerning anything.”",
+          "ur": "ام المؤمنین عائشہ رضی اللہ عنہا کہتی ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے ( اپنی وفات کے وقت ) دینار، درہم، بکری اور اونٹ نہیں چھوڑے اور نہ ہی کسی چیز کی وصیت کی ۱؎۔",
+          "fr": "Rapporté par Aishah : “Le Messager d’Allah (ﷺ) n’a laissé derrière lui ni dinar, ni dirham, ni mouton, ni chameau, et il n’a fait aucun testament concernant quoi que ce soit.”",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair], telah menceritakan kepada kami [Ayahku] dan [Abu Mu'awiyah], (demikian juga diriwayatkan dari jalur lain), telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Ali bin Muhammad], keduannya berkata; telah menceritakan kepada kami [Abu Mu'awiyah]; Abu Bakar dan Abdullah bin Numair dari [Al `A'masy] dari [Syaqiq] dari [Masruq] dari [Aisyah], ia berkata; \"Rasulullah shallallahu 'alaihi wasallam tidak meninggalkan uang satu dinar atau satu dirham pun, demikian pula dengan seekor kambing dan unta. Juga Beliau tidak memberikan wasiat dengan sesuatu sama sekali",
+          "tr": "Aişe (r.anha)'dan; Şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem) vefat ettiği zaman ne bir dinar (altın), ne bir dirhem (gümüş), ne bir koyun - keçi, ne de bir deve bırakmadı ve (mal ile ilgili) bir şey vasiyyet etmedi"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 22,
+        "hadith": 1
+      }
+    },
+    {
+      "hadithNumber": 2696,
+      "arabicNumber": 2696,
+      "book": 22,
+      "hadithInBook": 2,
+      "text": {
+        "arabic": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ، حَدَّثَنَا وَكِيعٌ، عَنْ مَالِكِ بْنِ مِغْوَلٍ، عَنْ طَلْحَةَ بْنِ مُصَرِّفٍ، قَالَ قُلْتُ لِعَبْدِ اللَّهِ بْنِ أَبِي أَوْفَى أَوْصَى رَسُولُ اللَّهِ صلى الله عليه وسلم بِشَىْءٍ قَالَ لاَ ‏.‏ قُلْتُ فَكَيْفَ أَمَرَ الْمُسْلِمِينَ بِالْوَصِيَّةِ قَالَ أَوْصَى بِكِتَابِ اللَّهِ ‏.‏ قَالَ مَالِكٌ وَقَالَ طَلْحَةُ بْنُ مُصَرِّفٍ قَالَ الْهُزَيْلُ بْنُ شُرَحْبِيلَ أَبُو بَكْرٍ كَانَ يَتَأَمَّرُ عَلَى وَصِيِّ رَسُولِ اللَّهِ صلى الله عليه وسلم وَدَّ أَبُو بَكْرٍ أَنَّهُ وَجَدَ مِنْ رَسُولِ اللَّهِ صلى الله عليه وسلم عَهْدًا فَخَزَمَ أَنْفَهُ بِخِزَامٍ ‏.‏",
+        "translations": {
+          "en": "It was narrated from Malik bin Mighwal that Talhah bin Musarrif said:“I said to Abdullah bin Abu Awfa: 'Did the Messenger of Allah (ﷺ) make a will concerning anything?' He said: 'No.' I said: 'How come he told the Muslims to make wills?' He said: 'He enjoined (them to adhere to) the book of Allah (SWT).” Malik said: “Talhah bin Musarrif said: 'Huzail bin Shurahbil said: “Abu Bakr was granted leadership according to the will of Allah's Messenger (ﷺ)?” (Rather) Abu Bakr wished that the found a covenant (in that regard) from Allah's Messenger (ﷺ), so he could fetter his nose with a (camel's) nose ring.”",
+          "ur": "طلحہ بن مصرف کہتے ہیں کہ میں نے عبداللہ بن ابی اوفی رضی اللہ عنہ سے پوچھا: کیا رسول اللہ صلی اللہ علیہ وسلم نے کسی چیز کی وصیت کی ہے؟ انہوں نے جواب دیا: نہیں، میں نے کہا: پھر کیوں کر مسلمانوں کو وصیت کا حکم دیا؟ تو انہوں نے کہا: آپ صلی اللہ علیہ وسلم نے اللہ کی کتاب ( قرآن ) پر چلنے کی وصیت فرمائی ۱؎۔ مالک کہتے ہیں: طلحہ بن مصرف کا بیان ہے کہ ہزیل بن شرحبیل نے کہا: بھلا ابوبکر رضی اللہ عنہ رسول اللہ صلی اللہعلیہ وسلم کے وصی پر حکومت کر سکتے تھے؟ ابوبکر رضی اللہ عنہ کا تو یہ حال تھا کہ اگر وہ آپ صلی اللہ علیہ وسلم کا حکم پاتے تو تابع دار اونٹنی کی طرح اپنی ناک میں ( اطاعت کی ) نکیل ڈال لیتے۔",
+          "fr": "Rapporté par Malik bin Mighwal, d’après Talhah bin Musarrif : “J’ai demandé à Abdullah bin Abu Awfa : ‘Le Messager d’Allah (ﷺ) a-t-il fait un testament ?’ Il a répondu : ‘Non.’ J’ai dit : ‘Comment se fait-il qu’il ait ordonné aux musulmans de faire des testaments ?’ Il a dit : ‘Il leur a recommandé de suivre le Livre d’Allah (SWT).’ Malik a dit : ‘Talhah bin Musarrif a rapporté que Huzail bin Shurahbil a dit : “Abu Bakr a-t-il reçu le pouvoir selon le testament du Messager d’Allah (ﷺ) ?” (En réalité) Abu Bakr aurait souhaité trouver un engagement écrit du Messager d’Allah (ﷺ), afin de pouvoir s’y tenir fermement.’”",
+          "tr": "Talha bin Musarrif'ten rivayet edildiğine göre kendisi şöyle demiştir: Ben Abdullah bin Ebî Evfâ (r.a.)'a: Resulullah (Sallallahu Aleyhi ve Sellem) bir şey vasiyyet etti nü? diye sordum. Abdullah: Hayır, (etmedi) dedi. Ben: Öyle ise O, müslümanlara nasıl vasiyyet etmelerini emretti? dedim. Abdullah: O, Allah'ın Kitâb'ı ile (amel edilmesini) vasiyyet etti, dedi. Mâlik dedi ki: Talha bin Musarrif, el-Huzeyl bin Şürahbîl'in şöyle dediğini söyledi: Ebû Bekir (r.a.), Resulullah (Sallallahu Aleyhi ve Sellem)'in vasîsî (yâni Şîîler'in iddia ettiği gibi) hilâfeti verdiği Ali (r.a.) başında halîfe olmaya (mı) kalkıştı? Ebû Bekir, Resulullah (Sallallahu Aleyhi ve Sellem)'den (herhangi bir sahâbî'nin halifeliği yolunda) bir ahdini bulup da kendini, onun hükmü altına almayı çok arzu etti"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 22,
+        "hadith": 2
+      }
+    },
+    {
+      "hadithNumber": 2697,
+      "arabicNumber": 2697,
+      "book": 22,
+      "hadithInBook": 3,
+      "text": {
+        "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ الْمِقْدَامِ، حَدَّثَنَا الْمُعْتَمِرُ بْنُ سُلَيْمَانَ، سَمِعْتُ أَبِي يُحَدِّثُ، عَنْ قَتَادَةَ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ كَانَتْ عَامَّةُ وَصِيَّةِ رَسُولِ اللَّهِ صلى الله عليه وسلم حِينَ حَضَرَتْهُ الْوَفَاةُ وَهُوَ يُغَرْغِرُ بِنَفْسِهِ ‏ \"‏ الصَّلاَةَ وَمَا مَلَكَتْ أَيْمَانُكُمْ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated that Anas bin Malik said:“What the Messenger of Allah (ﷺ) most enjoined when he was dying and breathing his last was: The prayer; and those whom your right hands possess.”",
+          "ur": "انس بن مالک رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم کی وفات کے قریب جب آپ کا سانس اٹک رہا تھا تو آپ صلی اللہ علیہ وسلم کی عام وصیت یہ تھی: لوگو! نماز اور غلام و لونڈی کا خیال رکھنا ۔",
+          "fr": "Rapporté par Anas bin Malik : “Ce que le Messager d’Allah (ﷺ) a le plus recommandé alors qu’il était mourant et rendait son dernier souffle, c’était : la prière, et ceux que possèdent vos mains droites.”",
+          "id": "Telah menceritakan kepada kami [Ahmad bin Miqdam], telah menceritakan kepada kami [Al Mu'tamir bin Sulaiman]; aku mendengar [Ayahku] menceritakan dari [Qatadah] dari [Anas bin Malik], ia berkata; \"Wasiat umum Rasulullah shallallahu 'alaihi wasallam menjelang wafat, ketika sakaratul maut yaitu: \"Jagalah shalat dan zakat serta perhatikanlah hamba sahaya kalian",
+          "tr": "Enes bin Mâlik (r.a.)'den; Şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem)'in vefat edeceği son anlarında ruhu boğazına geldiğindeki tüm vasiyyeti: «Namaza (devam ediniz) ve sağ ellerinizin mâlik olduğu şeylere (yâni mallarınızın haklarına ve köleler ile cariyelerinizin haklarına riâyet ediniz)» emri idi. Not: Zevaid'de şöyle denilmiştir: Bunun senedi hasendir. Çünkü Ahmed bin el-Mıkdam Ehl•i Zabtın (yani işittiği hadisleri iyice belleyenlerin) derecesine erişmemişti. Senedin kalan ravileri Buhari ile Müslim'in şartları üzerinedir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 22,
+        "hadith": 3
+      }
+    },
+    {
+      "hadithNumber": 2698,
+      "arabicNumber": 2698,
+      "book": 22,
+      "hadithInBook": 4,
+      "text": {
+        "arabic": "حَدَّثَنَا سَهْلُ بْنُ أَبِي سَهْلٍ، حَدَّثَنَا مُحَمَّدُ بْنُ فُضَيْلٍ، عَنْ مُغِيرَةَ، عَنْ أُمِّ مُوسَى، عَنْ عَلِيِّ بْنِ أَبِي طَالِبٍ، قَالَ كَانَ آخِرُ كَلاَمِ النَّبِيِّ صلى الله عليه وسلم ‏ \"‏ الصَّلاَةَ وَمَا مَلَكَتْ أَيْمَانُكُمْ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated that 'Ali bin Abu Talib said:“The last words of the Prophet (ﷺ) were: The prayer; and those whom your right hands prossess.”",
+          "ur": "علی بن ابی طالب رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم کی آخری بات یہ تھی: نماز کا اور اپنے غلام و لونڈی کا خیال رکھنا ۱؎۔",
+          "fr": "Rapporté par 'Ali bin Abu Talib : “Les derniers mots du Prophète (ﷺ) furent : la prière, et ceux que possèdent vos mains droites.”",
+          "id": "Telah menceritakan kepada kami [Sahal bin Abu Sahal], telah menceritakan kepada kami [Muhammad bin Fudhail] dari [Mughirah] dari [Ummu Musa] dari [Ali bin Abu Thalib] berkata; \"Akhir ucapan Nabi shallallahu 'alaihi wasallam adalah: \"Jagalah shalat dan zakat serta perhatikanlah hamba sahaya kalian",
+          "tr": "Alî bin Ebî Tâlib (r.a.)'en; Şöyle demiştir: Nebi (Sallallahu Aleyhi ve Sellem)'in (vefatı sıralarındaki) son sözü: «Namaza (devam ediniz) ve sağ ellerinizin mâlik olduğu şeylere dikkat ediniz),» emri idi"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 22,
+        "hadith": 4
+      }
+    },
+    {
+      "hadithNumber": 2699,
+      "arabicNumber": 2699,
+      "book": 22,
+      "hadithInBook": 5,
+      "text": {
+        "arabic": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ نُمَيْرٍ، عَنْ عُبَيْدِ اللَّهِ بْنِ عُمَرَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ مَا حَقُّ امْرِئٍ مُسْلِمٍ أَنْ يَبِيتَ لَيْلَتَيْنِ وَلَهُ شَىْءٌ يُوصِي فِيهِ إِلاَّ وَوَصِيَّتُهُ مَكْتُوبَةٌ عِنْدَهُ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated from Ibn 'Umar that the Messenger of Allah (ﷺ) said:“The Muslim man has no right to spend two nights, if he has something for which a will should be made, without having a written will with him.”",
+          "ur": "عبداللہ بن عمر رضی اللہ عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: جس مسلمان کے پاس وصیت کرنے کے قابل کوئی چیز ہو، اسے یہ حق نہیں ہے کہ وہ دو راتیں بھی اس حال میں گزارے کہ اس کی وصیت اس کے پاس لکھی ہوئی نہ ہو ۱؎۔",
+          "fr": "Rapporté par Ibn 'Umar : Le Messager d’Allah (ﷺ) a dit : “Un musulman ne doit pas passer deux nuits s’il possède quelque chose qui nécessite un testament, sans avoir un testament écrit avec lui.”",
+          "id": "Telah menceritakan kepada kami [Ali bin Muhammad], telah menceritakan kepada kami [Abdullah bin Numair] dari [Ubaidullah bin Umar] dari [Nafi'] dari [Ibnu Umar], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Tidak ada hak dari seorang muslim yang bermalam selama dua malam dan ia memiliki sesuatu yang diwasiatkan, kecuali wasiatnya ditulis di sisinya",
+          "tr": "İbn-i Ömer (r.a.)'dan rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: «Vasiyyet edeceği bir şeyi bulunup da vasiyyeti, yanında yazılı bulunmadıkça iki gece yatmak müslüman bir kişinin hakkı değildir.»"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 22,
+        "hadith": 5
+      }
+    },
+    {
+      "hadithNumber": 2700,
+      "arabicNumber": 2700,
+      "book": 22,
+      "hadithInBook": 6,
+      "text": {
+        "arabic": "حَدَّثَنَا نَصْرُ بْنُ عَلِيٍّ الْجَهْضَمِيُّ، حَدَّثَنَا دُرُسْتُ بْنُ زِيَادٍ، حَدَّثَنَا يَزِيدُ الرَّقَاشِيُّ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ الْمَحْرُومُ مَنْ حُرِمَ وَصِيَّتَهُ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated from Anas bin Malik that the Messenger of Allah (ﷺ) said:“The one who is deprived is the one who is deprived of a will.”",
+          "ur": "انس بن مالک رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: محروم وہ ہے جو وصیت کرنے سے محروم رہے ۔",
+          "fr": "Rapporté par Anas bin Malik : Le Messager d’Allah (ﷺ) a dit : “Celui qui est privé, c’est celui qui est privé de testament.”",
+          "id": "Telah menceritakan kepada kami [Nashr bin Ali Al Jahdhami], telah menceritakan kepada kami [Durustu bin Ziyad], telah menceritakan kepada kami [Yazid Ar Raqasyi] dari [Anas Bin Malik], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Orang yang bernasib buruk adalah orang yang terhalangi untuk membuat wasiat",
+          "tr": "Enes bin Mâlik (r.a.)'den rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: «Mahrum kişi, vasiyyet etmekten mahrum olan kimsedir.» Not: Zevaid'de şöyle denilmiştir: Bunun senedinde Yezid bin Eban er-Rak. kaşl bulunur, bu ravi zayıftır"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 22,
+        "hadith": 6
+      }
+    },
+    {
+      "hadithNumber": 2701,
+      "arabicNumber": 2701,
+      "book": 22,
+      "hadithInBook": 7,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُصَفَّى الْحِمْصِيُّ، حَدَّثَنَا بَقِيَّةُ بْنُ الْوَلِيدِ، عَنْ يَزِيدَ بْنِ عَوْفٍ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ مَنْ مَاتَ عَلَى وَصِيَّةٍ مَاتَ عَلَى سَبِيلٍ وَسُنَّةٍ وَمَاتَ عَلَى تُقًى وَشَهَادَةٍ وَمَاتَ مَغْفُورًا لَهُ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated from Jabir bin Abdullah that the Messenger of Allah (ﷺ) said:“Whoever dies leaving a will, he dies on the right path and Sunnah, and he dies with piety and witness, and he dies forgiven.”",
+          "ur": "جابر بن عبداللہ رضی اللہ عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: جو شخص وصیت کر کے مرا، وہ راہ ( راہ راست ) پر اور سنت کے مطابق مرا، نیز پرہیزگاری اور شہادت پر اس کا خاتمہ ہوا، اس کی مغفرت ہو گی ۔",
+          "fr": "Rapporté par Jabir bin Abdullah : Le Messager d’Allah (ﷺ) a dit : “Celui qui meurt en laissant un testament meurt sur la bonne voie et la Sunna, il meurt dans la piété et le témoignage, et il meurt pardonné.”",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Mushaffa Al Himshi], telah menceritakan kepada kami [Baqiyyah bin Al Walid] dari [Yazid bin 'Auf] dari [Abu Zubair] dari [Jabir bin Abdullah], ia berkata; bersabda Rasulullah shallallahu 'alaihi wasallam: \"Barang siapa yang meninggal dalam keadaan berwasiat maka dia meninggal diatas jalan yang benar dan sunnah, dia meninggal diatas ketaqwaan dan syahadah, dan dia meninggal dalam keadaan diampuni",
+          "tr": "Câbir bin Abdillah (r.a.)'dan rivayet edildiğine göre: Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: «(Müslümanlardan) kim vasiyyet üzerine (yâni vasiyyet etmiş olarak) ölürse, o kimse (yakışır) bir yol ve sünnette riâyet) üzerine ölmüş olur, takva ve şehâdet üzerine ölmüş olur ve bağışlanmış olarak ölmüş olur.» Not: Zevaid'de şöyle denilmiştir: Bunun senedinde Bakiyye vardır ki bu zat tedlisçidir. Şeyhi Yezid bin Avf hakkında konuşan kimseyi görmedim"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Very Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 22,
+        "hadith": 7
+      }
+    },
+    {
+      "hadithNumber": 2702,
+      "arabicNumber": 2702,
+      "book": 22,
+      "hadithInBook": 8,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ مَعْمَرٍ، حَدَّثَنَا رَوْحُ بْنُ عَوْفٍ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ مَا حَقُّ امْرِئٍ مُسْلِمٍ يَبِيتُ لَيْلَتَيْنِ وَلَهُ شَىْءٌ يُوصِي بِهِ إِلاَّ وَوَصِيَّتُهُ مَكْتُوبَةٌ عِنْدَهُ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated from Ibn 'Umar that the Prophet (ﷺ) said:“The Muslim man has no right to spend two nights, if he has something for which will should be made, without having a written will with him.”",
+          "ur": "عبداللہ بن عمر رضی اللہ عنہما کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: مسلمان کے لیے یہ بات مناسب نہیں کہ وہ دو راتیں بھی اس طرح گزارے کہ اس کی وصیت لکھی ہوئی اس کے پاس نہ ہو، جب کہ اس کے پاس وصیت کرنے کے لائق کوئی چیز ہو ۔",
+          "fr": "Rapporté par Ibn 'Umar : Le Prophète (ﷺ) a dit : “Un musulman ne doit pas passer deux nuits s’il possède quelque chose qui nécessite un testament, sans avoir un testament écrit avec lui.”",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Ma'mar], telah menceritakan kepada kami [Rauh bin 'Auf] dari [Nafi'] dari [Ibnu Umar] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: \"Tidak ada hak seorang muslim yang bermalam selama dua malam dan ia memiliki sesuatu yang diwasiatkan, kecuali wasiatnya ditulis di sisinya",
+          "tr": "(Abdullah) bin Ömer (r.a.)'dan rivayet edildiğine göre; Nebi (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: «Vasiyyet edeceği bir şeyi bulunup da vasiyyeti yanında yazılı bulunmadıkça iki gece yatmak müslüman bir kişinin hakkı değildir.»"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 22,
+        "hadith": 8
+      }
+    },
+    {
+      "hadithNumber": 2703,
+      "arabicNumber": 2703,
+      "book": 22,
+      "hadithInBook": 9,
+      "text": {
+        "arabic": "حَدَّثَنَا سُوَيْدُ بْنُ سَعِيدٍ، حَدَّثَنَا عَبْدُ الرَّحِيمِ بْنُ زَيْدٍ الْعَمِّيِّ، عَنْ أَبِيهِ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ مَنْ فَرَّ مِنْ مِيرَاثِ وَارِثِهِ قَطَعَ اللَّهُ مِيرَاثَهُ مِنَ الْجَنَّةِ يَوْمَ الْقِيَامَةِ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated from Anas bin Malik that the Messenger of Allah (ﷺ) said:“Whoever tries to avoid giving the inheritance to his heirs, Allah (SWT) will deprive him of his inheritance in Paradise on the Day of Resurrection.”",
+          "ur": "انس بن مالک رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: جو شخص اپنے وارث کو میراث دلانے سے بھاگے، قیامت کے دن اللہ تعالیٰ اسے جنت کی میراث نہ دے گا ۔",
+          "fr": "Rapporté par Anas bin Malik : Le Messager d’Allah (ﷺ) a dit : “Celui qui cherche à priver ses héritiers de leur part d’héritage, Allah (SWT) le privera de son héritage au Paradis le Jour de la Résurrection.”",
+          "id": "Telah menceritakan kepada kami [Suwaid bin Sa'id], telah menceritakan kepada kami [Abdurrahim bin Zaid Al 'Ammi] dari [Ayahnya] dari [Anas bin Malik], dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Barang siapa yang lari dengan membawa warisan ahli warisnya, Allah akan memutus warisannya dari surga pada hari kiamat",
+          "tr": "Enes bin Mâlik (r.a.)'den rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: «Kim vârisinin mîrasçıhğı (hakkı) ndan kaçarsa Allah kıyamet günü o kimsenin Cennetten mîrasçılığını keser.» Not: Zevaid'de bunun senedinde Zeyd el-Ammi'nin bulunduğu bildirilmiştir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 22,
+        "hadith": 9
+      }
+    },
+    {
+      "hadithNumber": 2704,
+      "arabicNumber": 2704,
+      "book": 22,
+      "hadithInBook": 10,
+      "text": {
+        "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ الأَزْهَرِ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ بْنُ هَمَّامٍ، أَنْبَأَنَا مَعْمَرٌ، عَنْ أَشْعَثَ بْنِ عَبْدِ اللَّهِ، عَنْ شَهْرِ بْنِ حَوْشَبٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ إِنَّ الرَّجُلَ لَيَعْمَلُ بِعَمَلِ أَهْلِ الْخَيْرِ سَبْعِينَ سَنَةً فَإِذَا أَوْصَى حَافَ فِي وَصِيَّتِهِ فَيُخْتَمُ لَهُ بِشَرِّ عَمَلِهِ فَيَدْخُلُ النَّارَ وَإِنَّ الرَّجُلَ لَيَعْمَلُ بِعَمَلِ أَهْلِ الشَّرِّ سَبْعِينَ سَنَةً فَيَعْدِلُ فِي وَصِيَّتِهِ فَيُخْتَمُ لَهُ بِخَيْرِ عَمَلِهِ فَيَدْخُلُ الْجَنَّةَ ‏\"‏ ‏.‏ قَالَ أَبُو هُرَيْرَةَ وَاقْرَءُوا إِنْ شِئْتُمْ ‏{تِلْكَ حُدُودُ اللَّهِ}‏ إِلَى قَوْلِهِ {عَذَابٌ مُهِينٌ}‏",
+        "translations": {
+          "en": "It was narrated from Abu Hurairah that the Messenger of Allah (ﷺ) said:“A man may do the deeds of the people of goodness for seventy years, then when he makes his will, he is unjust in his will, so he ends (his life) with evil deeds and enters Hell. And a man may do the people of evil for seventy years, then he is just in his will, so he ends (his life) with good deeds and enters Paradise.”Abu Hurairah said: “Recite, if you wish: “These are the limits (set by) Allah (STW) up to His saying: 'a disgraceful torment'”",
+          "ur": "ابوہریرہ رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: آدمی ستر سال تک نیک عمل کرتا رہتا ہے، پھر وصیت کے وقت اپنی وصیت میں ظلم کرتا ہے، تو اس کا خاتمہ برے عمل پر ہوتا ہے اور جہنم میں جاتا ہے، اسی طرح آدمی ستر سال تک برے اعمال کا ارتکاب کرتا رہتا ہے لیکن اپنی وصیت میں انصاف کرتا ہے، اس کا خاتمہ بالخیر ہوتا ہے، اور جنت میں جاتا ہے ۔ ابوہریرہ رضی اللہ عنہ نے کہا: اگر تم چاہو تو اس آیت کریمہ: «تلك حدود الله» ( سورۃ النساء: ۱۳- ۱۴ ) کو پڑھو یعنی یہ حدود اللہ تعالیٰ کی مقرر کی ہوئی ہیں اور جو اللہ تعالیٰ کی اور اس کے رسول صلی اللہ علیہ وسلم کی فرمانبرداری کرے گا اسے اللہ تعالیٰ جنتیوں میں لے جائے گا جن کے نیچے نہریں بہہ رہی ہیں، جن میں وہ ہمیشہ رہیں گے اور یہ بہت بڑی کامیابی ہے، اور جو شخص اللہ تعالیٰ کی اور اس کے رسول کی نافرمانی کرے، اور اس کی مقررہ حدوں سے آگے نکلے اسے وہ جہنم میں ڈال دے گا جس میں وہ ہمیشہ رہے گا ایسوں ہی کے لیے رسوا کن عذاب ہے۔",
+          "fr": "Rapporté par Abu Hurairah : Le Messager d’Allah (ﷺ) a dit : “Un homme peut accomplir les actions des gens vertueux pendant soixante-dix ans, puis, au moment de faire son testament, il agit injustement, et il termine sa vie par une mauvaise action et entre en Enfer. Et un homme peut agir comme les gens mauvais pendant soixante-dix ans, puis, au moment de faire son testament, il agit avec justice, et il termine sa vie par une bonne action et entre au Paradis.” Abu Hurairah a dit : “Récitez, si vous le voulez : ‘Voici les limites fixées par Allah’ jusqu’à Sa parole : ‘un châtiment humiliant’”",
+          "id": "Telah menceritakan kepada kami [Ahmad bin Azhar], telah menceritakan kepada kami [Abdurrazak bin Hammam], telah memberitakan kepada kami [Ma'mar] dari [`Asy'ats bin Abdullah] dari [Syahr bin Hausyab] dari [Abu Hurairah], dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Sesungguhnya seorang lelaki beramal dengan amalan ahlul khair (kebaikan) selama tujuh puluh tahun kemudian apabila dia berwasiat dan dia bertindak lalim di dalam wasiatnya, maka dia diakhiri dengan perbuatannya yang buruk sehingga dia masuk neraka. Dan sesungguhnya seorang lelaki beramal dengan amalan pelaku keburukan selama tujuh puluh tahun kemudian dia bersikap adil di dalam wasiatnya maka dia diakhiri dengan perbuatan yang baik sehingga dia masuk syurga.\" Abu Hurairah Berkata; Bacalah jika kalian kehendaki: \" Itulah ketentuan-ketentuan dari Allah sampai firmanNya adzab yang hina.\" An Nisa:",
+          "tr": "Ebû Hureyre (r.a.)'den rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: «Şüphesiz adam yetmiş yıl hayır ehlinin amelini işler. Sonra vasiyyet ettiği zaman vasiyyetinde zulüm eder, böylece ameli şerle kapanır ve bu yüzden ateşe girer. Şüphesiz adam yetmiş yıl şer ehlinin amelini işler. Sonra vasiyyetini adaletli eder, böylece ameli, hayırla kapanır ve bu nedenle Cennete girer.» Ebû Hureyre (r.a.) (bu hadîsi te'yid etmek üzere) şöyle demiştir: isterseniz; تِلْكُ حُدُودُ اللهِ_ إِلى قَوْلِهِ_ عَذَابٌ مُهِينٌ âyetlerini okuyunuz"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 22,
+        "hadith": 10
+      }
+    },
+    {
+      "hadithNumber": 2705,
+      "arabicNumber": 2705,
+      "book": 22,
+      "hadithInBook": 11,
+      "text": {
+        "arabic": "حَدَّثَنَا يَحْيَى بْنُ عُثْمَانَ بْنِ سَعِيدِ بْنِ كَثِيرِ بْنِ دِينَارٍ الْحِمْصِيُّ، حَدَّثَنَا بَقِيَّةُ، عَنْ أَبِي حَلْبَسٍ، عَنْ خُلَيْدِ بْنِ أَبِي خُلَيْدٍ، عَنْ مُعَاوِيَةَ بْنِ قُرَّةَ، عَنْ أَبِيهِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ مَنْ حَضَرَتْهُ الْوَفَاةُ فَأَوْصَى وَكَانَتْ وَصِيَّتُهُ عَلَى كِتَابِ اللَّهِ كَانَتْ كَفَّارَةً لِمَا تَرَكَ مِنْ زَكَاتِهِ فِي حَيَاتِهِ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated from Mu'awiyah bin Qurrah, from his father that the Messenger of Allah (ﷺ) said:“Whoever makes a will as death approaches, and his will is in accordance with the book of Allah (SWT) it will be an expiation for whatever he did not pay of his Zakah during his lifetime.”",
+          "ur": "قرہ رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: جس نے موت کے وقت اللہ کی کتاب ( قرآن ) کے موافق وصیت کی تو یہ وصیت اس کی اس زکاۃ کا کفارہ ہو جائے گی جو اس نے اپنی زندگی میں ادا نہ کی ہو گی ۔",
+          "fr": "Rapporté par Mu'awiyah bin Qurrah, de la part de son père : Le Messager d’Allah (ﷺ) a dit : “Celui qui fait un testament alors que la mort approche, et que son testament est conforme au Livre d’Allah (SWT), cela effacera ce qu’il n’a pas payé de sa Zakat pendant sa vie.”",
+          "id": "Telah menceritakan kepada kami [Yahya bin Utsman bin Sa'id bin Katsir bin Dinar Al Himshi], telah menceritakan kepada kami [Baqiyyah] dari [Abu Halbas] dari [Khulaid bin Abu Khulaid] dari [Mu'awiyah bin Qurrah], dari [ayahnya], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Barang siapa ketika diambang kematian berwasiat dengan wasiat yang dibenarkan oleh kitabullah maka wasiatnya akan menjadi pelebur bagi apa yang dia tinggalkan dari zakatnya pada masa hidupnya",
+          "tr": "Kurre (bin Eyâs) (r.a.)'den rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: «Kim ki ölümü yaklaşır da vasiyyet eder ve vasiyyeti Allah'ın Kitabı (ndaki esâslar) üzerine olursa o vasiyyet o kimsenin hayatta iken ödemediği zekâtına keffâret olur.» Not: Zevaid'de şöyle denilmiştir: Bunun senedinde Bakiyye bin el-Velid bulunur. Bu ravi tedIisçi olup bu hadisi an'ane ile rivayet etmiştir. Onun şeyhi Ebu Halbes de meçhüI rayilerdendir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Very Daif"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 22,
+        "hadith": 11
+      }
+    },
+    {
+      "hadithNumber": 2706,
+      "arabicNumber": 2706,
+      "book": 22,
+      "hadithInBook": 12,
+      "text": {
+        "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا شَرِيكٌ، عَنْ عُمَارَةَ بْنِ الْقَعْقَاعِ، وَابْنِ، شُبْرُمَةَ عَنْ أَبِي زُرْعَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ جَاءَ رَجُلٌ إِلَى النَّبِيِّ صلى الله عليه وسلم فَقَالَ يَا رَسُولَ اللَّهِ نَبِّئْنِي بِأَحَقِّ النَّاسِ مِنِّي بِحُسْنِ الصُّحْبَةِ فَقَالَ ‏\"‏ نَعَمْ وَأَبِيكَ لَتُنَبَّأَنَّ أُمُّكَ ‏\"‏ ‏.‏ قَالَ ثُمَّ مَنْ قَالَ ‏\"‏ ثُمَّ أُمُّكَ ‏\"‏ ‏.‏ قَالَ ثُمَّ مَنْ قَالَ ‏\"‏ ثُمَّ أُمُّكَ ‏\"‏ ‏.‏ قَالَ ثُمَّ مَنْ قَالَ ‏\"‏ ثُمَّ أَبُوكَ ‏\"‏ ‏.‏ قَالَ نَبِّئْنِي يَا رَسُولَ اللَّهِ عَنْ مَالِي كَيْفَ أَتَصَدَّقُ فِيهِ قَالَ ‏\"‏ نَعَمْ وَاللَّهِ لَتُنَبَّأَنَّ أَنْ تَصَدَّقَ وَأَنْتَ صَحِيحٌ شَحِيحٌ تَأْمُلُ الْعَيْشَ وَتَخَافُ الْفَقْرَ وَلاَ تُمْهِلْ حَتَّى إِذَا بَلَغَتْ نَفْسُكَ هَاهُنَا قُلْتَ مَالِي لِفُلاَنٍ وَمَالِي لِفُلاَنٍ وَهُوَ لَهُمْ وَإِنْ كَرِهْتَ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated that Abu Hurairah said:“A man came to the Prophet (ﷺ) and said: “O Messenger of Allah (ﷺ), tell me, which of the people has most right to my good companionship?' He said: 'Yes, by your father, you will certainly be told.' He said: 'Your mother,' He said: 'Then who?' He said: Then your mother.' He said: 'Then who?' He said: Then your mother.' He said: 'Then who?' He said: Then your father.' He said: 'Tell me, O Messenger of Allah (ﷺ) about my wealth- how should I give in charity?' He said: 'Yes, by Allah (SWT) you will certainly be told. You should give in charity when you are still healthy and greedy for wealth, hoping for a long life and fearing poverty. Do not tarry until your soul reaches here and you say: “My wealth of for so-and-so,” and “My wealth of for so-and-so,” and it will be for them even though you dislike that.'”",
+          "ur": "ابوہریرہ رضی اللہ عنہ کہتے ہیں کہ ایک شخص رسول اللہ صلی اللہ علیہ وسلم کے پاس آیا اور اس نے عرض کیا: اللہ کے رسول! بتائیے کہ لوگوں میں کس کے ساتھ حسن سلوک کا حق مجھ پر زیادہ ہے؟ آپ صلی اللہ علیہ وسلم نے فرمایا: ہاں، تمہارے والد کی قسم، تمہیں بتایا جائے گا، ( سب سے زیادہ حقدار ) تمہاری ماں ہے ، اس نے کہا: پھر کون ہے؟ آپ صلی اللہ علیہوسلم نے فرمایا: پھر تمہاری ماں ہے ، اس نے کہا: پھر کون ہے؟ آ پ صلی اللہ علیہ وسلم نے فرمایا: پھر بھی تمہاری ماں ہے ، اس نے کہا: پھر کون ہے؟ آپ صلی اللہ علیہ وسلم نے فرمایا: پھر تمہارا باپ کہا: مجھے بتائیے کہ میں اپنا مال کس طرح صدقہ کروں؟ آپ صلی اللہعلیہ وسلم نے فرمایا: ہاں، اللہ کی قسم! یہ بھی تمہیں بتایا جائے گا، صدقہ اس حال میں کرو کہ تم تندرست ہو، مال کی حرص ہو، زندہ رہنے کی امید ہو، فقر و فاقہ کا اندیشہ ہو، ایسا نہ کرو کہ تمہاری سانس یہاں آ جائے ( تم مرنے لگو ) تو اس وقت کہو: میرا یہ مال فلاں کے لیے اور یہ مال فلاں کے لیے ہے، اب تو یہ مال ورثاء کا ہے گرچہ تم نہ چاہو ۱؎۔",
+          "fr": "Rapporté par Abu Hurairah : Un homme est venu voir le Prophète (ﷺ) et a dit : “Ô Messager d’Allah (ﷺ), dis-moi, qui a le plus de droit à ma bonne compagnie ?” Il a dit : “Oui, par ton père, tu vas le savoir.” Il a dit : “Ta mère.” Il a dit : “Et ensuite ?” Il a dit : “Ta mère.” Il a dit : “Et ensuite ?” Il a dit : “Ta mère.” Il a dit : “Et ensuite ?” Il a dit : “Ton père.” Il a dit : “Dis-moi, ô Messager d’Allah (ﷺ), au sujet de mes biens : comment dois-je donner en aumône ?” Il a dit : “Oui, par Allah (SWT), tu vas le savoir. Donne en aumône tant que tu es encore en bonne santé et que tu tiens à tes biens, que tu espères vivre longtemps et que tu crains la pauvreté. Ne tarde pas jusqu’à ce que ton âme atteigne ici et que tu dises : ‘Mes biens pour untel’ et ‘mes biens pour untel’, alors qu’ils leur reviendront, même si cela ne te plaît pas.”",
+          "id": "Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah], telah menceritakan kepada kami [Syarik] dari [Umarah bin Qa'qa bin Syubrumah] dari [Abu Zur'ah] dari [Abu Hurairah], ia berkata; \"Seseorang datang kepada Nabi shallallahu 'alaihi wasallam dan berkata; 'Wahai Rasulullah! Beritahukanlah kepadaku, siapakah orang yang paling berhak aku temani?\" Beliau menjawab: \"Baiklah, demi Allah aku akan memberitahu kepadamu, (ia adalah) ibumu. \" Orang tersebut berkata; \"Kemudian siapa?\" beliau menjawab, \"Ibumu.\" Orang tersebut berkata; \"Kemudian siapa?\" beliau menjawab, \"Ibumu. \" Orang tersebut berkata lagi, \"Kemudian siapa?\" Rasulullah shallallahu 'alaihi wasallam menjawab, \"Kemudian ayahmu.\"Orang tersebut berkata lagi, \"Wahai Rasulullah, beritahukanlah kepadaku, bagaimana sebaiknya aku menyedekahkan hartaku.\" Beliau bersabda: \"Baiklah, demi Allah, aku akan memberitahu kepadamu, hendaklah kau bersedekah pada saat kau sehat dan kikir, mengharapkan kebaikan kehidupan dunia dan takut akan kemiskinan, dan janganlah kau menundanya hingga nafasmu sampai di sini, dan kau akan mengatakan, \"Sungguh hartaku untuk si fulan, hartaku untuk si fulan, padahal ia pasti menjadi milik mereka sekalipun kau tidak menyukainya",
+          "tr": "Ebû Hureyre (r.a.)'den rivayet edildiğine göre: Bir adam Peygamber (Sallallahu Aleyhi ve Sellem)'in yanına gelerek: Ya Resûlallah iyi davranmam hususunda üzerimde en çok hakkı bulunan insanın kim olduğunu bana haber ver, dedi. Resûl-i Ekrem (Sallallahu Aleyhi ve Sellem): «Evet. Babana and olsun ki muhakkak sana haber verilecektir. (O) annendir,» buyurdu. Adam: Sonra kimdir? diye sordu. Resûl-i Ekrem (Sallallahu Aleyhi ve Sellem): «Sonra (yine) annendir,» buyurdu. Adam: Sonra kim? diye sordu. Resûl-i Ekrem (Sallallahu Aleyhi ve Sellem): «Sonra (yine) annen,» buyurdu. Adam: Sonra kim? diye sordu. Resûl-i Ekrem (Sallallahu Aleyhi ve Sellem): «Sonra baban», buyurdu. Adam (bu kere): Malımdan bana haber ver Ya Resûlallah! Ondan nasıl sadaka vereyim, (en faziletli sadaka nasıl olur)? diye sordu. Resûl-i Ekrem (Sallallahu Aleyhi ve Sellem): «Peki, Allah'a yemin ederim sen muhakkak haberdar edileceksin. (faziletli tasadduk), sen sıhhatli, ihtiraslı, yaşamaya ümidli ve fakirlikten korkarken sadaka vermendir. Sakın (sadaka vermeyi) geciktirme. Nihayet ruhun (gırtlağa işaretle) şuraya gelince malım falana ve malım fulana (olsun) dersin. Halbuki sen hoşlanmasan bile malın (ölümün dolayısıyla) onlaradır.»"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 22,
+        "hadith": 12
+      }
+    },
+    {
+      "hadithNumber": 2707,
+      "arabicNumber": 2707,
+      "book": 22,
+      "hadithInBook": 13,
+      "text": {
+        "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، أَنْبَأَنَا حَرِيزُ بْنُ عُثْمَانَ، حَدَّثَنِي عَبْدُ الرَّحْمَنِ بْنُ مَيْسَرَةَ، عَنْ جُبَيْرِ بْنِ نُفَيْرٍ، عَنْ بُسْرِ بْنِ جَحَّاشٍ الْقُرَشِيِّ، قَالَ بَزَقَ النَّبِيُّ صلى الله عليه وسلم فِي كَفِّهِ ثُمَّ وَضَعَ أَصْبُعَهُ السَّبَّابَةَ وَقَالَ ‏ \"‏ يَقُولُ اللَّهُ عَزَّ وَجَلَّ أَنَّى تُعْجِزُنِي ابْنَ آدَمَ وَقَدْ خَلَقْتُكَ مِنْ مِثْلِ هَذِهِ فَإِذَا بَلَغَتْ نَفْسُكَ هَذِهِ - وَأَشَارَ إِلَى حَلْقِهِ - قُلْتَ أَتَصَدَّقُ وَأَنَّى أَوَانُ الصَّدَقَةِ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated that Busr bin Jahhash Al-Quraishi that :the Prophet (ﷺ) spat in his palm then pointed to it with his index finger and said: “Allah (SWT) says: 'Do you think you can escape from My punishment, O son of Adam, when I have created you from something like this? When your soul reaches here' - and (the Prophet (ﷺ)) pointed to his throat - 'You say: I give charity.' But it is too late for charity?”",
+          "ur": "بسر بن جحاش قرشی رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے اپنی ہتھیلی پر لعاب مبارک ڈالا، اور اس پر شہادت کی انگلی رکھ کر فرمایا: اللہ تعالیٰ فرماتا ہے: اے ابن آدم! تم مجھے کس طرح عاجز کرتے ہو، حالانکہ میں نے تمہیں اسی جیسی چیز ( منی ) سے پیدا کیا ہے پھر جب تمہاری سانس یہاں پہنچ جاتی ہے، آپ نے اپنے حلق کی جانب اشارہ فرمایا تو کہتا ہے کہ میں صدقہ کرتا ہوں، اب صدقہ کرنے کا وقت کہاں رہا ؟ ۱؎۔",
+          "fr": "Rapporté par Busr bin Jahhash Al-Quraishi : Le Prophète (ﷺ) a craché dans sa paume, puis il a montré sa main avec son index et a dit : “Allah (SWT) dit : ‘Penses-tu pouvoir échapper à Mon châtiment, ô fils d’Adam, alors que Je t’ai créé à partir de quelque chose comme ceci ? Quand ton âme arrive ici’” – et le Prophète (ﷺ) a montré sa gorge – “‘tu dis : Je donne en aumône.’ Mais il est trop tard pour donner en aumône ?”",
+          "id": "Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah], telah menceritakan kepada kami [Yazid bin Harun], telah memberitakan kepada kami [Hariz bin Utsman], telah menceritakan kepadaku [Abdurrahman bin Maisarah] dari [Jubair bin Nufair] dari [Busr bin Jahasy Al Qurasyi], ia berkata; Rasulullah shallallahu 'alaihi wasallam meludah di telapak tangannya lalu ia menegakkan jari telunjuknya dan berkata; \"Allah subhanahu wata'ala berfirman: 'Bagaimana kau dapat memperdayaku wahai anak Adam! Padahal Aku telah menciptakanmu dari sesuatu seperti ini. Apabila nyawamu telah sampai disini -beliau memberi isyarat pada tenggorokkannya- engkau mengatakan; 'Aku akan bersedekah! \" Lalu apakah masih ada waktu untuk bersedekah?",
+          "tr": "Büsr bin Cahhâş el-Kureşî (r.a.)'den; Şöyle demiştir: Nebi (Sallallahu Aleyhi ve Sellem) (bir kere) eline (hafifçe) tükürdü. Sonra şehâdet parmağını (tükürük damlası üzerine) bırakıp şöyle buyurdu: «Allah (Azze ve Celle) buyuruyor ki: (Ey) Âdem oğlu seni şunun misli olan (bir damla menliden yarattığım halde beni nasıl âciz (zan) edersin (de malından sadaka ödemezsin)? Sonra ruhun şuraya (ve Resûl-i Ekrem (Sallallahu Aleyhi ve Sellem) boğazına işaret etti) ulaştığı zaman sen: Sadaka veririm, dersin. Halbuki sadaka verme zamanı nerede? (Yâni bu fırsatı kaçırdın).»\" Not: Bunun senedinin sahih olduğu, Zevaid'de bildirilmiştir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 22,
+        "hadith": 13
+      }
+    },
+    {
+      "hadithNumber": 2708,
+      "arabicNumber": 2708,
+      "book": 22,
+      "hadithInBook": 14,
+      "text": {
+        "arabic": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ، وَالْحُسَيْنُ بْنُ الْحَسَنِ الْمَرْوَزِيُّ، وَسَهْلٌ، قَالُوا حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنِ الزُّهْرِيِّ، عَنْ عَامِرِ بْنِ سَعْدٍ، عَنْ أَبِيهِ، قَالَ مَرِضْتُ عَامَ الْفَتْحِ حَتَّى أَشْفَيْتُ عَلَى الْمَوْتِ فَعَادَنِي رَسُولُ اللَّهِ صلى الله عليه وسلم فَقُلْتُ أَىْ رَسُولَ اللَّهِ إِنَّ لِي مَالاً كَثِيرًا وَلَيْسَ يَرِثُنِي إِلاَّ ابْنَتِي أَفَأَتَصَدَّقُ بِثُلُثَىْ مَالِي قَالَ ‏\"‏ لاَ ‏\"‏ ‏.‏ قُلْتُ فَالشَّطْرُ قَالَ ‏\"‏ لاَ ‏\"‏ ‏.‏ قُلْتُ فَالثُّلُثُ قَالَ ‏\"‏ الثُّلُثُ وَالثُّلُثُ كَثِيرٌ إِنَّكَ أَنْ تَتْرُكَ وَرَثَتَكَ أَغْنِيَاءَ خَيْرٌ مِنْ أَنْ تَتْرُكَهُمْ عَالَةً يَتَكَفَّفُونَ النَّاسَ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated from 'Amir bin Sa'd that his father said:“I became sick during the year of the Conquest, and was at death's door. The Messenger of Allah (ﷺ) came to visit me and I said: 'O Messenger of Allah (ﷺ), I have a great deal of wealth and no one will inherit from me apart from my daughter. Can I give two thirds of my wealth in charity?' He said: 'No.' I said: 'Then half?' He said: 'No.' I said: 'One third?' He said: One third and one third is a lot. If you leave your heirs rich that is better than leaving them destitute and begging from people.”",
+          "ur": "سعد بن ابی وقاص رضی اللہ عنہ کہتے ہیں کہ میں فتح مکہ کے سال ایسا بیمار ہوا کہ موت کے کنارے پہنچ گیا، رسول اللہ صلی اللہ علیہ وسلم میری عیادت ( بیمار پرسی ) کے لیے تشریف لائے، تو میں نے پوچھا: اللہ کے رسول! میرے پاس بہت سارا مال ہے، اور ایک بیٹی کے علاوہ کوئی وارث نہیں ہے، تو کیا میں اپنے دو تہائی مال کی وصیت کر دوں؟ آپ صلی اللہ علیہ وسلم نے جواب دیا: نہیں ، میں نے کہا: پھر آدھا؟ آپ صلی اللہ علیہ وسلم نے فرمایا: نہیں ، میں نے کہا: تو ایک تہائی؟ آپ صلی اللہ علیہ وسلم نے فرمایا: ہاں، تہائی، حالانکہ یہ بھی زیادہ ہی ہے ، تمہارا اپنے ورثاء کو مالدار چھوڑ کر جانا، انہیں محتاج چھوڑ کر جانے سے بہتر ہے کہ وہ لوگوں کے سامنے ہاتھ پھیلاتے پھریں ۱؎۔",
+          "fr": "Rapporté par 'Amir bin Sa'd, d’après son père : “Je suis tombé malade l’année de la Conquête, et j’étais proche de la mort. Le Messager d’Allah (ﷺ) est venu me rendre visite et j’ai dit : ‘Ô Messager d’Allah (ﷺ), j’ai beaucoup de biens et personne n’héritera de moi sauf ma fille. Puis-je donner deux tiers de mes biens en aumône ?’ Il a dit : ‘Non.’ J’ai dit : ‘Alors la moitié ?’ Il a dit : ‘Non.’ J’ai dit : ‘Un tiers ?’ Il a dit : ‘Un tiers, et un tiers c’est beaucoup. Si tu laisses tes héritiers riches, c’est mieux que de les laisser pauvres à mendier auprès des gens.’”",
+          "id": "Telah menceritakan kepada kami [Hisyam bin Ammar] dan [Husain bin Hasan Al Marwazi] serta [Sahal], semuanya berkata; telah menceritakan kepada kami [Sufyan bin Uyainah] dari [Az Zuhri] dari [Amir bin Sa'd] dari [Ayahnya], ia berkata; \"Pada saat penaklukan kota Makkah, aku menderita sakit, sampai aku hampir mati, kemudian Rasulullah shallallahu 'alaihi wasallam mengunjungiku. Aku katakan kepada beliau, wahai Rasulullah shallallahu 'alaihi wasallam! Sesungguhnya aku memiliki harta yang banyak dan tidak ada yang akan mewarisiku, kecuali seorang anak perempuanku saja. Apakah aku bersedekah dengan dua pertiga hartaku? Rasulullah menjawab: 'Tidak.' Aku bertanya; \"Setengah?\" Rasulullah shallallahu 'alaihi wasallam bersabda: \"Tidak. \" Aku tanya lagi, \"Sepertiga?\" Rasulullah menjawab, \"(Boleh) sepertiga, sepertiga itu banyak. Engkau meninggalkan ahli warismu dalam keadaan kaya lebih baik daripada meninggalkan mereka dalam keadaan miskin dan meminta-minta kepada manusia",
+          "tr": "Amir'in babası Sa'd (bin Ebî Vakkas) (r.a.)'dan; Şöyle demiştir: Ben Mekke'nin fetih yılı (Mekke'de) ölüme yaklaştığım derecede hastalandım. Resulullah (Sallallahu Aleyhi ve Sellem) hastalığım dolayısıyla bana uğradı. Ben de: Ey Allah'ın Resulü şüphesiz benim çok malım var ve bir kızımdan başka mirasçım yoktur. Ben malımın üçte ikisini sadaka olarak vasiyyet edebilir miyim? diye sordum. Resûl-i Ekrem (Sallallahu Aleyhi ve Sellem): «Hayır,» buyurdu. Ben: Yarısı (vasiyyet olabilir mi)? dedim. Resûî-i Ekrem (Sallallahu Aleyhi ve Sellem) (yine); «Hayır,» buyurdu. Ben: Peki üçte biri (olabilir mi) diye sordum. Resül-i Ekrem (Sallallahu Aleyhi ve Sellem): «Üçte bir (kâfidir), üçte bir de çoktur. (Çünkü) senin mirasçılarını zengin bırakman, onları halka ellerini açıp dilenecek derecede fakir bırakmadan hayırlıdır,» buyurdu"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 22,
+        "hadith": 14
+      }
+    },
+    {
+      "hadithNumber": 2709,
+      "arabicNumber": 2709,
+      "book": 22,
+      "hadithInBook": 15,
+      "text": {
+        "arabic": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ، حَدَّثَنَا وَكِيعٌ، عَنْ طَلْحَةَ بْنِ عَمْرٍو، عَنْ عَطَاءٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ إِنَّ اللَّهَ تَصَدَّقَ عَلَيْكُمْ عِنْدَ وَفَاتِكُمْ بِثُلُثِ أَمْوَالِكُمْ زِيَادَةً لَكُمْ فِي أَعْمَالِكُمْ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated from Abu Hurairah that the Messenger of Allah (ﷺ) said:“Allah (SWT) has been charitable with you over the disposal of one third of your wealth at the time of your death, so that you may be able to add to the record of your good deeds.”",
+          "ur": "ابوہریرہ رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: اللہ تعالیٰ نے تمہاری وفات کے وقت تم پر تہائی مال کا صدقہ کیا ہے، ( یعنی وصیت کی اجازت دی ہے ) تاکہ تمہارے نیک اعمال میں اضافہ ہو ۔",
+          "fr": "Rapporté par Abu Hurairah : Le Messager d’Allah (ﷺ) a dit : “Allah (SWT) vous a accordé la possibilité de disposer d’un tiers de vos biens au moment de votre mort, afin que vous puissiez augmenter le nombre de vos bonnes actions.”",
+          "id": "Telah menceritakan kepada kami [Ali bin Muhammad], telah menceritakan kepada kami [Waki'] dari [Thalhah bin Amru] dari ['Atha`] dari [Abu Hurairah], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Sesungguhnya Allah telah bersedekah pada kalian ketika kalian wafat dengan sepertiga harta kalian sebagai tambahan terhadap amal perbuatan kalian",
+          "tr": "Ebû Hureyre (r.a.)'den rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: «Şüphesiz, Allah (hayır) amellerinizi artırmak için mallarınızın üçte birini vefatınız zamanında size tasadduk etti (sadaka - vasiyyet etme yetkisini verdi.)» Not: Zevaid'de şöyle denilmiştir: Bunun senedinde Talha bin Amr el-Hadrami bulunur. Bu raviyi zayıf sayanlar bir kişi değildir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Very Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 22,
+        "hadith": 15
+      }
+    },
+    {
+      "hadithNumber": 2710,
+      "arabicNumber": 2710,
+      "book": 22,
+      "hadithInBook": 16,
+      "text": {
+        "arabic": "حَدَّثَنَا صَالِحُ بْنُ مُحَمَّدِ بْنِ يَحْيَى بْنِ سَعِيدٍ الْقَطَّانِ، حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مُوسَى، أَنْبَأَنَا مُبَارَكُ بْنُ حَسَّانَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ يَا ابْنَ آدَمَ اثْنَتَانِ لَمْ تَكُنْ لَكَ وَاحِدَةٌ مِنْهُمَا جَعَلْتُ لَكَ نَصِيبًا مِنْ مَالِكَ حِينَ أَخَذْتُ بِكَظَمِكَ لأُطَهِّرَكَ بِهِ وَأُزَكِّيَكَ وَصَلاَةُ عِبَادِي عَلَيْكَ بَعْدَ انْقِضَاءِ أَجَلِكَ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated from Ibn Umar that the Messenger of Allah (ﷺ) said:“(Allah says) O son of Adam! I have given you two things which you do not deserve (except by mercy of Allah (SWT)): I allow you to dispose of a share of your wealth when you are on your deathbed, in order to cleanse and purify you, and my slaves pray for you after your life is over.”",
+          "ur": "عبداللہ بن عمر رضی اللہ عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: اللہ تعالیٰ فرماتا ہے: اے ابن آدم! میں نے دو ایسی چیزیں عنایت کیں جن میں سے ایک پر بھی تمہارا حق نہیں تھا، میں جس وقت تمہاری سانس روکوں اس وقت تمہیں مال کے ایک حصہ ( یعنی تہائی مال کے صدقہ کرنے ) کا اختیار دیا، تاکہ اس کے ذریعے سے میں تمہیں پاک کروں اور تمہارا تزکیہ کروں، دوسری چیز تمہارے مرنے کے بعد میرے بندوں کا تم پر نماز ( جنازہ ) پڑھنا ۔",
+          "fr": "Rapporté par Ibn Umar : Le Messager d’Allah (ﷺ) a dit : “(Allah dit) Ô fils d’Adam ! Je t’ai donné deux choses que tu ne mérites pas (sauf par la miséricorde d’Allah (SWT)) : Je t’autorise à disposer d’une part de tes biens quand tu es sur ton lit de mort, pour te purifier, et Mes serviteurs prient pour toi après ta mort.”",
+          "id": "Telah menceritakan kepada kami [Shalih bin Muhammad bin Yahya bin Sa'id Al Qaththan]; telah menceritakan kepada kami ['Ubaidullah bin Musa]; telah memberitakan kepada kami [Mubarak bin Hassan] dari [Nafi'] dari [Ibnu 'Umar] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Wahai anak Adam, dua perkara yang salah satunya tidak akan menjadi milikmu, aku telah menjadikan bagian dari hartamu untukmu tatkala aku mengambil dengan kemarahanmu supaya aku mensucikanmu dan membersihkanmu dan shalatnya hamba-hamba-Ku kepadamu setelah datangnya ajalmu",
+          "tr": "(Abdullah) bin Ömer (r.a.)'dan rivayet edildiğine göre Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: «(Allah Teâlâ buyurdu ki) Ey Âdem oğlu hiç birisi senin olmayan (ve merhametimle sana verdiğim) iki şey var-. Seni (günahlardan) temizlemek ve arındırmak için, gırtlağını tuttuğum (canını alacağım) zaman malından sana bir pay (vasiyyet için) verdim ve ecelinin bitiminden sonra kullarımın senin üzerine (kıldıkları) cenaze namazı.»' Not: Zevaid'de şöyle denilmiştir: Bunun senedi aleyhinde söz söylenir. çünkü ravilerinden Salih bin Muhammed bin Yahya hakkında ne tenkid ne de başka şekilde herhangi bir kimsenin sözünü görmedim. Rav! Mübarek bin Hassan'ı İbn-i Main sika saymıştır. Fakat Nesai, onun kuvvetli olmadığını. Ebu Davud da onun hadisinin münker olduğunu söylemişlerdir. İbn-i Hibban da onu sikalar arasında anmış ve: Bazen hataya düşer ve muhalefet eder, demiştir. EI-Ezdi de onun hadisinin terkedildiğini söylemiştir. Senedin kalan ravileri Buhari ile Müslim'in şartları üzerinedir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 22,
+        "hadith": 16
+      }
+    },
+    {
+      "hadithNumber": 2711,
+      "arabicNumber": 2711,
+      "book": 22,
+      "hadithInBook": 17,
+      "text": {
+        "arabic": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ، حَدَّثَنَا وَكِيعٌ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنِ ابْنِ عَبَّاسٍ، قَالَ وَدِدْتُ أَنَّ النَّاسَ، غَضُّوا مِنَ الثُّلُثِ إِلَى الرُّبُعِ لأَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ الثُّلُثُ كَبِيرٌ - أَوْ كَثِيرٌ - ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated that Ibn Abbas said:“I would like the people to reduce (the will) from one third to one quarter, because the Messenger of Allah (ﷺ) said: 'One third is a lot.'”",
+          "ur": "عبداللہ بن عباس رضی اللہ عنہما کہتے ہیں کہ میری تمنا ہے کہ لوگ تہائی مال کے بجائے چوتھائی مال میں وصیت کریں، اس لیے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ایک تہائی حصہ بھی بڑا ہے یا زیادہ ہے ۔",
+          "fr": "Rapporté par Ibn Abbas : “J’aimerais que les gens réduisent (le testament) d’un tiers à un quart, car le Messager d’Allah (ﷺ) a dit : ‘Un tiers, c’est beaucoup.’”",
+          "id": "Telah menceritakan kepada kami ['Ali bin Muhamad]; telah menceritakan kepada kami [Waki'] dari [Hisyam bin 'Urwah] dari [Ayahnya] dari [Ibnu Abbas], ia berkata; \"Aku menginginkan manusia agar mereka mengurangi dari sepertiga menjadi seperempat karena Rasulullah shallallahu 'alaihi wasallam bersabda: 'Sepertiga itu besar -atau banyak",
+          "tr": "(Abdullah) bin Abbâs (r.a.)'dan; Şöyle demiştir: Halkın (vasiyyetlerini) mallarının üçte birinden dörtte birine indirmelerini arzularım. Çünkü Resulullah (Sallallahu Aleyhi ve Sellem); «Sülüs (yâni malın üçte biri vasiyyet için) büyüktür veya çoktur,» buyurdu"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 22,
+        "hadith": 17
+      }
+    },
+    {
+      "hadithNumber": 2712,
+      "arabicNumber": 2712,
+      "book": 22,
+      "hadithInBook": 18,
+      "text": {
+        "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، أَنْبَأَنَا سَعِيدُ بْنُ أَبِي عَرُوبَةَ، عَنْ قَتَادَةَ، عَنْ شَهْرِ بْنِ حَوْشَبٍ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ غَنْمٍ، عَنْ عَمْرِو بْنِ خَارِجَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم خَطَبَهُمْ وَهُوَ عَلَى رَاحِلَتِهِ وَإِنَّ رَاحِلَتَهُ لَتَقْصَعُ بِجِرَّتِهَا وَإِنَّ لُغَامَهَا لَيَسِيلُ بَيْنَ كَتِفَىَّ قَالَ ‏\"‏ إِنَّ اللَّهَ قَسَمَ لِكُلِّ وَارِثٍ نَصِيبَهُ مِنَ الْمِيرَاثِ فَلاَ يَجُوزُ لِوَارِثٍ وَصِيَّةٌ الْوَلَدُ لِلْفِرَاشِ وَلِلْعَاهِرِ الْحَجَرُ وَمَنِ ادَّعَى إِلَى غَيْرِ أَبِيهِ أَوْ تَوَلَّى غَيْرَ مَوَالِيهِ فَعَلَيْهِ لَعْنَةُ اللَّهِ وَالْمَلاَئِكَةِ وَالنَّاسِ أَجْمَعِينَ لاَ يُقْبَلُ مِنْهُ صَرْفٌ وَلاَ عَدْلٌ ‏\"‏ ‏.‏ أَوْ قَالَ ‏\"‏ عَدْلٌ وَلاَ صَرْفٌ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated from 'Amr bin Kharijah:“The Prophet (ﷺ) addressed them when he was on his camel. His camel was chewing its cud and its saliva was dripping between my shoulders. He said: 'Allah (SWT) has allocated for each heir his share of the inheritance, so it is not permissible (to make) a bequest for an heir. The child belong to the bed and the adulterer gets the stone. Whoever claims to belong to someone other than his father, or (a freed slave) who claims that his Wala is for other than his Mavali, upon him will be the curse of Allah, the angels and all the people, and no charge nor equitable exchange will be accepted from him.” Or he said: “No equitable exchange nor change.”",
+          "ur": "عمرو بن خارجہ رضی اللہ عنہ سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم نے لوگوں کو اس حال میں خطبہ دیا کہ آپ اپنی سواری ( اونٹنی ) پر تھے، وہ جگالی کر رہی تھی، اور اس کا لعاب میرے مونڈھوں کے درمیان بہہ رہا تھا، آپ صلی اللہ علیہ وسلم نے فرمایا: اللہ تعالیٰ نے ہر وارث کے لیے میراث کا حصہ متعین کر دیا ہے، لہٰذا کسی وارث کے لیے وصیت جائز نہیں، بچہ اس کا ہے جس کے بستر پر اس کی ولادت ہوئی، اور زنا کرنے والے کے لیے پتھر ہے، جو شخص اپنے باپ دادا کے علاوہ دوسرے کی طرف نسبت کا دعویٰ کرے یا ( غلام ) اپنے مالک کے علاوہ دوسرے شخص کو مالک بنائے، تو اس پر اللہ تعالیٰ، فرشتوں اور سب لوگوں کی لعنت ہے، نہ اس کا نفل قبول ہو گا، نہ فرض یا یوں کہا کہ نہ فرض قبول ہو گا نہ نفل ۱؎۔",
+          "fr": "Rapporté par 'Amr bin Kharijah : Le Prophète (ﷺ) s’est adressé à eux alors qu’il était sur son chameau. Son chameau ruminait et sa salive coulait entre mes épaules. Il a dit : “Allah (SWT) a attribué à chaque héritier sa part d’héritage, donc il n’est pas permis de faire un legs en faveur d’un héritier. L’enfant appartient au lit conjugal et l’adultère n’a droit qu’à la pierre. Celui qui prétend appartenir à quelqu’un d’autre que son père, ou (un affranchi) qui prétend que son Wala est pour d’autres que ses maîtres, sur lui sera la malédiction d’Allah, des anges et de tous les gens, et aucune compensation ni échange équitable ne sera accepté de lui.” Ou il a dit : “Aucun échange équitable ni changement.”",
+          "id": "Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah]; telah menceritakan kepada kami [Yazid bin Harun]; telah memberitakan kepada kami [Sa'id bin Abu 'Arubah] dari [Qatadah] dari [Syahr bin Hausyab] dari [Abdurrahman bin Ghanam] dari ['Amru bin Kharijah], sesungguhnya Nabi shallallahu 'alaihi wasallam berpidato kepada masyarakat, dan beliau tengah berada di atas kendaraannya. Dan pada waktu itu kendaraannya (yang berupa unta) sedang mengunyah makanan, sementara air liurnya mengalir di antara kedua bahuku. Rasulullah shallallahu 'alaihi wasallam bersabda: \"Sesungguhnya Allah Subhanahu Wa Ta'ala telah membagi harta warisan dengan bagian masing-masing kepada ahli waris tersebut. Seorang ahli waris tidak boleh mendapatkan harta wasiat. Anak adalah hak pemilik tempat tidur (suami), sedangkan bagi pezina adalah lemparan batu (hukuman rajam), barangsiapa menisbatkan keturunannya kepada orang lain atau budak kepada selain majikannya, maka atasnya laknat Allah Subhanahu Wa Ta'ala, para malaikat dan seluruh manusia, Allah Subhanahu Wa Ta'ala tidak menerima taubat dan tebusan.\" Atau Rasulullah shallallahu 'alaihi wasallam bersabda: 'Tebusan atau taubat",
+          "tr": "Amr bin Hârice (r.a.)'den rivayet edildiğine göre: Nebi (Sallallahu Aleyhi ve Sellem) devesi üzerinde hutbe irâd buyurdu. (Bu esnada) binek devesi geviş getiriyordu ve ağzının köpüğü benim iki omuzumun arasında akıyordu. Resûl-i Ekrem (Sallallahu Aleyhi ve Sellem) (hutbesinde) buyurdu ki: «Allah, şüphesiz her mirasçıya mirastan olan nasibini taklim (ve tâyin) buyurdu. Artık hiç bir mirasçıya vasiyyet caiz değildir. Çocuk döşek (sahibin) e aittir. Zina eden (erkeğ)e de mahrumiyet vardır. Kim babasından başka bir kimsenin oğlu olduğunu iddia eder veya kendisini âzadlayanlardan başkasının âzadlısı olduğunu söylerse Allah'ın, meleklerin ve bütün insanların laneti o kimsenin üzerine olsun. O kimseden ne tevbe ne de fidye (râvl dedi ki: veya Peygamber! ne fidye ne de tevbe buyurdu) kabul olunur"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 22,
+        "hadith": 18
+      }
+    },
+    {
+      "hadithNumber": 2713,
+      "arabicNumber": 2713,
+      "book": 22,
+      "hadithInBook": 19,
+      "text": {
+        "arabic": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ، حَدَّثَنَا إِسْمَاعِيلُ بْنُ عَيَّاشٍ، حَدَّثَنَا شُرَحْبِيلُ بْنُ مُسْلِمٍ الْخَوْلاَنِيُّ، سَمِعْتُ أَبَا أُمَامَةَ الْبَاهِلِيَّ، يَقُولُ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ فِي خُطْبَتِهِ عَامَ حِجَّةِ الْوَدَاعِ ‏ \"‏ إِنَّ اللَّهَ قَدْ أَعْطَى كُلَّ ذِي حَقٍّ حَقَّهُ فَلاَ وَصِيَّةَ لِوَارِثٍ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Shurahbil bin Muslim Al-Khawlani narrated from Abu Umamah Al-Bahili that the heard :the Messenger of Allah (ﷺ) say in his sermon, during the year of the Farewell pilgrimage: “Allah (SWT) has given each person who has rights his rights, and there is no bequest for in heir.”",
+          "ur": "ابوامامہ باہلی رضی اللہ عنہ کہتے ہیں کہ میں نے رسول اللہ صلی اللہ علیہ وسلم سے سنا، آپ حجۃ الوداع کے سال اپنے خطبہ میں فرما رہے تھے: اللہ تعالیٰ نے ( میت کے ترکہ میں ) ہر حقدار کو اس کا حق دے دیا ہے، لہٰذا کسی وارث کے لیے وصیت جائز نہیں ہے ۔",
+          "fr": "Rapporté par Shurahbil bin Muslim Al-Khawlani, d’après Abu Umamah Al-Bahili : Il a entendu le Messager d’Allah (ﷺ) dire dans son sermon, lors de l’année du pèlerinage d’Adieu : “Allah (SWT) a donné à chacun ses droits, et il n’y a pas de legs pour un héritier.”",
+          "id": "Telah menceritakan kepada kami [Hisyam bin 'Ammar]; telah menceritakan kepada kami [Isma'il bin 'Ayyasy]; telah menceritakan kepada kami [Syurahbil bin Muslim Al Khaulani], aku mendengar [Abu Umamah Al Bahili], ia berkata; \"Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda pada saat khutbah haji wada': 'Sesungguhnya Allah Subhanahu Wa Ta'ala telah memberi masing-masing orang haknya, maka tidak ada harta wasiat bagi ahli waris",
+          "tr": "Ebû Ümâme el-Bâhili (r.a.)'den; Şöyle demiştir: Ben Veda Haccı yılı Resulullah (Sallallahu Aleyhi ve Sellem)'i hutbesinde şöyle buyururken işittim: «Allah her hak sahibine (mirastan) hakkını şüphesiz vermiştir. Artık mirasçıya vasiyyet yoktur.» (Yani mirasçının beli payı dışında bir tasarruf yapılamaz)"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 22,
+        "hadith": 19
+      }
+    },
+    {
+      "hadithNumber": 2714,
+      "arabicNumber": 2714,
+      "book": 22,
+      "hadithInBook": 20,
+      "text": {
+        "arabic": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ، حَدَّثَنَا مُحَمَّدُ بْنُ شُعَيْبِ بْنِ شَابُورَ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ يَزِيدَ بْنِ جَابِرٍ، عَنْ سَعِيدِ بْنِ أَبِي سَعِيدٍ، أَنَّهُ حَدَّثَهُ عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ إِنِّي لَتَحْتَ نَاقَةِ رَسُولِ اللَّهِ صلى الله عليه وسلم يَسِيلُ عَلَىَّ لُعَابُهَا فَسَمِعْتُهُ يَقُولُ ‏ \"‏ إِنَّ اللَّهَ قَدْ أَعْطَى كُلَّ ذِي حَقٍّ حَقَّهُ أَلاَ لاَ وَصِيَّةَ لِوَارِثٍ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated that Anas bin Malik said:“I was under the she-camel of the Messenger of Allah (ﷺ) and its saliva was dripping between my shoulders, and I heard him say: 'Allah (SWT) has given each person who has rights his rights, but there is no bequest for an heir.”",
+          "ur": "انس بن مالک رضی اللہ عنہ کہتے ہیں کہ میں رسول اللہ صلی اللہ علیہ وسلم کی اونٹنی کے نیچے کھڑا تھا، اس کا لعاب میرے اوپر بہہ رہا تھا، میں نے آپ صلی اللہ علیہ وسلم کو فرماتے سنا: اللہ تعالیٰ نے ( میت کے ترکہ میں ) ہر ایک حقدار کو اس کا حق دے دیا ہے، تو سنو! کسی وارث کے لیے وصیت جائز نہیں ہے ۔",
+          "fr": "Rapporté par Anas bin Malik : “J’étais sous la chamelle du Messager d’Allah (ﷺ) et sa salive coulait entre mes épaules, et je l’ai entendu dire : ‘Allah (SWT) a donné à chacun ses droits, mais il n’y a pas de legs pour un héritier.’”",
+          "id": "Telah menceritakan kepada kami [Hisyam bin 'Ammar]; telah menceritakan kepada kami [Muhammad bin Syu'aib bin Syabur]; telah menceritakan kepada kami [Abdurrahman bin Yazid bin Jabir] dari [Sa'id bin Abu Sa'id] bahwa ia menceritakan dari [Anas bin Malik], ia berkata; \"Sesungguhnya aku sedang berada di bawah unta Rasulullah shallallahu 'alaihi wasallam dimana air liurnya mengalir mengenaiku. Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: 'Sesungguhnya Allah Subhanahu Wa Ta'ala telah memberi masing-masing orang akan haknya, ingatlah tidak ada harta wasiat bagi ahli waris",
+          "tr": "Enes bin Mâlik (r.a.)'dan; Şöyle demiştir: Ben Resulullah (Sallallahu Aleyhi ve Sellem)'in devesinin (boynunun) altında idim. Devesinin ağzının köpüğü benim üstüme akıyordu. Resül-i Ekrem (Sallallahu Aleyhi ve Sellem)'den şu buyruğu işittim: «Allah şüphesiz her hak sahibine hakkını vermiştir. Bilmiş olunuz ki hiç bir vârise vasiyyet yoktur.» Not: Zevaid'de şöyle denilmiştir: Bunun senedi sahihtir. Ravi Muhammed bin Şuayb'ı Rahim ve Ebu Davud sika saymışlardır. Senedin kalan ravileri Buhari'nin şartı üzerinedir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 22,
+        "hadith": 20
+      }
+    },
+    {
+      "hadithNumber": 2715,
+      "arabicNumber": 2715,
+      "book": 22,
+      "hadithInBook": 21,
+      "text": {
+        "arabic": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ، حَدَّثَنَا وَكِيعٌ، حَدَّثَنَا سُفْيَانُ، عَنْ أَبِي إِسْحَاقَ، عَنِ الْحَارِثِ، عَنْ عَلِيٍّ، قَالَ قَضَى رَسُولُ اللَّهِ صلى الله عليه وسلم بِالدَّيْنِ قَبْلَ الْوَصِيَّةِ وَأَنْتُمْ تَقْرَءُونَهَا ‏{مِنْ بَعْدِ وَصِيَّةٍ يُوصِي بِهَا أَوْ دَيْنٍ }‏ وَإِنَّ أَعْيَانَ بَنِي الأُمِّ لَيَتَوَارَثُونَ دُونَ بَنِي الْعَلاَّتِ ‏.‏",
+        "translations": {
+          "en": "It was narrated that 'Ali said:“The Messenger of Allah (ﷺ) ruled that the debts should be paid off before the execution of the will. You recite: '(The distribution in all cases is) after the payment of legacies he may have bequeathed or debts.' The sons of one mother (from the same father) inherit from one another, but not the sons from different mothers (but the same father).”",
+          "ur": "علی رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے وصیت سے پہلے قرض ( کی ادائیگی ) کا فیصلہ فرمایا، حالانکہ تم اس کو قرآن میں پڑھتے ہو: «من بعد وصية يوصي بها أو دين» یہ حصے اس وصیت ( کی تکمیل ) کے بعد ہیں جو مرنے والا کر گیا ہو، یا ادائے قرض کے بعد ( سورۃ النساء: ۱۱ ) ۱؎ اور حقیقی بھائی وارث ہوں گے، علاتی نہیں۔",
+          "fr": "Rapporté par 'Ali : Le Messager d’Allah (ﷺ) a jugé que les dettes devaient être payées avant l’exécution du testament. Vous récitez : ‘(La répartition dans tous les cas se fait) après le paiement des legs qu’il aurait faits ou des dettes.’ Les fils d’une même mère (et père) héritent les uns des autres, mais pas les fils de mères différentes (mais du même père).”",
+          "id": "Telah menceritakan kepada kami ['Ali bin Muhammad]; telah menceritakan kepada kami [Waki']; telah menceritakan kepada kami [Sufyan] dari [Ibnu Ishaq] dari [Al Harits] dari ['Ali] berkata; \"Rasulullah shallallahu 'alaihi wasallam telah menetapkan hukum agar melunasi hutang sebelum memberikan harta warisan. Kalian dapat membaca ayat Al Qur'an yang berbunyi; sesudah dipenuhi wasiat yang ia buat atau (dan) sesudah dibayar hutangnya.' (An Nisaa: 11) Dan sesungguhnya saudara kandung (dari satu bapak dan satu ibu) yang mendapatkan warisan, dan bukan saudara sebapak dari banyak ibu",
+          "tr": "Alî (r.a.)'den; Şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem), vasiyyet'dan önce (ölüye ait) borcun ödenmesine hükmetti. Siz; «Edilen vasiyyetten veya borçtan artakalanının...» âyetini de okuyorsunuz. Ve Resul i Ekrem (Sallallahu Aleyhi ve Sellem) ana baba bir erkek kardeşlerin birbirlerine mirasçı olduklarına, fakat (bunların beraberinde bulunan) yalnız baba bir erkek kardeşlerinin mirasçı olmadıklarına da hükmetti"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 22,
+        "hadith": 21
+      }
+    },
+    {
+      "hadithNumber": 2716,
+      "arabicNumber": 2716,
+      "book": 22,
+      "hadithInBook": 22,
+      "text": {
+        "arabic": "حَدَّثَنَا أَبُو مَرْوَانَ، مُحَمَّدُ بْنُ عُثْمَانَ الْعُثْمَانِيُّ حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ أَبِي حَازِمٍ، عَنِ الْعَلاَءِ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَجُلاً، سَأَلَ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ إِنَّ أَبِي مَاتَ وَتَرَكَ مَالاً وَلَمْ يُوصِ فَهَلْ يُكَفِّرُ عَنْهُ أَنْ تَصَدَّقْتُ عَنْهُ قَالَ ‏ \"‏ نَعَمْ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated from Abu Hurairah that a man asked the Messenger of Allah (ﷺ):“My father died and left behind wealth, but he did not make a will. Will it expiate for him if I give charity on his behalf?” He said: “Yes.”",
+          "ur": "ابوہریرہ رضی اللہ عنہ سے روایت ہے کہ ایک شخص نے رسول اللہ صلی اللہ علیہ وسلم سے پوچھا: میرے والد کا انتقال ہو گیا ہے اور وہ مال چھوڑ گئے ہیں، انہوں نے وصیت نہیں کی ہے، کیا اگر میں ان کی جانب سے صدقہ کر دوں تو ان کے گناہ معاف ہو جائیں گے؟ آپ صلی اللہ علیہ وسلم نے فرمایا: ہاں ۔",
+          "fr": "Rapporté par Abu Hurairah : Un homme a demandé au Messager d’Allah (ﷺ) : “Mon père est mort et a laissé des biens, mais il n’a pas fait de testament. Est-ce que cela effacera ses péchés si je donne l’aumône pour lui ?” Il a dit : “Oui.”",
+          "id": "Telah menceritakan kepada kami [Abu Marwan Muhammad bin 'Utsman Al Utsmani]; telah menceritakan kepada kami [Abdul Aziz bin Abu Hazim] dari [Al A'la bin Abdurrahman] dari [Ayahnya] dari [Abu Hurairah], ia berkata; \"Sesungguhnya seorang laki-laki bertanya kepada Rasulullah shallallahu 'alaihi wasallam, ia berkata; 'Sesungguhnya ayahku telah meninggal dunia dan meninggalkan sejumlah harta, sementara ia tidak melakukan wasiat, apakah hartanya dapat menjadi kifarat apabila aku menyedekahkannya? Rasulullah shallallahu 'alaihi wasallam menjawab: 'Ya",
+          "tr": "Ebû Hureyre (r.a.)'dan; Şöyle demiştir: Bir adam Resulullah (Sallallahu Aleyhi ve Sellem)'e: Babam öldü. Mal da bırakmıştır. Ve vasiyyet etmemiştir. Onun yerine benim sadaka vermem günahlarına keffâret olur mu? diye sordu. Resûl-i Ekrem (Sallallahu Aleyhi ve Sellem): «Evet.» buyurdu"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 22,
+        "hadith": 22
+      }
+    },
+    {
+      "hadithNumber": 2717,
+      "arabicNumber": 2717,
+      "book": 22,
+      "hadithInBook": 23,
+      "text": {
+        "arabic": "حَدَّثَنَا إِسْحَاقُ بْنُ مَنْصُورٍ، حَدَّثَنَا أَبُو أُسَامَةَ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، أَنَّ رَجُلاً، أَتَى النَّبِيَّ صلى الله عليه وسلم فَقَالَ إِنَّ أُمِّي افْتُلِتَتْ نَفْسُهَا وَلَمْ تُوصِ وَإِنِّي أَظُنُّهَا لَوْ تَكَلَّمَتْ لَتَصَدَّقَتْ فَلَهَا أَجْرٌ إِنْ تَصَدَّقْتُ عَنْهَا وَلِيَ أَجْرٌ فَقَالَ ‏ \"‏ نَعَمْ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated from Aishah that a man came to the Prophet (ﷺ) and said:“My mother died unexpectedly and she had not made a will. I think that if she could have spoken, she would have given in charity. Will she have a reward if I give in charity on her behalf, and will I have a reward?” He said: “Yes.”",
+          "ur": "ام المؤمنین عائشہ رضی اللہ عنہا سے روایت ہے کہ ایک شخص نبی اکرم صلی اللہ علیہ وسلم کی خدمت میں آیا، اور اس نے عرض کیا: میری ماں کا اچانک انتقال ہو گیا، اور وہ وصیت نہیں کر سکیں، میرا خیال ہے کہ اگر وہ بات چیت کر پاتیں تو صدقہ ضرور کرتیں، تو کیا اگر میں ان کی جانب سے صدقہ کروں تو انہیں اور مجھے اس کا ثواب ملے گا یا نہیں؟ آپ صلی اللہ علیہ وسلم نے فرمایا: ہاں ( ملے گا ) ۔",
+          "fr": "Rapporté par Aishah : Un homme est venu voir le Prophète (ﷺ) et a dit : “Ma mère est morte subitement et elle n’a pas fait de testament. Je pense que si elle avait pu parler, elle aurait donné en aumône. Aura-t-elle une récompense si je donne l’aumône pour elle, et en aurai-je une aussi ?” Il a dit : “Oui.”",
+          "id": "Telah menceritakan kepada kami [Ishaq bin Manshur]; telah menceritakan kepada kami [Abu Usamah] dari [Hisyam bin 'Urwah] dari [Ayahnya] dari ['Aisyah], ia berkata; \"Sesungguhnya seorang laki-laki datang menemui Nabi Muhammad shallallahu 'alaihi wasallam, ia berkata; 'Sesungguhnya ibuku meninggal dunia secara mendadak dan ia tidak memberikan wasiat. Aku perkirakan apabila ia dapat berbicara, maka niscaya ia melakukan sedekah, apakah ibuku dan diriku mendapat pahala apabila aku menyedekahkan hartanya? ' Rasulullah shallallahu 'alaihi wasallam menjawab: 'Ya",
+          "tr": "Âişe (r.anha)'dan; Şöyle demiştir: Bir adam Peygamber (Sallallahu Aleyhi ve Sellem)'e gelerek: (Yâ Resûlallah!) Annem aniden öldü. Vasiyyet de etmemişti. Zannımca annem konuşabilseydi sadaka (verilmesini vasiyyet) ederdi. Şimdi ben onun adına sadaka verirsem ona da bana da sevap olur mu? diye sordu. Bunun üzerine Resûl-i Ekrem (Sallallahu Aleyhi ve Sellem): «Evet,» buyurdu"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 22,
+        "hadith": 23
+      }
+    },
+    {
+      "hadithNumber": 2718,
+      "arabicNumber": 2718,
+      "book": 22,
+      "hadithInBook": 24,
+      "text": {
+        "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ الأَزْهَرِ، حَدَّثَنَا رَوْحُ بْنُ عُبَادَةَ، حَدَّثَنَا حُسَيْنٌ الْمُعَلِّمُ، عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، قَالَ جَاءَ رَجُلٌ إِلَى النَّبِيِّ صلى الله عليه وسلم فَقَالَ لاَ أَجِدُ شَيْئًا وَلَيْسَ لِي مَالٌ وَلِي يَتِيمٌ لَهُ مَالٌ قَالَ ‏\"‏ كُلْ مِنْ مَالِ يَتِيمِكَ غَيْرَ مُسْرِفٍ وَلاَ مُتَأَثِّلٍ مَالاً ‏\"‏ ‏.‏ قَالَ وَأَحْسِبُهُ قَالَ ‏\"‏ وَلاَ تَقِي مَالَكَ بِمَالِهِ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated from 'Amr bin Shu'aib from his father, that his a grandfather said:“A man came to the Prophet (ﷺ) and said: 'I do not have anything and I have no wealth, but I have an orphan (under my care) who has wealth.” He said: “Eat from the wealth of your orphan, without being extravagant or use it for trade.” He (narrator) said: “And I think he said: 'Do not preserve your wealth using his instead.'”",
+          "ur": "عبداللہ بن عمرو بن العاص رضی اللہ عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم کے پاس ایک شخص آیا، اور اس نے عرض کیا: میرے پاس کچھ بھی نہیں اور نہ مال ہی ہے، البتہ میری پرورش میں ایک یتیم ہے جس کے پاس مال ہے، آپ صلی اللہ علیہ وسلم نے فرمایا: یتیم کے مال میں سے فضول خرچی کئے اور بغیر اپنے لیے پونجی بنائے کھاؤ میرا خیال ہے آپ صلی اللہ علیہ وسلم نے فرمایا: اپنا مال بچانے کے لیے اس کا مال اپنے مصرف میں نہ خرچ کرو ۔",
+          "fr": "Rapporté par 'Amr bin Shu'aib, d’après son père, de la part de son grand-père : Un homme est venu voir le Prophète (ﷺ) et a dit : “Je n’ai rien et je ne possède pas de biens, mais j’ai un orphelin (sous ma garde) qui a des biens.” Il a dit : “Prends de l’argent de ton orphelin, sans exagérer ni l’utiliser pour faire du commerce.” Le narrateur a dit : “Et je pense qu’il a dit : ‘Ne préserve pas tes biens en utilisant les siens à la place.’”",
+          "id": "Telah menceritakan kepada kami [Ahmad bin Al Azhar]; telah menceritakan kepada kami [Rauh bin 'Ubadah]; telah menceritakan kepada kami [Husain Al Mu'allim] dari [Amru bin Syu'aib] dari [Ayahnya] dari [Kakeknya], ia berkata; \"Seseorang datang menemui Nabi shallallahu 'alaihi wasallam dan berkata; 'Aku tidak memiliki apa-apa, aku tidak memiliki harta, tetapi aku memiliki seorang anak yatim dan ia memiliki harta.' Rasulullah shallallahu 'alaihi wasallam bersabda: 'Makanlah dari sebagian harta anak yatimmu tanpa berlebihan dan tidak menguasainya.\" Perawi berkata; 'Aku mengira beliau shallallahu 'alaihi wasallam bersabda: 'Dan janganlah engkau campur hartamu dengan hartanya",
+          "tr": "Amr bin Şuayb'in dedesi (Abdullah bin Amr) (r.a.)'den; Şöyle demiştir: Bir adam Peygamber (Sallallahu Aleyhi ve Sellem)'e gelerek: (Geçimime vesile olacak) hiç bir şey bulamıyorum ve malım (da) yoktur. Malı bulunan bir yetimim vardır, dedi. Resûl-i Ekrem (Sallallahu Aleyhi ve Sellem): «İsraf etmeyerek ve bir sermaye edinmeyerek yetiminin malından ye,» buyurdu. Amr'ın dedesi dedi ki: ve Resûl-i Ekrem (Sallallahu Aleyhi ve Sellem)'in şunu da buyurduğunu zannediyorum: «Ve sen malını yetiminin malıyla koruma.»"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 22,
+        "hadith": 24
+      }
+    }
+  ],
+  "metadata": {
+    "averageLength": "medium",
+    "size": "18KB"
+  }
+}

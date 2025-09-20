@@ -1,0 +1,1206 @@
+{
+  "collection": "tirmidhi",
+  "book": 19,
+  "name": {
+    "arabic": "كتاب The Book on Sacrifices",
+    "transliteration": "the book on sacrifices",
+    "translation": "The Book on Sacrifices"
+  },
+  "totalHadith": 31,
+  "hadithNumberRange": {
+    "first": 1493,
+    "last": 1523
+  },
+  "content": [
+    {
+      "hadithNumber": 1493,
+      "arabicNumber": 1493,
+      "book": 19,
+      "hadithInBook": 1,
+      "text": {
+        "arabic": "حَدَّثَنَا أَبُو عَمْرٍو، مُسْلِمُ بْنُ عَمْرِو بْنِ مُسْلِمٍ الْحَذَّاءُ الْمَدَنِيُّ حَدَّثَنَا عَبْدُ اللَّهِ بْنُ نَافِعٍ الصَّائِغُ أَبُو مُحَمَّدٍ، عَنْ أَبِي الْمُثَنَّى، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\"‏ مَا عَمِلَ آدَمِيٌّ مِنْ عَمَلٍ يَوْمَ النَّحْرِ أَحَبَّ إِلَى اللَّهِ مِنْ إِهْرَاقِ الدَّمِ إِنَّهَا لَتَأْتِي يَوْمَ الْقِيَامَةِ بِقُرُونِهَا وَأَشْعَارِهَا وَأَظْلاَفِهَا وَإِنَّ الدَّمَ لَيَقَعُ مِنَ اللَّهِ بِمَكَانٍ قَبْلَ أَنْ يَقَعَ مِنَ الأَرْضِ فَطِيبُوا بِهَا نَفْسًا ‏\"‏ ‏.‏ قَالَ وَفِي الْبَابِ عَنْ عِمْرَانَ بْنِ حُصَيْنٍ وَزَيْدِ بْنِ أَرْقَمَ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ غَرِيبٌ لاَ نَعْرِفُهُ مِنْ حَدِيثِ هِشَامِ بْنِ عُرْوَةَ إِلاَّ مِنْ هَذَا الْوَجْهِ ‏.‏ وَأَبُو الْمُثَنَّى اسْمُهُ سُلَيْمَانُ بْنُ يَزِيدَ ‏.‏ رَوَى عَنْهُ ابْنُ أَبِي فُدَيْكٍ ‏.‏ - قَالَ أَبُو عِيسَى وَيُرْوَى عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم أَنَّهُ قَالَ ‏\"‏ فِي الأُضْحِيَةِ لِصَاحِبِهَا بِكُلِّ شَعَرَةٍ حَسَنَةٌ ‏\"‏ ‏.‏ وَيُرْوَى ‏\"‏ بِقُرُونِهَا ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Narrated 'Aishah:That the Messenger of Allah (ﷺ) said: \"A human does no action from the actions on the day of Nahr more beloved to Allah then spilling blood (of sacrificial animals). On the Day of Judgement, it will appear with its horns, and hair, and hooves, and indeed the blood will be accepted by Allah from where it is received before it even falls upon earth, so let your heart delight in it",
+          "ur": "ام المؤمنین عائشہ رضی الله عنہا کہتی ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”قربانی کے دن اللہ کے نزدیک آدمی کا سب سے محبوب عمل خون بہانا ہے، قیامت کے دن قربانی کے جانور اپنی سینگوں، بالوں اور کھروں کے ساتھ آئیں گے قربانی کا خون زمین پر گرنے سے پہلے قبولیت کا درجہ حاصل کر لیتا ہے، اس لیے خوش دلی کے ساتھ قربانی کرو“۔ امام ترمذی کہتے ہیں: ۱- یہ حدیث حسن غریب ہے، ہشام بن عروہ کی اس حدیث کو ہم صرف اسی سند سے جانتے ہیں، ۲- اس باب میں عمران بن حصین اور زید بن ارقم رضی الله عنہما سے بھی احادیث آئی ہیں، ۳- راوی ابومثنی کا نام سلیمان بن یزید ہے، ان سے ابن ابی فدیک نے روایت کی ہے، ۴- رسول اللہ صلی اللہ علیہ وسلم سے مروی ہے کہ آپ نے فرمایا: ”قربانی کرنے والے کو قربانی کے جانور کے ہر بال کے بدلے نیکی ملے گی“، ۵- یہ بھی مروی ہے کہ جانور کی سینگ کے عوض نیکی ملے گی۔",
+          "id": "Telah menceritakan kepada kami [Abu Amru Muslim bin Amru bin Muslim Al Hadzdza Al Madani] berkata; telah menceritakan kepada kami [Abdullah bin Nafi' Ash Sha`igh Abu Muhammad] dari [Abul Mutsanna] dari [Hisyam bin Urwah] dari [Bapaknya] dari ['Aisyah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: \"Tidak ada amalan yang dilakukan oleh anak Adam pada hari Nahr (Idul Adhha) yang lebih dicintai oleh Allah selain dari pada mengucurkan darah (hewan kurban). Karena sesungguhnya ia (hewan kurban) akan datang pada hari kiamat dengan tanduk, bulu, dan kukunya. Dan sungguh, darah tersebut akan sampai kepada (ridha) Allah sebelum tetesan darah tersebut jatuh ke bumi, maka bersihkanlah jiwa kalian dengan berkurban.\" Ia berkata; \"Dalam bab ini ada hadits serupa dari Imran bin Hushain dan Zaid bin Arqam.\" Abu Isa berkata; \"Hadits ini derajatnya hasan gharib, kami tidak mengetahui hadits ini dari Hisyam bin Urwah selain dari jalur ini. Dan Abul Mutsanna namanya adalah Sulaiman bin Yazid. Dan Abu Fudaik telah meriwayatkan hadits darinya.\" Abu Isa berkata; \"Telah diriwayatkan dari Rasulullah shallallahu 'alaihi wasallam, Bahwasanya beliau pernah bersabda tentang kurban; \"Pemiliknya akan mendapat satu kebaikan dari setiap bulunya.\" Dalam riwayat lain, \"Dengan setiap tanduknya",
+          "tr": "Âişe (r.anha)’dan rivâyete göre, Rasûlullah (s.a.v.) şöyle buyurmuştur: “Ademoğlu kurban kesme gününde Allah katında kan akıtmaktan daha sevimli bir amel işlememiştir. O kurban kıyamet günü boynuzları kılları ve tırnaklarıyla gelecektir. Kurbanın kanı yere düşmeden önce Allah katında hemen kabul olunur. Bu sebeple kestiğiniz kurbanlardan dolayı sıkıntı değil gönlünüz hoş olsun.” Diğer tahric: İbn Mâce, Edaha Tirmizî: Bu konuda Imrân b. Husayn ve Zeyd b. Erkâm’dan da hadis rivâyet edilmiştir. Tirmizî: Bu hadis hasen garibtir. Hişâm b. Urve’nin rivâyetinden olduğunu sadece bu şekliyle bilmekteyiz. Ebû’l Müsennâ’nın ismi Süleyman b. Yezîd’tir. İbn ebî Füdeyk ondan hadis rivâyet etmiştir. Tirmizî: Rasûlullah (s.a.v.)’den; Kurbanlar hakkında: “Kurban kesen kimse için kurbanın her bir kılı karşılığında sevap verilir” buyurduğu rivâyet edilmiştir. “Boynuzları karşılığında” da buyurduğu rivâyet edilmiştir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Daif"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 19,
+        "hadith": 1
+      },
+      "narrator": {
+        "en": "'Aishah"
+      }
+    },
+    {
+      "hadithNumber": 1494,
+      "arabicNumber": 1494,
+      "book": 19,
+      "hadithInBook": 2,
+      "text": {
+        "arabic": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ قَتَادَةَ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ ضَحَّى رَسُولُ اللَّهِ صلى الله عليه وسلم بِكَبْشَيْنِ أَمْلَحَيْنِ أَقْرَنَيْنِ ذَبَحَهُمَا بِيَدِهِ وَسَمَّى وَكَبَّرَ وَوَضَعَ رِجْلَهُ عَلَى صِفَاحِهِمَا ‏.‏ قَالَ وَفِي الْبَابِ عَنْ عَلِيٍّ وَعَائِشَةَ وَأَبِي هُرَيْرَةَ وَأَبِي أَيُّوبَ وَجَابِرٍ وَأَبِي الدَّرْدَاءِ وَأَبِي رَافِعٍ وَابْنِ عُمَرَ وَأَبِي بَكْرَةَ أَيْضًا ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏",
+        "translations": {
+          "en": "Narrated Anas bin Malik:\"The Messenger of Allah (ﷺ) slaughtered two horned male sheep which were mostly white. He slaughtered them with his hand and mentioned Allah's Name, and he said 'Allahu Akbar', and put his foot on their side",
+          "ur": "انس بن مالک رضی الله عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے سینگ والے دو چتکبرے مینڈھوں کی قربانی کی، آپ نے ان دونوں کو اپنے ہاتھ سے ذبح کیا، بسم اللہ پڑھی اور اللہ اکبر کہا اور ( ذبح کرتے وقت ) اپنا پاؤں ان کے پہلوؤں پر رکھا ۱؎۔ امام ترمذی کہتے ہیں: ۱- یہ حدیث حسن صحیح ہے، ۲- اس باب میں علی، عائشہ، ابوہریرہ، ابوایوب، جابر، ابو الدرداء، ابورافع، ابن عمر اور ابوبکرہ رضی الله عنہم سے بھی احادیث آئی ہیں۔",
+          "id": "Telah menceritakan kepada kami [Qutaibah] berkata, telah menceritakan kepada kami [Abu Awanah] dari [Qatadah] dari [Anas bin Malik] ia berkata; \"Rasulullah shallallahu 'alaihi wasallam berkurban dengan dua ekor kambing gemuk lagi bertanduk beliau menyembelih keduanya dengan tangannya sendiri. Beliau menyebut nama Allah, bertakbir serta meletakkan kakinya di atas lambungnya.\" Ia berkata; \"Dalam bab ini ada hadits serupa dari Ali, 'Aisyah, Abu Hurairah, Abu Ayyub, Jabir, Abu Darda, Abu Rafi', Abu Umar dan Abu Bakrah.\" Abu Isa berkata; \"Ini adalah hadits hasan shahih",
+          "tr": "Enes b. Mâlik (r.a.)’den rivâyete göre, şöyle demiştir: “Rasûlullah (s.a.v.) boynuzlu alaca renkli iki koçu kendi eliyle keserek kurban etti. Besmele çekti, tekbir aldı ve keserken ayağını koçların sağ yanı üzerine koydu.” Diğer tahric: Buhârî, Edâhî; Müslim, Edâhî Tirmizî: Bu konuda Ali, Âişe, Ebû Hüreyre, Ebû Eyyûb, Câbir, Ebû’d Derdâ, Ebû Rafî’, İbn Ömer, Ebû Bekre’den aynı şekilde hadis rivâyet edilmiştir. Tirmizî: Bu hadis hasen sahihtir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 19,
+        "hadith": 2
+      },
+      "narrator": {
+        "en": "Anas bin Malik"
+      }
+    },
+    {
+      "hadithNumber": 1495,
+      "arabicNumber": 1495,
+      "book": 19,
+      "hadithInBook": 3,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عُبَيْدٍ الْمُحَارِبِيُّ الْكُوفِيُّ، حَدَّثَنَا شَرِيكٌ، عَنْ أَبِي الْحَسْنَاءِ، عَنِ الْحَكَمِ، عَنْ حَنَشٍ، عَنْ عَلِيٍّ، أَنَّهُ كَانَ يُضَحِّي بِكَبْشَيْنِ أَحَدُهُمَا عَنِ النَّبِيِّ صلى الله عليه وسلم وَالآخَرُ عَنْ نَفْسِهِ، فَقِيلَ لَهُ فَقَالَ أَمَرَنِي بِهِ يَعْنِي النَّبِيَّ صلى الله عليه وسلم - فَلاَ أَدَعُهُ أَبَدًا ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ غَرِيبٌ لاَ نَعْرِفُهُ إِلاَّ مِنْ حَدِيثِ شَرِيكٍ ‏.‏ وَقَدْ رَخَّصَ بَعْضُ أَهْلِ الْعِلْمِ أَنْ يُضَحَّى عَنِ الْمَيِّتِ وَلَمْ يَرَ بَعْضُهُمْ أَنْ يُضَحَّى عَنْهُ ‏.‏ وَقَالَ عَبْدُ اللَّهِ بْنُ الْمُبَارَكِ أَحَبُّ إِلَىَّ أَنْ يُتَصَدَّقَ عَنْهُ وَلاَ يُضَحَّى عَنْهُ وَإِنْ ضَحَّى فَلاَ يَأْكُلْ مِنْهَا شَيْئًا وَيَتَصَدَّقْ بِهَا كُلِّهَا ‏.‏ قَالَ مُحَمَّدٌ قَالَ عَلِيُّ بْنُ الْمَدِينِيِّ وَقَدْ رَوَاهُ غَيْرُ شَرِيكٍ ‏.‏ قُلْتُ لَهُ أَبُو الْحَسْنَاءِ مَا اسْمُهُ فَلَمْ يَعْرِفْهُ ‏.‏ قَالَ مُسْلِمٌ اسْمُهُ الْحَسَنُ ‏.‏",
+        "translations": {
+          "en": "Narrated Hanash:That 'Ali used to slaughter two male sheep, one for the Prophet (ﷺ) and the other for himself. When this was mentioned to him, he said: \"He ordered me to\" - meaning the Prophet (ﷺ) - \"So I will never leave it",
+          "ur": "علی رضی الله عنہ سے روایت ہے کہ وہ دو مینڈھوں کی قربانی کرتے تھے، ایک نبی اکرم صلی اللہ علیہ وسلم کی طرف سے اور دوسرا اپنی طرف سے، تو ان سے اس بارے میں پوچھا گیا تو انہوں نے بتایا کہ مجھے اس کا حکم نبی اکرم صلی اللہ علیہ وسلم نے دیا ہے، لہٰذا میں اس کو کبھی نہیں چھوڑوں گا ۱؎۔ امام ترمذی کہتے ہیں: ۱- یہ حدیث غریب ہے، ہم اس کو صرف شریک کی روایت سے جانتے ہیں، ۲- محمد بن اسماعیل بخاری کہتے ہیں: علی بن مدینی نے کہا: اس حدیث کو شریک کے علاوہ لوگوں نے بھی روایت کیا ہے، میں نے ان سے دریافت کیا: راوی ابوالحسناء کا کیا نام ہے؟ تو وہ اسے نہیں جان سکے، مسلم کہتے ہیں: اس کا نام حسن ہے، ۳- بعض اہل علم نے میت کی طرف سے قربانی کی رخصت دی ہے اور بعض لوگ میت کی طرف سے قربانی درست نہیں سمجھتے ہیں، عبداللہ بن مبارک کہتے ہیں: مجھے یہ چیز زیادہ پسند ہے کہ میت کی طرف سے صدقہ کر دیا جائے، قربانی نہ کی جائے، اور اگر کسی نے اس کی طرف سے قربانی کر دی تو اس میں سے کچھ نہ کھائے بلکہ تمام کو صدقہ کر دے۔",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Ubaid Al Muharibi Al Kufi] berkata, telah menceritakan kepada kami [Syarik] dari [Abul Hasna`] dari [Al Hakam] dari [Hanasy] dari [Ali] Bahwasanya ia pernah berkurban dengan dua ekor kambing; seekor untuk Nabi shallallahu 'alaihi wasallam dan seekor lagi untuk dirinya sendiri, hingga ia pun ditanya tentang hal itu. Ali menjawab; \"Nabi shallallahu 'alaihi wasallam telah memerintahkan hal itu kepadaku, maka aku tidak akan meninggalkannya selamanya.\" Abu Isa berkata; \"Ini adalah hadits gharib, kami tidak mengetahuinya kecuali dari hadits Syarik. Sebagian ulama` memberi keringanan untuk berkurban atas nama mayit, sementara sebagian lagi tidak memberikan keringanan tersebut.\" Abdullah Ibnul Mubarak berkata; \"Aku lebih cenderung seseorang bersedekah atas nama mayit, dan bukan berkurban, namun ia berkurban atas nama mayit maka hendaknya ia tidak memakan dagingnya sedikitpun, tetapi mensedekahkan semuanya.\" Muhammad berkata; Ali Ibnul Madini berkata; \"Hadits ini tidak hanya diriwayatkan oleh Syarik.\" Aku bertanya kepadanya (Ali bin Al Madini; \"Siapa nama Abul Hasna`\" maka ia tidak mengetahuinya. Sedangkan Muslim berkata; \"namanya (Abu Al Hasna` adalah Al Hasan)",
+          "tr": "Ali (radıyallahü anh)’den rivâyete göre, kendisi bizzat iki kurban keserdi; biri Rasûlüllah (sallallahü aleyhi ve sellem) adına diğeri de kendi adına olmak üzere… Kendisine bunun sebebi sorulunca şöyle dedi: Böyle yapmamı bana Rasûlüllah (sallallahü aleyhi ve sellem) emretti ve bu şekilde yapmayı hiç terk etmeyeceğim. (Ebû Dâvûd, Dehâyâ: 1) Bu hadis garibtir. Bu hadisi sadece Şerîk’in rivâyetiyle bilmekteyiz. Bazı ilim adamları ölen kimse için kurban kesilebileceğine izin veriyorlar. Bazıları ise bunu kabul etmiyorlar. Abdullah b. Mübarek diyor ki: Bana göre kurban kesmek yarine onun bedelini sadaka olarak dağıtması daha hoştur. Kurban keserse bile etinden asla yemesin tamamını sadaka olarak versin. b. el Medinî ve Muhammed diyor ki: Şerik’den başkalarıda bu hadisi rivâyet etmişlerdir. Hasna’nın ismi nedir diye sordum bilemedi, Müslim ise isminin Hasen olduğunu söyledi"
+        }
+      },
+      "grades": [
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 19,
+        "hadith": 3
+      },
+      "narrator": {
+        "en": "Hanash"
+      }
+    },
+    {
+      "hadithNumber": 1496,
+      "arabicNumber": 1496,
+      "book": 19,
+      "hadithInBook": 4,
+      "text": {
+        "arabic": "حَدَّثَنَا أَبُو سَعِيدٍ الأَشَجُّ، حَدَّثَنَا حَفْصُ بْنُ غِيَاثٍ، عَنْ جَعْفَرِ بْنِ مُحَمَّدٍ، عَنْ أَبِيهِ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، قَالَ ضَحَّى رَسُولُ اللَّهِ صلى الله عليه وسلم بِكَبْشٍ أَقْرَنَ فَحِيلٍ يَأْكُلُ فِي سَوَادٍ وَيَمْشِي فِي سَوَادٍ وَيَنْظُرُ فِي سَوَادٍ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ غَرِيبٌ لاَ نَعْرِفُهُ إِلاَّ مِنْ حَدِيثِ حَفْصِ بْنِ غِيَاثٍ ‏.‏",
+        "translations": {
+          "en": "Narrated Abu Sa'eed Al-Khudri:\"The Messenger of Allah (ﷺ) slaughtered a horned male ram of fine pedigree, (around) his mouth was black, and his legs were black, and (around) his eyes was black",
+          "ur": "ابو سعید خدری رضی الله عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے سینگ والے ایک نر مینڈھے کی قربانی کی، وہ سیاہی میں کھاتا تھا، سیاہی میں چلتا تھا اور سیاہی میں دیکھتا تھا ۱؎۔ امام ترمذی کہتے ہیں: ۱- یہ حدیث حسن صحیح غریب ہے، ۲- ہم اس کو صرف حفص بن غیاث ہی کی روایت سے جانتے ہیں۔",
+          "id": "Telah menceritakan kepada kami [Abu Sa'id Al Asyaj] berkata, telah menceritakan kepada kami [Hafsh bin Ghiyats] dari [Ja'far bin Muhammad] dari [Bapaknya] dari [Abu Sa'id Al Khudri] ia berkata; \"Rasulullah shallallahu 'alaihi wasallam berkurban dengan kambing yang bertanduk, pada bagian mulut berwarna hitam, kaki-kakinya hitam dan pada daerah mata juga hitam.\" Abu Isa berkata; \"Hadits ini derajatnya hasan shahih gharib, dan kami tidak mengetahuinya kecuali dari hadits Hafsh bin Ghiyats",
+          "tr": "Ebû Saîd el Hudrî (r.a.)’den rivâyet edildiğine göre, şöyle demiştir: “Rasûlullah (s.a.v.), ağzı siyah, gözlerinin etrafı siyah ayakları siyah damızlık iki koçu kurban etmişti.” Diğer tahric: Ebû Dâvûd, Dahaya; İbn Mâce, Edahî Tirmizî: Bu hadis hasen sahih garibtir. Bu hadisi sadece Hafs b. Gıyas’ın rivâyetiyle bilmekteyiz"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 19,
+        "hadith": 4
+      },
+      "narrator": {
+        "en": "Abu Sa'eed Al-Khudri"
+      }
+    },
+    {
+      "hadithNumber": 1497,
+      "arabicNumber": 1497,
+      "book": 19,
+      "hadithInBook": 5,
+      "text": {
+        "arabic": "",
+        "translations": {
+          "ur": "براء بن عازب رضی الله عنہما سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: ”ایسے لنگڑے جانور کی قربانی نہ کی جائے جس کا لنگڑا پن واضح ہو، نہ ایسے اندھے جانور کی جس کا اندھا پن واضح ہو، نہ ایسے بیمار جانور کی جس کی بیماری واضح ہو، اور نہ ایسے لاغر و کمزور جانور کی قربانی کی جائے جس کی ہڈی میں گودا نہ ہو“ ۱؎۔ اس سند سے بھی براء بن عازب رضی الله عنہما سے اسی جیسی حدیث مروی ہے۔ امام ترمذی کہتے ہیں: ۱- یہ حدیث حسن صحیح ہے، اسے ہم صرف عبید بن فیروز کی حدیث سے جانتے ہیں انہوں نے براء سے روایت کی ہے، ۲- اہل علم کا اسی پر عمل ہے۔",
+          "id": "Telah menceritakan kepada kami [Ali bin Hujr] berkata, telah mengabarkan kepada kami [Jarir bin Hazim] dari [Muhammad bin Ishaq] dari [Yazid bin Abu Habib] dari [Sulaiman bin 'Abdurrahman] dari [Ubaid bin Fairuz] dari [Al Bara bin Azib] ia memarfu'kannya (kepada Nabi shallallahu 'alaihi wasallam), beliau bersabda: \"Tidak boleh berkurban dengan kambing pincang dan jelas kepincangannya, atau kambing yang buta sebelah dan jelas butanya, atau kambing yang sakit dan jelas sakitnya, atau kurus yang tidak bersumsum (berdaging).\" Telah menceritakan kepada kami [Hannad] berkata, telah menceritakan kepada kami [Ibnu Abu Zaidah] berkata, telah mengabarkan kepada kami [Syu'bah] dari [Sulaiman bin 'Abdurrahman] dari [Ubaid bin Fairuz] dari [Al Bara bin Azib] dari Nabi shallallahu 'alaihi wasallam dengan makna yang sama.\"Abu Isa berkata; \"Hadits ini derajatnya hasan shahih, dan kami tidak mengetahuinya kecuali dari hadits Ubaid bin Fairuz, dari Al Bara. Hadits ini juga menjadi pedoman amal menurut para ulama",
+          "tr": "Berâ b. Âzib (radıyallahü anh)’den merfu olarak rivâyet ettiği hadisinde şöyle diyor: “Topal hayvan, tek gözlü hayvan, hastalığı belli olan hayvan zayıf, ve cılız hayvanlar kurban edilmez.” (Ebû Dâvûd, Dahaya: 5; İbn Mâce, Edahî:)"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 19,
+        "hadith": 5
+      }
+    },
+    {
+      "hadithNumber": 1498,
+      "arabicNumber": 1498,
+      "book": 19,
+      "hadithInBook": 7,
+      "text": {
+        "arabic": "",
+        "translations": {
+          "ur": "علی بن ابی طالب رضی الله عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے ہمیں حکم دیا کہ ( قربانی والے جانور کی ) آنکھ اور کان اچھی طرح دیکھ لیں، اور ایسے جانور کی قربانی نہ کریں جس کا کان آگے سے کٹا ہو، یا جس کا کان پیچھے سے کٹا ہو، یا جس کا کان چیرا ہوا ہو ( یعنی لمبائی میں کٹا ہوا ہو ) ، یا جس کے کان میں سوراخ ہو۔ اس سند سے بھی علی رضی الله عنہ سے اسی جیسی حدیث مروی ہے، اس میں یہ اضافہ ہے کہ «مقابلة» وہ جانور ہے جس کے کان کا کنارہ ( آگے سے ) کٹا ہو، «مدابرة» وہ جانور ہے جس کے کان کا کنارہ ( پیچھے سے ) کٹا ہو، «شرقاء» جس کا کان ( لمبائی میں ) چیرا ہوا ہو، اور «خرقاء» جس کے کان میں ( گول ) سوراخ ہو۔ امام ترمذی کہتے ہیں: ۱- یہ حدیث حسن صحیح ہے، ۲- شریح بن نعمان صائدی، کوفہ کے رہنے والے ہیں اور علی رضی الله عنہ کے ساتھیوں میں سے ہیں، ۳- شریح بن ہانی کوفہ کے رہنے والے ہیں اور ان کے والد کو شرف صحبت حاصل ہے اور علی رضی الله عنہ کے ساتھی ہیں، اور شریح بن حارث کندی ابوامیہ قاضی ہیں، انہوں نے علی رضی الله عنہ سے روایت کی ہے، یہ تینوں شریح ( جن کی تفصیل اوپر گزری ) علی رضی الله عنہ کے ساتھی اور ہم عصر ہیں، ۳- «نستشرف» سے مراد «ننظر صحيحا» ہے یعنی قربانی کے جانور کو ہم اچھی طرح دیکھ لیں۔",
+          "id": "Telah menceritakan kepada kami [Al hasan bin Ali Al Hulwani] berkata, telah menceritakan kepada kami [Yazid bin Harun] berkata, telah mengabarkan kepada kami [Syarik bin Abdullah] dari [Abu Ishaq] dari [Syuraih bin An Nu'man Ash Sha`idi dan dia adalah orang? Hamdan] dari [Ali bin Abu Thalib] ia berkata; \"Rasulullah shallallahu 'alaihi wasallam memerintahkan kami untuk memperhatikan baiknya mata dan telinga (hewan kurban). Beliau juga melarang kami untuk berkurban dengan hewan yang cacat telinga bagian depannya, dan tidak pula cacat telinga bagian belakangnya, tidak yang terbelah terbalah daun telinganya dan tidak pula yang terdapat lubang bundar pada daun telinganya.\" Telah menceritakan kepada kami [Al Hasan bin Ali] berkata, telah menceritakan kepada kami [Ubaidullah bin Musa] berkata, telah mengabarkan kepada kami [Isra'il] dari [Abu Ishaq] dari [Syuraih bin Nu'man] dari [Ali] dari Nabi shallallahu 'alaihi wasallam, seperti hadits tersebut. Ia menambahkan, Ali berkata; \"Muqabalah adalah hewan yang terpotong pada sisi ujungnya, Mudabarah hewan yang terpotong pada sisi telinganya, Syarqa` hewan yang telinganya terbelah; dan Kharqa hewan yang telinganya berlubang.\" Abu Isa berkata, \"Hadits ini derajatnya hasan shahih. Dan Syuraih bin An Nu'man Ash Sha`idi berasal dari Kufah, dan termasuk dari sahabat Ali. Syuraih bin Hani juga dari Kufah, bapaknya termasuk sahabat Ali. Syuraih Ibnul Harits Al Kindi Abu Umayyah Al Qadhi telah meriwayatkan dari Ali, mereka semua masih sahabat Ali yang hidup dalam satu masa. Perkataan Ali 'memperhatikan baiknya' maksudnya adalah memperhatikan kesehatan hewan kurban"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Daif"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 19,
+        "hadith": 7
+      }
+    },
+    {
+      "hadithNumber": 1499,
+      "arabicNumber": 1499,
+      "book": 19,
+      "hadithInBook": 9,
+      "text": {
+        "arabic": "حَدَّثَنَا يُوسُفُ بْنُ عِيسَى، حَدَّثَنَا وَكِيعٌ، حَدَّثَنَا عُثْمَانُ بْنُ وَاقِدٍ، عَنْ كِدَامِ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ أَبِي كِبَاشٍ، قَالَ جَلَبْتُ غَنَمًا جُذْعَانًا إِلَى الْمَدِينَةِ فَكَسَدَتْ عَلَىَّ فَلَقِيتُ أَبَا هُرَيْرَةَ فَسَأَلْتُهُ فَقَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏ \"‏ نِعْمَ - أَوْ نِعْمَتِ - الأُضْحِيَةُ الْجَذَعُ مِنَ الضَّأْنِ ‏\"‏ ‏.‏ قَالَ فَانْتَهَبَهُ النَّاسُ ‏.‏ قَالَ وَفِي الْبَابِ عَنِ ابْنِ عَبَّاسٍ وَأُمِّ بِلاَلٍ ابْنَةِ هِلاَلٍ عَنْ أَبِيهَا وَجَابِرٍ وَعُقْبَةَ بْنِ عَامِرٍ وَرَجُلٍ مِنْ أَصْحَابِ النَّبِيِّ صلى الله عليه وسلم ‏.‏ قَالَ أَبُو عِيسَى حَدِيثُ أَبِي هُرَيْرَةَ حَدِيثٌ حَسَنٌ غَرِيبٌ ‏.‏ وَقَدْ رُوِيَ هَذَا عَنْ أَبِي هُرَيْرَةَ مَوْقُوفًا ‏.‏ وَعُثْمَانُ بْنُ وَاقِدٍ هُوَ ابْنُ مُحَمَّدِ بْنِ زِيَادِ بْنِ عَبْدِ اللَّهِ بْنِ عُمَرَ بْنِ الْخَطَّابِ ‏.‏ وَالْعَمَلُ عَلَى هَذَا عِنْدَ أَهْلِ الْعِلْمِ مِنْ أَصْحَابِ النَّبِيِّ صلى الله عليه وسلم وَغَيْرِهِمْ أَنَّ الْجَذَعَ مِنَ الضَّأْنِ يُجْزِئُ فِي الأُضْحِيَةِ ‏.‏",
+        "translations": {
+          "en": "Narrated Abu Kibash:\"I brought a Jadha' sheep to Al-Madinah (for sale) but it remained with me. I saw Abu Hurairah and I asked him about it, so he said: 'I heard the Messenger of Allah (ﷺ) saying: \"The best male\" - or - \"female Udhiyah is that from the Jadha' sheep.\" He said: \"So the people took note of that (they became interested in buying)",
+          "ur": "ابوکباش کہتے ہیں کہ میں مدینہ میں تجارت کے لیے جذع یعنی دنبہ کے چھوٹے بچے لایا اور بازار مندا ہو گیا ۱؎، لہٰذا میں نے ابوہریرہ رضی الله عنہ سے ملاقات کی، اور ان سے پوچھا تو انہوں نے کہا: میں نے رسول اللہ صلی اللہ علیہ وسلم کو فرماتے سنا ہے: ”بھیڑ کے جذع کی قربانی خوب ہے!“ ابوکباش کہتے ہیں ( یہ سنتے ہی ) لوگ اس کی خریداری پر ٹوٹ پڑے۔ اس باب میں ابن عباس، ام بلال بنت ہلال کی ان کے والد سے اور جابر، عقبہ بن عامر رضی اللہ عنہم اور ایک آدمی جو نبی اکرم صلی اللہ علیہ وسلم کے اصحاب میں سے ہیں سے بھی احادیث آئی ہیں۔ امام ترمذی کہتے ہیں: ۱- ابوہریرہ کی حدیث حسن غریب ہے، ۲- یہ ابوہریرہ رضی الله عنہ سے موقوفاً بھی مروی ہے، ۳- عثمان بن واقدیہ ابن محمد بن زیاد بن عبداللہ بن عمر بن خطاب ہیں، ۴- صحابہ کرام میں سے اہل علم اور دوسرے لوگوں کا اسی پر عمل ہے کہ بھیڑ کا جذع قربانی کے لیے کفایت کر جائے گا۔",
+          "id": "Telah menceritakan kepada kami [Yusuf bin Isa] berkata, telah menceritakan kepada kami [Waki'] berkata, telah menceritakan kepada kami [Utsman bin Waqid] dari [Kidam bin 'Abdurrahman] dari [Abu Kibasy] ia berkata, \"Aku membawa kambing ke madinah yang berumur enam bulanan (untuk dijual), namun aku merugi (karena tidak ada yang beli). Aku lalu bertemu [Abu Hurairah] dan aku tanyakan hal itu kepadanya, ia pun menjawab, \"Aku pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: \"Sebaik-baik hewan kurban adalah kambing jadza' (berumur enam bulan sampai setahun).\" Abu Kibasy berkata, \"Maka orang-orang pun berburu untuk membeli.\" Ia berkata, \"Dalam bab ini juga ada hadits dari Ibnu Abbas dan Ummu Bilal binti Hilal dari bapaknya dan Jabir dan Uqbah bin Amir serta seorang laki-laki dari sahabat Nabi shallallahu 'alaihi wasallam.\" Abu Isa berkata; \"Hadits Abu Hurairah ini derajatnya hasan gharib. hadits ini diriwayatkan dari Abu Hurairah secara mauquf. Utsman Abu Isa Waqid adalah Ibnu Muhammd bin Ziyad bin Abdullah bin Umar bin Al Khaththab. Hadits ini menjadi pedoman amal oleh para ulama' dari kalangan sahabat Nabi shallallahu 'alaihi wasallam dan selain mereka, bahwa kambing yang berumur enam bulan hingga setahun boleh untuk digunakan sebagai hewan kurban"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Daif"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 19,
+        "hadith": 9
+      },
+      "narrator": {
+        "en": "Abu Kibash"
+      }
+    },
+    {
+      "hadithNumber": 1500,
+      "arabicNumber": 1500,
+      "book": 19,
+      "hadithInBook": 10,
+      "text": {
+        "arabic": "",
+        "translations": {
+          "ur": "عقبہ بن عامر رضی الله عنہ سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے انہیں بکریاں دیں تاکہ وہ قربانی کے لیے صحابہ کرام کے درمیان تقسیم کر دیں، ایک «عتود» ( بکری کا ایک سال کا فربہ بچہ ) یا «جدي» ۱؎ باقی بچ گیا، میں نے رسول اللہ صلی اللہ علیہ وسلم سے اس کا تذکرہ کیا، تو آپ نے فرمایا: ”تم اس کی قربانی خود کر لو“۔ امام ترمذی کہتے ہیں: ۱- یہ حدیث حسن صحیح ہے، ۲- وکیع کہتے ہیں: بھیڑ کا جذع، چھ یا سات ماہ کا بچہ ہوتا ہے۔ ۳- عقبہ بن عامر سے دوسری سند سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے قربانی کے جانور تقسیم کیے، ایک جذعہ باقی بچ گیا، میں نے نبی اکرم صلی اللہ علیہ وسلم سے اس کے بارے میں پوچھا تو آپ نے فرمایا: ”تم اس کی قربانی خود کر لو“۔",
+          "id": "Telah menceritakan kepada kami [Qutaibah] berkata, telah menceritakan kepada kami [Al Laits] dari [Yazid bin Abu Habib] dari [Abul Khair] dari [Uqbah bin Amir] bahwa Rasulullah shallallahu 'alaihi wasallam pernah memberikan kepadanya kambing yang ia bagikan kepada para sahabatnya sebagai kurban, lalu tersisalah anak unta atau anak kambing yang baru bisa berdiri. Maka hal itu aku ceritakan kepada Rasulullah shallallahu 'alaihi wasallam, lantas beliau bersabda: \"Berkurbanlah kamu dengan hewan itu.\" Abu Isa berkata; \"Hadits ini derajatnya hasan shahih. Waki' berkata, \"Kambing yang termasuk kategori jadza' adalah yang berumur satu tahun atau tujuh bulan.\" Hadits ini juga diriwayatkan dari Uqbah bin Amir dengan jalur yang lain, bahwasanya ia berkata; \"Rasulullah shallallahu 'alaihi wasallam membagi-bagi hewan kurban dan hanya tersisa seekor jadza'ah, lalu aku bertanya Nabi shallallahu 'alaihi wasallam. Beliau menjawab: \"Berkurbanlah kamu dengan hewan tersebut.\" Telah menceritakan kepada kami [Muhammad bin Basysyar] berkata, telah menceritakan kepada kami [Yazid bin Harun] dan [Abu Dawud] keduanya berkata; telah menceritakan kepada kami [Hisyam Ad Dastuwa'i] dari [Yahya bin Abu Katsir] dari [Ba'jah bin Abdullah bin Badr] dari [Uqbah bin Amir] dari Nabi shallallahu 'alaihi wasallam, sama seperti hadits tersebut",
+          "tr": "Hennâd; İbn-ü ebî Zaide vasıtasıyla Şu’be’den, Süleyman b. Abdurrahman’dan, Ubeyd b. Feyrûz’dan, Berâ b. Âzib’den bu hadisin mana olarak benzerini rivâyet etmiştir. Bu hadis hasen sahihtir. Bu hadisi sadece Ubeyd b. Feyrûz’un, Berâ’dan rivâyetiyle bilmekteyiz ilim adamlarının uygulaması da bu hadise göredir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 19,
+        "hadith": 10
+      }
+    },
+    {
+      "hadithNumber": 1501,
+      "arabicNumber": 1501,
+      "book": 19,
+      "hadithInBook": 12,
+      "text": {
+        "arabic": "حَدَّثَنَا أَبُو عَمَّارٍ الْحُسَيْنُ بْنُ حُرَيْثٍ، حَدَّثَنَا الْفَضْلُ بْنُ مُوسَى، عَنِ الْحُسَيْنِ بْنِ وَاقِدٍ، عَنْ عِلْبَاءَ بْنِ أَحْمَرَ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، قَالَ كُنَّا مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم فِي سَفَرٍ فَحَضَرَ الأَضْحَى فَاشْتَرَكْنَا فِي الْبَقَرَةِ سَبْعَةً وَفِي الْبَعِيرِ عَشَرَةً ‏.‏ قَالَ أَبُو عِيسَى وَفِي الْبَابِ عَنْ أَبِي الأَسْوَدِ السُّلَمِيِّ عَنْ أَبِيهِ عَنْ جَدِّهِ وَأَبِي أَيُّوبَ ‏.‏ قَالَ أَبُو عِيسَى حَدِيثُ ابْنِ عَبَّاسٍ حَدِيثٌ حَسَنٌ غَرِيبٌ لاَ نَعْرِفُهُ إِلاَّ مِنْ حَدِيثِ الْفَضْلِ بْنِ مُوسَى ‏.‏",
+        "translations": {
+          "en": "Narrated Ibn 'Abbas:\"We were with the Messenger of Allah (ﷺ) on a journey when the (Day of) Adha came, so we shared seven for a cow and ten for a camel",
+          "ur": "عبداللہ بن عباس رضی الله عنہما کہتے ہیں کہ ہم لوگ رسول اللہ صلی اللہ علیہ وسلم کے ساتھ ایک سفر میں تھے کہ قربانی کا دن آ گیا، چنانچہ ہم نے گائے کی قربانی میں سات آدمیوں اور اونٹ کی قربانی میں دس آدمیوں کو شریک کیا ۱؎۔ امام ترمذی کہتے ہیں: ۱- ابن عباس رضی الله عنہما کی حدیث حسن غریب ہے، ہم اسے صرف فضل بن موسیٰ کی روایت سے جانتے ہیں، ۲- اس باب میں «ابوالأ سد سلمی عن أبیہ عن جدہ» اور ابوایوب سے احادیث آئی ہیں۔",
+          "id": "Telah menceritakan kepada kami [Abu Ammar Al Husain bin Huraits] berkata, telah menceritakan kepada kami [Al Fadhl bin Musa] dari [Al Husain bin Waqid] dari [Ilba bin Ahmar] dari [Ikrimah] dari [Ibnu Abbas] ia berkata, \"Kami bersama Rasulullah shallallahu 'alaihi wasallam dalam perjalanan, lalu tibalah hari Idul Adhha. Kami lalu berserikat berkurban seekor sapi untuk tujuh orang dan seekor unta untuk sepuluh orang.\" Abu Isa berkata; \"Dalam bab ini ada hadits serupa dari Abul Asad As Sulami dari bapaknya dari kakeknya, dan hadits Abu Ayyub.\" Abu Isa berkata; \"Hadits Ibnu Abbas derajatnya hasan gharib, dan kami tidak mengetahui hadits tersebut kecuali dari Al Fadhl bin Musa",
+          "tr": "İbn Abbâs (r.a.)’den rivâyete göre, şöyle demiştir: “Bir seferde Rasûlullah (s.a.v.) ile beraber idik kurban bayramı geliverdi. Sığırda yedi kişi, devede on kişi olarak kurban kestik.” Diğer tahric: İbn Mâce, Dahaya Tirmizî: Bu konuda Ebûl Esed-is Sülemî’nin babasından, dedesinden ve Ebû Eyyûb’tan da hadis rivâyet edilmiştir. Tirmizî: İbn Abbâs hadisi hasen garibtir. Bu hadisi sadece Fadl b. Musa’nın rivâyetinden bilmekteyiz"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 19,
+        "hadith": 12
+      },
+      "narrator": {
+        "en": "Ibn 'Abbas"
+      }
+    },
+    {
+      "hadithNumber": 1502,
+      "arabicNumber": 1502,
+      "book": 19,
+      "hadithInBook": 13,
+      "text": {
+        "arabic": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا مَالِكُ بْنُ أَنَسٍ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرٍ، قَالَ نَحَرْنَا مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم بِالْحُدَيْبِيَةِ الْبَدَنَةَ عَنْ سَبْعَةٍ وَالْبَقَرَةَ عَنْ سَبْعَةٍ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏ وَالْعَمَلُ عَلَى هَذَا عِنْدَ أَهْلِ الْعِلْمِ مِنْ أَصْحَابِ النَّبِيِّ صلى الله عليه وسلم وَغَيْرِهِمْ وَهُوَ قَوْلُ سُفْيَانَ الثَّوْرِيِّ وَابْنِ الْمُبَارَكِ وَالشَّافِعِيِّ وَأَحْمَدَ وَإِسْحَاقَ ‏.‏ وَقَالَ إِسْحَاقُ يُجْزِئُ أَيْضًا الْبَعِيرُ عَنْ عَشَرَةٍ ‏.‏ وَاحْتَجَّ بِحَدِيثِ ابْنِ عَبَّاسٍ ‏.‏",
+        "translations": {
+          "en": "Narrated Jabir:\"We performed the Nahr (sacrifice) with the Messenger of Allah (ﷺ) at Al-Hudaibiyyah: A camel for seven (persons) and a cow for seven (persons)",
+          "ur": "جابر رضی الله عنہ کہتے ہیں کہ ہم لوگوں نے رسول اللہ صلی اللہ علیہ وسلم کے ساتھ حدیبیہ کے موقع پر اونٹ اور گائے کو سات آدمیوں کی طرف سے نحر ( ذبح ) کیا۔ امام ترمذی کہتے ہیں: ۱- یہ حدیث حسن صحیح ہے، ۲- صحابہ کرام میں سے اہل علم اور ان کے علاوہ لوگوں کا اسی پر عمل ہے، سفیان ثوری، ابن مبارک، شافعی، احمد اور اسحاق بن راہویہ کا بھی یہی قول ہے، ۳- اسحاق بن راہویہ کہتے ہیں: اونٹ دس آدمی کی طرف سے بھی کفایت کر جائے گا، انہوں نے ابن عباس رضی الله عنہما کی حدیث سے استدلال کیا ہے ۱؎۔",
+          "id": "Telah menceritakan kepada kami [Qutaibah] berkata, telah menceritakan kepada kami [Malik bin Anas] dari [Abu Az Zubair] dari [Jabir] ia berkata, \"Kami pernah berkurban bersama Rasulullah shallallahu 'alaihi wasallam di Hudaibiyyah, yaitu satu ekor unta untuk tujuh orang dan satu ekor sapi untuk tujuh orang.\" Abu Isa berkata; \"Hadits ini derajatnya hasan shahih. dan hadits ini menjadi pedoman amal oleh para ulama' dari kalangan sahabat Nabi Sallallahu 'alahi wa sallam dan selainnya. Dan ini adalah perkataan Sufyan Ats Tsauri, Ibnul Mubarak, Syafi'I, Ahmad dan Ishaq. Ishaq berkata; \"Satu ekor unta juga cukup untuk sepuluh orang.\" Ia berpegangan dengan hadits Ibnu Abbas",
+          "tr": "Câbir (r.a.)’den rivâyete göre, şöyle demiştir: Hudeybiye’de, Rasûlullah (s.a.v.) ile beraber deveyi de sığırı da yedi kişi için boğazlayıp kurban etmiştik. Diğer tahric: Ebû Dâvûd, Dahaya; İbn Mâce: Dahaya Tirmizî: Bu hadis hasen sahihtir. Rasûlullah (s.a.v.)’in ashabından ve başkalarından ilim adamlarının uygulaması bu hadise göredir. Sûfyân es Sevrî, İbn’ül Mübarek, Şâfii, Ahmed, İshâk bunlardandır. İshâk, deve; kurban olarak on kişiye yeter diyerek İbn Abbâs hadisini delil olarak alıyor"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 19,
+        "hadith": 13
+      },
+      "narrator": {
+        "en": "Jabir"
+      }
+    },
+    {
+      "hadithNumber": 1503,
+      "arabicNumber": 1503,
+      "book": 19,
+      "hadithInBook": 14,
+      "text": {
+        "arabic": "حَدَّثَنَا عَلِيُّ بْنُ حُجْرٍ، أَخْبَرَنَا شَرِيكٌ، عَنْ سَلَمَةَ بْنِ كُهَيْلٍ، عَنْ حُجَيَّةَ بْنِ عَدِيٍّ، عَنْ عَلِيٍّ، قَالَ الْبَقَرَةُ عَنْ سَبْعَةٍ، ‏.‏ قُلْتُ فَإِنْ وَلَدَتْ قَالَ اذْبَحْ وَلَدَهَا مَعَهَا ‏.‏ قُلْتُ فَالْعَرْجَاءُ قَالَ إِذَا بَلَغَتِ الْمَنْسِكَ ‏.‏ قُلْتُ فَمَكْسُورَةُ الْقَرْنِ قَالَ لاَ بَأْسَ أُمِرْنَا أَوْ أَمَرَنَا رَسُولُ اللَّهِ صلى الله عليه وسلم أَنْ نَسْتَشْرِفَ الْعَيْنَيْنِ وَالأُذُنَيْنِ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏ قَالَ أَبُو عِيسَى وَقَدْ رَوَاهُ سُفْيَانُ الثَّوْرِيُّ عَنْ سَلَمَةَ بْنِ كُهَيْلٍ ‏.‏",
+        "translations": {
+          "en": "Narrated Hujayyah bin 'Adi:\"Ali said: 'A cow is for seven.' I said: \"And if it gives birth?' He said: 'Then slaughter its offspring with it.' I said: 'What if it is lame?' He said: 'When it has reached the place of ritual.' I said: 'What if it has a broken horn?' He said: 'There is no harm, we were ordered' - or - 'The Messenger of Allah (ﷺ) ordered us, to check the two eyes and the two ears",
+          "ur": "حجیہ بن عدی سے روایت ہے کہ علی رضی الله عنہ نے کہا: گائے کی قربانی سات آدمیوں کی طرف سے کی جائے گی، حجیہ کہتے ہیں: میں نے پوچھا: اگر وہ بچہ جنے؟ انہوں نے کہا: اسی کے ساتھ اس کو بھی ذبح کر دو ۱؎، میں نے کہا اگر وہ لنگڑی ہو؟ انہوں نے کہا: جب قربان گاہ تک پہنچ جائے تو اسے ذبح کر دو، میں نے کہا: اگر اس کے سینگ ٹوٹے ہوں؟ انہوں نے کہا: کوئی حرج نہیں ۲؎، ہمیں حکم دیا گیا ہے، یا ہمیں رسول اللہ صلی اللہ علیہ وسلم نے حکم دیا ہے کہ ہم ان کی آنکھوں اور کانوں کو خوب دیکھ بھال لیں۔ امام ترمذی کہتے ہیں: ۱- یہ حدیث حسن صحیح ہے، ۲- اس حدیث کو سفیان نے سلمہ بن کہیل سے روایت کیا ہے۔",
+          "id": "Telah menceritakan kepada kami [Ali bin Hujr] berkata, telah mengabarkan kepada kami [Syarik] dari [Salamah bin Kuhail] dari [Hujayyah bin Adi] dari [Ali] ia berkata; \"Seekor sapi cukup untuk tujuh orang.\" Aku bertanya; \"Bagaimana jika sapi itu melahirkan?\" ia menjawab; \"Sembelih sekalian bersama induknya.\" Aku bertanya lagi; \"Bagaimana dengan hewan yang pincang?\" ia menjawab, \"(boleh) jika telah sampai tempat pemotongan hewan.\" Aku bertanya lagi, \"Bagaimana dengan hewan yang tanduknya pecah?\" ia menjawab, \"Tidak mengapa, kami pernah diperintahkan, atau (ia mangatakan;) \"Rasulullah shallallahu 'alaihi wasallam memerintahkan kami untuk memeriksa kesehatan kedua mata dan telinganya.\" Abu Isa berkata; \"Hadits ini derajatnya hasan shahih. [Sufyan] meriwayatkannya dari [Salamah bin Kuhail]"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 19,
+        "hadith": 14
+      },
+      "narrator": {
+        "en": "Hujayyah bin 'Adi"
+      }
+    },
+    {
+      "hadithNumber": 1504,
+      "arabicNumber": 1504,
+      "book": 19,
+      "hadithInBook": 15,
+      "text": {
+        "arabic": "حَدَّثَنَا هَنَّادٌ، حَدَّثَنَا عَبْدَةُ، عَنْ سَعِيدٍ، عَنْ قَتَادَةَ، عَنْ جُرَىِّ بْنِ كُلَيْبٍ النَّهْدِيِّ، عَنْ عَلِيٍّ، قَالَ نَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم أَنْ يُضَحَّى بِأَعْضَبِ الْقَرْنِ وَالأُذُنِ ‏.‏ قَالَ قَتَادَةُ فَذَكَرْتُ ذَلِكَ لِسَعِيدِ بْنِ الْمُسَيَّبِ فَقَالَ الْعَضْبُ مَا بَلَغَ النِّصْفَ فَمَا فَوْقَ ذَلِكَ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏",
+        "translations": {
+          "en": "Narrated 'Ali:\"The Messenger of Allah (ﷺ) prohibited that an animal with a A'dab (stump) horn or ear should be slaughtered as a sacrifice.\" Qatadah (one of the narrators) said: \"So I mentioned this to Sa'eed bin Al-Musayyab and he said: 'The A'dab is that which equals or more than that",
+          "ur": "علی رضی الله عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے ان جانوروں کی قربانی کرنے سے منع فرمایا جن کے سینگ ٹوٹے اور کان پھٹے ہوئے ہوں۔ قتادہ کہتے ہیں: میں نے سعید بن مسیب سے اس کا تذکرہ کیا تو انہوں نے کہا: «عضب» ( سینگ ٹوٹنے ) سے مراد یہ ہے کہ سینگ آدھی یا اس سے زیادہ ٹوٹی ہو۔ امام ترمذی کہتے ہیں: یہ حدیث حسن صحیح ہے۔",
+          "id": "Telah menceritakan kepada kami [Hannad] berkata, telah menceritakan kepada kami [Abdah] dari [Sa'id] dari [Qatadah] dari [Juray bin Kulaib An Nahdi] dari [Ali] ia berkata, \"Rasulullah shallallahu 'alaihi wasallam melarang berkurban dengan hewan yang tanduk atau telinganya pecah.\" Qatadah berkata; \"Hal itu lalu aku sebutkan kepada Sa'id Ibnul Musayyab, maka ia berkata; \"Pecah itu jika telah sampai separuh atau lebih.\" Abu Isa berkata, \"Hadits ini derajatnya hasan shahih",
+          "tr": "Ali (r.a.)’den rivâyet edildiğine göre, şöyle demiştir: Rasûlullah (s.a.v.), kırık boynuzlu ve kesik kulaklı hayvanın kurban edilmesini yasakladı.” Katâde diyor ki: Bu durumu Saîd b. Müseyyeb’e anlattım kırıklık miktarının yarıya kadar ve yarıdan fazla olursa kurban edilmez dedi. Diğer tahric: Nesâî, Dahaya; Ebû Dâvûd, Dahaya Tirmizî: Bu hadis hasen sahihtir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Daif"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 19,
+        "hadith": 15
+      },
+      "narrator": {
+        "en": "'Ali"
+      }
+    },
+    {
+      "hadithNumber": 1505,
+      "arabicNumber": 1505,
+      "book": 19,
+      "hadithInBook": 16,
+      "text": {
+        "arabic": "حَدَّثَنِي يَحْيَى بْنُ مُوسَى، حَدَّثَنَا أَبُو بَكْرٍ الْحَنَفِيُّ، حَدَّثَنَا الضَّحَّاكُ بْنُ عُثْمَانَ، حَدَّثَنِي عُمَارَةُ بْنُ عَبْدِ اللَّهِ، قَالَ سَمِعْتُ عَطَاءَ بْنَ يَسَارٍ، يَقُولُ سَأَلْتُ أَبَا أَيُّوبَ الأَنْصَارِيَّ كَيْفَ كَانَتِ الضَّحَايَا عَلَى عَهْدِ رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَ كَانَ الرَّجُلُ يُضَحِّي بِالشَّاةِ عَنْهُ وَعَنْ أَهْلِ بَيْتِهِ فَيَأْكُلُونَ وَيُطْعِمُونَ حَتَّى تَبَاهَى النَّاسُ فَصَارَتْ كَمَا تَرَى ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏ وَعُمَارَةُ بْنُ عَبْدِ اللَّهِ هُوَ مَدَنِيٌّ وَقَدْ رَوَى عَنْهُ مَالِكُ بْنُ أَنَسٍ ‏.‏ وَالْعَمَلُ عَلَى هَذَا عِنْدَ بَعْضِ أَهْلِ الْعِلْمِ وَهُوَ قَوْلُ أَحْمَدَ وَإِسْحَاقَ وَاحْتَجَّا بِحَدِيثِ النَّبِيِّ صلى الله عليه وسلم أَنَّهُ ضَحَّى بِكَبْشٍ فَقَالَ ‏ \"‏ هَذَا عَمَّنْ لَمْ يُضَحِّ مِنْ أُمَّتِي ‏\"‏ ‏.‏ وَقَالَ بَعْضُ أَهْلِ الْعِلْمِ لاَ تُجْزِئُ الشَّاةُ إِلاَّ عَنْ نَفْسٍ وَاحِدَةٍ وَهُوَ قَوْلُ عَبْدِ اللَّهِ بْنِ الْمُبَارَكِ وَغَيْرِهِ مِنْ أَهْلِ الْعِلْمِ ‏.‏",
+        "translations": {
+          "en": "Narrated 'Ata bin Yasar:\"I asked Abu Abyub [Al-Ansari] how the slaughtering was done during the time of the Messenger of Allah (ﷺ). He said: 'A man would sacrifice a sheep for himself and the people in his household. They would eat from it and feed others, until the people (later) would boast about it and it became as you see now",
+          "ur": "عطاء بن یسار کہتے ہیں کہ میں نے ابوایوب انصاری رضی الله عنہ سے پوچھا: رسول اللہ صلی اللہ علیہ وسلم کے زمانے میں قربانیاں کیسے ہوتی تھی؟ انہوں نے کہا: ایک آدمی اپنی اور اپنے گھر والوں کی طرف سے ایک بکری قربانی کرتا تھا، وہ لوگ خود کھاتے تھے اور دوسروں کو کھلاتے تھے یہاں تک کہ لوگ ( کثرت قربانی پر ) فخر کرنے لگے، اور اب یہ صورت حال ہو گئی جو دیکھ رہے ہو ۱؎۔ امام ترمذی کہتے ہیں: ۱- یہ حدیث حسن صحیح ہے، ۲- راوی عمارہ بن عبداللہ مدنی ہیں، ان سے مالک بن انس نے بھی روایت کی ہے، ۳- بعض اہل علم کا اسی پر عمل ہے، احمد اور اسحاق بن راہویہ کا بھی یہی قول ہے، ان دونوں نے نبی اکرم صلی اللہ علیہ وسلم کی اس حدیث سے استدلال کیا ہے کہ آپ نے ایک مینڈھے کی قربانی کی اور فرمایا: ”یہ میری امت کے ان لوگوں کی طرف سے ہے، جنہوں نے قربانی نہیں کی ہے“، ۴- بعض اہل علم کہتے ہیں: ایک بکری ایک ہی آدمی کی طرف سے کفایت کرے گی، عبداللہ بن مبارک اور دوسرے اہل علم کا یہی قول ہے ( لیکن راجح پہلا قول ہے ) ۔",
+          "id": "Telah menceritakan kepada kami [Yahya bin Musa] berkata, telah menceritakan kepada kami [Abu Bakar Al Hanafi] berkata, telah menceritakan kepada kami [Adh Dhahhak bin Utsman] berkata, telah menceritakan kepadaku [Umarah bin Abdullah] ia berkata; Aku mendengar [Atha bin Yasar] berkata, \"Aku pernah bertanya kepada [Abu Ayyub Al Anshari], bagaimana kurban yang dilakukan pada masa Rasulullah shallallahu 'alaihi wasallam?\", ia menjawab; \"Seorang laki-laki menyembelih seekor kambing untuk dirinya dan keluarganya, mereka makan daging kurban tersebut dan memberikannya kepada orang lain. Hal itu tetap berlangsung hingga manusia berbangga-bangga, maka jadilah kurban itu seperti sekarang yang engkau saksikan (hanya untuk berbangga-bangga).\" Abu Isa berkata; \"Hadits ini derajatnya hasan shahih Dan Umarah bin Abdullah adalah orang Madinah, Malik bin Anas termasuk orang-orang yang telah meriwayatkan darinya. Hadits ini menjadi pedoman amal menurut sebagian ulama', dan inilah pendapat Ahmad dan Ishaq. Keduanya berdalil dengan hadits Nabi shallallahu 'alaihi wasallam, Bahwasanya beliau pernah berkurban dengan seekor kambing, lalu beliau bersabda: \"Ini untuk orang-orang yang belum berkurban dari umatku.\" Sebagian ulama' berpendapat, \"Seekor kambing tidak cukup kecuali untuk satu orang. Dan ini adalah Pendapat Abdullah Ibnul Mubarak dan selainnya dari kalangan para ulama",
+          "tr": "Umâra b. Abdullah (radıyallahü anh)’den rivâyete göre, şöyle demiştir: A’ta b. Yesâr’dan işittim şöyle diyordu: Ebû Eyyûb el Ensârî’ye sordum; Rasûlüllah (sallallahü aleyhi ve sellem)’in zamanında kurbanlar nasıldı diye şöyle cevap verdi: “Kişi kendisi ve çoluk çocuğu için tek bir kurban keserdi de onun etinden kendileri de yer başkalarına da yedirirlerdi. Neticede Müslümanlar birbirleriyle övüneceğiz diye gördüğün gibi birkaç kurban kesmek durumuna geldiler.” (İbn Mâce, Dahaya: 10; Muvatta, Dahaya: 5) Bu hadis hasen sahihtir. Umare b. Abdullah; Medînelidir. Mâlik b. Enes ondan hadis rivâyet etmiştir. Bazı ilim adamlarının uygulaması bu hadise göredir. Ahmed ve İshâk bunlardan olup Rasûlüllah (sallallahü aleyhi ve sellem)’in aşağıdaki hadisini delil gösterirler: “Rasûlüllah (sallallahü aleyhi ve sellem), bir koç kurban edip bu kurban ümmetimden kurban kesmeyenler içindir.” Bazı ilim adamları da şöyle derler: “Bir koyun ancak bir kişi için yeterlidir.” Abdullah b. Mübarek ve ilim adamlarından başka kimselerin görüşü de böyledir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 19,
+        "hadith": 16
+      },
+      "narrator": {
+        "en": "'Ata bin Yasar"
+      }
+    },
+    {
+      "hadithNumber": 1506,
+      "arabicNumber": 1506,
+      "book": 19,
+      "hadithInBook": 17,
+      "text": {
+        "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ مَنِيعٍ، حَدَّثَنَا هُشَيْمٌ، أَخْبَرَنَا حَجَّاجُ بْنُ أَرْطَاةَ، عَنْ جَبَلَةَ بْنِ سُحَيْمٍ، أَنَّ رَجُلاً، سَأَلَ ابْنَ عُمَرَ عَنِ الأُضْحِيَةِ، أَوَاجِبَةٌ هِيَ فَقَالَ ضَحَّى رَسُولُ اللَّهِ صلى الله عليه وسلم وَالْمُسْلِمُونَ ‏.‏ فَأَعَادَهَا عَلَيْهِ فَقَالَ أَتَعْقِلُ ضَحَّى رَسُولُ اللَّهِ صلى الله عليه وسلم وَالْمُسْلِمُونَ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏ وَالْعَمَلُ عَلَى هَذَا عِنْدَ أَهْلِ الْعِلْمِ أَنَّ الأُضْحِيَةَ لَيْسَتْ بِوَاجِبَةٍ وَلَكِنَّهَا سُنَّةٌ مِنْ سُنَنِ رَسُولِ اللَّهِ صلى الله عليه وسلم يُسْتَحَبُّ أَنْ يُعْمَلَ بِهَا وَهُوَ قَوْلُ سُفْيَانَ الثَّوْرِيِّ وَابْنِ الْمُبَارَكِ ‏.‏",
+        "translations": {
+          "en": "Narrated Jabalah bin Suhaim :That a man asked Ibn 'Umar about the Udhiyah, \"Is it obligatory?\" So he said: \"The Messenger of Allah (ﷺ) performed the Udhiyah as did the Muslims.\" He repeated the question. So he said: \"Do you understand ?\" The Messenger of Allah (ﷺ) slaughtered as did the Muslims",
+          "ur": "جبلہ بن سحیم سے روایت ہے کہ ایک آدمی نے ابن عمر رضی الله عنہما سے قربانی کے بارے میں پوچھا: کیا یہ واجب ہے؟ تو انہوں نے کہا: رسول اللہ صلی اللہ علیہ وسلم نے اور مسلمانوں نے قربانی کی ہے، اس آدمی نے پھر اپنا سوال دہرایا، انہوں نے کہا: سمجھتے نہیں ہو؟ رسول اللہ صلی اللہ علیہ وسلم نے اور مسلمانوں نے قربانی کی ہے ۱؎۔ امام ترمذی کہتے ہیں: ۱- یہ حدیث حسن صحیح ہے، ۲- اہل علم کا اسی پر عمل ہے کہ قربانی واجب نہیں ہے، بلکہ رسول اللہ صلی اللہ علیہ وسلم کی سنتوں میں سے ایک سنت ہے، اور اس پر عمل کرنا مستحب ہے، سفیان ثوری اور ابن مبارک کا یہی قول ہے۔",
+          "id": "Telah menceritakan kepada kami [Ahmad bin Mani'] berkata, telah menceritakan kepada kami [Husyaim] berkata, telah mengabarkan kepada kami [Hajjaj bin Arthah] dari [Jabalah bin Suhaim] berkata; \"ada seorang laki-laki bertanya kepada Ibnu Umar tentang hukum menyembelih hewan kurban, apakah hukumnya wajib? ' [Ibnu Umar] lalu menjawab, \"Rasulullah shallallahu 'alaihi wasallam dan kaum muslimin melakukannya.\" Laki-laki itu mengulangi pertanyaannya. Ibnu Umar lalu berkata, \"Tidakkah kamu bisa memahaminya, Rasulullah shallallahu 'alaihi wasallam dan kaum muslimin melakukannya!\" Abu Isa berkata, \"Hadits ini derajatnya hasan shahih. Hadits ini menjadi pedoman para ulama', yakni bahwa menyembelih hewan kurban tidaklah wajib, tetapi ia merupakan sunah dari sunah-sunah Rasulullah shallallahu 'alaihi wasallam yang dianjurkan untuk diamalkan. Dan ini adalah pendapat Sufyan Ats Tsauri dan Ibnul Mubarak",
+          "tr": "Cebele b. Suhaym (r.a.)’den rivâyete göre, Adamın biri İbn Ömer (r.a.)’e kurban kesmek vâcib midir? diye sordu. O da; Rasûlullah (s.a.v.) ve Müslümanlar kurban kestiler dedi. Adam aynı soruyu tekrar edince aklını kullanıp ne dediğimi, anlamıyor musun? Rasûlullah (s.a.v.), ondan sonrada Müslümanlar kurban kestiler. Diğer tahric: İbn Mâce, Dahaya Tirmizî: Bu hadis hasen sahihtir. İlim adamlarının uygulaması bu hadise göre olup; Kurban kesmek vâcib değildir. Lakin Rasûlullah (s.a.v.)’in sünnetlerinden bir sünnettir. Hoşlandığı ibadetlerden biridir. Sûfyân es Sevrî ve İbn’ül Mübarek’in görüşü de böyledir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Daif"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 19,
+        "hadith": 17
+      },
+      "narrator": {
+        "en": "Jabalah bin Suhaim"
+      }
+    },
+    {
+      "hadithNumber": 1507,
+      "arabicNumber": 1507,
+      "book": 19,
+      "hadithInBook": 18,
+      "text": {
+        "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ مَنِيعٍ، وَهَنَّادٌ، قَالاَ حَدَّثَنَا ابْنُ أَبِي زَائِدَةَ، عَنْ حَجَّاجِ بْنِ أَرْطَاةَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، قَالَ أَقَامَ رَسُولُ اللَّهِ صلى الله عليه وسلم بِالْمَدِينَةِ عَشْرَ سِنِينَ يُضَحِّي ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ ‏.‏",
+        "translations": {
+          "en": "Narrated Ibn 'Umar :\"The Messenger of Allah (ﷺ) stayed in Al-Madinah for ten years performing the Udhiyah",
+          "ur": "عبداللہ بن عمر رضی الله عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم مدینہ میں دس سال مقیم رہے اور آپ ( ہر سال ) قربانی کرتے رہے۔ امام ترمذی کہتے ہیں: یہ حدیث حسن ہے۔",
+          "id": "Telah menceritakan kepada kami [Ahmad bin Mani'] dan [Hannad] keduanya berkata; telah menceritakan kepada kami [Ibnu Abu Zaidah] dari [Hajjaj bin Arthah] dari [Nafi'] dari [Ibnu Umar] ia berkata, \"Rasulullah shallallahu 'alaihi wasallam tingal di Madinah selama sepuluh tahun, dan beliau selalu berkurban.\" Abu Isa berkata, \"Ini adalah hadits hasan",
+          "tr": "İbn Ömer (r.a.)’den rivâyete göre, şöyle demiştir: Rasûlullah (s.a.v.), Medîne’de on yıl kaldı ve her yıl kurban keserdi. Diğer tahric: Müsned: 4815 Tirmizî: Bu hadis hasendir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Daif"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 19,
+        "hadith": 18
+      },
+      "narrator": {
+        "en": "Ibn 'Umar"
+      }
+    },
+    {
+      "hadithNumber": 1508,
+      "arabicNumber": 1508,
+      "book": 19,
+      "hadithInBook": 19,
+      "text": {
+        "arabic": "حَدَّثَنَا عَلِيُّ بْنُ حُجْرٍ، أَخْبَرَنَا إِسْمَاعِيلُ بْنُ إِبْرَاهِيمَ، عَنْ دَاوُدَ بْنِ أَبِي هِنْدٍ، عَنِ الشَّعْبِيِّ، عَنِ الْبَرَاءِ بْنِ عَازِبٍ، قَالَ خَطَبَنَا رَسُولُ اللَّهِ صلى الله عليه وسلم فِي يَوْمِ نَحْرٍ فَقَالَ ‏\"‏ لاَ يَذْبَحَنَّ أَحَدُكُمْ حَتَّى يُصَلِّيَ ‏\"‏ ‏.‏ قَالَ فَقَامَ خَالِي فَقَالَ يَا رَسُولَ اللَّهِ هَذَا يَوْمٌ اللَّحْمُ فِيهِ مَكْرُوهٌ وَإِنِّي عَجَّلْتُ نُسُكِي لأُطْعِمَ أَهْلِي وَأَهْلَ دَارِي أَوْ جِيرَانِي ‏.‏ قَالَ ‏\"‏ فَأَعِدْ ذَبْحًا آخَرَ ‏\"‏ ‏.‏ فَقَالَ يَا رَسُولَ اللَّهِ عِنْدِي عَنَاقُ لَبَنٍ وَهِيَ خَيْرٌ مِنْ شَاتَىْ لَحْمٍ أَفَأَذْبَحُهَا قَالَ ‏\"‏ نَعَمْ وَهِيَ خَيْرُ نَسِيكَتَيْكَ وَلاَ تُجْزِئُ جَذَعَةٌ لأَحَدٍ بَعْدَكَ ‏\"‏ ‏.‏ قَالَ وَفِي الْبَابِ عَنْ جَابِرٍ وَجُنْدَبٍ وَأَنَسٍ وَعُوَيْمِرِ بْنِ أَشْقَرَ وَابْنِ عُمَرَ وَأَبِي زَيْدٍ الأَنْصَارِيِّ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏ وَالْعَمَلُ عَلَى هَذَا عِنْدَ أَكْثَرِ أَهْلِ الْعِلْمِ أَنْ لاَ يُضَحَّى بِالْمِصْرِ حَتَّى يُصَلِّيَ الإِمَامُ وَقَدْ رَخَّصَ قَوْمٌ مِنْ أَهْلِ الْعِلْمِ لأَهْلِ الْقُرَى فِي الذَّبْحِ إِذَا طَلَعَ الْفَجْرُ وَهُوَ قَوْلُ ابْنِ الْمُبَارَكِ ‏.‏ قَالَ أَبُو عِيسَى وَقَدْ أَجْمَعَ أَهْلُ الْعِلْمِ أَنْ لاَ يُجْزِئَ الْجَذَعُ مِنَ الْمَعْزِ وَقَالُوا إِنَّمَا يُجْزِئُ الْجَذَعُ مِنَ الضَّأْنِ ‏.‏",
+        "translations": {
+          "en": "Narrated Al-Bara' bin 'Azib :\"The Messenger of Allah (ﷺ) delivered a sermon to us on the Day of Nahr and he said: 'None of you should slaughter until he performs the Salat.\" He said: 'So my maternal uncle stood and said: ' O Messenger of Allah, this is the day in which meat is disliked, and I hastened my sacrifice to feed my family and the people of my dwellings - or - 'my neighbors.' He said: 'Repeat your slaughter with another.' He said: 'O Messenger of Allah (ﷺ) I have a she-kid that has better meat than my sheep, should I slaughter it?' He said: 'Yes, and it is better and it will suffice for you, but a Jadha' will not be accepted after you",
+          "ur": "براء بن عازب رضی الله عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے قربانی کے دن ہمیں خطبہ دیا، آپ نے خطبہ کے دوران فرمایا: ”جب تک نماز عید ادا نہ کر لے کوئی ہرگز قربانی نہ کرے“۔ براء کہتے ہیں: میرے ماموں کھڑے ہوئے ۱؎، اور انہوں نے عرض کیا: اللہ کے رسول! یہ ایسا دن ہے جس میں ( زیادہ ہونے کی وجہ سے ) گوشت قابل نفرت ہو جاتا ہے، اس لیے میں نے اپنی قربانی جلد کر دی تاکہ اپنے بال بچوں اور گھر والوں یا پڑوسیوں کو کھلا سکوں؟ آپ نے فرمایا: ”پھر دوسری قربانی کرو“، انہوں نے عرض کیا: اللہ کے رسول! میرے پاس دودھ پیتی پٹھیا ہے اور گوشت والی دو بکریوں سے بہتر ہے، کیا میں اس کو ذبح کر دوں؟ آپ نے فرمایا: ”ہاں! وہ تمہاری دونوں قربانیوں سے بہتر ہے، لیکن تمہارے بعد کسی کے لیے جذعہ ( بچے ) کی قربانی کافی نہ ہو گی“ ۲؎۔ اس باب میں جابر، جندب، انس، عویمر بن اشقر، ابن عمر اور ابوزید انصاری رضی اللہ عنہم سے بھی احادیث آئی ہیں۔ امام ترمذی کہتے ہیں: ۱- یہ حدیث حسن صحیح ہے، ۲- اکثر اہل علم کا اسی پر عمل ہے کہ جب تک امام نماز عید نہ ادا کر لے شہر میں قربانی نہ کی جائے، ۳- اہل علم کی ایک جماعت نے جب فجر طلوع ہو جائے تو گاؤں والوں کے لیے قربانی کی رخصت دی ہے، ابن مبارک کا بھی یہی قول ہے، ۴- اہل علم کا اجماع ہے کہ بکری کے جذع ( چھ ماہ کے بچے ) کی قربانی درست نہیں ہے، وہ کہتے ہیں البتہ بھیڑ کے جذع کی قربانی درست ہے ۳؎۔",
+          "id": "Telah menceritakan kepada kami [Ali bin Hujr] berkata, telah mengabarkan kepada kami [Isma'il bin Ibrahim] dari [Dawud bin Abu Hind] dari [Asy Sya'bi] dari [Al Bara bin Azib] ia berkata, \"Rasulullah shallallahu 'alaihi wasallam berkhuthbah di hadapan kami pada hari Nahr (Idul Adhha), beliau mengatakan: \"Jangan sekali-kali menyembelih hewan kurban hingga kalian selesai melaksanakan shalat.\" Al Bara` berkata, \"Pamanku lalu bangkit dan bertanya, \"Wahai Rasulullah, ini adalah hari di mana orang-orang bosan dengan daging. Untuk itu aku segerakan memotongnya untuk aku berikan kepada keluarga dan tetanggaku (karena mereka belum merasakan bosan).\" Beliau menjawab: \"Ulangilah sembelihanmu dengan yang lain.\" Pamanku berkata lagi, \"Wahai Rasulullah, aku mempunyai kambing muda betina, yang (dagingnya) lebih baik dari pada dua ekor tua kambing jantan. Apakah aku boleh menyembelihnya?\" beliau menjawab: \"Ya. itu adalah sebaik-baik kurbanmu. Dan setelahmu ini, anak kambing yang berumur enam sampai setahun tak lagi dianggap memadai (untuk berkurban).\" Ia berkata; \"Dalam bab ini ada hadits serupa dari Jabir dan Jundub, Uwaimir bin Asyqar, Ibnu Umar dan Abu Zaid Al Anshari.\" Abu Isa berkata, \"Hadits ini derajatnya hasan shahih, dan menjadi pedoman amal menurut sebagian ulama`, yakni bahwa bagi penduduk kota tidak boleh melaksanakan pemotongan hewan hingga imam selesai shalat. Sementara sebagaian ulama yang lain memberi keringanan bagi penduduk kampung untuk menyembelih kurban setelah terbitnya fajar. Dan Ini adalah pendapat Ibnul Mubarak.\", Abu Isa berkata; \"para ulama` telah bersepakat bahwa tidak sah berkurban dengan hewan yang berumur enam bulan hingga satu tahun dari jenis kambing, dan mereka berkata; berkurban dengan hewan yang berumur enam hingga satu tahun hanya sah dari jenis domba",
+          "tr": "Berâ b. Âzib (radıyallahü anh)’den rivâyete göre, şöyle demiştir: Rasûlüllah (sallallahü aleyhi ve sellem), Kurban bayramı günü bize bir hutbe yaptı ve şöyle buyurdu: “Sizden biriniz bayram namazını kılmadan kurban kesmesin.” Bunun üzerine dayım ayağa kalktı ve dedi ki: “Bugün etin bol olması sebebiyle insanlar etten bıkıp usanırlar. Ben aileme ev halkına ve komşularıma yedirmek için acele ederek kurbanımı kestim.” Rasûlüllah (sallallahü aleyhi ve sellem): “Yeniden Kurban kes!” Buyurdu. “Ey Allah’ın Rasûlü! Yanımda dişi bir süt oğlağım var iki koyuna bedeldir onu kurban olarak kesebilir miyim?” Rasûlü Ekrem şöyle buyurdu: “Evet o hayırlı ve senin için yeterlidir fakat senden sonra hiçbir kimse için yeterli olmayacaktır.” (Buhârî, Edâhî: 11; Müslim, Edâhî: 1) Bu konuda Câbir, Cündüp, Enes, Uveymir b. Eş’ara, İbn Ömer ve Ebû Zeyd’in il Ensarî’den de hadis rivâyet edilmiştir. Bu hadis hasen sahihtir. İlim adamlarının çoğunluğunun uygulaması bu hadise göredir. Yani şehirde imam kurban bayramı namazını kılmadan kurban kesilmez ilim adamlarının bir kısmı köy halkının fecrin doğuşundan sonra kurban kesmelerine izin vermektedirler. İbn’ül Mübarek’in görüşü böyledir. İlim adamları kurbanda koyunun altı aylığının caiz olup keçinin altı aylığının caiz olmayacağında ittifak etmişlerdir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 19,
+        "hadith": 19
+      },
+      "narrator": {
+        "en": "Al-Bara' bin 'Azib"
+      }
+    },
+    {
+      "hadithNumber": 1509,
+      "arabicNumber": 1509,
+      "book": 19,
+      "hadithInBook": 20,
+      "text": {
+        "arabic": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا اللَّيْثُ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ لاَ يَأْكُلُ أَحَدُكُمْ مِنْ لَحْمِ أُضْحِيَتِهِ فَوْقَ ثَلاَثَةِ أَيَّامٍ ‏\"‏ ‏.‏ قَالَ وَفِي الْبَابِ عَنْ عَائِشَةَ وَأَنَسٍ ‏.‏ قَالَ أَبُو عِيسَى حَدِيثُ ابْنِ عُمَرَ حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏ - وَإِنَّمَا كَانَ النَّهْىُ مِنَ النَّبِيِّ صلى الله عليه وسلم مُتَقَدِّمًا ثُمَّ رَخَّصَ بَعْدَ ذَلِكَ ‏.‏",
+        "translations": {
+          "en": "Narrated Ibn 'Umar:That the Prophet (ﷺ) said: \"None of you should eat from the meat of his sacrificial animal beyond three days",
+          "ur": "عبداللہ بن عمر رضی الله عنہما سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: ”تم میں سے کوئی تین دن سے زیادہ قربانی کا گوشت نہ کھائے“ ۱؎۔ اس باب میں عائشہ اور انس رضی الله عنہم سے بھی احادیث آئی ہیں۔ امام ترمذی کہتے ہیں: ۱- ابن عمر رضی الله عنہما کی حدیث حسن صحیح ہے، ۲- نبی اکرم صلی اللہ علیہ وسلم کی طرف سے یہ ممانعت پہلے تھی، اس کے بعد آپ نے اجازت دے دی۔",
+          "id": "Telah menceritakan kepada kami [Qutaibah] berkata, telah menceritakan kepada kami [Al Laits] dari [Nafi'] dari [Ibnu Umar] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: \"Janganlah salah seorang dari kalian makan daging sembelihannya lebih dari tiga hari.\" Ia berkata, \"Dalam ini ada hadits serupa dari 'Aisyah dan Anas.\" Abu Isa berkata, \"Hadits Ibnu Umar derajatnya hasan shahih. Dan hanyasanya pelarangan dari Nabi shallallahu 'alaihi wasallam tehadap yang demikian itu telah berlalu kemudian setelah itu beliau membolehkannya",
+          "tr": "İbn Ömer (r.a.)’den rivâyet edildiğine göre, Rasûlullah (s.a.v.), kurban kesenlerin sayısının az fakirlerin çok olduğu bir yılda; “Sizden biriniz kestiği kurbanın etinden üç günden fazla yemesin” buyurdular. Diğer tahric: Buhârî, Edahî; Müslim, Edâhî Tirmizî: Bu konuda Âişe ve Enes’den de hadis rivâyet edilmiştir. Tirmizî: İbn Ömer hadisi hasen sahihtir, buradaki yasaklama önceden olup, sonradan kurban etinin saklanabileceğine izin verilmiştir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Bukhari And Muslim"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 19,
+        "hadith": 20
+      },
+      "narrator": {
+        "en": "Ibn 'Umar"
+      }
+    },
+    {
+      "hadithNumber": 1510,
+      "arabicNumber": 1510,
+      "book": 19,
+      "hadithInBook": 21,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، وَمَحْمُودُ بْنُ غَيْلاَنَ، وَالْحَسَنُ بْنُ عَلِيٍّ الْخَلاَّلُ، وَغَيْرُ، وَاحِدٍ، قَالُوا أَخْبَرَنَا أَبُو عَاصِمٍ النَّبِيلُ، حَدَّثَنَا سُفْيَانُ الثَّوْرِيُّ، عَنْ عَلْقَمَةَ بْنِ مَرْثَدٍ، عَنْ سُلَيْمَانَ بْنِ بُرَيْدَةَ، عَنْ أَبِيهِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ كُنْتُ نَهَيْتُكُمْ عَنْ لُحُومِ الأَضَاحِي فَوْقَ ثَلاَثٍ لِيَتَّسِعَ ذُو الطَّوْلِ عَلَى مَنْ لاَ طَوْلَ لَهُ فَكُلُوا مَا بَدَا لَكُمْ وَأَطْعِمُوا وَادَّخِرُوا ‏\"‏ ‏.‏ قَالَ وَفِي الْبَابِ عَنِ ابْنِ مَسْعُودٍ وَعَائِشَةَ وَنُبَيْشَةَ وَأَبِي سَعِيدٍ وَقَتَادَةَ بْنِ النُّعْمَانِ وَأَنَسٍ وَأُمِّ سَلَمَةَ ‏.‏ قَالَ أَبُو عِيسَى حَدِيثُ بُرَيْدَةَ حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏ وَالْعَمَلُ عَلَى هَذَا عِنْدَ أَهْلِ الْعِلْمِ مِنْ أَصْحَابِ النَّبِيِّ صلى الله عليه وسلم وَغَيْرِهِمْ ‏.‏",
+        "translations": {
+          "en": "Narrated Sulaiman bin Buraidah:From his father that the Messenger of Allah (ﷺ) said: \"I used to prohibit you from (eating) the meat of Sacrifice beyond three days so that those who have the ability would give to those who do not have it. So (now) eat as you like, feed others, and save from it",
+          "ur": "بریدہ رضی الله عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”میں نے تم لوگوں کو تین دن سے زیادہ قربانی کا گوشت رکھنے سے منع کیا تھا تاکہ مالدار لوگ ان لوگوں کے لیے کشادگی کر دیں جنہیں قربانی کی طاقت نہیں ہے، سو اب جتنا چاہو خود کھاؤ دوسروں کو کھلاؤ اور ( گوشت ) جمع کر کے رکھو“ ۱؎۔ امام ترمذی کہتے ہیں: ۱- بریدہ کی حدیث حسن صحیح ہے، ۲- اہل علم صحابہ اور دوسرے لوگوں کا اسی پر عمل ہے، ۳- اس باب میں ابن مسعود، عائشہ، نبیشہ، ابوسعید، قتادہ بن نعمان، انس اور ام سلمہ رضی الله عنہم سے بھی احادیث آئی ہیں۔",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Basysyar] dan [Mahmud bin Ghailan] dan [Al Hasan bin Ali Al Khallal] dan masih banyak, mereka berkata; telah mengabarkan kepada kami [Abu Ashim An Nabil] berkata, telah menceritakan kepada kami [Sufyan Ats Tsauri] dari [Alqamah bin Martsad] dari [Sulaiman bin Buraidah] dari [Bapaknya] ia berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Aku pernah melarang kalian makan daging sembelihan lebih dari tiga hari, agar orang-orang yang berkurban bisa memberikan kepada orang yang tidak bisa berkurban. Maka, sekarang makanlah daging tersebut, kalian bisa berikan kepada orang lain atau kalian simpan.\" Ia berkata, \"Dalam bab ini ada hadits serupa dari Ibnu Mas'ud, 'Aisyah, Nubaisyah, Abu Sa'id, Qatadah bin An Nu'man, Anas dan Ummu Salamah.\" Abu Isa berkata, \"Hadits Buraidah derajatnya hasan shahih, dan menjadi pedoman amal menurut para ulama` dari kalangan sahabat Nabi Sallallahu 'alaihi wa sallam dan selain mereka",
+          "tr": "Süleyman b. Büreyde (r.a.)’in babasından rivâyete göre, şöyle demiştir: Rasûlullah (s.a.v.) şöyle buyurdu: “Üç günden fazla kurban etinden yemeyiniz diye size yasaklama getirmiştim kurban kesenlerle kesmeyenler et yemekte denk olsunlar diye… Ama bu andan itibaren kurban kesen sayısı arttığı için dilediğiniz kadar yeyin yedirin ve saklayın.” Diğer tahric: Buhârî, Edâhî; Müslim, Edâhî Tirmizî: Bu konuda İbn Mes’ûd, Âişe, Nübeyşe, Ebû Saîd, Katâde, İbn-ün Numân, Enes ve Ümmü Seleme’den de hadis rivâyet edilmiştir. Tirmizî: Büreyde hadisi hasen sahih olup Peygamber (s.a.v.)’in ashabından ve başkalarından ilim adamlarının uygulaması bu hadise göredir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Bukhari And Muslim"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 19,
+        "hadith": 21
+      },
+      "narrator": {
+        "en": "Sulaiman bin Buraidah"
+      }
+    },
+    {
+      "hadithNumber": 1511,
+      "arabicNumber": 1511,
+      "book": 19,
+      "hadithInBook": 22,
+      "text": {
+        "arabic": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا أَبُو الأَحْوَصِ، عَنْ أَبِي إِسْحَاقَ، عَنْ عَابِسِ بْنِ رَبِيعَةَ، قَالَ قُلْتُ لأُمِّ الْمُؤْمِنِينَ أَكَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَنْهَى عَنْ لُحُومِ الأَضَاحِي قَالَتْ لاَ وَلَكِنْ قَلَّ مَنْ كَانَ يُضَحِّي مِنَ النَّاسِ فَأَحَبَّ أَنْ يُطْعَمَ مَنْ لَمْ يَكُنْ يُضَحِّي وَلَقَدْ كُنَّا نَرْفَعُ الْكُرَاعَ فَنَأْكُلُهُ بَعْدَ عَشَرَةِ أَيَّامٍ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏ وَأُمُّ الْمُؤْمِنِينَ هِيَ عَائِشَةُ زَوْجُ النَّبِيِّ صلى الله عليه وسلم وَقَدْ رُوِيَ عَنْهَا هَذَا الْحَدِيثُ مِنْ غَيْرِ وَجْهٍ ‏.‏",
+        "translations": {
+          "en": "Narrated 'Abis bin Rabi'ah:\"I said to the Mother of the Believers: 'Did the Messenger of Allah (ﷺ) prohibit from the meat of the sacrifice?' She said: 'No, but only a few people could slaughter, so he liked that they feed those who did not slaughter. (Later) we would store a leg to eat after ten days",
+          "ur": "عابس بن ربیعہ کہتے ہیں کہ میں نے ام المؤمنین سے کہا: کیا رسول اللہ صلی اللہ علیہ وسلم قربانی کا گوشت رکھنے سے منع فرماتے تھے؟ وہ بولیں: نہیں، لیکن اس وقت بہت کم لوگ قربانی کرتے تھے، اس لیے آپ چاہتے تھے کہ جو لوگ قربانی نہیں کر سکے ہیں انہیں کھلایا جائے، ہم لوگ قربانی کے جانور کے پائے رکھ دیتے پھر ان کو دس دن بعد کھاتے تھے ۱؎۔ امام ترمذی کہتے ہیں: یہ حدیث حسن صحیح ہے، ام المؤمنین ( جن سے حدیث مذکور مروی ہے ) وہ نبی اکرم صلی اللہ علیہ وسلم کی بیوی عائشہ رضی الله عنہا ہیں، ان سے یہ حدیث کئی سندوں سے آئی ہے۔",
+          "id": "Telah menceritakan kepada kami [Qutaibah] berkata, telah menceritakan kepada kami [Abul Ahwash] dari [Abu Ishaq] dari [Abis bin Rabi'ah] ia berkata, \"Aku bertanya kepada [Ummul Mukminin], \"Apakah Rasulullah shallallahu 'alaihi wasallam melarang daging sembelihan (untuk dimakan lebih dari tiga hari)?\" ia menjawab, \"Tidak, hanya saja waktu itu sedikit sekali manusia yang berkurban, maka beliau berkeingian untuk memberi daging kepada orang-orang yang tidak berkurban. Dan sungguh, kami mendendeng kaki kambing dan memakannya setelah sepuluh hari.\" Abu Isa berkata, \"Hadits ini derajatnya hasan shahih. Dan Ummul Mukminin di sini maksudnya adalah 'Aisyah? isteri Nabi shallallahu 'alaihi wasallam. Hadits ini juga diriwayatkan dari 'Aisyah dengan jalur yang lain",
+          "tr": "Âbis b. Rebia’ (r.a.)’den rivâyete göre, şöyle demiştir: Müminlerin anası Âişe (r.anha)’ya: “Rasûlullah (s.a.v.), kurban etlerinin üç günden fazla yemeyi yasaklarmıydı? Diye sordum. Buyurdular ki: “Hayır, fakat insanlardan kurban kesen kimse az olduğu için kesmeyen kimselere yedirmek istediğinden dolayı böyle bir kısıtlama getirmişti. Bugün için biz, hayvanların paçalarını saklayıp on gün sonra yiyoruz.” Diğer tahric: Buhârî, Edahî; Müslim, Edahî Tirmizî: Bu hadis hasen sahihtir. Mü’minlerin anası Âişe’den başka şekillerde de bu hadis rivâyet edilmiştir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Daif"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Bukhari And Muslim"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 19,
+        "hadith": 22
+      },
+      "narrator": {
+        "en": "'Abis bin Rabi'ah"
+      }
+    },
+    {
+      "hadithNumber": 1512,
+      "arabicNumber": 1512,
+      "book": 19,
+      "hadithInBook": 23,
+      "text": {
+        "arabic": "حَدَّثَنَا مَحْمُودُ بْنُ غَيْلاَنَ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، عَنِ ابْنِ الْمُسَيَّبِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ لاَ فَرَعَ وَلاَ عَتِيرَةَ ‏\"‏ ‏.‏ وَالْفَرَعُ أَوَّلُ النِّتَاجِ كَانَ يُنْتَجُ لَهُمْ فَيَذْبَحُونَهُ ‏.‏ قَالَ وَفِي الْبَابِ عَنْ نُبَيْشَةَ وَمِخْنَفِ بْنِ سُلَيْمٍ وَأَبِي الْعُشَرَاءِ عَنْ أَبِيهِ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏ وَالْعَتِيرَةُ ذَبِيحَةٌ كَانُوا يَذْبَحُونَهَا فِي رَجَبٍ يُعَظِّمُونَ شَهْرَ رَجَبٍ لأَنَّهُ أَوَّلُ شَهْرٍ مِنْ أَشْهُرِ الْحُرُمِ وَأَشْهُرُ الْحُرُمِ رَجَبٌ وَذُو الْقَعْدَةِ وَذُو الْحِجَّةِ وَالْمُحَرَّمُ وَأَشْهُرُ الْحَجِّ شَوَّالٌ وَذُو الْقَعْدَةِ وَعَشْرٌ مِنْ ذِي الْحِجَّةِ كَذَلِكَ رُوِيَ عَنْ بَعْضِ أَصْحَابِ النَّبِيِّ صلى الله عليه وسلم وَغَيْرِهِمْ فِي أَشْهُرِ الْحَجِّ.‏",
+        "translations": {
+          "en": "Narrated Abu Hurairah:That the Messenger of Allah (ﷺ) said: \"There is no Fara' or 'Atirah.\" The Fara' is the first of the offspring that would be born to them, so they would slaughter it. The 'Atirah was an animal that they would slaughter during Rajab to honor the month of Rajab, since it was the first of the sacred months",
+          "ur": "ابوہریرہ رضی الله عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ” ( اسلام میں ) نہ «فرع» ہے نہ «عتيرة»،‏‏‏‏ «فرع» جانور کا وہ پہلا بچہ ہے جو کافروں کے یہاں پیدا ہوتا تو وہ اسے ( بتوں کے نام پر ) ذبح کر دیتے تھے“۔ امام ترمذی کہتے ہیں: ۱- یہ حدیث حسن صحیح ہے، ۲- اس باب میں نبیشہ، مخنف بن سلیم اور ابوالعشراء سے بھی احادیث آئی ہیں، ابوالعشراء اپنے والد سے روایت کرتے ہیں، ۳- «عتيرة» وہ ذبیحہ ہے جسے اہل مکہ رجب کے مہینہ میں اس ماہ کی تعظیم کے لیے ذبح کرتے تھے اس لیے کہ حرمت کے مہینوں میں رجب پہلا مہینہ ہے، اور حرمت کے مہینے رجب ذی قعدہ، ذی الحجہ، اور محرم ہیں، اور حج کے مہینے شوال، ذی قعدہ اور ذی الحجہ کے ( ابتدائی ) دس دن ہیں۔ حج کے مہینوں کے سلسلہ میں بعض صحابہ اور دوسرے لوگوں سے اسی طرح مروی ہے۔",
+          "id": "Telah menceritakan kepada kami [Mahmud bin Ghailan] berkata, telah menceritakan kepada kami [Abdurrazaq] berkata, telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari [Ibnul Musayyab] dari [Abu Hurairah] ia berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Tidak ada Fara' atau Atirah. Fara' adalah anak unta yang pertama kali dilahirkan, lalu mereka menyembelihnya.\" Ia berkata; \"Dalam bab ini ada hadits serupa dari Nubaisyah, Mikhnaf bin Sulaim dan Abul 'Usyara, dari bapaknya.\" Abu Isa berkata; \"Hadits ini derajatnya hasan shahih. sementara yang dimaksud dengan Atirah adalah sembelihan yang mereka sembelih pada bulan rajab untuk memuliakan bulan tersebut. Sebab rajab adalah bulan pertama dari bulan-bulan haram. Adapun bulan-bulan haram itu sendiri adalah rajab, dzul qa'dah, dzul hijjah dan muharram. Sedangkan bulan-bulan haji adalah syawal, dzul qa'dah, dan sepuluh hari pada bulan dzul hijjah. Demikianlah yang pernah diriwayatkan dari sebagian sahabat Nabi shallallahu 'alaihi wasallam dan selain mereka tentang bulan-bulan haji",
+          "tr": "Ebû Hüreyre (radıyallahü anh)’den rivâyete göre, şöyle demiştir: Rasûlüllah (sallallahü aleyhi ve sellem) şöyle buyurdu: “Feraa ve Atîre kurbanları diye bir kurban yoktur.” Feraa: Devenin ilk yavrusu olup doğduğunda putlar için kesilirdi. (Buhârî, Akika: 3-4; Müslim, Edâhî: 6) Bu konuda Nübeyşe, Mıhnef b. Süleym, Ebû’l Uşerâ ve babasından da hadis rivâyet edilmiştir. Bu hadis hasen sahihtir. Atîre: Haram ayların ilki olan Recep ayına hürmeten kesilen bir kurbandır. Haram aylar Recep, Zilkade, Zilhicce ve Muharrem’dir. Hac ayları ise Şevval, Zilkade ve Zilhicce’nin ilk on günüdür. Hac ayları konusunda da Rasûlüllah (sallallahü aleyhi ve sellem)’in ashabından ve başkalarından böylece rivâyet edilmiştir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 19,
+        "hadith": 23
+      },
+      "narrator": {
+        "en": "Abu Hurairah"
+      }
+    },
+    {
+      "hadithNumber": 1513,
+      "arabicNumber": 1513,
+      "book": 19,
+      "hadithInBook": 24,
+      "text": {
+        "arabic": "حَدَّثَنَا أَبُو سَلَمَةَ، يَحْيَى بْنُ خَلَفٍ الْبَصْرِيُّ حَدَّثَنَا بِشْرُ بْنُ الْمُفَضَّلِ، أَخْبَرَنَا عَبْدُ اللَّهِ بْنُ عُثْمَانَ بْنِ خُثَيْمٍ، عَنْ يُوسُفَ بْنِ مَاهَكَ، أَنَّهُمْ دَخَلُوا عَلَى حَفْصَةَ بِنْتِ عَبْدِ الرَّحْمَنِ فَسَأَلُوهَا عَنِ الْعَقِيقَةِ، فَأَخْبَرَتْهُمْ أَنَّ عَائِشَةَ أَخْبَرَتْهَا أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم أَمَرَهُمْ عَنِ الْغُلاَمِ شَاتَانِ مُكَافِئَتَانِ وَعَنِ الْجَارِيَةِ شَاةٌ ‏.‏ قَالَ وَفِي الْبَابِ عَنْ عَلِيٍّ وَأُمِّ كُرْزٍ وَبُرَيْدَةَ وَسَمُرَةَ وَأَبِي هُرَيْرَةَ وَعَبْدِ اللَّهِ بْنِ عَمْرٍو وَأَنَسٍ وَسَلْمَانَ بْنِ عَامِرٍ وَابْنِ عَبَّاسٍ ‏.‏ قَالَ أَبُو عِيسَى حَدِيثُ عَائِشَةَ حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏ وَحَفْصَةُ هِيَ بِنْتُ عَبْدِ الرَّحْمَنِ بْنِ أَبِي بَكْرٍ الصِّدِّيقِ ‏.‏",
+        "translations": {
+          "en": "Narrated Yusuf bin Mahak:They entered upon Hafsah bint 'Abdur-Rahman to ask her about the 'Aqiqah. She informed them that 'Aishah had informed her, that the Messenger of Allah (ﷺ) ordered them that for a boy, two sheep were sufficient, and for a girl one sheep",
+          "ur": "یوسف بن ماہک سے روایت ہے کہ لوگ حفصہ بنت عبدالرحمٰن کے پاس گئے اور ان سے عقیقہ کے بارے میں پوچھا تو انہوں نے بیان کیا کہ ( ان کی پھوپھی ) ام المؤمنین عائشہ رضی الله عنہا نے ان کو بتایا کہ رسول اللہ صلی اللہ علیہ وسلم نے صحابہ کو حکم دیا کہ وہ لڑکے کی طرف سے دو بکریاں ایک جیسی اور لڑکی کی طرف سے ایک بکری عقیقہ کریں ۱؎۔ امام ترمذی کہتے ہیں: ۱- عائشہ رضی الله عنہا کی حدیث حسن صحیح ہے، ۲- حفصہ، عبدالرحمٰن بن ابوبکر صدیق رضی الله عنہ کی بیٹی ہیں، ۳- اس باب میں علی، ام کرز، بریدہ، سمرہ، ابوہریرہ، عبداللہ بن عمرو، انس، سلمان بن عامر اور ابن عباس رضی الله عنہم سے بھی احادیث آئی ہیں۔",
+          "id": "Telah menceritakan kepada kami [Yahya bin Khalaf Al Bashri] berkata, telah menceritakan kepada kami [Bisyr Ibnul Mufadhdhal] berkata, telah mengabarkan kepada kami [Abdullah bin Utsman bin Khutsaim] dari [Yusuf bin Mahak] Bahwasanya mereka pernah masuk menemui [Hafshah binti 'Abdurrahman], mereka bertanya kepadanya tentang hukum akikah. Lalu Hafshah mengabarkan bahwa ['Aisyah] pernah memberitahunya, bahwa Rasulullah shallallahu 'alaihi wasallam memerintahkan para sahabat untuk menyembelih dua ekor kambing yang telah cukup umur untuk anak laki-laki dan satu ekor untuk anak perempuan.\" Ia berkata, \"Dalam bab ini ada hadits serupa dari Ali dan ummu Kurz, Buraidah, Samurah, Abu Hurairah, Abdullah bin Amru, Anas, Salman bin Amir dan Ibnu Abbas.\" Abu Isa berkata, \"Hadits 'Aisyah ini derajatnya hasan shahih, sementara maksud Hafshah dalam hadits tersebut adalah (Hafshah) binti 'Abdurrahman bin Abu Bakar Ash Shiddiq",
+          "tr": "Yusuf b. Mâhek (r.a.)’den rivâyet edilmiştir. Yusuf b. Mâhek ve arkadaşları Abdurrahman kızı Hafsa’nın yanına girip akıka kurbanı hakkında soru sormuşlardı. Hafsa onlara Âişe (r.anha)’nın kendisine şöyle haber verdiğini bildirdi: “Rasûlullah (s.a.v.) erkek çocuğun doğumunda iki, kız çocuğun doğumunda ise tek koyun kesmelerini emretti.” Diğer tahric: Buhârî, Akika; İbn Mâce, Zebaih Tirmizî: Bu konuda Ali, Ümmü Kürz, Büreyde, Semure, Ebû Hüreyre, Abdullah b. Amr, Enes, Selman b. Âmir ve İbn Abbâs’tan da hadis rivâyet edilmiştir. Tirmizî: Âişe hadisi hasen sahihtir. Hafsa, Ebû Bekir’in kızıdır"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 19,
+        "hadith": 24
+      },
+      "narrator": {
+        "en": "Yusuf bin Mahak"
+      }
+    },
+    {
+      "hadithNumber": 1514,
+      "arabicNumber": 1514,
+      "book": 19,
+      "hadithInBook": 25,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، وَعَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ، قَالاَ أَخْبَرَنَا سُفْيَانُ، عَنْ عَاصِمِ بْنِ عُبَيْدِ اللَّهِ، عَنْ عُبَيْدِ اللَّهِ بْنِ أَبِي رَافِعٍ، عَنْ أَبِيهِ، قَالَ رَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم أَذَّنَ فِي أُذُنِ الْحَسَنِ بْنِ عَلِيٍّ حِينَ وَلَدَتْهُ فَاطِمَةُ بِالصَّلاَةِ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏ وَالْعَمَلُ عِنْدَ أَهْلِ الْعِلْمِ فِي الْعَقِيقَةِ عَلَى مَا رُوِيَ عَنِ النَّبِيِّ صلى الله عليه وسلم مِنْ غَيْرِ وَجْهٍ عَنِ الْغُلاَمِ شَاتَانِ مُكَافِئَتَانِ وَعَنِ الْجَارِيَةِ شَاةٌ ‏.‏ - وَرُوِيَ عَنِ النَّبِيِّ صلى الله عليه وسلم أَيْضًا أَنَّهُ عَقَّ عَنِ الْحَسَنِ بِشَاةٍ وَقَدْ ذَهَبَ بَعْضُ أَهْلِ الْعِلْمِ إِلَى هَذَا الْحَدِيثِ ‏.‏",
+        "translations": {
+          "en": "Narrated 'Ubaidullah bin Abi Rafi':That his father said: \"I saw the Messenger of Allah (ﷺ) say the Adhan in the ear of Al-Hasan bin 'Ali - when he was born to Fatimah - the Adhan of Salat",
+          "ur": "ابورافع رضی الله عنہ کہتے ہیں کہ میں نے رسول اللہ صلی اللہ علیہ وسلم کو دیکھا کہ حسن بن علی جب فاطمۃالزہراء رضی الله عنہم سے پیدا ہوئے تو آپ صلی اللہ علیہ وسلم نے حسن کے کان میں نماز کی اذان کی طرح اذان دی۔ امام ترمذی کہتے ہیں: ۱- یہ حدیث حسن صحیح ہے، ۲- عقیقہ کے مسئلہ میں اس حدیث پر عمل ہے جو نبی اکرم صلی اللہ علیہ وسلم سے کئی سندوں سے آئی ہے کہ لڑکے کی طرف سے دو بکریاں ایک جیسی اور لڑکی کی طرف سے ایک بکری ذبح کی جائے، ۳- نبی اکرم صلی اللہ علیہ وسلم سے یہ بھی مروی ہے کہ آپ نے حسن کی طرف سے ایک بکری ذبح کی، بعض اہل علم کا مسلک اسی حدیث کے موافق ہے۔",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Basysyar] berkata, telah menceritakan kepada kami [Yahya bin Sa'id] dan ['Abdurrahman bin Mahdi] keduanya berkata; telah mengabarkan kepada kami [Sufyan] dari [Ashim bin Ubaidullah] dari [Ubaidullah bin Abu Rafi'] dari [Bapaknya] ia berkata, \"Aku melihat Rasulullah shallallahu 'alaihi wasallam mengumandangkan adzan -shalat- pada telinga Hasan bin Ali saat ia dilahirkan oleh Fatimah.\" Abu Isa berkata, \"Hadits ini derajatnya hasan shahih. Dan pelaksanaan dalam akikah adalah sebagaimana yang diriwayatkan dari Nabi shallallahu 'alaihi wasallam dari jalur yang banyak, yaitu dua ekor kambing yang telah cukup umur untuk laki-laki dan satu ekor untuk anak perempuan. Diriwayatkan pula dari Nabi shallallahu 'alaihi wasallam, Bahwasanya beliau pernah mengakikahi Al Hasan bin Ali dengan satu kambing. Dan sebagian ulama berpegangan dengan hadits ini",
+          "tr": "Ubeydullah b. ebî Rafi’ (r.a.)’in babasından rivâyete göre, şöyle demiştir: “Ali’nin oğlu Hasan, Fatıma’dan doğduğu zaman Rasûlullah (s.a.v.)’in onun kulağına namaz ezanı gibi ezan okuduğunu gördüm.” Diğer tahric: Ebû Dâvûd, Edep Tirmizî: Bu hadis hasen sahihtir. Rasûlullah (s.a.v.)’in akika konusunda erkek çocuğu için iki kız çocuğu için bir koyun kesilmesi rivâyeti değişik şekillerde de rivâyet edilmiştir. Aynı zamanda Rasûlullah (s.a.v.)’in torunu Hasan için tek koyun kurban ettiği de rivâyet edilmektedir. İlim adamlarının uygulaması bu hadise göredir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 19,
+        "hadith": 25
+      },
+      "narrator": {
+        "en": "'Ubaidullah bin Abi Rafi'"
+      }
+    },
+    {
+      "hadithNumber": 1515,
+      "arabicNumber": 1515,
+      "book": 19,
+      "hadithInBook": 26,
+      "text": {
+        "arabic": "",
+        "translations": {
+          "ur": "سلمان بن عامر ضبی رضی الله عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”لڑکے کی پیدائش پر عقیقہ لازم ہے، لہٰذا اس کی طرف سے خون بہاؤ ( جانور ذبح کرو ) اور اس سے گندگی دور کرو“۔ اس سند سے بھی سلمان بن عامر رضی الله عنہ سے اسی جیسی حدیث روایت مروی ہے۔ امام ترمذی کہتے ہیں: یہ حدیث حسن صحیح ہے۔",
+          "id": "Telah menceritakan kepada kami [Al Hasan bin Ali Al Khallal] berkata, telah menceritakan kepada kami [Abdurrazaq] berkata, telah mengabarkan kepada kami [Hisyam bin Hassan] dari [Hafshah binti Sirin] dari [Ar Rabab] dari [Salman bin Amir Adh Dhabbi] ia berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Pada anak laki-laki ada hak untuk akikah, maka tumpahkanlah darah (sembelihlah kambing untuknya) dan hilangkanlah kejelekan darinya.\" Telah menceritakan kepada kami [Al Hasan bin A'yan] berkata, telah menceritakan kepada kami [Abdurrazaq] berkata, telah mengabarkan kepada kami [Ibnu Uyainah] dari [Ashim bin Sulaiman Al Ahwal] dari [Hafshah binti Sirin] dari [Ar Rabab] dari [Salman bin Amir] dari Nabi shallallahu 'alaihi wasallam, seperti dalam hadits tersebut. Abu Isa berkata, \"Hadits ini derajatnya hasan shahih",
+          "tr": "Selman b. Âmir ed Dabbî (r.a.)’den rivâyete göre, şöyle demiştir: Rasûlullah (s.a.v.) şöyle buyurdu: “Erkek çocuğun doğumuyla beraber akika vardır o çocuk adına akika kurbanı kesiniz ve çocuktan her türlü eziyeti gideriniz.” Diğer tahric: Buhârî, Akika; Nesâî, Akika Hasan b. A’yen, Abdurrezzak vasıtasıyla İbn Uyeyne’den, Âsım b. Süleym b. Ahvel’den, Hafsa binti Sirîn’den, Rebab’tan, Selman b. Âmir’den bu hadisin bir benzerini bize haber vermiştir. Tirmizî: Bu hadis hasen sahihtir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 19,
+        "hadith": 26
+      }
+    },
+    {
+      "hadithNumber": 1516,
+      "arabicNumber": 1516,
+      "book": 19,
+      "hadithInBook": 28,
+      "text": {
+        "arabic": "حَدَّثَنَا الْحَسَنُ بْنُ عَلِيٍّ الْخَلاَّلُ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، عَنِ ابْنِ جُرَيْجٍ، أَخْبَرَنَا عُبَيْدُ اللَّهِ بْنُ أَبِي يَزِيدَ، عَنْ سِبَاعِ بْنِ ثَابِتٍ، أَنَّ مُحَمَّدَ بْنَ ثَابِتِ بْنِ سِبَاعٍ، أَخْبَرَهُ أَنَّ أُمَّ كُرْزٍ أَخْبَرَتْهُ أَنَّهَا، سَأَلَتْ رَسُولَ اللَّهِ صلى الله عليه وسلم عَنِ الْعَقِيقَةِ فَقَالَ ‏ \"‏ عَنِ الْغُلاَمِ شَاتَانِ وَعَنِ الْجَارِيَةِ وَاحِدَةٌ وَلاَ يَضُرُّكُمْ ذُكْرَانًا كُنَّ أَمْ إِنَاثًا ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏",
+        "translations": {
+          "en": "Narrated Umm Kurz:That she asked the Messenger of Allah (ﷺ) about the 'Aqiqah. He said: \"For the boy is two sheep, and for the girl is one, it will not harm you if they (i.e. the sheep) are male or female",
+          "ur": "ام کرز رضی الله عنہا کہتی ہیں کہ انہوں نے رسول اللہ صلی اللہ علیہ وسلم سے عقیقہ کے بارے میں پوچھا تو آپ نے فرمایا: ”لڑکے کی طرف سے دو بکریاں اور لڑکی کی طرف سے ایک بکری ذبح کی جائے گی، وہ جانور نر یا ہو مادہ اس میں تمہارے لیے کوئی حرج نہیں“۔ امام ترمذی کہتے ہیں: یہ حدیث حسن صحیح ہے۔",
+          "id": "Telah menceritakan kepada kami [Al Hasan bin Ali Al Khallal] berkata, telah menceritakan kepada kami [Abdurrazaq] dari [Ibnu Juraij] berkata, telah mengabarkan kepada kami [Ubaidullah bin Abu Yazid] dari [Siba' bin Tsabit] bahwa [Muhammad bin Tsabit bin Siba'] mengabarkan kepadanya bahwa [Ummu Kurz] mengabarkan kepadanya, bahwa ia pernah bertanya Rasulullah shallallahu 'alaihi wasallam tentang akikah. Rasulullah shallallahu 'alaihi wasallam lalu menjawab: \"Dua ekor kambing untuk anak laki-laki dan satu ekor untuk anak perempuan. Dan tidak ada masalah bagi kalian apakah kambing tersebut jantan atau betina.\" Abu Isa berkata, \"Hadits ini derajatnya hasan shahih",
+          "tr": "Ümmü Kürz (r.a.)’den haber verildiğine göre, Kendisi Rasûlullah (s.a.v.)’e akikadan sormuştu da Rasûlullah (s.a.v.) şu cevabı vermişti: “Erkek çocuğu için iki koyun, kız çocuğu için tek koyun, koyunların erkek ve dişi olması fark etmez.” Diğer tahric: Nesâî, Akika; Ebû Dâvûd, Dahaya"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 19,
+        "hadith": 28
+      },
+      "narrator": {
+        "en": "Umm Kurz"
+      }
+    },
+    {
+      "hadithNumber": 1517,
+      "arabicNumber": 1517,
+      "book": 19,
+      "hadithInBook": 29,
+      "text": {
+        "arabic": "حَدَّثَنَا سَلَمَةُ بْنُ شَبِيبٍ، حَدَّثَنَا أَبُو الْمُغِيرَةِ، عَنْ عُفَيْرِ بْنِ مَعْدَانَ، عَنْ سُلَيْمِ بْنِ عَامِرٍ، عَنْ أَبِي أُمَامَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ خَيْرُ الأُضْحِيَةِ الْكَبْشُ وَخَيْرُ الْكَفَنِ الْحُلَّةُ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ غَرِيبٌ ‏.‏ وَعُفَيْرُ بْنُ مَعْدَانَ يُضَعَّفُ فِي الْحَدِيثِ ‏.‏",
+        "translations": {
+          "en": "Narrated Abu Umamah:That the Messenger of Allah (ﷺ) said: \"The best of Udhiyah (sacrifice) is a ram, and the best (burial) shroud is the Hullah",
+          "ur": "ابوامامہ رضی الله عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”قربانی کے جانوروں میں سب سے بہتر مینڈھا ہے اور سب سے بہتر کفن «حلة» ( تہبند اور چادر ) ہے“۔ امام ترمذی کہتے ہیں: ۱- یہ حدیث غریب ہے، ۲- عفیر بن معدان حدیث کی روایت میں ضعیف ہیں۔",
+          "id": "Telah menceritakan kepada kami [Salamah bin Syu'aib] berkata, telah menceritakan kepada kami [Abul Mughirah] dari [Ufair bin Ma'dan] dari [Sulaim bin Amir] dari [Abu Umamah] ia berkata, 'Rasulullah shallallahu 'alaihi wasallam bersabda: \"Sebaik-baik hewan untuk kurban adalah kibasy, dan sebaik-baik kafan adalah hullah (sarung dan selendang).\" Abu Isa berkata, \"Ini adalah hadits gharib. Dan Ufair bin Ma'dan adalah orang yang dilemahkan dalam hal periwayatan hadits",
+          "tr": "Ebû Hureyre (r.a.)’den rivâyete göre, şöyle demiştir: “Kurbanlıkların en iyisi koç, kefenlerin en iyisi ise tüm vücudunu örtecek kadar uzun ve geniş olanıdır.” Diğer tahric: İbn Mâce, Dahaya Tirmizî: Bu hadis garibtir. Ufeyr b. Ma’dan’ın hadis konusunda zayıf olduğu kaydedilmiştir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Daif"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 19,
+        "hadith": 29
+      },
+      "narrator": {
+        "en": "Abu Umamah"
+      }
+    },
+    {
+      "hadithNumber": 1518,
+      "arabicNumber": 1518,
+      "book": 19,
+      "hadithInBook": 30,
+      "text": {
+        "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ مَنِيعٍ، حَدَّثَنَا رَوْحُ بْنُ عُبَادَةَ، حَدَّثَنَا ابْنُ عَوْنٍ، حَدَّثَنَا أَبُو رَمْلَةَ، عَنْ مِخْنَفِ بْنِ سُلَيْمٍ، قَالَ كُنَّا وُقُوفًا مَعَ النَّبِيِّ صلى الله عليه وسلم بِعَرَفَاتٍ فَسَمِعْتُهُ يَقُولُ ‏ \"‏ يَا أَيُّهَا النَّاسُ عَلَى كُلِّ أَهْلِ بَيْتٍ فِي كُلِّ عَامٍ أُضْحِيَةٌ وَعَتِيرَةٌ هَلْ تَدْرُونَ مَا الْعَتِيرَةُ هِيَ الَّتِي تُسَمُّونَهَا الرَّجَبِيَّةَ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ غَرِيبٌ وَلاَ نَعْرِفُ هَذَا الْحَدِيثَ إِلاَّ مِنْ هَذَا الْوَجْهِ مِنْ حَدِيثِ ابْنِ عَوْنٍ ‏.‏",
+        "translations": {
+          "en": "Narrated Mikhnaf bin Sulaim:\"We were standing with the Prophet (ﷺ) at 'Arafat when I heard him say: 'O you people! For every household each year is Udhiyah (sacrifice) and 'Atirah. Do you know what an 'Atirah is ? It is that which you call Ar-Rajabiyyah",
+          "ur": "مخنف بن سلیم رضی الله عنہ کہتے ہیں کہ ہم لوگ نبی اکرم صلی اللہ علیہ وسلم کے ساتھ میدان عرفات میں ٹھہرے ہوئے تھے، میں نے آپ کو فرماتے سنا: لوگو! ہر گھر والے پر ہر سال ایک قربانی اور «عتيرة» ہے، تم لوگ جانتے ہو «عتيرة» کیا ہے؟ «عتيرة» وہ ہے جسے تم لوگ «رجبية» کہتے ہو۔ امام ترمذی کہتے ہیں: یہ حدیث حسن غریب ہے، ہم اس کو ابن عون ہی کی سند سے جانتے ہیں۔",
+          "id": "Telah menceritakan kepada kami [Ahmad bin Mani'] berkata, telah menceritakan kepada kami [Rauh bin Ubadah] berkata, telah menceritakan kepada kami [Ibnu Aun] berkata, telah menceritakan kepada kami [Abu Ramlah] dari [Mikhnaf bin Sulaim] ia berkata, \"Kami bersama Nabi shallallahu 'alaihi wasallam wukuf di Arafah, lalu aku mendengar beliau bersabda: \"Wahai manusia, setiap pemilik rumah wajib memberikan hewan kurban dan Atirah pada setiap tahunnya. Tahukah kalian apa itu Atirah? Kalian biasa menamainya dengan rajabiyah (hewan yang dipotong untuk memuliakan bulan rajab).\" Abu Isa berkata; \"Ini adalah hadits gharib, kami tidak mengetahuinya kecuali dari jalur ini, yaitu dari hadits Ibnu Aun",
+          "tr": "Mıhnef b. Süleym (r.a.)’den rivâyete göre, şöyle demiştir: Arafat’ta, Vakfede iken Rasûlullah (s.a.v.)’in şöyle buyurduğunu işittim. Ey Müslümanlar gücü yeten her aile için her yıl bir kurban birde atîre kesilmelidir. Atîre nedir bilir misiniz? Recep ayında kesilmesi gereken kurbandır. Diğer tahric: Ebû Dâvûd, Dahaya; Nesâî, Fera ve Atîre Tirmizî: Bu hadis hasen garibtir. Bu hadisi sadece İbn Avn’ın rivâyetiyle bilmekteyiz"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 19,
+        "hadith": 30
+      },
+      "narrator": {
+        "en": "Mikhnaf bin Sulaim"
+      }
+    },
+    {
+      "hadithNumber": 1519,
+      "arabicNumber": 1519,
+      "book": 19,
+      "hadithInBook": 31,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى الْقُطَعِيُّ، حَدَّثَنَا عَبْدُ الأَعْلَى بْنُ عَبْدِ الأَعْلَى، عَنْ مُحَمَّدِ بْنِ إِسْحَاقَ، عَنْ عَبْدِ اللَّهِ بْنِ أَبِي بَكْرٍ، عَنْ مُحَمَّدِ بْنِ عَلِيِّ بْنِ الْحُسَيْنِ، عَنْ عَلِيِّ بْنِ أَبِي طَالِبٍ، قَالَ عَقَّ رَسُولُ اللَّهِ صلى الله عليه وسلم عَنِ الْحَسَنِ بِشَاةٍ وَقَالَ ‏ \"‏ يَا فَاطِمَةُ احْلِقِي رَأْسَهُ وَتَصَدَّقِي بِزِنَةِ شَعْرِهِ فِضَّةً ‏\"‏ ‏.‏ قَالَ فَوَزَنَتْهُ فَكَانَ وَزْنُهُ دِرْهَمًا أَوْ بَعْضَ دِرْهَمٍ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ غَرِيبٌ وَإِسْنَادُهُ لَيْسَ بِمُتَّصِلٍ ‏.‏ وَأَبُو جَعْفَرٍ مُحَمَّدُ بْنُ عَلِيِّ بْنِ الْحُسَيْنِ لَمْ يُدْرِكْ عَلِيَّ بْنَ أَبِي طَالِبٍ ‏.‏",
+        "translations": {
+          "en": "Narrated Muhammad bin 'Ali bin Al-Husain:That Ali bin Abi Talib said: \"The Messenger of Allah (ﷺ) had the 'Aqiqah for Al-Hasan with one sheep, and said: 'O Fatimah! Shave his head and give the weight of his hair in silver as charity.'\" He said: \"So I weighed it, and it was the weight of a Dirham or a bit of a Dirham",
+          "ur": "علی رضی الله عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے حسن کی طرف سے ایک بکری عقیقہ کیا، اور فرمایا: ”فاطمہ! اس کا سر مونڈ دو اور اس کے بال کے برابر چاندی صدقہ کرو“، فاطمہ رضی الله عنہا نے اس کے بال کو تولا تو اس کا وزن ایک درہم کے برابر یا اس سے کچھ کم ہوا ۱؎۔ امام ترمذی کہتے ہیں: ۱- یہ حدیث حسن غریب ہے، ۲- اس کی سند متصل نہیں ہے، اور راوی ابوجعفر الصادق محمد بن علی بن حسین نے علی بن ابی طالب کو نہیں پایا ہے۔",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Yahya Al Qutha'i] berkata, telah menceritakan kepada kami [Abdul A'la bin Abdul A'la] dari [Muhammad bin Ishaq] dari [Abdullah bin Abu Bakar] dari [Muhammd bin Ali bin Al Husain] dari [Ali bin Abu Thalib] ia berkata; \"Rasulullah shallallahu 'alaihi wasallam mengakikahi Hasan dengan seekor kambing.\" Kemudian beliau bersabda: \"Wahai Fatimah, cukurlah rambutnya lalu sedekahkanlah perak seberat rambutnya.\" Ali berkata, \"Aku kemudian menimbang rambutnya, dan beratnya sekadar uang satu dirham atau sebagiannya.\" Abu Isa berkata; \"Hadits ini derajatnya hasan gharib dan sanadnya tidak bersambung. Dan Abu Ja'far Muhammad bin Ali bin Al Husain belum pernah bertemu dengan Ali bin Abu Thalib",
+          "tr": "Ali b. ebî Tâlib (r.a.)’den rivâyete göre, şöyle demiştir: Rasûlullah (s.a.v.), Hasan’ın doğumu için bir koyun kurban etti ve dedi ki: Ey Fatıma çocuğun başını tıraş et ağırlığı kadar gümüş tasadduk et. Fatıma diyor ki: Saçı tarttım ağırlığı bir dirhem veya bir dirhemden biraz eksikti. Diğer tahric: Muvatta, Akika Tirmizî: Bu hadis hasen garibtir ve senedi de muttasıl değildir, çünkü; Ebû Cafer Muhammed b. Ali b. Huseyn, Ali b. ebî Tâlib’e ulaşmamıştır"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 19,
+        "hadith": 31
+      },
+      "narrator": {
+        "en": "Muhammad bin 'Ali bin Al-Husain"
+      }
+    },
+    {
+      "hadithNumber": 1520,
+      "arabicNumber": 1520,
+      "book": 19,
+      "hadithInBook": 32,
+      "text": {
+        "arabic": "حَدَّثَنَا الْحَسَنُ بْنُ عَلِيٍّ الْخَلاَّلُ، حَدَّثَنَا أَزْهَرُ بْنُ سَعْدٍ السَّمَّانُ، عَنِ ابْنِ عَوْنٍ، عَنْ مُحَمَّدِ بْنِ سِيرِينَ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ أَبِي بَكْرَةَ، عَنْ أَبِيهِ، أَنَّ النَّبِيَّ صلى الله عليه وسلم خَطَبَ ثُمَّ نَزَلَ فَدَعَا بِكَبْشَيْنِ فَذَبَحَهُمَا ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏",
+        "translations": {
+          "en": "Narrated 'Abdur-Rahman bin Abi Bakrah:From his father, that the Prophet (ﷺ) gave a Khutbah, then he descended and called for two rams and slaughtered them",
+          "ur": "ابوبکرہ رضی الله عنہ کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم نے خطبہ دیا، پھر ( منبر سے ) اترے پھر آپ نے دو مینڈھے منگائے اور ان کو ذبح کیا۔ امام ترمذی کہتے ہیں: یہ حدیث حسن صحیح ہے۔ ( یہ عید الاضحی کی نماز کے بعد کیا تھا، دیکھئیے اگلی حدیث ) ۔",
+          "id": "Telah menceritakan kepada kami [Al Hasan bin Ali Al Khallal] berkata, telah menceritakan kepada kami [Azhar bin Sa'd As Samman] dari [Ibnu Aun] dari [Muhammad bin Sirin] dari ['Abdurrahman bin Abu Bakrah] dari [Bapaknya] berkata, \"Nabi shallallahu 'alaihi wasallam pernah berkhutbah, lalu beliau turun dan minta didatangkan dua ekor kambing, setelah itu beliau menyembelih kambing tersebut.\" Abu Isa berkata, \"Hadits ini derajatnya hasan shahih",
+          "tr": "Ebû Bekre (r.a.)’in babasından rivâyete göre: “Rasûlullah (s.a.v.), hutbe okudu minberden indi iki koç getirtti ve onları kesti.” Diğer tahric: Nesâî, Dahaya; İbn Mâce, Dahaya Tirmizî: Bu hadis hasen sahihtir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 19,
+        "hadith": 32
+      },
+      "narrator": {
+        "en": "'Abdur-Rahman bin Abi Bakrah"
+      }
+    },
+    {
+      "hadithNumber": 1521,
+      "arabicNumber": 1521,
+      "book": 19,
+      "hadithInBook": 33,
+      "text": {
+        "arabic": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا يَعْقُوبُ بْنُ عَبْدِ الرَّحْمَنِ، عَنْ عَمْرِو بْنِ أَبِي عَمْرٍو، عَنِ الْمُطَّلِبِ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، قَالَ شَهِدْتُ مَعَ النَّبِيِّ صلى الله عليه وسلم الأَضْحَى بِالْمُصَلَّى فَلَمَّا قَضَى خُطْبَتَهُ نَزَلَ عَنْ مِنْبَرِهِ فَأُتِيَ بِكَبْشٍ فَذَبَحَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم بِيَدِهِ وَقَالَ ‏ \"‏ بِسْمِ اللَّهِ وَاللَّهُ أَكْبَرُ هَذَا عَنِّي وَعَمَّنْ لَمْ يُضَحِّ مِنْ أُمَّتِي ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ غَرِيبٌ مِنْ هَذَا الْوَجْهِ ‏.‏ وَالْعَمَلُ عَلَى هَذَا عِنْدَ أَهْلِ الْعِلْمِ مِنْ أَصْحَابِ النَّبِيِّ صلى الله عليه وسلم وَغَيْرِهِمْ أَنْ يَقُولَ الرَّجُلُ إِذَا ذَبَحَ بِسْمِ اللَّهِ وَاللَّهُ أَكْبَرُ وَهُوَ قَوْلُ ابْنِ الْمُبَارَكِ ‏.‏ وَالْمُطَّلِبُ بْنُ عَبْدِ اللَّهِ بْنِ حَنْطَبٍ يُقَالُ إِنَّهُ لَمْ يَسْمَعْ مِنْ جَابِرٍ ‏.‏",
+        "translations": {
+          "en": "Narrated Jabir bin 'Abdullah:\"I attended the Eid Al-Adha' with the Prophet (ﷺ) at the Musalla. When he finished his Khutbah, he descended from his Minbar and was given a male sheep. The Messenger of Allah (ﷺ) slaughtered it with his hand and said: 'Bismillah, Wa Allahu Akbar, this from me and whoever does not slaughter from my Ummah",
+          "ur": "جابر بن عبداللہ رضی الله عنہ کہتے ہیں کہ میں نبی اکرم صلی اللہ علیہ وسلم کے ساتھ عید الاضحی کے دن عید گاہ گیا، جب آپ خطبہ ختم کر چکے تو منبر سے نیچے اترے، پھر ایک مینڈھا لایا گیا تو آپ صلی اللہ علیہ وسلم نے اس کو اپنے ہاتھ سے ذبح کیا، اور ( ذبح کرتے وقت ) یہ کلمات کہے: «بسم الله والله أكبر، هذا عني وعمن لم يضح من أمتي» ۱؎۔ امام ترمذی کہتے ہیں: ۱- یہ حدیث اس سند سے غریب ہے، ۲- اہل علم صحابہ اور دیگر لوگوں کا اسی پر عمل ہے کہ جانور ذبح کرتے وقت آدمی یہ کہے «بسم الله والله أكبر» ابن مبارک کا بھی یہی قول ہے، کہا جاتا ہے، ۳- راوی مطلب بن عبداللہ بن حنطب کا سماع جابر سے ثابت نہیں ہے۔",
+          "id": "Telah menceritakan kepada kami [Qutaibah] berkata, telah menceritakan kepada kami [Ya'qub bin 'Abdurrahman] dari [Amru bin Abu Amru] dari [Al Muthallib] dari [Jabir bin Abdullah] ia berkata; \"Aku pernah mengikuti shalat 'idul adhha bersama Nabi shallallahu 'alaihi wasallam di lapangan, maka ketika selesai berkhutbah beliau turun dari mimbar. Setelah itu didatangkan kepada beliau seekor kambing, lalu Rasulullah shallallahu 'alaihi wasallam menyembelih kambing tersebut dengan tangannya. Dan beliau mengucapkan: \"BISMILLLAAHI WALLAAHU AKBAR (Dengan nama Allah, Allah Maha Besar), ini dariku dan dari umatku yang belum berkurban.\" Abu Isa berkata, \"Hadits ini derajatnya gharib dari jalur ini. Dan hadits ini menjadi pedoman amal menurut para ulama' dari kalangan sahabat Nabi Sallallahu 'Alaihi Wasallam dan selain mereka, Yakni, hendaklah seorang laki-laki ketika menyembelih (kurban) ia mengucapkan; \"BISMILLLAAHI WALLAAHU AKBAR\" (Dengan nama Allah, Allah Maha Besar) dan ini adalah pendapat Ibnul Mubarak. Dan? dikatakan bahwa Al Muthallib bin Abdullah bin Hanthab belum pernah mendengar dari Jabir",
+          "tr": "Câbir b. Abdullah (r.a.)’den rivâyete göre, şöyle demiştir: “Rasûlullah (s.a.v.) ile beraber namazgahta kurban bayramı namazında bulundum hutbesini bitirince minberden indi bir koç getirildi, onu kendi eliyle keserek şöyle buyurdu: Bismillah Allahûekber bu kurban benim ve ümmetimden kurban kesmeyenler içindir.” Diğer tahric: Ebû Dâvûd, Dahaya; Nesâî, Dahaya Tirmizî: Bu hadis bu şekliyle garibtir. Rasûlullah (s.a.v.)’in ashabından ve başkalarından ilim adamlarının uygulaması bu hadise göredir. Yani kişi kurban keserken “Bismillah Allahûekber” demelidir. İbn’ül Mübarek bu görüştedir. Muttalib b. Abdullah b. Hantab’ın, Câbir’den hadis işitmediği söylenmektedir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 19,
+        "hadith": 33
+      },
+      "narrator": {
+        "en": "Jabir bin 'Abdullah"
+      }
+    },
+    {
+      "hadithNumber": 1522,
+      "arabicNumber": 1522,
+      "book": 19,
+      "hadithInBook": 34,
+      "text": {
+        "arabic": "",
+        "translations": {
+          "ur": "سمرہ رضی الله عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”ہر بچہ عقیقہ کے بدلے گروی رکھا ہوا ہے ۱؎، پیدائش کے ساتویں دن اس کا عقیقہ کیا جائے، اس کا نام رکھا جائے اور اس کے سر کے بال منڈائے جائیں“۔",
+          "id": "Telah menceritakan kepada kami [Ali bin Hujr] berkata, telah mengabarkan kepada kami [Ali bin Mushir] dari [Isma'il bin Muslim] dari [Al Hasan] dari [Samurah] ia berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Seorang anak laki-laki itu tergadai dengan akikahnya yang disembelih pada hari ketujuh, pada hari itu ia diberi nama dan dicukur rambutnya.\" Telah menceritakan kepada kami [Al Hasan bin Ali Al Khallal] berkata, telah menceritakan kepada kami [Yazid bin Harun] berkata, telah mengabarkan kepada kami [Sa'id bin Abu Arubah] dari [Qatadah] dari [Al Hasan] dari [Samurah bin Jundub] dari Nabi shallallahu 'alaihi wasallam seperti dalam hadits tersebut.\" Abu Isa berkata; \"Hadits ini derajatnya hasan shahih. Dan menjadi pedoman amal menurut para ulama`, mereka menyukai jika akikah untuk anak itu disembelih pada hari ke tujuh, jika belum tersedia pada hari ke tujuh maka pada hari ke empat belas, dan jika belum tersedia maka pada hari ke dua puluh satu. Mereka mengatakan; \"kambing yang sah untuk disembelih dalam akikah adalah kambing yang memenuhi kreteria (syarat) kurban"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 19,
+        "hadith": 34
+      }
+    },
+    {
+      "hadithNumber": 1523,
+      "arabicNumber": 1523,
+      "book": 19,
+      "hadithInBook": 36,
+      "text": {
+        "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ الْحَكَمِ الْبَصْرِيُّ، حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، عَنْ شُعْبَةَ، عَنْ مَالِكِ بْنِ أَنَسٍ، عَنْ عَمْرٍو، أَوْ عُمَرَ بْنِ مُسْلِمٍ عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، عَنْ أُمِّ سَلَمَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ مَنْ رَأَى هِلاَلَ ذِي الْحِجَّةِ وَأَرَادَ أَنْ يُضَحِّيَ فَلاَ يَأْخُذَنَّ مِنْ شَعْرِهِ وَلاَ مِنْ أَظْفَارِهِ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏ وَالصَّحِيحُ هُوَ عَمْرُو بْنُ مُسْلِمٍ قَدْ رَوَى عَنْهُ مُحَمَّدُ بْنُ عَمْرِو بْنِ عَلْقَمَةَ وَغَيْرُ وَاحِدٍ ‏.‏ وَقَدْ رُوِيَ هَذَا الْحَدِيثُ عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ عَنْ أُمِّ سَلَمَةَ عَنِ النَّبِيِّ صلى الله عليه وسلم مِنْ غَيْرِ هَذَا الْوَجْهِ نَحْوَ هَذَا ‏.‏ وَهُوَ قَوْلُ بَعْضِ أَهْلِ الْعِلْمِ وَبِهِ كَانَ يَقُولُ سَعِيدُ بْنُ الْمُسَيَّبِ وَإِلَى هَذَا الْحَدِيثِ ذَهَبَ أَحْمَدُ وَإِسْحَاقُ ‏.‏ وَرَخَّصَ بَعْضُ أَهْلِ الْعِلْمِ فِي ذَلِكَ فَقَالُوا لاَ بَأْسَ أَنْ يَأْخُذَ مِنْ شَعْرِهِ وَأَظْفَارِهِ ‏.‏ وَهُوَ قَوْلُ الشَّافِعِيِّ وَاحْتَجَّ بِحَدِيثِ عَائِشَةَ أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ يَبْعَثُ بِالْهَدْىِ مِنَ الْمَدِينَةِ فَلاَ يَجْتَنِبُ شَيْئًا مِمَّا يَجْتَنِبُ مِنْهُ الْمُحْرِمُ ‏.‏",
+        "translations": {
+          "en": "Narrated Umm Salamah:That the Prophet (ﷺ) said: \"Whoever sees the crescent of Dhul-Hijjah, and wants to slaughter a sacrifice he should not take from his hair nor from his nails",
+          "ur": "ام المؤمنین ام سلمہ رضی الله عنہا سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: ”جو ماہ ذی الحجہ کا چاند دیکھے اور قربانی کرنا چاہتا ہو وہ ( جب تک قربانی نہ کر لے ) اپنا بال اور ناخن نہ کاٹے“۔ امام ترمذی کہتے ہیں: ۱- یہ حدیث حسن صحیح ہے، ۲- ( عمرو اور عمر میں کے بارے میں ) صحیح عمرو بن مسلم ہے، ان سے محمد بن عمرو بن علقمہ اور کئی لوگوں نے حدیث روایت کی ہے، دوسری سند سے اسی جیسی حدیث سعید بن مسیب سے آئی ہے، سعید بن مسیب ابوسلمہ سے اور ابوسلمہ نبی اکرم صلی اللہ علیہ وسلم سے روایت کرتے ہیں، ۳- بعض اہل علم کا یہی قول ہے، سعید بن مسیب بھی اسی کے قائل ہیں، احمد اور اسحاق بن راہویہ کا مسلک بھی اسی حدیث کے موافق ہے، ۴- بعض اہل علم نے اس سلسلے میں رخصت دی ہے، وہ لوگ کہتے ہیں: بال اور ناخن کاٹنے میں کوئی حرج نہیں ہے، شافعی کا یہی قول ہے، وہ عائشہ رضی الله عنہا کی اس حدیث سے استدلال کرتے ہیں، نبی اکرم صلی اللہ علیہ وسلم قربانی کا جانور مدینہ روانہ کرتے تھے اور محرم جن چیزوں سے اجتناب کرتا ہے، آپ ان میں سے کسی چیز سے بھی اجتناب نہیں کرتے تھے ۱؎۔",
+          "id": "Telah menceritakan kepada kami [Ahmad bin Al Hakam Al Bashri] berkata, telah menceritakan kepada kami [Muhammad bin Ja'far] dari [Syu'bah] dari [Malik bin Anas] dari [Amru atau Umar bin Muslim] dari [Sa'id Ibnul Al Musayyab] dari [Ummu Salamah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: \"Barangsiapa melihat hilal bulan dzul hijjah dan ingin berkurban, maka janganlah ia mengambil rambut atau kukunya.\" Abu Isa berkata; \"Hadits ini derajatnya hasan shahih. Yang benar, dia adalah Amru bin Muslim, Muhammad bin Amru bin Alqamah adalah orang yang meriwayatkan hadits darinya dan masih banyak lagi. Hadits ini juga diriwayatkan dari Sa'id Ibnul Musayyab, dari Ummu Salamah, dari Nabi shallallahu 'alaihi wasallam dengan jalur lain, seperti hadits tersebut. Hadits ini menjadi pendapat sebagian ulama` di antaranya Sa'id bin Al Musayyab, Ahmad dan Ishaq. Namun ada sebagian ulama` lain yang memberikan keringan dalam persoalan tersebut, mereka mengatakan, \"Tidak apa-apa mengambil bulu atau kukunya, dan ini adalah pendapat As Syafi'i. Ia berhujah dengan hadits 'Aisyah bahwa Nabi shallallahu 'alaihi wasallam pernah mengirim hewan kurban dari Madinah. Dan beliau tidak menghindari perbuatan yang dihindari oleh orang yang sedang ihram"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 19,
+        "hadith": 36
+      },
+      "narrator": {
+        "en": "Umm Salamah"
+      }
+    }
+  ],
+  "metadata": {
+    "averageLength": "long",
+    "size": "28KB"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "collection": "majah",
+  "name": {
+    "arabic": "سنن ابن ماجه",
+    "transliteration": "Sunan Ibn Majah",
+    "translation": "The Sunan of Ibn Majah"
+  },
+  "compiler": {
+    "arabic": "محمد بن يزيد ابن ماجه",
+    "transliteration": "Muhammad ibn Yazid Ibn Majah",
+    "dates": "209-273 AH"
+  },
+  "authenticity": "mixed",
+  "totalBooks": 38,
+  "totalHadith": 4343,
+  "metadata": {
+    "extractedFrom": "ara-ibnmajah",
+    "sourceFormat": "hadith-api-1",
+    "extractionDate": "2025-09-19T23:58:45.490Z",
+    "description": "Collection completing the six major hadith books",
+    "priority": 2
+  }
+}

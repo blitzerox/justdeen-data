@@ -1,0 +1,167 @@
+{
+  "collection": "bukhari",
+  "book": 31,
+  "name": {
+    "arabic": "كتاب Praying at Night in Ramadaan (Taraweeh)",
+    "transliteration": "praying at night in ramadaan (taraweeh)",
+    "translation": "Praying at Night in Ramadaan (Taraweeh)"
+  },
+  "totalHadith": 6,
+  "hadithNumberRange": {
+    "first": 2008,
+    "last": 2013
+  },
+  "content": [
+    {
+      "hadithNumber": 2008,
+      "arabicNumber": 2008,
+      "book": 31,
+      "hadithInBook": 1,
+      "text": {
+        "arabic": "حَدَّثَنَا يَحْيَى بْنُ بُكَيْرٍ، حَدَّثَنَا اللَّيْثُ، عَنْ عُقَيْلٍ، عَنِ ابْنِ شِهَابٍ، قَالَ أَخْبَرَنِي أَبُو سَلَمَةَ، أَنَّ أَبَا هُرَيْرَةَ ـ رضى الله عنه ـ قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ لِرَمَضَانَ ‏ \"‏ مَنْ قَامَهُ إِيمَانًا وَاحْتِسَابًا غُفِرَ لَهُ مَا تَقَدَّمَ مِنْ ذَنْبِهِ ‏\"‏‏.‏",
+        "translations": {
+          "en": "Narrated Abu Huraira:I heard Allah's Messenger (ﷺ) saying regarding Ramadan, \"Whoever prayed at night in it (the month of Ramadan) out of sincere Faith and hoping for a reward from Allah, then all his previous sins will be forgiven",
+          "ur": "ہم سے یحییٰ بن بکیر نے بیان کیا، کہا کہ ہم سے لیث بن سعد نے بیان کیا، ان سے عقیل نے، ان سے ابن شہاب نے بیان کیا، کہ مجھے ابوسلمہ نے خبر دی، ان سے ابوہریرہ رضی اللہ عنہ نے بیان کیا کہ میں نے رسول اللہ صلی اللہ علیہ وسلم سے سنا، آپ صلی اللہ علیہ وسلم رمضان کے فضائل بیان فرما رہے تھے کہ جو شخص بھی اس میں ایمان اور نیت اجر و ثواب کے ساتھ ( رات میں ) نماز کے لیے کھڑا ہو اس کے پچھلے تمام گناہ معاف کر دیئے جائیں گے۔",
+          "fr": "Rapporté par Abu Huraira : J’ai entendu le Messager d’Allah (ﷺ) dire à propos du Ramadan : « Celui qui prie la nuit pendant le mois de Ramadan avec une foi sincère et en espérant une récompense d’Allah, tous ses péchés passés lui seront pardonnés. »",
+          "id": "Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami [Al Laits] dari ['Uqail] dari [Ibnu Syihab] berkata, telah mengabarkan kepada saya [Abu Salamah] bahwa [Abu Hurairah radliallahu 'anhu] berkata, Rasulullah shallallahu 'alaihi wasallam berkata tentang bulan Ramadhan: \"Barangsiapa yang menegakkannya karena iman kepada Allah dan mengharapkan pahala (hanya dariNya) maka akan diampuni dosa-dosa yang telah dikerjakannya",
+          "tr": "Ebu Hureyre r.a. Nebi Sallallahu Aleyhi ve Sellem'in Ramazan hakkında şöyle dediğini söylemiştir: \"Kim (Allah'ın vaadine) inanarak ve sevabını Allah'tan umarak onda (Ramazan gecelerinde) namaz kılarsa geçmiş günahları bağışlanır"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 31,
+        "hadith": 1
+      },
+      "narrator": {
+        "en": "Abu Huraira"
+      }
+    },
+    {
+      "hadithNumber": 2009,
+      "arabicNumber": 2009,
+      "book": 31,
+      "hadithInBook": 2,
+      "text": {
+        "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، أَخْبَرَنَا مَالِكٌ، عَنِ ابْنِ شِهَابٍ، عَنْ حُمَيْدِ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ مَنْ قَامَ رَمَضَانَ إِيمَانًا وَاحْتِسَابًا غُفِرَ لَهُ مَا تَقَدَّمَ مِنْ ذَنْبِهِ ‏\"‏‏.‏ قَالَ ابْنُ شِهَابٍ فَتُوُفِّيَ رَسُولُ اللَّهِ صلى الله عليه وسلم وَالأَمْرُ عَلَى ذَلِكَ، ثُمَّ كَانَ الأَمْرُ عَلَى ذَلِكَ فِي خِلاَفَةِ أَبِي بَكْرٍ وَصَدْرًا مِنْ خِلاَفَةِ عُمَرَ ـ رضى الله عنهما.‏",
+        "translations": {
+          "en": "Narrated Abu Huraira: Allah's Messenger (ﷺ) said, \"Whoever prayed at night the whole month of Ramadan out of sincere Faith and hoping for a reward from Allah, then all his previous sins will be forgiven.\" Ibn Shihab (a sub-narrator) said, \"Allah's Messenger (ﷺ) died and the people continued observing that (i.e. Nawafil offered individually, not in congregation), and it remained as it was during the Caliphate of Abu Bakr and in the early days of 'Umar's Caliphate",
+          "ur": "ہم سے عبداللہ بن یوسف تنیسی نے بیان کیا، کہا کہ ہم کو امام مالک رحمہ اللہ نے خبر دی، انہیں ابن شہاب نے، انہیں حمید بن عبدالرحمٰن نے اور انہیں ابوہریرہ رضی اللہ عنہ نے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا جس نے رمضان کی راتوں میں ( بیدار رہ کر ) نماز تراویح پڑھی، ایمان اور ثواب کی نیت کے ساتھ، اس کے اگلے تمام گناہ معاف ہو جائیں گے۔ ابن شہاب نے بیان کیا کہ پھر نبی کریم صلی اللہ علیہ وسلم کی وفات ہو گئی اور لوگوں کا یہی حال رہا ( الگ الگ اکیلے اور جماعتوں سے تراویح پڑھتے تھے ) اس کے بعد ابوبکر رضی اللہ عنہ کے دور خلافت میں اور عمر رضی اللہ عنہ کے ابتدائی دور خلافت میں بھی ایسا ہی رہا۔",
+          "fr": "Rapporté par Abu Huraira : Le Messager d’Allah (ﷺ) a dit : « Celui qui prie la nuit pendant tout le mois de Ramadan avec une foi sincère et en espérant une récompense d’Allah, tous ses péchés passés lui seront pardonnés. » Ibn Shihab (un des narrateurs) a dit : « Le Messager d’Allah (ﷺ) est mort et les gens ont continué à faire cela (c’est-à-dire les prières surérogatoires individuellement, pas en groupe), et cela est resté ainsi pendant le califat d’Abu Bakr et au début du califat de ‘Umar. »",
+          "id": "Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Ibnu Syihab] dari [Humaid bin 'Abdurrahman] dari [Abu Hurairah radliallahu 'anhu] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: \"Barangsiapa yang menegakkan Ramadhan karena iman kepada Allah dan mengharapkan pahala (hanya dariNya) maka akan diampuni dosa-dosa yang telah dikerjakannya\". Ibnu Syihab berkata; Kemudian Rasulullah shallallahu 'alaihi wasallam wafat, namun orang-orang terus melestarikan tradisi menegakkan malam Ramadhan (secara bersama, jamaah), keadaan tersebut terus berlanjut hingga zaman kekhalifahan Abu Bakar dan awal-awal kekhilafahan 'Umar bin Al Khaththob radliallahu 'anhu",
+          "tr": "Ebu Hureyre r.a. Nebi Sallallahu Aleyhi ve Sellem'in şöyle dediğini söylemiştir: \"Kim (Allah'ın vaadine) inanarak ve sevabını Allah'tan umarak Ramazan gecelerini ihya ederse geçmiş günahları affedilir\", İbn Şihab şöyle demiştir: insanlar bu halde iken Resulullah Sallallahu Aleyhi ve Sellem vefat etti. Hz. Ebu Bekir dönemi ile Hz. Ömer döneminin ilk yıllarında da durum bu şekilde devam etti"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 31,
+        "hadith": 2
+      },
+      "narrator": {
+        "en": "Abu Huraira"
+      }
+    },
+    {
+      "hadithNumber": 2010,
+      "arabicNumber": 2010,
+      "book": 31,
+      "hadithInBook": 3,
+      "text": {
+        "arabic": "وَعَنِ ابْنِ شِهَابٍ، عَنْ عُرْوَةَ بْنِ الزُّبَيْرِ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ عَبْدٍ الْقَارِيِّ، أَنَّهُ قَالَ خَرَجْتُ مَعَ عُمَرَ بْنِ الْخَطَّابِ ـ رضى الله عنه ـ لَيْلَةً فِي رَمَضَانَ، إِلَى الْمَسْجِدِ، فَإِذَا النَّاسُ أَوْزَاعٌ مُتَفَرِّقُونَ يُصَلِّي الرَّجُلُ لِنَفْسِهِ، وَيُصَلِّي الرَّجُلُ فَيُصَلِّي بِصَلاَتِهِ الرَّهْطُ فَقَالَ عُمَرُ إِنِّي أَرَى لَوْ جَمَعْتُ هَؤُلاَءِ عَلَى قَارِئٍ وَاحِدٍ لَكَانَ أَمْثَلَ‏.‏ ثُمَّ عَزَمَ فَجَمَعَهُمْ عَلَى أُبَىِّ بْنِ كَعْبٍ، ثُمَّ خَرَجْتُ مَعَهُ لَيْلَةً أُخْرَى، وَالنَّاسُ يُصَلُّونَ بِصَلاَةِ قَارِئِهِمْ، قَالَ عُمَرُ نِعْمَ الْبِدْعَةُ هَذِهِ، وَالَّتِي يَنَامُونَ عَنْهَا أَفْضَلُ مِنَ الَّتِي يَقُومُونَ‏.‏ يُرِيدُ آخِرَ اللَّيْلِ، وَكَانَ النَّاسُ يَقُومُونَ أَوَّلَهُ‏.‏",
+        "translations": {
+          "en": "Abdur Rahman bin 'Abdul Qari said, \"I went out in the company of 'Umar bin Al-Khattab one night in Ramadan to the mosque and found the people praying in different groups. A man praying alone or a man praying with a little group behind him. So, 'Umar said, 'In my opinion I would better collect these (people) under the leadership of one Qari (Reciter) (i.e. let them pray in congregation!)'. So, he made up his mind to congregate them behind Ubai bin Ka'b. Then on another night I went again in his company and the people were praying behind their reciter. On that, 'Umar remarked, 'What an excellent Bid'a (i.e. innovation in religion) this is; but the prayer which they do not perform, but sleep at its time is better than the one they are offering.' He meant the prayer in the last part of the night. (In those days) people used to pray in the early part of the night",
+          "ur": "اور ابن شہاب سے (امام مالک رحمہ اللہ) کی روایت ہے، انہوں نے عروہ بن زبیر رضی اللہ عنہ سے اور انہوں نے عبدالرحمٰن بن عبدالقاری سے روایت کی کہ انہوں نے بیان کیا میں عمر بن خطاب رضی اللہ عنہ کے ساتھ رمضان کی ایک رات کو مسجد میں گیا۔ سب لوگ متفرق اور منتشر تھے، کوئی اکیلا نماز پڑھ رہا تھا، اور کچھ کسی کے پیچھے کھڑے ہوئے تھے۔ اس پر عمر رضی اللہ عنہ نے فرمایا، میرا خیال ہے کہ اگر میں تمام لوگوں کو ایک قاری کے پیچھے جمع کر دوں تو زیادہ اچھا ہو گا، چنانچہ آپ نے یہی ٹھان کر ابی بن کعب رضی اللہ عنہ کو ان کا امام بنا دیا۔ پھر ایک رات جو میں ان کے ساتھ نکلا تو دیکھا کہ لوگ اپنے امام کے پیچھے نماز ( تراویح ) پڑھ رہے ہیں۔ عمر رضی اللہ عنہ نے فرمایا، یہ نیا طریقہ بہتر اور مناسب ہے اور ( رات کا ) وہ حصہ جس میں یہ لوگ سو جاتے ہیں اس حصہ سے بہتر اور افضل ہے جس میں یہ نماز پڑھتے ہیں۔ آپ کی مراد رات کے آخری حصہ ( کی فضیلت ) سے تھی کیونکہ لوگ یہ نماز رات کے شروع ہی میں پڑھ لیتے تھے۔",
+          "fr": "Rapporté par Abdur Rahman bin 'Abdul Qari : « Une nuit de Ramadan, je suis sorti avec ‘Umar bin Al-Khattab à la mosquée et j’ai trouvé les gens en train de prier en petits groupes. Un homme priait seul, ou un autre priait avec un petit groupe derrière lui. Alors, ‘Umar a dit : ‘À mon avis, il vaudrait mieux rassembler ces gens derrière un seul réciteur (c’est-à-dire prier en groupe !)’ Il a donc décidé de les réunir derrière Ubay bin Ka’b. Une autre nuit, j’y suis retourné avec lui et les gens priaient derrière leur réciteur. À cela, ‘Umar a dit : ‘Quelle belle innovation (Bid’a) c’est ! Mais la prière qu’ils ne font pas, parce qu’ils dorment à ce moment-là, est meilleure que celle qu’ils font maintenant.’ Il voulait parler de la prière dans la dernière partie de la nuit. (À cette époque), les gens priaient au début de la nuit. »",
+          "id": "Dan dari [Ibnu Syihab] dari ['Urwah bin Az Zubair] dari ['Abdurrahman bin 'Abdul Qariy] bahwa dia berkata; \"Aku keluar bersama ['Umar bin Al Khaththob radliallahu 'anhu] pada malam Ramadhan menuju masjid, ternyata orang-orang shalat berkelompok-kelompok secara terpisah-pisah, ada yang shalat sendiri dan ada seorang yang shalat diikuti oleh ma'mum yang jumlahnya kurang dari sepuluh orang. Maka 'Umar berkata: \"Aku pikir seandainya mereka semuanya shalat berjama'ah dengan dipimpin satu orang imam, itu lebih baik\". Kemudian Umar memantapkan keinginannya itu lalu mengumpulkan mereka dalam satu jama'ah yang dipimpin oleh Ubbay bin Ka'ab. Kemudian aku keluar lagi bersamanya pada malam yang lain dan ternyata orang-orang shalat dalam satu jama'ah dengan dipimpin seorang imam, lalu 'Umar berkata: \"Sebaik-baiknya bid'ah adalah ini. Dan mereka yang tidur terlebih dahulu adalah lebih baik daripada yang shalat awal malam, yang ia maksudkan untuk mendirikan shalat di akhir malam, sedangkan orang-orang secara umum melakukan shalat pada awal malam",
+          "tr": "Abdurrahman İbn Abdülkari şöyle demiştir: Bir Ramazan gecesi Hz. Ömer ile birlikte mescid'e gittik. Baktık ki insanlar bölük bölük bir halde kimi kendi başına namaz kılıyor, kimilerine bir kişi namaz kıldırıyor. Bunun üzerine Hz. Ömer şöyle dedi: \"Ben bunları tek bir imam'ın arkasında toplasam daha iyi olur\". Sonra buna niyet edip, insanları Ubey İbn Kab'ın imamlığında topladı. Sonra bir başka gece yine Hz. Ömer'le birlikte mescid'e gittik. İnsanlar Ubey İbn Kab'ın imamlığında namaz kılıyorlardı. Hz. Ömer: \"Bu ne güzel bid'at, ancak bunların uyuduğu vakitte kılmak, şu anda kıldıklarından daha faziletlidir\" dedi. İnsanlar o zaman gece'nin başında teravihi kılıyorlardı"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 31,
+        "hadith": 3
+      }
+    },
+    {
+      "hadithNumber": 2011,
+      "arabicNumber": 2011,
+      "book": 31,
+      "hadithInBook": 4,
+      "text": {
+        "arabic": "حَدَّثَنَا إِسْمَاعِيلُ، قَالَ حَدَّثَنِي مَالِكٌ، عَنِ ابْنِ شِهَابٍ، عَنْ عُرْوَةَ بْنِ الزُّبَيْرِ، عَنْ عَائِشَةَ، رضى الله عنها زَوْجِ النَّبِيِّ صلى الله عليه وسلم أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم صَلَّى وَذَلِكَ فِي رَمَضَانَ‏.‏",
+        "translations": {
+          "en": "Narrated `Aisha:(the wife of the Prophet) Allah's Messenger (ﷺ) used to pray (at night) in Ramadan",
+          "ur": "ہم سے اسماعیل بن اویس نے بیان کیا، کہا کہ مجھ سے امام مالک نے بیان کیا، ان سے ابن شہاب نے، ان سے عروہ بن زبیر رضی اللہ عنہ نے اور ان سے نبی کریم صلی اللہ علیہ وسلم کی زوجہ مطہرہ عائشہ رضی اللہ عنہا نے کہ نبی کریم صلی اللہ علیہ وسلم نے ایک بار نماز ( تراویح ) پڑھی اور یہ رمضان میں ہوا تھا۔",
+          "fr": "Rapporté par `Aisha : (l’épouse du Prophète) Le Messager d’Allah (ﷺ) avait l’habitude de prier (la nuit) pendant le Ramadan",
+          "id": "Telah menceritakan kepada kami [Isma'il] berkata, telah menceritakan kepada saya [Malik] dari [Ibnu Syihab] dari ['Urwah bin Az Zubair] dari ['Aisyah radliallahu 'anha] isteri Nabi shallallahu 'alaihi wasallam; Rasulullah shallallahu 'alaihi wasallam mendirikan shalat. Dan itu pada bulan Ramadhan",
+          "tr": "Nebi Sallallahu Aleyhi ve Sellem'in eşi Aişe r.anha şöyle demiştir: Resulullah Sallallahu Aleyhi ve Sellem (teravih) namazı kıldı. Bu, Ramazan ayındaydı"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 31,
+        "hadith": 4
+      },
+      "narrator": {
+        "en": "`Aisha"
+      }
+    },
+    {
+      "hadithNumber": 2012,
+      "arabicNumber": 2012,
+      "book": 31,
+      "hadithInBook": 5,
+      "text": {
+        "arabic": "حَدَّثَنَا يَحْيَى بْنُ بُكَيْرٍ، حَدَّثَنَا اللَّيْثُ، عَنْ عُقَيْلٍ، عَنِ ابْنِ شِهَابٍ، أَخْبَرَنِي عُرْوَةُ، أَنَّ عَائِشَةَ ـ رضى الله عنها ـ أَخْبَرَتْهُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم خَرَجَ لَيْلَةً مِنْ جَوْفِ اللَّيْلِ، فَصَلَّى فِي الْمَسْجِدِ، وَصَلَّى رِجَالٌ بِصَلاَتِهِ، فَأَصْبَحَ النَّاسُ فَتَحَدَّثُوا، فَاجْتَمَعَ أَكْثَرُ مِنْهُمْ، فَصَلَّوْا مَعَهُ، فَأَصْبَحَ النَّاسُ فَتَحَدَّثُوا، فَكَثُرَ أَهْلُ الْمَسْجِدِ مِنَ اللَّيْلَةِ الثَّالِثَةِ، فَخَرَجَ رَسُولُ اللَّهِ صلى الله عليه وسلم فَصَلَّى، فَصَلَّوْا بِصَلاَتِهِ، فَلَمَّا كَانَتِ اللَّيْلَةُ الرَّابِعَةُ عَجَزَ الْمَسْجِدُ عَنْ أَهْلِهِ، حَتَّى خَرَجَ لِصَلاَةِ الصُّبْحِ، فَلَمَّا قَضَى الْفَجْرَ أَقْبَلَ عَلَى النَّاسِ، فَتَشَهَّدَ ثُمَّ قَالَ ‏ \"‏ أَمَّا بَعْدُ، فَإِنَّهُ لَمْ يَخْفَ عَلَىَّ مَكَانُكُمْ، وَلَكِنِّي خَشِيتُ أَنْ تُفْتَرَضَ عَلَيْكُمْ فَتَعْجِزُوا عَنْهَا ‏\"‏‏.‏ فَتُوُفِّيَ رَسُولُ اللَّهِ صلى الله عليه وسلم وَالأَمْرُ عَلَى ذَلِكَ",
+        "translations": {
+          "en": "Narrated 'Urwa:That he was informed by `Aisha, \"Allah's Messenger (ﷺ) went out in the middle of the night and prayed in the mosque and some men prayed behind him. In the morning, the people spoke about it and then a large number of them gathered and prayed behind him (on the second night). In the next morning the people again talked about it and on the third night the mosque was full with a large number of people. Allah's Messenger (ﷺ) came out and the people prayed behind him. On the fourth night the Mosque was overwhelmed with people and could not accommodate them, but the Prophet (ﷺ) came out (only) for the morning prayer. When the morning prayer was finished he recited Tashah-hud and (addressing the people) said, \"Amma ba'du, your presence was not hidden from me but I was afraid lest the night prayer (Qiyam) should be enjoined on you and you might not be able to carry it on.\" So, Allah's Apostle died and the situation remained like that (i.e. people prayed individually)",
+          "ur": "اور ہم سے یحییٰ بن بکیر نے بیان کیا، کہا کہ ہم سے لیث بن سعد نے بیان کیا، ان سے عقیل نے، ان سے ابن شہاب نے، انہیں عروہ نے خبر دی اور انہیں عائشہ رضی اللہ عنہا نے خبر دی کہ رسول اللہ صلی اللہ علیہ وسلم ایک مرتبہ ( رمضان کی ) نصف شب میں مسجد تشریف لے گئے اور وہاں تراویح کی نماز پڑھی۔ کچھ صحابہ رضی اللہ عنہم بھی آپ کے ساتھ نماز میں شریک ہو گئے۔ صبح ہوئی تو انہوں نے اس کا چرچا کیا۔ چنانچہ دوسری رات میں لوگ پہلے سے بھی زیادہ جمع ہو گئے اور آپ صلی اللہ علیہ وسلم کے ساتھ نماز پڑھی۔ دوسری صبح کو اور زیادہ چرچا ہوا اور تیسری رات اس سے بھی زیادہ لوگ جمع ہو گئے۔ آپ نے ( اس رات بھی ) نماز پڑھی اور لوگوں نے آپ صلی اللہ علیہ وسلم کی اقتداء کی۔ چوتھی رات کو یہ عالم تھا کہ مسجد میں نماز پڑھنے آنے والوں کے لیے جگہ بھی باقی نہیں رہی تھی۔ ( لیکن اس رات آپ برآمد ہی نہیں ہوئے ) بلکہ صبح کی نماز کے لیے باہر تشریف لائے۔ جب نماز پڑھ لی تو لوگوں کی طرف متوجہ ہو کر شہادت کے بعد فرمایا۔ امابعد! تمہارے یہاں جمع ہونے کا مجھے علم تھا، لیکن مجھے خوف اس کا ہوا کہ کہیں یہ نماز تم پر فرض نہ کر دی جائے اور پھر تم اس کی ادائیگی سے عاجز ہو جاؤ، چنانچہ جب نبی کریم صلی اللہ علیہ وسلم کی وفات ہوئی تو یہی کیفیت قائم رہی۔",
+          "fr": "Rapporté par ‘Urwa : Il a été informé par `Aisha : « Le Messager d’Allah (ﷺ) est sorti au milieu de la nuit et a prié à la mosquée, et quelques hommes ont prié derrière lui. Le matin, les gens en ont parlé, puis beaucoup se sont rassemblés et ont prié derrière lui la deuxième nuit. Le lendemain matin, les gens en ont encore parlé, et la troisième nuit la mosquée était pleine. Le Messager d’Allah (ﷺ) est sorti et les gens ont prié derrière lui. La quatrième nuit, la mosquée était tellement remplie qu’elle ne pouvait plus contenir tout le monde, mais le Prophète (ﷺ) n’est sorti que pour la prière du matin. Quand la prière du matin fut terminée, il a récité le Tashahhud et a dit : « Quant à ce qui suit : votre présence ne m’a pas échappé, mais j’ai eu peur que la prière de la nuit (Qiyam) ne devienne obligatoire pour vous et que vous ne puissiez pas la supporter. » Ainsi, le Messager d’Allah est décédé et la situation est restée comme cela (c’est-à-dire que les gens priaient individuellement)",
+          "id": "Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami [Al Laits] dari ['Uqail] dari [Ibnu Syihab] telah mengabarkan kepada saya ['Urwah] bahwa ['Aisyah radliallahu 'anha] mengabarkannya bahwa Rasulullah shallallahu 'alaihi wasallam pada suatu malam keluar kamar di tengah malam untuk melaksanakan shalat di masjid. Maka orang-orang kemudian ikut shalat mengikuti shalat Beliau. Pada waktu paginya orang-orang membicarakan kejadian tersebut sehingga pada malam berikutnya orang-orang yang berkumpul bertambah banyak lalu ikut shalat dengan Beliau. Pada waktu paginya orang-orang kembali membicarakan kejadian tersebut. Kemudian pada malam yang ketiga orang-orang yang hadir di masjid semakin bertambah banyak lagi lalu Rasulullah shallallahu 'alaihi wasallam keluar untuk shalat dan mereka ikut shalat bersama Beliau. Kemudian pada malam yang keempat, masjid sudah penuh dengan jama'ah hingga akhirnya Beliau keluar hanya untuk shalat Shubuh. Setelah Beliau selesai shalat Fajar, Beliau menghadap kepada orang banyak kemudian Beliau membaca syahadat lalu bersabda: \"Amma ba'du, sesungguhnya aku bukannya tidak tahu keberadaan kalian (semalam). Akan tetapi aku takut nanti menjadi diwajibkan atas kalian sehingga kalian menjadi keberatan karenanya\". Kemudian setelah Rasulullah shallallahu 'alaihi wasallam meninggal dunia, tradisi shalat (tarawih) secara berjamaah terus berlangsung seperti itu",
+          "tr": "Aişe r.anha rivayet etmiştir: Resulullah Sallallahu Aleyhi ve Sellem bir gece ortasında çıkarak mescitte namaz kıldı. Bazı kimseler de onun namazına uyup namaz kıldılar. Ertesi gün insanlar bundan bahsettiler. İkinci gece daha çok kimse toplandı. Nebi Sallallahu Aleyhi ve Sellem namaz kıldı, insanlar da onunla birlikte namaz kıldılar. Ertesi gün yine insanlar bundan bahsettiler. Üçüncü gece mesciddekilerin sayısı daha da çoğaldı. Hz. Nebi çıkıp namaz kıldı, insanlar da onunla birlikte namaz kıldılar. Dördüncü gece olunca mescid o kadar doldu ki İnsanları almadı. Ancak Hz. Nebi Sallallahu Aleyhi ve Sellem sabah namazına kadar çıkmadı. Sabah namazını kıldırınca insanlara döndü, şehadet getirdi sonra şunları söyledi: \"Sizin yaptığınız bana gizli kalmadı. Ancak ben bu namazın size farz kılınmasından ve sonra da bu namazı kılamamanızdan korktum\". Hz. Nebi, durum bu halde devam ederken vefat etti"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 31,
+        "hadith": 5
+      },
+      "narrator": {
+        "en": "'Urwa"
+      }
+    },
+    {
+      "hadithNumber": 2013,
+      "arabicNumber": 2013,
+      "book": 31,
+      "hadithInBook": 6,
+      "text": {
+        "arabic": "حَدَّثَنَا إِسْمَاعِيلُ، قَالَ حَدَّثَنِي مَالِكٌ، عَنْ سَعِيدٍ الْمَقْبُرِيِّ، عَنْ أَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ، أَنَّهُ سَأَلَ عَائِشَةَ ـ رضى الله عنها ـ كَيْفَ كَانَتْ صَلاَةُ رَسُولِ اللَّهِ صلى الله عليه وسلم فِي رَمَضَانَ فَقَالَتْ مَا كَانَ يَزِيدُ فِي رَمَضَانَ، وَلاَ فِي غَيْرِهَا عَلَى إِحْدَى عَشْرَةَ رَكْعَةً، يُصَلِّي أَرْبَعًا فَلاَ تَسَلْ عَنْ حُسْنِهِنَّ وَطُولِهِنَّ، ثُمَّ يُصَلِّي أَرْبَعًا فَلاَ تَسَلْ عَنْ حُسْنِهِنَّ وَطُولِهِنَّ، ثُمَّ يُصَلِّي ثَلاَثًا‏.‏ فَقُلْتُ يَا رَسُولَ اللَّهِ، أَتَنَامُ قَبْلَ أَنْ تُوتِرَ قَالَ ‏ \"‏ يَا عَائِشَةُ إِنَّ عَيْنَىَّ تَنَامَانِ وَلاَ يَنَامُ قَلْبِي ‏\"‏‏.‏",
+        "translations": {
+          "en": "Narrated Abu Salama bin `Abdur Rahman:that he asked `Aisha \"How was the prayer of Allah's Messenger (ﷺ) in Ramadan?\" She replied, \"He did not pray more than eleven rak`at in Ramadan or in any other month. He used to pray four rak`at ---- let alone their beauty and length----and then he would pray four ----let alone their beauty and length ---- and then he would pray three rak`at (witr).\" She added, \"I asked, 'O Allah's Messenger (ﷺ)! Do you sleep before praying the witr?' He replied, 'O `Aisha! My eyes sleep but my heart does not sleep",
+          "ur": "ہم سے اسماعیل بن ابی اویس نے بیان کیا، کہا کہ مجھ سے امام مالک رحمہ اللہ نے بیان کیا، ان سے سعید مقبری نے، ان سے ابوسلمہ بن عبدالرحمٰن نے کہ انہوں نے عائشہ رضی اللہ عنہا سے پوچھا کہ رسول اللہ صلی اللہ علیہ وسلم ( تراویح یا تہجد کی نماز ) رمضان میں کتنی رکعتیں پڑھتے تھے؟ تو انہوں نے بتلایا کہ رمضان ہو یا کوئی اور مہینہ آپ گیارہ رکعتوں سے زیادہ نہیں پڑھتے تھے۔ آپ صلی اللہ علیہ وسلم پہلی چار رکعت پڑھتے، تم ان کے حسن و خوبی اور طول کا حال نہ پوچھو، پھر چار رکعت پڑھتے، ان کے بھی حسن و خوبی اور طول کا حال نہ پوچھو، آخر میں تین رکعت ( وتر ) پڑھتے تھے۔ میں نے ایک بار پوچھا، یا رسول اللہ! کیا آپ وتر پڑھنے سے پہلے سو جاتے ہیں؟ تو آپ صلی اللہ علیہ وسلم نے فرمایا، عائشہ! میری آنکھیں سوتی ہیں لیکن میرا دل نہیں سوتا۔",
+          "fr": "Rapporté par Abu Salama bin `Abdur Rahman : Il a demandé à `Aisha : « Comment était la prière du Messager d’Allah (ﷺ) pendant le Ramadan ? » Elle a répondu : « Il ne priait jamais plus de onze rak`at pendant le Ramadan ou dans un autre mois. Il priait quatre rak`at — leur beauté et leur longueur sont remarquables — puis il priait encore quatre — leur beauté et leur longueur sont remarquables — puis il priait trois rak`at (witr). » Elle a ajouté : « J’ai demandé : “Ô Messager d’Allah (ﷺ) ! Est-ce que tu dors avant de prier le witr ?” Il a répondu : “Ô `Aisha ! Mes yeux dorment mais mon cœur ne dort pas.” »",
+          "id": "Telah menceritakan kepada kami [Isma'il] berkata, telah menceritakan kepada saya [Malik] dari [Sa'id Al Maqbariy] dari [Abu Salamah bin 'Abdurrahman] bahwasanya dia bertanya kepada ['Aisyah radliallahu 'anha] tentang cara shalat Rasulullah shallallahu 'alaihi wasallam di bulan Ramadhan. Maka 'Aisyah radliallahu 'anha menjawab: \"Tidaklah Rasulullah shallallahu 'alaihi wasallam (melaksanakan shalat malam) di bulan Ramadhan dan di bulan-bulan lainnya lebih dari sebelas raka'at, Beliau shalat empat raka'at, maka jangan kamu tanya tentang bagus dan panjangnya kemudian Beliau shalat empat raka'at lagi dan jangan kamu tanya tentang bagus dan panjangnya, kemudian Beliau shalat tiga raka'at. Lalu aku bertanya: \"Wahai Rasulullah, apakah anda tidur sebelum melaksanakan witir?\" Beliau menjawab: \"Wahai 'Aisyah, sesungguhnya kedua mataku tidur, namun hatiku tidaklah tidur",
+          "tr": "Ebu Seleme İbn Abdurrahman Hz. Aişe'ye \"Resulullah Sallallahu Aleyhi ve Sellem'in Ramazan ayında kıldığı namaz nasıldı?\" diye sordu. Aişe r.anha. şöyle dedi: Ne Ramazanda ne de diğer zamanlarda on bir rekat'tan fazla kılmazdı. Önce dört rekat kılardı ki bunların güzelliğini ve uzunluğunu sorma gitsin! Sonra dört rekat daha kılardı ki bunların da güzelliğini ve uzunluğunu sorma gitsin! Sonra üç rekat daha kılardı. Ben: Ey Allah'ın Resulü! Vitir namazı kılmadan önce uyuyor musun? Diye sordum. Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurdu: \"Benim gözlerim uyur, ancak kalbim uyumaz"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 31,
+        "hadith": 6
+      },
+      "narrator": {
+        "en": "Abu Salama bin `Abdur Rahman"
+      }
+    }
+  ],
+  "metadata": {
+    "averageLength": "long",
+    "size": "5KB"
+  }
+}

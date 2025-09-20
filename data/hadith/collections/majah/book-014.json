@@ -1,0 +1,585 @@
+{
+  "collection": "majah",
+  "book": 14,
+  "name": {
+    "arabic": "كتاب The Chapters on Gifts",
+    "transliteration": "the chapters on gifts",
+    "translation": "The Chapters on Gifts"
+  },
+  "totalHadith": 15,
+  "hadithNumberRange": {
+    "first": 2375,
+    "last": 2389
+  },
+  "content": [
+    {
+      "hadithNumber": 2375,
+      "arabicNumber": 2375,
+      "book": 14,
+      "hadithInBook": 1,
+      "text": {
+        "arabic": "حَدَّثَنَا أَبُو بِشْرٍ، بَكْرُ بْنُ خَلَفٍ حَدَّثَنَا يَزِيدُ بْنُ زُرَيْعٍ، عَنْ دَاوُدَ بْنِ أَبِي هِنْدٍ، عَنِ الشَّعْبِيِّ، عَنِ النُّعْمَانِ بْنِ بَشِيرٍ، قَالَ انْطَلَقَ بِهِ أَبُوهُ يَحْمِلُهُ إِلَى النَّبِيِّ صلى الله عليه وسلم فَقَالَ اشْهَدْ أَنِّي قَدْ نَحَلْتُ النُّعْمَانَ مِنْ مَالِي كَذَا وَكَذَا ‏.‏ قَالَ ‏\"‏ فَكُلَّ بَنِيكَ نَحَلْتَ مِثْلَ الَّذِي نَحَلْتَ النُّعْمَانَ ‏\"‏ ‏.‏ قَالَ لاَ ‏.‏ قَالَ ‏\"‏ فَأَشْهِدْ عَلَى هَذَا غَيْرِي ‏\"‏ ‏.‏ قَالَ ‏\"‏ أَلَيْسَ يَسُرُّكَ أَنْ يَكُونُوا لَكَ فِي الْبِرِّ سَوَاءً ‏\"‏ ‏.‏ قَالَ بَلَى ‏.‏ قَالَ ‏\"‏ فَلاَ إِذًا ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated that Nu'man bin Bashir said that his father took him to the Prophet (ﷺ) and said:“Bear witness that I have given Nu'man such and such from my wealth.” He said: “Have you given all your children something like that which you have given to Nu'man?” He said: “No.” He said: “Then let someone other than me bear witness to that.” And he said: “Would you not like all your children to honor you equally?” He said: “Of course.” He said: “Then do not do this.”",
+          "ur": "نعمان بن بشیر رضی اللہ عنہما کہتے ہیں کہ ان کے والد انہیں لے کر نبی اکرم صلی اللہ علیہ وسلم کی خدمت میں آئے، اور عرض کیا: میں آپ کو اس بات پر گواہ بناتا ہوں کہ میں نے اپنے مال میں سے فلاں فلاں چیز نعمان کو دے دی ہے، آپ صلی اللہ علیہ وسلم نے فرمایا: تم نے اپنے سارے بیٹوں کو ایسی ہی چیزیں دی ہیں جو نعمان کو دی ہیں ؟ انہوں نے کہا: نہیں، آپ صلی اللہ علیہ وسلم نے فرمایا: تب میرے علاوہ کسی اور کو اس پر گواہ بنا لو، کیا تمہیں یہ بات اچھی نہیں لگتی کہ تمہارے سارے بیٹے تم سے نیک سلوک کرنے میں برابر ہوں ؟ انہوں نے کہا: کیوں نہیں، آپ صلی اللہ علیہ وسلم نے فرمایا: تب ایسا مت کرو ۔",
+          "fr": "Rapporté par Nu'man bin Bashir : Son père l’a emmené voir le Prophète (ﷺ) et a dit : “Sois témoin que j’ai donné à Nu'man telle et telle chose de mes biens.” Le Prophète (ﷺ) a dit : “As-tu donné à tous tes enfants quelque chose comme ce que tu as donné à Nu'man ?” Il a répondu : “Non.” Le Prophète (ﷺ) a dit : “Alors, fais témoigner quelqu’un d’autre que moi.” Et il a ajouté : “Aimerais-tu que tous tes enfants te respectent de la même façon ?” Il a répondu : “Bien sûr.” Le Prophète (ﷺ) a dit : “Alors ne fais pas cela.”",
+          "id": "Telah menceritakan kepada kami [Abu Bisyr Bakr bin Khalaf] berkata, telah menceritakan kepada kami [Yazid bin Zurai'] dari [Dawud bin Abu Hind] dari [Asy Sya'bi] dari [An Nu'man bin Basyir] mengatakan bahwa bapaknya pernah mengajaknya menghadap Nabi shallallahu 'alaihi wasallam dan berkata, \"Saksikanlah, sesungguhnya aku telah memberi An Nu'man dari uangku sekian dan sekian! \" beliau bersabda: \"Apakah ini juga engkau lakukan untuk anakmu yang lain, sebagaimana yang engkau lakukan terhadap Nu'man?\" ia menjawab, \"Tidak.\" Beliau bersabda: \"Carilah orang lain untuk menjadi saksi.\" Kemudian beliau melanjutkan: \"Tidakkah engkau suka, jika kebaikan mereka untukmu juga sama?\" ia menjawab, \"Tentu.\" Beliau bersabda: \"Maka janganlah engkau lakukan hal itu",
+          "tr": "Numân bin Beşîr (r.a.)'dan rivayet edildiğine göre: Babası kendisini alıp Nebi (Sallallahu Aleyhi ve Sellem)'in yanına götürerek: (Yâ Resûlallah!) Sen şâhid ol: Ben malımdan şu kadarını (oğlum) Numân'a hibe ettim, dedi. Resûl-i Ekrem (Sallallahu Aleyhi ve Sellem) (ona:) «(Peki) Sen Numân'a hibe ettiğinin mislini diğer çocuklarının her birisine de hibe ettin (mi)»? buyurdu. Beşîr: Hayır, dedi. Resûl-i Ekrem (Sallallahu Aleyhi ve Sellem): «O halde bu işe benden başkasını şâhid et,» buyurdu. (Sonra): «Çocuklarının sana itaat etmeleri hususunda eşit olmaları seni sevindirmez mi?» buyurdu. Beşîr: Evet (sevindirir), diye cevab verdi. Resûl-i Ekrem (Sallallahu Aleyhi ve Sellem): «O halde hayır (onlara hibe etmede eşitsizlik etme)» buyurdu. EBU DAVUD HADİSLERİ VE İZAH: 3542 – 3543 – 3544 –"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 14,
+        "hadith": 1
+      }
+    },
+    {
+      "hadithNumber": 2376,
+      "arabicNumber": 2376,
+      "book": 14,
+      "hadithInBook": 2,
+      "text": {
+        "arabic": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ، حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ، عَنْ حُمَيْدِ بْنِ عَبْدِ الرَّحْمَنِ، وَمُحَمَّدِ بْنِ النُّعْمَانِ بْنِ بَشِيرٍ، أَخْبَرَاهُ عَنِ النُّعْمَانِ بْنِ بَشِيرٍ، أَنَّ أَبَاهُ، نَحَلَهُ غُلاَمًا وَأَنَّهُ جَاءَ إِلَى النَّبِيِّ صلى الله عليه وسلم يُشْهِدُهُ فَقَالَ ‏\"‏ أَكُلَّ وَلَدِكَ نَحَلْتَ ‏\"‏ ‏.‏ قَالَ لاَ ‏.‏ قَالَ ‏\"‏ فَارْدُدْهُ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated from Nu'man bin Bashir that:his father gave him a gift of a slave, and he came to the Prophet (ﷺ) so that he could witness the gift. He said: “Have you given something to all of your children?” He said: “No.” He said: “Then take back (your gift).”",
+          "ur": "نعمان بن بشیر رضی اللہ عنہما کہتے ہیں کہ ان کے والد نے ان کو ایک غلام دیا، اور نبی اکرم صلی اللہ علیہ وسلم کے پاس آئے تاکہ آپ کو اس پر گواہ بنائیں تو آپ صلی اللہ علیہ وسلم نے فرمایا: تم نے اپنے سارے بیٹوں کو ایسے ہی دیا ہے ؟ انہوں نے کہا: نہیں، آپ صلی اللہ علیہ وسلم نے فرمایا: تب اس کو واپس لے لو ۔",
+          "fr": "Rapporté par Nu'man bin Bashir : Son père lui a offert un esclave et il est allé voir le Prophète (ﷺ) pour qu’il soit témoin de ce don. Le Prophète (ﷺ) a demandé : “As-tu donné quelque chose à tous tes enfants ?” Il a répondu : “Non.” Le Prophète (ﷺ) a dit : “Alors reprends ton don.”",
+          "id": "Telah menceritakan kepada kami [Hisyam bin Ammar] berkata, telah menceritakan kepada kami [Sufyan] dari [Az Zuhri] dari [Humaid bin 'Abdurrahman] dan [Muhammad bin An Nu'man bin Basyir] keduanya telah mengabarkan kepadanya dari [An Nu'man bin Basyir] bahwa bapaknya memberikan seorang budak kepadanya, lalu bapaknya mengajak menemui Nabi shallallahu 'alaihi wasallam untuk menjadi saksi. Beliau lalu bersabda: \"Apakah semua anakmu engkau beri?\" ia menjawab, \"Tidak.\" Beliau bersabda: \"Kembalikanlah budak itu",
+          "tr": "Nu’mân bin Beşîr (r.a.)'dan rivayet edildiğine göre: Babası kendisine bir köle hibe etti ve Nebi (Sallallahu Aleyhi ve Sellem)'in yanına giderek O'nu (bu işe) şâhid etmek istedi Bunun üzerine Resûl-i Ekrem (Sallallahu Aleyhi ve Sellem), (Numân'ın babasına): «Sen her çocuğuna bunun mislini hibe ettin (mi)?» buyurdu. Babası: Hayır, deyince Resûl-i Ekrem (Sallallahu Aleyhi ve Sellem): «O halde köleyi geri al,» buyurdu. EBU DAVUD HADİSLERİ VE İZAH: 3542 – 3543 – 3544 –"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 14,
+        "hadith": 2
+      }
+    },
+    {
+      "hadithNumber": 2377,
+      "arabicNumber": 2377,
+      "book": 14,
+      "hadithInBook": 3,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، وَأَبُو بَكْرِ بْنُ خَلاَّدٍ الْبَاهِلِيُّ قَالاَ حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ، عَنْ حُسَيْنٍ الْمُعَلِّمِ، عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ طَاوُسٍ، عَنِ ابْنِ عَبَّاسٍ، وَابْنِ، عُمَرَ يَرْفَعَانِ الْحَدِيثَ إِلَى النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ لاَ يَحِلُّ لِلرَّجُلِ أَنْ يُعْطِيَ الْعَطِيَّةَ ثُمَّ يَرْجِعَ فِيهَا إِلاَّ الْوَالِدَ فِيمَا يُعْطِي وَلَدَهُ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated from Ibn 'Abbas and Ibn 'Umar, who attributed the Hadith to the Prophet (ﷺ) that he said:“It is not permissible for a man to give a gift then take it back, except what a father gives to his child.”",
+          "ur": "عبداللہ بن عباس اور عبداللہ بن عمر رضی اللہ عنہم کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: آدمی کے لیے جائز نہیں کہ کسی کو عطیہ دے کر واپس لے سوائے باپ کے جو اپنی اولاد کو دے ۔",
+          "fr": "Rapporté par Ibn 'Abbas et Ibn 'Umar : Le Prophète (ﷺ) a dit : « Il n’est pas permis à un homme de reprendre un cadeau qu’il a offert, sauf dans le cas où un père donne quelque chose à son enfant. »",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Basysyar] dan [Abu Bakr bin Khallad Al Bahili] keduanya berkata; telah menceritakan kepada kami [Ibnu Abu Adi] dari [Husain Al Mu'allim] dari [Amru bin Syu'aib] dari [Thawus] dari [Ibnu Abbas] dan [Ibnu Umar] keduanya memarfu'kan hadits tersebut kepada Nabi shallallahu 'alaihi wasallam, beliau bersabda: \"Tidak halal seorang laki-laki memberikan suatu pemberian kemudian diminta kembali, kecuali orang tua terhadap sesuatu yang ia berikan kepada anaknya",
+          "tr": "(Abdullah) bin Abbâs ve (Abdullah) bin Ömer (r.a.)'den rivayet edildiğine göre Nebi (Sallallahu Aleyhi ve Sellem) şöyle buyurmuştur: «Adamın bir şeyi hibe edip sonra bundan dönmesi helal değildir. Ancak çocuğuna bir şey hibe eden baba bu hükmün dışındadır.» EBU DAVUD HADİSİ VE İZAH İÇİN TIKLA"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 14,
+        "hadith": 3
+      }
+    },
+    {
+      "hadithNumber": 2378,
+      "arabicNumber": 2378,
+      "book": 14,
+      "hadithInBook": 4,
+      "text": {
+        "arabic": "حَدَّثَنَا جَمِيلُ بْنُ الْحَسَنِ، حَدَّثَنَا عَبْدُ الأَعْلَى، حَدَّثَنَا سَعِيدٌ، عَنْ عَامِرٍ الأَحْوَلِ، عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، أَنَّ نَبِيَّ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ لاَ يَرْجِعْ أَحَدُكُمْ فِي هِبَتِهِ إِلاَّ الْوَالِدَ مِنْ وَلَدِهِ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated from Amr bin Shu'aib, from his father, from, his Grandfather, that the Prophet (ﷺ) of Allah (SWT) said:“None of you should take back his gift, except a father (taking it back) from his son.”",
+          "ur": "عبداللہ بن عمرو بن العاص رضی اللہ عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ہبہ کر کے کوئی واپس نہ لے سوائے باپ کے جو وہ اپنی اولاد کو کرے ۔",
+          "fr": "Rapporté par Amr bin Shu'aib, de son père, de son grand-père : Le Prophète (ﷺ) d’Allah a dit : « Aucun de vous ne doit reprendre un cadeau qu’il a offert, sauf un père qui reprend ce qu’il a donné à son fils. »",
+          "id": "Telah menceritakan kepada kami [Jamil bin Al Hasan] berkata, telah menceritakan kepada kami [Abdul A'la] Telah menceritakan kepada kami [Sa'id] dari [Amir Al Ahwal] dari [Amru bin Syu'aib] dari [Bapaknya] dari [Kakeknya] bahwa Nabi Allah shallallahu 'alaihi wasallam bersabda: \"Janganlah salah seorang dari kalian mengambil kembali barang yang telah ia berikan, kecuali orang tua kepada anaknya",
+          "tr": "Amr bin Şuayb'ın dedesi (Abdullah bin Amr bin el-Âs) (r.a.)'den rivayet edildiğine göre; Nebi (Sallallahu Aleyhi ve Sellem) şöyle buyurmuştur: «Her hangi biriniz hibesinden rücu' etmesin, çocuğundan (hibesini istirdad eden) baba bu hükmün dışındadır.»"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 14,
+        "hadith": 4
+      }
+    },
+    {
+      "hadithNumber": 2379,
+      "arabicNumber": 2379,
+      "book": 14,
+      "hadithInBook": 5,
+      "text": {
+        "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا يَحْيَى بْنُ زَكَرِيَّا بْنِ أَبِي زَائِدَةَ، عَنْ مُحَمَّدِ بْنِ عَمْرٍو، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ لاَ عُمْرَى فَمَنْ أُعْمِرَ شَيْئًا فَهُوَ لَهُ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated from Abu Hurairah that the Messenger of Allah (ﷺ) said:“There is no lifelong grant. Whoever is given something as a lifelong grant, it is his.' ”",
+          "ur": "ابوہریرہ رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: عمریٰ کوئی چیز نہیں ہے، جس کو عمریٰ کے طور پر کوئی چیز دی گئی تو وہ اسی کی ملک ہو جائے گی ۔",
+          "fr": "Rapporté par Abu Hurairah : Le Messager d’Allah (ﷺ) a dit : « Il n’y a pas de don à vie. Celui à qui on donne quelque chose comme don à vie, cela lui appartient. »",
+          "id": "Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] berkata, telah menceritakan kepada kami [Yahya bin Zakaria bin Abu Za`idah] dari [Muhammad bin Amru] dari [Abu Salamah] dari [Abu Hurairah] ia berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Tidak ada umra, maka barangsiapa diberi umra atas sesuatu maka ia (sesuatu) menjadi miliknya",
+          "tr": "Ebû Hureyre (r.a.)'den rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: «Umrâ yoktur. Çünkü kime umra işlemi ile bir mal verilirse artık o mal (dâimi olarak) o kimsenindir.» Zevaid de: Bu hadis’in isnadı Buhari ve Müslim’in şartına göre sahihtir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 14,
+        "hadith": 5
+      }
+    },
+    {
+      "hadithNumber": 2380,
+      "arabicNumber": 2380,
+      "book": 14,
+      "hadithInBook": 6,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ رُمْحٍ، أَنْبَأَنَا اللَّيْثُ بْنُ سَعْدٍ، عَنِ ابْنِ شِهَابٍ، عَنْ أَبِي سَلَمَةَ، عَنْ جَابِرٍ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏ \"‏ مَنْ أَعْمَرَ رَجُلاً عُمْرَى لَهُ وَلِعَقِبِهِ فَقَدْ قَطَعَ قَوْلُهُ حَقَّهُ فِيهَا فَهِيَ لِمَنْ أُعْمِرَ وَلِعَقِبِهِ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated that Jabir said:“I heard the Messenger of Allah (ﷺ) say: 'Whoever gives a lifelong grant to a man, it belongs to him (the recipient) and to his heirs. His (the giver's) words put an end to his right to it, and it belongs to the one to whom it was given for life and to his heirs.”",
+          "ur": "جابر رضی اللہ عنہ کہتے ہیں کہ میں نے رسول اللہ صلی اللہ علیہ وسلم کو فرماتے سنا: جس نے کسی کو بطور عمریٰ کوئی چیز دی، تو وہ جس کو دیا ہے اس کی اور اس کے بعد اس کے اولاد کی ہو جائے گی، اس نے عمریٰ کہہ کر اپنا حق ختم کر لیا، اب وہ چیز جس کو عمریٰ دیا گیا اس کی اور اس کے بعد اس کے وارثوں کی ہو گئی ۔",
+          "fr": "Rapporté par Jabir : J’ai entendu le Messager d’Allah (ﷺ) dire : « Celui qui fait un don à vie à quelqu’un, cela appartient à cette personne et à ses héritiers. Les paroles du donateur mettent fin à son droit sur ce bien, et il appartient à celui à qui il a été donné pour la vie, ainsi qu’à ses héritiers. »",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Rumh] berkata, telah memberitakan kepada kami [Al Laits bin Sa'd] dari [Ibnu Syihab] dari [Abu Salamah] dari [Jabir] ia berkata, \"Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: \"Barangsiapa memberikan umra untuk seseorang dan keturunannya, sungguh ucapannya tersebut memutus haknya untuk mendapatkan umra itu kembali. Maka umra tersebut akan menjadi milik seseorang yang telah diserahi dan keturunannya",
+          "tr": "Câbir (bin Abdillah) (r.a.)'dan rivayet edildiğine göre kendisi: Ben, Resulullah (Sallallahu Aleyhi ve Sellem)'den şöyle buyururken işittim, demiştir: «Kim umra usûlü ile bir malı bir adama ve onun nesline verirse artık (söylediği) sözü onun o maldaki hakkını kesmiş olur. Bu itibarla o mal, umra usûlü ile verilen adama ve onun neslinedir.»"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 14,
+        "hadith": 6
+      }
+    },
+    {
+      "hadithNumber": 2381,
+      "arabicNumber": 2381,
+      "book": 14,
+      "hadithInBook": 7,
+      "text": {
+        "arabic": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ، حَدَّثَنَا سُفْيَانُ، عَنْ عَمْرِو بْنِ دِينَارٍ، عَنْ طَاوُسٍ، عَنْ حُجْرٍ الْمَدَرِيِّ، عَنْ زَيْدِ بْنِ ثَابِتٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم جَعَلَ الْعُمْرَى لِلْوَارِثِ ‏.‏",
+        "translations": {
+          "en": "It was narrated from Zaid bin Thabit that :the Prophet (ﷺ) ruled that a gift given for life belongs to the heirs (of the recipient)",
+          "ur": "زید بن ثابت رضی اللہ عنہ سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے عمریٰ وارث کو دلا دیا۔",
+          "fr": "Rapporté par Zaid bin Thabit : Le Prophète (ﷺ) a jugé qu’un cadeau offert pour la vie appartient aux héritiers du bénéficiaire",
+          "id": "Telah menceritakan kepada kami [Hisyam bin Ammar] berkata, telah menceritakan kepada kami [Sufyan] dari [Amru bin Dinar] dari [Thawus] dari [Hujr Al Madari] dari [Zaid bin Tsabit] berkata, \"Nabi shallallahu 'alaihi wasallam menetapkan bahwa umra bisa dimiliki oleh ahli warits",
+          "tr": "Zeyd bîn Sabit (r.a.)'den rivayet edildiğine göre: Nebi (Sallallahu Aleyhi ve Sellem), umrâ'yı alıcının (ölümünden sonra) vârisine vermiştir. EBU DAVUD HADİSLERİ VE İZAHLAR: 3548 — 3549 — 3550 — 3551 — 3552 — 3553 — 3554 — 3555 — 3556 —"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 14,
+        "hadith": 7
+      }
+    },
+    {
+      "hadithNumber": 2382,
+      "arabicNumber": 2382,
+      "book": 14,
+      "hadithInBook": 8,
+      "text": {
+        "arabic": "حَدَّثَنَا إِسْحَاقُ بْنُ مَنْصُورٍ، أَنْبَأَنَا عَبْدُ الرَّزَّاقِ، أَنْبَأَنَا ابْنُ جُرَيْجٍ، عَنْ عَطَاءٍ، عَنْ حَبِيبِ بْنِ أَبِي ثَابِتٍ، عَنِ ابْنِ عُمَرَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ لاَ رُقْبَى فَمَنْ أُرْقِبَ شَيْئًا فَهُوَ لَهُ حَيَاتَهُ وَمَمَاتَهُ ‏\"‏ ‏.‏ قَالَ وَالرُّقْبَى أَنْ يَقُولَ هُوَ لِلآخَرِ مِنِّي وَمِنْكَ مَوْتًا ‏.‏",
+        "translations": {
+          "en": "It was narrated from Ibn 'Umar that the Messenger of Allah (ﷺ) said:“There is no Ruqba. Whoever is given a gift on the basis of Ruqba, it belongs to him, whether he lives or dies.”",
+          "ur": "عبداللہ بن عمر رضی اللہ عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: رقبیٰ کوئی چیز نہیں ہے جس کو بطور رقبیٰ کوئی چیز دی گئی تو وہ اسی کی ہو گی اس کی زندگی اور موت دونوں حالتوں میں راوی کہتے ہیں: رقبیٰ یہ ہے کہ ایک شخص کسی کو کوئی چیز دے کر یہ کہے کہ ہم اور تم میں سے جو آخر میں مرے گا یہ اس کی ہو گی۔",
+          "fr": "Rapporté par Ibn 'Umar : Le Messager d’Allah (ﷺ) a dit : « Il n’y a pas de Ruqba. Celui à qui on fait un cadeau sous la condition de Ruqba, cela lui appartient, qu’il vive ou qu’il meure. »",
+          "id": "Telah menceritakan kepada kami [Ishaq bin Manshur] berkata, telah mengabarkan kepada kami [Abdurrazaq] berkata, telah memberitakan kepada kami [Ibnu Juraij] dari ['Atha] dari [Habib bin Abu Tsabit] dari [Ibnu Umar] ia berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Tidak ada ruqba, barangsiapa diberi ruqba maka ia berhak memilikinya baik dimasa hidup dan setelah matinya.\" Ibnu Umar menjelaskan: \"Ruqba adalah Seseorang mengatakan, 'Ia akan menjadi milik orang lain yang telah meninggal antara aku dan kamu",
+          "tr": "(Abdullah) bin Ömer (r.a.)'dsm rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: «Rukbâ yoktur. Çünkü kime rukbâ usulü ile bir şey verilirse artık o şey o kimsenin hayatında da, ölümünde de kendisine aittir.» AÇIKLAMA 2383’te"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 14,
+        "hadith": 8
+      }
+    },
+    {
+      "hadithNumber": 2383,
+      "arabicNumber": 2383,
+      "book": 14,
+      "hadithInBook": 9,
+      "text": {
+        "arabic": "حَدَّثَنَا عَمْرُو بْنُ رَافِعٍ، حَدَّثَنَا هُشَيْمٌ، ح وَحَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، قَالاَ حَدَّثَنَا دَاوُدُ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ الْعُمْرَى جَائِزَةٌ لِمَنْ أُعْمِرَهَا وَالرُّقْبَى جَائِزَةٌ لِمَنْ أُرْقِبَهَا ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated from Jabir bin 'Abdullah that the Messenger of Allah (ﷺ) said:“Umra belongs to the one to whom it is given, and Ruqba belongs to the one to whom it is given.”",
+          "ur": "جابر بن عبداللہ رضی اللہ عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: عمریٰ اس شخص کا ہو جائے گا جس کو عمریٰ دیا گیا، اور رقبیٰ اس شخص کا ہو جائے گا جس کو رقبیٰ دیا گیا ۱؎۔",
+          "fr": "Rapporté par Jabir bin 'Abdullah : Le Messager d’Allah (ﷺ) a dit : « L’Umra revient à celui à qui elle est donnée, et la Ruqba revient à celui à qui elle est donnée. »",
+          "id": "Telah menceritakan kepada kami [Amru bin Rafi'] berkata, telah menceritakan kepada kami [Husyaim]. (Dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ali bin Muhammad] berkata, telah menceritakan kepada kami [Abu Mu'awiyah] keduanya berkata; telah menceritakan kepada kami [Dawud] dari [Abu Az Zubair] dari [Jabir bin Abdullah] ia berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Umra boleh bagi orang yang diberi, dan ruqba boleh bagi orang yang diberi",
+          "tr": "Câbir bin Abdillah (r.a.)'dan rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyuydu, demiştir: «Umrâ, kendisine verilen için (dâimi olarak) geçerlidir. (Hibe eden bundan dönüş yapamaz) Rukbâ da kendisine verilen için (sürekli biçimde) geçerlidir. (Hibe eden bundan dönüş yapamaz).»"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 14,
+        "hadith": 9
+      }
+    },
+    {
+      "hadithNumber": 2384,
+      "arabicNumber": 2384,
+      "book": 14,
+      "hadithInBook": 10,
+      "text": {
+        "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا أَبُو أُسَامَةَ، عَنْ عَوْفٍ، عَنْ خِلاَسٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ إِنَّ مَثَلَ الَّذِي يَعُودُ فِي عَطِيَّتِهِ كَمَثَلِ الْكَلْبِ أَكَلَ حَتَّى إِذَا شَبِعَ قَاءَ ثُمَّ عَادَ فِي قَيْئِهِ فَأَكَلَهُ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated from Abu Hurairah that the Messenger of Allah (ﷺ) said:“The likeness of one who takes back his gift is that of a dog that eats until it is full and vomits; then it goes back to its vomit and eats it again.”",
+          "ur": "ابوہریرہ رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: اس شخص کی مثال جو ہبہ کر کے واپس لے اس کتے جیسی ہے جو خوب آسودہ ہو کر کھا لے، پھر قے کر کے اسے چاٹے ۔",
+          "fr": "Rapporté par Abu Hurairah : Le Messager d’Allah (ﷺ) a dit : « Celui qui reprend son cadeau ressemble à un chien qui mange jusqu’à être rassasié, puis vomit, puis retourne à son vomi et le mange de nouveau. »",
+          "id": "Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] berkata, telah menceritakan kepada kami [Abu Usamah] dari [Auf] dari [Khilas] dari [Abu Hurairah] ia berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Permisalan orang yang meminta kembali sesuatu yang telah ia berikan seperti seekor anjing yang makan, jika kenyang ia memuntahkannya kemudian kembali memakannya",
+          "tr": "Ebû Hureyre (r.a.)'den rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: «Verdiği hibeyi geri alan kişinin durumu köpeğin durumu gibidir. Köpek yer, nihayet doyunca kusar. Sonra kustuğuna dönüş yapıp onu yer.» Not: Zevaid'de şöyle denilmiştir: Bu hadis Buhari ve Müslim'de Ebu Hureyre (r.a.)'den başka sahabiden rivayet edilmektedir. Ebu Hureyre'nin rivayetine aid seneddeki raviler sika zatlardır. Fakat bu sened munkatidir. Ahmed bin Hanbel: Hılas bin Amr el-Heceri, Ebu Hureyre'den bir şey işitmemiştir, demiştir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 14,
+        "hadith": 10
+      }
+    },
+    {
+      "hadithNumber": 2385,
+      "arabicNumber": 2385,
+      "book": 14,
+      "hadithInBook": 11,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، وَمُحَمَّدُ بْنُ الْمُثَنَّى، قَالاَ حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، قَالَ سَمِعْتُ قَتَادَةَ، يُحَدِّثُ عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، عَنِ ابْنِ عَبَّاسٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ الْعَائِدُ فِي هِبَتِهِ كَالْعَائِدِ فِي قَيْئِهِ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated from Ibn 'Abbas that the Messenger of Allah (ﷺ) said:“The one who takes back his gift is like the one who goes back to his vomit.”",
+          "ur": "عبداللہ بن عباس رضی اللہ عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ہبہ کر کے واپس لینے والا قے کر کے چاٹنے والے کے مانند ہے ۔",
+          "fr": "Rapporté par Ibn 'Abbas : Le Messager d’Allah (ﷺ) a dit : « Celui qui reprend son cadeau est comme celui qui retourne à son vomi. »",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Basysyar] dan [Muhammad bin Al Mutsanna] keduanya berkata; telah menceritakan kepada kami [Muhammad bin Ja'far] berkata, telah menceritakan kepada kami [Syu'bah] ia berkata; Aku mendengar [Qatadah] menceritakan dari [Sa'id bin Al Musayyab] dari [Ibnu Abbas] ia berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Orang yang kembali meminta pemberiannya seperti orang yang memakan kembali muntahannya",
+          "tr": "(Abdullah) bin Abbâs (r.a.)'dan rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir «Hibesini geri alan kişi kustuğunu yiyen gibidir.»"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 14,
+        "hadith": 11
+      }
+    },
+    {
+      "hadithNumber": 2386,
+      "arabicNumber": 2386,
+      "book": 14,
+      "hadithInBook": 12,
+      "text": {
+        "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ عَبْدِ اللَّهِ بْنِ يُوسُفَ الْعَرْعَرِيُّ، حَدَّثَنَا يَزِيدُ بْنُ أَبِي حَكِيمٍ، حَدَّثَنَا الْعُمَرِيُّ، عَنْ زَيْدِ بْنِ أَسْلَمَ، عَنِ ابْنِ عُمَرَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ الْعَائِدُ فِي هِبَتِهِ كَالْكَلْبِ يَعُودُ فِي قَيْئِهِ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated from Ibn`Umar that the Prophet (ﷺ) said:“The one who takes back his gift is like the dog that goes back to its vomit.”",
+          "ur": "عبداللہ بن عمر رضی اللہ عنہما کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: ہبہ کر کے اسے واپس لینے والا اس کتے کی طرح ہے جو قے کر کے چاٹتا ہے ۱؎۔",
+          "fr": "Rapporté par Ibn 'Umar : Le Prophète (ﷺ) a dit : « Celui qui reprend son cadeau est comme un chien qui retourne à son vomi. »",
+          "id": "Telah menceritakan kepada kami [Ahmad bin Abdullah bin Yusuf Al 'Ar'ari] berkata, telah menceritakan kepada kami [Yazid bin Abu Hakim] berkata, telah menceritakan kepada kami [Al 'Umari] dari [Zaid bin Aslam] dari [Ibnu Umar] dari Nabi shallallahu 'alaihi wasallam bersabda: \"Orang yang meminta kembali pemberiannya bagaikan anjing yang mengambil kembali muntahannya",
+          "tr": "(Abdullah) bin Ömer (r.a.)'dan rivayet edildiğine göre; Nebi (Sallallahu Aleyhi ve Sellem) şöyle buyurmuştur: «Hibesinden dönüş yapan kişi, kustuğuna dönüş yapan (yiyen) köpek gibidir.»"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 14,
+        "hadith": 12
+      }
+    },
+    {
+      "hadithNumber": 2387,
+      "arabicNumber": 2387,
+      "book": 14,
+      "hadithInBook": 13,
+      "text": {
+        "arabic": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ، وَمُحَمَّدُ بْنُ إِسْمَاعِيلَ، قَالاَ حَدَّثَنَا وَكِيعٌ، حَدَّثَنَا إِبْرَاهِيمُ بْنُ إِسْمَاعِيلَ بْنِ مُجَمِّعِ بْنِ جَارِيَةَ الأَنْصَارِيُّ، عَنْ عَمْرِو بْنِ دِينَارٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ الرَّجُلُ أَحَقُّ بِهِبَتِهِ مَا لَمْ يُثَبْ مِنْهَا ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated from Abu Hurairah that the Messenger of Allah (ﷺ) said:“A man has more right to his gift so long as he has not gotten something in return for it.”",
+          "ur": "ابوہریرہ رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ہبہ کرنے والا اپنی ہبہ کی ہوئی چیز کا زیادہ حقدار ہے جب تک اس کا عوض نہ پائے ۔",
+          "fr": "Rapporté par Abu Hurairah : Le Messager d’Allah (ﷺ) a dit : « Un homme a plus de droit sur son cadeau tant qu’il n’a rien reçu en échange. »",
+          "id": "Telah menceritakan kepada kami [Ali bin Muhammad] dan [Muhammad bin Ismai] keduanya berkata; telah menceritakan kepada kami [Waki'] berkata, telah menceritakan kepada kami [Ibrahim bin Isma'il bin Mujammi' bin Jariyah Al Anshar] dari [Amru bin Dinar] dari [Abu Hurairah] ia berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Seseorang lebih berhak atas pemberiannya selagi ia menguasainya (belum memberikannya kepada yang lain)",
+          "tr": "Ebû Hureyre (r.a.)'den rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: «Karşılığı verilmedikçe adam, verdiği hibeyi geri alma hakkına sahiptir.» Not: Zevaid'de şöyle denilmiştir: Bunun senedinde bulunan İbrahim bin İsmail bin Mücenuni' zayıftır"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 14,
+        "hadith": 13
+      }
+    },
+    {
+      "hadithNumber": 2388,
+      "arabicNumber": 2388,
+      "book": 14,
+      "hadithInBook": 14,
+      "text": {
+        "arabic": "حَدَّثَنَا أَبُو يُوسُفَ الرَّقِّيُّ، مُحَمَّدُ بْنُ أَحْمَدَ الصَّيْدَلاَنِيُّ حَدَّثَنَا مُحَمَّدُ بْنُ سَلَمَةَ، عَنِ الْمُثَنَّى بْنِ الصَّبَّاحِ، عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ فِي خُطْبَةٍ خَطَبَهَا ‏ \"‏ لاَ يَجُوزُ لاِمْرَأَةٍ فِي مَالِهَا إِلاَّ بِإِذْنِ زَوْجِهَا إِذَا هُوَ مَلَكَ عِصْمَتَهَا ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated from 'Amr bin Shu'aib, from his father that he delivered:“It is not permissible for a woman to dispose of her wealth except with her husband's permission, once he has married her.”",
+          "ur": "عبداللہ بن عمرو بن العاص رضی اللہ عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے اپنے ایک خطبہ میں فرمایا: کسی عورت کا اپنے مال میں بغیر اپنے شوہر کی اجازت کے تصرف کرنا جائز نہیں، اس لیے کہ وہ اس کی عصمت ( ناموس ) کا مالک ہے ۔",
+          "fr": "Rapporté par 'Amr bin Shu'aib, de son père : Il a transmis : « Il n’est pas permis à une femme de disposer de ses biens sans la permission de son mari, une fois qu’il l’a épousée. »",
+          "id": "Telah menceritakan kepada kami [Abu Yusuf Ar Raqqi Muhammad bin Ahmad Ash Shaidalani] berkata, telah menceritakan kepada kami [Muhammad bin Salamah] dari [Al Mutsanna bin Ash Shabbah] dari [Amru bin Syu'aib] dari [Bapaknya] dari [Kakeknya] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda dalam khutbahnya: \"Seorang wanita tidak boleh menggunakan uang miliknya tanpa izin suaminya, jika suaminya telah sah menikahinya",
+          "tr": "Amr bin Şuayb'in dedesi (Abdullah bin Amr bin el-Âs) (r.a.)'den rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) irâd ettiği bir hutbede şöyle buyurdu, demiştir: «Bir erkek bir kadınla evlenince erkeğin izni olmaksızın kadının, kendi malından hediye vermesi caiz değildir,» EBU DAVUD HADİSLERİ VE İZAH: 3546 –"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 14,
+        "hadith": 14
+      }
+    },
+    {
+      "hadithNumber": 2389,
+      "arabicNumber": 2389,
+      "book": 14,
+      "hadithInBook": 15,
+      "text": {
+        "arabic": "حَدَّثَنَا حَرْمَلَةُ بْنُ يَحْيَى، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ وَهْبٍ، أَخْبَرَنِي اللَّيْثُ بْنُ سَعْدٍ، عَنْ عَبْدِ اللَّهِ بْنِ يَحْيَى، - رَجُلٌ مِنْ وَلَدِ كَعْبِ بْنِ مَالِكٍ - عَنْ أَبِيهِ، عَنْ جَدِّهِ، أَنَّ جَدَّتَهُ، خَيْرَةَ - امْرَأَةَ كَعْبِ بْنِ مَالِكٍ - أَتَتْ رَسُولَ اللَّهِ صلى الله عليه وسلم بِحُلِيٍّ لَهَا فَقَالَتْ إِنِّي تَصَدَّقْتُ بِهَذَا فَقَالَ لَهَا رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ لاَ يَجُوزُ لِلْمَرْأَةِ فِي مَالِهَا إِلاَّ بِإِذْنِ زَوْجِهَا فَهَلِ اسْتَأْذَنْتِ كَعْبًا ‏\"‏ ‏.‏ قَالَتْ نَعَمْ ‏.‏ فَبَعَثَ رَسُولُ اللَّهِ صلى الله عليه وسلم إِلَى كَعْبِ بْنِ مَالِكٍ زَوْجِهَا فَقَالَ ‏\"‏ هَلْ أَذِنْتَ لِخَيْرَةَ أَنْ تَتَصَدَّقَ بِحُلِيِّهَا ‏\"‏ ‏.‏ فَقَالَ نَعَمْ ‏.‏ فَقَبِلَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم مِنْهَا ‏",
+        "translations": {
+          "en": "It was narrated from 'Abdullah bin Yahya, one of the sons of Ka'b bin Malik, from his grandfather, that :his grandmother Khairah, the wife of Ka'b bin Malik, came to the Messenger of Allah (ﷺ) with some jewelry belonging to her and said, I am giving this in charity. The Messenger of Allah (ﷺ) said to her: “It is not permissible for a woman to dispose of her wealth without her husband's permission. Did you ask Ka'b's permission?” She said: “Yes.” So the Messenger of Allah (ﷺ) sent for Ka'b bin Malik, her husband, and said, “Did you give Khairah permission to give her jewelry in charity?” He said: “Yes.” So the Messenger of Allah (ﷺ) accepted it from her",
+          "ur": "کعب بن مالک رضی اللہ عنہ کی اہلیہ خیرۃ رضی اللہ عنہا کہتی ہیں کہ وہ رسول اللہ صلی اللہ علیہ وسلم کی خدمت میں اپنا زیور لے کر آئیں، اور عرض کیا: میں نے اسے صدقہ کر دیا ہے، رسول اللہ صلی اللہ علیہ وسلم نے ان سے فرمایا: شوہر کی اجازت کے بغیر عورت کے لیے اپنے مال میں تصرف کرنا جائز نہیں، کیا تم نے کعب سے اجازت لے لی ہے ؟ وہ بولیں: جی ہاں، آپ صلی اللہ علیہ وسلم نے ان کے شوہر کعب بن مالک رضی اللہ عنہ کے پاس آدمی بھیج کر پچھوایا، کیا تم نے خیرہ کو اپنا زیور صدقہ کرنے کی اجازت دی ہے ، وہ بولے: جی ہاں، تب جا کر رسول اللہ صلی اللہ علیہ وسلم نے ان کا صدقہ قبول کیا۔",
+          "fr": "Rapporté par 'Abdullah bin Yahya, un des fils de Ka'b bin Malik, de son grand-père : Sa grand-mère Khairah, l’épouse de Ka'b bin Malik, est venue voir le Messager d’Allah (ﷺ) avec des bijoux qui lui appartenaient et a dit : Je donne ceci en aumône. Le Messager d’Allah (ﷺ) lui a dit : « Il n’est pas permis à une femme de disposer de ses biens sans la permission de son mari. As-tu demandé la permission de Ka'b ? » Elle a répondu : « Oui. » Alors le Messager d’Allah (ﷺ) a fait venir Ka'b bin Malik, son mari, et lui a demandé : « As-tu donné à Khairah la permission de donner ses bijoux en aumône ? » Il a répondu : « Oui. » Alors le Messager d’Allah (ﷺ) a accepté son don",
+          "id": "Telah menceritakan kepada kami [Harmalah bi Yahya] berkata, telah menceritakan kepada kami [Abdullah bin Wahb] berkata, telah mengabarkan kepadaku [Al Laits bin Sa'd] dari [Abdullah bin Yahya] -seorang lelaki anak dari Ka'b bin Malik- dari [Bapaknya] dari [Kakeknya] bahwa neneknya Khairah -istri Ka'b bin Malik- datang menemui Rasulullah shallallahu 'alaihi wasallam dengan membawa perhiasannya, lalu ia berkata, \"Aku ingin mensedekahkan perhiasan ini.\" Rasulullah shallallahu 'alaihi wasallam lalu bersabda kepadanya: \"Seorang istri tidak boleh mensedekahkan hartanya kecuali atas izin suaminya. Apakah kamu sudah meminta izin kepada Ka'b?\" ia menjawab: \"Ya.\" Rasulullah shallallahu 'alaihi wasallam kemudian mengutus seseorang menemui Ka'b bin Malik suaminya untuk menanyakan: \"Apakah kamu sudah mengizinkan Khairah untuk bersedekah dengan perhiasan miliknya?\" Ka'b menjawab, \"Ya.\" Akhirnya Rasulullah shallallahu 'alaihi wasallam pun menerima sedekahnya",
+          "tr": "Ka'b bin Mâlik (r.a.)'den rivayet edildiğine göre: Karısı Hayre (r.anha) kendi malı olan bir zinet eşyasını Resulullah (Sallallahu Aleyhi ve Sellem)'e götürüp: Bunu sadaka olarak verdim, dedi. Bunun üzerine Resulullah (Sallallahu Aleyhi ve Sellem) kendisine: «Kadının kendi malından sadaka vermesi caiz değildir. Meğer ki kocasının izni ola. Bu nedenle, sen (kocan) Ka'b'dan izin istedin mi?» buyurdu. Hayre: Evet, diye cevab verdi. Bundan sonra Resulullah (Sallallahu Aleyhi ve Sellem), Hayre'nin kocası Ka'b bin Mâlik'e haber göndererek: «Sen Hayre'ye kendi süs eşyasını sadaka etmesi için izin verdin mi?» diye sordu. Ka'b (r.a.): Evet, cevâbını verdikten sonra Resulullah (Sallallahu Aleyhi ve Sellem) anılan süs eşyasını Hayre'den kabul etti. Not: Zevaid'de şöyle denilmiştir: Bunun senedinde Yahya vardır. Halbuki, Ka'b'ın evladı arasında böyle bir adam tanınmamaktadır. Bu itibarla sened zayıftır"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 14,
+        "hadith": 15
+      }
+    }
+  ],
+  "metadata": {
+    "averageLength": "medium",
+    "size": "11KB"
+  }
+}

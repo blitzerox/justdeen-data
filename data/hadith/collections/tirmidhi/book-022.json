@@ -1,0 +1,2017 @@
+{
+  "collection": "tirmidhi",
+  "book": 22,
+  "name": {
+    "arabic": "كتاب The Book on Virtues of Jihad",
+    "transliteration": "the book on virtues of jihad",
+    "translation": "The Book on Virtues of Jihad"
+  },
+  "totalHadith": 51,
+  "hadithNumberRange": {
+    "first": 1619,
+    "last": 1669
+  },
+  "content": [
+    {
+      "hadithNumber": 1619,
+      "arabicNumber": 1619,
+      "book": 22,
+      "hadithInBook": 1,
+      "text": {
+        "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ سُهَيْلِ بْنِ أَبِي صَالِحٍ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قِيلَ يَا رَسُولَ اللَّهِ مَا يَعْدِلُ الْجِهَادَ قَالَ ‏\"‏ لاَ تَسْتَطِيعُونَهُ ‏\"‏ ‏.‏ فَرَدُّوا عَلَيْهِ مَرَّتَيْنِ أَوْ ثَلاَثًا كُلُّ ذَلِكَ يَقُولُ ‏\"‏ لاَ تَسْتَطِيعُونَهُ ‏\"‏ ‏.‏ فَقَالَ فِي الثَّالِثَةِ ‏\"‏ مَثَلُ الْمُجَاهِدِ فِي سَبِيلِ اللَّهِ مَثَلُ الْقَائِمِ الصَّائِمِ الَّذِي لاَ يَفْتُرُ مِنْ صَلاَةٍ وَلاَ صِيَامٍ حَتَّى يَرْجِعَ الْمُجَاهِدُ فِي سَبِيلِ اللَّهِ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى وَفِي الْبَابِ عَنِ الشَّفَاءِ وَعَبْدِ اللَّهِ بْنِ حُبْشِيٍّ وَأَبِي مُوسَى وَأَبِي سَعِيدٍ وَأُمِّ مَالِكٍ الْبَهْزِيَّةِ وَأَنَسِ بْنِ مَالِكٍ ‏.‏ وَهَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ وَقَدْ رُوِيَ مِنْ غَيْرِ وَجْهٍ عَنْ أَبِي هُرَيْرَةَ عَنِ النَّبِيِّ صلى الله عليه وسلم ‏.‏",
+        "translations": {
+          "en": "Narrated Abu Hurairah: \"It was said, 'O Messenger of Allah, what equals Jihad?' He said: 'Verily, you (people) are not capable of it.' So they repeated it to him two or three times, each time he said, 'You (people) are not capable of it.' Then he said the third time: 'The example of the Mujahid in the path of Allah is like the one who fasts and stands (in prayer) and does not slacken from Salat, nor fasting, until the Mujahid in the cause of Allah returns.'\" There are narrations on this topic from Ash-Shifa', 'Abdullah bin Hubshi, Abu Musa', Abu Sa'eed, Umm Malik Al-Bahziyyah, and Anas. This Hadith is a Hasan Sahih. And it has been reported through more than one route from Abu Hurairah from the Prophet (ﷺ)",
+          "ur": "ابوہریرہ رضی الله عنہ کہتے ہیں کہ کہا گیا: اللہ کے رسول! کون سا عمل ( اجر و ثواب میں ) جہاد کے برابر ہے؟ آپ نے فرمایا: ”تم لوگ اس کی طاقت نہیں رکھتے“، صحابہ نے دو یا تین مرتبہ آپ کے سامنے یہی سوال دہرایا، آپ ہر مرتبہ کہتے: ”تم لوگ اس کی طاقت نہیں رکھتے“، تیسری مرتبہ آپ نے فرمایا: ”اللہ کے راستہ میں جہاد کرنے والے کی مثال اس نمازی اور روزہ دار کی ہے جو نماز اور روزے سے نہیں رکتا ( یہ دونوں عمل مسلسل کرتا ہی چلا جاتا ) ہے یہاں تک کہ اللہ کی راہ کا مجاہد واپس آ جائے“ ۱؎۔ امام ترمذی کہتے ہیں: ۱- یہ حدیث حسن صحیح ہے، ۲- یہ حدیث کئی سندوں سے ابوہریرہ کے واسطے سے مرفوع طریقہ سے آئی ہے، ۳- اس باب میں شفاء، عبداللہ بن حبشی، ابوموسیٰ، ابوسعید، ام مالک بہز یہ اور انس رضی الله عنہم سے بھی احادیث آئی ہیں۔",
+          "id": "Telah menceritakan kepada kami [Qutaibah bin Sa'id] berkata, telah menceritakan kepada kami [Abu Awanah] dari [Suhail bin Abu Shalih] dari [Bapaknya] dari [Abu Hurairah] ia berkata, \"Ditanyakan kepada Rasulullah, \"Wahai Rasulullah, amalan apa yang bisa menyamai jihad?\" beliau menjawab: \"Kalian tidak akan mampu.\" Mereka lalu mengulangi pertanyaan tersebut hingga dua atau tiga kali. Dan setiap itu pula beliau menjawab: \"Kalian tidak akan mampu.\" Dan pada kali ketiganya beliau bersabda: \"Permisalan seorang mujahid di jalan Allah seperti seorang yang berdiri shalat dan puasa, ia tidak pernah berhenti dari shalat dan puasanya hingga orang yang berjihad di jalan Allah kembali dari medan perang.\" Ia berkata, \"Dalam bab ini juga ada hadits dari Asy Syifa', Abdullah bin Hubsyi, Abu Musa, Abu Sa'id, Ummu Malik Al Bahziyah dan Anas. Dan hadits ini derajatnya hasan shahih. Hadits ini telah diriwayatkan dari Abu Hurairah, dari Nabi shallallahu 'alaihi wasallam dengan banyak jalur",
+          "tr": "Ebû Hureyre (r.a.)’den rivâyete göre, şöyle demiştir: “Ey Allah’ın Rasûlü denildi hangi iş cihâda denk olabilir? Buyurdular ki: “Sizin ona gücünüz yetmez.” İki veya üç sefer aynı soruyu sordular üçüncü defasında buyurdu ki: Allah yolunda cihâd eden kimsenin örneği: Mûcâhid; cihâddan dönünceye kadar, bıkmadan usanmadan gecelerini namaz gündüzlerini oruçla geçiren kimse gibidir.” Diğer tahric: Müslim, Imara Bu konuda Şifa, Abdullah b. Hubşî, Ebû Musa, Ebû Saîd, Ümmü Mâlik el Behziyye ve Enes’den de hadis rivâyet edilmiştir. Bu hadis hasen sahihtir. Ebû Hüreyre’den değişik şekillerde de rivâyet edilmiştir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 22,
+        "hadith": 1
+      },
+      "narrator": {
+        "en": "Abu Hurairah"
+      }
+    },
+    {
+      "hadithNumber": 1620,
+      "arabicNumber": 1620,
+      "book": 22,
+      "hadithInBook": 2,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ بَزِيعٍ، حَدَّثَنَا الْمُعْتَمِرُ بْنُ سُلَيْمَانَ، حَدَّثَنِي مَرْزُوقٌ أَبُو بَكْرٍ، عَنْ قَتَادَةَ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَعْنِي ‏ \"‏ يَقُولُ اللَّهُ عَزَّ وَجَلَّ الْمُجَاهِدُ فِي سَبِيلِ اللَّهِ هُوَ عَلَىَّ ضَامِنٌ إِنْ قَبَضْتُهُ أَوْرَثْتُهُ الْجَنَّةَ وَإِنْ رَجَعْتُهُ رَجَعْتُهُ بِأَجْرٍ أَوْ غَنِيمَةٍ ‏\"‏ ‏.‏ قَالَ هُوَ صَحِيحٌ غَرِيبٌ مِنْ هَذَا الْوَجْهِ ‏",
+        "translations": {
+          "en": "Narrated Anas bin Malik: \"The Messenger of Allah (ﷺ) said: meaning: Allah Mighty and Sublime is He says: 'The Mujahid in My cause, he has guarantee fro Me. If I I seize him, I cause him to inherit Paradise, and if I return him, I return him with a reward or spoils of war.'\" [He said:] This Hadith is Gharib Sahih from this route",
+          "ur": "انس رضی الله عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”اللہ عزوجل فرماتا ہے: اللہ کے راستہ میں جہاد کرنے والے کا ضامن میں ہوں، اگر میں اس کی روح قبض کروں تو اس کو جنت کا وارث بناؤں گا، اور اگر میں اسے ( اس کے گھر ) واپس بھیجوں تو اجر یا غنیمت کے ساتھ واپس بھیجوں گا“۔ امام ترمذی کہتے ہیں: یہ حدیث اس سند سے صحیح غریب ہے۔",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Abdullah bin Bazi'] berkata, telah menceritakan kepada kami [Al Mu'tamir bin Sulaiman] berkata, telah menceritakan kepadaku [Marzuq Abu Bakr] dari [Qatadah] dari [Anas] ia berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Allah Azza Wa Jalla berfirman: \"Orang yang berjihad fi sabilillah menjadi tanggungan-Ku, jika Aku pengang (cabut) ruhnya maka akan Aku masukkan ke dalam surga, dan jika Aku kembalikan maka Aku kembalikan ia dengan membawa pahala dan ghanimah.\" Abu Isa berkata, \"Hadits ini derajatnya shahih gharib dari jalur periwayatan ini",
+          "tr": "Enes (r.a.)’den rivâyete göre, şöyle demiştir: Rasûlullah (s.a.v.) şöyle buyurdu: “Allah şöyle diyor: Allah adına Allah yolunda cihâd eden kişi benim güvencem altındadır. Ruhunu alırsam kendisine Cenneti varis kılarım şayet memleketlerine geri çevirirsem sevap ve ganimetlerle çeviririm.” Tirmizî rivâyet etmiştir. Tirmizî: Bu hadis bu şekliyle sahih garibtir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 22,
+        "hadith": 2
+      },
+      "narrator": {
+        "en": "Anas bin Malik"
+      }
+    },
+    {
+      "hadithNumber": 1621,
+      "arabicNumber": 1621,
+      "book": 22,
+      "hadithInBook": 3,
+      "text": {
+        "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ مُحَمَّدٍ، أَخْبَرَنَا عَبْدُ اللَّهِ بْنُ الْمُبَارَكِ، أَخْبَرَنَا حَيْوَةُ بْنُ شُرَيْحٍ، قَالَ أَخْبَرَنِي أَبُو هَانِئٍ الْخَوْلاَنِيُّ، أَنَّ عَمْرَو بْنَ مَالِكٍ الْجَنْبِيَّ، أَخْبَرَهُ أَنَّهُ، سَمِعَ فَضَالَةَ بْنَ عُبَيْدٍ، يُحَدِّثُ عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم أَنَّهُ قَالَ ‏\"‏ كُلُّ مَيِّتٍ يُخْتَمُ عَلَى عَمَلِهِ إِلاَّ الَّذِي مَاتَ مُرَابِطًا فِي سَبِيلِ اللَّهِ فَإِنَّهُ يُنْمَى لَهُ عَمَلُهُ إِلَى يَوْمِ الْقِيَامَةِ وَيَأْمَنُ مِنْ فِتْنَةِ الْقَبْرِ ‏\"‏ ‏.‏ وَسَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\"‏ الْمُجَاهِدُ مَنْ جَاهَدَ نَفْسَهُ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى وَفِي الْبَابِ عَنْ عُقْبَةَ بْنِ عَامِرٍ وَجَابِرٍ ‏.‏ وَحَدِيثُ فَضَالَةَ بْنِ عُبَيْدٍ حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏",
+        "translations": {
+          "en": "Narrated Fadalah bin 'Ubaid: That the Messenger of Allah (ﷺ) said: \"The deeds of everyone who dies are sealed. Except for the one who dies guarding the frontier from the enemy, in the cause of Allah. For indeed his actions are increased for him until the Day of Judgement, and he is secure from the tribulation of the grave.\" And I heard the Messenger of Allah (ﷺ) saying: \"The Mujahid is one who strives against his own soul.\" [Abu 'Eisa said:] There are narrations on this topic from 'Uqbah bin 'Amir and Jabir. The Hadith is Fadalah is a Hasan Sahih Hadith",
+          "ur": "فضالہ بن عبید رضی الله عنہ سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”ہر میت کے عمل کا سلسلہ بند کر دیا جاتا ہے سوائے اس شخص کے جو اللہ کے راستے میں سرحد کی پاسبانی کرتے ہوئے مرے، تو اس کا عمل قیامت کے دن تک بڑھایا جاتا رہے گا اور وہ قبر کے فتنہ سے مامون رہے گا، میں نے رسول اللہ صلی اللہ علیہ وسلم کو یہ بھی فرماتے ہوئے سنا: مجاہد وہ ہے جو اپنے نفس سے جہاد کرے“ ۱؎۔ امام ترمذی کہتے ہیں: ۱- فضالہ کی حدیث حسن صحیح ہے، ۲- اس باب میں عقبہ بن عامر اور جابر رضی الله عنہما سے بھی احادیث آئی ہیں۔",
+          "id": "Telah menceritakan kepada kami [Ahmad bin Muhammad] berkata, telah mengabarkan kepada kami [Abdullah Ibnul Mubarak] berkata, telah mengabarkan kepada kami [Haiwah bin Syuraih] ia berkata; telah mengabarkan kepadaku [Abu Hani Al Khaulani] bahwa [Amru bin Malik Al Janbi] telah mendengar [Fadhalah bin Ubaid] menceritakan dari Rasulullah shallallahu 'alaihi wasallam, beliau bersabda: \"Setiap mayit ditutup berdasarkan amalnya kecuali orang yang mati saat berjaga di jalan Allah, maka amalnya akan tetap berkembang hingga hari kiamat, dan ia akan aman dari fitnah Dajjal.\" Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: \"Mujahid adalah orang yang bisa melawan dirinya sendiri.\" Abu Isa berkata, \"Dalam bab ini juga ada hadits dari Uqbah bin Amir dan Jabir. Dan hadits Fadhalah ini derajatnya hasan shahih",
+          "tr": "Fedâle b. Ubeyd (r.a.), Rasûlullah (s.a.v.)’den bize aktararak şöyle demiştir: “Her ölen kimsenin amel defteri kapanır ancak Allah yolunda kalbi cihâda bağlı olarak ölen kimse müstesna onun ameli kıyamet gününe kadar çoğalıp artar ve o kimse kabir fitnesinden de güvendedir.” Ve Rasûlullah (s.a.v.)’in şöyle buyurduğunu da işittim: “Mûcâhid nefsinin isteklerine karşı cihâd ederek günahlardan uzak durmak için mücadele eden kimsedir.” Diğer tahric: Müslim, Imara; Ebû Dâvûd, Cihâd Tirmizî: Bu konuda Ukbe b. Âmir ve Câbir’den de hadis rivâyet edilmiştir. Tirmizî: Fudale hadisi hasen sahihtir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 22,
+        "hadith": 3
+      },
+      "narrator": {
+        "en": "Fadalah bin 'Ubaid"
+      }
+    },
+    {
+      "hadithNumber": 1622,
+      "arabicNumber": 1622,
+      "book": 22,
+      "hadithInBook": 4,
+      "text": {
+        "arabic": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا ابْنُ لَهِيعَةَ، عَنْ أَبِي الأَسْوَدِ، عَنْ عُرْوَةَ بْنِ الزُّبَيْرِ، وَسُلَيْمَانَ بْنِ يَسَارٍ، أَنَّهُمَا حَدَّثَاهُ عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ مَنْ صَامَ يَوْمًا فِي سَبِيلِ اللَّهِ زَحْزَحَهُ اللَّهُ عَنِ النَّارِ سَبْعِينَ خَرِيفًا ‏\"‏ ‏.‏ أَحَدُهُمَا يَقُولُ سَبْعِينَ وَالآخَرُ يَقُولُ أَرْبَعِينَ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ غَرِيبٌ مِنْ هَذَا الْوَجْهِ ‏.‏ وَأَبُو الأَسْوَدِ اسْمُهُ مُحَمَّدُ بْنُ عَبْدِ الرَّحْمَنِ بْنِ نَوْفَلٍ الأَسَدِيُّ الْمَدَنِيُّ ‏.‏ قَالَ أَبُو عِيسَى وَفِي الْبَابِ عَنْ أَبِي سَعِيدٍ وَأَنَسٍ وَعُقْبَةَ بْنِ عَامِرٍ وَأَبِي أُمَامَةَ ‏.‏",
+        "translations": {
+          "en": "Narrated Abu Al-Aswad : From 'Urwah [bin Az-Zubair], and Sulaiman bin Yasar, that they reported to him from Abu Hurairah that the Prophet (ﷺ) said: \"Whoever fasts a day in the cause of Allah, Allah shall distance him from the Fire by seventy autumns.\" One of them said \"seventy\" and the other said: \"forty\". [Abu 'Eisa said:] This Hadith is a Gharib Hadith from this route. Abu Al-Aswad's name is Muhammad bin 'Abdur-Rahman bin Nawfal Al-Asadi Al-Madani. There are narrations on this topic from Abu Sa'eed, Anas, 'Uqbah bin 'Amir, and Abu Umamah",
+          "ur": "ابوہریرہ رضی الله عنہ سے روایت ہے کہ اکرم صلی اللہ علیہ وسلم نے فرمایا: ”جو شخص جہاد کرتے وقت ایک دن کا روزہ رکھے اللہ تعالیٰ اسے ستر سال کی مسافت تک جہنم سے دور کرے گا“ ۱؎۔ عروہ بن زبیر اور سلیمان بن یسار میں سے ایک نے ”ستر برس“ کہا ہے اور دوسرے نے ”چالیس برس“۔ امام ترمذی کہتے ہیں: ۱ – یہ حدیث اس سند سے غریب ہے، ۲- راوی ابوالاسود کا نام محمد بن عبدالرحمٰن بن نوفل اسدی مدنی ہے، ۳- اس باب میں ابوسعید، انس، عقبہ بن عامر اور ابوامامہ رضی الله عنہم سے بھی احادیث آئی ہیں۔",
+          "id": "Telah menceritakan kepada kami [Qutaibah] berkata, telah menceritakan kepada kami [Ibnu Lahi'ah] dari [Abul Aswad] dari [Urwah bin Az Zubair] dan [Sulaiman bin Yasar] bahwa keduanya telah menceritakan kepadanya (Abul Aswad) dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: \"Barangsiapa berpuasa satu hari di jalan Allah, maka Allah akan menjauhkannya dari api neraka selama tujuh puluh musim.\" Salah seorang dari keduanya meriwayatkan dengan lafadz, 'Tujuh puluh', sementara yang lain dengan lafadz, 'empat puluh'.\" Abu Isa berkata, \"Hadits ini derajatnya gharib melalui jalur periwayatan ini. Dan Abul Aswad nama aslinya adalah Muhammad bin 'Abdurrahman bin Naufal Al Asadi? orang Madinah. Dan dalam bab ini juga ada hadits dari Abu Sa'id, Anas, Uqbah bin Amir dan Abu Umamah",
+          "tr": "Ebû Hureyre (r.a.)’den rivâyete göre, Rasûlullah (s.a.v.) şöyle buyurmuştur: “Allah yolunda savaş yaparken kim bir gün oruç tutarsa Allah o kimseyi Cehennem’den yetmiş yıl uzaklaştırır.” Râvîlerden biri yetmiş yıl derken diğeri kırk yıl demektedir. Diğer tahric: Nesâî, Savm Tirmizî: Bu hadis bu şekliyle garibtir. Ebûl Esved’in ismi Muhammed b. Abdurrahman b. Nevfel el esedî olup Medînelidir. Tirmizî: Bu konuda Ebû Saîd, Enes, Ukbe b. Âmir ve Ebû Umâme’den de hadis rivâyet edilmiştir. Mahir: Metinde sadece ‘’Allah yolunda’’ ifadesi var Nesai de bu hadis فضل الصيام وذكر الاختلاف على أبي إسحاق في حديث علي بن أبي طالب في ذلك Başlığı altında zikretmiş ve oruç kitabında geçmektedir. Tirmizi ise Cihad’ın faziletleri kitabında ele almış, Seyehatte özellikle cihad’a giderken orucun tutulmamasına dair birçok hadis var iken bu hadis’in bu şekilde tercümesi dikkat çekici"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 22,
+        "hadith": 4
+      },
+      "narrator": {
+        "en": "Abu Al-Aswad"
+      }
+    },
+    {
+      "hadithNumber": 1623,
+      "arabicNumber": 1623,
+      "book": 22,
+      "hadithInBook": 5,
+      "text": {
+        "arabic": "حَدَّثَنَا سَعِيدُ بْنُ عَبْدِ الرَّحْمَنِ الْمَخْزُومِيُّ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ الْوَلِيدِ الْعَدَنِيُّ، حَدَّثَنَا سُفْيَانُ الثَّوْرِيُّ، قَالَ وَحَدَّثَنَا مَحْمُودُ بْنُ غَيْلاَنَ، حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مُوسَى، عَنْ سُفْيَانَ، عَنْ سُهَيْلِ بْنِ أَبِي صَالِحٍ، عَنِ النُّعْمَانِ بْنِ أَبِي عَيَّاشٍ الزُّرَقِيِّ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ لاَ يَصُومُ عَبْدٌ يَوْمًا فِي سَبِيلِ اللَّهِ إِلاَّ بَاعَدَ ذَلِكَ الْيَوْمُ النَّارَ عَنْ وَجْهِهِ سَبْعِينَ خَرِيفًا ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏",
+        "translations": {
+          "en": "Narrated Abu Sa’id Al Khudri : That the Prophet (ﷺ) said: \"A worshipper does not fast a day in the cause of Allah except that, that day (of fasting) distances the Fire from his face by seventy autumns.\" [Abu 'Eisa said:] This Hadith is Hasan Sahih",
+          "ur": "ابو سعید خدری رضی الله عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”راہ جہاد میں کوئی بندہ ایک دن بھی روزہ رکھتا ہے تو وہ دن اس کے چہرے سے ستر سال کی مسافت تک جہنم کی آگ کو دور کر دے گا“۔ امام ترمذی کہتے ہیں: یہ حدیث حسن صحیح ہے۔",
+          "id": "Telah menceritakan kepada kami [Sa'id bin 'Abdurrahman Al Makhzumi] berkata, telah menceritakan kepada kami [Abdullah bin Al Walid Al Adani] berkata, telah menceritakan kepada kami [Sufyan Ats Tsauri] ia berkata; dan Telah menceritakan kepada kami [Mahmud bin Ghailan] berkata, telah menceritakan kepada kami [Ubaidullah bin Musa] dari [Sufyan] dari [Suhail bin Abu Shalih] dari [An Nu'man bin Abu Ayyasy Az Zuraqi] dari [Abu Sa'id Al Khudri] ia berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Tidaklah seorang hamba berpuasa satu hari di jalan Allah, kecuali puasa satu hari itu akan menjauhkannya dari api neraka selama tujuh puluh musim (tahun).\" Abu Isa berkata, \"Hadits ini derajatnya hasan shahih",
+          "tr": "Ebû Saîd el Hudrî (r.a.)’den rivâyet edildiğine göre, Rasûlullah (s.a.v.) şöyle buyurmuştur: “Allah yolunda cihâd ederken kim bir gün oruç tutarsa Allah bu orucundan dolayı ondan Cehennem ateşini yetmiş yıl uzaklaştırır.” Diğer tahric: Nesâî, Savm Tirmizî: Bu hadis hasen sahihtir. Mahir: Metinde sadece ‘’Allah yolunda’’ ifadesi var Nesai de bu hadis فضل الصيام وذكر الاختلاف على أبي إسحاق في حديث علي بن أبي طالب في ذلك Başlığı altında zikretmiş ve oruç kitabında geçmektedir. Tirmizi ise Cihad’ın faziletleri kitabında ele almış, Seyehatte özellikle cihad’a giderken orucun tutulmamasına dair birçok hadis var iken bu hadis’in bu şekilde tercümesi dikkat çekici"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 22,
+        "hadith": 5
+      },
+      "narrator": {
+        "en": "Abu Sa’id Al Khudri"
+      }
+    },
+    {
+      "hadithNumber": 1624,
+      "arabicNumber": 1624,
+      "book": 22,
+      "hadithInBook": 6,
+      "text": {
+        "arabic": "حَدَّثَنَا زِيَادُ بْنُ أَيُّوبَ، حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، أَخْبَرَنَا الْوَلِيدُ بْنُ جَمِيلٍ، عَنِ الْقَاسِمِ أَبِي عَبْدِ الرَّحْمَنِ، عَنْ أَبِي أُمَامَةَ الْبَاهِلِيِّ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ مَنْ صَامَ يَوْمًا فِي سَبِيلِ اللَّهِ جَعَلَ اللَّهُ بَيْنَهُ وَبَيْنَ النَّارِ خَنْدَقًا كَمَا بَيْنَ السَّمَاءِ وَالأَرْضِ ‏\"‏ ‏.‏ هَذَا حَدِيثٌ غَرِيبٌ مِنْ حَدِيثِ أَبِي أُمَامَةَ ‏.‏",
+        "translations": {
+          "en": "Narrated Abu Umamah Al-Bahili: That the Prophet (ﷺ) said, \"Whoever fasts a day in the cause of Allah, Allah shall put between him and the Fire a trench whose distance is like that between the heavens and the earth.\" This Hadith is Gharib as a narration of Abu Umamah",
+          "ur": "ابوامامہ باہلی رضی الله عنہ سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: ”جہاد میں جو شخص ایک دن روزہ رکھے گا اللہ تعالیٰ اس کے اور آگ کے درمیان اسی طرح کی ایک خندق بنا دے گا جیسی زمین و آسمان کے درمیان ہے“۔ یہ حدیث ابوامامہ کی روایت سے غریب ہے۔",
+          "id": "Telah menceritakan kepada kami [Ziyad bin Ayyub] berkata, telah menceritakan kepada kami [Yazid bin harun] berkata, telah mengabarkan kepada kami [Al Walid bin Jamil] dari [Al Qasim Abu 'Abdurrahman] dari [Abu Umamah Al Bahili] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: \"Barangsiapa berpuasa satu hari di jalan Allah, maka Allah akan menjadikan antara dirinya dengan neraka sebuah parit sejauh langit dan bumi.\" Hadits ini derajatnya hasan gharib, dari hadits Abu Umamah",
+          "tr": "Ebû Umâme el Bâhilî (r.a.)’den rivâyete göre, Nebi Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: “Her kim Allah yolunda savaş yaparken bir gün oruç tutarsa Allah ateşle o kimse arasında yeryüzü ile gökyüzü arası kadar bir hendek meydana getirir.” Diğer tahric: Nesâî, Savm Tirmizî: Ebû Umâme hadisi garibtir. Mahir: Metinde sadece ‘’Allah yolunda’’ ifadesi var Nesai de bu hadis فضل الصيام وذكر الاختلاف على أبي إسحاق في حديث علي بن أبي طالب في ذلك Başlığı altında zikretmiş ve oruç kitabında geçmektedir. Tirmizi ise Cihad’ın faziletleri kitabında ele almış, Seyehatte özellikle cihad’a giderken orucun tutulmamasına dair birçok hadis var iken bu hadis’in bu şekilde tercümesi dikkat çekici"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 22,
+        "hadith": 6
+      },
+      "narrator": {
+        "en": "Abu Umamah Al-Bahili"
+      }
+    },
+    {
+      "hadithNumber": 1625,
+      "arabicNumber": 1625,
+      "book": 22,
+      "hadithInBook": 7,
+      "text": {
+        "arabic": "حَدَّثَنَا أَبُو كُرَيْبٍ، حَدَّثَنَا الْحُسَيْنُ بْنُ عَلِيٍّ الْجُعْفِيُّ، عَنْ زَائِدَةَ، عَنِ الرُّكَيْنِ بْنِ الرَّبِيعِ، عَنْ أَبِيهِ، عَنْ يُسَيْرِ بْنِ عَمِيلَةَ، عَنْ خُرَيْمِ بْنِ فَاتِكٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ مَنْ أَنْفَقَ نَفَقَةً فِي سَبِيلِ اللَّهِ كُتِبَتْ لَهُ بِسَبْعِمِائَةِ ضِعْفٍ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى وَفِي الْبَابِ عَنْ أَبِي هُرَيْرَةَ ‏.‏ وَهَذَا حَدِيثٌ حَسَنٌ إِنَّمَا نَعْرِفُهُ مِنْ حَدِيثِ الرُّكَيْنِ بْنِ الرَّبِيعِ ‏.‏",
+        "translations": {
+          "en": "Narrated Khuraim bin Fatik: That the Messenger of Allah (ﷺ) said: \"Whoever spends a sum in the cause of Allah, it is recorded for him seven-hundred fold.\" [Abu 'Eisa said:] There are something on this topic from Abu Hurairah. This Hadith is Hasan, we only know of it from the narration of Ar-Rukain bin Ar-Rabi' (a narrator in the chain of this Hadith)",
+          "ur": "خریم بن فاتک رضی الله عنہ سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”جس نے اللہ کے راستے ( جہاد ) میں کچھ خرچ کیا اس کے لیے سات سو گنا ( ثواب ) لکھ لیا گیا“۔ امام ترمذی کہتے ہیں: ۱- یہ حدیث حسن ہے، اس حدیث کو ہم رکین بن ربیع ہی کی روایت سے جانتے ہیں، ۲- اس باب میں ابوہریرہ رضی الله عنہ سے بھی روایت ہے۔",
+          "id": "Telah menceritakan kepada kami [Abu Kuraib] berkata, telah menceritakan kepada kami [Al Husain bin Ali Al Ju'fi] dari [Zaidah] dari [Ar Rukain bin Ar Rabi'] dari [Bapaknya] dari [Yusair bin Amilah] dari [Khuraim bin Fatik] ia berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Barangsiapa berinfak di jalan Allah maka akan dituliskan untuknya tujuh ratus lipat kebaikan.\" Abu Isa berkata, \"Dalam bab ini juga ada hadits dari Abu Hurairah. Dan hadits ini derajatnya hasan, kami hanya mengetahuinya dari hadits Ar rukain bin Ar Rabi",
+          "tr": "Hureym b. Fatik (r.a.)’den rivâyete göre, Rasûlullah (s.a.v.) şöyle buyurmuştur: “Her kim Allah yolunda bir harcama yaparsa o yaptığı harcama için kendisine yediyüz misli sevap yazılır.” Diğer tahric: Nesai, Cihâd Tirmizî: Bu konuda Ebû Hüreyre’den de hadis rivâyet edilmiştir. Bu hadis hasen sahihtir. Bu hadisi sadece Rükeyn b. Rabî’in rivâyeti ile bilmekteyiz"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 22,
+        "hadith": 7
+      },
+      "narrator": {
+        "en": "Khuraim bin Fatik"
+      }
+    },
+    {
+      "hadithNumber": 1626,
+      "arabicNumber": 1626,
+      "book": 22,
+      "hadithInBook": 8,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ رَافِعٍ، حَدَّثَنَا زَيْدُ بْنُ حُبَابٍ، حَدَّثَنَا مُعَاوِيَةُ بْنُ صَالِحٍ، عَنْ كَثِيرِ بْنِ الْحَارِثِ، عَنِ الْقَاسِمِ أَبِي عَبْدِ الرَّحْمَنِ، عَنْ عَدِيِّ بْنِ حَاتِمٍ الطَّائِيِّ، أَنَّهُ سَأَلَ رَسُولَ اللَّهِ صلى الله عليه وسلم أَىُّ الصَّدَقَةِ أَفْضَلُ قَالَ ‏ \"‏ خِدْمَةُ عَبْدٍ فِي سَبِيلِ اللَّهِ أَوْ ظِلُّ فُسْطَاطٍ أَوْ طَرُوقَةُ فَحْلٍ فِي سَبِيلِ اللَّهِ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى وَقَدْ رُوِيَ عَنْ مُعَاوِيَةَ بْنِ صَالِحٍ هَذَا الْحَدِيثُ مُرْسَلاً وَخُولِفَ زَيْدٌ فِي بَعْضِ إِسْنَادِهِ ‏.‏ قَالَ وَرَوَى الْوَلِيدُ بْنُ جَمِيلٍ هَذَا الْحَدِيثَ عَنِ الْقَاسِمِ أَبِي عَبْدِ الرَّحْمَنِ عَنْ أَبِي أُمَامَةَ عَنِ النَّبِيِّ صلى الله عليه وسلم ‏.‏",
+        "translations": {
+          "en": "Narrated 'Adi bin Hatim At-Tai: That he asked the Messenger of Allah (ﷺ), \"Which charity is most virtuous?\" He said, \"The service of a worshipper in the cause of Allah, or providing the shade of tent, or mount in the cause of Allah.\" [Abu 'Eisa said:] This Hadith has been reported from Mu'awiyah bin Salih in Mursal form.And Zaid has been contradicted concerning part of its chain. He said: And Al-Walim bin Jamil has reported this Hadith from Al-Qasim Abu 'Abdur-Rahman, from Abu Umamah, from the Prophet (ﷺ)",
+          "ur": "عدی بن حاتم طائی رضی الله عنہ سے روایت ہے کہ انہوں نے رسول اللہ صلی اللہ علیہ وسلم سے سوال کیا: کون سا صدقہ افضل ہے؟ آپ نے فرمایا: ”اللہ کے راستے میں ( کسی مجاہد کو ) غلام کا عطیہ دینا یا ( مجاہدین کے لیے ) خیمہ کا سایہ کرنا، یا اللہ کے راستے میں جوان اونٹنی دینا“۔ امام ترمذی کہتے ہیں: ۱- معاویہ بن صالح سے یہ حدیث مرسل طریقہ سے بھی آئی ہے، ۲- بعض اسناد ( طرق ) میں زید ( بن حباب ) کی مخالفت کی گئی ہے، اس حدیث کو ولید بن جمیل نے قاسم ابوعبدالرحمٰن سے، قاسم نے ابوامامہ سے، اور ابوامامہ نے نبی اکرم صلی اللہ علیہ وسلم سے روایت کی ہے، ہم سے اس حدیث کو زیاد بن ایوب نے بیان کیا ہے۔",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Rafi'] berkata, telah menceritakan kepada kami [Zaid bin Hubab] berkata, telah menceritakan kepada kami [Mu'awiyah bin Shalih] dari [Katsir Ibnul Harits] dari [Al Qasim bin 'Abdurrahman] dari [Adi bin Hatim Ath Tha`i] Bahwasanya ia pernah bertanya kepada Nabi shallallahu 'alaihi wasallam, \"Sedekah apa yang paling utama?\" beliau menjawab: \"Memperbantukan seorang budak untuk jihad di jalan Allah, atau mendirikan kemah untuk berlindung seornag mujahid, atau memberikan seekor unta di jalan Allah.\" Abu Isa berkata, \"Hadits ini telah diriwayatkan dari Mu'awiyah bin Shalih secara mursal.\" Dan Zaid masih dipertentangkan dalam beberapa sanadnya",
+          "tr": "Adiyy b. Hâtim el Tâî (r.a.)’den rivâyete göre: Adiyy, Rasûlullah (s.a.v.)’e hangi sadaka daha faziletlidir diye sordu. Rasûlullah (s.a.v.)’de şöyle buyurdu: “Allah yolunda çarpışan kimselere hizmet için verilecek bir köle veya onların gölgelenebileceği çadır veya başka türlü bir gölgelik veya mücahid’in binebileceği bir binit veya yemeleri için kesilen bir deve.” Tirmizî rivâyet etmiştir. Tirmizî: Bu hadis Muaviye b. Salih tarfından mürsel olarak rivâyet edilmiştir. Bazı rivâyetlerin senedinde Zeyd’e muhalefet edilmiştir. Velid b. Cemil bu hadisi; Kâsım ebû Abdurrahman’dan, Ebû Umâme’den bu şekilde Ziyâd b. Eyyûb’tan bize aktarmıştır"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 22,
+        "hadith": 8
+      },
+      "narrator": {
+        "en": "'Adi bin Hatim At-Tai"
+      }
+    },
+    {
+      "hadithNumber": 1627,
+      "arabicNumber": 1627,
+      "book": 22,
+      "hadithInBook": 9,
+      "text": {
+        "arabic": "حَدَّثَنَا بِذَلِكَ، زِيَادُ بْنُ أَيُّوبَ حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، أَخْبَرَنَا الْوَلِيدُ بْنُ جَمِيلٍ، عَنِ الْقَاسِمِ أَبِي عَبْدِ الرَّحْمَنِ، عَنْ أَبِي أُمَامَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ أَفْضَلُ الصَّدَقَاتِ ظِلُّ فُسْطَاطٍ فِي سَبِيلِ اللَّهِ وَمَنِيحَةُ خَادِمٍ فِي سَبِيلِ اللَّهِ أَوْ طَرُوقَةُ فَحْلٍ فِي سَبِيلِ اللَّهِ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ غَرِيبٌ وَهُوَ أَصَحُّ عِنْدِي مِنْ حَدِيثِ مُعَاوِيَةَ بْنِ صَالِحٍ ‏.‏",
+        "translations": {
+          "en": "Narrated Abu Umamah: That the Messenger of Allah (ﷺ) said: \"The most virtuous of charitable spending is the shade of a tent in the cause of Allah, or giving a servant in the cause of Allah, or a riding camel in the cause of Allah.\" [Abu 'Eisa said:] This Hadith is Hasan Gharib Sahih, and it is more correct to me than the narration of Mu'awiyah bin Salih",
+          "ur": "ابوامامہ رضی الله عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”جہاد میں ( مجاہدین کے لیے ) خیمہ کا سایہ کرنا، خادم کا عطیہ دینا اور جوان اونٹنی دینا سب سے افضل و بہتر صدقہ ہے“۔ امام ترمذی کہتے ہیں: ۱- یہ حدیث حسن صحیح غریب ہے، ۲- میرے نزدیک یہ معاویہ بن صالح کی حدیث سے زیادہ صحیح ہے۔",
+          "id": "Ia berkata; [Al Walid bin Jamil] menceritakan hadits ini dari [Al Qasim Abu 'Abdurrahman] dari [Abu Umamah] dari Nabi shallallahu 'alaihi wasallam. seperti itu pula yang diceritakan oleh [Ziyad bin Ayyub] berkata, telah menceritakan kepada kami [Yazid bin Harun] berkata, telah mengabarkan kepada kami [Al Walid bin Jamil] dari [Al Qasim Abu 'Abdurrahman] dari [Abu Umamah] ia berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Sedekah yang paling utama adalah mendirikan kemah, memperbantukan seorang budak dan memberikan unta di jalan Allah.\" Abu Isa berkata, \"Hadits ini derajatnya hasan shahih gharib, dan menurutku hadits ini lebih shahih dari hadits Mu'awiyah bin Shalih",
+          "tr": "Ebû Umâme (r.a.)’den rivâyete göre, şöyle demiştir: Rasûlullah (s.a.v.) şöyle buyurdu: “Harcamaların en değerli ve kıymetlisi Allah yolunda çarpışan mücahide bağışlanan çadır gölgesi veya Allah yolunda çarpışan mücahide hizmet edecek hizmetçi veya Allah yolunda çarpışan mücahidin bineceği bir binit.” Diğer tahric: İbn Mâce, Cihâd; Nesâî, Cihâd Tirmizî: Bu hadis hasen sahih garibtir. Benim yanımda bir önceki geçen Muaviye b. Salih’in hadisinden daha sahihtir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 22,
+        "hadith": 9
+      },
+      "narrator": {
+        "en": "Abu Umamah"
+      }
+    },
+    {
+      "hadithNumber": 1628,
+      "arabicNumber": 1628,
+      "book": 22,
+      "hadithInBook": 10,
+      "text": {
+        "arabic": "حَدَّثَنَا أَبُو زَكَرِيَّا، يَحْيَى بْنُ دُرُسْتَ الْبَصْرِيُّ حَدَّثَنَا أَبُو إِسْمَاعِيلَ، حَدَّثَنَا يَحْيَى بْنُ أَبِي كَثِيرٍ، عَنْ أَبِي سَلَمَةَ، عَنْ بُسْرِ بْنِ سَعِيدٍ، عَنْ زَيْدِ بْنِ خَالِدٍ الْجُهَنِيِّ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ مَنْ جَهَّزَ غَازِيًا فِي سَبِيلِ اللَّهِ فَقَدْ غَزَا وَمَنْ خَلَفَ غَازِيًا فِي أَهْلِهِ فَقَدْ غَزَا ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ وَقَدْ رُوِيَ مِنْ غَيْرِ هَذَا الْوَجْهِ ‏.‏",
+        "translations": {
+          "en": "Narrated Zaid bin Khalid Al-Juhani: That the Messenger of Allah (ﷺ) said, \"Whoever prepares a fighter in Allah's cause, he has participated in a military expedition, and whoever looks after the family of a fighter, he has participated in a military expedition.\" [Abu 'Eisa said:] This Hadith is Hasan Sahih, and it has been reported through more than one route",
+          "ur": "زید بن خالد جہنی رضی الله عنہ سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”جس نے اللہ کی راہ میں جہاد کرنے والے کا سامان سفر تیار کیا حقیقت میں اس نے جہاد کیا اور جس نے غازی کے اہل و عیال میں اس کی جانشینی کی ( اس کے اہل و عیال کی خبرگیری کی ) حقیقت میں اس نے جہاد کیا“۔ امام ترمذی کہتے ہیں: یہ حدیث حسن صحیح ہے، یہ دوسری سند سے بھی آئی ہے۔",
+          "id": "Telah menceritakan kepada kami [Abu Zakariya Yahya bin Durusta Al Bashri] berkata, telah menceritakan kepada kami [Abu Isma'il] berkata, telah menceritakan kepada kami [Yahya bin Abu Katsir] dari [Abu Salamah] dari [Busr bin Sa'id] dari [Zaid bin Khalid Al Juhani] dari Rasulullah shallallahu 'alaihi wasallam, beliau bersabda: \"Barangsiapa menyediakan bekal kepada seorang mujahid di jalan Allah maka ia telah berjihad. Dan barangsiapa menanggung keluarga orang yang berjihad, maka ia telah berjihad.\" Abu Isa berkata, \"Hadits ini derajatnya hasan shahih, hadits ini juga telah diriwayatkan dari selain jalur ini",
+          "tr": "Zeyd b. Hâlid el Cühenî (r.a.)’den rivâyet edildiğine göre, Rasûlullah (s.a.v.) şöyle buyurmuştur: “Her kim Allah yolunda savaşacak olan bir mücahidi gerekli silah, binit ve malzeme ile donatacak olursa bizzat kendisi savaş yapmış gibi sevap kazanır. Her kimde savaşa çıkan bir mücahidin çoluk çocuğunun ihtiyaçlarını karşılarsa yine o da savaş yapmış gibi sevap kazanır.” Diğer tahric: Nesâî, Cihâd; İbn Mâce, Cihâd Tirmizî: Bu hadis hasen sahih olup başka şekilde de rivâyet edilmiştir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 22,
+        "hadith": 10
+      },
+      "narrator": {
+        "en": "Zaid bin Khalid Al-Juhani"
+      }
+    },
+    {
+      "hadithNumber": 1629,
+      "arabicNumber": 1629,
+      "book": 22,
+      "hadithInBook": 11,
+      "text": {
+        "arabic": "حَدَّثَنَا ابْنُ أَبِي عُمَرَ، حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنِ ابْنِ أَبِي لَيْلَى، عَنْ عَطَاءٍ، عَنْ زَيْدِ بْنِ خَالِدٍ الْجُهَنِيِّ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ مَنْ جَهَّزَ غَازِيًا فِي سَبِيلِ اللَّهِ أَوْ خَلَفَهُ فِي أَهْلِهِ فَقَدْ غَزَا ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ ‏.‏",
+        "translations": {
+          "en": "Narrated Zaid bin Khalid Al-Juhani: That the Messenger of Allah (ﷺ) said, \"Whoever prepares a fighter in Allah's cause, or looks after the family of a fighter, then he has participated in a military expedition.\" [Abu 'Eisa said:] This Hadith is Hasan Sahih",
+          "ur": "زید بن خالد جہنی رضی الله عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”جس نے کسی مجاہد کا سامان سفر تیار کیا، یا اس کے گھر والے کی خبرگیری کی حقیقت میں اس نے جہاد کیا“۔ امام ترمذی کہتے ہیں: یہ حدیث حسن ہے۔",
+          "id": "Telah menceritakan kepada kami [Ibnu Abu Umar] berkata, telah menceritakan kepada kami [Sufyan bin Uyainah] dari [Ibnu Abu Laila] dari [Atha] dari [Zaid bin Khalid Al Juhani] ia berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Barangsiapa memberi bekal seorang mujahid di jalan Allah, atau menanggung keluarga yang ditinggalkannya, maka ia telah berjihad.\" Abu Isa berkata, \"Hadits ini derajatnya hasan shahih. Telah menceritakan kepada kami [Muhammad bin Basysyar] berkata, telah menceritakan kepada kami [Yahya bin Sa'id] berkata, telah menceritakan kepada kami [Abdul Malik bin Abu Sulaiman] dari [Atha] dari [Zaid bin Khalid Al Juhani] dari Nabi shallallahu 'alaihi wasallam, seperti hadits tersebut",
+          "tr": "Zeyd b. Hâlid el Cühenî (r.a.)’den rivâyete göre, Rasûlullah (s.a.v.) şöyle buyurmuştur: “Her kim Allah yolunda çarpışan bir mücahidi gerekli silah binit ve malzeme ile donatır veya mücahidin çoluk çocuğunun ihtiyaçlarını karşılarsa aynen savaşa katılmış gibi sevap kazanır.” Diğer tahric: Nesâî, Cihâd; İbn Mâce, Cihâd Tirmizî: Bu hadis hasendir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 22,
+        "hadith": 11
+      },
+      "narrator": {
+        "en": "Zaid bin Khalid Al-Juhani"
+      }
+    },
+    {
+      "hadithNumber": 1630,
+      "arabicNumber": 1630,
+      "book": 22,
+      "hadithInBook": 12,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، حَدَّثَنَا عَبْدُ الْمَلِكِ بْنُ أَبِي سُلَيْمَانَ، عَنْ عَطَاءٍ، عَنْ زَيْدِ بْنِ خَالِدٍ الْجُهَنِيِّ، عَنِ النَّبِيِّ صلى الله عليه وسلم نَحْوَهُ ‏.‏",
+        "translations": {
+          "en": "Narrated Zaid bin Khalid Al-Juhani: That the Prophet (ﷺ) said similarly",
+          "ur": "اس سند سے بھی زید بن خالد جہنی سے اسی جیسی حدیث مروی ہے۔",
+          "tr": "Muhammed b. Beşşâr (r.a.), Yahya b. Saîd vasıtasıyla Abdulmelik b. ebî Süleyman’dan, Atâ’dan, Zeyd b. Hâlid el Cühenî’den bu (1629.) hadisin bir benzerini rivâyet etmişlerdir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 22,
+        "hadith": 12
+      },
+      "narrator": {
+        "en": "Zaid bin Khalid Al-Juhani"
+      }
+    },
+    {
+      "hadithNumber": 1631,
+      "arabicNumber": 1631,
+      "book": 22,
+      "hadithInBook": 13,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ، حَدَّثَنَا حَرْبُ بْنُ شَدَّادٍ، عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ، عَنْ أَبِي سَلَمَةَ، عَنْ بُسْرِ بْنِ سَعِيدٍ، عَنْ زَيْدِ بْنِ خَالِدٍ الْجُهَنِيِّ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ مَنْ جَهَّزَ غَازِيًا فِي سَبِيلِ اللَّهِ فَقَدْ غَزَا وَمَنْ خَلَفَ غَازِيًا فِي أَهْلِهِ فَقَدْ غَزَا ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏",
+        "translations": {
+          "en": "Narrated Zaid bin Khalid Al-Juhani: That the Messenger of Allah (ﷺ) said, \"Whoever prepares a fighter in Allah's cause, he has participated in a military expedition, and whoever watches after the family of a fighter, he has participated in a military expedition.\" [Abu 'Eisa said:] This Hadith is Hasan Sahih",
+          "ur": "زید بن خالد جہنی رضی الله عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”جس نے کسی مجاہد کا سامان سفر تیار کیا حقیقت میں اس نے جہاد کیا اور جس نے غازی کے گھر والے کی خبرگیری کی حقیقت میں اس نے جہاد کیا“۔ امام ترمذی کہتے ہیں: یہ حدیث حسن صحیح ہے۔",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Basysyar] berkata, telah menceritakan kepada kami ['Abdurrahman bin Mahdi] berkata, telah menceritakan kepada kami [Harb bin Syaddad] dari [Yahya bin Abu Katsir] dari [Abu Salamah] dari [Busr bin Sa'id] dari [Zaid bin Khalid Al Juhani] ia berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Barangsiapa memberi bekal kepada seorang mujahid di jalan Allah, maka ia telah berjihad. Dan barangsiapa menanggung keluarga seorang mujahid maka ia telah berjihad.\" Abu Isa berkata, \"Hadits ini derajatnya hasan shahih",
+          "tr": "Yine Zeyd b. Hâlid el Cühenî (r.a.)’den rivâyete göre, Rasûlullah (s.a.v.) şöyle buyurmuştur: “Her kim Allah yolunda çarpışan bir mücahidi gerekli silah, binit ve malzeme ile donatırsa veya mücahidin çoluk çocuğunun ihtiyacını karşılarsa aynan savaşa katılan gibi sevap kazanır.” Diğer tahric: Nesâî, Cihâd; İbn Mâce, Cihâd Tirmizî: Bu hadis hasen sahihtir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 22,
+        "hadith": 13
+      },
+      "narrator": {
+        "en": "Zaid bin Khalid Al-Juhani"
+      }
+    },
+    {
+      "hadithNumber": 1632,
+      "arabicNumber": 1632,
+      "book": 22,
+      "hadithInBook": 14,
+      "text": {
+        "arabic": "حَدَّثَنَا أَبُو عَمَّارٍ الْحُسَيْنُ بْنُ حُرَيْثٍ، حَدَّثَنَا الْوَلِيدُ بْنُ مُسْلِمٍ، عَنْ يَزِيدَ بْنِ أَبِي مَرْيَمَ، قَالَ لَحِقَنِي عَبَايَةُ بْنُ رِفَاعَةَ بْنِ رَافِعٍ وَأَنَا مَاشٍ، إِلَى الْجُمُعَةِ فَقَالَ أَبْشِرْ فَإِنَّ خُطَاكَ هَذِهِ فِي سَبِيلِ اللَّهِ سَمِعْتُ أَبَا عَبْسٍ يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ مَنِ اغْبَرَّتْ قَدَمَاهُ فِي سَبِيلِ اللَّهِ فَهُمَا حَرَامٌ عَلَى النَّارِ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ غَرِيبٌ صَحِيحٌ ‏.‏ وَأَبُو عَبْسٍ اسْمُهُ عَبْدُ الرَّحْمَنِ بْنُ جَبْرٍ ‏.‏ وَفِي الْبَابِ عَنْ أَبِي بَكْرٍ وَرَجُلٍ مِنْ أَصْحَابِ النَّبِيِّ صلى الله عليه وسلم ‏.‏ قَالَ أَبُو عِيسَى يَزِيدُ بْنُ أَبِي مَرْيَمَ هُوَ رَجُلٌ شَامِيٌّ رَوَى عَنْهُ الْوَلِيدُ بْنُ مُسْلِمٍ وَيَحْيَى بْنُ حَمْزَةَ وَغَيْرُ وَاحِدٍ مِنْ أَهْلِ الشَّامِ وَبُرَيْدُ بْنُ أَبِي مَرْيَمَ كُوفِيٌّ أَبُوهُ مِنْ أَصْحَابِ النَّبِيِّ صلى الله عليه وسلم وَاسْمُهُ مَالِكُ بْنُ رَبِيعَةَ وَبُرَيْدُ بْنُ أَبِي مَرْيَمَ سَمِعَ مِنْ أَنَسِ بْنِ مَالِكٍ وَرَوَى عَنْ بُرَيْدِ بْنِ أَبِي مَرْيَمَ أَبُو إِسْحَاقَ الْهَمْدَانِيُّ وَعَطَاءُ بْنُ السَّائِبِ وَيُونُسُ بْنُ أَبِي إِسْحَاقَ وَشُعْبَةُ أَحَادِيثَ ‏.‏",
+        "translations": {
+          "en": "Narrated Yazid bin Abu Maryam: \"Abayah bin Rifa'ah bin Rafi' met me while I was walking to the Friday prayer. He said: 'Have glad tidings, for indeed these footsteps of yours are in the cause of Allah. I heard Abu 'Abs say: \"The Messenger of Allah (ﷺ) said, 'Whoever get his two feet dusty in the path of Allah, then they are prohibited for the Fire.'\" [Abu 'Eisa said:] This Hadith is Hasan Sahih Gharib. Abu 'Abs's name is 'Abdur-Rahman bin Jabr. There are narrations on this topic from Abu Bkar and a man from the Companions of the Prophet (ﷺ). He said: Yazid bin Abi Maryam is a man from Ash-Sham. Al-Walid bin Muslim, Yahya bin Hamzah, and some others among the people of Ash-Sham report from him. Buraid bin Abi Maryam is form Al-Kufah. His father is one of the Companions of the Prophet (ﷺ) whose name was Malik bin Rabi'ah. [Buraid bin Abi Maryam heard from Anas bin Malik. Abu Ishaq Al-Hamdani, 'Ata bin As-Sa'ib, Yunus bin Abi Ishaq, and Shu'bah reported Ahadith from Buraid bin Abi Maryam]",
+          "ur": "یزید بن ابی مریم کہتے ہیں کہ میں جمعہ کے لیے جا رہا تھا کہ مجھے عبایہ بن رفاعہ بن رافع ملے، انہوں نے کہا: خوش ہو جاؤ، تمہارے یہ قدم اللہ کے راستے میں ہیں، میں نے ابوعبس رضی الله عنہ کو کہتے سنا کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”جس کے دونوں پیر اللہ کے راستے میں غبار آلود ہوں، انہیں جہنم کی آگ نہیں چھو سکتی“۔ امام ترمذی کہتے ہیں: ۱- یہ حدیث حسن غریب صحیح ہے، ۲- ابوعبس کا نام عبدالرحمٰن بن جبر ہے، ۳- اس باب میں ابوبکر اور ایک دوسرے صحابی سے بھی احادیث آئی ہیں۔",
+          "id": "Telah menceritakan kepada kami [Abu Ammar Al Husain bin Huraits] berkata, telah menceritakan kepada kami [Al Walid bin Muslim] dari [Yazid bin Abu Maryam] ia berkata, \" [Abayah bin Rifa'ah] menjumpaiku saat aku sedang berjalan menuju shalat jum'at, ia lalu berkata, \"Berbahagialah engkau, sebab langkah kakimu ini termasuk fi sabilillah. Aku mendengar [Abu Abas] berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Barangsiapa yang kedua kakinya berdebu di jalan Allah, maka keduanya diharamkan untuk masuk neraka.\" Abu Isa berkata, \"Hadits ini derajatnya hasan gharib shahih. Abu Abs nama aslinya adalah 'Abdurrahman bin Jabr. Dan dalam bab ini juga ada hadits dari Abu Bakar dan seorang laki-laki sahabat Nabi shallallahu 'alaihi wasallam.\" Abu Isa berkata, \"Yazid bin Abu Maryam adalah seorang yang berasal dari Syam, Al Walid bin Muslim, Yahya bin Hamzah dan beberapa orang dari penduduk Syam telah meriwayatkan darinya. Sementara Buraid bin Maryam adalah seorang yang berasal dari Kufah, bapaknya merupakan sahabat Nabi shallallahu 'alaihi wasallam. Nama asli (Buraid) adalah Malik bin Rabi'ah. Buraid bin Abu Maryam mendengar dari Anas bin Malik. Abu Ishaq Al Hamdani, Atha bin As Sa`ib, Yunus bin Abu Ishaq dan Syu'bah telah meriwayatkan beberapa hadits darinya",
+          "tr": "Yezîd b. ebî Meryem (radıyallahü anh)’den rivâyete göre, şöyle demiştir: Ben Cuma namazına gitmekte iken Abaye b. Rifâa arkamdan yetişti ve dedi ki: Müjdeler olsun sana senin bu adımların Allah yolunda sayılır; Ebû Abs’den işittim şöyle diyordu: Rasûlüllah (sallallahü aleyhi ve sellem) şöyle buyurdu: “Kimin Allah rızasını kazanma yolunda ayakları tozlanırsa o ayaklara Cehennem ateşi haramdır.” (Nesâî, Cihâd: 9) Bu hadis hasen garib sahihtir. Ebû Abs’ın ismi ise Abdurrahman b. Cebr’dir. konuda Ebû Bekir ve Rasûlüllah (sallallahü aleyhi ve sellem)’in ashabından bir adam tarafından da hadis rivâyet edilmiştir. Büreyd b. ebî Meryem, Şamlı bir kimse olup kendisinden Velid b. Müslim Yahya b. Hamza ve Şamlı pek çok kimse hadis rivâyet etmiştir. Bir de Küfeli Büreyd b. Ebû Meryem vardır ki bunun babası Peygamber (sallallahü aleyhi ve sellem)’in ashabından olup ismi Mâlik b. Rabia’dır. Bu Büreyd b. ebî Meryem, Enes b. Mâlik’den hadis işitmiştir. Büreyd b. ebî Meryem’den; Ebû İshâk el Hemedânî, Atâ b. Sâib, Yunus b. ebî İshâk ve Şu’be pek çok hadis rivâyet etmişlerdir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 22,
+        "hadith": 14
+      },
+      "narrator": {
+        "en": "Yazid bin Abu Maryam"
+      }
+    },
+    {
+      "hadithNumber": 1633,
+      "arabicNumber": 1633,
+      "book": 22,
+      "hadithInBook": 15,
+      "text": {
+        "arabic": "حَدَّثَنَا هَنَّادٌ، حَدَّثَنَا ابْنُ الْمُبَارَكِ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ عَبْدِ اللَّهِ الْمَسْعُودِيِّ، عَنْ مُحَمَّدِ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ عِيسَى بْنِ طَلْحَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ لاَ يَلِجُ النَّارَ رَجُلٌ بَكَى مِنْ خَشْيَةِ اللَّهِ حَتَّى يَعُودَ اللَّبَنُ فِي الضَّرْعِ وَلاَ يَجْتَمِعُ غُبَارٌ فِي سَبِيلِ اللَّهِ وَدُخَانُ جَهَنَّمَ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏ وَمُحَمَّدُ بْنُ عَبْدِ الرَّحْمَنِ هُوَ مَوْلَى أَبِي طَلْحَةَ مَدَنِيٌّ ‏.‏",
+        "translations": {
+          "en": "Narrated Abu Hurairah: That the Messenger of Allah (ﷺ) said, \"A man who wept out of the fear of Allah shall not enter the Fire until the milk returns to the udder; and dust in the cause of Allah and the smoke of Hell shall not come together.\" [Abu 'Eisa said:] This Hadith is Hasan Sahih. Muhammad bin 'Abdur-Rahman is freed slave of Abu Talhah, and he is from Al-Madinah",
+          "ur": "ابوہریرہ رضی الله عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”اللہ کے ڈر سے رونے والا جہنم میں داخل نہیں ہو گا یہاں تک کہ دودھ تھن میں واپس لوٹ جائے، ( اور یہ محال ہے ) اور جہاد کا غبار اور جہنم کا دھواں ایک ساتھ جمع نہیں ہوں گے“ ۱؎۔ امام ترمذی کہتے ہیں: یہ حدیث حسن صحیح ہے۔",
+          "id": "Telah menceritakan kepada kami [Hannad] berkata, telah menceritakan kepada kami [Ibnul Mubarak] dari ['Abdurrahman bin Abdullah Al Mas'udi] dari [Muhammad bin 'Abdurrahman] dari [Isa bin Thalhah] dari [Abu Hurairah] ia berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Tidak akan masuk ke dalam neraka seorang laki-laki yang menangis karena takut kepada Allah hingga susu kembali ke dalam kantungnya. Dan tidak akan berkumpul menjadi satu debu di jalan Allah dengan asap api neraka.\" Abu Isa berkata, \"Hadits ini derajatnya hasan shahih, dan Muhammad bin 'Abdurrahman adalah mantan budak (yang telah dimerdekakan oleh) Abu Thalhah, yang berasal dari madinah",
+          "tr": "Ebû Hureyre (r.a.)’den rivâyete göre, şöyle demiştir: Rasûlullah (s.a.v.) şöyle buyurdu: “Allah’ın azabından korktuğu için ağlayan bir kimse sağılan süt tekrar memeye dönmedikçe Cehennem ateşine girmeyecektir. Allah yolunda cihâd eden bir kimseye bulaşan toz ve toprakla Cehennem dumanı bir araya gelmeyecektir.” Diğer tahric: Nesâî, Cihâd; Dârimî: Cihâd Tirmizî: Bu hadis hasen sahihtir. Muhammed b. Abdurrahman, Ebû Talha’nın azâdlı kölesi olup Medînelidir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 22,
+        "hadith": 15
+      },
+      "narrator": {
+        "en": "Abu Hurairah"
+      }
+    },
+    {
+      "hadithNumber": 1634,
+      "arabicNumber": 1634,
+      "book": 22,
+      "hadithInBook": 16,
+      "text": {
+        "arabic": "حَدَّثَنَا هَنَّادٌ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ، عَنْ عَمْرِو بْنِ مُرَّةَ، عَنْ سَالِمِ بْنِ أَبِي الْجَعْدِ، أَنَّ شُرَحْبِيلَ بْنَ السِّمْطِ، قَالَ يَا كَعْبُ بْنَ مُرَّةَ حَدِّثْنَا عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم وَاحْذَرْ ‏.‏ قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏ \"‏ مَنْ شَابَ شَيْبَةً فِي الإِسْلاَمِ كَانَتْ لَهُ نُورًا يَوْمَ الْقِيَامَةِ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى وَفِي الْبَابِ عَنْ فَضَالَةَ بْنِ عُبَيْدٍ وَعَبْدِ اللَّهِ بْنِ عَمْرٍو ‏.‏ وَحَدِيثُ كَعْبِ بْنِ مُرَّةَ حَدِيثٌ حَسَنٌ ‏.‏ هَكَذَا رَوَاهُ الأَعْمَشُ عَنْ عَمْرِو بْنِ مُرَّةَ وَقَدْ رُوِيَ هَذَا الْحَدِيثُ عَنْ مَنْصُورٍ عَنْ سَالِمِ بْنِ أَبِي الْجَعْدِ وَأَدْخَلَ بَيْنَهُ وَبَيْنَ كَعْبِ بْنِ مُرَّةَ فِي الإِسْنَادِ رَجُلاً ‏.‏ وَيُقَالُ كَعْبُ بْنُ مُرَّةَ وَيُقَالُ مُرَّةُ بْنُ كَعْبٍ الْبَهْزِيُّ وَالْمَعْرُوفُ مِنْ أَصْحَابِ النَّبِيِّ صلى الله عليه وسلم مُرَّةُ بْنُ كَعْبٍ الْبَهْزِيُّ وَقَدْ رَوَى عَنِ النَّبِيِّ صلى الله عليه وسلم أَحَادِيثَ ‏.‏",
+        "translations": {
+          "en": "Narrated Shurahbil bin As-Samt: \"O Ka'b bin Murrah! Relate (something) to is from the Messenger of Allah (ﷺ), and be cautious. He said: 'I heard the Prophet (ﷺ) say: \"Whoever develops some gray hair in Islam, it shall be a light from him on the Day of Judgement.\" [Abu 'Eisa said:] There is something on this topic from Fadalah bin 'Ubaid and 'Abdullah bin 'Amr. The narration of Ka'b bin Murrah was reported like this from Al-A'mash, from 'Amr bin Murrah. This Hadith is been reported from Mansur, from Salim bin Abu Al-Ja'd, and he included a man between him and between Ka'b bin Murrah in the chain. He is called: \"Ka'b bin Murrah,\" and he is called: \"Murrah bin Ka'b Al-Bahzi,\" and the one known among the Companions of the Prophet (ﷺ) is Ka'b bin Murrah Al-Bahzi, he reported some Ahadith from the Prophet (ﷺ)",
+          "ur": "سالم بن ابی جعد سے روایت ہے، شرحبیل بن سمط نے کہا: کعب بن مرہ رضی الله عنہ! ہم سے رسول اللہ صلی اللہ علیہ وسلم کی حدیث بیان کیجئے اور کمی زیادتی سے محتاط رہئیے، انہوں نے کہا: میں نے رسول اللہ صلی اللہ علیہ وسلم کو فرماتے ہوئے سنا: ”جو اسلام میں بوڑھا ہو جائے، تو قیامت کے دن یہ اس کے لیے نور بن کر آئے گا“۔ امام ترمذی کہتے ہیں: ۱- اس باب میں فضالہ بن عبید اور عبداللہ بن عمرو سے بھی احادیث آئی ہیں، ۲- کعب بن مرہ رضی الله عنہ کی حدیث کو اعمش نے اسی طرح عمرو بن مرہ سے روایت کی ہے، یہ حدیث منصور سے بھی آئی ہے، انہوں نے سالم بن ابی جعد سے روایت کی ہے، انہوں نے سالم اور کعب بن مرہ کے درمیان سند میں ایک آدمی کو داخل کیا ہے، ۳- کعب بن مرہ کو کبھی کعب بن بن مرہ اور مرہ بن کعب بہزی بھی کہا گیا ہے، انہوں نے نبی اکرم صلی اللہ علیہ وسلم سے کئی حدیثیں روایت کی ہیں۔",
+          "id": "Telah menceritakan kepada kami [Hannad] berkata, telah menceritakan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dari [Amru bin Murrah] dari [Salim bin Abul Ja'd] bahwa [Syurahbil bin As Samth] berkata, \"Wahai [Ka'b bin Murrah], ceritakanlah kepadaku sebuah hadits dari Rasulullah shallallahu 'alaihi wasallam, dan hati-hatilah (jangan menambah atau menguranginya).\" Ia berkata, \"Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: \"Barangsiapa tumbuh satu uban dalam Islam, maka uban tersebut akan menjadi cahaya baginya pada hari kiamat.\" Abu Isa berkata, \"Dalam bab ini juga ada hadits dari Fadhalah bin Ubaid dan Abdullah bin Amru. Dan hadits Ka'b bin Murrah derajatnya adalah hasan. Demikianlah Al A'masy meriwayatkan dari Amru bin Murrah. Hadits ini juga diriwayatkan dari [Manshur], dari [Salim bin Abul Ja'd]. Lalu ia memasukkan satu nama antara dia dengan Ka'b bin Murrah. Yaitu [seorang laki-laki] yang dipanggil dengan nama Ka'b bin Murrah, atau Murrah bin Ka'b Al Bahzi. Tetapi yang lebih masyhur di kalangan sahabat Nabi shallallahu 'alaihi wasallam adalah Murrah bin Ka'b Al Bahzi. Ia telah meriwayatkan beberapa hadits dari Nabi shallallahu 'alaihi wasallam",
+          "tr": "Sâlim b. ebî’l Ca’d’den rivâyete göre: Şurahbil b. Sımt şöyle demiştir: Ey Ka’b b. Mürre! Bize Rasûlüllah (sallallahü aleyhi ve sellem)’den hadis aktar fakat dikkatli ol eksik ve fazla bir şeyler söyleme Ka’b b. Mürre dedi ki: Rasûlüllah (sallallahü aleyhi ve sellem)’den işittim şöyle diyordu: “İslam yolunda kimin bir kılı ağarırsa kıyamet gününde o kıl o kimse için bir ışık (nur) olacaktır.” (Nesâî, Cihâd: 9) Bu konuda Fedâle b. Ubeyd, Abdullah b. Amr’dan da hadis rivâyet edilmiştir. Ka’b b. Mürre hadisini aynı şekilde A’meş, Amr b. Mürre’den rivâyet etmiştir. Yine bu hadis, Mansur’dan Sâlim b. ebî’l Ca’d’den rivâyet edilip senedinde Sâlim ile Ka’b b. Mürre veya Mürre b. Ka’b el Behzî’de denilmiştir. Kendisi Peygamber (sallallahü aleyhi ve sellem)’den pek çok hadis rivâyet etmiştir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 22,
+        "hadith": 16
+      },
+      "narrator": {
+        "en": "Shurahbil bin As-Samt"
+      }
+    },
+    {
+      "hadithNumber": 1635,
+      "arabicNumber": 1635,
+      "book": 22,
+      "hadithInBook": 17,
+      "text": {
+        "arabic": "حَدَّثَنَا إِسْحَاقُ بْنُ مَنْصُورٍ الْمَرْوَزِيُّ، أَخْبَرَنَا حَيْوَةُ بْنُ شُرَيْحٍ الْحِمْصِيُّ، عَنْ بَقِيَّةَ، عَنْ بَحِيرِ بْنِ سَعْدٍ، عَنْ خَالِدِ بْنِ مَعْدَانَ، عَنْ كَثِيرِ بْنِ مُرَّةَ، عَنْ عَمْرِو بْنِ عَبَسَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ مَنْ شَابَ شَيْبَةً فِي سَبِيلِ اللَّهِ كَانَتْ لَهُ نُورًا يَوْمَ الْقِيَامَةِ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ غَرِيبٌ ‏.‏ وَحَيْوَةُ بْنُ شُرَيْحِ ابْنُ يَزِيدَ الْحِمْصِيُّ ‏.‏",
+        "translations": {
+          "en": "Narrated Amr bin 'Abasah: That the Messenger of Allah (ﷺ) said: \"Whoever develops some gray hair in the cause of Allah, it shall be a light for him in the Day of Judgement. [Abu 'Eisa said:] This Hadith is Hasan Sahih Gharib. As for Haiwah bin Shuraih, (the remainder of his name is) Ibn Yazid Al-Himsi",
+          "ur": "عمرو بن عبسہ رضی الله عنہ سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”جو شخص اللہ کی راہ میں بوڑھا ہو جائے قیامت کے دن اس کے لیے ایک نور ہو گا“۔ امام ترمذی کہتے ہیں: یہ حدیث حسن صحیح غریب ہے۔",
+          "id": "Telah menceritakan kepada kami [Ishaq bin Manshur Al Marwazi] berkata, telah mengabarkan kepada kami [Haiwah bin Syuraih Al Himshi] dari [Baqiyah] dari [bahir bin Sa'd] dari [Khalid bin Ma'dan] dari [Katsir bin Murrah] dari [Amru bin Abasah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: \"Barangsiapa tumbuh satu bulu uban di jalan Allah, maka bulu uban tersebut akan menjadi cahaya baginya pada hari kiamat.\" Abu Isa berkata, \"Hadits ini derajatnya hasan shahih gharib, dan Haiwah bin Syuraih adalah Ibnu Yazid Al Himshi",
+          "tr": "Amr b. Abese (r.a.)’den rivâyete göre, Rasûlullah (s.a.v.) şöyle buyurmuştur: “Kim Allah’ın dinini yeryüzünde en üstün kılma yolunda gayret ederek saç ve sakalını ağartırsa o kıllar kıyamet günü kendisi için nur, ışık olacaktır.” Diğer tahric: Nesâî, Cihâd Tirmizî: Bu hadis hasen sahih garibtir. Hayve b. Şüreyh Yezîd el Hımsî’nin oğludur"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 22,
+        "hadith": 17
+      },
+      "narrator": {
+        "en": "Amr bin 'Abasah"
+      }
+    },
+    {
+      "hadithNumber": 1636,
+      "arabicNumber": 1636,
+      "book": 22,
+      "hadithInBook": 18,
+      "text": {
+        "arabic": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ مُحَمَّدٍ، عَنْ سُهَيْلِ بْنِ أَبِي صَالِحٍ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ الْخَيْلُ مَعْقُودٌ فِي نَوَاصِيهَا الْخَيْرُ إِلَى يَوْمِ الْقِيَامَةِ الْخَيْلُ لِثَلاَثَةٍ هِيَ لِرَجُلٍ أَجْرٌ وَهِيَ لِرَجُلٍ سِتْرٌ وَهِيَ عَلَى رَجُلٍ وِزْرٌ فَأَمَّا الَّذِي لَهُ أَجْرٌ فَالَّذِي يَتَّخِذُهَا فِي سَبِيلِ اللَّهِ فَيُعِدُّهَا لَهُ هِيَ لَهُ أَجْرٌ لاَ يَغِيبُ فِي بُطُونِهَا شَيْءٌ إِلاَّ كَتَبَ اللَّهُ لَهُ أَجْرًا ‏\"‏ ‏.‏ وَفِي الْحَدِيثِ قِصَّةٌ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏ وَقَدْ رَوَى مَالِكُ بْنُ أَنَسٍ عَنْ زَيْدِ بْنِ أَسْلَمَ عَنْ أَبِي صَالِحٍ عَنْ أَبِي هُرَيْرَةَ عَنِ النَّبِيِّ صلى الله عليه وسلم نَحْوَ هَذَا ‏.‏",
+        "translations": {
+          "en": "Narrated Abu Hurairah: That the Messenger of Allah (ﷺ) said: \"The forelocks of horses contain good until the Day of Judgement. The horse is for three (purposes): It is for one man a reward, and it is for one man a shelter (from poverty), and it is from one man a burden. As for the one who acquires it for the cause of Allah and then prepares it for that; it is for him a reward, nothing disappears into its stomach except that Allah writes it for him as a reward.\" [Abu 'Eisa said:] This Hadith is Hasan Sahih. Malik bin Anas narrated similar to this Hadith from Zaid bin Aslam from Abu Salih from Abu Hurairah, from the Prophet (ﷺ)",
+          "ur": "ابوہریرہ رضی الله عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”گھوڑے کی پیشانی میں قیامت تک کے لیے خیر بندھی ہوئی ہے، گھوڑے تین طرح کے ہوتے ہیں: ایک گھوڑا وہ ہے جو آدمی کے لیے باعث اجر ہے، ایک وہ گھوڑا ہے جو آدمی کی ( عزت و وقار ) کے لیے پردہ پوشی کا باعث ہے، اور ایک گھوڑا وہ ہے جو آدمی کے لیے باعث گناہ ہے، وہ آدمی جس کے لیے گھوڑا باعث اجر ہے وہ ایسا شخص ہے جو اس کو جہاد کے لیے رکھتا ہے، اور اسی کے لیے تیار کرتا ہے، یہ گھوڑا اس شخص کے لیے باعث اجر ہے، اس کے پیٹ میں جو چیز ( خوراک ) بھی جاتی ہے اللہ تعالیٰ اس کے لیے اجر و ثواب لکھ دیتا ہے“، اس حدیث میں ایک قصہ کا ذکر ہے۔ امام ترمذی کہتے ہیں: ۱- یہ حدیث حسن صحیح ہے، ۲- مالک بن انس نے بطریق: «زيد بن أسلم عن أبي صالح عن أبي هريرة عن النبي صلى الله عليه وسلم» اسی جیسی حدیث روایت کی ہے۔",
+          "id": "Telah menceritakan kepada kami [Qutaibah] berkata, telah menceritakan kepada kami [Abdul Aziz bin Muhammad] dari [Suhail bin Abu Shalih] dari [Bapaknya] dari [Abu Hurairah] ia berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Pada ubun-ubun kuda tertulis kebaikan hingga hari kiamat. Dan kuda ada tiga; kuda yang menjadi pahala bagi seorang laki-laki, kuda yang akan menjadi satir bagi seorang laki-laki dan kuda yang akan menjadi dosa bagi seorang laki-laki. Adapun kuda yang bisa menjadi pahala adalah kuda yang digunakan untuk jihad di jalan Allah, maka ia mempersiapkan kuda tersebut akan menjadi pahala baginya. Tidak ada sesuatu yang masuk ke dalam perutnya kecuali Allah akan menuliskan pahala kepadanya.\" Dan dalam redaksi hadits tersebut terdapat kisah. Abu Isa berkata, \"Hadits ini derajatnya hasan shahih. [Malik bin Anas] telah meriwayatkan hadits ini dari [Zaid bin Aslam], dari [Abu Shalih], dari [Abu Hurairah], dari Nabi shallallahu 'alaihi wasallam",
+          "tr": "Ebû Hureyre (r.a.)’den rivâyete göre, şöyle demiştir: Rasûlullah (s.a.v.) şöyle buyurmuştur: “Hayır kıyamete kadar atların alınlarında bağlıdır. At üç çeşittir; kimi atlar vardır ki: Sahibi için sevap kazandırır, kimi atlar vardır ki: Sahibinin fakirlik ve yoksulluğunu örter, kimi atlarda vardır ki: Sahibine günah kazandırır.” “Sahibine sevap kazandıran at; Allah yolunda cihâd için hazırlanıp büyütülür ki bu at sahibine daima sevap kazandırır o atlara yedirilen her şey karşılığında Allah o kimseye sevap yazar.” Bu hadis biraz uzuncadır. Diğer tahric: Nesâî, Hayl; İbn Mâce: Cihâd Tirmizî: Bu hadis hasen sahihtir. Mâlik b. Enes, Zeyd b. Eslem’den, Ebû Salih’den, Ebû Hüreyre’den bu hadisin bir benzerini rivâyet etmiştir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 22,
+        "hadith": 18
+      },
+      "narrator": {
+        "en": "Abu Hurairah"
+      }
+    },
+    {
+      "hadithNumber": 1637,
+      "arabicNumber": 1637,
+      "book": 22,
+      "hadithInBook": 19,
+      "text": {
+        "arabic": "",
+        "translations": {
+          "ur": "عبداللہ بن عبدالرحمٰن ابن ابی الحسین رحمہ اللہ سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”اللہ تعالیٰ ایک تیر کی وجہ سے تین آدمیوں کو جنت میں داخل کرے گا: تیر بنانے والے کو جو بناتے وقت ثواب کی نیت رکھتا ہو، تیر انداز کو اور تیر دینے والے کو“، آپ نے فرمایا: ”تیر اندازی کرو اور سواری سیکھو، تمہارا تیر اندازی کرنا میرے نزدیک تمہارے سواری کرنے سے زیادہ پسندیدہ ہے، ہر وہ چیز جس سے مسلمان کھیلتا ہے باطل ہے سوائے کمان سے اس کا تیر اندازی کرنا، گھوڑے کو تربیت دینا اور اپنی بیوی کے ساتھ کھیلنا، یہ تینوں چیزیں اس کے لیے درست ہیں“۔",
+          "id": "Telah menceritakan kepada kami [Ahmad bin Mani'] berkata, telah menceritakan kepada kami [Yazid bin Harun] berkata, telah mengabarkan kepada kami [Muhammad bin Ishaq] dari [Abdullah bin 'Abdurrahman bin Abu Husain] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: \"Sesungguhnya hanya dengan satu anak panah, Allah akan memasukkan tiga orang ke dalam surga; orang yang membuatnya dengan niat untuk suatu kebaikan; orang yang melemparkannya dan orang yang mempersiapkannya.\" Kemudian beliau bersabda: \"(gemarlah berlatih) melempar dan berkendara. Sungguh, kalian melempar lebih aku sukai dari pada kalian berkendaraan. Setiap permainan yang dilakukan oleh seorang laki-laki muslim adalah batil kecuali latihan dia melempar anak panah dengan busurnya, atau pengajarannya terhadap kuda tunggangannya, atau senda guraunya dengan isterinya, karena sesungguhnya itu semua termasuk kebenaran.\" Telah menceritakan kepada kami [Ahmad bin Mani'] berkata, telah menceritakan kepada kami [Yazid bin Harun] berkata, telah mengabarkan kepada kami [Hisyam Ad Dastuwa`i] dari [Yahya bin Abu Katisr] dari [Abu Sallam] dari [Abdullah bin Al Azraq] dari [Uqbah bin Amir Al Juhani] dari Nabi shallallahu 'alaihi wasallam, seperti dalam hadits tersebut. Abu Isa berkata, \"Dalam bab ini juga ada hadits dari Ka'b bin Murrah dan Amru bin Abasah bin Amru. Dan hadits ini derajatnya hasan shahih",
+          "tr": "Abdullah b. Abdurrahman b. Ebûl Hüseyn’den rivâyete göre, Rasûlüllah (sallallahü aleyhi ve sellem) şöyle buyurmuştur: “Allah tek bir ok için üç kişiyi Cennete sokar; Allah rızasını kazanmak için hayır olarak ok yapanı, oku düşmana karşı atanı ve atma işinde yardımcı olanı. Rasûlüllah (sallallahü aleyhi ve sellem) şöyle devam etti: Atıcı olun, binici olun! Atıcı olmanız binici olmanızdan bence daha iyidir. Müslüman kişinin oyun ve oyalanma olarak yaptığı her şey boş ve anlamsızdır. Ancak; kişinin atış yaptığı aletlerle meşgul olup oyalanması, atını tımar edip atın bakımıyla uğraşması ve oyalanması ve hanımıyla oynaşıp meşgul olması batıl ve boş eğlencelerden olmayıp hak, gerçek ve sevap kazandıran oyun ve eğlencelerdir.” (Nesâî, Cihâd: 26; İbn Mâce, Cihâd:)"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Daif"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 22,
+        "hadith": 19
+      }
+    },
+    {
+      "hadithNumber": 1638,
+      "arabicNumber": 1638,
+      "book": 22,
+      "hadithInBook": 21,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا مُعَاذُ بْنُ هِشَامٍ، عَنْ أَبِيهِ، عَنْ قَتَادَةَ، عَنْ سَالِمِ بْنِ أَبِي الْجَعْدِ، عَنْ مَعْدَانَ بْنِ أَبِي طَلْحَةَ، عَنْ أَبِي نَجِيحٍ السُّلَمِيِّ، رضى الله عنه قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏ \"‏ مَنْ رَمَى بِسَهْمٍ فِي سَبِيلِ اللَّهِ فَهُوَ لَهُ عَدْلُ مُحَرَّرٍ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ صَحِيحٌ ‏.‏ وَأَبُو نَجِيحٍ هُوَ عَمْرُو بْنُ عَبَسَةَ السُّلَمِيُّ وَعَبْدُ اللَّهِ بْنُ الأَزْرَقِ هُوَ عَبْدُ اللَّهِ بْنُ زَيْدٍ ‏.‏",
+        "translations": {
+          "en": "Narrated Abu Najih As-Sulami: I heard the Messenger of Allah (ﷺ) say: \"Whoever shoots an arrow in the cause of Allah, then he has the reward of freeing a slave.\" [Abu 'Eisa said:] This Hadith is Hasan Sahih. Abu Najih is 'Amr bin 'Abasah As-Sulami, and 'Abdullah bin Al-Azraq is 'Abdullah bin Zaid",
+          "ur": "ابونجیح عمرو بن عبسہ سلمی رضی الله عنہ کہتے ہیں کہ میں نے رسول اللہ صلی اللہ علیہ وسلم کو فرماتے ہوئے سنا: ”جس نے اللہ کی راہ میں ایک تیر مارا، وہ ( ثواب میں ) ایک غلام آزاد کرنے کے برابر ہے“۔ امام ترمذی کہتے ہیں: ۱- یہ حدیث صحیح ہے، ۲- ابونجیح کا نام عمرو بن عبسہ سلمی ہے، ۳- عبداللہ بن ازرق سے مراد عبداللہ بن زید ہیں۔",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Basysyar] berkata, telah menceritakan kepada kami [Mu'adz bin Hisyam] dari [Bapaknya] dari [Qatadah] dari [Salim bin Abul Ja'd] dari [Ma'dan bin Abu Thalhah] dari [Abu Najih As Sulami? radliallahu 'anhu] ia berkata, \"Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: \"Barangsiapa melempar panah di jalan Allah, maka ia mendapatkan kebaikan seperti memerdekakan seorang budak.\" Abu Isa berkata, \"Hadits ini derajatnya hasan shahih. Abu Najih nama aslinya adalah Amru bin Absah As Sulami, sementara Abdullah Al Azraq nama aslinya adalah Abdullah bin Zaid",
+          "tr": "Ebû Necîh es Sülemî (r.a.)’den rivâyete göre, şöyle demiştir: Rasûlullah (s.a.v.)’den işittim şöyle diyordu: “Kim Allah yolunda bir ok atarsa; bir köleyi hürriyetine kavuşturmuş gibi sevap kazanır.” Diğer tahric: Nesâî, Cihâd; İbn Mâce, Cihâd Tirmizî: Bu hadis sahihtir.Ebu Nüceyh: Amr b. Abese es Sülemî’dir. Abdullah b. Ezrak ise; Abdullah b. Yezîd’tir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 22,
+        "hadith": 21
+      },
+      "narrator": {
+        "en": "Abu Najih As-Sulami"
+      }
+    },
+    {
+      "hadithNumber": 1639,
+      "arabicNumber": 1639,
+      "book": 22,
+      "hadithInBook": 22,
+      "text": {
+        "arabic": "حَدَّثَنَا نَصْرُ بْنُ عَلِيٍّ الْجَهْضَمِيُّ، حَدَّثَنَا بِشْرُ بْنُ عُمَرَ، حَدَّثَنَا شُعَيْبُ بْنُ رُزَيْقٍ أَبُو شَيْبَةَ، حَدَّثَنَا عَطَاءٌ الْخُرَاسَانِيُّ، عَنْ عَطَاءِ بْنِ أَبِي رَبَاحٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏ \"‏ عَيْنَانِ لاَ تَمَسُّهُمَا النَّارُ عَيْنٌ بَكَتْ مِنْ خَشْيَةِ اللَّهِ وَعَيْنٌ بَاتَتْ تَحْرُسُ فِي سَبِيلِ اللَّهِ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى وَفِي الْبَابِ عَنْ عُثْمَانَ وَأَبِي رَيْحَانَةَ ‏.‏ وَحَدِيثُ ابْنِ عَبَّاسٍ حَدِيثٌ حَسَنٌ لاَ نَعْرِفُهُ إِلاَّ مِنْ حَدِيثِ شُعَيْبِ بْنِ رُزَيْقٍ ‏.‏",
+        "translations": {
+          "en": "Narrated Ibn 'Abbas: \"I heard the Messenger of Allah (ﷺ) saying, 'There are two eyes that shall not be touched by the Fire: An eye that wept from the fear of Allah, and an eye that spent the night standing on guard in the cause of Allah.\" [Abu 'Eisa said:] There are narrations on this topic from 'Uthman and Abu Raihanah. The Hadith of Ibn 'Abbas is a Hasan Gharib Hadith, we do not know of it except through the narration of Shu'aib bin Ruzaiq",
+          "ur": "عبداللہ بن عباس رضی الله عنہما کہتے ہیں کہ میں نے رسول اللہ صلی اللہ علیہ وسلم کو فرماتے سنا: ”دو آنکھوں کو جہنم کی آگ نہیں چھوئے گی: ایک وہ آنکھ جو اللہ کے ڈر سے تر ہوئی ہو اور ایک وہ آنکھ جس نے راہ جہاد میں پہرہ دیتے ہوئے رات گزاری ہو“۔ امام ترمذی کہتے ہیں: ۱- ابن عباس رضی الله عنہما کی حدیث حسن غریب ہے، ہم اسے صرف شعیب بن رزیق ہی کی روایت سے جانتے ہیں، ۲- اس باب میں عثمان اور ابوریحانہ رضی الله عنہما سے بھی احادیث آئی ہیں۔",
+          "id": "Telah menceritakan kepada kami [Nashr bin Ali Al Jahdhami] berkata, telah menceritakan kepada kami [Bisyr bin Umar] berkata, telah menceritakan kepada kami [Syu'aib bin Zuraiq Abu Syaibah] berkata, telah menceritakan kepada kami [Atha Al Khurasani] dari [Atha bin Abu Rabah] dari [Ibnu Abbas] ia berkata; \"Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda; \"Dua mata yang tidak akan disentuh oleh api neraka; mata yang menangis karena takut kepada Allah dan mata yang bergadang untuk berjaga di jalan Allah.\" Abu Isa berkata, \"Dalam bab ini juga ada hadits dari Utsman dan Abu Raihanah. Hadits Ibnu Abbas derajatnya hasan gharib, dan kami tidak mengetahui hadits ini kecuali dari hadits Syu'aib bin Zuraiq",
+          "tr": "İbn Abbâs (r.a.)’den rivâyete göre, şöyle demiştir: Rasûlullah (s.a.v.)’den işittim buyurdu ki: “İki göz var ki ateş onlara değmeyecek Allah’ın azabından korkarak ağlayan göz ve Allah yolunda nöbet bekleyen göz.” Diğer tahric: Nesâî, Cihâd; İbn Mâce, Cihâd Tirmizî: Bu konuda Osman, Ebû Reyhane’den de hadis rivâyet edilmiştir. İbn Abbâs hadisi hasen sahih garib olup bu hadisi sadece Şuayb b. Ruzeyk rivâyetiyle bilmekteyiz"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 22,
+        "hadith": 22
+      },
+      "narrator": {
+        "en": "Ibn 'Abbas"
+      }
+    },
+    {
+      "hadithNumber": 1640,
+      "arabicNumber": 1640,
+      "book": 22,
+      "hadithInBook": 23,
+      "text": {
+        "arabic": "حَدَّثَنَا يَحْيَى بْنُ طَلْحَةَ الْيَرْبُوعِيُّ الْكُوفِيُّ، حَدَّثَنَا أَبُو بَكْرِ بْنُ عَيَّاشٍ، عَنْ حُمَيْدٍ، عَنْ أَنَسٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ الْقَتْلُ فِي سَبِيلِ اللَّهِ يُكَفِّرُ كُلَّ خَطِيئَةٍ ‏\"‏ ‏.‏ فَقَالَ جِبْرِيلُ إِلاَّ الدَّيْنَ ‏.‏ فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ إِلاَّ الدَّيْنَ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى وَفِي الْبَابِ عَنْ كَعْبِ بْنِ عُجْرَةَ وَجَابِرٍ وَأَبِي هُرَيْرَةَ وَأَبِي قَتَادَةَ ‏.‏ وَهَذَا حَدِيثٌ غَرِيبٌ لاَ نَعْرِفُهُ مِنْ حَدِيثِ أَبِي بَكْرٍ إِلاَّ مِنْ حَدِيثِ هَذَا الشَّيْخِ ‏.‏ قَالَ وَسَأَلْتُ مُحَمَّدَ بْنَ إِسْمَاعِيلَ عَنْ هَذَا الْحَدِيثِ فَلَمْ يَعْرِفْهُ وَقَالَ أُرَى أَنَّهُ أَرَادَ حَدِيثَ حُمَيْدٍ عَنْ أَنَسٍ عَنِ النَّبِيِّ صلى الله عليه وسلم أَنَّهُ قَالَ ‏\"‏ لَيْسَ أَحَدٌ مِنْ أَهْلِ الْجَنَّةِ يَسُرُّهُ أَنْ يَرْجِعَ إِلَى الدُّنْيَا إِلاَّ الشَّهِيدُ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Narrated Anas: That the Messenger of Allah (ﷺ) said: \"Dying in the cause of Allah expiates every sin.\" Jibril said: \"Except for debt.\" So the Messenger of Allah (ﷺ) said: \"Except the debt.\" [Abu 'Eisa said:] There are narrations on this topic from Ka'b bin 'Ujrah, Jabir, Abu Hurairah, and Abu Qatadah. This Hadith is Gharib, we do not know of it as a Hadith of Abu Bakr (a narrator) except from this Shaikh (Yahya bin Talhah) He said: I asked Muhammad bin Isma'il about this Hadith and he did not know it. He said: \"I think that he intended the Hadith of Humaid, from Anas, from the Prophet (ﷺ) that he said: 'There is none from the people of Paradise who would like to return to the world except for the martyr",
+          "ur": "انس رضی الله عنہ سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”اللہ کی راہ میں شہادت ( شہید کے لیے ) ہر گناہ کا کفارہ بن جاتی ہے، جبرائیل علیہ السلام نے کہا: ”سوائے قرض کے“، نبی اکرم صلی اللہ علیہ وسلم نے بھی فرمایا: ”سوائے قرض کے“ ۱؎۔ امام ترمذی کہتے ہیں: ۱- یہ حدیث غریب ہے، ۲- ہم اس حدیث کو ابی بکر کی روایت سے صرف اسی شیخ ( یعنی یحییٰ بن طلحہ ) کے واسطے سے جانتے ہیں، میں نے محمد بن اسماعیل بخاری سے اس حدیث کے بارے میں پوچھا تو انہوں نے لاعلمی کا اظہار کیا اور کہا: میرا خیال ہے یحییٰ بن طلحہ نے حمید کی حدیث بیان کرنا چاہی جس کو انہوں نے انس سے، انس رضی الله عنہ نے نبی اکرم صلی اللہ علیہ وسلم سے روایت کیا ہے کہ آپ نے فرمایا: ”شہید کے علاوہ کوئی ایسا جنتی نہیں ہے جو دنیا کی طرف لوٹنا چاہے“، ۳- اس باب میں کعب بن عجرہ، جابر، ابوہریرہ اور ابوقتادہ سے بھی احادیث آئی ہیں۔",
+          "id": "Telah menceritakan kepada kami [Yahya bin Thalhah Al Yarbu'I Al Kufi] berkata, telah menceritakan kepada kami [Abu Bakr bin Ayyasy] dari [Humaid] dari [Anas] ia berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"gugur di jalan Allah dapat menghapuskan setiap dosa.\" Jibril kemudian berkata, \"Kecuali hutang.\" Maka Nabi shallallahu 'alaihi wasallam lalu bersabda: \"Kecuali hutang.\" Abu Isa berkata, \"Dalam bab ini juga ada hadits dari Ka'b bin Ujrah, Jabir, Abu Hurairah dan Qatadah. Ini adalah hadits gharib, kami tidak mengetahui hadits ini diriwayatkan oleh Abu Bakr kecuali dari jalur syaikh ini. Ia berkata, \"Aku bertanya kepada Muhammad bin Isma'il tentang hadits ini, tetapi ia tidak mengetahuinya. Ia (Muhammad bin Isma'il) berkata, \"Menurutku yang ia (Yahya bin Thalhah) maksud adalah hadits Humaid, dari Anas, dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: \"Tidak seorang pun dari penduduk surga yang senang untuk kembali ke dunia kecuali orang yang mati syahid",
+          "tr": "Enes (radıyallahü anh)’den rivâyete göre, Rasûlüllah (sallallahü aleyhi ve sellem) şöyle buyurmuştur: “Allah yolunda öldürülüp şehîd olmak tüm günahlara keffarettir. Cibril (aleyhis-selâm) dedi ki: Borç müstesnadır. Bunun üzerine Rasûlüllah (sallallahü aleyhi ve sellem)’de borç müstesnadır” buyurdular. (Nesâî, Cihâd: 32; İbn Mâce, Cihâd: 16) Bu konuda Ka’b b. Ucre, Câbir, Ebû Hüreyre, Ebû Katâde’den de hadis rivâyet edilmiştir. Bu hadis garibtir. Bu hadisin Ebû Bekr’in rivâyetinden olduğunu sadece bu ihtiyar adam olan Yahya b. Talha el Yerbûî’nin rivâyetiyle bilmekteyiz. Muhammed b. İsmail’e bu hadis hakkında sordum hadisi tanımadı ve şöyle dedi: Zannedersen Yahya b. Talha, Humeyd’in Enes vasıtasıyla rivâyet ettiği: Cennetlikler arasında şehîdten başka tekrar dünyaya dönmekten mutluluk duyan bir kimse yoktur” hadisini kastediyor olabilir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 22,
+        "hadith": 23
+      },
+      "narrator": {
+        "en": "Anas"
+      }
+    },
+    {
+      "hadithNumber": 1641,
+      "arabicNumber": 1641,
+      "book": 22,
+      "hadithInBook": 24,
+      "text": {
+        "arabic": "حَدَّثَنَا ابْنُ أَبِي عُمَرَ، حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنْ عَمْرِو بْنِ دِينَارٍ، عَنِ الزُّهْرِيِّ، عَنِ ابْنِ كَعْبِ بْنِ مَالِكٍ، عَنْ أَبِيهِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ إِنَّ أَرْوَاحَ الشُّهَدَاءِ فِي طَيْرٍ خُضْرٍ تَعْلُقُ مِنْ ثَمَرَةِ الْجَنَّةِ أَوْ شَجَرِ الْجَنَّةِ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏",
+        "translations": {
+          "en": "Narrated Ka'b bin Malik: From his father that the Messenger of Allah (ﷺ) said: \"The souls of the martyrs are in green birds, suspended from the fruit of Paradise, or the trees of Paradise.\" [Abu 'Eisa said:] This Hadith is Hasan Sahih",
+          "ur": "کعب بن مالک رضی الله عنہ سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”شہداء کی روحیں ( جنت میں ) سبز پرندوں کی شکل میں ہیں، جو جنت کے پھلوں یا درختوں سے کھاتی چرتی ہیں“۔ امام ترمذی کہتے ہیں: یہ حدیث حسن صحیح ہے۔",
+          "id": "Telah menceritakan kepada kami [Ibnu Abu Umar] berkata, telah menceritakan kepada kami [Sufyan bin Uyainah] dari [Amru bin Dinar] dari [Az Zuhri] dari [Ibnu Ka'b bin Malik] dari [bapaknya] bahwasanya Rasulullah shallallahu 'alaihi wasallam bersabda: \"Sesungguhnya ruh para syuhada berada bersama burung-burung hijau yang menempel pada buah-buahan surga, atau beliau mengatakan, 'pepohonan surga'.\" Abu Isa berkata, \"Hadits ini derajatnya hasan shahih",
+          "tr": "Ka’b b. Mâlik (r.a.)’in babasından rivâyete göre, Rasûlullah Sallallahu Aleyhi ve Sellem şöyle buyurdu: “Şehîdlerin ruhları sanki yemyeşil kuşların içersindedir. Cennet meyvelerine ve ağaçlarına takılırlar.” (Yani Cennet onların devamlı gezinti yerleridir.) Diğer tahric: İbn Mâce, Cihâd Tirmizî: Bu hadis hasen sahihtir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 22,
+        "hadith": 24
+      },
+      "narrator": {
+        "en": "Ka'b bin Malik"
+      }
+    },
+    {
+      "hadithNumber": 1642,
+      "arabicNumber": 1642,
+      "book": 22,
+      "hadithInBook": 25,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا عُثْمَانُ بْنُ عُمَرَ، أَخْبَرَنَا عَلِيُّ بْنُ الْمُبَارَكِ، عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ، عَنْ عَامِرٍ الْعُقَيْلِيِّ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ عُرِضَ عَلَىَّ أَوَّلُ ثَلاَثَةٍ يَدْخُلُونَ الْجَنَّةَ شَهِيدٌ وَعَفِيفٌ مُتَعَفِّفٌ وَعَبْدٌ أَحْسَنَ عِبَادَةَ اللَّهِ وَنَصَحَ لِمَوَالِيهِ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ ‏.‏",
+        "translations": {
+          "en": "Narrated Abu Hurairah: That the Messenger of Allah (ﷺ) said, \"I was shown the first of (every) three to enter Paradise: A martyr, an 'Atif, who is a Muta'affif, and a slave who perfected his worship of Allah, and was sincere to his masters.\" [Abu 'Eisa said:] This Hadith is Hasan",
+          "ur": "ابوہریرہ رضی الله عنہ سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”میرے اوپر ان تین اشخاص کو پیش کیا گیا جو جنت میں سب سے پہلے جائیں گے: ایک شہید، دوسرا حرام سے دور رہنے والا اور نامناسب امور سے بچنے والا، تیسرا وہ غلام جو اچھی طرح اللہ کی عبادت بجا لائے اور اپنے مالکان کے لیے خیر چاہے یا ان کے حقوق بجا لائے“۔ امام ترمذی کہتے ہیں: یہ حدیث حسن ہے۔",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Basysyar] berkata, telah menceritakan kepada kami [Utsman bin Umar] berkata, telah mengabarkan kepada kami [Ali Ibnul Mubarak] dari [Yahya bin Abu Katsir] dari [Amir Al Uqaili] dari [Bapaknya] dari [Abu Hurairah] bahwasanya Rasulullah shallallahu 'alaihi wasallam bersabda: \"Aku diperlihatkan tiga golongan yang akan masuk surga pertama kali; orang yang mati syahid, orang yang menjaga diri dari hal yang diharamkan, dan seorang budak yang baik dalam beribadah kepada Allah serta taat kepada tuannya.\" Abu Isa berkata, \"Hadits ini derajatnya hasan",
+          "tr": "Ebû Hureyre (r.a.)’den rivâyete göre, Rasûlullah (s.a.v.) şöyle buyurdu: “Cennete ilk önce girecek üç kişi bana gösterildi; Şehîd, iffetli ve kanaatkâr kimse, Allah’a kulluğunu güzelce yapıp efendilerine karşı samimi olan köle.” Diğer tahric: İbn Mâce, Cihâd Tirmizî: Bu hadis hasendir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Daif"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 22,
+        "hadith": 25
+      },
+      "narrator": {
+        "en": "Abu Hurairah"
+      }
+    },
+    {
+      "hadithNumber": 1643,
+      "arabicNumber": 1643,
+      "book": 22,
+      "hadithInBook": 26,
+      "text": {
+        "arabic": "حَدَّثَنَا عَلِيُّ بْنُ حُجْرٍ، أَخْبَرَنَا إِسْمَاعِيلُ بْنُ جَعْفَرٍ، عَنْ حُمَيْدٍ، عَنْ أَنَسٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم أَنَّهُ قَالَ ‏ \"‏ مَا مِنْ عَبْدٍ يَمُوتُ لَهُ عِنْدَ اللَّهِ خَيْرٌ يُحِبُّ أَنْ يَرْجِعَ إِلَى الدُّنْيَا وَأَنَّ لَهُ الدُّنْيَا وَمَا فِيهَا إِلاَّ الشَّهِيدُ لِمَا يَرَى مِنْ فَضْلِ الشَّهَادَةِ فَإِنَّهُ يُحِبُّ أَنْ يَرْجِعَ إِلَى الدُّنْيَا فَيُقْتَلَ مَرَّةً أُخْرَى ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏ قَالَ ابْنُ أَبِي عُمَرَ قَالَ سُفْيَانُ بْنُ عُيَيْنَةَ كَانَ عَمْرُو بْنُ دِينَارٍ أَسَنَّ مِنَ الزُّهْرِيِّ ‏.‏",
+        "translations": {
+          "en": "Narrated Anas: That the Prophet (ﷺ), \"There is no person who dies having good (prepared for him) with Allah, who wishes to return to the world, and to have the world and all it contains, except for the martyr because of what he knows about the virtue of martyrdom. For, indeed he loves to return to the world so that he may be killed another time.\" [Abu 'Eisa said:] This Hadith is Hasan Sahih. Ibn 'Umar said: \"Sufyan bin 'Uyainah said: \"Amr bin Dinar was older than Az-Zuhri",
+          "ur": "انس رضی الله عنہ سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: ”مرنے والا کوئی ایسا بندہ نہیں ہے جس کے لیے اللہ کے پاس ثواب ہو اور وہ دنیا کی طرف دنیا اور دنیا میں جو کچھ ہے اس کی خاطر لوٹنا چاہتا ہو۔ سوائے شہید کے، اس لیے کہ وہ شہادت کا مقام و مرتبہ دیکھ چکا ہے، چنانچہ وہ چاہتا ہے کہ دنیا کی طرف لوٹ جائے اور دوبارہ شہید ہو ( کر آئے ) “۔ امام ترمذی کہتے ہیں: یہ حدیث حسن صحیح ہے۔",
+          "id": "Telah menceritakan kepada kami [Ali bin Hujr] berkata, telah mengabarkan kepada kami [Isma'il bin Ja'far] dari [Humaid] dari [Anas] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: \"Tidaklah seorang hamba meninggal dunia, ia mendapatkan kebaikan di sisi Allah, lalu merasa senang jika kembali ke dunia, padahal ia telah memiliki sesutu yang lebih baik dari dunia dan seisinya selain orang yang mati syahid. Hal itu karena ia merasakan akan keutamaan syahid hingga ia ingin kembali ke dunia hingga ia terbunuh lagi.\" Abu Isa berkata, \"Hadits ini derajatnya hasan shahih. Ibnu Abu Umar berkata, \"Sufyan bin Uyainah menuturkan, \"Amru bin Dinar lebuh tua dari Az Zuhri",
+          "tr": "Enes (r.a.)’den rivâyete göre, şöyle demiştir: Rasûlullah (s.a.v.) şöyle buyurdu: “Ölen ve Allah katında Cennet hayrına erişen hiçbir kul, Cennet’ten tekrar geri dünyaya dönmeyi tüm içindekilerle birlikte dünyanın kendisinin olmasını istemez ancak şehîd bunun dışındadır. Çünkü o şehîdliğin değeri ve kıymetini bildiğinden dolayı tekrar dünyaya dönmeyi ve tekrar şehîd olmayı arzu eder.” Diğer tahric: İbn Mâce, Cihâd Tirmizî: Bu hadis hasen sahihtir. İbn ebî Ömer ve Sûfyân b. Uyeyne diyorlar ki: Amr b. Dinâr, Zührî’den daha yaşlıdır"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 22,
+        "hadith": 26
+      },
+      "narrator": {
+        "en": "Anas"
+      }
+    },
+    {
+      "hadithNumber": 1644,
+      "arabicNumber": 1644,
+      "book": 22,
+      "hadithInBook": 27,
+      "text": {
+        "arabic": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا ابْنُ لَهِيعَةَ، عَنْ عَطَاءِ بْنِ دِينَارٍ، عَنْ أَبِي يَزِيدَ الْخَوْلاَنِيِّ، أَنَّهُ سَمِعَ فَضَالَةَ بْنَ عُبَيْدٍ، يَقُولُ سَمِعْتُ عُمَرَ بْنَ الْخَطَّابِ، يَقُولُ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\"‏ الشُّهَدَاءُ أَرْبَعَةٌ رَجُلٌ مُؤْمِنٌ جَيِّدُ الإِيمَانِ لَقِيَ الْعَدُوَّ فَصَدَقَ اللَّهَ حَتَّى قُتِلَ فَذَلِكَ الَّذِي يَرْفَعُ النَّاسُ إِلَيْهِ أَعْيُنَهُمْ يَوْمَ الْقِيَامَةِ هَكَذَا ‏\"‏ ‏.‏ وَرَفَعَ رَأْسَهُ حَتَّى وَقَعَتْ قَلَنْسُوَتُهُ ‏.‏ قَالَ فَمَا أَدْرِي أَقَلَنْسُوَةَ عُمَرَ أَرَادَ أَمْ قَلَنْسُوَةَ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\"‏ وَرَجُلٌ مُؤْمِنٌ جَيِّدُ الإِيمَانِ لَقِيَ الْعَدُوَّ فَكَأَنَّمَا ضُرِبَ جِلْدُهُ بِشَوْكِ طَلْحٍ مِنَ الْجُبْنِ أَتَاهُ سَهْمٌ غَرْبٌ فَقَتَلَهُ فَهُوَ فِي الدَّرَجَةِ الثَّانِيَةِ وَرَجُلٌ مُؤْمِنٌ خَلَطَ عَمَلاً صَالِحًا وَآخَرَ سَيِّئًا لَقِيَ الْعَدُوَّ فَصَدَقَ اللَّهَ حَتَّى قُتِلَ فَذَلِكَ فِي الدَّرَجَةِ الثَّالِثَةِ وَرَجُلٌ مُؤْمِنٌ أَسْرَفَ عَلَى نَفْسِهِ لَقِيَ الْعَدُوَّ فَصَدَقَ اللَّهَ حَتَّى قُتِلَ فَذَلِكَ فِي الدَّرَجَةِ الرَّابِعَةِ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ غَرِيبٌ لاَ نَعْرِفُهُ إِلاَّ مِنْ حَدِيثِ عَطَاءِ بْنِ دِينَارٍ ‏.‏ قَالَ سَمِعْتُ مُحَمَّدًا يَقُولُ قَدْ رَوَى سَعِيدُ بْنُ أَبِي أَيُّوبَ هَذَا الْحَدِيثَ عَنْ عَطَاءِ بْنِ دِينَارٍ وَقَالَ عَنْ أَشْيَاخٍ مِنْ خَوْلاَنَ وَلَمْ يَذْكُرْ فِيهِ عَنْ أَبِي يَزِيدَ ‏.‏ وَقَالَ عَطَاءُ بْنُ دِينَارٍ لَيْسَ بِهِ بَأْسٌ ‏.‏",
+        "translations": {
+          "en": "Narrated Fadalah bin 'Ubaid: That he heard 'Umar bin Al-Khattab saying: \"I heard the Messenger of Allah (ﷺ) saying: 'The martyrs are four: A believing man whose faith is good, he meets the enemy and proves faithful to Allah until he is killed. That is the one to whom the people will raise up their eyes like this on the Day of Judgement' and he raised his head until his Qalansuwah fell - [he said:] I do not know if it was 'Umar's Qalansuwah or the Qalansuwah of the Prophet (ﷺ) that fell - he said, 'And a believing man whose faith is good (but not as brave as first), he meets the enemy, but due to cowardice, it only appears that he was struck with a thorn of an acacia tree when an unexpected arrow comes to him, yet it kills him. He is among the second level. And a believing man who has mixed righteous deed with another evil one, he meets his enemy and proves faithful to Allah until he is killed. This one is in the third level. And a believing man who wasted himself (in wrongdoing), he meets the enemy and proves faithful to Allah until he is killed. This one is in the fourth level.'\" [Abu 'Eisa said:] This Hadith is Hasan Gharib, it is not known except as a narration of 'Ata bin Dinar. He said: I heard Muhammad saying: \"Sa'eed bin Abi Ayyub reported this Hadith from 'Ata bin Dinar - from some Shaikhs of Khawlan - and he did not mention 'from Abu Yazid' in it.\" And he said: \"'Ata bin Dinar; there is no harm in him",
+          "ur": "عمر بن خطاب رضی الله عنہ کہتے ہیں کہ میں نے رسول اللہ صلی اللہ علیہ وسلم کو فرماتے ہوئے سنا: ”شہید چار طرح کے ہیں: پہلا وہ اچھے ایمان والا مومن جو دشمن سے مقابلہ اور اللہ سے کئے گئے وعدہ کو سچ کر دکھائے یہاں تک کہ شہید ہو جائے، یہی وہ شخص ہے جس کی طرف قیامت کے دن لوگ اس طرح آنکھیں اٹھا کر دیکھیں گے اور ( راوی فضالہ بن عبید نے اس کی کیفیت کو بیان کرنے کے لیے کہا ) اپنا سر اٹھایا یہاں تک کہ ٹوپی ( سر سے ) گر گئی“، راوی ابویزید خولانی کہتے ہیں: مجھے نہیں معلوم فضالہ نے عمر رضی الله عنہ کی ٹوپی مراد لی یا نبی اکرم صلی اللہ علیہ وسلم کی، آپ نے فرمایا: ”دوسرا وہ اچھے ایمان والا مومن جو دشمن کا مقابلہ اس طرح کرے تو ان بزدلی کی وجہ سے اس کی جلد ( کھال ) «طلح» ( ایک بڑا خاردار درخت ) کے کاٹے سے زخمی ہو گئی ہو، پیچھے سے ( ایک انجان ) تیر آ کر اسے لگے اور مار ڈالے، یہ دوسرے درجہ میں ہے، تیسرا وہ مومن جو نیک عمل کے ساتھ برا عمل بھی کرے، جب دشمن سے مقابلہ کرے تو اللہ سے کئے گئے وعدہ کو سچ کر دکھائے ( یعنی بہادری سے لڑتا رہے ) یہاں تک کہ شہید ہو جائے، یہ تیسرے درجہ میں ہے، چوتھا وہ مومن شخص جو اپنے نفس پر ظلم کرے ( یعنی کثرت گناہ کی وجہ سے، اور بہادری سے لڑتا رہے ) یہاں تک کہ شہید ہو جائے، یہ چوتھے درجہ میں ہے“۔ امام ترمذی کہتے ہیں: یہ حدیث غریب ہے، ہم اسے صرف عطاء بن دینار ہی کی روایت سے جانتے ہیں، میں نے محمد بن اسماعیل بخاری کو کہتے سنا: یہ حدیث سعید بن ابی ایوب نے عطاء بن دینار سے روایت کی ہے اور انہوں نے خولان کے مشائخ سے روایت کی ہے اس میں انہوں نے ابویزید کا ذکر نہیں کیا، اور عطاء بن دینار نے کہا: ( کہ اس حدیث میں ) کچھ حرج نہیں ہے۔",
+          "id": "Telah menceritakan kepada kami [Qutaibah] berkata, telah menceritakan kepada kami [Ibnu Lahi'ah] dari [Atha bin Dinar] dari [Abu Yazid Al Khaulani] Bahwasanya ia mendengar [Fadhalah bin Ubaid] berkata; Aku mendengar [Umar Ibnul Khaththab] berkata, \"Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: \"Syuhada itu ada empat; seorang mukmin yang istimewa keimanannya, ia bertemu musuh dan membenarkan Allah hingga ia terbunuh. Mukmin inilah yang kelak mata manusia tertuju kepadanya dengan penuh kekaguman pada hari kiamat.\" Nabi mengucapkan hal ini sembari mengangkat kepalanya hingga pecinya terjatuh. Ia katakana; 'Saya tidak tahu peci manakah yang dimaksud, peci Umarkah atau peci Nabi'. Beliau melanjutkan sabdanya; Dan Seorang mukmin yang istimewa keimanannya dan bertemu musuh, hanya sayang tubuhnya (maksudnya dirinya) seolah-olah terkena sedikit duri pohon karena sifat pengecutnya yang masih ada, ia terkena anak panah yang menyasar hingga menjadikannya terbantai, orang ini berada di tingkat kedua. dan seorang mukmin yang masih mencampuradukkan amal shalihnya dan amal buruknya, ia bertemu musuh dan membenarkan Allah hingga terbunuh. Orang ini berada di tingkat ketiga. Dan seorang mukmin yang melampui batas terhadap dirinya, ia bertemu musuh dan membenarkan Allah hingga ia terbunuh. Orang ini berada di tingkat keempat.\" Abu Isa berkata, \"Hadits ini derajatnya hasan gharib, kami tidak mengetahuinya kecuali dari hadits Atha bin Dinar. Ia berkata, \"Aku mendengar [Muhammad] berkata, \" [Sa'id bin Abu Ayyub] telah meriwayatkan hadits ini dari [Atha bin Dinar]. Ia berkata dari beberapa [syaikh] wilayah Khaulan, dan ia tidak menyebutkan dalam riwayatnya 'dari Abu Zayid'. namun Atha bin Dinar berkata, \"Tidak ada masalah dengan hal itu",
+          "tr": "Ebû Yezîd el Havlânî (r.a.)’den rivâyete göre, şöyle demiştir: Fedâle b. Ubeyd’den işittim şöyle diyordu: Ömer b. Hattâb’tan işittim şöyle demiştir: Rasûlullah (s.a.v.)’den işittim şöyle demiştir: Şehîdler dört çeşittir; 1- Düşmanla karşılaşıp öldürülünceye kadar Allah’a sadık kalan, sağlam imanlı mümin kişidir. Bu kişiye kıyamet günü insanlar gözlerini kaldırarak bakacaklardır derken başını o derece kaldırdı ki başındaki külahı düştü. Râvî diyor ki külahı düşen Peygamber mi idi yoksa Ömer mi idi bilemiyorum. 2- Yine bir kimse ki düşmanla karşı karşıya gelip şaşkın bir okun kendisine isabet etmesiyle şehîd olmuştur, bunun da duyduğu acı sanki muz ağacının dikeni batmış gibi ürkeklik duyan kimse gibidir. Bu da sağlam imanlı, mümin bir kişidir ki ikinci derecede olan da budur. 3- Hayatta iken iyi işleri de olup kötü işler de işleyen günahkar bir mümin kimse düşmanla karşılaşır ve Allah’a verdiği sözü yerine getirinceye kadar sözünde durup şehîd olan kimsedir ki buda üçüncü derecedir. 4- Yine bir adam ki hayatı boyunca nefsine zulmederek fazla günah işleyerek düşmanla karşılaşmış ve Allah’a verdiği sözde durarak şehîd oluncaya kadar savaşan kimsedir ki dördüncü derecede budur.” Diğer tahric: Müsned: 145 Bu hadis hasen garibtir. Bu hadisi sadece Atâ b. Dinar’ın rivâyetiyle bilmekteyiz. Muhammed’den işittim şöyle diyordu: Saîd b. ebî Eyyûb bu hadisi Atâ b. Dinar’dan rivâyet etmiştir. Dedi ki: Havlân şeyhlerinden rivâyet etmiştir ve bu rivâyetinde de “Ebû Yezîd”ten dememiştir. Atâ b. Dinar rivâyet yönünden zararsız makbul bir kimsedir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Daif"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 22,
+        "hadith": 27
+      },
+      "narrator": {
+        "en": "Fadalah bin 'Ubaid"
+      }
+    },
+    {
+      "hadithNumber": 1645,
+      "arabicNumber": 1645,
+      "book": 22,
+      "hadithInBook": 28,
+      "text": {
+        "arabic": "حَدَّثَنَا إِسْحَاقُ بْنُ مُوسَى الأَنْصَارِيُّ، حَدَّثَنَا مَعْنٌ، حَدَّثَنَا مَالِكٌ، عَنْ إِسْحَاقَ بْنِ عَبْدِ اللَّهِ بْنِ أَبِي طَلْحَةَ، عَنْ أَنَسِ بْنِ مَالِكٍ، أَنَّهُ سَمِعَهُ يَقُولُ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَدْخُلُ عَلَى أُمِّ حَرَامٍ بِنْتِ مِلْحَانَ فَتُطْعِمُهُ وَكَانَتْ أُمُّ حَرَامٍ تَحْتَ عُبَادَةَ بْنِ الصَّامِتِ فَدَخَلَ عَلَيْهَا رَسُولُ اللَّهِ صلى الله عليه وسلم يَوْمًا فَأَطْعَمَتْهُ وَجَلَسَتْ تَفْلِي رَأْسَهُ فَنَامَ رَسُولُ اللَّهِ صلى الله عليه وسلم ثُمَّ اسْتَيْقَظَ وَهُوَ يَضْحَكُ قَالَتْ فَقُلْتُ مَا يُضْحِكُكَ يَا رَسُولَ اللَّهِ قَالَ ‏\"‏ نَاسٌ مِنْ أُمَّتِي عُرِضُوا عَلَىَّ غُزَاةً فِي سَبِيلِ اللَّهِ يَرْكَبُونَ ثَبَجَ هَذَا الْبَحْرِ مُلُوكٌ عَلَى الأَسِرَّةِ أَوْ مِثْلُ الْمُلُوكِ عَلَى الأَسِرَّةِ ‏\"‏ ‏.‏ قُلْتُ يَا رَسُولَ اللَّهِ ادْعُ اللَّهَ أَنْ يَجْعَلَنِي مِنْهُمْ ‏.‏ فَدَعَا لَهَا ثُمَّ وَضَعَ رَأْسَهُ فَنَامَ ثُمَّ اسْتَيْقَظَ وَهُوَ يَضْحَكُ قَالَتْ فَقُلْتُ لَهُ مَا يُضْحِكُكَ يَا رَسُولَ اللَّهِ قَالَ ‏\"‏ نَاسٌ مِنْ أُمَّتِي عُرِضُوا عَلَىَّ غُزَاةً فِي سَبِيلِ اللَّهِ ‏\"‏ ‏.‏ نَحْوَ مَا قَالَ فِي الأَوَّلِ قَالَتْ فَقُلْتُ يَا رَسُولَ اللَّهِ ادْعُ اللَّهَ أَنْ يَجْعَلَنِي مِنْهُمْ ‏.‏ قَالَ ‏\"‏ أَنْتِ مِنَ الأَوَّلِينَ ‏\"‏ ‏.‏ قَالَ فَرَكِبَتْ أُمُّ حَرَامٍ الْبَحْرَ فِي زَمَانِ مُعَاوِيَةَ بْنِ أَبِي سُفْيَانَ فَصُرِعَتْ عَنْ دَابَّتِهَا حِينَ خَرَجَتْ مِنَ الْبَحْرِ فَهَلَكَتْ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏ وَأُمُّ حَرَامٍ بِنْتُ مِلْحَانَ هِيَ أُخْتُ أُمِّ سُلَيْمٍ وَهِيَ خَالَةُ أَنَسِ بْنِ مَالِكٍ ‏.‏",
+        "translations": {
+          "en": "Narrated Ishaq bin 'Abdullah bin Abi Talhah: That he heard Anas [bin Malik] saying: \"The Messenger of Allah (ﷺ) used to visit Umm Haram bint Milhan, who would offer him meals. Umm Haram was the wife of 'Ubadah bin As-Samit. Once the Messenger of Allah (ﷺ) visited her and she provide him with some food and started inspecting this head for lice. Then the Messenger of Allah (ﷺ) slept and afterwards he awoke smiling. She said: 'I said: \"What causes you to smile, O the Messenger of Allah (ﷺ) ?\" He said: \"Some of my followers who were displayed before me )in a dream) as fighters in Allah's cause, riding on a ship this ocean who were kings upon thrones, or like kings upon thrones.\" I said: \"O Messenger of Allah! Supplicate to Allah to make me among them.'\" So he supplicated for her. Then he lay down his head to sleep. Then he woke up and he was smiling. She said: 'So I said to him: \"What causes you to smile, O the Messenger of Allah (ﷺ)?\" He said: \"Some of my followers who were displayed before me (in a dream) as fighters in Allah's cause,\" and he said similar to what he said earlier. She said: 'I said: \"O Messenger of Allah! Supplicate to Allah to make me among them.\" He said: \"You are the earlier ones.'\" He said: \"So Umm Haram rode on the sea during the time of Mu'awiyah bin Abu Sufyan. She was thrown from the riding animal after she arrived from the ocean voyage, and she died.\" [Abu 'Eisa said:] This Hadith is Hasan Sahih. Umm Haram bint Milhan is the daughter of Umm Sulaim, the maternal aunt of Anas bin Malik",
+          "ur": "انس بن مالک رضی الله عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم ام حرام بنت ملحان کے گھر جب بھی جاتے، وہ آپ کو کھانا کھلاتیں، ام حرام رضی الله عنہا عبادہ بن صامت رضی الله عنہ کے عقد میں تھیں، ایک دن رسول اللہ صلی اللہ علیہ وسلم ان کے پاس گئے تو انہوں نے آپ کو کھانا کھلایا اور آپ کے سر میں جوئیں دیکھنے بیٹھ گئیں، آپ سو گئے، پھر آپ صلی اللہ علیہ وسلم بیدار ہوئے تو ہنس رہے تھے، ام حرام رضی الله عنہا کہتی ہیں: میں نے پوچھا: اللہ کے رسول! آپ کو کیا چیز ہنسا رہی ہے؟ آپ نے ( جواب میں ) فرمایا: ”میرے سامنے میری امت کے کچھ مجاہدین پیش کئے گئے، وہ اس سمندر کے سینہ پر سوار تھے، تختوں پر بیٹھے ہوئے بادشاہ لگتے تھے“۔ راوی کو شک ہے کہ آپ نے «ملوك على الأسرة» کہا، یا «مثل الملوك على الأسرة» میں نے عرض کیا: اللہ کے رسول! اللہ سے دعا کر دیجئیے کہ اللہ مجھے بھی ان لوگوں میں کر دے، چنانچہ آپ نے ان کے لیے دعا فرمائی، آپ پھر اپنا سر رکھ کر سو گئے، پھر ہنستے ہوئے بیدار ہوئے، میں نے عرض کیا: اللہ کے رسول! آپ کو کیا چیز ہنسا رہی ہے؟ فرمایا: ”میرے سامنے میری امت کے کچھ لوگ اللہ کے راستے میں جہاد کرتے ہوئے پیش کئے گئے“، آپ نے اسی طرح فرمایا جیسے اس سے پہلے فرمایا تھا، میں نے عرض کیا: اللہ کے رسول! اللہ سے دعا کر دیجئیے کہ مجھے ان لوگوں میں کر دے، آپ نے فرمایا: ”تم ( سمندر میں ) پہلے ( جہاد کرنے ) والے لوگوں میں سے ہو“۔ انس رضی الله عنہ کہتے ہیں: معاویہ بن ابی سفیان رضی الله عنہما کے زمانہ میں ام حرام رضی الله عنہا سمندری سفر پر ( ایک جہاد میں ) نکلیں تو وہ سمندر سے نکلتے وقت اپنی سواری سے گر گئیں اور ہلاک ہو گئیں۔ امام ترمذی کہتے ہیں: ۱- یہ حدیث حسن صحیح ہے، ۲- ام حرام بنت ملحان، ام سلیم کی بہن اور انس بن مالک کی خالہ ہیں، ( اور نبی اکرم صلی اللہ علیہ وسلم کے ننہال میں سے قریبی رشتہ دار تھیں ) ۔",
+          "id": "Telah menceritakan kepada kami [Ishaq bin Musa Al Anshari] berkata, telah menceritakan kepada kami [Ma'n] berkata, telah menceritakan kepada kami [Malik] dari [Ishaq bin Abdullah bin Abu Thalhah] dari [Anas bin Malik] Bahwasanya ia pernah mendengarnya berkata, \"Rasulullah shallallahu 'alaihi wasallam pernah masuk menemui Ummu Haram binti Milhan, lalu Ummu Haram menghidangkan makanan kepada beliau. Ummu Haram adalah isteri Ubadah bin Ash Shamit, suatu hari Rasulullah shallallahu 'alaihi wasallam menemuinya lalu ia memberi hidangan kepada beliau. Kemudian ia duduk menahan kepala beliau, Rasulullah shallallahu 'alaihi wasallam pun tidur. Setelah itu beliau bangun sambil tertawa, Ummu Haram berkata, \"Aku bertanya, \"Apa yang membuatmu tertawa ya Rasulullah?\" beliau menjawab: \"Telah ditampakkan kepadaku beberapa orang dari umatku yang berperang di jalan Allah, mereka unggul di atas lautan laksanana para raja di atas dipan.\" Aku berkata, \"Wahai Rasulullah, doakanlah agar aku termasuk dari mereka.\" beliau lantas mendoakan Ummu Haram dan kembali meletakkan kepalanya untuk tidur. Kemudian beliau bangun dan tertawa. Ummu Haram berkata, \"Aku bertanya, \"Wahai Rasulullah, apa yang membuatmu tertawa?\" Beliau menjawab: \"Telah ditampakkan kepadaku beberapa orang dari umatku yang berperang di jalan Allah…seperti yang beliau sebutkan di awal. Ummu Haram berkata, \"Aku berkata, \"Wahai Rasulullah, doakanlah agar aku termasuk dari mereka.\" beliau bersabda: \"Engkau termasuk orang-orang yang pertama (dari mereka).\" Ummu Haram lalu mengarungi lautan pada masa pemerintahan Mu'awiyah bin Abu Sufyan. Saat akan mendarat dari lautan ia terpental dari tunggannya hingga ia pun meninggal.\" Abu Isa berkata, \"Hadits ini derajatnya hasan shahih. Ummu Haram binti Milhan adalah saudara wanita Ummu Sulaim, ia adalah bibi Anas bin Malik",
+          "tr": "İshâk b. Abdullah b. Ebî Talha (r.a.)’den rivâyet edilmiştir: Enes’den şöyle dediğini işitti: Rasûlullah (s.a.v.), Milhan’ın kızı Ümmü Haram’ın yanına girerdi. Ümmü Haram kendisine yemek yedirirdi. Ümmü Haram, Ubâde b. Sâmit’in nikahlısıydı. Günlerden bir gün onun yanına girmişti de o da Rasûlullah (s.a.v.)’e yemek yedirmişti. Biraz istirahat için uyuyan Rasûlullah (s.a.v.)’in başı ucuna oturmuştu. Rasûlullah (s.a.v.) uyudu biraz sonra gülerek uyandı. Ümmü Haram dedi ki: Ey Allah’ın Rasûlü neden güldün? Dedim. Buyurdular ki: Ümmetimden bazı kimseler gazi olarak rüyamda bana gösterdiler şu denizin üzerindeki gemilere tahtlar üzerindeki hükümdarlar gibi binmiş Allah yolunda savaşa gidiyorlardı. Ben: Ey Allah’ın Rasûlü! Allah’a dua et de beni onlardan kılsın dedim, Rasûlullah (s.a.v.) ona dua etti. Sonra başını koyup uyudu, hemen arkasından gülerek yine uyandı. O’na Ey Allah’ın Rasûlü dedim seni güldüren nedir? Şöyle buyurdular: Ümmetimden bazı kimseler Allah yolunda gazi olarak bana gösterildiler diyerek önceki sözünün bir benzerini söyledi. Ümmü Haram dedi ki: Ey Allah’ın Rasûlü dedim beni onlardan kılması için Allah’a dua et. Rasûlullah (s.a.v.), sen öncekilerdensin buyurdu. Muaviye b. Ebî Sûfyân zamanında Ümmü Haram, deniz yolculuğuna çıktı. Dönüşünde binmesi için ona bir katır getirilmişti de o hayvan onu sırtından atmıştı boynu kırılarak orada vefat etmişti. Diğer tahric: Buhârî, Cihâd; Ebû Dâvûd, Cihâd; Dârimî Cihâd Tirmizî: Bu hadis hasen sahihtir. Ümmü Haram binti Milhan Ümmü Süleym’in kız kardeşidir. Enes b. Mâlik’in teyzesidir. BU HADİS’İN MÜSLİM RİVAYETLERİ VE İZAH İÇİN BURAYA TIKLA"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 22,
+        "hadith": 28
+      },
+      "narrator": {
+        "en": "Ishaq bin 'Abdullah bin Abi Talhah"
+      }
+    },
+    {
+      "hadithNumber": 1646,
+      "arabicNumber": 1646,
+      "book": 22,
+      "hadithInBook": 29,
+      "text": {
+        "arabic": "حَدَّثَنَا هَنَّادٌ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ، عَنْ شَقِيقِ بْنِ سَلَمَةَ، عَنْ أَبِي مُوسَى، قَالَ سُئِلَ رَسُولُ اللَّهِ صلى الله عليه وسلم عَنِ الرَّجُلِ يُقَاتِلُ شَجَاعَةً وَيُقَاتِلُ حَمِيَّةً وَيُقَاتِلُ رِيَاءً فَأَىُّ ذَلِكَ فِي سَبِيلِ اللَّهِ قَالَ ‏ \"‏ مَنْ قَاتَلَ لِتَكُونَ كَلِمَةُ اللَّهِ هِيَ الْعُلْيَا فَهُوَ فِي سَبِيلِ اللَّهِ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى وَفِي الْبَابِ عَنْ عُمَرَ ‏.‏ وَهَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏",
+        "translations": {
+          "en": "Narrated Abu Musa: \"The Messenger of Allah (ﷺ) was asked about a man who fights out of bravery, one who fights out of protection (for himself or others), and one who fought to be seen. Which of them is in the cause of Allah ? He said: 'Whoever fought so that the Word of Allah is supreme, then he is in Allah's cause.'\" [Abu 'Eisa said:] There is something on this topic from 'Umar. This Hadith is Hasan Sahih",
+          "ur": "ابوموسیٰ اشعری رضی الله عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم سے پوچھا گیا: ایک آدمی اظہار شجاعت ( بہادری ) کے لیے لڑتا ہے، دوسرا حمیت کی وجہ سے لڑتا ہے، تیسرا ریاکاری کے لیے لڑتا ہے، ان میں سے اللہ کے راستے میں کون ہے؟ آپ نے فرمایا: ”جو شخص اللہ کے کلمہ کی سربلندی کے لیے جہاد کرے، وہ اللہ کے راستے میں ہے“۔ امام ترمذی کہتے ہیں: ۱- یہ حدیث حسن صحیح ہے، ۲- اس باب میں عمر رضی الله عنہ سے بھی روایت ہے۔",
+          "id": "Telah menceritakan kepada kami [Hannad] berkata, telah menceritakan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dari [Syaqiq bin Salamah] dari [Abu Musa] ia berkata, \"Rasulullah shallallahu 'alaihi wasallam ditanya tentang seorang laki-laki yang berperang agar disebut sebagai seorang yang gagah berani, dan seorang laki-laki yang berperang karena kelompok dan seorang laki-laki yang berperang karena riya, maka manakah yang termasuk fi sabilillah?\" beliau menjawab: \"Barangsiapa berperang untuk meninggikan kalimat Allah maka ia telah berperang fi sabilillah.\" Abu Isa berkata, \"Dalam bab ini juga ada hadits dari Umar. Dan hadits ini derajatnya hasan shahih",
+          "tr": "Ebû Musa (r.a.)’den rivâyete göre, şöyle demiştir: Rasûlullah (s.a.v.)’e yiğitlik veya toprak ve kabile müdafası ve gösteriş için savaşan kimselerden hangisinin Allah yolunda savaşçı olduğu soruldu da şöyle buyurdular: “Her kim İslam, yeryüzüne hâkim ve otorite olsun diye savaşırsa o kimse; Allah yolunda savaşıyor demektir.” Diğer tahric: Müslim, Imara; İbn Mâce, Cihâd Tirmizî: Bu konuda Ömer’den de hadis rivâyet edilmiştir. Bu hadis hasen sahihtir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 22,
+        "hadith": 29
+      },
+      "narrator": {
+        "en": "Abu Musa"
+      }
+    },
+    {
+      "hadithNumber": 1647,
+      "arabicNumber": 1647,
+      "book": 22,
+      "hadithInBook": 30,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا عَبْدُ الْوَهَّابِ الثَّقَفِيُّ، عَنْ يَحْيَى بْنِ سَعِيدٍ، عَنْ مُحَمَّدِ بْنِ إِبْرَاهِيمَ، عَنْ عَلْقَمَةَ بْنِ وَقَّاصٍ اللَّيْثِيِّ، عَنْ عُمَرَ بْنِ الْخَطَّابِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ إِنَّمَا الأَعْمَالُ بِالنِّيَّةِ وَإِنَّمَا لاِمْرِئٍ مَا نَوَى فَمَنْ كَانَتْ هِجْرَتُهُ إِلَى اللَّهِ وَإِلَى رَسُولِهِ فَهِجْرَتُهُ إِلَى اللَّهِ وَرَسُولِهِ وَمَنْ كَانَتْ هِجْرَتُهُ إِلَى دُنْيَا يُصِيبُهَا أَوِ امْرَأَةٍ يَتَزَوَّجُهَا فَهِجْرَتُهُ إِلَى مَا هَاجَرَ إِلَيْهِ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏ وَقَدْ رَوَى مَالِكُ بْنُ أَنَسٍ وَسُفْيَانُ الثَّوْرِيُّ وَغَيْرُ وَاحِدٍ مِنَ الأَئِمَّةِ هَذَا عَنْ يَحْيَى بْنِ سَعِيدٍ وَلاَ نَعْرِفُهُ إِلاَّ مِنْ حَدِيثِ يَحْيَى بْنِ سَعِيدٍ الأَنْصَارِيِّ ‏.‏ قَالَ عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ يَنْبَغِي أَنْ نَضَعَ هَذَا الْحَدِيثَ فِي كُلِّ بَابٍ ‏.‏",
+        "translations": {
+          "en": "Narrated 'Umar bin Al-Khattab: That the Messenger of Allah (ﷺ) said: \"Deeds are but with intentions, and for the man is only what he intended. So one whose emigration was to Allah and His Messenger, then his emigration was to Allah and His Messenger. And one whose emigration was to the world, to attain some of it, or woman, to marry her, then his emigration was to what he emigrated. [Abu 'Eisa said:] This Hadith is Hasan Sahih. Malik bin Anas, Sufyan Ath-Thawri and more than one of the A'immah narrated this Hadith from Yahya bin Sa'eed. And we do not know of it except as a narration from Yahya bin Sa'eed Al-Ansari. 'Abdur Rahman bin Mahdi said: \"It is necessary that we put this Hadith in every chapter",
+          "ur": "عمر بن خطاب رضی الله عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”اعمال کا دارومدار نیت پر ہے، آدمی کو وہی ملے گا جس کی اس نے نیت کی، چنانچہ جس کی ہجرت اللہ اور اس کے رسول کے لیے ہو گی اسی کی ہجرت اللہ اور اس کے رسول کے لیے مانی جائے گی اور جس نے حصول دنیا یا کسی عورت سے شادی کرنے کے لیے ہجرت کی ہو گی تو اس کی ہجرت اسی کے لیے ہو گی جس کے لیے اس نے ہجرت کی“۔ امام ترمذی کہتے ہیں: ۱- یہ حدیث حسن صحیح ہے، ۲- مالک بن انس، سفیان ثوری اور کئی ائمہ حدیث نے اسے یحییٰ بن سعید سے روایت کیا ہے، ہم اسے صرف یحییٰ بن سعید انصاری ہی کی روایت سے جانتے ہیں، ۳- عبدالرحمٰن بن مہدی کہتے ہیں: ہمیں اس حدیث کو ہر باب میں رکھنا چاہیئے۔",
+          "id": "Telah menceritakan kepada kami [Muhammad Ibnul Mutsanna] berkata, telah menceritakan kepada kami [Abdul Wahhab Ats Tsaqafi] dari [Yahya bin Sa'id] dari [Muhammad bin Ibrahim] dari [Alqamah bin Waqash Al Laitsi] dari [Umar Ibnul Khaththab] ia berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Hanyasanya setiap amal itu tergantung dengan amalnya, dan setiap orang akan mendapatkan ganjaran sesuai dengan amalnya. Barangsiapa hijrahnya untuk Allah dan rasul-Nya, maka amalan hijrahnya akan sampai kepada Allah dan rasul-Nya. Dan barangsiapa hijrahnya untuk dunia atau wanita yang akan dinikahinya, maka hijrahnya akan sampai pada sesuatu yang ia hijrah kepadanya.\" Abu Isa berkata, \"Hadits ini derajatnya hasan shahih. Hadits ini juga telah diriwayatkan oleh [Malik bin Anas], [Sufyan Ats Tsauri] dan banyak imam lain dari [Yahya bin Sa'id]. Dan kami tidak mengetahuinya kecuali dari hadits Yahya bin Said Al Anshari. Ia berkata, \"'Abdurrahman bin Mahdi berkata, \"Selayaknya kita meletakkan hadits ini pada setiap bab",
+          "tr": "Ömer b. Hattâb (r.a.)’den rivâyet edilmiştir. Rasûlullah (s.a.v.) şöyle buyurmuştur: “Yapılan her iş niyete göre değerlendirilir. Herkesin niyet ettiği ne ise eline o geçer. Kimin memleketini terk etmesi veya günahlardan uzak kalması Allah ve Rasûlü’nün isteği doğrultusunda ise onun bu yaptığı iş Allah yolunda sayılır ve ahirette hesabı ona göre görülür. Kimin de memleketini terk edişi eline geçireceği bir dünyalık veya elde edeceği bir kadın için olursa onunda bu hicreti hicret ettiği şeye aittir. Böylece onları elde etmiş olur, ahirette de hesabı ona göre verilir.” Diğer tahric: Buhârî, Bed-il Vahy; Müslim, Imara Tirmizî: Bu hadis hasen sahihtir. Mâlik b. Enes, Sûfyân es Sevrî ve pek çok hadis imamları bu hadisi Yahya b. Saîd’den rivâyet etmişlerdir ve bu hadisi sadece Yahya b. Saîd el Ensârî’nin rivâyetiyle bilmekteyiz. Abdurrahman b. Mehdî der ki: Bu hadisi her konunun başına koymak gerekir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 22,
+        "hadith": 30
+      },
+      "narrator": {
+        "en": "'Umar bin Al-Khattab"
+      }
+    },
+    {
+      "hadithNumber": 1648,
+      "arabicNumber": 1648,
+      "book": 22,
+      "hadithInBook": 31,
+      "text": {
+        "arabic": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا الْعَطَّافُ بْنُ خَالِدٍ الْمَخْزُومِيُّ، عَنْ أَبِي حَازِمٍ، عَنْ سَهْلِ بْنِ سَعْدٍ السَّاعِدِيِّ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ غَدْوَةٌ فِي سَبِيلِ اللَّهِ خَيْرٌ مِنَ الدُّنْيَا وَمَا فِيهَا وَمَوْضِعُ سَوْطٍ فِي الْجَنَّةِ خَيْرٌ مِنَ الدُّنْيَا وَمَا فِيهَا ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى وَفِي الْبَابِ عَنْ أَبِي هُرَيْرَةَ وَابْنِ عَبَّاسٍ وَأَبِي أَيُّوبَ وَأَنَسٍ ‏.‏ وَهَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏",
+        "translations": {
+          "en": "Narrated Sahl bin Sa'd As-Sa'idi: That the Messenger of Allah (ﷺ) said: \"Going out in the morning in the cause of Allah is better that the world and what is in it. And the place (the size) of a whip in Paradise is better than the world and what is in it.\" [Abu 'Eisa said:] There are narrations on this topic from Abu Hurairah, Ibn 'Abbas, Abu Ayyub, and Anas. This Hadith is Hasan Sahih",
+          "ur": "سہل بن سعد ساعدی رضی الله عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”راہ جہاد کی ایک صبح دنیا اور دنیا کی ساری چیزوں سے بہتر ہے اور جنت کی ایک کوڑے ۱؎ کی جگہ دنیا اور اس کی ساری چیزوں سے بہتر ہے“۔ امام ترمذی کہتے ہیں: ۱- یہ حدیث حسن صحیح ہے، ۲- اس باب میں ابوہریرہ، ابن عباس، ابوایوب اور انس رضی الله عنہم سے بھی احادیث آئی ہیں۔",
+          "id": "Telah menceritakan kepada kami [Qutaibah] berkata, telah menceritakan kepada kami [Al Aththaf bin Khalid Al Makhzumi] dari [Abu Hazim] dari [Sahl bin Sa'd As Sa'idi] ia berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Keluar pagi hari di jalan Allah lebih baik dari dunia dan seisinya, dan tempat cambuk salah seorang dari kalian di surga lebih baik dari dunia dan seisinya.\" Abu Isa berkata, \"Dalam bab ini juga ada hadits dari Abu Hurairah, Ibnu Abbas, Abu Ayyub dan Anas. Hadits ini derajatnya hasan shahih",
+          "tr": "Sehl b. Sa’d es Saîdî (r.a.)’den rivâyete göre, şöyle demiştir: Rasûlullah (s.a.v.) şöyle buyurdu: “Allah yolunda cihâd etmek için bir sabah erkenden yola çıkmak dünyadan ve dünyanın içindeki her şeyden daha hayırlıdır. Cennet’teki bir kamçı boyu kadar yer dünyadan ve içindekilerden daha hayırlıdır.” Diğer tahric: Nesâî, Cihâd Tirmizî: Bu konuda Ebû Hüreyre, İbn Abbâs, Ebû Eyyûb ve Enes’den de hadis rivâyet edilmiştir. Bu hadis hasen sahihtir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 22,
+        "hadith": 31
+      },
+      "narrator": {
+        "en": "Sahl bin Sa'd As-Sa'idi"
+      }
+    },
+    {
+      "hadithNumber": 1649,
+      "arabicNumber": 1649,
+      "book": 22,
+      "hadithInBook": 32,
+      "text": {
+        "arabic": "حَدَّثَنَا أَبُو سَعِيدٍ الأَشَجُّ، حَدَّثَنَا أَبُو خَالِدٍ الأَحْمَرُ، عَنِ ابْنِ عَجْلاَنَ، عَنْ أَبِي حَازِمٍ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم وَالْحَجَّاجُ عَنِ الْحَكَمِ، عَنْ مِقْسَمٍ، عَنِ ابْنِ عَبَّاسٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ غَدْوَةٌ فِي سَبِيلِ اللَّهِ أَوْ رَوْحَةٌ خَيْرٌ مِنَ الدُّنْيَا وَمَا فِيهَا ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ غَرِيبٌ ‏.‏ وَأَبُو حَازِمٍ الَّذِي رَوَى عَنْ سَهْلِ بْنِ سَعْدٍ هُوَ أَبُو حَازِمٍ الزَّاهِدُ وَهُوَ مَدَنِيٌّ وَاسْمُهُ سَلَمَةُ بْنُ دِينَارٍ ‏.‏ وَأَبُو حَازِمٍ هَذَا الَّذِي رَوَى عَنْ أَبِي هُرَيْرَةَ هُوَ أَبُو حَازِمٍ الأَشْجَعِيُّ الْكُوفِيُّ وَاسْمُهُ سَلْمَانُ وَهُوَ مَوْلَى عَزَّةَ الأَشْجَعِيَّةِ ‏.‏",
+        "translations": {
+          "en": "Narrated Abu Hurairah and Ibn 'Abbas: That the Prophet (ﷺ) said: \"Going out in the morning in the cause of Allah, or in the afternoon, is better than the world and what is in it.\" [Abu 'Eisa said:] This Hadith is Hasan Gharib. The Abu Hazim who reported from Ashl bin Sa'd is Abu Hazim Az-Zahid. He is from Al-Madinah, and his name is Salamah bin Dinar. While [this] Abu Hazim who reported from Abu Hurairah is Abu Hazim Al-Ashja'i Al-Kufi, whose name is Salman, and he is the freed slave of 'Azzah Al-Ashja'iyyah",
+          "ur": "ابوہریرہ رضی الله عنہ اور عبداللہ بن عباس رضی الله عنہما سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: ”جہاد کی ایک صبح یا ایک شام دنیا اور اس میں جو کچھ ہے اس سے بہتر ہے“۔ امام ترمذی کہتے ہیں: ۱- یہ حدیث حسن غریب ہے، ۲- جس ابوحازم نے سہل بن سعد سے روایت کی ہے وہ ابوحازم زاہد ہیں، مدینہ کے رہنے والے ہیں اور ان کا نام سلمہ بن دینار ہے، اور یہ ابوحازم جنہوں نے ابوہریرہ سے روایت کی ہے یہ ابوحازم اشجعی ہیں، کوفہ کے رہنے والے ان کا نام سلمان ہے اور یہ عزۃ اشجعیہ کے آزاد کردہ غلام ہیں۔",
+          "id": "Telah menceritakan kepada kami [Abu Sa'id Al Asyaj] berkata, telah menceritakan kepada kami [Abu Khalid Al Ahmar] dari [Ibnu Ajlan] dari [Abu Hazim] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam. Dan [Al Hajjaj] dari [Al Hakam] dari [Miqsam] dari [Ibnu Abbas] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: \"Keluar di waktu sore atau pagi hari di jalan Allah lebih baik dari dunia dan seisinya.\" Abu Isa berkata, \"Hadits ini derajatnya hasan gharib. Abu Hazim yang meriwayatkan hadits dari Sahl bin Sa'd adalah Abu Hazim Az Zahid. Ia berasal dari kota Madinah, nama aslinya adalah Salamah bin Dinar. Sementara Abu Hazim yang meriwayatkan hadits dari Abu Hurairah adalah Abu Hazim Al Asyja'I Al Kufi, nama aslinya adalah Salman, mantan budak (yang telah dimerdekakan oleh) Azzah Al Asyja'iyah",
+          "tr": "İbn Abbâs (r.a.)’den rivâyete göre, Rasûlullah (s.a.v.) şöyle buyurdu: “Allah yolunda cihâd için bir sabah veya akşam yürüyüşü Dünyadan ve içindekilerden daha hayırlıdır.” Diğer tahric: Buhârî, Cihâd; İbn Mâce, Cihâd Tirmizî: Bu hadis hasen garibtir. Sehl b. Sa’d’den hadis rivâyet eden Ebû Hâzîm, Zahid bir kimse olup Medînelidir, ismi: Seleme b. Dinar’dır. Ebû Hüreyre’den rivâyet eden Ebû Hâzim ise Ebû Hâzim el Eşcaî olup Küfelidir. İsmi: Selman’dır. Azze el Eşcaîyye’nin azâdlı kölesidir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 22,
+        "hadith": 32
+      },
+      "narrator": {
+        "en": "Abu Hurairah and Ibn 'Abbas"
+      }
+    },
+    {
+      "hadithNumber": 1650,
+      "arabicNumber": 1650,
+      "book": 22,
+      "hadithInBook": 33,
+      "text": {
+        "arabic": "حَدَّثَنَا عُبَيْدُ بْنُ أَسْبَاطِ بْنِ مُحَمَّدٍ الْقُرَشِيُّ الْكُوفِيُّ، حَدَّثَنَا أَبِي، عَنْ هِشَامِ بْنِ سَعْدٍ، عَنْ سَعِيدِ بْنِ أَبِي هِلاَلٍ، عَنِ ابْنِ أَبِي ذُبَابٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ مَرَّ رَجُلٌ مِنْ أَصْحَابِ رَسُولِ اللَّهِ صلى الله عليه وسلم بِشِعْبٍ فِيهِ عُيَيْنَةٌ مِنْ مَاءٍ عَذْبَةٌ فَأَعْجَبَتْهُ لِطِيبِهَا فَقَالَ لَوِ اعْتَزَلْتُ النَّاسَ فَأَقَمْتُ فِي هَذَا الشِّعْبِ وَلَنْ أَفْعَلَ حَتَّى أَسْتَأْذِنَ رَسُولَ اللَّهِ صلى الله عليه وسلم ‏.‏ فَذَكَرَ ذَلِكَ لِرَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَ ‏ \"‏ لاَ تَفْعَلْ فَإِنَّ مَقَامَ أَحَدِكُمْ فِي سَبِيلِ اللَّهِ أَفْضَلُ مِنْ صَلاَتِهِ فِي بَيْتِهِ سَبْعِينَ عَامًا أَلاَ تُحِبُّونَ أَنْ يَغْفِرَ اللَّهُ لَكُمْ وَيُدْخِلَكُمُ الْجَنَّةَ اغْزُوا فِي سَبِيلِ اللَّهِ مَنْ قَاتَلَ فِي سَبِيلِ اللَّهِ فُوَاقَ نَاقَةٍ وَجَبَتْ لَهُ الْجَنَّةُ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ ‏.‏",
+        "translations": {
+          "en": "Narrated Abu Hurairah: A man from the Companions of the Prophet (ﷺ) passed by ravine containing a small spring of thirst quenching water, so he was amazed by how pleasant it was. So he said: 'I should leave the people and stay in this ravine. But I will not do it until I seek permission from the Messenger of Allah (ﷺ).' So he mentioned that to the Messenger of Allah (ﷺ) and he said: 'Do not do so. For indeed one of you standing in the cause of Allah is more virtuous that his Salat in his house for seventy years. Do you not love that Allah forgive your sins and admit you into Paradise ? Then fight in the cause of Allah, for whoever fights in Allah's cause for the time it takes for two milkings of a camel, then Paradise is obligatory for him.'\" [Abu 'Eisa said:] This Hadith is Hasan",
+          "ur": "ابوہریرہ رضی الله عنہ کہتے ہیں کہ صحابہ میں سے ایک آدمی کسی پہاڑی کی گھاٹی سے گزرا جس میں میٹھے پانی کا ایک چھوٹا سا چشمہ تھا، وہ جگہ اور چشمہ اپنی لطافت کی وجہ سے اسے بہت پسند آیا، اس نے کہا ( سوچا ) : کاش میں لوگوں سے الگ تھلگ ہو کر اس گھاٹی میں قیام پذیر ہو جاتا، لیکن میں ایسا ہرگز نہیں کروں گا یہاں تک کہ رسول اللہ صلی اللہ علیہ وسلم سے اجازت طلب کر لوں اس نے رسول اللہ صلی اللہ علیہ وسلم سے اس کا تذکرہ کیا، آپ نے فرمایا: ”ایسا نہ کرو، اس لیے کہ تم میں سے کسی کا اللہ کے راستے میں کھڑا رہنا اپنے گھر میں ستر سال نماز پڑھتے رہنے سے بہتر ہے، کیا تم لوگ نہیں چاہتے ہو کہ اللہ تمہارے گناہوں کو بخش دے اور تم کو جنت میں داخل کر دے؟ اللہ کی راہ میں جہاد کرو، جس نے اللہ کی راہ میں دو مرتبہ دودھ دوہنے کے درمیان کے وقفہ کے برابر جہاد کیا اس کے لیے جنت واجب ہو گئی۔ امام ترمذی کہتے ہیں: یہ حدیث حسن ہے۔",
+          "id": "Telah menceritakan kepada kami [Ubaid bin Asbath bin Muhammad Al Qurasyi Al Kufi] berkata, telah menceritakan kepada kami [Bapakku] dari [Hisyam bin Sa'd] dari [Sa'id bin Abu Hilal] dari [Ibnu Abu Dzubab] dari [Abu Hurairah] ia berkata, \"Seorang laki-laki dari sabahat Rasulullah shallallahu 'alaihi wasallam melewati sebuah lembah yang terdapat mata air yang jernih hingga membuatnya kagum karena bagusnya. Ia lalu berkata, \"Sekiranya aku tinggalkan manusia dan menetap di lembah ini. Tetapi sekali-kali aku tidak akan melakukannya hingga aku minta izin kepada Rasulullah shallallahu 'alaihi wasallam.\" Kemudian laki-laki itu menceritakan hal tersebut kepada Rasulullah shallallahu 'alaihi wasallam, beliau lalu bersabda: \"Jangan kamu lakukan! Sungguh, tempat salah seorang dari kalian di jalan Allah (jihad) lebih utama dari ibadah selama enam puluh tahun di dalam rumahnya. Apakah kalian tidak suka jika Allah mengampuni dosa-dosa kalian dan memasukkan kalian ke dalam surga? Berperanglah kalian di jalan Allah, barangsiapa berperang di jalan Allah meskipun hanya sekadar orang memerah susu unta, maka telah wajib baginya masuk surga.\" Abu Isa berkata, \"Hadits ini derajatnya hasan",
+          "tr": "Ebû Hureyre (r.a.)’den rivâyete göre, şöyle demiştir: Rasûlullah (s.a.v.)’in ashabından bir kimse tatlı su kaynağı bulunan bir toplumun yanından geçti oranın manzarası ve o iş hoşuna gitti ve şöyle dedi: Keşke insanlardan uzaklaşıp manzarası güzel şu toplumun yanında yerleşsem…! Ama Rasûlullah (s.a.v.)’den izin almadan bu işi yapmayacağım dedi ve durumu Rasûlullah (s.a.v.)’e anlattı. Bunun üzerine Rasûlullah (s.a.v.) şöyle buyurdu: “Halktan uzaklaşıp bu rahat işi yapma sizden birinizin Allah yolunda cihâd için kısa bir süre olsa bulunması yetmiş yıl evinde kılacağı nafile namazdan daha kıymetli ve değerlidir. Allah’ın sizi affetmesini ve Cennetine koymasını istemez misiniz? O halde Allah yolunda savaşın. Kim, Allah yolunda deve sütünün sağılması kadar bile kısa sürede olsa savaşırsa Cennet o kimseye vâcib olur.” Diğer tahric: Buhârî, Cihâd; İbn Mâce, Cihâd Tirmizî: Bu hadis hasendir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 22,
+        "hadith": 33
+      },
+      "narrator": {
+        "en": "Abu Hurairah"
+      }
+    },
+    {
+      "hadithNumber": 1651,
+      "arabicNumber": 1651,
+      "book": 22,
+      "hadithInBook": 34,
+      "text": {
+        "arabic": "حَدَّثَنَا عَلِيُّ بْنُ حُجْرٍ، حَدَّثَنَا إِسْمَاعِيلُ بْنُ جَعْفَرٍ، عَنْ حُمَيْدٍ، عَنْ أَنَسٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ لَغَدْوَةٌ فِي سَبِيلِ اللَّهِ أَوْ رَوْحَةٌ خَيْرٌ مِنَ الدُّنْيَا وَمَا فِيهَا وَلَقَابُ قَوْسِ أَحَدِكُمْ أَوْ مَوْضِعُ يَدِهِ فِي الْجَنَّةِ خَيْرٌ مِنَ الدُّنْيَا وَمَا فِيهَا وَلَوْ أَنَّ امْرَأَةً مِنْ نِسَاءِ أَهْلِ الْجَنَّةِ اطَّلَعَتْ إِلَى الأَرْضِ لأَضَاءَتْ مَا بَيْنَهُمَا وَلَمَلأَتْ مَا بَيْنَهُمَا رِيحًا وَلَنَصِيفُهَا عَلَى رَأْسِهَا خَيْرٌ مِنَ الدُّنْيَا وَمَا فِيهَا ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ صَحِيحٌ ‏.‏",
+        "translations": {
+          "en": "Narrated Anas: That the Messenger of Allah (ﷺ) said: \"To go out in the cause of Allah in the morning, or the afternoon, is better than the world and what is in it. And the space that a bow of one of you - or the space that his hand - would occupy in Paradise is better than the world and what is in it. And if a woman among the women inhabiting Paradise were to appear to the people of the earth, then she would illuminate what is between the ( the heavens and the earth), and a pleasant scent would fill up what is between them, and the scarf on her head is better than the world and what is in it.\" [Abu 'Eisa said:] This Hadith is Hasan Sahih",
+          "ur": "انس رضی الله عنہ سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”راہ جہاد کی ایک صبح یا ایک شام ساری دنیا سے بہتر ہے، اور تم میں سے کسی کی کمان یا ہاتھ کے برابر جنت کی جگہ دنیا اور اس کی ساری چیزوں سے بہتر ہے ۱؎، اگر جنت کی عورتوں میں سے کوئی عورت زمین کی طرف نکل آئے تو زمین و آسمان کے درمیان کی ساری چیزیں روشن ہو جائیں اور خوشبو سے بھر جائیں اور اس کے سر کا دوپٹہ دنیا اور اس کی ساری چیزوں سے بہتر ہے“۔ امام ترمذی کہتے ہیں: یہ حدیث صحیح ہے۔",
+          "id": "Telah menceritakan kepada kami [Ali bin Hujr] berkata, telah menceritakan kepada kami [Isma'il bin Ja'far] dari [Humaid] dari [Anas] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: \"Sungguh, keluar di sore atau pagi hari di jalan Allah adalah lebih baik dari pada dunia dan seisinya. Dan tempat busur panah salah seorang dari kalian atau tempat tangan salah seorang dari kalian di surga adalah lebih baik dari dunia dan seisinya. Sekiranya wanita penduduk surga melongok ke bumi maka maka seisi langit dan bumi akan menjadi terang serta penuh dengan semerbak harum, dan sungguh konde rambut wanita surga lebih baik dari dunia dan seisinya.\" Abu Isa berkata, \"Hadits ini derajatnya hasan shahih",
+          "tr": "Enes (r.a.)’den rivâyete göre, Rasûlullah (s.a.v.) şöyle buyurdu: “Allah yolunda sabah akşam cihâd için bir yürüyüş; dünya ve içindekilerden daha hayırlıdır. Sizden birinizin Cennet’teki bir yay kadar el kadar veya yeri dünya ve içindekilerden daha hayırlıdır. Cennet kadınlarından bir kadın eğilip te dünyaya bir baksa; yerle gök arasını aydınlatır ve onların arasını güzel koku ile doldurur o Cennet’teki bir kadının başındaki örtüsü dünya ve içindeki tüm şeylerden daha hayırlı ve kıymetlidir.” Diğer tahric: Buhârî, Cihâd; İbn Mâce, Cihâd Tirmizî: Bu hadis sahihtir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 22,
+        "hadith": 34
+      },
+      "narrator": {
+        "en": "Anas"
+      }
+    },
+    {
+      "hadithNumber": 1652,
+      "arabicNumber": 1652,
+      "book": 22,
+      "hadithInBook": 35,
+      "text": {
+        "arabic": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا ابْنُ لَهِيعَةَ، عَنْ بُكَيْرِ بْنِ عَبْدِ اللَّهِ بْنِ الأَشَجِّ، عَنْ عَطَاءِ بْنِ يَسَارٍ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏ \"‏ أَلاَ أُخْبِرُكُمْ بِخَيْرِ النَّاسِ رَجُلٌ مُمْسِكٌ بِعِنَانِ فَرَسِهِ فِي سَبِيلِ اللَّهِ أَلاَ أُخْبِرُكُمْ بِالَّذِي يَتْلُوهُ رَجُلٌ مُعْتَزِلٌ فِي غُنَيْمَةٍ لَهُ يُؤَدِّي حَقَّ اللَّهِ فِيهَا أَلاَ أُخْبِرُكُمْ بِشَرِّ النَّاسِ رَجُلٌ يُسْأَلُ بِاللَّهِ وَلاَ يُعْطِي بِهِ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ غَرِيبٌ مِنْ هَذَا الْوَجْهِ وَيُرْوَى هَذَا الْحَدِيثُ مِنْ غَيْرِ وَجْهٍ عَنِ ابْنِ عَبَّاسٍ عَنِ النَّبِيِّ صلى الله عليه وسلم ‏.‏",
+        "translations": {
+          "en": "Narrated Ibn 'Abbas: That the Prophet (ﷺ) said: \"Shall I not inform you of the best of the people ? A man who takes hold of the reins of his horse in Allah's cause. Shall I not inform you of the one who comes after him ? The man who secludes himself from the people with a small group of sheep of his, thereby fulfilling Allah's right. Shall I not inform you about the worst of the people ? A man who is asked by (the Name of) Allah, but not given by Him.\" [Abu 'Eisa said:] This Hadith is Hasan Gharib from this route. This Hadith has been reported through other routes from Ibn 'Abbas, from the Prophet (ﷺ)",
+          "ur": "عبداللہ بن عباس رضی الله عنہما سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: ”کیا میں تم لوگوں کو سب سے بہتر آدمی کے بارے میں نہ بتا دوں؟ یہ وہ آدمی ہے جو اللہ کی راہ میں اپنے گھوڑے کی لگام پکڑے رہے، کیا میں تم لوگوں کو اس آدمی کے بارے میں نہ بتا دوں جو مرتبہ میں اس کے بعد ہے؟ یہ وہ آدمی ہے جو لوگوں سے الگ ہو کر اپنی بکریوں کے درمیان رہ کر اللہ کا حق ادا کرتا رہے، کیا میں تم کو بدترین آدمی کے بارے میں نہ بتا دوں؟ یہ وہ آدمی ہے جس سے اللہ کا واسطہ دے کر مانگا جائے اور وہ نہ دے“۔ امام ترمذی کہتے ہیں: ۱- اس سند سے یہ حدیث حسن غریب ہے، ۲- یہ حدیث کئی سندوں سے ابن عباس رضی الله عنہما کے واسطے سے مرفوع طریقہ سے آئی ہے۔",
+          "id": "Telah menceritakan kepada kami [Qutaibah] berkata, telah menceritakan kepada kami [Ibnu Lahi'ah] dari [Bukair bin Abdullah bin Al Asyaj] dari [Atha bin Yasar] dari [Ibnu Abbas] bahwa Nabi shallallahu 'alaihi wasallam bersabda: \"Maukah aku kabarkan kepada kalian sebaik-baik manusia? Seorang laki-laki yang memegang tali kudanya di jalan Allah. Maukah aku kabarkan kepada kalian orang berikutnya? Seorang laki-laki yang menyepi di tempat pengembalaannya, lalu ia melaksanakan hak-hak Allah. Dan maukah aku kabarkan kepada kalian seburuk-buruk manusia? Seorang laki-laki yang diminta bantuan dengan nama Allah tetapi tidak mau memberi.\" Abu Isa berkata, \"Hadits ini derajatnya hasan gharib dari jalur periwayatan ini, dan hadits ini juga diriwayatkan dari Ibnu Abbas, dari Nabi shallallahu 'alaihi wasallam dengan banyak jalur",
+          "tr": "İbn Abbâs (r.a.)’den rivâyete göre, Nebi (s.a.v.) şöyle buyurdu: “Kulaklarınızı açın dikkat edin size insanların en hayırlısı kimdir? Haber vereyim mi? Allah yolunda cihâd için atının dizginine yapışmış kimsedir. Yine dikkatli dinleyin bundan sonraki hayırlı kişiyi size haber vereyim mi? Bir miktar koyunu ile insanlardan uzaklaşan o koyunlarda Allah’ın hakkını yerine getiren kimsedir. Dikkat edin insanların en şerlisini size haber vereyim; kendisinden Allah rızası için bir şeyler istenmesine rağmen hiçbir şey vermeyen kimsedir.” Diğer tahric: Nesâî, Cihâd Tirmizî: Bu hadis bu şekliyle hasen garibtir. Bu hadis değişik şekillerde de İbn Abbâs’tan rivâyet edilmiştir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 22,
+        "hadith": 35
+      },
+      "narrator": {
+        "en": "Ibn 'Abbas"
+      }
+    },
+    {
+      "hadithNumber": 1653,
+      "arabicNumber": 1653,
+      "book": 22,
+      "hadithInBook": 36,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ سَهْلِ بْنِ عَسْكَرٍ الْبَغْدَادِيُّ، حَدَّثَنَا الْقَاسِمُ بْنُ كَثِيرٍ الْمِصْرِيُّ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ شُرَيْحٍ، أَنَّهُ سَمِعَ سَهْلَ بْنَ أَبِي أُمَامَةَ بْنِ سَهْلِ بْنِ حُنَيْفٍ، يُحَدِّثُ عَنْ أَبِيهِ، عَنْ جَدِّهِ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ مَنْ سَأَلَ اللَّهَ الشَّهَادَةَ مِنْ قَلْبِهِ صَادِقًا بَلَّغَهُ اللَّهُ مَنَازِلَ الشُّهَدَاءِ وَإِنْ مَاتَ عَلَى فِرَاشِهِ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى حَدِيثُ سَهْلِ بْنِ حُنَيْفٍ حَدِيثٌ حَسَنٌ غَرِيبٌ لاَ نَعْرِفُهُ إِلاَّ مِنْ حَدِيثِ عَبْدِ الرَّحْمَنِ بْنِ شُرَيْحٍ ‏.‏ وَقَدْ رَوَاهُ عَبْدُ اللَّهِ بْنُ صَالِحٍ عَنْ عَبْدِ الرَّحْمَنِ بْنِ شُرَيْحٍ ‏.‏ وَعَبْدُ الرَّحْمَنِ بْنُ شُرَيْحٍ يُكْنَى أَبَا شُرَيْحٍ وَهُوَ إِسْكَنْدَرَانِيٌّ ‏.‏ وَفِي الْبَابِ عَنْ مُعَاذِ بْنِ جَبَلٍ ‏.‏",
+        "translations": {
+          "en": "Narrated Sahl bin Abi Umamah bin Sahl bin Hunaif: From his father, from his grandfather, that the Prophet (ﷺ) said: \"Whoever asks Allah for Martyrdom sincerely in his heart, Allah will grant the status of martyrdom for him, even if he were to die in his bed.\" [Abu 'Eisa said:] This Hadith is Hasan Gharib as a narration of Sahl bin Hunaif. We do not know of it except from the report of 'Abdur-Rahman bin Shuraih. 'Abdullah bin Salih reported it from 'Abdur-Rahman bin Shuraih, and 'Abdur-Rahman bin Shuraih's kunyah is Abu Shuriah, and he is from Iskandarani. There is something on this topic from Mu'adh bin Jabal",
+          "ur": "سہل بن حنیف رضی الله عنہ سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: ”جو شخص سچے دل سے شہادت کی دعا مانگے تو اللہ تعالیٰ اسے شہداء کے مرتبے تک پہنچا دے گا اگرچہ وہ اپنے بستر ہی پر کیوں نہ مرے“ ۱؎۔ امام ترمذی کہتے ہیں: ۱- سہل بن حنیف کی حدیث حسن غریب ہے، ہم اسے صرف عبدالرحمٰن بن شریح کی ہی روایت سے جانتے ہیں، اس حدیث کو عبدالرحمٰن بن شریح سے عبداللہ بن صالح نے بھی روایت کیا ہے، عبدالرحمٰن بن شریح کی کنیت ابوشریح ہے اور وہ اسکندرانی ( اسکندریہ کے رہنے والے ) ہیں، ۲- اس باب میں معاذ بن جبل رضی الله عنہ سے بھی روایت ہے۔",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Sahl bin Askar Al Baghdadi] berkata, telah menceritakan kepada kami [Al Qasim bin Katsir Al Mishri] berkata, telah menceritakan kepada kami ['Abdurrahman bin Syuraih] Bahwasanya ia mendengar [Sahl bin Abu Umamah bin Sahl bin Hunaif] ia menceritakan dari [Bapaknya] dari [Kakeknya] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: \"Barangsiapa yang memohon mati syahid kepada Allah dengan jujur dari dalam hatinya, maka Allah akan memberinya pahala syuhada meskipun ia meninggal di atas kasur.\" Abu Isa berkata, \"Hadits Sahl bin Hunaif derajatnya hasan gharib, kami tidak mengetahuinya kecuali dari hadits 'Abdurrahman bin Syuraih. [Abdullah bin Shalih] telah meriwayatkannya dari ['Abdurrahman bin Syuraih]. Dan 'Abdurrahman bin Syuraih berjuluk Abu Syuraih, ia berasal dari Iskadariya. Dalam bab ini juga ada hadits dari Mu'adz bin Jabal",
+          "tr": "Sehl b. Huneyf (r.a.)’in babasından ve dedesinden rivâyete göre, Nebi (s.a.v.) şöyle buyurmuştur: “Kim gerçekten içinden gelerek samimiyetle şehîd olmayı isterse; Allah o kimseyi yatağında ölse bile şehîdlerin derecesine ulaştırır.” Diğer tahric: Nesâî, Cihâd; Ebû Dâvûd, Cihâd Tirmizî: Sehl b. Huneyf hadisi hasen garib olup bu hadisi sadece Abdurrahman b. Şüreyh’in rivâyetiyle bilmekteyiz. Abdullah b. Salih bu hadisi Abdurrahman b. Şüreyh’den rivâyet etmiştir. Abdurrahman b. Şüreyh, Ebû Şüreyh künyesiyle anılmaktadır. Kendisi, İskenderiyelidir. Bu konuda Muâz b. Cebel’den de hadis rivâyet edilmiştir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 22,
+        "hadith": 36
+      },
+      "narrator": {
+        "en": "Sahl bin Abi Umamah bin Sahl bin Hunaif"
+      }
+    },
+    {
+      "hadithNumber": 1654,
+      "arabicNumber": 1654,
+      "book": 22,
+      "hadithInBook": 37,
+      "text": {
+        "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ مَنِيعٍ، حَدَّثَنَا رَوْحُ بْنُ عُبَادَةَ، حَدَّثَنَا ابْنُ جُرَيْجٍ، عَنْ سُلَيْمَانَ بْنِ مُوسَى، عَنْ مَالِكِ بْنِ يُخَامِرَ السَّكْسَكِيِّ، عَنْ مُعَاذِ بْنِ جَبَلٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ مَنْ سَأَلَ اللَّهَ الْقَتْلَ فِي سَبِيلِهِ صَادِقًا مِنْ قَلْبِهِ أَعْطَاهُ اللَّهُ أَجْرَ الشَّهِيدِ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏",
+        "translations": {
+          "en": "Narrated Mu’adh bin Jabal : That the Prophet (ﷺ) said: \"Whoever asks Allah to be killed in His cause sincerely from his heart, Allah shall give him the reward of martyrdom. [Abu 'Eisa said:] This Hadith is Hasan Sahih",
+          "ur": "معاذ بن جبل رضی الله عنہ سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: ”جو شخص سچے دل سے اللہ کی راہ میں قتل ہونے کی دعا مانگے تو اللہ تعالیٰ اسے شہادت کا ثواب دے گا“۔ امام ترمذی کہتے ہیں: یہ حدیث حسن صحیح ہے۔",
+          "id": "Telah menceritakan kepada kami [Ahmad bin Mani'] berkata, telah menceritakan kepada kami [Rauh bin Ubadah] berkata, telah menceritakan kepada kami [Ibnu Juraij] dari [Sulaiman bin Musa] dari [Malik bin Yukhamir As Saksaki] dari [Mu'adz bin Jabal] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: \"Barangsiapa memohon kepada Allah untuk mati di jalan-Nya, jujur dari dalam hatinya, maka Allah akan memberinya pahala mati syahid.\" Abu Isa berkata, \"Hadits ini derajatnya hasan shahih",
+          "tr": "Muâz b. Cebel (r.a.)’den rivâyete göre, Rasûlullah (s.a.v.) şöyle buyurmuştur: “Kim gerçekten içinden gelerek samimiyetle şehîd olmayı isterse Allah o kimseye şehîd mükafatı verir.” Diğer tahric: Nesâî, Cihâd; Ebû Dâvûd, Cihâd Tirmizî: Bu hadis hasen sahihtir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 22,
+        "hadith": 37
+      },
+      "narrator": {
+        "en": "Mu’adh bin Jabal"
+      }
+    },
+    {
+      "hadithNumber": 1655,
+      "arabicNumber": 1655,
+      "book": 22,
+      "hadithInBook": 38,
+      "text": {
+        "arabic": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا اللَّيْثُ، عَنِ ابْنِ عَجْلاَنَ، عَنْ سَعِيدٍ الْمَقْبُرِيِّ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ ثَلاَثَةٌ حَقٌّ عَلَى اللَّهِ عَوْنُهُمُ الْمُجَاهِدُ فِي سَبِيلِ اللَّهِ وَالْمُكَاتَبُ الَّذِي يُرِيدُ الأَدَاءَ وَالنَّاكِحُ الَّذِي يُرِيدُ الْعَفَافَ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ ‏.‏",
+        "translations": {
+          "en": "Narrated Abu Hurairah: That the Messenger of Allah (ﷺ) said: \"There are three for whom it is a right upon Allah to help him: The Mujahid in the cause of Allah, the Mukatab who intends to fulfill (the Kitabah), and the one getting married who intends chastity.\" [Abu 'Eisa said:] This Hadith is Hasan",
+          "ur": "ابوہریرہ رضی الله عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”تین آدمیوں کی مدد اللہ کے نزدیک ثابت ہے ۱؎ ایک اللہ کی راہ میں جہاد کرنے والا، دوسرا وہ مکاتب غلام جو زر کتابت ادا کرنا چاہتا ہو، اور تیسرا وہ شادی کرنے والا جو پاکدامنی حاصل کرنا چاہتا ہو“۔ امام ترمذی کہتے ہیں: یہ حدیث حسن ہے۔",
+          "id": "Telah menceritakan kepada kami [Qutaibah] berkata, telah menceritakan kepada kami [Al Laits] dari [Ibnu Ajlan] dari [Sa'id Al Maqburi] dari [Abu Hurairah] ia berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Tiga golongan yang pasti Allah tolong; orang yang berjihad di jalan Allah, budak yang ingin merdeka dari tuannya (dengan tebusan) dan orang yang ingin menikah agar dirinya terjaga dari dosa.\" Abu Isa berkata, \"Hadits ini derajatnya hasan",
+          "tr": "Ebû Hureyre (r.a.)’den rivâyete göre, Rasûlullah (s.a.v.) şöyle buyurmuştur: “Üç kişi vardır ki onlara yardım etmek Allah için bir haktır. Allah yolunda cihâd eden kimse, hürriyetine kavuşabilmek için tesbit edilen belli bir parayı ödemek için çalışıp çabalayan köle, zinadan korunmak için evlenen kimse.” Diğer tahric: Nesâî, Nikah Tirmizî: Bu hadis hasendir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 22,
+        "hadith": 38
+      },
+      "narrator": {
+        "en": "Abu Hurairah"
+      }
+    },
+    {
+      "hadithNumber": 1656,
+      "arabicNumber": 1656,
+      "book": 22,
+      "hadithInBook": 39,
+      "text": {
+        "arabic": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ مُحَمَّدٍ، عَنْ سُهَيْلِ بْنِ أَبِي صَالِحٍ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ لاَ يُكْلَمُ أَحَدٌ فِي سَبِيلِ اللَّهِ وَاللَّهُ أَعْلَمُ بِمَنْ يُكْلَمُ فِي سَبِيلِهِ إِلاَّ جَاءَ يَوْمَ الْقِيَامَةِ اللَّوْنُ لَوْنُ الدَّمِ وَالرِّيحُ رِيحُ الْمِسْكِ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ وَقَدْ رُوِيَ مِنْ غَيْرِ وَجْهٍ عَنْ أَبِي هُرَيْرَةَ عَنِ النَّبِيِّ صلى الله عليه وسلم ‏.‏",
+        "translations": {
+          "en": "Narrated Abu Hurairah: That the Messenger of Allah (ﷺ) said: \"None is wounded in Allah's cause - and Allah knows better about who has been injured in His cause - except that he will come on the Day of Resurrection with his wound the color of blood but its scent will be the scent of musk.\" [Abu 'Eisa said:] This Hadith is Hasan Sahih. It has been reported through other routes from the Prophet (ﷺ)",
+          "ur": "ابوہریرہ رضی الله عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”اللہ کی راہ میں جو بھی زخمی ہو گا – اور اللہ خوب جانتا ہے جو اس کی راہ میں زخمی ہوتا ہے ۱؎ – قیامت کے دن اس طرح آئے گا کہ خون کے رنگ میں رنگا ہوا ہو گا اور خوشبو مشک کی ہو گی“۔ امام ترمذی کہتے ہیں: ۱- یہ حدیث حسن صحیح ہے، ۲- یہ حدیث ابوہریرہ کے واسطے سے نبی اکرم صلی اللہ علیہ وسلم سے دوسری سندوں سے بھی آئی ہے۔",
+          "id": "Telah menceritakan kepada kami [Qutaibah] berkata, telah menceritakan kepada kami [Abdul Aziz bin Muhammad] dari [Suhail bin Abu Shalih] dari [Bapaknya] dari [Abu Hurairah] ia berkata, 'Rasulullah shallallahu 'alaihi wasallam bersabda: \"Tidaklah seseorang terluka di jalan Allah -dan Allah lebih tahu dengan orang yang terluka di jalan Nya-, kecuali pada hari kiamat ia akan datang dengan luka berwarna darah dan berbau kesturi.\" Abu Isa berkata, \"Hadits ini derajatnya hasan shahih, hadits ini telah diriwayatkan dari Abu Hurairah, dari Nabi shallallahu 'alaihi wasallam dengan banyak jalur",
+          "tr": "Ebû Hureyre (r.a.)’den rivâyete göre, Rasûlullah (s.a.v.) şöyle buyurmuştur: “Bir kimse Allah yolunda cihâd ederken yaralanırsa -Kendi yolunda kimin yara aldığını Allah daha iyi bilir- Kıyamet günü Allah’ın huzuruna aldığı yaranın rengi kan rengi kokusu misk kokusu olduğu halde gelecektir.” Diğer tahric: Nesâî, Cihâd) Tirmizî: Bu hadis hasen sahihtir. Ebû Hüreyre’den değişik şekillerde de rivâyet edilmiştir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Bukhari And Muslim"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 22,
+        "hadith": 39
+      },
+      "narrator": {
+        "en": "Abu Hurairah"
+      }
+    },
+    {
+      "hadithNumber": 1657,
+      "arabicNumber": 1657,
+      "book": 22,
+      "hadithInBook": 40,
+      "text": {
+        "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ مَنِيعٍ، حَدَّثَنَا رَوْحُ بْنُ عُبَادَةَ، حَدَّثَنَا ابْنُ جُرَيْجٍ، عَنْ سُلَيْمَانَ بْنِ مُوسَى، عَنْ مَالِكِ بْنِ يُخَامِرَ، عَنْ مُعَاذِ بْنِ جَبَلٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ مَنْ قَاتَلَ فِي سَبِيلِ اللَّهِ مِنْ رَجُلٍ مُسْلِمٍ فُوَاقَ نَاقَةٍ وَجَبَتْ لَهُ الْجَنَّةُ وَمَنْ جُرِحَ جُرْحًا فِي سَبِيلِ اللَّهِ أَوْ نُكِبَ نَكْبَةً فَإِنَّهَا تَجِئُ يَوْمَ الْقِيَامَةِ كَأَغْزَرِ مَا كَانَتْ لَوْنُهَا الزَّعْفَرَانُ وَرِيحُهَا كَالْمِسْكِ ‏\"‏ ‏.‏ هَذَا حَدِيثٌ صَحِيحٌ ‏.‏",
+        "translations": {
+          "en": "Narrated Mu’adh bin Jabal : That the Prophet (ﷺ) said: \"Whoever fought in the cause of Allah - a Muslim man - for the time it takes for two milkings of a camel, then Paradise is obligatory for him. And whoever suffered a wound in the cause of Allah, or he suffers from an injury, then he will come on the Day of Resurrection while (his blood will be) more copius that it ever was, its color the color of saffron, and its scent like that of musk.\" This Hadith is Sahih",
+          "ur": "معاذ بن جبل رضی الله عنہ سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: ”جو مسلمان اللہ کی راہ میں اونٹنی کے دو مرتبہ دودھ دوہنے کے درمیانی وقفہ کے برابر جہاد کرے اس کے لیے جنت واجب ہو گئی، اور جس شخص کو اللہ کی راہ میں کوئی زخم لگے یا چوٹ آئے وہ قیامت کے دن اس طرح آئے گا کہ اس کا زخم دنیا کے زخم سے کہیں بڑا ہو گا، رنگ اس کا زعفران کا ہو گا اور خوشبو مشک کی ہو گی“۔",
+          "id": "Telah menceritakan kepada kami [Ahmad bin Mani'] berkata, telah menceritakan kepada kami [Rauh bin Ubadah] berkata, telah menceritakan kepada kami [Ibnu Juraij] dari [Sulaiman bin Musa] dari [Malik bin Yukhamir] dari [Mu'adz bin Jabal] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: \"Seorang muslim yang berperang di jalan Allah selama waktu perasaan susu unta, maka telah wajib baginya masuk surga. Dan barangsiapa terluka di jalan Allah, atau terkena sebuah lemparan maka pada hari kiamat ia akan datang dalam keadaan terluka, warnanya warna za'faran (nama tumbuhan yang berwarna kuning keemasan) dan baunya bau kesturi.\" Hadits ini derajatnya shahih",
+          "tr": "Muâz b. Cebel (r.a.)’den rivâyete göre, Rasûlullah (s.a.v.) şöyle buyurmuştur: “Müslüman bir kimse Allah yolunda bir devenin sütünün sağılacağı kadar savaşırsa kendisine Cennet vâcib olur. Yine bir kimse Allah yolunda savaşırken bir yara alır veya herhangi bir sıkıntıya uğrarsa kıyamet gününde o yara ve sıkıntı olduğundan daha ağır olarak gelir rengi zaferan kokusu misk kokusu gibidir.” Diğer tahric: Nesâî, Cihâd"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 22,
+        "hadith": 40
+      },
+      "narrator": {
+        "en": "Mu’adh bin Jabal"
+      }
+    },
+    {
+      "hadithNumber": 1658,
+      "arabicNumber": 1658,
+      "book": 22,
+      "hadithInBook": 41,
+      "text": {
+        "arabic": "حَدَّثَنَا أَبُو كُرَيْبٍ، حَدَّثَنَا عَبْدَةُ بْنُ سُلَيْمَانَ، عَنْ مُحَمَّدِ بْنِ عَمْرٍو، حَدَّثَنَا أَبُو سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ سُئِلَ رَسُولُ اللَّهِ صلى الله عليه وسلم أَىُّ الأَعْمَالِ أَفْضَلُ أَوْ أَىُّ الأَعْمَالِ خَيْرٌ قَالَ ‏\"‏ إِيمَانٌ بِاللَّهِ وَرَسُولِهِ ‏\"‏ ‏.‏ قِيلَ ثُمَّ أَىُّ شَيْءٍ قَالَ ‏\"‏ الْجِهَادُ سَنَامُ الْعَمَلِ ‏\"‏ ‏.‏ قِيلَ ثُمَّ أَىُّ شَيْءٍ يَا رَسُولَ اللَّهِ قَالَ ‏\"‏ ثُمَّ حَجٌّ مَبْرُورٌ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ وَقَدْ رُوِيَ مِنْ غَيْرِ وَجْهٍ عَنْ أَبِي هُرَيْرَةَ عَنِ النَّبِيِّ صلى الله عليه وسلم ‏.‏",
+        "translations": {
+          "en": "Narrated Abu Hurairah: \"The Messenger of Allah (ﷺ) was asked: 'Which deed is the most virtuos ? And which deed is the best ?' He (ﷺ) said: 'Faith in Allah and His Messenger.' It was said: 'Then what ?' He said: 'Jihad is the hump (the most prominent) of the deeds.' Then what O Messenger of Allah ? He said: 'Then Hajj Mabrur.'\" [Abu 'Eisa said:] This Hadith is Hasan Sahih, it has been reported through other routes from Abu Hurairah from the Prophet (ﷺ)",
+          "ur": "ابوہریرہ رضی الله عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم سے پوچھا گیا: کون سا عمل افضل ہے، یا کون سا عمل سب سے بہتر ہے؟ آپ نے فرمایا: ”اللہ اور اس کے رسول پر ایمان لانا“، پوچھا گیا: پھر کون؟ آپ نے فرمایا: ”جہاد، وہ نیکی کا کوہان ہے“۔ پوچھا گیا: اللہ کے رسول! پھر کون؟ آپ نے فرمایا: ”حج مبرور ( مقبول ) “۔ امام ترمذی کہتے ہیں: ۱- یہ حدیث حسن صحیح ہے، ۲- یہ حدیث ابوہریرہ رضی الله عنہ کے واسطے سے مرفوع طریقہ سے کئی سندوں سے آئی ہے۔",
+          "id": "Telah menceritakan kepada kami [Abu Kuraib] berkata, telah menceritakan kepada kami [Abdah bin Sulaiman] dari [Muhammad bin Amru] berkata, telah menceritakan kepada kami [Abu Salamah] dari [Abu Hurairah] ia berkata, \"Rasulullah shallallahu 'alaihi wasallam pernah ditanya, \"Amal apa yang paling utama, atau ia mengatakan, \"Amal apa yang paling baik?\" beliau menjawab: \"Beriman kepada Allah dan Rasul-Nya.\" Dikatakan, \"Lalu apa lagi?\" beliau menjawab: \"Jihad, ia adalah puncak sebuah amal.\" Dikatakan, \"Wahai Rasulullah, lalu apa lagi?\" beliau menjawab: \"Haji mabrur.\" Abu Isa berkata, \"Hadits ini derajatnya hasan shahih. Hadits ini telah diriwayatkan dari Abu Hurairah, dari Nabi shallallahu 'alaihi wasallam dengan banyak jalur",
+          "tr": "Ebû Hureyre (r.a.)’den rivâyete göre, Rasulullah Sallallahu Aleyhi ve Sellem’e hangi amel daha değerli ve kıymetlidir diye sorulduğunda “Allah’a ve Rasûlüne iman etmektir” buyurdu. Sonra hangi amel denildi? “Cihâd tüm amellerin zirvesidir” buyurdu. Sonra hangi amel denildi? “Kabul edilmiş hac” buyurdular. Diğer tahric: Nesâî, Cihâd; İbn Mâce, Cihâd Tirmizî: Bu hadis hasen sahihtir. Ebû Hüreyre’den değişik şekillerde de rivâyet edilmiştir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 22,
+        "hadith": 41
+      },
+      "narrator": {
+        "en": "Abu Hurairah"
+      }
+    },
+    {
+      "hadithNumber": 1659,
+      "arabicNumber": 1659,
+      "book": 22,
+      "hadithInBook": 42,
+      "text": {
+        "arabic": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا جَعْفَرُ بْنُ سُلَيْمَانَ الضُّبَعِيُّ، عَنْ أَبِي عِمْرَانَ الْجَوْنِيِّ، عَنْ أَبِي بَكْرِ بْنِ أَبِي مُوسَى الأَشْعَرِيِّ، قَالَ سَمِعْتُ أَبِي بِحَضْرَةِ الْعَدُوِّ، يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ إِنَّ أَبْوَابَ الْجَنَّةِ تَحْتَ ظِلاَلِ السُّيُوفِ ‏\"‏ ‏.‏ فَقَالَ رَجُلٌ مِنَ الْقَوْمِ رَثُّ الْهَيْئَةِ أَأَنْتَ سَمِعْتَ هَذَا مِنْ رَسُولِ اللَّهِ صلى الله عليه وسلم يَذْكُرُهُ قَالَ نَعَمْ ‏.‏ فَرَجَعَ إِلَى أَصْحَابِهِ فَقَالَ أَقْرَأُ عَلَيْكُمُ السَّلاَمَ ‏.‏ وَكَسَرَ جَفْنَ سَيْفِهِ فَضَرَبَ بِهِ حَتَّى قُتِلَ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ غَرِيبٌ لاَ نَعْرِفُهُ إِلاَّ مِنْ حَدِيثِ جَعْفَرِ بْنِ سُلَيْمَانَ الضُّبَعِيِّ ‏.‏ وَأَبُو عِمْرَانَ الْجَوْنِيُّ اسْمُهُ عَبْدُ الْمَلِكِ بْنُ حَبِيبٍ وَأَبُو بَكْرِ بْنُ أَبِي مُوسَى قَالَ أَحْمَدُ بْنُ حَنْبَلٍ هُوَ اسْمُهُ ‏.‏",
+        "translations": {
+          "en": "Narrated Abu Bakr bin Abi Musa Al-Ash'ari: \"I heard my father saying in the presence of the enemy: 'The Messenger of Allah (ﷺ) said: \"Indeed, the gates of Paradise are under the shadows of the swords.'\" A man among the people with ragged appearance said: 'Have you heard what you mentioned from the Messenger of Allah (ﷺ) ?' He said: 'Yes.' So he returned to his comrades and bid them Salam (farewell), broke the sheath of his sword, and began fighting with it until he was killed.\" [Abu 'Eisa said:] This Hadith is Sahih Gharib. We do not know it except as a narration of Ja'far bin Sulaiman [Ad-Dubai']. (One of the narrators) Abu 'Imran Al-Jawni's name is 'Abdul Malik bin Habib. As for Abu Bakr bin Abi Musa, Ahmad bin Hanbal said: \"That is his name",
+          "ur": "ابوبکر بن ابوموسیٰ اشعری کہتے ہیں کہ میں نے دشمنوں کی موجودگی میں اپنے باپ کو کہتے ہوئے سنا: رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”بیشک جنت کے دروازے تلواروں کی چھاؤں میں ہیں“ ۱؎، قوم میں سے ایک پراگندہ ہیئت والے شخص نے پوچھا: کیا آپ نے رسول اللہ صلی اللہ علیہ وسلم سے اس کو بیان کرتے ہوئے سنا ہے؟ انہوں نے کہا: ہاں، چنانچہ وہ آدمی لوٹ کر اپنے ساتھیوں کے پاس گیا اور بولا: میں تم سب کو سلام کرتا ہوں، پھر اس نے اپنی تلوار کی نیام توڑ دیا اور اس سے لڑائی کرتا رہا یہاں تک کہ وہ شہید ہو گیا۔ امام ترمذی کہتے ہیں: یہ حدیث حسن غریب ہے، ہم اسے صرف جعفر بن سلیمان ضبعی کی روایت سے جانتے ہیں۔",
+          "id": "Telah menceritakan kepada kami [Qutaibah] berkata, telah menceritakan kepada kami [Ja'far bin Sulaiman Adh Dhuba'i] dari [Abu Imran Al Jauni] dari [Abu Bakr bin Abu Musa Al Asy'ari] ia berkata; Aku mendengar [Bapakku] berkata di hadapan musuh, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Sesungguhnya pintu-pintu surga berada di bawah naungan pedang.\" Lalu ada seorang laki-laki yang buruk keadaannya berkata, \"Apakah kamu benar-banar mendengar hadits dari Rasulullah shallallahu 'alaihi wasallam yang menyebutnya?\" Bapakku menjawab, \"Ya.\" Laki-laki itu kemudian kembali kepada para sahabatnya dan berkata, \"Aku ucapkan salam (perpisahan) kepada kalian.\" Kemudian orang itu memecah sarung pedangnya dan berperang hingga terbunuh.\" Abu Isa berkata, \"Hadits ini derajatnya hasan gharib, kami tidak mengetahuinya kecuali dari hadits Ja'far bin Suliman Adh Dhubba'i. Abu Imran Al jauni nama aslinya adalah Abdul Malik bin Habib, dan Abu Bakar adalah Ibnu (anak) Abu Musa. Ahmad bin Hanbal berkata, \"Itu adalah nama dia",
+          "tr": "Ebû Bekir b. Ebî Musa el Eş’arî (r.a.)’den rivâyete göre, şöyle demiştir: Düşmanla karşı karşıya iken babasından işittim şöyle diyordu: Rasûlullah (s.a.v.) şöyle buyurmuştu: “Cennet’in kapıları kılıçların gölgeleri altındadır.” Bunun üzerine o toplumun garib görüntülü bir adam: Bunu söylerken Rasûlullah (s.a.v.)’den bizzat sen işittin mi? dedi. Ebû Musa el Eş’arî evet deyince o adam arkadaşları yanına döndü size selam olsun deyip kılıcının kınını kırıp şehîd oluncaya kadar düşmanla çarpıştı.” Diğer tahric: Buhârî, Cihâd Tirmizî: Bu hadis sahih garib olup bu hadisi sadece Cafer b. Süleyman ed Dubaî’nin rivâyetiyle bilmekteyiz. Ebû Imrân el Cevnî’nin ismi Abdulmelik b. Habib’tir. Ebû Bekir b. Ebî Musa hakkında: Ahmed b. Hanbel o onun ismidir der"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 22,
+        "hadith": 42
+      },
+      "narrator": {
+        "en": "Abu Bakr bin Abi Musa Al-Ash'ari"
+      }
+    },
+    {
+      "hadithNumber": 1660,
+      "arabicNumber": 1660,
+      "book": 22,
+      "hadithInBook": 43,
+      "text": {
+        "arabic": "حَدَّثَنَا أَبُو عَمَّارٍ، حَدَّثَنَا الْوَلِيدُ بْنُ مُسْلِمٍ، عَنِ الأَوْزَاعِيِّ، حَدَّثَنَا الزُّهْرِيُّ، عَنْ عَطَاءِ بْنِ يَزِيدَ اللَّيْثِيِّ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، قَالَ سُئِلَ رَسُولُ اللَّهِ صلى الله عليه وسلم أَىُّ النَّاسِ أَفْضَلُ قَالَ ‏\"‏ رَجُلٌ يُجَاهِدُ فِي سَبِيلِ اللَّهِ ‏\"‏ ‏.‏ قَالُوا ثُمَّ مَنْ قَالَ ‏\"‏ ثُمَّ مُؤْمِنٌ فِي شِعْبٍ مِنَ الشِّعَابِ يَتَّقِي رَبَّهُ وَيَدَعُ النَّاسَ مِنْ شَرِّهِ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏",
+        "translations": {
+          "en": "Narrated Abu Sa’id Al Khudri : that the Messenger of Allah (ﷺ) was asked: \"Which of the people are most virtuous?\" He said: \"A man who take part in Jihad in Allah's cause.\" They said: \"Then whom?\" He said: \"Then a believer who stays in one of the mountains path out of Taqwa for his Lord, leaving the people secure from his evil.\" [Abu 'Eisa said:] This Hadith is Hasan Sahih",
+          "ur": "ابو سعید خدری رضی الله عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم سے پوچھا گیا: کون آدمی افضل ہے؟ آپ نے فرمایا: ”وہ شخص جو اللہ کے راستے میں جہاد کرتا ہے“، صحابہ نے پوچھا: پھر کون؟ آپ نے فرمایا: ”پھر وہ مومن جو کسی گھاٹی میں اکیلا ہو اور اپنے رب سے ڈرے اور لوگوں کو اپنے شر سے بچائے“ ۱؎۔ امام ترمذی کہتے ہیں: یہ حدیث حسن صحیح ہے۔",
+          "id": "Telah menceritakan kepada kami [Abu Ammar] berkata, telah menceritakan kepada kami [Al Walid bin Muslim] dari [Al Auza'i] berkata, telah menceritakan kepada kami [Az Zuhri] dari [Atha bin Yazid Al Laitsi] dari [Abu Sa'id Al Kahudri] ia berkata, \"Rasulullah shallallahu 'alaihi wasallam ditanya, \"Manusia mana yang paling utama?\" beliau bersabda: \"Seorang laki-laki yang berjihad di jalan Allah.\" Para sahabat bertanya, \"Lalu siapa lagi?\" beliau menjawab: \"Seorang mukmin yang berada di suatu lembah, ia beribadah kepada Allah dan menjauhi manusia agar terhindar dari keburukannya.\" Abu Isa berkata, \"Hadits ini derajatnya hasan shahih",
+          "tr": "Ebû Saîd el Hudrî (r.a.)’den rivâyete göre, şöyle demiştir: Rasûlullah (s.a.v.)’e insanların hangisi daha değerli ve kıymetlidir? Diye soruldu. Buyurdular ki: “Allah yolunda cihâd eden kişidir.” Sonra kimdir? Dediler. “Kenar ve kıyı bölgelere çekilip insanlardan uzaklaşan Rabbine kulluğunu artırıp yolunu Allah ve Rasûlü ile bulmaya çalışan ve insanlara zararım dokunmasın diyen kimsedir” buyurdular. Diğer tahric: Nesâî, Cihâd Tirmizî: Bu hadis sahihtir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 22,
+        "hadith": 43
+      },
+      "narrator": {
+        "en": "Abu Sa’id Al Khudri"
+      }
+    },
+    {
+      "hadithNumber": 1661,
+      "arabicNumber": 1661,
+      "book": 22,
+      "hadithInBook": 44,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا مُعَاذُ بْنُ هِشَامٍ، حَدَّثَنِي أَبِي، عَنْ قَتَادَةَ، حَدَّثَنَا أَنَسُ بْنُ مَالِكٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ مَا مِنْ أَحَدٍ مِنْ أَهْلِ الْجَنَّةِ يَسُرُّهُ أَنْ يَرْجِعَ إِلَى الدُّنْيَا غَيْرُ الشَّهِيدِ فَإِنَّهُ يُحِبُّ أَنْ يَرْجِعَ إِلَى الدُّنْيَا يَقُولُ حَتَّى أُقْتَلَ عَشْرَ مَرَّاتٍ فِي سَبِيلِ اللَّهِ مِمَّا يَرَى مِمَّا أَعْطَاهُ اللَّهُ مِنَ الْكَرَامَةِ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ صَحِيحٌ ‏.‏",
+        "translations": {
+          "en": "Narrated Anas bin Malik: That the Messenger of Allah (ﷺ) said: \"None of the people of Paradise would wish to return to the world except for the martyr who indeed would love to return to the world saying that he would love to be killed ten times in Allah's cause because of what he has seen of the honor that He has given him.\" [Abu 'Eisa said:] This Hadith is Hasan Sahih",
+          "ur": "انس بن مالک رضی الله عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”شہید کے علاوہ کوئی جنتی ایسا نہیں ہے جو دنیا کی طرف لوٹنا چاہتا ہو وہ دنیا کی طرف لوٹنا چاہتا ہے، کہتا ہے: ( دل چاہتا ہے کہ ) اللہ کی راہ میں دس مرتبہ قتل کیا جاؤں، یہ اس وجہ سے کہ وہ اس مقام کو دیکھ چکا ہے جس سے اللہ نے اس کو نوازا ہے“۔ امام ترمذی کہتے ہیں: یہ حدیث حسن صحیح ہے۔",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Basysyar] berkata, telah menceritakan kepada kami [Mu'adz bin Hisyam] berkata, telah menceritakan kepadaku [Bapakku] dari [Qatadah] ia berkata, telah menceritakan kepada kami [Anas bin Malik] ia berkata; \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Tidak ada seorang pun dari penduduk surga yang senang untuk kembali lagi ke dunia selain orang yang mati syahid. Sesungguhnya ia suka untuk kembali lagi ke dunia, ia mengatakan 'hingga aku terbunuh sepuluh kali', di jalan Allah, hal itu karena ia melihat kemuliaan yang diberikan oleh Allah kepadanya.\" Abu Isa berkata, \"Hadits ini derajatnya hasan shahih. Telah menceritakan kepada kami [Muhammad bin Basysyar] berkata, telah menceritakan kepada kami [Muhammad bin Ja'far] berkata, telah menceritakan kepada kami [Syu'bah] dari [Qatadah] dari [Anas] dari Nabi shallallahu 'alaihi wasallam seperti itu dengan makna yang sama.\" Abu Isa berkata, \"Hadits ini derajatnya hasan shahih",
+          "tr": "Enes b. Mâlik (r.a.)’den rivâyete göre, Rasûlullah Sallallahu Aleyhi ve Sellem şöyle buyurdu: Cennetliklerden hiçbir kimseyi dünyaya tekrar dönmek sevindirmez. Sadece şehîd sevinir. Çünkü o Allah’ın kendisine şehîdlikten dolayı verdiği ikramı görüp bildiğinden dolayı tekrar dünyaya dönmeyi ve on sefer Allah yolunda öldürülmeyi yani şehîd olmayı arzu eder. Diğer tahric: Buhârî, Cihâd Tirmizî:Bu hadis hasen sahihtir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 22,
+        "hadith": 44
+      },
+      "narrator": {
+        "en": "Anas bin Malik"
+      }
+    },
+    {
+      "hadithNumber": 1662,
+      "arabicNumber": 1662,
+      "book": 22,
+      "hadithInBook": 45,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، عَنْ قَتَادَةَ، عَنْ أَنَسٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم نَحْوَهُ بِمَعْنَاهُ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏",
+        "translations": {
+          "en": "Another chain from Anas, from the Prophet (ﷺ) with similar in its meaning. [Abu 'Eisa said:] This Hadith is Hasan Sahih",
+          "ur": "اس سند سے بھی انس رضی الله عنہ سے اسی جیسی حدیث مروی ہے۔ امام ترمذی کہتے ہیں: یہ حدیث حسن صحیح ہے۔",
+          "tr": "Muhammed b. Beşşâr, Muhammed b. Cafer vasıtasıyla Şu’be’den, Katâde’den, Enes’den bu (1661.) hadisin mana olarak bir benzerini bize aktarmıştır. Tirmizî: Bu hadis hasen sahihtir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 22,
+        "hadith": 45
+      }
+    },
+    {
+      "hadithNumber": 1663,
+      "arabicNumber": 1663,
+      "book": 22,
+      "hadithInBook": 46,
+      "text": {
+        "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ عَبْدِ الرَّحْمَنِ، حَدَّثَنَا نُعَيْمُ بْنُ حَمَّادٍ، حَدَّثَنَا بَقِيَّةُ بْنُ الْوَلِيدِ، عَنْ بَحِيرِ بْنِ سَعْدٍ، عَنْ خَالِدِ بْنِ مَعْدَانَ، عَنِ الْمِقْدَامِ بْنِ مَعْدِيكَرِبَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ لِلشَّهِيدِ عِنْدَ اللَّهِ سِتُّ خِصَالٍ يُغْفَرُ لَهُ فِي أَوَّلِ دَفْعَةٍ وَيَرَى مَقْعَدَهُ مِنَ الْجَنَّةِ وَيُجَارُ مِنْ عَذَابِ الْقَبْرِ وَيَأْمَنُ مِنَ الْفَزَعِ الأَكْبَرِ وَيُوضَعُ عَلَى رَأْسِهِ تَاجُ الْوَقَارِ الْيَاقُوتَةُ مِنْهَا خَيْرٌ مِنَ الدُّنْيَا وَمَا فِيهَا وَيُزَوَّجُ اثْنَتَيْنِ وَسَبْعِينَ زَوْجَةً مِنَ الْحُورِ الْعِينِ وَيُشَفَّعُ فِي سَبْعِينَ مِنْ أَقَارِبِهِ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ صَحِيحٌ غَرِيبٌ ‏.‏",
+        "translations": {
+          "en": "Narrated Al-Miqdam bin Ma'diykarib: That the Messenger of Allah (ﷺ) said: \"There are six things with Allah for the martyr. He is forgiven with the first flow of blood (he suffers), he is shown his place in Paradise, he is protected from punishment in the grave, secured from the greatest terror, the crown of dignity is placed upon his head - and its gems are better than the world and what is in it - he is married to seventy two wives along Al-Huril-'Ayn of Paradise, and he may intercede for seventy of his close relatives.\" [Abu 'Eisa said:] This Hadith is Hasan Sahih",
+          "ur": "مقدام بن معدیکرب رضی الله عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”اللہ کے نزدیک شہید کے لیے چھ انعامات ہیں، ( ۱ ) خون کا پہلا قطرہ گرنے کے ساتھ ہی اس کی مغفرت ہو جاتی ہے، ( ۲ ) وہ جنت میں اپنی جگہ دیکھ لیتا ہے، ( ۳ ) عذاب قبر سے محفوظ رہتا ہے، ( ۴ ) «فزع الأكبر» ( عظیم گھبراہٹ والے دن ) سے مامون رہے گا، ( ۵ ) اس کے سر پر عزت کا تاج رکھا جائے گا جس کا ایک یاقوت دنیا اور اس کی ساری چیزوں سے بہتر ہے، ( ۶ ) بہتر ( ۷۲ ) جنتی حوروں سے اس کی شادی کی جائے گی، اور اس کے ستر رشتہ داروں کے سلسلے میں اس کی شفاعت قبول کی جائے گی“ ۱؎۔ امام ترمذی کہتے ہیں: یہ حدیث حسن غریب ہے۔",
+          "id": "Telah menceritakan kepada kami [Abdullah bin 'Abdurrahman] berkata, telah menceritakan kepada kami [Nu'aim bin Hammad] berkata, telah menceritakan kepada kami [Baqiyyah Ibnul Walid] dari [Bahir bin Sa'd] dari [Khalid bin Ma'dan] dari [Al Miqdam bin Ma'di Karib] ia berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Orang yang mati syahid di sisi Allah mempunyai enam keutamaan; dosanya akan diampuni sejak darahnya tertumpah di awal kali pertempuran, diperlihatkan tempat duduknya di surga, dijaga dari siksa kubur, diberi keamanan dari ketakutan yang besar saat dibangkitkan dari kubur, diberi mahkota kemuliaan yang satu permata darinya lebih baik dari dunia seisinya, dinikahkan dengan tujuh puluh dua bidadari dan diberi hak untuk memberi syafaat kepada tujuh puluh orang dari keluarganya.\" Abu Isa berkata, \"Hadits ini derajatnya hasan shahih gharib",
+          "tr": "Mıkdam b. Ma’d, Kerib (r.a.)’den rivâyete göre, Rasûlullah (s.a.v.) şöyle buyurmuştur: “Şehîdin, Allah katında altı özelliği vardır; şehîd olur olmaz günahları affedilir, Cennet’teki gidip kavuşacağı yer kendisine gösterilir. Kabir azabından korunur kıyametteki en büyük korkudan güven içindedir. Başına vakar tâc’ı giydirilir o taç üzerindeki tek bir yakut taşı dünyadan ve içindekilerden daha değerli ve kıymetlidir. Cennet’teki iri gözlü yetmiş iki huri ile evlendirilir. Akrabalarından yetmiş kişiye şefaat edebilmesine izin verilir.” Diğer tahric: İbn Mâce: Cihâd"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 22,
+        "hadith": 46
+      },
+      "narrator": {
+        "en": "Al-Miqdam bin Ma'diykarib"
+      }
+    },
+    {
+      "hadithNumber": 1664,
+      "arabicNumber": 1664,
+      "book": 22,
+      "hadithInBook": 47,
+      "text": {
+        "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي النَّضْرِ، حَدَّثَنَا أَبُو النَّضْرِ الْبَغْدَادِيُّ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ عَبْدِ اللَّهِ بْنِ دِينَارٍ، عَنْ أَبِي حَازِمٍ، عَنْ سَهْلِ بْنِ سَعْدٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ رِبَاطُ يَوْمٍ فِي سَبِيلِ اللَّهِ خَيْرٌ مِنَ الدُّنْيَا وَمَا فِيهَا وَمَوْضِعُ سَوْطِ أَحَدِكُمْ فِي الْجَنَّةِ خَيْرٌ مِنَ الدُّنْيَا وَمَا فِيهَا وَلَرَوْحَةٌ يَرُوحُهَا الْعَبْدُ فِي سَبِيلِ اللَّهِ أَوْ لَغَدْوَةٌ خَيْرٌ مِنَ الدُّنْيَا وَمَا فِيهَا ‏\"‏ ‏.‏ هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏",
+        "translations": {
+          "en": "Narrated Sahl bin Sa'd: That the Messenger of Allah (ﷺ) said: \"(Ribat) Guarding the frontier for a day in the cause of Allah is better than the world and what is in it. And an afternoon the worshipper spends in the cause of Allah - or a morning - is better than the world and what is on it. And the space occupied by the whip of one of you in Paradise is better than the world and what is on it.\" This Hadith is Hasan Sahih",
+          "ur": "سہل بن سعد رضی الله عنہ سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”اللہ کی راہ میں سرحد کی ایک دن کی پاسبانی کرنا دنیا اور اس کی ساری چیزوں سے بہتر ہے، تم میں سے کسی کے کوڑے کے برابر جنت کی جگہ دنیا اور دنیا کی ساری چیزوں سے بہتر ہے اور بندے کا اللہ کی راہ میں صبح یا شام کے وقت چلنا دنیا اور اس کی ساری چیزوں سے بہتر ہے“۔",
+          "id": "Telah menceritakan kepada kami [Abu Bakar bin Abu An Nadhr] berkata, telah menceritakan kepada kami [Abu An Nadhr Al Baghdadi] berkata, telah menceritakan kepada kami ['Abdurrahman bin Abdullah bin Dinar] dari [Abu Hazim] dari [Sahl bin Sa'd] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: \"Ribath satu hari di jalan Allah lebih baik dari dunia seisinya. Dan tempat cambuk salah seorang dari kalian di surga lebih baik dari dunia seisinya. Dan keluarnya seorang hamba di jalan Allah pada waktu pagi atau sore hari adalah lebih baik dari dunia dan seisinya.\" Hadits ini derajatnya hasan shahih",
+          "tr": "Sehl b. Sa’d (r.a.)’den rivâyete göre, Rasûlullah (s.a.v.) şöyle buyurdu: “Allah’ın dinini yeryüzüne hâkim kılma yolunda tutulacak bir günlük nöbet dünyadan ve içindekilerden daha hayırlıdır. Birinizin kamçısının Cennet’teki işgal ettiği küçücük bir yer, yine dünyadan ve içindekilerden daha hayırlıdır. Yine Allah yolunda yapılan bir gece ve gündüz yürüyüşü de dünyadan ve içindekilerden daha hayırlıdır.” Diğer tahric: Nesâî, Cihâd; Buhârî, Cihâd"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Bukhari And Muslim"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 22,
+        "hadith": 47
+      },
+      "narrator": {
+        "en": "Sahl bin Sa'd"
+      }
+    },
+    {
+      "hadithNumber": 1665,
+      "arabicNumber": 1665,
+      "book": 22,
+      "hadithInBook": 48,
+      "text": {
+        "arabic": "حَدَّثَنَا ابْنُ أَبِي عُمَرَ، حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، حَدَّثَنَا مُحَمَّدُ بْنُ الْمُنْكَدِرِ، قَالَ مَرَّ سَلْمَانُ الْفَارِسِيُّ بِشُرَحْبِيلَ بْنِ السِّمْطِ وَهُوَ فِي مُرَابَطٍ لَهُ وَقَدْ شَقَّ عَلَيْهِ وَعَلَى أَصْحَابِهِ قَالَ أَلاَ أُحَدِّثُكَ يَا ابْنَ السِّمْطِ بِحَدِيثٍ سَمِعْتُهُ مِنْ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ بَلَى ‏.‏ قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏ \"‏ رِبَاطُ يَوْمٍ فِي سَبِيلِ اللَّهِ أَفْضَلُ وَرُبَّمَا قَالَ خَيْرٌ مِنْ صِيَامِ شَهْرٍ وَقِيَامِهِ وَمَنْ مَاتَ فِيهِ وُقِيَ فِتْنَةَ الْقَبْرِ وَنُمِّيَ لَهُ عَمَلُهُ إِلَى يَوْمِ الْقِيَامَةِ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ ‏.‏",
+        "translations": {
+          "en": "Narrated Muhammad bin Al-Munkadir: \"Salman Al-Farisi passed by Shurahbil bin As-Simt while he was in garrison in which he and his companions were suffering from difficulties. He said to him: 'Shall I narrate to you - O Ibn As-Simt - a Hadith I heard from the Messenger of Allah (ﷺ) ?' He said: 'Of course.' He said: 'I heard the Messenger of Allah (ﷺ) saying: \"(Ribat) Guarding the frontier for a day in the cause of Allah is more virtuous\" - and perhaps he said: \"better, than fasting a month and standing (in prayer) for it. And whoever dies in it, he is protected from the trials of the grave, and his deeds (continuously) multiplied until the Day of Resurrection. [Abu 'Eisa said:] This Hadith is Hasan",
+          "ur": "محمد بن منکدر کہتے ہیں کہ سلمان فارسی رضی الله عنہ شرحبیل بن سمط کے پاس سے گزرے، وہ اپنے «مرابط» ( سرحد پر پاسبانی کی جگہ ) میں تھے، ان پر اور ان کے ساتھیوں پر وہاں رہنا گراں گزر رہا تھا، سلمان فارسی رضی الله عنہ نے کہا: ابن سمط؟ کیا میں تم سے وہ حدیث بیان نہ کروں جسے میں نے رسول اللہ صلی اللہ علیہ وسلم سے سنا ہے؟ انہوں نے کہا: کیوں نہیں، سلمان رضی الله عنہ نے کہا: میں نے رسول اللہ صلی اللہ علیہ وسلم کو فرماتے سنا: ”اللہ کی راہ میں ایک دن کی پاسبانی ایک ماہ روزہ رکھنے اور تہجد پڑھنے سے افضل ہے، آپ نے «أفضل» کی بجائے کبھی «خير» ( بہتر ہے ) کا لفظ کہا: اور جو شخص اس حالت میں وفات پا گیا، وہ عذاب قبر سے محفوظ رہے گا اور قیامت تک اس کا عمل بڑھایا جائے گا“ ۱؎۔ امام ترمذی کہتے ہیں: یہ حدیث حسن صحیح ہے۔",
+          "id": "Telah menceritakan kepada kami [Ibnu Abu Umar] berkata, telah menceritakan kepada kami [Sufyan Ats Tsauri] berkata, telah menceritakan kepada kami [Muhammad Ibnul Munkadir] ia berkata, \" [Salman Al Farisi] melewati Syurahbil bin As Simth yang sedang berada di tempat ribathnya, sementara dirinya dan para sahabatnya telah merasakan kebosanan. Salman berkata, \"Wahai Ibnu As Simth, maukah aku bacakan kepadamu sebuah hadits yang aku dengar dari Rasulullah shallallahu 'alaihi wasallam?\" ia menjawab, \"Tentu.\" Salman berkata, \"Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: \"Ribath satu hari di jalan Allah lebih utama, dan barangkali ia menyebutkan, \"lebih baik dari puasa dan shalat selama sebulan. Dan barangsiapa meninggal saat ribath, maka ia akan terjaga dari fitnah kubur dan amalnya akan terus berkembang hingga datangnya hari kiamat.\" Abu Isa berkata, \"hadits ini derajatnya hasan",
+          "tr": "Muhammed b. Münkedir (r.a.)’den rivâyete göre, şöyle demiştir: Selman-ı Fârisî, Şürahbîl b. Es Sımt’a uğramıştı. Şürahbîl; askeri bir birlikte görevli olup arkadaşlarıyla beraber zorlu anlar yaşıyorlardı. Selman dedi ki: Ey İbn üs Semt! Rasûlullah (s.a.v.)’den duyduğum bir hadisi sana aktarayım mı? Şürahbîl: Evet anlat dedi. Selman dedi ki: Rasûlullah (s.a.v.)’den işittim şöyle diyordu: “Allah yolunda bir gün nöbet tutmak geceleri namazla geçirilen bir aylık oruçtan daha hayırlı ve sevaplı bir iştir. Ve her kim böyle bir görevi yaparken ölürse kabir azabından korunur ve onun işlediği hayırlı işler kıyamete kadar artırılarak büyütülür gider. Diğer tahric: Buhârî Cihâd Tirmizî: Bu hadis hasendir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 22,
+        "hadith": 48
+      },
+      "narrator": {
+        "en": "Muhammad bin Al-Munkadir"
+      }
+    },
+    {
+      "hadithNumber": 1666,
+      "arabicNumber": 1666,
+      "book": 22,
+      "hadithInBook": 49,
+      "text": {
+        "arabic": "حَدَّثَنَا عَلِيُّ بْنُ حُجْرٍ، حَدَّثَنَا الْوَلِيدُ بْنُ مُسْلِمٍ، عَنْ إِسْمَاعِيلَ بْنِ رَافِعٍ، عَنْ سُمَىٍّ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ مَنْ لَقِيَ اللَّهَ بِغَيْرِ أَثَرٍ مِنْ جِهَادٍ لَقِيَ اللَّهَ وَفِيهِ ثُلْمَةٌ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ غَرِيبٌ مِنْ حَدِيثِ الْوَلِيدِ بْنِ مُسْلِمٍ عَنْ إِسْمَاعِيلَ بْنِ رَافِعٍ ‏.‏ وَإِسْمَاعِيلُ بْنُ رَافِعٍ قَدْ ضَعَّفَهُ بَعْضُ أَصْحَابِ الْحَدِيثِ ‏.‏ قَالَ وَسَمِعْتُ مُحَمَّدًا يَقُولُ هُوَ ثِقَةٌ مُقَارِبُ الْحَدِيثِ ‏.‏ وَقَدْ رُوِيَ هَذَا الْحَدِيثُ مِنْ غَيْرِ هَذَا الْوَجْهِ عَنْ أَبِي هُرَيْرَةَ عَنِ النَّبِيِّ صلى الله عليه وسلم ‏.‏ وَحَدِيثُ سَلْمَانَ إِسْنَادُهُ لَيْسَ بِمُتَّصِلٍ مُحَمَّدُ بْنُ الْمُنْكَدِرِ لَمْ يُدْرِكْ سَلْمَانَ الْفَارِسِيَّ ‏.‏ وَقَدْ رُوِيَ هَذَا الْحَدِيثُ عَنْ أَيُّوبَ بْنِ مُوسَى عَنْ مَكْحُولٍ عَنْ شُرَحْبِيلَ بْنِ السِّمْطِ عَنْ سَلْمَانَ عَنِ النَّبِيِّ صلى الله عليه وسلم نَحْوَهُ ‏.‏",
+        "translations": {
+          "en": "Narrated Abu Hurairah: That the Messenger of Allah (ﷺ) said: \"Whoever meets Allah without any traces from Jihad he meets Allah with a defect. [Abu 'Eisa said:] This Hadith is Gharib as a narration of Al-Walid bin Muslim from Isma'il bin Rafi'. Isma'il bin Rafi' was graded weak by some of the people of Hadith. I heard Muhammad saying: \"He is trustworthy, average (Muqarib) in Hadith.\" This Hadith has been reported from Abu Hurairah from the Prophet (ﷺ) through other than this route. Regarding the Hadith of Salman, its chain is not connected, Muhammad bin Al-Munkadir did not see Salman Al-Farisi. This Hadith has been reported from Ayyub bin Musa, from Makhul, from Shurahbil bin As-Simt from Salman, from the Prophet (ﷺ)",
+          "ur": "ابوہریرہ رضی الله عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”جو شخص جہاد کے کسی اثر کے بغیر اللہ تعالیٰ سے ملے ۱؎ تو وہ اس حال میں اللہ سے ملے گا کہ اس کے اندر خلل ( نقص و عیب ) ہو گا“۔ امام ترمذی کہتے ہیں: ۱- یہ حدیث ولید بن مسلم کے واسطے سے اسماعیل بن رافع کی روایت سے ضعیف ہے، بعض محدثین نے اسماعیل بن رافع کی تضعیف کی ہے، میں نے محمد بن اسماعیل بخاری کو کہتے سنا: اسماعیل ثقہ ہیں، مقارب الحدیث ہیں، ۲- یہ حدیث دوسری سند سے بھی ابوہریرہ کے واسطہ سے مرفوع طریقہ سے آئی ہے، ۳- سلمان کی حدیث کی سند متصل نہیں ہے۔ محمد بن منکدر نے سلمان کو نہیں پایا ہے، یہ حدیث «عن أيوب بن موسى عن مكحول عن شرحبيل بن السمط عن سلمان عن النبي صلى الله عليه وسلم» کی سند سے بھی مروی ہے۔",
+          "id": "Telah menceritakan kepada kami [Ali bin Hujr] berkata, telah menceritakan kepada kami [Al Walid bin Muslim] dari [Isma'il bin Rafi'] dari [Sumay] dari [Abu Shalih] dari [Abu Hurairah] ia berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Barangsiapa berjumpa dengan Allah sementara pada dirinya tidak ada bekas-bekas jihad di jalan Allah, maka ia berjumpa Allah dalam keadaan kurang sempurna (sumbing).\" Abu Isa berkata, \"Hadits ini derajatnya hasan gharib, yaitu dari hadits Al Walid bin Muslim, dari Isma'il bin Rafi'. Sebagian ulama` telah mendha'ifkan Isma'il bin rafi'. Ia berkata, \"Aku mendengar Muhammad berkata, \"Ia orang tsiqah dan muqaribul hadits.\" Telah diriwayatkan pula dari Abu Hurairah dari Nabi shallallahu 'alaihi wasallam dengan jalur lain. Hadits Salman sanadnya tidak bersambung, sebab Muhammad Ibnul Munkadir belum pernah berjumpa dengan Salman Al Farisi. Hadits ini juga telah diriwayatkan dari [Ayyub bin Musa], dari [Makhul], dari [Syurahbil bin As Simth], dari [Salman], dari Nabi shallallahu 'alaihi wasallam seperti hadits tersebut"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Daif"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 22,
+        "hadith": 49
+      },
+      "narrator": {
+        "en": "Abu Hurairah"
+      }
+    },
+    {
+      "hadithNumber": 1667,
+      "arabicNumber": 1667,
+      "book": 22,
+      "hadithInBook": 50,
+      "text": {
+        "arabic": "حَدَّثَنَا الْحَسَنُ بْنُ عَلِيٍّ الْخَلاَّلُ، حَدَّثَنَا هِشَامُ بْنُ عَبْدِ الْمَلِكِ، حَدَّثَنَا اللَّيْثُ بْنُ سَعْدٍ، حَدَّثَنِي أَبُو عَقِيلٍ، زُهْرَةُ بْنُ مَعْبَدٍ عَنْ أَبِي صَالِحٍ، مَوْلَى عُثْمَانَ بْنِ عَفَّانَ قَالَ سَمِعْتُ عُثْمَانَ، وَهُوَ عَلَى الْمِنْبَرِ يَقُولُ إِنِّي كَتَمْتُكُمْ حَدِيثًا سَمِعْتُهُ مِنْ رَسُولِ اللَّهِ صلى الله عليه وسلم كَرَاهِيَةَ تَفَرُّقِكُمْ عَنِّي ثُمَّ بَدَا لِي أَنْ أُحَدِّثَكُمُوهُ لِيَخْتَارَ امْرُؤٌ لِنَفْسِهِ مَا بَدَا لَهُ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏ \"‏ رِبَاطُ يَوْمٍ فِي سَبِيلِ اللَّهِ خَيْرٌ مِنْ أَلْفِ يَوْمٍ فِيمَا سِوَاهُ مِنَ الْمَنَازِلِ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ غَرِيبٌ ‏.‏ وَقَالَ مُحَمَّدُ بْنُ إِسْمَاعِيلَ أَبُو صَالِحٍ مَوْلَى عُثْمَانَ اسْمُهُ تُرْكَانُ ‏.‏",
+        "translations": {
+          "en": "Narrated Abu Salih, the Freed slave of Uthman : \"I heard Uthman while on the Minbar saying: 'I did not inform you about a Hadith I had heard from the Messenger of Allah (ﷺ), out of dismay that you might part from me. Then it occurred to me that I should narrate to you so that one may choose from these matters accordingly. I heard the Messenger of Allah (ﷺ) saying: \"(Ribat) Guarding the frontier for a day in Allah's cause is beter in status than thousand days doing other than that.'\" [Abu 'Eisa said:] This Hadith is Hasan Sahih Gharib. Muhammad bin Ism'ail said: \"Abu Salih, the freed slave of 'Uthman's name is Burkan",
+          "ur": "ابوصالح مولیٰ عثمان کہتے ہیں کہ میں نے منبر پر عثمان رضی الله عنہ کو کہتے سنا: میں نے تم لوگوں سے ایک حدیث چھپا لی تھی جسے میں نے رسول اللہ صلی اللہ علیہ وسلم سے سنا ہے اس ڈر کی وجہ سے کہ تم مجھ سے جدا ہو جاؤ گے ۱؎ پھر میری سمجھ میں آیا کہ میں تم لوگوں سے اسے بیان کر دوں تاکہ ہر آدمی اپنے لیے وہی چیز اختیار کرے جو اس کی سمجھ میں آئے، میں نے رسول اللہ صلی اللہ علیہ وسلم کو فرماتے سنا: ”اللہ کی راہ میں ایک دن سرحد کی پاسبانی کرنا دوسری جگہوں کے ایک ہزار دن کی پاسبانی سے بہتر ہے“۔ امام ترمذی کہتے ہیں: یہ حدیث حسن صحیح غریب ہے۔",
+          "id": "Telah menceritakan kepada kami [Al Hasan bin Ali Al Khallal] berkata, telah menceritakan kepada kami [Hisyam bin Abdul Malik] berkata, telah menceritakan kepada kami [Al Laits bin Sa'd] berkata, telah menceritakan kepadaku [Abu Aqil Zuhrah bin Ma'bad] dari [Abu Shalih] -mantan budak (yang telah dimerdekakan oleh) Utsman- ia berkata, \"Aku mendengar [Utsman] berkata di atas mimbar, \"Aku telah menyembunyikan dari kalian sebuah hadits yang aku dengar dari Rasulullah shallallahu 'alaihi wasallam, karena aku kawatir kalian akan berselisih denganku. Setelah itu aku berniat menyampaikan hadits itu kepada kalian agar seseorang bisa memilih apa yang terbaik untuk dirinya sendiri. Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: \"Ribath (berjaga-jaga di perbatasan) satu hari di jalan Allah lebih baik dari seribu hari di tempat lain.\" Abu Isa berkata, \"Hadits ini derajatnya hasan shahih gharib. Muhammad bin Isma'il berkata, \"Abu Shalih -mantan budak (yang telah dimerdekakan oleh) Utsman- nama aslinya adalah Turkan",
+          "tr": "Osman’ın azâdlı kölesi Ebû Salih (r.a.)’den rivâyete göre, şöyle demiştir: Osman b. Affân’ın minberde şöyle söylediğini işittim: “Yanımdan ayrılıp gitmenizi istemediğimden dolayı Rasûlullah (s.a.v.)’den işittiğim şu hadisi gizlemiştim sonra onu size aktarmayı uygun buldum dolayısıyla herkes kendisi için uygun olanı seçsin Rasûlullah (s.a.v.)’den işittim şöyle diyordu: Allah yolunda savaşta bir gün nöbet tutmak İslam devletinin diğer hizmet birimlerinde bin gün nöbet tutmak veya hizmet etmekten daha hayırlıdır.” Diğer tahric: Nesâî, Cihâd; İbn Mâce: Cihâd Tirmizî: Bu hadis hasen sahih garibtir. Muhammed b. İsmail der ki: Ebû Salih, Osman b. Afvân’nın azâdlı kölesi olup ismi Bürkân’dır"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 22,
+        "hadith": 50
+      },
+      "narrator": {
+        "en": "Abu Salih, the Freed slave of Uthman"
+      }
+    },
+    {
+      "hadithNumber": 1668,
+      "arabicNumber": 1668,
+      "book": 22,
+      "hadithInBook": 51,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، وَأَحْمَدُ بْنُ نَصْرٍ النَّيْسَابُورِيُّ، وَغَيْرُ، وَاحِدٍ، قَالُوا حَدَّثَنَا صَفْوَانُ بْنُ عِيسَى، حَدَّثَنَا مُحَمَّدُ بْنُ عَجْلاَنَ، عَنِ الْقَعْقَاعِ بْنِ حَكِيمٍ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ مَا يَجِدُ الشَّهِيدُ مِنْ مَسِّ الْقَتْلِ إِلاَّ كَمَا يَجِدُ أَحَدُكُمْ مِنْ مَسِّ الْقَرْصَةِ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ غَرِيبٌ ‏.‏",
+        "translations": {
+          "en": "Narrated Abu Hurairah: That the Messenger of Allah (ﷺ) said: \"The martyr does not sense the touch of death except as one of you senses the touch of a (bug) bite. [Abu 'Eisa said:] This Hadith is Hasan Gharib Sahih",
+          "ur": "ابوہریرہ رضی الله عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”شہید کو قتل سے صرف اتنی ہی تکلیف ہوتی ہے جتنی تکلیف تم میں سے کسی کو چٹکی لینے سے ہوتی ہے“۔ امام ترمذی کہتے ہیں: یہ حدیث حسن صحیح غریب ہے۔",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Basysyar] dan [Ahmad bin Nashr An Naisaburi] dan banyak orang, mereka berkata; telah menceritakan kepada kami [Shafwan bin Isa] berkata, telah menceritakan kepada kami [Muhammad bin Ajlan] dari [Al Qa'qa' bin Hakim] dari [Abu Shalih] dari [Abu Hurairah] ia berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Seorang mujahid tidak merasakan sakitnya mati kecuali sebagaimana salah seorang dari kalian merasakan sakitnya digigit semut.\" Abu Isa berkata, \"Hadits ini derajatnya hasan shahih gharib",
+          "tr": "Ebû Hureyre (r.a.)’den rivâyete göre, şöyle demiştir: Rasûlullah (s.a.v.) şöyle buyurdu: “Şehîd kimsenin ölüm anındaki duyduğu acı çimdiklemeden dolayı duyduğu acı kadar basittir.” Diğer tahric: İbn Mâce, Cihad Ebu İsa (Tirmizî) diyorki: Bu hadis hasen sahih garibtir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 22,
+        "hadith": 51
+      },
+      "narrator": {
+        "en": "Abu Hurairah"
+      }
+    },
+    {
+      "hadithNumber": 1669,
+      "arabicNumber": 1669,
+      "book": 22,
+      "hadithInBook": 52,
+      "text": {
+        "arabic": "حَدَّثَنَا زِيَادُ بْنُ أَيُّوبَ، حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، أَنْبَأَنَا الْوَلِيدُ بْنُ جَمِيلٍ الْفِلَسْطِينِيُّ، عَنِ الْقَاسِمِ أَبِي عَبْدِ الرَّحْمَنِ، عَنْ أَبِي أُمَامَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ لَيْسَ شَيْءٌ أَحَبَّ إِلَى اللَّهِ مِنْ قَطْرَتَيْنِ وَأَثَرَيْنِ قَطْرَةٌ مِنْ دُمُوعٍ فِي خَشْيَةِ اللَّهِ وَقَطْرَةُ دَمٍ تُهَرَاقُ فِي سَبِيلِ اللَّهِ ‏.‏ وَأَمَّا الأَثَرَانِ فَأَثَرٌ فِي سَبِيلِ اللَّهِ وَأَثَرٌ فِي فَرِيضَةٍ مِنْ فَرَائِضِ اللَّهِ ‏\"‏ ‏.‏ قَالَ هَذَا حَدِيثٌ حَسَنٌ غَرِيبٌ ‏.‏ ‏",
+        "translations": {
+          "en": "Narrated Abu Umamah: That the Prophet (ﷺ) said: \"There is nothing more beloved to Allah than two drops and two traces: A teardrop shed out of fear of Allah, and a drop of blood shed in Allah's cause. As for the two traces: A trace resulting in Allah's cause, and and a trace resulting from one of the duties that Allah made obligatory.\" [Abu 'Eisa said:] This Hadith is Hasan Gharib",
+          "ur": "ابوامامہ رضی الله عنہ سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: ”اللہ تعالیٰ کو دو قطروں اور دو نشانیوں سے زیادہ کوئی چیز محبوب نہیں ہے: آنسو کا ایک قطرہ جو اللہ کے خوف کی وجہ سے نکلے اور دوسرا خون کا وہ قطرہ جو اللہ کے راستہ میں بہے، دو نشانیوں میں سے ایک نشانی وہ ہے جو اللہ کی راہ میں لگے اور دوسری نشانی وہ ہے جو اللہ کے فرائض میں سے کسی فریضہ کی ادائیگی کی حالت میں لگے“۔ امام ترمذی کہتے ہیں: یہ حدیث حسن غریب ہے۔",
+          "id": "Telah menceritakan kepada kami [Ziyad bin Ayyub] berkata, telah menceritakan kepada kami [Yazid bin Harun] berkata, telah memberitakan kepada kami [Al Walid bin Jamil Al Filasthini] dari [Al Qasim bin 'Abdurrahman] dari [Abu Umamah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: \"Tidak ada sesuatu yang dicintai oleh Allah kecuali dua tetas air dan dua bekas; tetesan air mata karena takut kepada Allah dan tetesan darah yang tertumpah di jalan Allah. Adapun dua bekas itu adalah; bekas karena di jalan Allah dan bekas karena melaksanakan kewajiban Allah.\" Ia berkata, \"Hadits derajatnya hasan gharib",
+          "tr": "Ebû Umâme (r.a.)’den rivâyete göre, Nebi (s.a.v.) şöyle buyurmuştur: “Hiçbir şey Allah’a iki damla ve iki iz’den daha sevimli değildir. Allah’ın azabından korkarak ağlayan kişinin gözünden akan damla ile Allah yolunda savaş meydanında akıtılan kan damlası, iz’e gelince: Biri Allah yolunda savaşırken meydana gelen sakatlanma ve yara izi diğeri de Allah’ın farz kıldığı ibadetleri yaparken meydana gelen secde izi gibi.” Tirmizî rivâyet etmiştir. Tirmizî: Bu hadis hasen garibtir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 22,
+        "hadith": 52
+      },
+      "narrator": {
+        "en": "Abu Umamah"
+      }
+    }
+  ],
+  "metadata": {
+    "averageLength": "long",
+    "size": "48KB"
+  }
+}

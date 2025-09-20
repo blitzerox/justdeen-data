@@ -1,0 +1,150 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://islamic-data.com/schemas/quran-chapter.json",
+  "title": "Quran Chapter Schema",
+  "description": "Schema for validating Quran chapter JSON files",
+  "type": "object",
+  "required": ["chapter", "name", "revelation", "verses", "content", "metadata"],
+  "properties": {
+    "chapter": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 114,
+      "description": "Chapter number (1-114)"
+    },
+    "name": {
+      "type": "object",
+      "required": ["arabic", "transliteration", "translation"],
+      "properties": {
+        "arabic": {
+          "type": "string",
+          "pattern": "^[\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF\uFB50-\uFDFF\uFE70-\uFEFF]+$",
+          "description": "Arabic name using Arabic Unicode characters"
+        },
+        "transliteration": {
+          "type": "string",
+          "pattern": "^[A-Za-z\\s\\-']+$",
+          "description": "English transliteration"
+        },
+        "translation": {
+          "type": "string",
+          "description": "English translation of the chapter name"
+        }
+      }
+    },
+    "revelation": {
+      "type": "string",
+      "enum": ["meccan", "medinan"],
+      "description": "Where the chapter was revealed"
+    },
+    "verses": {
+      "type": "integer",
+      "minimum": 3,
+      "maximum": 286,
+      "description": "Total number of verses in the chapter"
+    },
+    "content": {
+      "type": "array",
+      "minItems": 3,
+      "maxItems": 286,
+      "items": {
+        "$ref": "#/definitions/verse"
+      }
+    },
+    "metadata": {
+      "type": "object",
+      "required": ["words", "letters", "size", "priority"],
+      "properties": {
+        "words": {
+          "type": "integer",
+          "minimum": 1,
+          "description": "Total word count in the chapter"
+        },
+        "letters": {
+          "type": "integer",
+          "minimum": 1,
+          "description": "Total letter count in the chapter"
+        },
+        "size": {
+          "type": "string",
+          "pattern": "^[0-9]+(\\.[0-9]+)?(KB|MB)$",
+          "description": "File size (e.g., '2.1KB')"
+        },
+        "priority": {
+          "type": "integer",
+          "minimum": 1,
+          "maximum": 3,
+          "description": "Loading priority (1=highest, 3=lowest)"
+        },
+        "commonlyRead": {
+          "type": "boolean",
+          "description": "Whether this chapter is commonly read"
+        }
+      }
+    }
+  },
+  "definitions": {
+    "verse": {
+      "type": "object",
+      "required": ["verse", "arabic", "transliteration"],
+      "properties": {
+        "verse": {
+          "type": "integer",
+          "minimum": 1,
+          "description": "Verse number within the chapter"
+        },
+        "arabic": {
+          "type": "string",
+          "pattern": "^[\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF\uFB50-\uFDFF\uFE70-\uFEFF\\s]+$",
+          "description": "Arabic text of the verse"
+        },
+        "transliteration": {
+          "type": "string",
+          "description": "English transliteration of the Arabic text"
+        },
+        "translations": {
+          "type": "object",
+          "patternProperties": {
+            "^[a-z]{2}\\.[a-z]+$": {
+              "type": "string",
+              "description": "Translation in format 'language.translator'"
+            }
+          }
+        },
+        "tafsir": {
+          "type": "object",
+          "patternProperties": {
+            "^[a-z]{2}\\.[a-z]+$": {
+              "type": "string",
+              "description": "Tafsir in format 'language.scholar'"
+            }
+          }
+        },
+        "audio": {
+          "type": "object",
+          "patternProperties": {
+            "^[a-z]{2}\\.[a-z]+$": {
+              "type": "object",
+              "properties": {
+                "url": {
+                  "type": "string",
+                  "description": "Audio file URL"
+                },
+                "format": {
+                  "type": "string",
+                  "enum": ["mp3", "ogg", "wav"]
+                },
+                "local_path": {
+                  "type": ["string", "null"],
+                  "description": "Local file path if cached"
+                }
+              },
+              "required": ["url", "format"],
+              "description": "Audio data in format 'language.reciter'"
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "hadith": {
+    "version": "1.0.0",
+    "lastUpdated": "2025-09-19T23:58:45.515Z",
+    "totalCollections": 6,
+    "totalBooks": 337,
+    "totalHadith": 34532,
+    "languages": {
+      "translations": [
+        "en",
+        "ur",
+        "fr",
+        "id",
+        "tr"
+      ],
+      "transliterations": [
+        "en"
+      ]
+    }
+  },
+  "collections": [
+    {
+      "name": "bukhari",
+      "title": {
+        "arabic": "صحيح البخاري",
+        "transliteration": "Sahih al-Bukhari",
+        "translation": "The Authentic Collection of al-Bukhari"
+      },
+      "compiler": {
+        "arabic": "محمد بن إسماعيل البخاري",
+        "transliteration": "Muhammad ibn Isma'il al-Bukhari",
+        "dates": "194-256 AH"
+      },
+      "authenticity": "sahih",
+      "totalBooks": 98,
+      "totalHadith": 7589,
+      "url": "data/hadith/collections/bukhari/",
+      "priority": 1,
+      "description": "The most authentic collection of hadith after the Quran"
+    },
+    {
+      "name": "muslim",
+      "title": {
+        "arabic": "صحيح مسلم",
+        "transliteration": "Sahih Muslim",
+        "translation": "The Authentic Collection of Muslim"
+      },
+      "compiler": {
+        "arabic": "مسلم بن الحجاج النيسابوري",
+        "transliteration": "Muslim ibn al-Hajjaj an-Naysaburi",
+        "dates": "206-261 AH"
+      },
+      "authenticity": "sahih",
+      "totalBooks": 57,
+      "totalHadith": 7563,
+      "url": "data/hadith/collections/muslim/",
+      "priority": 1,
+      "description": "Second most authentic collection of hadith"
+    },
+    {
+      "name": "abudawud",
+      "title": {
+        "arabic": "سنن أبي داود",
+        "transliteration": "Sunan Abi Dawud",
+        "translation": "The Sunan of Abu Dawud"
+      },
+      "compiler": {
+        "arabic": "أبو داود السجستاني",
+        "transliteration": "Abu Dawud as-Sijistani",
+        "dates": "202-275 AH"
+      },
+      "authenticity": "hasan-sahih",
+      "totalBooks": 43,
+      "totalHadith": 5274,
+      "url": "data/hadith/collections/abudawud/",
+      "priority": 2,
+      "description": "Collection focusing on legal hadith"
+    },
+    {
+      "name": "tirmidhi",
+      "title": {
+        "arabic": "جامع الترمذي",
+        "transliteration": "Jami' at-Tirmidhi",
+        "translation": "The Collection of at-Tirmidhi"
+      },
+      "compiler": {
+        "arabic": "محمد بن عيسى الترمذي",
+        "transliteration": "Muhammad ibn Isa at-Tirmidhi",
+        "dates": "209-279 AH"
+      },
+      "authenticity": "hasan-sahih",
+      "totalBooks": 49,
+      "totalHadith": 3998,
+      "url": "data/hadith/collections/tirmidhi/",
+      "priority": 2,
+      "description": "Comprehensive collection with authenticity grading"
+    },
+    {
+      "name": "nasai",
+      "title": {
+        "arabic": "سنن النسائي",
+        "transliteration": "Sunan an-Nasa'i",
+        "translation": "The Sunan of an-Nasa'i"
+      },
+      "compiler": {
+        "arabic": "أحمد بن شعيب النسائي",
+        "transliteration": "Ahmad ibn Shu'ayb an-Nasa'i",
+        "dates": "215-303 AH"
+      },
+      "authenticity": "sahih-hasan",
+      "totalBooks": 52,
+      "totalHadith": 5765,
+      "url": "data/hadith/collections/nasai/",
+      "priority": 2,
+      "description": "Collection known for strict authenticity standards"
+    },
+    {
+      "name": "majah",
+      "title": {
+        "arabic": "سنن ابن ماجه",
+        "transliteration": "Sunan Ibn Majah",
+        "translation": "The Sunan of Ibn Majah"
+      },
+      "compiler": {
+        "arabic": "محمد بن يزيد ابن ماجه",
+        "transliteration": "Muhammad ibn Yazid Ibn Majah",
+        "dates": "209-273 AH"
+      },
+      "authenticity": "mixed",
+      "totalBooks": 38,
+      "totalHadith": 4343,
+      "url": "data/hadith/collections/majah/",
+      "priority": 2,
+      "description": "Collection completing the six major hadith books"
+    }
+  ],
+  "loadingStrategy": {
+    "priority1": [
+      "bukhari",
+      "muslim"
+    ],
+    "priority2": [
+      "abudawud",
+      "tirmidhi",
+      "nasai",
+      "majah"
+    ],
+    "priority3": []
+  }
+}

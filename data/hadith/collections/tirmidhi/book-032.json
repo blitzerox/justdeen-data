@@ -1,0 +1,938 @@
+{
+  "collection": "tirmidhi",
+  "book": 32,
+  "name": {
+    "arabic": "كتاب Chapters On Al-Qadar",
+    "transliteration": "chapters on al-qadar",
+    "translation": "Chapters On Al-Qadar"
+  },
+  "totalHadith": 26,
+  "hadithNumberRange": {
+    "first": 2133,
+    "last": 2298
+  },
+  "content": [
+    {
+      "hadithNumber": 2133,
+      "arabicNumber": 2133,
+      "book": 32,
+      "hadithInBook": 1,
+      "text": {
+        "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُعَاوِيَةَ الْجُمَحِيُّ الْبَصْرِيُّ، قَالَ حَدَّثَنَا صَالِحٌ الْمُرِّيُّ، عَنْ هِشَامِ بْنِ حَسَّانَ، عَنْ مُحَمَّدِ بْنِ سِيرِينَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ خَرَجَ عَلَيْنَا رَسُولُ اللَّهِ صلى الله عليه وسلم وَنَحْنُ نَتَنَازَعُ فِي الْقَدَرِ فَغَضِبَ حَتَّى احْمَرَّ وَجْهُهُ حَتَّى كَأَنَّمَا فُقِئَ فِي وَجْنَتَيْهِ الرُّمَّانُ فَقَالَ ‏ \"‏ أَبِهَذَا أُمِرْتُمْ أَمْ بِهَذَا أُرْسِلْتُ إِلَيْكُمْ إِنَّمَا هَلَكَ مَنْ كَانَ قَبْلَكُمْ حِينَ تَنَازَعُوا فِي هَذَا الأَمْرِ عَزَمْتُ عَلَيْكُمْ أَلاَّ تَتَنَازَعُوا فِيهِ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى وَفِي الْبَابِ عَنْ عُمَرَ وَعَائِشَةَ وَأَنَسٍ ‏.‏ وَهَذَا حَدِيثٌ غَرِيبٌ لاَ نَعْرِفُهُ إِلاَّ مِنْ هَذَا الْوَجْهِ مِنْ حَدِيثِ صَالِحٍ الْمُرِّيِّ ‏.‏ وَصَالِحٌ الْمُرِّيُّ لَهُ غَرَائِبُ يَنْفَرِدُ بِهَا لاَ يُتَابَعُ عَلَيْهَا ‏.‏",
+        "translations": {
+          "en": "Abu Hurairah narrated:\"The Messenger of Allah(s.a.w) came out to us while we were discussing about Al-Qadar. He became angry such that his face became red, as if a pomegranate was bursting through his cheeks. He said: 'Is this what I ordered you to do?' - or: 'Is this what I have been sent to you with? The people before you were only ruined when they differed about this matter. I order you [I order you] to not debate about it.'\". (Daif)",
+          "ur": "ابوہریرہ رضی الله عنہ کہتے ہیں کہ ( ایک دن ) رسول اللہ صلی اللہ علیہ وسلم ہماری طرف نکلے، اس وقت ہم سب تقدیر کے مسئلہ میں بحث و مباحثہ کر رہے تھے، آپ غصہ ہو گئے یہاں تک کہ آپ کا چہرہ سرخ ہو گیا اور ایسا نظر آنے لگا گویا آپ کے گالوں پر انار کے دانے نچوڑ دئیے گئے ہوں۔ آپ نے فرمایا: ”کیا تمہیں اسی کا حکم دیا گیا ہے، یا میں اسی واسطے تمہاری طرف نبی بنا کر بھیجا گیا ہوں؟ بیشک تم سے پہلی امتیں ہلاک ہو گئیں جب انہوں نے اس مسئلہ میں بحث و مباحثہ کیا، میں تمہیں قسم دلاتا ہوں کہ اس مسئلہ میں بحث و مباحثہ نہ کرو“ ۱؎۔ امام ترمذی کہتے ہیں: ۱ – یہ حدیث غریب ہے، ۲- ہم اسے اس سند سے صرف صالح مری کی روایت سے جانتے ہیں اور صالح مری کے بہت سارے غرائب ہیں جن کی روایت میں وہ منفرد ہیں، کوئی ان کی متابعت نہیں کرتا۔ ۳- اس باب میں عمر، عائشہ اور انس رضی الله عنہم سے بھی احادیث آئی ہیں۔",
+          "id": "Telah menceritakan kepada kami ['Abdullah bin Mu'awiyah Al Jumahi Al Bashri]; telah menceritakan kepada kami [Shalih Al Murri]; dari [Hisyam bin Hassan] dari [Muhammad bin Sirin] dari [Abu Hurairah] dia berkata; Rasulullah shallallahu 'alaihi wasallam keluar menemui kami sementara kami sedang berselisih dalam masalah taqdir, kemudian beliau marah hingga wajahnya menjadi merah sampai seakan akan pipinya seperti buah delima yang dibelah, lalu beliau bertanya \"Apakah kalian diperintahkan seperti ini atau apakah aku diutus kepada kalian untuk masalah ini? Sesungguhnya binasanya orang-orang sebelum kalian adalah lantaran perselisihan mereka dalam perkara ini. Karena itu, aku tekankan pada kalian untuk tidak berselisih dalam masalah ini.\" Abu Isa berkata; Hadits semakna juga diriwayatkan dari dari Umar, A'isyah dan Anas. Dan hadits ini adalah Gharib, kami tidak mengetahuinya kecuali dari jalur sanad ini dari hadits Shalih Al Murri, sedangkan Shalih Al Murri memiliki hadits hadits Gharib yang dia riwayatkan dengan sendirian dan tidak ada yang mengikutinya",
+          "tr": "Ebû Hureyre (r.a.)’den rivâyete göre, şöyle demiştir: Kader konusunda birbirimizle münakaşa etmekte iken Rasûlullah (s.a.v.) üzerimize çıkageldi o kadar kızdı ki yüzü kızardı yanaklarından sanki kan fışkıracaktı, sonra şöyle buyurdu: “Size bu konuda münakaşa mı emredildi yoksa ben bu konular için mi? gönderildim. Sizden önceki toplumlar bu konuda münakaşa ettikleri için helak olup gittiler. Bu konuda münakaşa etmemenizi istiyorum bu konuda münakaşa etmemenizi istiyorum.” Tirmizî rivâyet etmiştir. Tirmizî: Bu konuda Ömer, Âişe, Enes’den de hadis rivâyet edilmiştir. Bu hadis garib olup sadece Salih el Mürrî’nin rivâyetiyle bilmekteyiz. Salih el Mürrî’nin tek başına rivâyet ettiği pek çok hadis vardır ki onlara asla uyulmaz. BU HADİS-İ ŞERİF’E BENZER İBN-İ MACE’NİN SAHİH RİVAYET’İ İÇİN BURAYA TIKLAYIN"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 32,
+        "hadith": 1
+      }
+    },
+    {
+      "hadithNumber": 2134,
+      "arabicNumber": 2134,
+      "book": 32,
+      "hadithInBook": 2,
+      "text": {
+        "arabic": "حَدَّثَنَا يَحْيَى بْنُ حَبِيبِ بْنِ عَرَبِيٍّ، قَالَ حَدَّثَنَا الْمُعْتَمِرُ بْنُ سُلَيْمَانَ، قَالَ حَدَّثَنَا أَبِي، عَنْ سُلَيْمَانَ الأَعْمَشِ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ احْتَجَّ آدَمُ وَمُوسَى فَقَالَ مُوسَى يَا آدَمُ أَنْتَ الَّذِي خَلَقَكَ اللَّهُ بِيَدِهِ وَنَفَخَ فِيكَ مِنْ رُوحِهِ أَغْوَيْتَ النَّاسَ وَأَخْرَجْتَهُمْ مِنَ الْجَنَّةِ ‏.‏ قَالَ فَقَالَ آدَمُ وَأَنْتَ مُوسَى الَّذِي اصْطَفَاكَ اللَّهُ بِكَلاَمِهِ أَتَلُومُنِي عَلَى عَمَلٍ عَمِلْتُهُ كَتَبَهُ اللَّهُ عَلَىَّ قَبْلَ أَنْ يَخْلُقَ السَّمَوَاتِ وَالأَرْضَ قَالَ فَحَجَّ آدَمُ مُوسَى ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى وَفِي الْبَابِ عَنْ عُمَرَ وَجُنْدَبٍ ‏.‏ وَهَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ غَرِيبٌ مِنْ هَذَا الْوَجْهِ مِنْ حَدِيثِ سُلَيْمَانَ التَّيْمِيِّ عَنِ الأَعْمَشِ ‏.‏ وَقَدْ رَوَى بَعْضُ أَصْحَابِ الأَعْمَشِ عَنِ الأَعْمَشِ عَنْ أَبِي صَالِحٍ عَنْ أَبِي هُرَيْرَةَ عَنِ النَّبِيِّ صلى الله عليه وسلم نَحْوَهُ ‏.‏ وَقَالَ بَعْضُهُمْ عَنِ الأَعْمَشِ عَنْ أَبِي صَالِحٍ عَنْ أَبِي سَعِيدٍ عَنِ النَّبِيِّ صلى الله عليه وسلم ‏.‏ وَقَدْ رُوِيَ هَذَا الْحَدِيثُ مِنْ غَيْرِ وَجْهٍ عَنْ أَبِي هُرَيْرَةَ عَنِ النَّبِيِّ صلى الله عليه وسلم ‏.‏",
+        "translations": {
+          "en": "Abu Hurairah narrated that the Prophet(S.A.W) said:\"Adam and Musa argued, Musa said: \"O Adam! You are the one that Allah created with His Hand, and blew into you of His Spirit, and you misled the people and caused them to be expelled from Paradise.' So Adam said: 'You are Musa, the one Allah selected with His Speech! Are you blaming me for something I did which Allah had decreed for me, before creating the heavens and the earth?'\" He said: \" So Adam confuted Musa",
+          "ur": "ابوہریرہ رضی الله عنہ سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: ”آدم اور موسیٰ نے باہم مناظرہ کیا، موسیٰ نے کہا: آدم! آپ وہی تو ہیں جسے اللہ تعالیٰ نے اپنے ہاتھ سے پیدا کیا اور آپ کے اندر اپنی روح پھونکی ۱؎ پھر آپ نے لوگوں کو گمراہ کیا اور ان کو جنت سے نکالا؟ آدم نے اس کے جواب میں کہا: آپ وہی موسیٰ ہیں جسے اللہ تعالیٰ نے گفتگو کرنے کے لیے منتخب کیا، کیا آپ میرے ایسے کام پر مجھے ملامت کرتے ہیں جسے اللہ تعالیٰ نے آسمان و زمین کو پیدا کرنے سے پہلے میرے اوپر لازم کر دیا تھا؟، آدم موسیٰ سے دلیل میں جیت گئے“ ۲؎۔ امام ترمذی کہتے ہیں: ۱- حسن صحیح غریب ہے، ۲- یہ حدیث اس سند سے یعنی سلیمان تیمی کی روایت سے جسے وہ اعمش سے روایت کرتے ہیں، ۳- اعمش کے بعض شاگردوں نے «عن الأعمش عن أبي صالح عن أبي هريرة عن النبي صلى الله عليه وسلم» کی سند سے اسی جیسی حدیث روایت کی ہے۔ اور بعض نے اس کی سند یوں بیان کی ہے «عن الأعمش عن أبي صالح عن أبي سعيد عن النبي صلى الله عليه وسلم»،‏‏‏‏ ۴- کئی اور سندوں سے یہ حدیث ابوہریرہ کے واسطہ سے نبی اکرم صلی اللہ علیہ وسلم سے مروی ہے، ۵- اس باب میں عمر اور جندب رضی الله عنہما سے بھی احادیث آئی ہیں۔",
+          "id": "Telah menceritakan kepada kami [Yahya bin Habib bin 'Arabi]; telah menceritakan kepada kami [Al Mu'tamir bin Sulaiman]; [bapakku] telah menceritakan kepada kami dari [Sulaiman Al A'masy] dari [Abu Shalih] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: \"Nabi Adam dan Musa bersilat lidah. Berkatalah Musa, 'Wahai Adam, kamulah yang telah diciptakan Allah, dan meniupkan padamu bagian dari ruh-Nya. Namun kamu menyesatkan manusia dan mengeluarkan manusia dari surga.' Kemudian Adam balas berkata, 'Wahai Musa, kamu telah disucikan Allah dengan Kalam-Nya, apakah kamu mencelaku akan suatu amalan yang telah aku perbuat dan telah pula ditetapkan Allah sebelum Dia menciptakan langit dan bumi? ' Maka Nabi Adam pun berdalih atas Musa.\" Abu Isa berkata; Hadits semakna juga diriwayatkan dari Umar dan Jundub. Dan ini adalah hadits hasan shahih gharib bila ditinjau dari jalur ini, yakni dari haditsnya Sulaiman At Tamimi dari Al A'masy. Sebagian sahabat A'masy telah meriwayatkan dari A'masy dari Abu Shalih dari Abu Hurairah dari Nabi shallallahu 'alaihi wasallam dengan hadits semisalnya. Dan sebagian lagi menyebutkan dari [Al A'masy] dari [Abu Shalih] dari [Abu Sa'id] dari Nabi shallallahu 'alaihi wasallam. Dan hadits ini telah diriwayatkan lebih dari satu jalur dari Abu Hurairah, dari Nabi shallallahu 'alaihi wasallam",
+          "tr": "Ebû Hüreyre (radıyallahü anh)’den rivâyete göre, Rasûlüllah (sallallahü aleyhi ve sellem), buyurdular ki: “Adem ve Mûsâ karşılıklı münakaşa ettiler. Mûsâ dedi ki: Ey Adem, Allah; seni eliyle yaratıp, sana ruhundan üfürüp, can verdi. (Sen de Cennet’te yasak meyveden yemek sûretiyle) insanların Cennet’ten çıkarılmalarına sebep oldun. Adem de dedi ki: Sen de Allah’ın konuşmak için seçtiği Mûsâ’sın, gökleri ve yeri yaratmadan önce Allah’ın benim hakkımda yazdığı bir işi işledim diye beni niçin kınıyorsun? Rasûlüllah (sallallahü aleyhi ve sellem), böylece Adem, Mûsâ’ya sağlam delilli konuşmasıyla galip geldi” buyurdu. (Müslim, Kader: 2; İbn Mâce: Mukaddime: 10) Bu konuda Ömer ve Cündüp’den de hadis rivâyet edilmiştir. Bu hadis bu şekliyle Süleyman et Teymî’nin, A’meş’den rivâyeti olarak bu şekliyle hasen sahih garibtir. bazı arkadaşları A’meş’den, Ebû Salih’den ve Ebû Hüreyre’den bu hadisin bir benzerini aktarmışlardır. Bir kısım kimselerde A’meş’den, Ebû Salih’den, Ebû Saîd’den diyerek rivâyet ettiler. Aynı hadis değişik bir şekilde Ebû Hüreyre’den yine rivâyet edilmiştir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 32,
+        "hadith": 2
+      }
+    },
+    {
+      "hadithNumber": 2135,
+      "arabicNumber": 2135,
+      "book": 32,
+      "hadithInBook": 3,
+      "text": {
+        "arabic": "حَدَّثَنَا بُنْدَارٌ، قَالَ حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ عَاصِمِ بْنِ عُبَيْدِ اللَّهِ، قَالَ سَمِعْتُ سَالِمَ بْنَ عَبْدِ اللَّهِ، يُحَدِّثُ عَنْ أَبِيهِ، قَالَ قَالَ عُمَرُ يَا رَسُولَ اللَّهِ أَرَأَيْتَ مَا نَعْمَلُ فِيهِ أَمْرٌ مُبْتَدَعٌ أَوْ مُبْتَدَأٌ أَوْ فِيمَا قَدْ فُرِغَ مِنْهُ فَقَالَ ‏ \"‏ فِيمَا قَدْ فُرِغَ مِنْهُ يَا ابْنَ الْخَطَّابِ وَكُلٌّ مُيَسَّرٌ أَمَّا مَنْ كَانَ مِنْ أَهْلِ السَّعَادَةِ فَإِنَّهُ يَعْمَلُ لِلسَّعَادَةِ وَأَمَّا مَنْ كَانَ مِنْ أَهْلِ الشَّقَاءِ فَإِنَّهُ يَعْمَلُ لِلشَّقَاءِ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى وَفِي الْبَابِ عَنْ عَلِيٍّ وَحُذَيْفَةَ بْنِ أَسِيدٍ وَأَنَسٍ وَعِمْرَانَ بْنِ حُصَيْنٍ ‏.‏ وَهَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏",
+        "translations": {
+          "en": "Asim bin 'Ubaidullah said:' I heard Salim bin 'Abdullah narrating a Hadith from his father who said: \"'Umar said : \"O Messenger of Allah! Do you see that what we do is a new matter- or a matter initiated – or it is a matter already concluded?” He (s.a.w) said: “ O Ibn Al-Khattab! It is a matter already concluded. For everyone is suited (for that for which he is created). As for one who is among the people of happiness, then he works for happiness, and as for the one who is among the people of misery, then he works for his misery.” (Hasan)",
+          "ur": "عمر رضی الله عنہ سے روایت ہے کہ انہوں نے عرض کیا: اللہ کے رسول! جو عمل ہم کرتے ہیں اس کے بارے میں آپ کا کیا خیال ہے، وہ نیا شروع ہونے والا امر ہے یا ایسا امر ہے جس سے فراغت ہو چکی ہے؟ ۱؎ آپ نے فرمایا: ”ابن خطاب! وہ ایسا امر ہے جس سے فراغت ہو چکی ہے، اور ہر آدمی کے لیے وہ امر آسان کر دیا گیا ہے ( جس کے لیے وہ پیدا کیا گیا ہے ) ، چنانچہ جو آدمی سعادت مندوں میں سے ہے وہ سعادت والا کام کرتا ہے اور جو بدبختوں میں سے ہے وہ بدبختی والا کام کرتا ہے“۔ امام ترمذی کہتے ہیں: ۱- یہ حدیث حسن صحیح ہے، ۲- اس باب میں علی، حذیفہ بن اسید، انس اور عمران بن حصین رضی الله عنہم سے بھی احادیث آئی ہیں۔",
+          "id": "Telah menceritakan kepada kami [Bundar]; telah menceritakan kepada kami ['Abdurrahman bin Mahdi]; telah menceritakan kepada kami [Syu'bah] dari ['Ashim bin 'Ubaidullah] dia berkata; aku mendengar [Salim bin 'Abdullah] bercerita dari [bapaknya], dia berkata; Umar pernah bertanya, \"Wahai Rasulullah bagaimana pendapatmu apakah kami melakukan sesuatu yang diada-adakan atau sesuatu yang baru (belum ditentukan takdirnya) atau sesuatu yang sudah ditetapkan takdirnya?\" Maka beliau pun menjawab: \"Sesuatu yang sudah ditetapkan atas takdirnya, wahai Ibnul Khaththab, dan setiap orang akan dimudahkan, adapun orang yang termasuk Ahlu Sa'adah (orang yang berbahagia) maka dia akan beramal untuk kebahagiaan, sedangkan orang yang termasuk ahlu saqa' (orang yang celaka) maka dia akan beramal untuk kecelakaan.\" Abu Isa berkata; Dalam bab ini ada hadits dari Ali, Hudzaifah bin Asid, Anas dan Imran bin Hushain. Dan hadits ini adalah hadits hasan shahih",
+          "tr": "Abdullah b. Ömer (r.a.)’den rivâyete göre, şöyle demiştir: “Ömer: Ey Allah’ın Rasûlü! Dedi; Yapmakta olduğumuz işlerin yeni meydana gelmiş bir iş mi? Yoksa önceden takdir edilip bizim de onu şimdi yaşadığımız kanaatinde misiniz?” Rasûlullah (s.a.v.) şöyle buyurdu: “Ey Hattâb oğlu Ömer önceden takdir edilip tamamlanan bir iş için çalışıp çabalıyoruz. Herkes kendisine takdir edilen işi kolaylıkla başaracaktır. Ne varki; mutluluk ehlinden olan şüphesiz mutluluk için çalışıp çabalayacaktır, Bedbaht yani mutsuz olanlar ise mutsuzluk için çalışıp çabalayacaktır.” Tirmizî rivâyet etmiştir. Tirmizî: Bu konuda Ali, Huzeyfe b. Üseyd, Enes, Imrân b. Husayn’dan da hadis rivâyet edilmiştir. Bu hadis hasen sahihtir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 32,
+        "hadith": 3
+      }
+    },
+    {
+      "hadithNumber": 2136,
+      "arabicNumber": 2136,
+      "book": 32,
+      "hadithInBook": 4,
+      "text": {
+        "arabic": "حَدَّثَنَا الْحَسَنُ بْنُ عَلِيٍّ الْحُلْوَانِيُّ،قَالَ حَدَّثَنَا عَبْدُ اللَّهِ بْنُ نُمَيْرٍ، وَوَكِيعٌ، عَنِ الأَعْمَشِ، عَنْ سَعْدِ بْنِ عُبَيْدَةَ، عَنْ أَبِي عَبْدِ الرَّحْمَنِ السُّلَمِيِّ، عَنْ عَلِيٍّ، قَالَ بَيْنَمَا نَحْنُ مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم وَهُوَ يَنْكُتُ فِي الأَرْضِ إِذْ رَفَعَ رَأْسَهُ إِلَى السَّمَاءِ ثُمَّ قَالَ ‏\"‏ مَا مِنْكُمْ مِنْ أَحَدٍ إِلاَّ قَدْ عُلِمَ وَقَالَ وَكِيعٌ إِلاَّ قَدْ كُتِبَ مَقْعَدُهُ مِنَ النَّارِ وَمَقْعَدُهُ مِنَ الْجَنَّةِ ‏\"‏ ‏.‏ قَالُوا أَفَلاَ نَتَّكِلُ يَا رَسُولَ اللَّهِ قَالَ ‏\"‏ لاَ اعْمَلُوا فَكُلٌّ مُيَسَّرٌ لِمَا خُلِقَ لَهُ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏",
+        "translations": {
+          "en": "Ali narrated:\"We were with the Messenger of Allah (s.a.w) and he was scraping the ground, when he raised his head to the heavens, then said: 'There is not one of you but (his place) is known' – Waki said: 'His place has been decreed (be it) in the Fire, and (or) his place in Paradise.' They said: 'Shall we not rely upon this O Messenger of Allah?' He said: 'No. Work, for everyone is facilitated for what he was created.'”(Sahih)",
+          "ur": "علی رضی الله عنہ کہتے ہیں کہ ہم لوگ رسول اللہ صلی اللہ علیہ وسلم کے پاس بیٹھے ہوئے تھے، آپ زمین کرید رہے تھے کہ اچانک آپ نے آسمان کی طرف اپنا سر اٹھایا پھر فرمایا: ”تم میں سے کوئی آدمی ایسا نہیں ہے جس کا حال معلوم نہ ہو، ( وکیع کی روایت میں ہے: تم میں سے کوئی آدمی ایسا نہیں جس کی جنت یا جہنم کی جگہ نہ لکھ دی گئی ہو ) ، صحابہ نے عرض کیا: اللہ کے رسول! کیا ہم لوگ ( تقدیر کے لکھے ہوئے پر ) بھروسہ نہ کر لیں؟ آپ نے فرمایا: ”نہیں، تم لوگ عمل کرو اس لیے کہ ہر آدمی کے لیے وہ چیز آسان کر دی گئی ہے جس کے لیے وہ پیدا کیا گیا ہے“۔ امام ترمذی کہتے ہیں: یہ حدیث حسن صحیح ہے۔",
+          "id": "Telah menceritakan kepada kami [Al Hasan bin 'Ali Al Hulwani]; telah menceritakan kepada kami ['Abdullah bin Numair] dan [Waki'] dari [Al A'masy] dari [Sa'd bin 'Ubaidah] dari [Abu 'Abdurrahman As Sulami] dari ['Ali] dia berkata; Ketika kami bersama Rasulullah shallallahu 'alaihi wasallam yang saat itu beliau sedang menunduk ke tanah. Tiba-tiba, beliau mengangkat kepalanya ke arah langit kemudian bersabda: \"Tidak seorang pun dari kalian, kecuali telah diketahui (takdir) -nya.\" Waki' berkata, \"Kecuali telah ditulis tempat duduknya, apakah dari neraka ataukah dari surga.\" Para sahabat kemudian bertanya, \"Kalau begitu, bukankah lebih baik kita bertawakkal saja wahai Rasulullah?\" beliau menjawab: \"Tidak! Beramallah kalian, sebab, setiap orang akan dimudahkan terhadap sesuatu yang telah diciptakan baginya.\" Abu Isa berkata; Ini adalah hadits hasan shahih",
+          "tr": "Ali (r.a.)’den rivâyet edildiğine göre, şöyle demiştir: Rasûlullah (s.a.v.) ile beraber olduğumuz bir sırada elindeki değnekle yeri eşelerken birden bire başını göğe kaldırdı ve şöyle buyurdu: “Hiçbir kimse yoktur ki Cennet’teki yeri ve Cehennem’deki yeri bilinmemiş olsun Vekî’: Takdir edilmemiş olsun diyor.” Ashab: “Ey Allah’ın Rasûlü! O halde işi oluruna bırakıp Allah’a tevekkül mü? Edelim” deyince: Rasûlullah (s.a.v.) şöyle buyurdu: “Hayır çalışıp çabalayın herkes yaratıldığı şeyi kolaylıkla başaracaktır.” Diğer tahric: Buhârî, Cenaiz; Müslim, Kader Tirmizî: Bu hadis hasen sahihtir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 32,
+        "hadith": 4
+      }
+    },
+    {
+      "hadithNumber": 2137,
+      "arabicNumber": 2137,
+      "book": 32,
+      "hadithInBook": 5,
+      "text": {
+        "arabic": "حَدَّثَنَا هَنَّادٌ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، قَالَ عَنِ الأَعْمَشِ، عَنْ زَيْدِ بْنِ وَهْبٍ، عَنْ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ، قَالَ حَدَّثَنَا رَسُولُ اللَّهِ صلى الله عليه وسلم وَهُوَ الصَّادِقُ الْمَصْدُوقُ ‏ \"‏ إِنَّ أَحَدَكُمْ يُجْمَعُ خَلْقُهُ فِي بَطْنِ أُمِّهِ فِي أَرْبَعِينَ يَوْمًا ثُمَّ يَكُونُ عَلَقَةً مِثْلَ ذَلِكَ ثُمَّ يَكُونُ مُضْغَةً مِثْلَ ذَلِكَ ثُمَّ يُرْسِلُ اللَّهُ إِلَيْهِ الْمَلَكَ فَيَنْفُخُ فِيهِ وَيُؤْمَرُ بِأَرْبَعٍ يَكْتُبُ رِزْقَهُ وَأَجَلَهُ وَعَمَلَهُ وَشَقِيٌّ أَوْ سَعِيدٌ فَوَالَّذِي لاَ إِلَهَ غَيْرُهُ إِنَّ أَحَدَكُمْ لَيَعْمَلُ بِعَمَلِ أَهْلِ الْجَنَّةِ حَتَّى مَا يَكُونُ بَيْنَهُ وَبَيْنَهَا إِلاَّ ذِرَاعٌ ثُمَّ يَسْبِقُ عَلَيْهِ الْكِتَابُ فَيُخْتَمُ لَهُ بِعَمَلِ أَهْلِ النَّارِ فَيَدْخُلُهَا وَإِنَّ أَحَدَكُمْ لَيَعْمَلُ بِعَمَلِ أَهْلِ النَّارِ حَتَّى مَا يَكُونُ بَيْنَهُ وَبَيْنَهَا إِلاَّ ذِرَاعٌ ثُمَّ يَسْبِقُ عَلَيْهِ الْكِتَابُ فَيُخْتَمُ لَهُ بِعَمَلِ أَهْلِ الْجَنَّةِ فَيَدْخُلُهَا ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى وَهَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏ حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، حَدَّثَنَا الأَعْمَشُ، حَدَّثَنَا زَيْدُ بْنُ وَهْبٍ، عَنْ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ، قَالَ حَدَّثَنَا رَسُولُ اللَّهِ صلى الله عليه وسلم فَذَكَرَ مِثْلَهُ ‏.‏ وَهَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏ وَقَدْ رَوَى شُعْبَةُ وَالثَّوْرِيُّ عَنِ الأَعْمَشِ نَحْوَهُ ‏.‏ قَالَ أَبُو عِيسَى وَفِي الْبَابِ عَنْ أَبِي هُرَيْرَةَ وَأَنَسٍ ‏.‏ وَسَمِعْتُ أَحْمَدَ بْنَ الْحَسَنِ قَالَ سَمِعْتُ أَحْمَدَ بْنَ حَنْبَلٍ يَقُولُ مَا رَأَيْتُ بِعَيْنِي مِثْلَ يَحْيَى بْنِ سَعِيدٍ الْقَطَّانِ و هذا حديث حسن صحيح. وقد روى شعبة والثوري عن عن الأعمش نحوه. حَدَّثَنَا مُحَمَّدُ بْنُ الْعَلاَءِ، حَدَّثَنَا وَكِيعٌ، عَنِ الأَعْمَشِ، عَنْ زَيْدٍ، نَحْوَهُ ‏.‏",
+        "translations": {
+          "en": "Abdullah bin Mas'ud said:The Messenger of Allah (s.a.w) narrated to us - and he is the truthful and entrusted one: 'Indeed the creation of one of you is gathered inside his mother in forty days. Then, for a similar period, he is a clot. Then, for a similar period, he is a piece of flesh. Then Allah sends the angel to him to blow the soul into him, and he is ordered to write four (things): To write his provision, his life-span, his works, and whether he will be wretched or happy. By the One besides Whom there is none other worthy of worship! One of you will do deeds of the people of Paradise, until there is between him and it but a forearm span, then he is overcome by what is written for him, and he is sealed off with the deeds of the people of the Fire, so that he enters it. And indeed one of you will do deeds of the people of the Fire, until there is between him and it but a forearm span, then he is overcome by what is written for him, and he is sealed off with the deeds of the people of Paradise, so that he enters it.'\" Another chain reports a similar narration",
+          "ur": "عبداللہ بن مسعود رضی الله عنہ کہتے ہیں کہ ہم سے صادق و مصدوق رسول اللہ صلی اللہ علیہ وسلم نے بیان کیا ۱؎، ”تم میں سے ہر آدمی اپنی ماں کے پیٹ میں چالیس دن تک نطفہ کی شکل میں رہتا ہے، پھر اتنے ہی دن تک «علقة» ( یعنی جمے ہوئے خون ) کی شکل میں رہتا ہے، پھر اتنے ہی دن تک «مضغة» ( یعنی گوشت کے لوتھڑے ) کی شکل میں رہتا ہے، پھر اللہ تعالیٰ اس کے پاس فرشتہ بھیجتا ہے جو اس کے اندر روح پھونکتا ہے، پھر اسے چار چیزوں ( کے لکھنے ) کا حکم کیا جاتا ہے، چنانچہ وہ لکھتا ہے: اس کا رزق، اس کی موت، اس کا عمل اور یہ چیز کہ وہ «شقي» ( بدبخت ) ہے یا «سعيد» ( نیک بخت ) ، اس ذات کی قسم جس کے سوا کوئی معبود برحق نہیں، تم میں سے کوئی آدمی جنتیوں کا عمل کرتا رہتا ہے یہاں تک کہ اس کے اور جنت کے درمیان ایک گز کا فاصلہ رہ جاتا ہے پھر اس کے اوپر لکھی ہوئی تقدیر غالب آتی ہے اور جہنمیوں کے عمل پر اس کا خاتمہ کیا جاتا ہے۔ لہٰذا وہ جہنم میں داخل ہو جاتا ہے، اور تم میں سے کوئی آدمی جہنمیوں کا عمل کرتا رہتا ہے پھر اس کے اوپر لکھی ہوئی تقدیر غالب آتی ہے اور جنتیوں کے عمل پر اس کا خاتمہ کیا جاتا ہے، لہٰذا وہ جنت میں داخل ہوتا ہے۔",
+          "id": "Telah menceritakan kepada kami [Hannad]; telah menceritakan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dari [Zaid bin Wahb] dari ['Abdullah bin Mas'ud] dia berkata; Rasulullah shallallahu 'alaihi wasallam pernah bercerita kepada kami: \"Sesungguhnya salah seorang di antara kalian, telah dikumpulkan penciptaannya di dalam perut ibunya selama empat puluh hari. Kemudian ia menjadi darah pada empat puluh hari kemudian. Lalu empat puluh hari kemudian segumpal darah. Dan barulah pada saat itu, diutuslah Malaikat untuk meniupkan ruh kepanya. Kemudian ia diperintahkan dengan empat hal. Ditulis rezkinya, ajalnya, amalnya, dan apakah ia akan bahagia ataukah sengsara. Maka demi Dzat yang jiwaku berada di tangan-Nya. Sesungguhnya salah seorang dari kalian ada yang beramal dengan amalan penduduk surga hingga tidak lagi tersisa jarak antara ia dan surga kecuali hanya sejengkal, namun kitab telah mendahuluinya, lalu ia pun ditutup dengan amalan penduduk neraka dan ia pun memasukinya. Dan sungguh, salah seorang dari kalian beramal dengan amalan penduduk neraka hingga tidak ada jarak antara dirinya dengan neraka kecuali hanya sehasta, lalu ia pun didahului oleh kitab, lalu ia pun ditutup dengan amalan penduduk surga, lalu ia memasukinya.\" Abu Isa berkata; Ini adalah hadits hasan shahih. Telah menceritakan kepada kami [Muhammad bin Basysyar]; telah menceritakan kepada kami [Yahya bin Sa'id]; telah menceritakan kepada kami [Al A'masy]; telah menceritakan kepada kami [Zaid bin Wahb] dari ['Abdullah bin Mas'ud] dia berkata; Rasulullah shallallahu 'alaihi wasallam menceritakan kepada kami, dengan hadits semisalnya. Abu Isa berkata; Hadits semakna juga diriwayatkan dari Abu Hurairah dan Anas. Aku mendengar Ahmad bin Al Hasan berkata; Aku mendengar Ahmad bin Hanbal berkata, \"Aku tidak pernah melihat dengan mata kepalaku sendiri seorang seperti Yahya bin Sa'id Al Qaththani. Dan ini adalah hadits Hasan Shahih. [Syu'bah] dan [Ats Tsauri] telah meriwayatkan dari [Al A'masy] semisalnya. Telah menceritakan kepada kami [Muhammad bin Al Ala`] Telah menceritakan kepada kami [Waki'] dari [Al A'masy] dari [Zaid] hadits semisalnya",
+          "tr": "Muhammed b. Beşşâr, Yahya b. Saîd’den, A’meş’den, Zeyd b. Vehb’den ve Abdullah b. Mes’ûd’tan bize aktarmıştır. Abdullah b. Mes’ûd: Rasûlullah (s.a.v.), bize şöyle anlattı diyerek hadisin bir benzerini rivâyet etmiştir. Tirmizî: Bu konuda Ebû Hüreyre, Enes’den de hadis rivâyet edilmiştir. Ahmed b. Hasan’dan işittim. Ahmed b. Hanbel’den şöyle işittiğini söyledi: “Yahya b. Saîd el Kattan gibisini şu gözlerim hiç görmedi.” Bu hadis hasen sahih olup, Şu’be ve Sevrî, Â’meş’den bir benzerini rivâyet etmişlerdir. Muhammed b. Âla, Vekî’ vasıtasıyla Â’meş’den ve Zeyd’den bu hadisin bir benzerini aktarmışlardır"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 32,
+        "hadith": 5
+      }
+    },
+    {
+      "hadithNumber": 2138,
+      "arabicNumber": 2138,
+      "book": 32,
+      "hadithInBook": 6,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى الْقُطَعِيُّ الْبَصْرِيُّ، قال: حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ رَبِيعَةَ الْبُنَانِيُّ، قال: حَدَّثَنَا الأَعْمَشُ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ كُلُّ مَوْلُودٍ يُولَدُ عَلَى الْمِلَّةِ فَأَبَوَاهُ يُهَوِّدَانِهِ أَوْ يُنَصِّرَانِهِ أَوْ يُشَرِّكَانِهِ ‏\"‏ ‏.‏ قِيلَ يَا رَسُولَ اللَّهِ فَمَنْ هَلَكَ قَبْلَ ذَلِكَ قَالَ ‏\"‏ اللَّهُ أَعْلَمُ بِمَا كَانُوا عَامِلِينَ بِهِ ‏\"‏ ‏.‏ حَدَّثَنَا أَبُو كُرَيْبٍ، وَالْحُسَيْنُ بْنُ حُرَيْثٍ، قَالاَ حَدَّثَنَا وَكِيعٌ، عَنِ الأَعْمَشِ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم نَحْوَهُ بِمَعْنَاهُ وَقَالَ ‏\"‏ يُولَدُ عَلَى الْفِطْرَةِ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏ وَقَدْ رَوَاهُ شُعْبَةُ وَغَيْرُهُ عَنِ الأَعْمَشِ عَنْ أَبِي صَالِحٍ عَنْ أَبِي هُرَيْرَةَ عَنِ النَّبِيِّ صلى الله عليه وسلم بِمَعْنَاهُ ‏.‏ وَفِي الْبَابِ عَنِ الأَسْوَدِ بْنِ سَرِيعٍ ‏.‏",
+        "translations": {
+          "en": "Abu Hurairah narrated that the Messenger of Allah (s.a.w) said:\"Every child is born upon the Millah, then his parents make him a Jew, a Christian, or an idolater.\" It was said: \"O Messenger of Allah! What about those who die before that?\" He said: \"Allah knows best what they would have done.\" [Another chain) with similar in meaning, and he said: \"Born upon the Fiirah",
+          "ur": "ابوہریرہ رضی الله عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”ہر بچہ فطرت ( اسلام ) پر پیدا ہوتا ہے ۱؎، پھر اس کے ماں باپ اسے یہودی، نصرانی، یا مشرک بناتے ہیں“ عرض کیا گیا: اللہ کے رسول! جو اس سے پہلے ہی مر جائے؟ ۲؎ آپ نے فرمایا: ”اللہ خوب جانتا ہے کہ وہ کیا عمل کرتے“۔",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Yahya Al Qutha'i Al Bashri]; telah menceritakan kepada kami ['Abdul 'Aziz bin Rabi'ah Al Bunani]; telah menceritakan kepada kami [Al A'masy] dari [Abu Shalih] dari [Abu Hurairah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Setiap anak dilahirkan di atas al millah (agama fithrahnya, Islam), namun, kedua orangtuanyalah yang menjadikannya Yahudi atau Nasrani, atau menjadikannya seorang yang musyrik.\" Kemudian ditanyakanlah pada beliau, \"Wahai Rasulullah, lalu bagaimanakah dengan yang binasa sebelum itu?\" belaiu menjawab: \"Allah-lah yang lebih tahu terhadap apa yang mereka kerjakan.\" Telah menceritakan kepada kami [Abu Kuraib] dan [Al Husain bin Huraits] keduanya berdua berkata; telah menceritakan kepada kami [Waki'] dari [Al A'masy] dari [Abu Shalih] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam sepertinya dan dengan makna yang sama pula dan beliau bersabda: \"Dilahirkan dalam keadaan fithrah.\" Abu Isa berkata; Ini adlah hadits Hasan Shahih. Dan hadits ini telah diriwayatkan pula oleh [Syu'bah] dan selainnya dari [Al A'masy] dari [Abu Shalih] dari [Abu Hurairah] dari Nabi Nabi shallallahu 'alaihi wasallam, ia pun menyebutkan; \"Dilahirkan dalam keadaan fithrah.\" Hadits semakna juga diriwayatkan dari Al Aswad bin Sari",
+          "tr": "Ebû Hüreyre (radıyallahü anh)’den rivâyete göre, Rasûlüllah (sallallahü aleyhi ve sellem) şöyle buyurdu: “Her doğan İslam milleti üzere doğar Anne ve babası onu Yahudî, Hıristiyan ve Müşrik yaparlar. Denildi ki: Ya Yahudî Hıristiyan ve müşrik olmadan önce ölenler? Rasûlüllah (sallallahü aleyhi ve sellem), onlar yaşamış olsalardı onların ne yapacaklarını Allah en iyi bilendir.” (Müslim, Kader:)"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Bukhari And Muslim"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 32,
+        "hadith": 6
+      }
+    },
+    {
+      "hadithNumber": 2139,
+      "arabicNumber": 2139,
+      "book": 32,
+      "hadithInBook": 7,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ حُمَيْدٍ الرَّازِيُّ، وَسَعِيدُ بْنُ يَعْقُوبَ، قَالاَ حَدَّثَنَا يَحْيَى بْنُ الضُّرَيْسِ، عَنْ أَبِي مَوْدُودٍ، عَنْ سُلَيْمَانَ التَّيْمِيِّ، عَنْ أَبِي عُثْمَانَ النَّهْدِيِّ، عَنْ سَلْمَانَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ لاَ يَرُدُّ الْقَضَاءَ إِلاَّ الدُّعَاءُ وَلاَ يَزِيدُ فِي الْعُمُرِ إِلاَّ الْبِرُّ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى وَفِي الْبَابِ عَنْ أَبِي أُسَيْدٍ ‏.‏ وَهَذَا حَدِيثٌ حَسَنٌ غَرِيبٌ مِنْ حَدِيثِ سَلْمَانَ لاَ نَعْرِفُهُ إِلاَّ مِنْ حَدِيثِ يَحْيَى بْنِ الضُّرَيْسِ ‏.‏ وَأَبُو مَوْدُودٍ اثْنَانِ أَحَدُهُمَا يُقَالُ لَهُ فِضَّةٌ وَهُوَ الَّذِي رَوَى هَذَا الْحَدِيثَ اسْمُهُ فِضَّةٌ بَصْرِيٌّ وَالآخَرُ عَبْدُ الْعَزِيزِ بْنُ أَبِي سُلَيْمَانَ أَحَدُهُمَا بَصْرِيٌّ وَالآخَرُ مَدَنِيٌّ وَكَانَا فِي عَصْرٍ وَاحِدٍ وابو مودود الذي روى هذا الحديث أسمه فضة بصري. ‏",
+        "translations": {
+          "en": "Salman narrated that the Messenger of Allah (s.a.w) said:\"Nothing turns back the Decree except supplication, and nothing increases the life-span except righteousness",
+          "ur": "سلمان رضی الله عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”دعا کے سوا کوئی چیز تقدیر کو نہیں ٹالتی ہے ۱؎ اور نیکی کے سوا کوئی چیز عمر میں اضافہ نہیں کرتی ہے“ ۲؎۔ امام ترمذی کہتے ہیں: ۱- یہ حدیث سلمان کی روایت سے حسن غریب ہے، ۲- اس باب میں ابواسید سے بھی روایت ہے، ۳- ہم اسے صرف یحییٰ بن ضریس کی روایت سے جانتے ہیں، ۴- ابومودود دو راویوں کی کنیت ہے، ایک کو فضہ کہا جاتا ہے، اور یہ وہی ہیں جنہوں نے یہ حدیث روایت کی ہے، ان کا نام فضہ ہے اور دوسرے ابومودود کا نام عبدالعزیز بن ابوسلیمان ہے، ان میں سے ایک بصرہ کے رہنے والے ہیں اور دوسرے مدینہ کے، دونوں ایک ہی دور میں تھے۔",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Humaid Ar Razi] dan [Sa'id bin Ya'qub] mereka berdua berkata; telah menceritakan kepada kami [Yahya bin Adh Dhurais] dari [Abu Maudud] dari [Sulaiman At Taimi] dari [Abu 'Utsman An Nahdi] dari [Salman] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Tidak ada yang dapat mencegah takdir kecuali do'a dan tidak ada yang bisa menambah umur kecuali amal kebajikan.\" Abu Isa berkata; Hadits semakna juga diriwayatkan dari Abu Asid. Hadits ini adalah hasan gharib dari hadits Salman, kami tidak mengetahuinya kecuali dari hadits Yahya bin Ad Durais, adapun Abu Maudud ada dua orang salah satunya yang terkenal dengan sebutan Fiddah yaitu orang yang meriwayatkan hadits ini namanya Fidldlah Bashri, sedangkan yang lainnya bernama Abdul Aziz bin Abu Sulaiman, yang satu orang Bashrah, sedangkan yang lainnya orang Madinah dan keduanya hidup dalam satu masa"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 32,
+        "hadith": 7
+      }
+    },
+    {
+      "hadithNumber": 2140,
+      "arabicNumber": 2140,
+      "book": 32,
+      "hadithInBook": 8,
+      "text": {
+        "arabic": "حَدَّثَنَا هَنَّادٌ، قال حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ، عَنْ أَبِي سُفْيَانَ، عَنْ أَنَسٍ، قَالَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يُكْثِرُ أَنْ يَقُولَ ‏\"‏ يَا مُقَلِّبَ الْقُلُوبِ ثَبِّتْ قَلْبِي عَلَى دِينِكَ ‏\"‏ ‏.‏ فَقُلْتُ يَا رَسُولَ اللَّهِ آمَنَّا بِكَ وَبِمَا جِئْتَ بِهِ فَهَلْ تَخَافُ عَلَيْنَا قَالَ ‏\"‏ نَعَمْ إِنَّ الْقُلُوبَ بَيْنَ أَصْبُعَيْنِ مِنْ أَصَابِعِ اللَّهِ يُقَلِّبُهَا كَيْفَ يَشَاءُ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى وَفِي الْبَابِ عَنِ النَّوَّاسِ بْنِ سَمْعَانَ وَأُمِّ سَلَمَةَ وَعَبْدِ اللَّهِ بْنِ عَمْرٍو وَعَائِشَةَ ‏.‏ وَهَذَا حَدِيثٌ حَسَنٌ وَهَكَذَا رَوَى غَيْرُ وَاحِدٍ عَنِ الأَعْمَشِ عَنْ أَبِي سُفْيَانَ عَنْ أَنَسٍ ‏.‏ وَرَوَى بَعْضُهُمْ عَنِ الأَعْمَشِ عَنْ أَبِي سُفْيَانَ عَنْ جَابِرٍ عَنِ النَّبِيِّ صلى الله عليه وسلم ‏.‏ وَحَدِيثُ أَبِي سُفْيَانَ عَنْ أَنَسٍ أَصَحُّ ‏.‏",
+        "translations": {
+          "en": "Anas narrated:\"The Messenger of Allah (s.a.w) would often say: Ya Muqallibal-qulub, thabbit qalbi 'ala dinik('O Changer of the Hearts! Strengthen my heart upon Your Religion.)' So I said: 'O Prophet of Allah! We believe in you and what you have come with, but do you fear for us?' He said: 'Yes. Indeed the hearts are between two Fingers of Allah's Fingers, He changes them as He wills",
+          "ur": "انس رضی الله عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم اکثر یہ دعا پڑھتے تھے «يا مقلب القلوب ثبت قلبي على دينك» ”اے دلوں کے الٹنے پلٹنے والے میرے دل کو اپنے دین پر ثابت رکھ“، میں نے عرض کیا: اللہ کے رسول! ہم لوگ آپ پر اور آپ کی لائی ہوئی شریعت پر ایمان لے آئے کیا آپ کو ہمارے سلسلے میں اندیشہ رہتا ہے؟ آپ نے فرمایا: ”ہاں، لوگوں کے دل اللہ کی انگلیوں میں سے دو انگلیوں کے درمیان ہیں جیسا چاہتا ہے انہیں الٹتا پلٹتا رہتا ہے“۔ امام ترمذی کہتے ہیں: ۱- یہ حدیث حسن ہے، ۲- کئی لوگوں نے اسی طرح «عن الأعمش عن أبي سفيان عن أنس» کی سند سے روایت کی ہے۔ بعض لوگوں نے «عن الأعمش عن أبي سفيان عن جابر عن النبي صلى الله عليه وسلم» کی سند سے روایت کی ہے، لیکن ابوسفیان کی حدیث جو انس سے مروی ہے زیادہ صحیح ہے، ۳- اس باب میں نواس بن سمعان، ام سلمہ، عبداللہ بن عمرو اور عائشہ رضی الله عنہم سے بھی احادیث آئی ہیں۔",
+          "id": "Telah menceritakan kepada kami [Hannad]; telah menceritakan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dari [Abu Sufyan] dari [Anas] dia berkata; adalah Rasulullah shallallahu 'alaihi wasallam terbiasa membaca do'a \"YA MUQALLIBAL QULUUB TSABBIT QALBII 'ALAA DIINIKA (wahai Dzat yang membolak balikkan hati teguhkanlah hatiku berada di atas agamamu).\" Kemudian aku pun bertanya, \"Wahai Rasulullah, kami beriman kepadamu dan kepada apa yang Anda bawa. Lalu apakah Anda masih khawatir kepada kami?\" beliau menjawab: \"Ya, karena sesungguhnya hati manusia berada di antara dua genggaman tangan Allah yang Dia bolak-balikkan menurut yang dikehendaki-Nya.\" Abu Isa berkata; Hadits semakna juga diriwayatkan dari An Nawwas bin Sam'an, Ummu Salamah, Abdullah bin Amr dan A'isyah. Dan ini adalah hadits Hasan, demikianlah kebanyakan telah meriwayatkannya dari Al A'masy dari Abu Sufyan dari Anas, dan sebagian yang lainnya telah meriwayatkannya dari [Al A'masy] dari [Abu Sufyan] dari [Jabir] dari Nabi shallallahu 'alaihi wasallam, namun hadits Abu Sufyan dari Anas lebih shahih",
+          "tr": "Enes (radıyallahü anh)’den rivâyete göre, şöyle demiştir: Rasûlüllah (sallallahü aleyhi ve sellem), sık sık “Ey kalpleri halden hale değiştiren Allah’ım kalbimi dinin üzere sabit kıl demeyi çokça yapardı. Ey Allah’ın Rasûlü dedim sana ve getirdiğin şeriata inandık bu durumda hala bizim hakkımızda korkuyor musun? Rasûlüllah (sallallahü aleyhi ve sellem) buyurdu ki: Evet çünkü kalpler Allah’ın iki parmağı arasındadır, onları dilediği şekilde evirip çevirir.” (Müslim, Kader: 3) Bu konuda Nevvâs b. Sem’an, Ümmü Seleme, Abdullah b. Amr ve Âişe’den de hadis rivâyet edilmiştir. Bu hadis hasendir. Aynı şekilde pek çok kişi bu hadisi böylece Â’meş’den, Ebû Sûfyân’dan ve Enes’den rivâyet etmişlerdir. Bazıları da Â’meş’den, Ebû Sûfyân’dan, Câbir’den rivâyet etmişlerdir. Ebû Sûfyân’ın Enes’den rivâyeti daha sahihtir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 32,
+        "hadith": 8
+      }
+    },
+    {
+      "hadithNumber": 2141,
+      "arabicNumber": 2141,
+      "book": 32,
+      "hadithInBook": 9,
+      "text": {
+        "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، قال: حَدَّثَنَا اللَّيْثُ، عَنْ أَبِي قَبِيلٍ، عَنْ شُفَىِّ بْنِ مَاتِعٍ، عَنْ عَبْدِ اللَّهِ بْنِ عَمْرِو بْنِ الْعَاصِي، قَالَ خَرَجَ عَلَيْنَا رَسُولُ اللَّهِ صلى الله عليه وسلم وَفِي يَدِهِ كِتَابَانِ فَقَالَ ‏\"‏ أَتَدْرُونَ مَا هَذَانِ الْكِتَابَانِ ‏\"‏ ‏.‏ فَقُلْنَا لاَ يَا رَسُولَ اللَّهِ إِلاَّ أَنْ تُخْبِرَنَا ‏.‏ فَقَالَ لِلَّذِي فِي يَدِهِ الْيُمْنَى ‏\"‏ هَذَا كِتَابٌ مِنْ رَبِّ الْعَالَمِينَ فِيهِ أَسْمَاءُ أَهْلِ الْجَنَّةِ وَأَسْمَاءُ آبَائِهِمْ وَقَبَائِلِهِمْ ثُمَّ أُجْمِلَ عَلَى آخِرِهِمْ فَلاَ يُزَادُ فِيهِمْ وَلاَ يُنْقَصُ مِنْهُمْ أَبَدًا ‏\"‏ ‏.‏ ثُمَّ قَالَ لِلَّذِي فِي شِمَالِهِ ‏\"‏ هَذَا كِتَابٌ مِنْ رَبِّ الْعَالَمِينَ فِيهِ أَسْمَاءُ أَهْلِ النَّارِ وَأَسْمَاءُ آبَائِهِمْ وَقَبَائِلِهِمْ ثُمَّ أُجْمِلَ عَلَى آخِرِهِمْ فَلاَ يُزَادُ فِيهِمْ وَلاَ يُنْقَصُ مِنْهُمْ أَبَدًا ‏\"‏ ‏.‏ فَقَالَ أَصْحَابُهُ فَفِيمَ الْعَمَلُ يَا رَسُولَ اللَّهِ إِنْ كَانَ أَمْرٌ قَدْ فُرِغَ مِنْهُ فَقَالَ ‏\"‏ سَدِّدُوا وَقَارِبُوا فَإِنَّ صَاحِبَ الْجَنَّةِ يُخْتَمُ لَهُ بِعَمَلِ أَهْلِ الْجَنَّةِ وَإِنْ عَمِلَ أَىَّ عَمَلٍ وَإِنَّ صَاحِبَ النَّارِ يُخْتَمُ لَهُ بِعَمَلِ أَهْلِ النَّارِ وَإِنْ عَمِلَ أَىَّ عَمَلٍ ‏\"‏ ‏.‏ ثُمَّ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم بِيَدَيْهِ فَنَبَذَهُمَا ثُمَّ قَالَ ‏\"‏ فَرَغَ رَبُّكُمْ مِنَ الْعِبَادِ فَرِيقٌ فِي الْجَنَّةِ وَفَرِيقٌ فِي السَّعِيرِ ‏\"‏ ‏.‏ حَدَّثَنَا قُتَيْبَةُ حَدَّثَنَا بَكْرُ بْنُ مُضَرَ عَنْ أَبِي قَبِيلٍ نَحْوَهُ ‏.‏ قَالَ أَبُو عِيسَى وَفِي الْبَابِ عَنِ ابْنِ عُمَرَ ‏.‏ وَهَذَا حَدِيثٌ حَسَنٌ غَرِيبٌ صَحِيحٌ ‏.‏ وَأَبُو قَبِيلٍ اسْمُهُ حُيَىُّ بْنُ هَانِئٍ ‏.‏",
+        "translations": {
+          "en": "Abdullah bin 'Amr narrated:\"The Messenger of Allah (s.a.w) came out to us with two books in hand. And he said: 'Do you know what these two books are?' We said: 'No, O Messenger of Allah ! Unless you inform us.' He said about the one that was in his right hand: 'This is a book from the Lord of the worlds, in it are the names of the people of Paradise, and the name of their fathers and their tribes. Then there is a summary at the end of them, there being no addition to them nor deduction from them forever.' Then he said about the one that was in his left: 'This is a book from the Lord of the worlds, in it are the names of the people of Fire, and the name of their fathers and their tribes. Then there is a summary at the end of them, there being no addition to them nor deduction from them forever.' The companions said: 'So why work O Messenger of Allah! Since the matter is already decided (and over)?' He said: 'Seek to do what is right and draw nearer, for indeed the inhabitant of Paradise, shall have his work sealed off with the deeds of the people of Paradise, whichever deeds he did. And indeed the inhabitant of Fire, shall have his work sealed off with the deeds of the people of Fire, whichever deeds he did.' Then the Messenger of Allah motioned with his hands, casting them down and said: 'Your Lord finished with the slaves, a group in Paradise, and a group in the Blazing Fire.'\" Another chain reports a similar narration",
+          "ur": "عبداللہ بن عمرو بن عاص رضی الله عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم ( ایک بار ) ہماری طرف نکلے اس وقت آپ کے ہاتھ میں دو کتابیں تھیں۔ آپ نے پوچھا: ”تم لوگ جانتے ہو یہ دونوں کتابیں کیا ہیں؟“ ہم لوگوں نے کہا: نہیں، سوائے اس کے کہ آپ ہمیں بتا دیں۔ داہنے ہاتھ والی کتاب کے بارے میں آپ نے فرمایا: ”یہ رب العالمین کی کتاب ہے، اس کے اندر جنتیوں، ان کے آباء و اجداد اور ان کے قبیلوں کے نام ہیں، پھر آخر میں ان کا میزان ذکر کر دیا گیا ہے۔ لہٰذا ان میں نہ تو کسی کا اضافہ ہو گا اور نہ ان میں سے کوئی کم ہو گا“، پھر آپ نے بائیں ہاتھ والی کتاب کے بارے میں فرمایا: ”یہ رب العالمین کی کتاب ہے، اس کے اندر جہنمیوں، ان کے آباء و اجداد اور ان کے قبیلوں کے نام ہیں اور آخر میں ان کا میزان ذکر کر دیا گیا ہے، اب ان میں نہ تو کسی کا اضافہ ہو گا اور نہ ان میں سے کوئی کم ہو گا۔ صحابہ نے عرض کیا: اللہ کے رسول! پھر عمل کس لیے کریں جب کہ اس معاملہ سے فراغت ہو چکی ہے؟ آپ نے فرمایا: ”سیدھی راہ پر چلو اور میانہ روی اختیار کرو، اس لیے کہ جنتی کا خاتمہ جنتی کے عمل پہ ہو گا، اگرچہ اس سے پہلے وہ جو بھی عمل کرے اور جہنمی کا خاتمہ جہنمی کے عمل پہ ہو گا اگرچہ اس سے پہلے وہ جو بھی عمل کرے“، پھر رسول اللہ صلی اللہ علیہ وسلم نے اپنے دونوں ہاتھوں سے اشارہ کیا، پھر ان دونوں کتابوں کو پھینک دیا اور فرمایا: ”تمہارا رب بندوں سے فارغ ہو چکا ہے، ایک فریق جنت میں جائے گا اور ایک فریق جہنم میں جائے گا“۔",
+          "id": "Telah menceritakan kepada kami [Qutaibah]; telah menceritakan kepada kami [Al Laits] dari [Abu Qabil] dari [Syufayyi bin Mati'] dari ['Abdullah bin 'Amr bin Al 'Ash] dia berkata; Rasulullah shallallahu 'alaihi wasallam keluar menemui kami sementara di tangan beliau terdapat dua kitab. Kemudian beliau pun bertanya: \"Apakah kalian tahu kitab apakah kedua kitab ini?\" Maka kami pun menjawab: \"Tidak wahai Rasulullah, kecuali Anda mengabarkannya pada kami.\" Akhirnya beliau pun bersabda terkait dengan kitab yang berada pada tangan kanannya: \"Ini adalah kitab yang berasal dari Rabb semesta alam. Di dalamnya terdapat nama-nama penduduk surga dan juga nama-nama orang tua serta kabilah mereka. Jumlahnya telah ditutup dengan orang yang terakhir dari mereka, dan tidak akan ditambah dan jumlah mereka tidak pula dikurangi lagi.\" Kemudian beliau bersabda terkait dengan kitab yang berada di tangan kirinya: \"Adapun ini, ia adalah kitab yang juga berasal dari Rabb semesta alam. Di dalamnya telah tercantum nama-nama penghuni neraka, dan juga nama-nama bapak mereka serta kabilah mereka, dan telah dijumlah dengan orang yang terakhir dari mereka. Sehingga jumlah mereka tidak lagi akan bertambah dan tidak pula akan berkurang selama-lamanya.\" Kemudian para sahabat pun berkata, \"Kalau begitu, dimanakah letaknya amalan wahai Rasulullah jika memang perkara sudah habis?\" beliau menjawab: \"Berusahalah dan mendekatlah, karena sesungguhnya penduduk surga akan ditutup dengan amalan penduduk ahli surga, meskipun ia mengamalkan amalan apa saja. Dan sesungguhnya penduduk neraka akan ditutup pula dengan amalan penduduk neraka, meskipun ia mengerjakan amalan apa saja.\" Kemudian Rasulullah shallallahu 'alaihi wasallam bersabda dengan kedua tangannya lalu menghempaskannya dan bersabda: \"Sesungguhnya Allah telah selesai terhadap urusan para hamba-Nya. Satu golongan di dalam surga dan satu kelompok pula di dalam neraka.\" Telah menceritakan kepada kami [Qutaibah]; telah menceritakan kepada kami [Bakr bin Mudhar] dari [Abu Qabil] dengan hadits semisalnya. Abu Isa berkata; Hadits semakna juga diriwayatkan dari Ibnu Umar. Dan hadits ini adalah Hasan Shahih Gharib. Abu Qabil, namanya adalah Huyaiy bin Hani",
+          "tr": "Abdullah b. Amr b. As’tan rivâyete göre, şöyle demiştir: Rasûlüllah (sallallahü aleyhi ve sellem) bir gün elinde iki kitap olduğu halde çıkageldi ve şöyle buyurdu: Bu iki kitabın ne olduğunu biliyor musunuz? Biz de hayır Ey Allah’ın Rasûlü! Sen bize bildirirsen biliriz dedik. Bunun üzerine sağ elindeki kitap için; bu kitap alemlerin rabbinden bir kitap olup Cennetlik kimselerin isimleri babalarının isimleri ve kabilelerin isimleri bu kitaptadır. Cennetliklerin sonuncusuna varıncaya kadar yazılmış ve toplanmıştır. Bunların sayısı artırılıp eksiltilmeyecektir. Sonra sol elindeki kitap için, bu kitap ta alemlerin Rabbin’den bir kitap olup Cehennemlik kimselerin, babalarının ve kabilelerinin isimlerini içermekte olup Cehennemliklerin sonuncusuna varıncaya kadar yazılmış ve toplanmıştır. Bunların sayısı da artırılıp eksiltilmeyecektir, buyurdu. Bunun üzerine Rasûlüllah (sallallahü aleyhi ve sellem)’in ashabı Ey Allah’ın Rasûlü! Dediler. Durum önceden tamamlanmış ve bitirilmiş ise çalışıp çabalamamız ne işe yarar? Rasûlüllah (sallallahü aleyhi ve sellem) şöyle buyurdu: Dosdoğru olun! Hayırlı amellerinizi artırın. Çünkü Cennetlik kişinin ameli hangi işi işlerse işlesin Cennetlik kişilerin ameliyle son bulacaktır. Cehenneme girecek kimse de hangi ameli işlemiş olursa olsun onun ameli de Cehennemlik kişilerin amelleriyle son bulacaktır. Sonra Rasûlüllah (sallallahü aleyhi ve sellem), O iki kitabı elinden bıraktı ve şöyle buyurdu: “Rabbiniz kulların yapacakları her şeyi bildiğinden dolayı ona göre kaderlerini yazıp bitirmiştir. Bir kısmı Cennetlik bir kısmı da Cehennemlik olacaktır.” (İbn Mâce, Mukaddime: 10) Bekir b. Mudar vasıtasıyla Ebû Kâbîl’den bu hadisin bir benzerini bize rivâyet etmiştir. Bu konuda İbn Ömer’den de hadis rivâyet edilmiştir. Bu hadis hasen garibtir. Kâbîl’in ismi: Hubey b. Hânî’dir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 32,
+        "hadith": 9
+      }
+    },
+    {
+      "hadithNumber": 2142,
+      "arabicNumber": 2142,
+      "book": 32,
+      "hadithInBook": 10,
+      "text": {
+        "arabic": "حَدَّثَنَا عَلِيُّ بْنُ حُجْرٍ، قال: حَدَّثَنَا إِسْمَاعِيلُ بْنُ جَعْفَرٍ، عَنْ حُمَيْدٍ، عَنْ أَنَسٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ إِذَا أَرَادَ اللَّهُ بِعَبْدٍ خَيْرًا اسْتَعْمَلَهُ ‏\"‏ ‏.‏ فَقِيلَ كَيْفَ يَسْتَعْمِلُهُ يَا رَسُولَ اللَّهِ قَالَ ‏\"‏ يُوَفِّقُهُ لِعَمَلٍ صَالِحٍ قَبْلَ الْمَوْتِ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏",
+        "translations": {
+          "en": "Anas narrated that the Messenger of Allah (s.a.w) said:\"When Allah wants good for a slave, He puts him in action.\" It was said: \"How does he put him in action O Messenger Of Allah?\" He said: \"By making him meet up with the righteous deeds before death",
+          "ur": "انس رضی الله عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”جب اللہ تعالیٰ کسی بندے کے ساتھ بھلائی کا ارادہ کرتا ہے تو اس سے عمل کراتا ہے“، عرض کیا گیا: اللہ کے رسول! کیسے عمل کراتا ہے؟ آپ نے فرمایا: ”موت سے پہلے اسے عمل صالح کی توفیق دیتا ہے“۔ امام ترمذی کہتے ہیں: یہ حدیث حسن صحیح ہے۔",
+          "id": "Telah menceritakan kepada kami ['Ali bin Hujr]; telah menceritakan kepada kami [Isma'il bin Ja'far] dari [Humaid] dari [Anas] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Apabila Allah menghendaki kebaikan bagi seorang hamba, maka Dia akan menggunakannya.\" Lalu ditanyakanlah pada beliau, \"Bagaimanakah Allah menggunakannya wahai Rasulullah?\" beliau menjawab: \"Dia akan memberinya taufiq untuk beramal shalih sebelum dijemput kematian.\" Abu Isa berkata; Ini adalah hadits hasan shahih",
+          "tr": "Enes (r.a.)’den rivâyete göre, şöyle demiştir: Rasûlullah (s.a.v.) şöyle buyurdu: “Allah bir kulu hakkında hayır isterse o kulunu kullanır. Bunun üzerine, Ey Allah’ın Rasûlü! Denildi, O kulu nasıl kullanır? Rasûlullah (s.a.v.): “Ölümünden önce onu Salih amel işlemeye muvaffak kılar” buyurdular. Diğer tahric: İbn Mâce, Mukaddime Tirmizî: Bu hadis hasen sahihtir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 32,
+        "hadith": 10
+      }
+    },
+    {
+      "hadithNumber": 2143,
+      "arabicNumber": 2143,
+      "book": 32,
+      "hadithInBook": 11,
+      "text": {
+        "arabic": "حَدَّثَنَا بُنْدَارٌ، قال: حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ، حَدَّثَنَا سُفْيَانُ، عَنْ عُمَارَةَ بْنِ الْقَعْقَاعِ، حَدَّثَنَا أَبُو زُرْعَةَ بْنُ عَمْرِو بْنِ جَرِيرٍ، قَالَ حَدَّثَنَا صَاحِبٌ، لَنَا عَنِ ابْنِ مَسْعُودٍ، قَالَ قَامَ فِينَا رَسُولُ اللَّهِ صلى الله عليه وسلم فَقَالَ ‏\"‏ لاَ يُعْدِي شَيْءٌ شَيْئًا ‏\"‏ ‏.‏ فَقَالَ أَعْرَابِيٌّ يَا رَسُولَ اللَّهِ الْبَعِيرُ الْجَرِبُ الْحَشَفَةُ نُدْبِنُهُ فَيُجْرِبُ الإِبِلَ كُلَّهَا ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ فَمَنْ أَجْرَبَ الأَوَّلَ لاَ عَدْوَى وَلاَ صَفَرَ خَلَقَ اللَّهُ كُلَّ نَفْسٍ وَكَتَبَ حَيَاتَهَا وَرِزْقَهَا وَمَصَائِبَهَا ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى وَفِي الْبَابِ عَنْ أَبِي هُرَيْرَةَ وَابْنِ عَبَّاسٍ وَأَنَسٍ ‏.‏ قَالَ وَسَمِعْتُ مُحَمَّدَ بْنَ عَمْرِو بْنِ صَفْوَانَ الثَّقَفِيَّ الْبَصْرِيَّ قَالَ سَمِعْتُ عَلِيَّ بْنَ الْمَدِينِيِّ يَقُولُ لَوْ حَلَفْتُ بَيْنَ الرُّكْنِ وَالْمَقَامِ لَحَلفْتُ أَنِّي لَمْ أَرَ أَحَدًا أَعْلَمَ مِنْ عَبْدِ الرَّحْمَنِ بْنِ مَهْدِيٍّ ‏.‏",
+        "translations": {
+          "en": "Ibn Mas'ud narrated:\"The Messenger of Allah (s.a.w) stood among us and said: 'One thing does not infect another.' So a Bedouin said: 'O Messenger of Allah! If a camel gets mangy glands and we leave it at the resting place of camels, then all of the camels get mange?' The Messenger of Allah (s.a.w) said: 'Who caused the first to get mange? There is no 'Adwa nor safar. Allah created every soul, so he wrote its life, its provision, and its afflictions.'\" Note: The majority of scholars interpret this to mean that these things in and of themselves do not transmit or cause harm through supernatural or hidden means but that Allah is ultimately in control and any fearful superstition around these is false",
+          "ur": "عبداللہ بن مسعود رضی الله عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم ہمارے درمیان کھڑے ہوئے اور فرمایا: ”کسی کی بیماری دوسرے کو نہیں لگتی“، ایک اعرابی ( بدوی ) نے عرض کیا: اللہ کے رسول! خارشتی شرمگاہ والے اونٹ سے ( جب اسے باڑہ میں لاتے ہیں ) تو تمام اونٹ ( کھجلی والے ) ہو جاتے ہیں“، رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”پھر پہلے کو کس نے کھجلی دی؟ کسی کی بیماری دوسرے کو نہیں لگتی ہے اور نہ ماہ صفر کی نحوست کی کوئی حقیقت ہے، اللہ تعالیٰ نے ہر نفس کو پیدا کیا ہے اور اس کی زندگی، رزق اور مصیبتوں کو لکھ دیا ہے“ ۱؎۔ امام ترمذی کہتے ہیں: اس باب میں ابوہریرہ، ابن عباس اور انس رضی الله عنہم سے بھی احادیث آئی ہیں۔",
+          "id": "Telah menceritakan kepada kami [Bundar]; telah menceritakan kepada kami ['Abdurrahman bin Mahdi]; telah menceritakan kepada kami [Sufyan] dari ['Umarah bin Al Qa'qa']; telah menceritakan kepada kami [Abu Zur'ah bin 'Amr bin Jarir] dia berkata; [seorang sahabat kami] telah menceritakan kepada kami dari [Ibnu Mas'ud] dia berkata; Rasulullah shallallahu 'alaihi wasallam berdiri dihadapan kami lalu bersabda: \"Sesuatu tidak dapat menular kepada sesuatu yang lain.\" Lantas, berkatalah seorang Arab Badui, \"Wahai Rasulullah, bagaimana dengan kemaluan Unta yang berkudis melalui ekornya kemudian menjalar keseluruh Unta?\" Maka Rasulullah shallallahu 'alaihi wasallam pun menjawab: \"Siapakah yang menjadikan kudis pertama? Tidak ada penyakit dan cacing yang menular, Allah telah menciptakan setiap yang bernyawa dan telah mencatat hidupnya, rizkinya, dan musibah musibahnya.\" Abu Isa berkata; Hadits semakna juga diriwayatkan dari Abu Hurairah, Ibnu Abbas dan Anas. Dan aku telah mendengar Muhammad bin Amr bin Sufyan Ats Tsaqafi Al Bashri berkata; Aku mendengar Ali bin Al Madini berkata, \"Seandainya aku bersumpah di antara rukun (Hajar Aswad) dan maqam (maqam Ibrahim) pasti aku akan bersumpah bahwa sesungguhnya aku tidak pernah melihat seseorang yang lebih alim (pandai) dari Abdur Rahman bin Mahdi",
+          "tr": "İbn Mes’ûd (r.a.)’den rivâyete göre, şöyle demiştir: Rasûlullah (s.a.v.) aramızda otururken kalkıp bir hutbe verdi ve şöyle dedi: “Bulaşıcılık yoktur.” Bir bedevi dedi ki: Uyuz bir deveyi ağıla alıyoruz sonunda tüm develer uyuz oluyor. Rasûlullah (s.a.v.) şöyle buyurdu: Peki ilk deveyi uyuz yapan kimdir? Bulaşıcılık ve uğursuzluk diye bir şey yoktur. Allah her canlıyı yaratmış onun hayatını rızkını ve başına geleceklerini de takdir etmiştir. Tirmizî rivâyet etmiştir. Tirmizî: Bu konuda Ebû Hüreyre, İbn Abbâs ve Enes’den de hadis rivâyet edilmiştir. Tirmizî: Basralı Muhammed b. Amr b. Safvân es Sekafî’den işittim Ali b. Medînî’nin şöyle söylediğini işittiğini bize aktardı: “Bana rükün ile makam arasında yemin ettirilse Abdurrahman b. Mehdî’den daha âlim bir kimse görmediğine yemin ederim.” Mahir: Bulaşıcı hastalığın olduğu bilinmektedir, Nebi s.a.v.'in söylediği ama yanlış anlaşılan şudur; Hastalık kendi başına bir güç değildir, onu yaratan kim'e isabet edeceğini takdir eden ALLAH C.C. dur. İnsanoğlu bu tür hastalığa karşı tedbir de almalıdır. Tedbir takdiri değiştirir mi dersen, hayır değiştirmez ama takdirin ne olduğunu da biz bilmeyiz ve zaten biz dünyada bize verilen iradeyle izin verilen ölçüde hareket edip ahiret'e hazırlanmakla görevliyiz, bilim adamlarının çabaları bu izin verilen sınırları aşamayacaktır, önce birşey bulduklarını sanmakta daha ilerledikçe de duvar'a toslamaktalar. Bilenleriniz, lazarus etkisini, fizik ile quantum fiziği arasındaki çelişkiyi bir araştırsın"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 32,
+        "hadith": 11
+      }
+    },
+    {
+      "hadithNumber": 2144,
+      "arabicNumber": 2144,
+      "book": 32,
+      "hadithInBook": 12,
+      "text": {
+        "arabic": "حَدَّثَنَا أَبُو الْخَطَّابِ، زِيَادُ بْنُ يَحْيَى الْبَصْرِيُّ حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَيْمُونٍ، عَنْ جَعْفَرِ بْنِ مُحَمَّدٍ، عَنْ أَبِيهِ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ لاَ يُؤْمِنُ عَبْدٌ حَتَّى يُؤْمِنَ بِالْقَدَرِ خَيْرِهِ وَشَرِّهِ حَتَّى يَعْلَمَ أَنَّ مَا أَصَابَهُ لَمْ يَكُنْ لِيُخْطِئَهُ وَأَنَّ مَا أَخْطَأَهُ لَمْ يَكُنْ لِيُصِيبَهُ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى وَفِي الْبَابِ عَنْ عُبَادَةَ وَجَابِرٍ وَعَبْدِ اللَّهِ بْنِ عَمْرٍو ‏.‏ وَهَذَا حَدِيثٌ غَرِيبٌ لاَ نَعْرِفُهُ إِلاَّ مِنْ حَدِيثِ عَبْدِ اللَّهِ بْنِ مَيْمُونٍ ‏.‏ وَعَبْدُ اللَّهِ بْنُ مَيْمُونٍ مُنْكَرُ الْحَدِيثِ ‏.‏",
+        "translations": {
+          "en": "Jabir bin 'Abdullah narrated that the Messenger of Allah (s.a.w) said:'A slave (of Allah) shall not believe until he believes in Al-Qadar, its good and its bad, such that he knows that what struck him would not have missed him, and that what missed him would not have struck him",
+          "ur": "جابر بن عبداللہ رضی الله عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”کوئی بندہ مومن نہیں ہو سکتا یہاں تک کہ اچھی اور بری تقدیر پر ایمان لے آئے، اور یہ یقین کر لے کہ جو کچھ اسے لاحق ہوا ہے چوکنے والا نہ تھا اور جو کچھ چوک گیا ہے اسے لاحق ہونے والا نہ تھا“۔ امام ترمذی کہتے ہیں: ۱- یہ حدیث غریب ہے، ہم اسے صرف عبداللہ بن میمون کی روایت سے جانتے ہیں، ۲- عبداللہ بن میمون منکر حدیث ہیں، ۳- اس باب میں عبادہ، جابر اور عبداللہ بن عمرو رضی الله عنہم سے بھی احادیث آئی ہیں۔",
+          "id": "Telah menceritakan kepada kami [Abul Khaththab Ziyad bin Yahya Al Bashri]; telah menceritakan kepada kami ['Abdullah bin Maimun] dari [Ja'far bin Muhammad] dari [bapaknya] dari [Jabir bin 'Abdullah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Seorang hamba tidak dikatakan beriman sampai dia mengimani tentang takdir yang baik dan takdir yang buruk, sampai dia mengetahui bahwa apa yang menimpanya tidak mungkin akan meleset darinya, dan sesuatu yang tidak ditetapkan atasnya tidak akan mungkin mengenainya.\" Abu Isa berkata; Hadits semakna juga diriwayatkan dari Ubadah, Jabir dan Abdullah bin Amr, dan ini adalah hadits gharib, kami tidak mengetahuinya kecuali dari hadits Abdullah bin Maymun, sedangkan Abdullah bin Maymun adalah seorang Munkarul Hadits (Hadits haditsnya munkar)",
+          "tr": "Câbir b. Abdullah (r.a.)’den rivâyete göre, Rasûlullah (s.a.v.) şöyle buyurdu: “Bir kul hayır ve şerrin Allah’tan olduğuna iman etmedikçe; hatta başına gelen bir şeyin kendisinden şaşırıp başka bir tarafa gitmeyeceğine kendisini atlayan bir şeyin de kendisine dönüp gelmesine imkan olmadığına kesinlikle bilmedikçe gerçek imana erişmiş olamaz.” Tirmizî rivâyet etmiştir. Tirmizî: Bu konuda Ubade, Câbir, Abdullah b. Amr’dan da hadis rivâyet edilmiştir. Bu hadis garib olup sadece Abdullah b. Meymun’un rivâyetiyle bilmekteyiz. Abdullah b. Meymûn ise münker hadisler aktaran birisidir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 32,
+        "hadith": 12
+      }
+    },
+    {
+      "hadithNumber": 2145,
+      "arabicNumber": 2145,
+      "book": 32,
+      "hadithInBook": 13,
+      "text": {
+        "arabic": "حَدَّثَنَا مَحْمُودُ بْنُ غَيْلاَنَ، قال: حَدَّثَنَا أَبُو دَاوُدَ، قَالَ أَنْبَأَنَا شُعْبَةُ، عَنْ مَنْصُورٍ، عَنْ رِبْعِيِّ بْنِ حِرَاشٍ، عَنْ عَلِيٍّ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ لاَ يُؤْمِنُ عَبْدٌ حَتَّى يُؤْمِنَ بِأَرْبَعٍ يَشْهَدُ أَنْ لاَ إِلَهَ إِلاَّ اللَّهُ وَأَنِّي مُحَمَّدٌ رَسُولُ اللَّهِ بَعَثَنِي بِالْحَقِّ وَيُؤْمِنُ بِالْمَوْتِ وَبِالْبَعْثِ بَعْدَ الْمَوْتِ وَيُؤْمِنُ بِالْقَدَرِ ‏\"‏ ‏.‏ حَدَّثَنَا مَحْمُودُ بْنُ غَيْلاَنَ، حَدَّثَنَا النَّضْرُ بْنُ شُمَيْلٍ، عَنْ شُعْبَةَ، نَحْوَهُ إِلاَّ أَنَّهُ قَالَ رِبْعِيٌّ عَنْ رَجُلٍ، عَنْ عَلِيٍّ، ‏.‏ قَالَ أَبُو عِيسَى حَدِيثُ أَبِي دَاوُدَ عَنْ شُعْبَةَ، عِنْدِي أَصَحُّ مِنْ حَدِيثِ النَّضْرِ وَهَكَذَا رَوَى غَيْرُ وَاحِدٍ عَنْ مَنْصُورٍ عَنْ رِبْعِيٍّ عَنْ عَلِيٍّ ‏.‏ حَدَّثَنَا الْجَارُودُ قَالَ سَمِعْتُ وَكِيعًا يَقُولُ بَلَغَنَا أَنَّ رِبْعِيًّا لَمْ يَكْذِبْ فِي الإِسْلاَمِ كِذْبَةً ‏.‏",
+        "translations": {
+          "en": "Ali narrated that the Messenger of Allah (s.a.w) said:'A slave (of Allah) shall not believe until he believes in four: The testimony of La Ilaha Illallah, and that I am the Messenger of Allah whom He sent with the Truth, and he believes in the death, and he believes in the Resurrection after death, and he believes in Al-Qadar.\" Another chain reports a similar narration",
+          "ur": "علی رضی الله عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”کوئی بندہ چار چیزوں پر ایمان لائے بغیر مومن نہیں ہو سکتا: ( ۱ ) گواہی دے کہ اللہ کے سوا کوئی معبود برحق نہیں اور میں اللہ کا رسول ہوں، اس نے مجھے حق کے ساتھ بھیجا ہے، ( ۲ ) موت پر ایمان لائے، ( ۳ ) مرنے کے بعد دوبارہ اٹھائے جانے پر ایمان لائے، ( ۴ ) تقدیر پر ایمان لائے“۔",
+          "id": "Telah menceritakan kepada kami [Mahmud bin Ghailan]; telah menceritakan kepada kami [Abu Dawud]; dia berkata; telah memberitakan kepada kami [Syu'bah] dari [Manshur] dari [Rib'i bin Hirasy] dari ['Ali] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Tidaklah beriman seorang hamba sehingga dia mengimani empat hal; Bersaksi bahwasanya tidak ada Ilah (yang berhak disembah) selain Allah dan aku adalah Muhammad utusan Allah yang Dia utus dengan membawa Al Haq (kebenaran), beriman kepada adanya kematian, beriman kepada adanya hari kebangkitan setelah kematian, dan beriman kepada taqdir.\" Telah menceritakan kepada kami [Mahmud bin Ghailan]; telah menceritakan kepada kami [An Nadhr bin Syumail] dari [Syu'bah] dengan hadits semisalnya. Hanya saja ia menyebutkan; Dari [Rib'i] dari [seorang laki-laki] dari [Ali]. Abu Musa berkata; Haditsnya Abu Dawud dari Syu'bah, menurutku adalah lebih shahih daripada hadits An Nadlr. Dan seperti ini pula yang telah diriwayatkan oleh lebih dari satu orang perawi dari [Manshur] dari [Rib'i] dari ['Ali]. Telah menceritakan kepada kami Al Jarud dia berkata; aku mendengar Waki' berkata; telah sampai kepada kami bahwasanya Rib'i tidak berdusta dalam Islam sekali pun"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 32,
+        "hadith": 13
+      }
+    },
+    {
+      "hadithNumber": 2146,
+      "arabicNumber": 2146,
+      "book": 32,
+      "hadithInBook": 14,
+      "text": {
+        "arabic": "حَدَّثَنَا بُنْدَارٌ, قَالَ: حَدَّثَنَا مُؤَمَّلٌ، قَالَ: حَدَّثَنَا سُفْيَانُ، عَنْ أَبِي إِسْحَاقَ، عَنْ مَطَرِ بْنِ عُكَامِسٍ، قَالَ: قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ إِذَا قَضَى اللَّهُ لِعَبْدٍ أَنْ يَمُوتَ بِأَرْضٍ جَعَلَ لَهُ إِلَيْهَا حَاجَةً ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى وَفِي الْبَابِ عَنْ أَبِي عَزَّةَ ‏.‏ وَهَذَا حَدِيثٌ حَسَنٌ غَرِيبٌ ‏.‏ وَلاَ يُعْرَفُ لِمَطَرِ بْنِ عُكَامِسٍ عَنِ النَّبِيِّ صلى الله عليه وسلم غَيْرُ هَذَا الْحَدِيثِ. حَدَّثَنَا مَحْمُودُ بْنُ غَيْلاَنَ، حَدَّثَنَا مُؤَمَّلٌ، وَأَبُو دَاوُدَ الْحَفَرِيُّ عَنْ سُفْيَانَ، نَحْوَهُ ‏.‏",
+        "translations": {
+          "en": "Matar bin 'Ukamis narrated that the Messenger of Allah (s.a.w) said:\"When Allah decrees that a slave (of His) is to die in a land, He makes him have some need from it.\" Another chain reports a similar narration",
+          "ur": "مطر بن عکامس رضی الله عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”جب اللہ تعالیٰ کسی بندے کی موت کے لیے کسی زمین کا فیصلہ کر دیتا ہے تو وہاں اس کی کوئی حاجت و ضرورت پیدا کر دیتا ہے“ ۱؎۔ امام ترمذی کہتے ہیں: ۱- یہ حدیث حسن غریب ہے، ۲- مطر بن عکامس کی نبی اکرم صلی اللہ علیہ وسلم سے اس حدیث کے علاوہ کوئی دوسری حدیث نہیں معلوم ہے، ۳- اس باب میں ابوعزہ سے بھی روایت ہے۔",
+          "id": "Telah menceritakan kepada kami [Bundar]; telah menceritakan kepada kami [Muammal]; telah menceritakan kepada kami [Sufyan] dari [Abu Ishaq] dari [Mathar bin 'Ukamis] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Apabila Allah telah menetapkan kematian seseorang bertempat di suatu negeri, maka Allah akan menjadikan ia memiliki kebutuhan di negeri itu.\" Abu Isa berkata; Hadits semakna juga diriwayatkan dari Abu 'Azzah. Dan hadits ini adalah Hasan Gharib, dan Mathar bin Ukamis tidak diketahui memiliki periwayatan dari Nabi shallallahu 'alaihi wasallam selain daripada hadits ini. Telah menceritakan kepada kami [Mahmud bin Ghailan]; telah menceritakan kepada kami [Muammmal] dan [Abu Dawud Al Hafari] dari [Sufyan] dengan hadits semisalnya",
+          "tr": "Matar b. Ukâmis (radıyallahü anh)’den rivâyete göre, Rasûlüllah (sallallahü aleyhi ve sellem) şöyle buyurdu: “Allah bir kulunun bir yerde ölmesine hükmettiği vakit o kulunun işini oraya yöneltir.” (Müsned: 20980) Bu konuda Ebû Azze’den de hadis rivâyet edilmiştir. Bu hadis hasen garibtir. Matar b. Ukâmis’in Rasûlüllah (sallallahü aleyhi ve sellem)’den bundan başka hadis rivâyet ettiğini bilmiyoruz"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 32,
+        "hadith": 14
+      }
+    },
+    {
+      "hadithNumber": 2147,
+      "arabicNumber": 2147,
+      "book": 32,
+      "hadithInBook": 15,
+      "text": {
+        "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ مَنِيعٍ، وَعَلِيُّ بْنُ حُجْرٍ، - الْمَعْنَى وَاحِدٌ قَالاَ حَدَّثَنَا إِسْمَاعِيلُ بْنُ إِبْرَاهِيمَ، عَنْ أَيُّوبَ، عَنْ أَبِي الْمَلِيحِ بْنِ أُسَامَةَ، عَنْ أَبِي عَزَّةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ إِذَا قَضَى اللَّهُ لِعَبْدٍ أَنْ يَمُوتَ بِأَرْضٍ جَعَلَ لَهُ إِلَيْهَا حَاجَةً أَوْ قَالَ بِهَا حَاجَةً ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ صَحِيحٌ ‏.‏ وَأَبُو عَزَّةَ لَهُ صُحْبَةٌ وَاسْمُهُ يَسَارُ بْنُ عَبْدٍ وَأَبُو الْمَلِيحِ اسْمُهُ عَامِرُ بْنُ أُسَامَةَ بْنِ عُمَيْرٍ الْهُذَلِيُّ وَيُقَالُ زَيْدُ بْنُ أُسَامَةَ ‏.‏",
+        "translations": {
+          "en": "Abu 'Azzah narrated that the Messenger of Allah (s.a.w) said:\"When Allah decrees that a slave (of His) is to die in a land, He makes him have some need from it.\" Or, he said: \"In it",
+          "ur": "ابوعزہ رضی الله عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”جب اللہ تعالیٰ کسی بندے کی موت کے لیے کسی زمین کا فیصلہ کر دیتا ہے تو وہاں اس کی کوئی حاجت پیدا کر دیتا ہے“۔ امام ترمذی کہتے ہیں: ۱- یہ حدیث صحیح ہے، ۲- ابوعزہ کو شرف صحبت حاصل ہے اور ان کا نام یسار بن عبد ہے، ۳- راوی ابوملیح کا نام عامر بن اسامہ بن عمیر ہذلی ہے۔ انہیں زید بن اسامہ بھی کہا جاتا ہے۔",
+          "id": "Telah menceritakan kepada kami [Ahmad bin Mani'] dan ['Ali bin Hujr] dengan makna yang satu, mereka berdua berkata; telah menceritakan kepada kami [Isma'il bin Ibrahim] dari [Ayyub] dari [Abul Malih bin Usamah] dari [Abu 'Izzah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Apabila Allah telah menetapkan kematian seorang hamba di suatu negeri, maka Allah jadikan dia mempunyai keperluan kepadanya, atau ada keperluan di dalamnya.\" Abu Isa berkata; Hadits ini Shahih, dan Abu 'Azzah pernah bertemu dengan Nabi shallallahu 'alaihi wasallam, namanya adalah Yasar bin Abd. Sedangkan Abul Malih namanya adalah 'Amir bin Usamah bin Umair Al Hudzali dan dinamakan juga Zaid bin Usamah",
+          "tr": "Ebû Azze (r.a.)’den rivâyete göre, Rasûlullah (s.a.v.) şöyle buyurdu: “Allah bir kulun bir yerde ölmesine hükmetti ise o kimse için oraya veya orada kendisine bir iş çıkarır.” Tirmizî rivâyet etmiştir. Tirmizî: Bu hadis sahihtir. Ebû Azze sahabî olup ismi Yesâr b. Abd’tir. Ebû’l Melih’in ismi ise Âmir b. Üsâme b. Umeyr el Hûzelî’dir, kendisine Zeyd b. Üsâme de denilir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 32,
+        "hadith": 15
+      }
+    },
+    {
+      "hadithNumber": 2148,
+      "arabicNumber": 2148,
+      "book": 32,
+      "hadithInBook": 16,
+      "text": {
+        "arabic": "حَدَّثَنَا سَعِيدُ بْنُ عَبْدِ الرَّحْمَنِ الْمَخْزُومِيُّ، قال: حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنِ الزُّهْرِيِّ، عَنِ ابْنِ أَبِي خُزَامَةَ، عَنْ أَبِيهِ، أَنَّ رَجُلاً، أَتَى النَّبِيَّ صلى الله عليه وسلم فَقَالَ يَا رَسُولَ اللَّهِ أَرَأَيْتَ رُقًى نَسْتَرْقِيهَا وَدَوَاءً نَتَدَاوَى بِهِ وَتُقَاةً نَتَّقِيهَا هَلْ تَرُدُّ مِنْ قَدَرِ اللَّهِ شَيْئًا فَقَالَ ‏ \"‏ هِيَ مِنْ قَدَرِ اللَّهِ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ لاَ نَعْرِفُهُ إِلاَّ مِنْ حَدِيثِ الزُّهْرِيِّ وَقَدْ رَوَى غَيْرُ وَاحِدٍ هَذَا عَنْ سُفْيَانَ عَنِ الزُّهْرِيِّ عَنْ أَبِي خُزَامَةَ عَنْ أَبِيهِ وَهَذَا أَصَحُّ هَكَذَا قَالَ غَيْرُ وَاحِدٍ عَنِ الزُّهْرِيِّ عَنْ أَبِي خُزَامَةَ عَنْ أَبِيهِ ‏.‏",
+        "translations": {
+          "en": "Ibn Abi Khizamah narrated from his father,that a man came to the Prophet(s.a.w) and said:\"O Messenger of Allah! Do you think that the Ruqyah we use, the treatments we use, and what we seek to protect ourselves with prevent anything from Allah's Decree?' He said: 'They are from Allah's Decree",
+          "ur": "ابوخزامہ رضی الله عنہ سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم کے پاس ایک آدمی نے آ کر عرض کیا: اللہ کے رسول! یہ دم جن سے ہم جھاڑ پھونک کرتے ہیں، دوائیں جن سے علاج کرتے ہیں اور بچاؤ کی چیزیں جن سے بچاؤ کرتے ہیں، آپ بتائیے کیا یہ اللہ کی تقدیر میں سے کچھ لوٹا سکتی ہیں؟ آپ نے فرمایا: ”یہ سب بھی تو اللہ کی تقدیر سے ہیں“۔ امام ترمذی کہتے ہیں: ہم اس حدیث کو صرف زہری کی روایت سے جانتے ہیں، کئی لوگوں نے یہ حدیث «عن سفيان عن الزهري عن أبي خزامة عن أبيه» کی سند سے روایت کی ہے، یہ زیادہ صحیح ہے۔ اسی طرح کئی لوگوں نے «عن الزهري عن أبي خزامة عن أبيه» کی سند سے روایت کی ہے۔",
+          "id": "Telah menceritakan kepada kami [Sa'id bin 'Abdurrahman Al Makhzumi]; telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari [Az Zuhri] dari [Ibnu Abu Khuzamah] dari [bapaknya] bahwasanya seorang lelaki mendatangi Nabi shallallahu 'alaihi wasallam dan berkata, \"Wahai Rasulullah, bagaimanakah menurut Anda mengenai Ruqyah yang kita gunakan untuk meruqyah dan juga obat yang kita gunakan untuk berobat, dan hal-hal yang kita takuti, apakah semua itu dapat menolak takdir Allah?\" maka beliau menjawab: \"Hal itu juga termasuk takdir Allah.\" Abu Isa berkata; Hadits ini tidak kami ketahui kecuali dari haditsnya Az Zuhri. Dan hadits ini telah diriwayatkan pula oleh lebih dari seorang perawi dari Sufyan dari Az Zuhri, dari Abu Khuzamah, dari bapaknya. Dan ini lebih shahih. Seperti ini pula yang dikatakan oleh lebih dari seorang dari Az Zuhri dari Abu Khuzamah dari bapaknya",
+          "tr": "Ebû Huzâme (r.a.)’ın babasından rivâyete göre: Bir adam Rasûlullah (s.a.v.)’e geldi ve şöyle dedi: “Ey Allah’ın Rasûlü okumak ve ilaç kullanmak şeklindeki tedavi yollarımız ve yaptığımız perhizlerin Allah’ın kaderinden bir şeyi önleyeceği görüşünde misiniz? Rasûlullah (s.a.v.) onlarda Allah’ın kaderindendir” buyurdu. Diğer tahric: Müslim, Kader Tirmizî: Bu hadisi sadece Zührî’nin rivâyetiyle bilmekteyiz. Pek çok kimse aynı hadisi Sûfyân vasıtasıyla Zührî’den, Ebû Huzâme’den ve babasından rivâyet etmişlerdir ki bu rivâyet daha sağlamdır. Yine değişik kimseler Zührî’den, Ebû Huzâme’den ve babasından aynı hadisi bize rivâyet etmişlerdir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Daif"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 32,
+        "hadith": 16
+      }
+    },
+    {
+      "hadithNumber": 2149,
+      "arabicNumber": 2149,
+      "book": 32,
+      "hadithInBook": 17,
+      "text": {
+        "arabic": "حَدَّثَنَا وَاصِلُ بْنُ عَبْدِ الأَعْلَى الْكُوفِيُّ، قال: حَدَّثَنَا مُحَمَّدُ بْنُ فُضَيْلٍ، عَنِ الْقَاسِمِ بْنِ حَبِيبٍ، وَعَلِيِّ بْنِ نِزَارٍ، عَنْ نِزَارٍ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ صِنْفَانِ مِنْ أُمَّتِي لَيْسَ لَهُمَا فِي الإِسْلاَمِ نَصِيبٌ الْمُرْجِئَةُ وَالْقَدَرِيَّةُ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى وَفِي الْبَابِ عَنْ عُمَرَ وَابْنِ عُمَرَ وَرَافِعِ بْنِ خَدِيجٍ ‏.‏ وَهَذَا حَدِيثٌ غَرِيبٌ حَسَنٌ صَحِيحٌ ‏.‏ حَدَّثَنَا مُحَمَّدُ بْنُ رَافِعٍ، قال: حَدَّثَنَا مُحَمَّدُ بْنُ بِشْرٍ، قال: حَدَّثَنَا سَلاَّمُ بْنُ أَبِي عَمْرَةَ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم ‏.‏ قَالَ مُحَمَّدُ بْنُ رَافِعٍ وَأَخْبَرَنَا مُحَمَّدُ بْنُ بِشْرٍ أَخْبَرَنَا عَلِيُّ بْنُ نِزَارٍ عَنْ نِزَارٍ عَنْ عِكْرِمَةَ عَنِ ابْنِ عَبَّاسٍ عَنِ النَّبِيِّ صلى الله عليه وسلم نَحْوَهُ ‏.‏",
+        "translations": {
+          "en": "Ibn 'Abbas narrated that the Messenger of Allah (s.a.w) said:\"There are two groups in my Ummah for whom there is no share in Islam: The Murji'ah and the Qadariyyah.\" Another chain reports a similar narration",
+          "ur": "عبداللہ بن عباس رضی الله عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”میری امت کے دو قسم کے لوگوں کے لیے اسلام میں کوئی حصہ نہیں ہے: ( ۱ ) مرجئہ ( ۲ ) قدریہ“ ۱؎۔ امام ترمذی کہتے ہیں: ۱- یہ حدیث حسن صحیح غریب ہے، ۲- اس باب میں عمر، ابن عمر اور رافع بن خدیج رضی الله عنہم سے بھی احادیث آئی ہیں۔",
+          "id": "Telah menceritakan kepada kami [Washil bin 'Abdul A'la Al Kufi]; telah menceritakan kepada kami [Muhammad bin Fudhail] dari [Al Qasim bin Habib] dan ['Ali bin Nizar] dari [Nizar] dari ['Ikrimah] dari [Ibnu 'Abbas] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Dua kelompok dari ummatku yang keduanya tidak termasuk bagian dari Islam yaitu Al Qadariyah dan Murji'ah.\" Abu Isa berkata; Hadits semakna juga diriwayatkan dari Umar, Ibnu Umar dan Rafi' bin Khadij, dan hadits ini hasan gharib. Telah menceritakan kepada kami [Muhammad bin Rafi']; telah menceritakan kepada kami [Muhammad bin Bisyr]; telah menceritakan kepada kami [Sallam bin Abu 'Amrah] dari ['Ikrimah] dari [Ibnu 'Abbas] dari Nabi shallallahu 'alaihi wasallam. [Muhammad bin Rafi'] berkata; dan telah menceritakan kepada kami [Muhammad bin Bisyr]; telah menceritakan kepada kami ['Ali bin Nizar] dari [Nizar] dari ['Ikrimah] dari [Ibnu 'Abbas] dari Nabi shallallahu 'alaihi wasallam semisalnya",
+          "tr": "İbn Abbâs (r.a.)’den rivâyete göre, Rasûlullah (s.a.v.) şöyle buyurmuştur: “Ümmetimden iki grup vardır ki onların İslam’dan hiçbir payları yoktur; Mürcie ve Kaderiyye.” Diğer tahric: İbn Mâce, Mukaddime Tirmizî: Bu konuda Ömer, İbn Ömer, Rafî’ b. Hadîç’den de hadis rivâyet edilmiştir. Bu hadis garib hasen sahihtir. Muhammed b. Rafî’, Muhammed b. Bişr vasıtasıyla Selam b. ebî Amre’den, İkrime ve İbn Abbâs’tan bu hadisin bir benzerini rivâyet etmiştir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Daif"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 32,
+        "hadith": 17
+      }
+    },
+    {
+      "hadithNumber": 2150,
+      "arabicNumber": 2150,
+      "book": 32,
+      "hadithInBook": 18,
+      "text": {
+        "arabic": "حَدَّثَنَا أَبُو هُرَيْرَةَ، مُحَمَّدُ بْنُ فِرَاسٍ الْبَصْرِيُّ, قال: حَدَّثَنَا أَبُو قُتَيْبَةَ، سَلْمُ بْنُ قُتَيْبَةَ حَدَّثَنَا أَبُو الْعَوَّامِ، عَنْ قَتَادَةَ، عَنْ مُطَرِّفِ بْنِ عَبْدِ اللَّهِ بْنِ الشِّخِّيرِ، عَنْ أَبِيهِ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ مَثَلُ ابْنِ آدَمَ وَإِلَى جَنْبِهِ تِسْعٌ وَتِسْعُونَ مَنِيَّةً إِنْ أَخْطَأَتْهُ الْمَنَايَا وَقَعَ فِي الْهَرَمِ حَتَّى يَمُوتَ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى وَهَذَا حَدِيثٌ حَسَنٌ غَرِيبٌ لاَ نَعْرِفُهُ إِلاَّ مِنْ هَذَا الْوَجْهِ ‏.‏ وَأَبُو الْعَوَّامِ هُوَ عِمْرَانُ وَهُوَ ابْنُ دَاوَرَ الْقَطَّانُ ‏.‏",
+        "translations": {
+          "en": "Mutarrif bin 'Abdullah bin Ash-Shikh-khir narrated from his father, from the Prophet (s.a.w), who said:'Ibn Adam was fashioned with ninety-nine calamities surrounding him, if the calamities miss him, he is stricken by decrepitude until he dies",
+          "ur": "عبداللہ بن شخیر رضی الله عنہ سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: ”ابن آدم کی مثال ایسی ہے کہ اس کے پہلو میں ننانوے آفتیں ہیں اگر وہ ان آفتوں سے بچ گیا تو بڑھاپے میں گرفتار ہو جائے گا یہاں تک کہ اسے موت آ جائے گی“ ۱؎۔ امام ترمذی کہتے ہیں: یہ حدیث حسن غریب ہے۔ ہم اسے صرف اسی سند سے جانتے ہیں۔",
+          "id": "Telah menceritakan kepada kami [Abu Hurairah Muhammad bin Firaz Al Bashri]; telah menceritakan kepada kami [Abu Qutaibah]; telah menceritakan kepada kami [Abul 'Awwam] dari [Qatadah] dari [Mutharrif bin 'Abdullah bin Asy Syikhkhir] dari [bapaknya] dari Nabi shallallahu 'alaihi wasallam, beliau berkata: \"Anak keturunan adam diciptakan sementara di sisinya (menghadang) sembilan puluh sembilan Maniyyah (sebab sebab kematian), jika selamat dari Maniyyah itu, maka dia akan terkena pada penyakit pikun sampai meninggal.\" Abu Isa berkata; Hadits ini hasan gharib, kami tidak mengetahuinya kecuali dari jalur sanad ini, adapun Abul 'Awwam dia adalah Imran dan dia adalah anaknya Daud Al Qaththan",
+          "tr": "Abdullah b. Şıhhîr (r.a.)’in babasından rivâyete göre, Rasûlullah (s.a.v.) şöyle buyurmuştur: “Adem oğlunun her birinin çevresini doksan dokuz ölüm tehlikesi kuşatmış durumdadır. Bu tehlikeleri atlatmış olsa bile ihtiyarlık tehlikesiyle karşı karşıya kalır ve neticede ölür gider.” Tirmizî rivâyet etmiştir. Tirmizî: Bu hadis hasen garibtir. Sadece bu şekliyle bilmekteyiz. Ebûl Avvam, Imrân’ın künyesi olup İbn Dâvûd el Kattan da denilir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 32,
+        "hadith": 18
+      }
+    },
+    {
+      "hadithNumber": 2151,
+      "arabicNumber": 2151,
+      "book": 32,
+      "hadithInBook": 19,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، قال: حَدَّثَنَا أَبُو عَامِرٍ، عَنْ مُحَمَّدِ بْنِ أَبِي حُمَيْدٍ، عَنْ إِسْمَاعِيلَ بْنِ مُحَمَّدِ بْنِ سَعْدِ بْنِ أَبِي وَقَّاصٍ، عَنْ أَبِيهِ، عَنْ سَعْدٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ مِنْ سَعَادَةِ ابْنِ آدَمَ رِضَاهُ بِمَا قَضَى اللَّهُ لَهُ وَمِنْ شَقَاوَةِ ابْنِ آدَمَ تَرْكُهُ اسْتِخَارَةَ اللَّهِ وَمِنْ شَقَاوَةِ ابْنِ آدَمَ سَخَطُهُ بِمَا قَضَى اللَّهُ لَهُ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ غَرِيبٌ لاَ نَعْرِفُهُ إِلاَّ مِنْ حَدِيثِ مُحَمَّدِ بْنِ أَبِي حُمَيْدٍ ‏.‏ وَيُقَالُ لَهُ أَيْضًا حَمَّادُ بْنُ أَبِي حُمَيْدٍ وَهُوَ أَبُو إِبْرَاهِيمَ الْمَدَنِيُّ وَلَيْسَ هُوَ بِالْقَوِيِّ عِنْدَ أَهْلِ الْحَدِيثِ ‏.‏",
+        "translations": {
+          "en": "Sa'd narrated that the Messenger of Allah (s.a.w) said:'From (the signs of) the son of Adam's prosperity, is his satisfaction with what Allah decreed for him, and from the son of Adam's misery is his avoiding to request guidance from Allah, and from the son of Adam's misery is his anger with what Allah decreed for him",
+          "ur": "سعد بن ابی وقاص رضی الله عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”اللہ کے فیصلے پر راضی ہونا ابن آدم کی سعادت ( نیک بختی ) ہے، اللہ سے خیر طلب نہ کرنا ابن آدم کی شقاوت ( بدبختی ) ہے اور اللہ کے فیصلے پر ناراض ہونا ابن آدم کی شقاوت ( بدبختی ) ہے“۔ امام ترمذی کہتے ہیں: ۱- یہ حدیث غریب ہے، ۲- ہم اسے صرف محمد بن ابی حمید کی روایت سے جانتے ہیں، انہیں حماد بن ابی حمید بھی کہا جاتا ہے، ان کی کنیت ابوابراہیم ہے، اور مدینہ کے رہنے والے ہیں، یہ محدثین کے نزدیک قوی نہیں ہیں۔",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Basysyar]; telah menceritakan kepada kami [Abu 'Amir] dari [Muhammad bin Abu Humaid] dari [Isma'il bin Muhammad bin Sa'd bin Abi Waqqash] dari [bapaknya] dari [Sa'd] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Termasuk di antara kebahagiaan anak Adam, adalah rasa ridhanya terhadap apa yang telah Allah tetapkan baginya. Dan termasuk kesengsaraan seorang anak Adam, adalah bila ia meninggalkan istikharah kepada Allah. Dan termasuk kesusahan Ibnu Adam, adalah rasa benci dan tidak menerima terhap apa yang telah Allah tetapkan baginya.\" Abu Isa berkata; Ini adalah hadits gharib, kami tidak mengetahuinya kecuali dari haditsnya Muhammad bin Abu Humaid, dan dipanggil pula Hammad bin Abu Humaid, dan ia dalah Abu Ibrahim Al Madini, dan ia bukanlah seorang rawi yang kuat menurut Ahli hadits",
+          "tr": "Sa’d b. ebî Vakkâs (r.a.)’den rivâyete göre, Rasûlullah (s.a.v.) şöyle buyurdu: “Ademoğlunun, Allah’tan kendisine takdir olunana razı olması onu mutlu eder. Kazaya razı olmayı terk etmesi ise onun bedbahtlığındandır. Yine Allah’tan hayır dilemeyi terk etmesi de bedbahtlığından olup, Allah’ın takdir ettiklerine kızgın olması da yine bedbahtlığındandır. Diğer tahric: Müsned: 1368 Tirmizî: Bu hadis garibtir. Bu hadisi sadece Muhammed b. Humeyd’in rivâyetiyle bilmekteyiz. Bu kimseye Hammad b. ebî Humeyd’de denmektedir. Ebû İbrahim el Medenî’de denilmektedir. Hadisçiler yanında pek sağlam kişi sayılmaz"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Daif"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 32,
+        "hadith": 19
+      }
+    },
+    {
+      "hadithNumber": 2152,
+      "arabicNumber": 2152,
+      "book": 32,
+      "hadithInBook": 20,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، قال: حَدَّثَنَا أَبُو عَاصِمٍ، قال: حَدَّثَنَا حَيْوَةُ بْنُ شُرَيْحٍ، أَخْبَرَنِي أَبُو صَخْرٍ، قَالَ حَدَّثَنِي نَافِعٌ، أَنَّ ابْنَ عُمَرَ، جَاءَهُ رَجُلٌ فَقَالَ إِنَّ فُلاَنًا يَقْرَأُ عَلَيْكَ السَّلاَمَ ‏.‏ فَقَالَ لَهُ إِنَّهُ بَلَغَنِي أَنَّهُ قَدْ أَحْدَثَ فَإِنْ كَانَ قَدْ أَحْدَثَ فَلاَ تُقْرِئْهُ مِنِّي السَّلاَمَ فَإِنِّي سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏ \"‏ يَكُونُ فِي هَذِهِ الأُمَّةِ أَوْ فِي أُمَّتِي الشَّكُّ مِنْهُ خَسْفٌ أَوْ مَسْخٌ أَوْ قَذْفٌ فِي أَهْلِ الْقَدَرِ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ غَرِيبٌ ‏.‏ وَأَبُو صَخْرٍ اسْمُهُ حُمَيْدُ بْنُ زِيَادٍ ‏.‏",
+        "translations": {
+          "en": "Nafi' narrated that a man came to Ibn 'Umar and said:\"So-and-so conveys his Salam to you.\" So he said: \"It has been conveyed to me that he has innovated, so if he has indeed innovated, then do not convey my Salam to him, for I heard the Messenger of Allah (s.a.w) saying: 'In this Ummah' or: 'In my Ummah'\" - the doubt was his - \"a collapse of the earth, or a transformation, or stones shall rain upon the people of Al-Qadr",
+          "ur": "نافع کا بیان ہے کہ ابن عمر رضی الله عنہما کے پاس ایک شخص آیا اور اس نے کہا: فلاں شخص نے آپ کو سلام عرض کیا ہے، اس سے ابن عمر رضی الله عنہما نے کہا: مجھے خبر ملی ہے کہ اس نے دین میں نیا عقیدہ ایجاد کیا ہے، اگر اس نے دین میں نیا عقیدہ ایجاد کیا ہے تو اسے میرا سلام نہ پہنچانا، اس لیے کہ میں نے رسول اللہ صلی اللہ علیہ وسلم کو فرماتے سنا ہے: ”اس امت میں یا میری امت میں، ( یہ شک راوی کی طرف سے ہوا ہے ) تقدیر کا انکار کرنے والوں پر «خسف»،‏‏‏‏ «مسخ» یا «قذف» کا عذاب ہو گا“ ۱؎۔ امام ترمذی کہتے ہیں: ۱- یہ حدیث حسن صحیح غریب ہے، ۲- ابوصخر کا نام حمید بن زیاد ہے۔",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Basysyar]; telah menceritakan kepada kami [Abu 'Ashim]; telah menceritakan kepada kami [Haiwah bin Syuraih]; telah mengabarkan kepadaku [Abu Shakhrah] dia berkata; telah menceritakan kepadaku [Nafi'] bahwasanya; [Ibnu Umar] pernah didatangi seorang lelaki kemudian berkata, \"Sesungguhnya si Fulan menyampaikan salam kepadamu.\" Kemudian Ali berkata kepada laki-laki itu, \"Sesungguhnya telah sampai berita kepadaku bahwa dia telah melakukan sesuatu yang baru (mengada-ada dalam urusan agama), jika dia telah melakukan sesuatu yang baru maka jangan sampaikan salamku kepadanya, karena aku telah mendengar Rosulullah shallallahu 'alaihi wasallam bersabda: 'Akan terjadi peristiwa pada ummat ini atau pada ummatku (kata Aw keraguan dari Tirmidzi) berupa dibinasakan, di ganti bentuknya dan tuduhan terhadap orang orang yang mengingkari takdir.'\" Abu Isa berkata; Hadits ini adalah hasan shahih gharib, dan Abu Shakhr namanya Humaid bin Ziyad",
+          "tr": "Nafi’ (r.a.)’den rivâyete göre: “İbn Ömer’e bir adam gelerek falan kimsenin sana selamı var dedi. Bunun üzerine; Abdullah b. Ömer şöyle dedi: Bana gelen bilgilere göre o kimse dine bid'at sokarak kader'i inkar etmiş biridir. Eğer gerçekten bid'at sokmuş biri ise benden ona selam söyleme; çünkü ben Rasûlullah (s.a.v.)’den bu ümmet'te veya ümmetimde kaderi inkar edenler yüzünden topluca yere batma olayları şekil değişimi şeklindeki belalar ve taşlar altında kalmak gibi felaketler ve yıkıntılar altında kalmak şeklinde toplu ölümler olacaktır.” Diğer tahric: Müslim, Kader; İbn Mâce, Fiten Tirmizî: Bu hadis hasen sahih garibtir. Ebû Sahr’ın ismi Humeyd b. Ziyâd’tır"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 32,
+        "hadith": 20
+      }
+    },
+    {
+      "hadithNumber": 2153,
+      "arabicNumber": 2153,
+      "book": 32,
+      "hadithInBook": 21,
+      "text": {
+        "arabic": "حَدَّثَنَا قُتَيْبَةُ، قال: حَدَّثَنَا رِشْدِينُ بْنُ سَعْدٍ، عَنْ أَبِي صَخْرٍ، حُمَيْدِ بْنِ زِيَادٍ عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، عَنِ النَّبِيِّ صلى الله عليه وسلم ‏ \"‏ يَكُونُ فِي أُمَّتِي خَسْفٌ وَمَسْخٌ وَذَلِكَ فِي الْمُكَذِّبِينَ بِالْقَدَرِ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Ibn 'Umar narrated from the Prophet (s.a.w):\"There will be a collapse of the earth and transformation in my Ummah, and that is for those who deny Al-Qadar",
+          "ur": "عبداللہ بن عمر رضی الله عنہما سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: ”میری امت میں «خسف» اور «مسخ» کا عذاب ہو گا اور یہ عذاب تقدیر کے جھٹلانے والوں پر آئے گا“۔",
+          "id": "Telah menceritakan kepada kami [Qutaibah]; telah menceritakan kepada kami [Risydin bin Sa'd] dari [Abu Shakhr Humaid bin Ziyad] dari [Nafi'] dari [Ibnu 'Umar] dari Nabi shallallahu 'alaihi wasallam bersabda: \"Akan terjadi pada umatku, yaitu kebinasaan. Dan hal itu akan terjadi pada orang-orang yang mengingkari takdir",
+          "tr": "İbn Ömer (r.a.)’den rivâyete göre, Rasûlullah (s.a.v.) şöyle buyurmuştur: “Ümmetim arasında kaderi yalanlayanlar yüzünden topluca yerin dibine girme olayları ve şekil değişimi şeklindeki belalar meydana gelecektir.” Diğer tahric: Müslim, Kader; İbn Mâce, Fiten"
+        }
+      },
+      "grades": [
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 32,
+        "hadith": 21
+      }
+    },
+    {
+      "hadithNumber": 2154,
+      "arabicNumber": 2154,
+      "book": 32,
+      "hadithInBook": 22,
+      "text": {
+        "arabic": "حَدَّثَنَا قُتَيْبَةُ، قال: حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ زَيْدِ بْنِ أَبِي الْمَوَالِي الْمُزَنِيُّ، عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ مَوْهَبٍ، عَنْ عَمْرَةَ، عَنْ عَائِشَةَ، قَالَتْ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ سِتَّةٌ لَعَنْتُهُمْ لَعَنَهُمُ اللَّهُ وَكُلُّ نَبِيٍّ كَانَ الزَّائِدُ فِي كِتَابِ اللَّهِ وَالْمُكَذِّبُ بِقَدَرِ اللَّهِ وَالْمُتَسَلِّطُ بِالْجَبَرُوتِ لِيُعِزَّ بِذَلِكَ مَنْ أَذَلَّ اللَّهُ وَيُذِلَّ مَنْ أَعَزَّ اللَّهُ وَالْمُسْتَحِلُّ لِحَرَمِ اللَّهِ وَالْمُسْتَحِلُّ مِنْ عِتْرَتِي مَا حَرَّمَ اللَّهُ وَالتَّارِكُ لِسُنَّتِي ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَكَذَا رَوَى عَبْدُ الرَّحْمَنِ بْنُ أَبِي الْمَوَالِي هَذَا الْحَدِيثَ عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ مَوْهَبٍ عَنْ عَمْرَةَ عَنْ عَائِشَةَ عَنِ النَّبِيِّ صلى الله عليه وسلم ‏.‏ وَرَوَاهُ سُفْيَانُ الثَّوْرِيُّ وَحَفْصُ بْنُ غِيَاثٍ وَغَيْرُ وَاحِدٍ عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ مَوْهَبٍ عَنْ عَلِيِّ بْنِ حُسَيْنٍ عَنِ النَّبِيِّ صلى الله عليه وسلم مُرْسَلاً وَهَذَا أَصَحُّ ‏.‏",
+        "translations": {
+          "en": "Aishah narrated that the Messenger of Allah (s.a.w) said:\" Six are cursed, being cursed by Allah and by every Prophet that came: The one who adds to Allah's Book, the one who denies Allah's Qadar, the one who rules with tyranny by which he honors whom Allah has debased, and he dishonors whom Allah has honored, and the one who legalizes what Allah forbade, and the one from my family who legalizes what Allah forbade, and the abandoner of my Sunnah",
+          "ur": "ام المؤمنین عائشہ رضی الله عنہا کہتی ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”چھ قسم کے لوگ ایسے ہیں جن پر میں نے، اللہ تعالیٰ نے اور تمام انبیاء نے لعنت بھیجی ہے: اللہ کی کتاب میں اضافہ کرنے والا، اللہ کی تقدیر کو جھٹلانے والا، طاقت کے ذریعہ غلبہ حاصل کرنے والا تاکہ اس کے ذریعہ اسے عزت دے جسے اللہ نے ذلیل کیا ہے، اور اسے ذلیل کرے جسے اللہ نے عزت بخشی ہے، اللہ کی محرمات کو حلال سمجھنے والا، میرے کنبہ میں سے اللہ کی محرمات کو حلال سمجھنے والا اور میری سنت ترک کرنے والا“۔ امام ترمذی کہتے ہیں: عبدالرحمٰن بن ابوموالی نے یہ حدیث اسی طرح «عن عبيد الله ابن عبدالرحمٰن بن موهب عن عمرة عن عائشة عن النبي صلى الله عليه وسلم» کی سند سے روایت کی ہے۔ سفیان ثوری، حفص بن غیاث اور کئی لوگوں نے اسے «عن عبيد الله بن عبدالرحمٰن بن موهب عن علي بن حسين عن النبي صلى الله عليه وسلم» کی سند سے مرسلاً روایت کیا ہے۔ یہ زیادہ صحیح ہے۔",
+          "id": "Telah menceritakan kepada kami [Qutaibah]; telah menceritakan kepada kami ['Abdurrahman bin Zaid bin Abul Mawali Al Muzani] dari ['Ubaidullah bin 'Abdurrahman bin Mauhab] dari ['Amrah] dari ['Aisyah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Tiga orang yang aku, Allah dan setiap Nabi melaknat mereka yaitu orang yang menambah-nambah dalam kitabullah (Al Qur'an), orang yang mengingkari takdir Allah, orang yang berkuasa dengan diktator untuk memuliakan orang yang telah dihinakan oleh Allah dan menghinakan orang yang telah Allah muliakan, orang yang menghalalkan apa apa yang diharamkan Allah, orang yang menghalalkan Ahli Baitku yang telah diharamkan oleh Allah, dan orang yang meninggalkan sunnahku.\" Abu Isa berkata; Demikianlah Abdur Rahman bin Abul Mawali telah meriwayatkan hadits ini dari Ubaidillah bin Abdur Raman bin Mauhab dari 'Amrah dari A'isyah dari Nabi shallallahu 'alaihi wasallam. [Sufyan Ats Tsauri], [Hafs bin Ghiyats] dan yang lainnya telah meriwayatkan dari [Ubaidillah bin Abdur Rahman bin Mauhab] dari [Ali bin Husain] dari Nabi shallallahu 'alaihi wasallam secara mursal, dan ini yang lebih shahih",
+          "tr": "Âişe (radıyallahü anha)’dan rivâyete göre, Rasûlüllah (sallallahü aleyhi ve sellem) şöyle demiştir: “Altı kişi vardır ki, ben, Allah ve her peygamber onları lanetlemiş yani Allah’ın rahmetinden uzak kalmalarını istemiştir. 1- Allah’ın kitabına ilave yapan, 2- Kaderi yalanlayan, 3- Allah’ın alçak saydıklarını yüksek göstermeye çalışan ve yüksek saydıklarını alçaltmaya çaba gösterenzorbalar, 4- Allah’ın haram kıldıklarını helal sayanlar, 5- Ehli beytimden olup yine haramları helal sayanlar, 6- Sünnetimden yüz çevirip sünnetimi terk edenler.” (Tirmizî rivâyet edilmiştir.) Aynı şekilde Abdurrahman b. eb’îl Mevalî’den de hadis rivâyet edilmiştir. Yine bu hadis Ubeydullah b. Abdurrahman b. Mevheb’den, Amre’den ve Âişe’den de rivâyet edilmiştir. Sûfyân es Sevrî, Hafs b. Gıyas ve pek çok kimse bu hadisi Ubeydullah b. Abdurrahman b. Mevhib’den, Ali b. Hüseyin’den mürsel olarak rivâyet etmişlerdir ki bu rivâyet daha sahihtir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 32,
+        "hadith": 22
+      }
+    },
+    {
+      "hadithNumber": 2155,
+      "arabicNumber": 2155,
+      "book": 32,
+      "hadithInBook": 23,
+      "text": {
+        "arabic": "حَدَّثَنَا يَحْيَى بْنُ مُوسَى، قال: حَدَّثَنَا أَبُو دَاوُدَ الطَّيَالِسِيُّ، قال: حَدَّثَنَا عَبْدُ الْوَاحِدِ بْنُ سُلَيْمٍ، قَالَ قَدِمْتُ مَكَّةَ فَلَقِيتُ عَطَاءَ بْنَ أَبِي رَبَاحٍ فَقُلْتُ لَهُ يَا أَبَا مُحَمَّدٍ إِنَّ أَهْلَ الْبَصْرَةِ يَقُولُونَ فِي الْقَدَرِ ‏.‏ قَالَ يَا بُنَىَّ أَتَقْرَأُ الْقُرْآنَ قُلْتُ نَعَمْ ‏.‏ قَالَ فَاقْرَإِ الزُّخْرُفَ ‏.‏ قَالَ فَقَرَأْتُ ‏:‏ ‏(‏حم* وَالْكِتَابِ الْمُبِينِ * إِنَّا جَعَلْنَاهُ قُرْآنًا عَرَبِيًّا لَعَلَّكُمْ تَعْقِلُونَ * وَإِنَّهُ فِي أُمِّ الْكِتَابِ لَدَيْنَا لَعَلِيٌّ حَكِيمٌ ‏)‏ فَقَالَ أَتَدْرِي مَا أُمُّ الْكِتَابِ قُلْتُ اللَّهُ وَرَسُولُهُ أَعْلَمُ ‏.‏ قَالَ فَإِنَّهُ كِتَابٌ كَتَبَهُ اللَّهُ قَبْلَ أَنْ يَخْلُقَ السَّمَوَاتِ وَقَبْلَ أَنْ يَخْلُقَ الأَرْضَ فِيهِ إِنَّ فِرْعَوْنَ مِنْ أَهْلِ النَّارِ وَفِيهِ ‏:‏ ‏(‏تَبَّتْ يَدَا أَبِي لَهَبٍ وَتَبَّ ‏)‏ قَالَ عَطَاءٌ فَلَقِيتُ الْوَلِيدَ بْنَ عُبَادَةَ بْنِ الصَّامِتِ صَاحِبِ رَسُولِ اللَّهِ صلى الله عليه وسلم فَسَأَلْتُهُ مَا كَانَ وَصِيَّةُ أَبِيكَ عِنْدَ الْمَوْتِ قَالَ دَعَانِي أَبِي فَقَالَ لِي يَا بُنَىَّ اتَّقِ اللَّهَ وَاعْلَمْ أَنَّكَ لَنْ تَتَّقِيَ اللَّهَ حَتَّى تُؤْمِنَ بِاللَّهِ وَتُؤْمِنَ بِالْقَدَرِ كُلِّهِ خَيْرِهِ وَشَرِّهِ فَإِنْ مُتَّ عَلَى غَيْرِ هَذَا دَخَلْتَ النَّارَ إِنِّي سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\"‏ إِنَّ أَوَّلَ مَا خَلَقَ اللَّهُ الْقَلَمَ فَقَالَ اكْتُبْ ‏.‏ فَقَالَ مَا أَكْتُبُ قَالَ اكْتُبِ الْقَدَرَ مَا كَانَ وَمَا هُوَ كَائِنٌ إِلَى الأَبَدِ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى وَهَذَا حَدِيثٌ غَرِيبٌ مِنْ هَذَا الْوَجْهِ ‏.‏",
+        "translations": {
+          "en": "Abdul-Wahid bin Sulaim narrated:\"I arrived in Makkah and met 'Ata bin Abi Rabah. I said to him: 'O Abu Muhammad! The people of Al-Basrah speak about Al-Qadar.' He said: 'O my son! Do you recite the Quran?' I said: 'Yes.' He said: 'Then recite Az-Zukhruf to me.'\" He said: 'So I recited: Ha Mim. By the manifest Book. Verily, We have made it a Qur'an in Arabic that you may be able to understand. And verily, it is in the Mother of Book with Us, indeed exalted, full of wisdom. Then he said: 'Do you know what Mother of Books is?' I said: 'Allah and His Messenger know better.' He said:'It is a book that Allah wrote before He created the Heavens, and before He created the earth. In it, it is (written): Fir'awn is among the inhabitants of the Fire, and in it is: Perish the two hands of Abu Lahab, and perish he!'Ata said: 'I met Al-Walid the son of 'Ubadah bin As-Samit the Companion of the Messenger of Allah (s.a.w) and asked him:'What was your father's admonition when he died?\" He said:\"He called me and said: 'O my son ! Have Taqwa of Allah, and know that you will never have Taqwa of Allah until you believe in Allah, and you believe in Al-Qadar- all of it-its good and its bad. If you die upon other than this you shall enter the Fire. Indeed I heard the Messenger of Allah (s.a.w) saying: \"Verily the first of what Allah created was the Pen. So He said: 'Write.' It said : 'What shall I write?' He said : 'Write Al-Qadar, what it is , and what shall be, until the end",
+          "ur": "عبدالواحد بن سلیم کہتے ہیں کہ میں مکہ گیا تو عطاء بن ابی رباح سے ملاقات کی اور ان سے کہا: ابو محمد! بصرہ والے تقدیر کے سلسلے میں ( برسبیل انکار ) کچھ گفتگو کرتے ہیں، انہوں نے کہا: بیٹے! کیا تم قرآن پڑھتے ہو؟ میں نے کہا: ہاں، انہوں نے کہا: سورۃ الزخرف پڑھو، میں نے پڑھا: «حم والكتاب المبين إنا جعلناه قرآنا عربيا لعلكم تعقلون وإنه في أم الكتاب لدينا لعلي حكيم» ”حم، قسم ہے اس واضح کتاب کی، ہم نے اس کو عربی زبان کا قرآن بنایا ہے کہ تم سمجھ لو، یقیناً یہ لوح محفوظ میں ہے، اور ہمارے نزدیک بلند مرتبہ حکمت والی ہے“ ( الزخرف: ۱-۴ ) پڑھی، انہوں نے کہا: جانتے ہو ام الکتاب کیا ہے؟ میں نے کہا: اللہ اور اس کے رسول زیادہ جانتے ہیں، انہوں نے کہا: وہ ایک کتاب ہے جسے اللہ تعالیٰ نے آسمان اور زمین کے پیدا کرنے سے پہلے لکھا ہے، اس میں یہ لکھا ہوا ہے کہ فرعون جہنمی ہے اور اس میں «تبت يدا أبي لهب وتب» ”ابولہب کے دونوں ہاتھ ٹوٹ گئے، اور وہ ( خود ) ہلاک ہو گیا“ ( تبت: ۱ ) بھی لکھا ہوا ہے۔ عطاء کہتے ہیں: پھر میں ولید بن عبادہ بن صامت رضی الله عنہ سے ملا ( ولید کے والد عبادہ بن صامت صحابی رسول تھے ) اور ان سے سوال کیا: مرتے وقت آپ کے والد کی کیا وصیت تھی؟ کہا: میرے والد نے مجھے بلایا اور کہا: بیٹے! اللہ سے ڈرو اور یہ جان لو کہ تم اللہ سے ہرگز نہیں ڈر سکتے جب تک تم اللہ پر اور تقدیر کی اچھائی اور برائی پر ایمان نہ لاؤ۔ اگر اس کے سوا دوسرے عقیدہ پر تمہاری موت آئے گی تو جہنم میں جاؤ گے، میں نے رسول اللہ صلی اللہ علیہ وسلم کو فرماتے سنا ہے: ”اللہ تعالیٰ نے سب سے پہلے قلم کو پیدا کیا“ اور فرمایا: ”لکھو“، قلم نے عرض کیا: کیا لکھوں؟ اللہ تعالیٰ نے فرمایا: ”تقدیر لکھو جو کچھ ہو چکا ہے اور جو ہمیشہ تک ہونے والا ہے“۔ امام ترمذی کہتے ہیں: یہ حدیث اس سند سے غریب ہے۔",
+          "id": "Telah menceritakan kepada kami [Yahya bin Musa]; telah menceritakan kepada kami [Abu Dawud Ath Thayalisi]; telah menceritakan kepada kami ['Abdul Wahid bin Sulaim]; dia berkata; Aku memasuki Makkah kemudian aku menemui ['Atha bin Abu Rabbah]. Maka aku berkata kepadanya, \"Wahai Abu Muhammad, sesungguhnya penduduk Bashrah memperbincangkan masalah Qadar.\" Lalu Atha' berkata, \"Wahai anakku, apakah kamu membaca Al Qur'an?\" Aku menjawab, \"Ya\" 'Atha` melanjutkan, \"Bacalah surat Az-Zukhruf.\" Abdul Wahid berkata; Maka aku pun membaca, \"HAA MIIM WAL KITAABIL MUBIIN, INNAA JA'ALNAAHU QUR'AANAN 'AROBIYYAN LA'ALLAKUM TA'QILUUN, WA INNAHU FII UMMIL KITAABI LADAINAA LA'ALIYYUN HAKIIM (HAA MIIM, Demi Kitab (Al Qur'an) yang menerangkan. Sesungguhnya Kami menjadikan Al Qur'an dalam bahasa Arab supaya kamu memahami-nya. Dan sesungguhnya Al Qur'an itu dalam induk Al Kitab (Lauhul Mahfudz) di sisi kami, adalah benar benar tinggi (nilainya) dan amat banyak mengandung hikmah).\" Kemudian Atha' bertanya, \" Apakah kamu tahu apa maksudnya Ummul Kitab?\" aku menjawab, \"Hanya Allah dan Rasul-Nya yang lebih tahu.\" Atha' berkata, \"Susungguhnya Ummul Kitab adalah kitab yang ditulis oleh Allah sebelum menciptakan langit dan bumi di dalamnya terdapat ayat yang menyatakan bahwa Fir'aun termasuk penghuni neraka, dan di dalamnya terdapat ayat, 'TABBAT YADAA ABII LAHABIW WATAB (Binasalah kedua tangan Abu Lahab dan sesungguhnya dia akan binasa).'\" Atha' berkata lagi; Aku bertemu dengan [Al Walid bin Ubadah bin Ash Shamith] sahabat Rasulullah shallallahu 'alaihi wasallam, aku tanyakan kepadanya tentang, \"Wasiat apakah yang di wasiatkan bapakmu pada saat saat wafat?\" Dia menjawab; [Bapakku] pernah memanggilku kemudian dia berkata kepadaku, \"Wahai anakku, bertakwalah kepada Allah dan ketahuilah sesungguhnya kamu tidak akan sekali kali bertakwa kepada Allah sehingga kamu beriman kepada Allah dan beriman kepada adanya takdir seluruhnya yang baik maupun yang buruk, jika kamu meninggal tidak berada di atas keimanan ini maka kamu akan masuk neraka, sesungguhnya aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: 'Sesungguhnya yang pertama kali Allah ciptakan adalah Al Qalam kemudian Allah berfirman: 'Tulislah' Maka Al Qalam bertanya, 'Apa yang aku tulis? ' Lalu Allah berfirman: 'Tulislah takdir yang telah terjadi dan yang akan terjadi sepanjang masa.'\" Abu Isa berkata; Hadits ini adalah gharib bila ditinjau dari jalur sanad ini",
+          "tr": "Abdulvahid b. Süleym (r.a.)’den rivâyet edildiğine göre, şöyle demiştir: Mekke’ye geldim, Atâ b. ebî Rebah’la karşılaştığım da kendisine: “Ey Ebû Muhammed” dedim. Basralılar kader konusunda dengesiz şeyler söylüyorlar ne dersin? Dedi ki: Evladım Kur’ân okuyor musun? Ben de evet dedim, Zuhruf sûresini oku dedi; Bende: “Ha mîm, düşün gerçekleri ortaya koyan bu kitabı, onu düşünüp kavrayabilesiniz diye Arapça olarak indirdik O Kur’ân katımızda bulunan ana kitapta mevcut olup şân, büyüklük ve hikmetlerle doludur” diye Zuhruf sûresinin dört ayetini okudum. Bunun üzerine, Ana kitap nedir bilir misiniz? Dedi. Allah ve Rasûlü bilir dedim. Dedi ki: O öyle öyle bir kitap veya yazgıdır ki; Allah gökleri ve yeri yaratmadan önce Allah’ın yazmış olduğu bir kitaptır ki içersinde Firavunun Cehennemlik olduğu ve ‘’Tebbet yeda ebi lehebin ve tebbe (Ebu Leheb’in iki eli kurusun, kurudu da)’’ (ayetide orada yazılıdır. ) Atâ' diyor ki: Rasûlullah (s.a.v.)’in sahabesi Ubâde b. Sâmit’in oğlu Velid ile karşılaştım ve kendisine; ölümü esnasında babasının vasiyeti nasıldı? Diye sordum. Dedi ki: Babam beni çağırdı ve şöyle dedi: Ey evladım Allah’a karşı devamlı sorumluluk bilinci içerisinde ol iyi bilki Allah’a karşı sorumluluk bilincine ulaşabilmek ancak Allah’a inanmak ve hayır ve şer her türlü kaderin Allah’tan olduğuna imanla mümkündür. Bu inanç dışında bir inançla ölürsen Cehenneme girersin çünkü ben Rasûlullah (s.a.v.)’in şöyle buyurduğunu işittim: Allah önce kalemi yarattı ve yaz buyurdu. Kalem ne yazayım dedi. Allah’ta kaderi ve ebediyete kadar olup bitecek her şeyi yaz buyurdu. Tirmizî rivâyet etmiştir. Tirmizî: Bu hadis bu şekliyle garibtir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 32,
+        "hadith": 23
+      }
+    },
+    {
+      "hadithNumber": 2156,
+      "arabicNumber": 2156,
+      "book": 32,
+      "hadithInBook": 24,
+      "text": {
+        "arabic": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ عَبْدِ اللَّهِ بْنِ الْمُنْذِرِ الْبَاهِلِيُّ الصَّنْعَانِيُّ، قال: حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يَزِيدَ الْمُقْرِئُ، قال: حَدَّثَنَا حَيْوَةُ بْنُ شُرَيْحٍ، قال: حَدَّثَنِي أَبُو هَانِئٍ الْخَوْلاَنِيُّ، أَنَّهُ سَمِعَ أَبَا عَبْدِ الرَّحْمَنِ الْحُبُلِيَّ، يَقُولُ سَمِعْتُ عَبْدَ اللَّهِ بْنَ عَمْرٍو، يَقُولُ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏ \"‏ قَدَّرَ اللَّهُ الْمَقَادِيرَ قَبْلَ أَنْ يَخْلُقَ السَّمَوَاتِ وَالأَرْضَ بِخَمْسِينَ أَلْفَ سَنَةٍ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ غَرِيبٌ ‏.‏",
+        "translations": {
+          "en": "Abdullah bin 'Amr narrated that the Messenger of Allah (s.a.w) said:\"Allah decreed the measures fifty-thousand years before He created the Heavens and the earth",
+          "ur": "عبداللہ بن عمرو بن العاص رضی الله عنہما کہتے ہیں کہ میں نے رسول اللہ صلی اللہ علیہ وسلم کو فرماتے سنا: ”اللہ تعالیٰ نے تقدیر کو زمین و آسمان کی پیدائش سے پچاس ہزار سال پہلے لکھا تھا“۔ امام ترمذی کہتے ہیں: یہ حدیث اس سند سے حسن صحیح غریب ہے۔",
+          "id": "Telah menceritakan kepada kami [Ibrahim bin 'Abdullah bin Al Mundzir Al Bahili Ash Shan'ani]; telah menceritakan kepada kami ['Abdullah bin Yazid Al Muqri']; telah menceritakan kepada kami [Haiwah bin Syuraih]; telah menceritakan kepadaku [Abu Hani' Al Khaulani] bahwasanya dia mendengar [Abu 'Abdurrahman Al Hubuli] berkata; aku mendengar ['Abdullah bin 'Amr] berkata; aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: \"Allah telah menentukan takdir segala sesuatu, lima puluh ribu tahun sebelum menciptakan lagit dan bumi.\" Abu Isa berkata; Ini adalah hadits hasan shahih gharib",
+          "tr": "Abdullah b. Amr (r.a.)’den rivâyete göre, şöyle demiştir: Rasûlullah (s.a.v.)’den şöyle buyurduğunu işittim: “Allah; her şeyi ve herkesin kaderini gökler ve yeryüzü yaratılmadan elli bin sene önce yazıp takdir etmiştir.” Diğer tahric: Müslim, Kader, Abdullah b. Ahmed b. Hanbel, es-Sünne, 11/387-388, H.no:842; 11/394, H.no:856; Sahih: Müsned, 11/169, H.no:6579; Abd b. Humeyd, 1/136, H.no:343; İbn Hıbbân, XIV/508, H.no:6137; Bezzâr, VI/426, H.no:2456; Beyhaki, l'tikâd, i/136; Deylemi, Fırdevs, IH/208, H.no:4591. Tirmizî: Bu hadis hasen sahih ğaribtir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 32,
+        "hadith": 24
+      }
+    },
+    {
+      "hadithNumber": 2157,
+      "arabicNumber": 2157,
+      "book": 32,
+      "hadithInBook": 25,
+      "text": {
+        "arabic": "حَدَّثَنَا أَبُو كُرَيْبٍ، مُحَمَّدُ بْنُ الْعَلاَءِ وَمُحَمَّدُ بْنُ بَشَّارٍ قَالاَ حَدَّثَنَا وَكِيعٌ، عَنْ سُفْيَانَ الثَّوْرِيِّ، عَنْ زِيَادِ بْنِ إِسْمَاعِيلَ، عَنْ مُحَمَّدِ بْنِ عَبَّادِ بْنِ جَعْفَرٍ الْمَخْزُومِيِّ، عَنْ أَبِي هُرَيْرَةَ، قَالَ جَاءَ مُشْرِكُو قُرَيْشٍ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم يُخَاصِمُونَ فِي الْقَدَرِ فَنَزَلَتْ هَذِهِ الآيَةُ ‏:‏ ‏(‏يَوْمَ يُسْحَبُونَ فِي النَّارِ عَلَى وُجُوهِهِمْ ذُوقُوا مَسَّ سَقَرَ * إِنَّا كُلَّ شَيْءٍ خَلَقْنَاهُ بِقَدَرٍ ‏)‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏",
+        "translations": {
+          "en": "Abu Hurairah said:\"Idolaters from the Quraish came to the Messenger of Allah (s.a.w) quarreling about Al-Qadar. So this Ayah was revealed: \"The day they will be dragged on their faces into the Fire (it will be said to them): \"Taste you the touch of Hell.\" Verily we have created all things with Qadar",
+          "ur": "ابوہریرہ رضی الله عنہ کہتے ہیں کہ مشرکین قریش تقدیر کے بارے میں جھگڑتے ہوئے رسول اللہ صلی اللہ علیہ وسلم کے پاس آئے تو یہ آیت نازل ہوئی «يوم يسحبون في النار على وجوههم ذوقوا مس سقر إنا كل شيء خلقناه بقدر» یعنی ”جس دن وہ جہنم میں منہ کے بل گھسیٹے جائیں گے ( تو ان سے کہا جائے گا ) تم لوگ جہنم کا مزہ چکھو، ہم نے ہر چیز کو اندازے سے پیدا کیا ہے“ ( القمر: ۴۸-۴۹ ) ۔ امام ترمذی کہتے ہیں: ۱- یہ حدیث صحیح ہے، ۲- مذکورہ حدیث مجھ سے قبیصہ نے بیان کی، وہ کہتے ہیں: مجھ سے عبدالرحمٰن بن زید نے بیان کی۔",
+          "id": "Telah menceritakan kepada kami [Abu Kuraib Muhammad bin Al 'Ala] dan [Muhammad bin Basysyar] mereka berdua berkata; telah menceritakan kepada kami [Waki'] dari [Sufyan Ats Tsauri] dari [Ziyad bin Isma'il] dari [Muhammad bin 'Abbad bin Ja'far Al Makhzumi] dari [Abu Hurairah] dia berkata; Orang-orang musyrik Quraisy datang kepada Rasulullah shallallahu 'alaihi wasallam guna memperdebatkan masalah takdir, maka turunlah ayat ini: \"Wajah-wajah mereka tersungkur di dalam neraka. (Dikatakanlah pada mereka) Rasakanlah siksa yang pedih, sesungguhnya segala sesuatu kami ciptakan dengan takdirnya.\" Abu Isa berkata; Ini adalah hadits hasan shahih",
+          "tr": "Ebû Hureyre (r.a.)’den rivâyete göre, şöyle demiştir: Kureyş müşrikleri Rasûlullah (s.a.v.)’in yanına gelerek kader konusunda tartışmaya girdiler de şu ayetler nazil oldu: “Yüzükoyun ateşe sürüklenecekleri o gün onlara şöyle denilecek: Cehennem ateşinin yakışını tadın bakalım şüphesiz biz her şeyi belli bir plan ve ölçüye göre yarattık.” (Kamer Sûresi: 48-49) Diğer tahric: Müslim, Kader; İbn Mâce, Mukadiime Tirmizî: Bu hadis sahihtir. Kubeysa ve Abdurrahman b. Zeyd, geçen hadisin bir benzerini bize aktarmışlardır"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 32,
+        "hadith": 25
+      }
+    },
+    {
+      "hadithNumber": 2298,
+      "arabicNumber": 2298,
+      "book": 32,
+      "hadithInBook": 14,
+      "text": {
+        "arabic": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا مَرْوَانُ بْنُ مُعَاوِيَةَ الْفَزَارِيُّ، عَنْ يَزِيدَ بْنِ زِيَادٍ الدِّمَشْقِيِّ، عَنِ الزُّهْرِيِّ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، قَالَتْ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ لاَ تَجُوزُ شَهَادَةُ خَائِنٍ وَلاَ خَائِنَةٍ وَلاَ مَجْلُودٍ حَدًّا وَلاَ مَجْلُودَةٍ وَلاَ ذِي غِمْرٍ لأَخِيهِ وَلاَ مُجَرَّبِ شَهَادَةٍ وَلاَ الْقَانِعِ أَهْلَ الْبَيْتِ لَهُمْ وَلاَ ظَنِينٍ فِي وَلاَءٍ وَلاَ قَرَابَةٍ ‏\"‏ ‏.‏ قَالَ الْفَزَارِيُّ الْقَانِعُ التَّابِعُ ‏.‏ هَذَا حَدِيثٌ غَرِيبٌ لاَ نَعْرِفُهُ إِلاَّ مِنْ حَدِيثِ يَزِيدَ بْنِ زِيَادٍ الدِّمَشْقِيِّ ‏.‏ وَيَزِيدُ يُضَعَّفُ فِي الْحَدِيثِ وَلاَ يُعْرَفُ هَذَا الْحَدِيِثُ مِنْ حَدِيثِ الزُّهْرِيِّ إِلاَّ مِنْ حَدِيثِهِ ‏.‏ وَفِي الْبَابِ عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو ‏.‏ قَالَ وَلاَ نَعْرِفُ مَعْنَى هَذَا الْحَدِيثِ وَلاَ يَصِحُّ عِنْدِي مِنْ قِبَلِ إِسْنَادِهِ ‏.‏ وَالْعَمَلُ عِنْدَ أَهْلِ الْعِلْمِ فِي هَذَا أَنَّ شَهَادَةَ الْقَرِيبِ جَائِزَةٌ لِقَرَابَتِهِ ‏.‏ وَاخْتَلَفَ أَهْلُ الْعِلْمِ فِي شَهَادَةِ الْوَالِدِ لِلْوَلَدِ وَالْوَلَدِ لِوَالِدِهِ وَلَمْ يُجِزْ أَكْثَرُ أَهْلِ الْعِلْمِ شَهَادَةَ الْوَالِدِ لِلْوَلَدِ وَلاَ الْوَلَدِ لِلْوَالِدِ ‏.‏ وَقَالَ بَعْضُ أَهْلِ الْعِلْمِ إِذَا كَانَ عَدْلاً فَشَهَادَةُ الْوَالِدِ لِلْوَلَدِ جَائِزَةٌ وَكَذَلِكَ شَهَادَةُ الْوَلَدِ لِلْوَالِدِ ‏.‏ وَلَمْ يَخْتَلِفُوا فِي شَهَادَةِ الأَخِ لأَخِيهِ أَنَّهَا جَائِزَةٌ وَكَذَلِكَ شَهَادَةُ كُلِّ قَرِيبٍ لِقَرِيبِهِ ‏.‏ وَقَالَ الشَّافِعِيُّ لاَ تَجُوزُ شَهَادَةٌ لِرَجُلٍ عَلَى الآخَرِ وَإِنْ كَانَ عَدْلاً إِذَا كَانَتْ بَيْنَهُمَا عَدَاوَةٌ ‏.‏ وَذَهَبَ إِلَى حَدِيثِ عَبْدِ الرَّحْمَنِ الأَعْرَجِ عَنِ النَّبِيِّ صلى الله عليه وسلم مُرْسَلاً ‏\"‏ لاَ تَجُوزُ شَهَادَةُ صَاحِبِ إِحْنَةٍ ‏\"‏ ‏.‏ يَعْنِي صَاحِبَ عَدَاوَةٍ وَكَذَلِكَ مَعْنَى هَذَا الْحَدِيثِ حَيْثُ قَالَ ‏\"‏ لاَ تَجُوزُ شَهَادَةُ صَاحِبِ غِمْرٍ لأَخِيهِ ‏\"‏ يَعْنِي صَاحِبَ عَدَاوَةٍ ‏.‏",
+        "translations": {
+          "en": "Aishah narrated that the Messenger of Allah (s.a.w) said:The testimony of a treacherous man is not acceptable nor a treacherous woman nor a man lashed for the Hadd nor a woman lashed nor one possessing malice of enmity nor a rehearsed witness nor the Qani of (one contracted by)the family on their behalf nor the one associating himself to other than his Wala or to other than his relatives",
+          "ur": "ام المؤمنین عائشہ رضی الله عنہا کہتی ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”خیانت کرنے والے مرد اور عورت کی گواہی درست اور مقبول نہیں ہے، اور نہ ان مردوں اور عورتوں کی گواہی مقبول ہے جن پر حد نافذ ہو چکی ہے، نہ اپنے بھائی سے دشمنی رکھنے والے کی گواہی مقبول ہے، نہ اس آدمی کی جس کی ایک بار جھوٹی گواہی آزمائی جا چکی ہو، نہ اس شخص کی گواہی جو کسی کے زیر کفالت ہو اس کفیل خاندان کے حق میں ( جیسے مزدور وغیرہ ) اور نہ اس شخص کی جو ولاء یا رشتہ داری کی نسبت میں متہم ہو“۔ امام ترمذی کہتے ہیں: ۱- یہ حدیث غریب ہے، ۲- ہم اسے صرف یزید بن زیاد دمشقی کی روایت سے جانتے ہیں، اور یزید ضعیف الحدیث ہیں، نیز یہ حدیث زہری کی روایت سے صرف اسی طریق سے جانی جاتی ہے، ۳- اس باب میں عبداللہ بن عمرو سے بھی حدیث مروی ہے، ۴- فزازی کہتے ہیں: «قانع» سے مراد «تابع» ہے، ۵- اس حدیث کا مطلب ہم نہیں سمجھتے اور نہ ہی سند کے اعتبار سے یہ میرے نزدیک صحیح ہے، ۶- اس بارے میں اہل علم کا عمل ہے کہ رشتہ دار کے لیے رشتہ کی گواہی درست ہے، البتہ بیٹے کے حق میں باپ کی گواہی یا باپ کے حق میں بیٹے کی گواہی کے بارے میں اہل علم کا اختلاف ہے، اکثر اہل علم بیٹے کے حق میں باپ کی گواہی یا باپ کے حق میں بیٹے کی گواہی کو درست نہیں سمجھتے، ۷- بعض اہل علم کہتے ہیں: جب گواہی دینے والا عادل ہو تو باپ کی گواہی بیٹے کے حق میں اسی طرح باپ کے حق میں بیٹے کی گواہی درست ہے، ۸- بھائی کی گواہی کے جواز کے بارے میں اختلاف نہیں ہے، ۹- اسی طرح رشتہ دار کے لیے رشتہ دار کی گواہی میں بھی اختلاف نہیں ہے، ۱۰- امام شافعی کہتے ہیں: جب دو آدمیوں میں دشمنی ہو تو ایک کے خلاف دوسرے کی گواہی درست نہ ہو گی، گرچہ گواہی دینے والا عادل ہو، انہوں نے عبدالرحمٰن اعرج کی حدیث سے استدلال کیا ہے جو نبی اکرم صلی اللہ علیہ وسلم سے مرسلاً مروی ہے کہ دشمنی رکھنے والے کی گواہی درست نہیں ہے، اسی طرح اس ( مذکورہ ) حدیث کا بھی مفہوم یہی ہے، ( جس میں ) آپ نے فرمایا: ”اپنے بھائی کے لیے دشمنی رکھنے والے کی گواہی درست نہیں ہے“۔",
+          "id": "Telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [Marwan Al Fazari] dari [Yazid bin Ziyad Ad Dimasyqi] dari [Az Zuhri] dari ['Urwah] dari ['Aisyah] dia berkata: Rasulullah Shallallahu 'alaihi wa salam bersabda: \"Tidak dibolehkan persaksian dari seorang lelaki dan seorang perempuan yang pengkhianat, seorang lelaki dan seorang perempuan yang dihukum cambuk, seorang yang dengki kepada saudaranya, seorang yang terbiasa dengan saksi palsu, seorang yang menjadi pelayan dalam rumah tuannya dan dari seseorang yang tertuduh berwala' dan bernasab kepada yang lain -Al fazari berkata: Al Qoni' artinya yang mengikuti.\" Hadits ini gharib, kami tidak mengetahuinya kecuali dari hadits Yazid bin Ziyad Ad Dimasyqi, sedangkan Yazid bin Ziyad Ad Dimasyqi dilemahkan dalam masalah hadits, dan hadits ini tidak dikenal sebagai hadits Az Zuhri selain dari haditsnya Yazid bin Ziyad, dan dalam bab ini ada hadits dari 'Abdullah bin Amr, dia berkata \" kami tidak mengerti maksud dari hadits ini dan menurut kami hadits ini tidak sah dari sisi sanadnya, adapun yang diamalkan oleh ahli ilmu dalam masalah ini bahwa persaksian dari kerabat dekat untuk kerabatnya itu dibolehkan, namun ahli ilmu berbeda pendapat tentang persaksian seorang bapak untuk anaknya dan persaksian seorang anak untuk bapaknya, dan kebanyakan ahli ilmu tidak membolehkan persaksian seorang bapak untuk anaknya demikian juga persaksian seorang anak untuk bapaknya, sebagian ahli ilmu berpendapat jika orangnya adil, maka persaksian seorang bapak untuk anaknya dibolehkan demikian juga persaksian seorang anak untuk bapaknya, dan mereka tidak berbeda pendapat akan kebolehan persaksian seorang saudara laki laki untuk saudaranya demikian juga persaksian dari setiap orang kerabat terdekat untuk kerabatnya. Imam Syafi'I berpendapat, dibenarkan persaksian dari sseeorang untuk orang yang lain sekali pun dia adalah seorang yang jujur jika di antara keduanya ada permusuhan, ia berpendapat bahwa hadits Abdurrahman Al A'raj dari Nabi Shallallahu 'alaihi wa Salam adalah hadits mursal, bahwa tidak boleh persaksian dari seseorang yang mempunyai permusuhan demikian juga makna hadits ini, dia berkata: Tidak dibenarkan persaksian dari seorang pendengki kepada saudaranya yaitu orang yang punya permusuhan",
+          "tr": "Âişe (radıyallahü anha)’dan rivâyete göre, şöyle demiştir: Rasûlüllah (sallallahü aleyhi ve sellem) şöyle buyurdu: “Hainlik eden erkek ve kadının, bir müslümana zina iftirasında bulunup ceza gören erkek ve kadının, Müslüman kardeşine kin besleyenin, yalancı şâhidliği denenmiş olanın, bir ailenin hizmetçisinin o aile hakkındaki şâhidliği ve azâdlı oluşu veya akraba oluşu şüpheli olan kimselerin şâhidliği caiz değildir.” (Tirmizî rivâyet etmiştir.) hadiste geçen “Kanî” kelimesinin tabi olan manasında olduğunu söylemiştir. hadis garibtir. Bu hadisi sadece Yezîd b. Ziyad ed Dımışkî’nin rivâyetiyle bilmekteyiz. Yezîd’in hadis konusunda zayıf olduğu kaydedilmiştir. Bu hadisin Zührî’nin rivâyetinden olduğu sadece Yezîd’in rivâyetiyle bilinmektedir. konuda Abdullah b. Amr’dan da hadis rivâyet edilmiştir. bu hadisin manasını pek bilemiyoruz, bana göre sened yönünden bu hadis sahih değildir. Bu konuda ilim adamları akrabanın akrabaya şâhidliği caizdir derler. İlim adamları babanın çocuğuna, çocuğun babasına şâhidliği konusunda ihtilaf etmişlerdir. İlim adamlarının çoğunluğu babanın çocuğuna çocuğunda babasına şâhidliğini caiz görmezler. Bazı ilim adamları ise Adil olduğu durumda babanın çocuğuna şâhidliği caizdir derler. Aynı şekilde çocuğunda babasına şâhidliği geçerlidir. Kardeşin kardeşe şâhidliğinde ihtilaf yoktur. Her akrabanın akrabasına şâhidliği de geçerlidir. Şâfii diyor ki: Aralarında düşmanlık bulunan iki kişiden birinin diğerine şâhidliği adil de olsa caiz değildir. Abdurrahman b. A’rec’in Peygamber (sallallahü aleyhi ve sellem)’den mürsel olarak rivâyet ettiği “Kin tutan ve düşmanlık yapanın şâhidliği caiz değildir.” Hadisini de delil olarak kabul etmiştir. Yani bu hadiste şöyle denmek istiyor. Birbirine düşmanlık ve kin besleyenlerin şâhidlikleri caiz değildir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Daif"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 32,
+        "hadith": 14
+      }
+    }
+  ],
+  "metadata": {
+    "averageLength": "long",
+    "size": "30KB"
+  }
+}

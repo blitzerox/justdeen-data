@@ -1,0 +1,432 @@
+{
+  "collection": "muslim",
+  "book": 9,
+  "name": {
+    "arabic": "كتاب The Book of Prayer - Rain",
+    "transliteration": "kitab prayer - rain",
+    "translation": "The Book of Prayer - Rain"
+  },
+  "totalHadith": 19,
+  "hadithNumberRange": {
+    "first": 2070,
+    "last": 2088
+  },
+  "content": [
+    {
+      "hadithNumber": 2070,
+      "arabicNumber": "894.01",
+      "book": 9,
+      "hadithInBook": 1,
+      "text": {
+        "arabic": "وَحَدَّثَنَا يَحْيَى بْنُ يَحْيَى، قَالَ قَرَأْتُ عَلَى مَالِكٍ عَنْ عَبْدِ اللَّهِ بْنِ أَبِي بَكْرٍ، أَنَّهُ سَمِعَ عَبَّادَ بْنَ تَمِيمٍ، يَقُولُ سَمِعْتُ عَبْدَ اللَّهِ بْنَ زَيْدٍ الْمَازِنِيَّ، يَقُولُ خَرَجَ رَسُولُ اللَّهِ صلى الله عليه وسلم إِلَى الْمُصَلَّى فَاسْتَسْقَى وَحَوَّلَ رِدَاءَهُ حِينَ اسْتَقْبَلَ الْقِبْلَةَ ‏.‏",
+        "translations": {
+          "en": "Abdullah b. Zaid b. Mazini reported:The Messenger of Allah (ﷺ) went to the place of prayer and prayed for rain and turned round his mantle while facing the Qibla",
+          "ur": "امام مالکؒ نے عبداللہ بن ابی بکر سے روایت کی ، انھوں نے عباد بن تمیم سے سنا ، وہ کہہ رہے تھے : میں نے حضرت عبداللہ بن زید مازنی رضی اللہ تعالیٰ عنہ سے سنا ، وہ کہہ رہے تھے : رسول اللہ صلی اللہ علیہ وسلم ( مدینہ سے ) باہر نکل کرعیدگاہ گئے ، بارش مانگی اور جب آپ قبلہ رخ ہوئے تواپنی چادر کو پلٹا ۔",
+          "fr": "Rapporté par ‘Abdullah ibn Zayd ibn Mazini رضي الله عنه : Le Messager d’Allah ﷺ se rendit à l’endroit de prière, fit la prière pour demander la pluie et retourna son manteau en direction de la Qibla",
+          "id": "Dan telah menceritakan kepada kami [Yahya bin Yahya] ia berkata, saya telah membacakan kepada [Malik] dari [Abdullah bin Bakar] bahwa ia mendengar ['Abbad bin Tamim] berkata, saya mendengar [Abdullah bin Zaid Al Mazani] berkata; \"Suatu ketika Rasulullah shallallahu 'alaihi wasallam keluar ke tanah lapang untuk menunaikan shalat Istisqa`, kemudian beliau membalik pakaiannya ketika menghadap kiblat",
+          "tr": "Bize Yahya b. Yahya rivayet etti. Dediki: Mâlik'e, Abdullah b. Ebû Bekir'den dinlediğim, onun da Abbad b. Temîm'den: Ben Abdullah b. Zeyd El-Mâziniyi şöyle derken işittim, diyerek rivayet ettiği şu hadisi okudum: Resulullah (Sallallahu Aleyhi ve Sellem) namazgah'a çıkarak yağmur duası yaptı. Kıbleye döndüğü vakit cübbesinl ters çevirdi.»"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "muslim",
+        "book": 9,
+        "hadith": 1
+      }
+    },
+    {
+      "hadithNumber": 2071,
+      "arabicNumber": "894.02",
+      "book": 9,
+      "hadithInBook": 2,
+      "text": {
+        "arabic": "وَحَدَّثَنَا يَحْيَى بْنُ يَحْيَى، أَخْبَرَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنْ عَبْدِ اللَّهِ بْنِ أَبِي بَكْرٍ، عَنْ عَبَّادِ بْنِ تَمِيمٍ، عَنْ عَمِّهِ، قَالَ خَرَجَ النَّبِيُّ صلى الله عليه وسلم إِلَى الْمُصَلَّى فَاسْتَسْقَى وَاسْتَقْبَلَ الْقِبْلَةَ وَقَلَبَ رِدَاءَهُ وَصَلَّى رَكْعَتَيْنِ ‏.‏",
+        "translations": {
+          "en": "Ibn Tamim narrated on the authority of his uncle ('Abdullah b. Zaid) that the Messenger of Allah (ﷺ) went out to the place of prayer and prayed for rain and faced towards Qibla, and turned round his mantle and prayed two rak'ahs",
+          "ur": "سفیان بن عینیہ نے عبداللہ بن ابی بکر سے ، انھوں نے عباد بن تمیم سے اور انھوں نے اپنے چچا ( عبداللہ بن زید رضی اللہ تعالیٰ عنہ ) سے روایت کی ، انھوں نے کہا : رسول اللہ صلی اللہ علیہ وسلم ( مدینہ سے ) نکل کر عیدگاہ تشریف لے گئے اور بارش کی دعاکی ، آپ نے قبلے کی طرف رخ کیا ، اپنی چادرپلٹی اوردو رکعت نماز پڑھی ۔",
+          "fr": "Rapporté par Ibn Tamim d’après son oncle (‘Abdullah ibn Zayd رضي الله عنه) : Le Messager d’Allah ﷺ sortit vers le lieu de prière, fit la prière pour demander la pluie, se tourna vers la Qibla, retourna son manteau et fit deux unités de prière",
+          "id": "Dan Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Sufyan bin Uyainah] dari [Abdullah bin Abu Bakar] dari [Abbad bin Tamim] dari [pamannya] ia berkata; \"Suatu ketika Rasulullah shallallahu 'alaihi wasallam keluar menuju Mushalla (tanah lapang untuk shalat) hendak menunaikan shalat Istisqa`, maka beliau pun menghadap kiblat dan membalik pakaiannya kemudian shalat dua raka'at",
+          "tr": "Bize Yahya b. Yahya rivayet etti. (Dediki): Bize Süfyan b. Uyeyne, Abdullah b. Ebî Bekir'den, o da Abbad b. Temimden, o da amıcasından naklen haber verdi. Şöyle demiş: Nebi (Sallallahu Aleyhi ve Sellem) namazgaha çıkarak yağmur duası yaptı ve kıbleye karşı döndü. Cübbesini ters çevirdi; iki rekat da namaz kıldı.»"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "muslim",
+        "book": 9,
+        "hadith": 2
+      }
+    },
+    {
+      "hadithNumber": 2072,
+      "arabicNumber": "894.03",
+      "book": 9,
+      "hadithInBook": 3,
+      "text": {
+        "arabic": "وَحَدَّثَنَا يَحْيَى بْنُ يَحْيَى، أَخْبَرَنَا سُلَيْمَانُ بْنُ بِلاَلٍ، عَنْ يَحْيَى بْنِ سَعِيدٍ، قَالَ أَخْبَرَنِي أَبُو بَكْرِ بْنُ مُحَمَّدِ بْنِ عَمْرٍو، أَنَّ عَبَّادَ بْنَ تَمِيمٍ، أَخْبَرَهُ أَنَّ عَبْدَ اللَّهِ بْنَ زَيْدٍ الأَنْصَارِيَّ أَخْبَرَهُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم خَرَجَ إِلَى الْمُصَلَّى يَسْتَسْقِي وَأَنَّهُ لَمَّا أَرَادَ أَنْ يَدْعُوَ اسْتَقْبَلَ الْقِبْلَةَ وَحَوَّلَ رِدَاءَهُ ‏.‏",
+        "translations": {
+          "en": "Abdullah b. Zaid al-Ansari reported that the Messenger of Allah (ﷺ) went out to the place of prayer in order to offer prayer for rainfall. And when he intended to make supplication he faced Qibla and turned round his mantle",
+          "ur": "ابو بکربن محمد بن عمرو نے بتایا کہ ان کو عبادبن تمیم نے خبر دی ، ان کوحضرت عبداللہ بن زیدانصاری رضی اللہ تعالیٰ عنہ نے بتایا کہ رسول اللہ صلی اللہ علیہ وسلم بارش کی دعاکرنے کےلئے عید گاہ گئے اور جب آپ نے دعا کرنے کا ارادہ فرمایا تو قبلہ کی طرف رخ کرلیا اور اپنی چادر کو پلٹ دیا ۔",
+          "fr": "Rapporté par ‘Abdullah ibn Zayd al-Ansari رضي الله عنه : Le Messager d’Allah ﷺ sortit vers le lieu de prière pour demander la pluie. Lorsqu’il voulut invoquer, il se tourna vers la Qibla et retourna son manteau",
+          "id": "Dan Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Sulaiman bin Bilal] dari [Yahya bin Sa'id] ia berkata, telah mengabarkan kepadaku [Abu Bakar bin Muhammad bin Amru] bahwa [Abbad bin Tamim] telah mengabarkan kepadanya, bahwa [Abdullah bin Zaid Al Anshari] telah mengabarkan kepadanya bahwa Rasulullah shallallahu 'alaihi wasallam keluar ke tanah lapang untuk menunaikan shalat Istisqa`. Dan ketika beliau hendak berdo'a, beliau menghadap kiblat dan membalik pakaiannya",
+          "tr": "Bize Yahya b. Yahya rivayet etti. (Dediki): Bize Süleyman b. Bilâl, Yahya b. Said'den naklen haber verdi. Demişki: Bana Ebû Bekir b. Muhammed b. Amr haber verdi; Ona da Abbâd b. Temim haber vermiş, ona da Abdullah b. Zeyd El-Ensârî haber vermişki, Resulullah (Sallallahu Aleyhi ve Sellem) yağmur duası için namazgaha çıkmış, duâ etmek isteyince kıbleye dönmüş ve cübbesini ters çevirmiş"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "muslim",
+        "book": 9,
+        "hadith": 3
+      }
+    },
+    {
+      "hadithNumber": 2073,
+      "arabicNumber": "894.04",
+      "book": 9,
+      "hadithInBook": 4,
+      "text": {
+        "arabic": "وَحَدَّثَنِي أَبُو الطَّاهِرِ، وَحَرْمَلَةُ، قَالاَ أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي يُونُسُ، عَنِ ابْنِ، شِهَابٍ قَالَ أَخْبَرَنِي عَبَّادُ بْنُ تَمِيمٍ الْمَازِنِيُّ، أَنَّهُ سَمِعَ عَمَّهُ، وَكَانَ، مِنْ أَصْحَابِ رَسُولِ اللَّهِ صلى الله عليه وسلم يَقُولُ خَرَجَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَوْمًا يَسْتَسْقِي فَجَعَلَ إِلَى النَّاسِ ظَهْرَهُ يَدْعُو اللَّهَ وَاسْتَقْبَلَ الْقِبْلَةَ وَحَوَّلَ رِدَاءَهُ ثُمَّ صَلَّى رَكْعَتَيْنِ ‏.‏",
+        "translations": {
+          "en": "Abbad b. Tamim Mazini heard his uncle, who was one of the Companions of the Messenger of Allah (ﷺ), as saying:The Messenger of Allah (ﷺ) went out one day in order to pray for rain. He turned his back towards people, supplicated before Allah, facing towards Qibla, and turned his mantle round and then observed two rak'ahs of prayer",
+          "ur": "ابن شہاب نے کہا : مجھےعباد بن تمیم مازنی نے خبر دی ، انھوں نے اپنے چچاسے سنا اور وہ نبی کریم صلی اللہ علیہ وسلم کے ساتھیوں میں سے تھے وہ کہہ رہے تھے : ایک دن رسول اللہ صلی اللہ علیہ وسلم بارش کی دعا مانگنےکے لئے نکلے ، اللہ سے دعاکرتے ہوئے اپنی پشت لوگوں کی طرف کی ، منہ قبلہ کی طرف کیا اوراپنی چادر پلٹی ، پھر دو رکعت نمازادا کی ۔",
+          "fr": "Rapporté par ‘Abbad ibn Tamim Mazini : Il a entendu son oncle, qui était un des compagnons du Messager d’Allah ﷺ, dire : Le Messager d’Allah ﷺ sortit un jour pour prier afin de demander la pluie. Il tourna le dos aux gens, invoqua Allah en direction de la Qibla, retourna son manteau, puis fit deux unités de prière",
+          "id": "Dan telah menceritakan kepadaku [Abu Thahir] dan [Harmalah] keduanya berkata, telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] ia berkata, telah mengabarkan kepadaku [Abbad bin Tamim Al Mazini] bahwa ia mendengar [pamannya] yang termasuk salah seorang dari sahabat Rasulullah shallallahu 'alaihi wasallam berkata; \"Suatu ketika Rasulullah shallallahu 'alaihi wasallam keluar untuk menunaikan shalat Istisqa`, lalu beliau membelakangi para jama'ah seraya berdo'a kepada Allah dengan menghadap kiblat. Kemudian beliau membalik pakaiannya lalu shalat dua raka'at",
+          "tr": "Bana Ebû't-Tâhir ile Harmele rivayet ettiler. Dedilerki. Bize İbni Vehb haber verdi. (Dediki): Bana Yûnus, ibni Şihâb'dan naklen haber verdi. Demişki: Bana Abbâd b. Temim El-Mâzîni haber verdi. O da Resulullah (Sallallahu Aleyhi ve Sellem)'in ashabından biri olan amıcasmı şöyle derken işitmiş: «Bir gün Resulullah (Sallallahu Aleyhi ve Sellem) yağmur duasına çıktı» müteakiben arkasını cemaata vererek Allah'a duâ etmeye başladı ve kıbleye döndü. Cübbesini de ters çevirdi. Sonra İki rek'at namaz kıldı.» İzah Bu hadîsi Buhârî «İstiska» bahsinin bir kaç yerinde; Ebû Dâvûd, Tirmizî, Nesâî ve îbni Mace dahî muhtelif yerlerde muhtelif râvilerden tahrîc etmişlerdir. «İstiskaa»: İçecek ve hayvanları ile nebatlarını sulayacak suyu bulunmayan yahut bulunup da yetmiyen yerler halkının ihtiyâç zamanında Allah Teâlâ'dan su niyaz etmeleridir. Hanefiîler'e göre istiskaa, kitap ve sünnetle sabitdir. Kitap» dan deliller «Ey kavmim? Rabbinizden (evvelâ) af dileyin sonra da tevbe edin ki, sizin üzerinize semâdan bol bol yağmur göndersin.» [ Hud 52 ] ayet-i kerimesi ile emsali âyetlerdir. Gerçi bu âyetlerde bahsi geçen Nebiler bizim Nebiimiz değil; Hz. Nûh ve Hz. Hûd (Aleyhimusselm) gibi geçmiş ümmetlere gönderilen Nebiler olup, duâ ve istiğfar hususunda yapmış oldukları tavsiyeler dahi kendi ümmetlerine âit ise de, Allah ve Resulü inkârsız şekilde hikâye etmiş olmak şartı ile eski şeriatlar bizim için dahî şeriat sayılır. Bunun mânâsı: O şeriatların bâzı ahkâmı bizim şeriatımızın bir cüz'ü olmak üzere bize meşru kılınmışdır. Bu âyetlerde de hâl böyledir. Bahsimiz hadislerinden de anlaşılacağı vecihle istiska, sünnetle de meşru olmuşdur. Bu bâbda bir çok sahih hadisler rivayet olmuşdur. îstiska hususunda kitap ile sünnetin isbât ettikleri haddi müşterek: istiğfar ile Allah'a hamd-ü sena ve duadır. Yağmur duasında namaz mes'elesi Hanefiiler'e göre: Yalnız bir hadîsde zikredilmişdir. O da şâzzdır. Anlaşılıyor ki yağmur duası eski ümmetlere de meşru olmuşdur. Bu cihet âyetlerle sabit olduğu gibi, bâzı hadîslerden de anlaşılmaktadır. îmam Ahmed ile Hâkim'in Hz. Ebû Hureyre'den, rivayet ettikleri bir hadîsde Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurmuşlardır: «Vaktiyle Süleyman (Aleyhisselâm) yağmur duasına çıktı ve sırtüstü yatarak ayaklarını semâya kaldırmış bir karınca gördü. Karınca: Yâ Rabbî! Biz, senin mahlûkaatından bir takım mahlûklarız. Senin suyundan müstağni değiliz, diyordu. Bunun üzerine Hz. Süleyman (yanındakilere): «Muhakkak başkasının duası sebebiyle sulandınız; dedi.» Bu hadîs de yağmur duasının eski ümmetlere meşru olduğunu gösterir. Yağmur duası islâmîyetten evvel araplarda da vardı. îbni Asâkir şu rivayeti tahric etmişdir: «Mekke'lilere kıtlık isabet etmiş, Kureyş (Resulullah (Sallallahu Aleyhi ve Sellem)'in amıcası Ebû Tâlib 'e): — Yâ Ebâ Tâlib! Bu vadiye kıtlık geldi. Çoluk çocuk kurağa tutuldu; gel bir yağmur duası yapıver! demişler. Bunun üzerine Ebû Tâlib, beraberinde bir çocuk, (ama) üzerinden siyah bir bulut açılmış güneş gibi bir çocuk (yâni âhir zaman Nebii onun etrafında da bir takım çocuklar olduğu hâlde duaya çıkmış.) Çocuğu alarak sırtını Kabe'ye dayamış ve parmağı ile çocuğa dokunmuş. Gökyüzünde bir pare bulut bile yokmuş. Derken öteden beriden bulutlar peyda olmuş. Ve gittikçe çoğalarak öyle bol bir yağmur yağmış ki; vadi dolmuş taşmış her taraf bolluk içinde kalmış...»"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "muslim",
+        "book": 9,
+        "hadith": 4
+      }
+    },
+    {
+      "hadithNumber": 2074,
+      "arabicNumber": "895.01",
+      "book": 9,
+      "hadithInBook": 5,
+      "text": {
+        "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا يَحْيَى بْنُ أَبِي بُكَيْرٍ، عَنْ شُعْبَةَ، عَنْ ثَابِتٍ، عَنْ أَنَسٍ، قَالَ رَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَرْفَعُ يَدَيْهِ فِي الدُّعَاءِ حَتَّى يُرَى بَيَاضُ إِبْطَيْهِ ‏.‏",
+        "translations": {
+          "en": "Anas reported:I saw the Messenger of Allah (ﷺ) raising his hands (high enough) in supplication (for rain) that the whiteness of his armpits became visible",
+          "ur": "شعبہ نے ثابت سے اورانھوں نے حضرت انس رضی اللہ تعالیٰ عنہ سے روایت کی کہا : میں نے رسول اللہ صلی اللہ علیہ وسلم کو دیکھا ، آپ دعا کے لئے دونوں ہاتھ اٹھاتے حتیٰ کہ آپ کی بغلوں کی سفیدی نظر آتی تھی ۔",
+          "fr": "Rapporté par Anas رضي الله عنه : J’ai vu le Messager d’Allah ﷺ lever les mains si haut pour demander la pluie que la blancheur de ses aisselles était visible",
+          "id": "Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Yahya bin Abu Bukair] dari [Syu'bah] dari [Tsabit] dari [Anas] ia berkata; \"Saya melihat Rasulullah shallallahu 'alaihi wasallam mengangkat kedua tangannya saat berdo'a hingga terlihat putih ketiaknya",
+          "tr": "Bize Ebû Bekir b. Ebi Şeybe rivayet etti. (Dediki): Bize Yahya b. Ebî Bükeyr, Şu'be'den, o da Sâbİt'den, o da Enes'den naklen rivayet etti. Demişki: «Ben, Resulullah {Sallallahu Aleyhi ve Sellem)'i dua esnasında ellerini ta koltuklarının beyazı görününceye kadar kaldırırken gördüm.»"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "muslim",
+        "book": 9,
+        "hadith": 5
+      }
+    },
+    {
+      "hadithNumber": 2075,
+      "arabicNumber": "895.02",
+      "book": 9,
+      "hadithInBook": 6,
+      "text": {
+        "arabic": "وَحَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ، حَدَّثَنَا الْحَسَنُ بْنُ مُوسَى، حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ، عَنْ ثَابِتٍ، عَنْ أَنَسِ بْنِ مَالِكٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم اسْتَسْقَى فَأَشَارَ بِظَهْرِ كَفَّيْهِ إِلَى السَّمَاءِ",
+        "translations": {
+          "en": "Anas b. Malik reported that the Messenger of Allah (ﷺ) prayed for rain pointing the back of his hands to the sky",
+          "ur": "حمادبن سلمہ نے ثابت سے اور انھوں نے حضرت انس بن مالک رضی اللہ تعالیٰ عنہ سے ر وایت کی کہ نبی اکرم صلی اللہ علیہ وسلم نے بارش مانگنے کے لیے دعا فرمائی تو اپنے ہاتھوں کی پشت کے ساتھ آسمان کی طرف اشارہ کیا ۔",
+          "fr": "Rapporté par Anas ibn Malik رضي الله عنه : Le Messager d’Allah ﷺ pria pour la pluie en dirigeant le dos de ses mains vers le ciel",
+          "id": "Dan telah menceritakan kepada kami [Abdu bin Humaid] telah menceritakan kepada kami [Al Hasan bin Musa] telah menceritakan kepada kami [Hammad bin Salamah] dari [Tsabit] dari [Anas bin Malik] bahwa Nabi shallallahu 'alaihi wasallam shalat Istisqa, lalu beliau memberi isyarat ke langit dengan punggung kedua telapak tangannya",
+          "tr": "Bize Abd b. Humeyd rivayet etti. (Dediki): Bize Hasen b. Mûsâ rivayet etti. (Dediki): Bize Hammâd b. Seleme, Sabit'den, o da Enes b. Mâlik'den naklen rivayet ettiki, Nebi (Sallallahu Aleyhi ve Sellem) yağmur duası yapmış ve ellerinin arkası ile gökyüzüne işaret etmişdir. İzah Bu hadis îmam Müslim'in usulüne göre rütbeden sonra geldiği için rakkamlarda takdim te'hir yapılmıştır. Ulemâ yağmur duasında el kaldırmanın müstehab olduğunu söylemişlerdir. Çünkü bu duâ Allah'a teslimiyet ve niyazdan ibarettir. Nebi (Sallallahu Aleyhi ve Sellem)'in: «Şüphesiz ki, Allah haya sahibidir. Kul ellerini kaldırdığı vakit onları boş çevirmekten İstlhya eder.» buyurduğu rivayet olunur. İmam Mâlik, yağmur duasında ellerin içleri yere, arkaları semâya bakmak şartıyle yukarıya kaldırılmasına kail olmuştur. Korku zamanında böyle hareket edilir. Rağbet ve istek zamanında ise ellerin içi semâya doğru çevrilerek kaldırılır. Allahu Teâlâ'nın Bize rağbet ve korku halinde duâ ederler.» âyet-i kerîmesinden murâd: İstek zamanında avuçların içi, korku ânında ise avuçların dışı semâya kaldırılır, diye tefsir edilmişdir. Nevevi diyor ki: «Bizim ulemâmız ile başkalarından müteşekkil bir cemâat kıtlık gibi bir belânın defi için yapılan dualarda eller kaldırılarak, avuçların sırtları semâya çevrilmesi, istek duasında bulunulduğu zaman ise avuçların içinin gökyüzüne çevirilmesi sünnetdir demişlerdir.» Nitekim bir hdisde: «Nebi (Sallallahu Aleyhi ve Sellem) bir şey istediği zaman avuçlarının içini, bir şeyden Allah'a sığındığı zaman ise avuçlarının dışını semâya çevirirdi.» denilmişdir. İbni Abbâs (Radiyallahu anh)'ın dahi: -Allah'dan avuçlarınızın içini açarak dileyin; dışı ile istemeyin!» dediği rivayet olunmuşdur. Gerçi bu haber zayıfdır. Fakat yine de Hz. Enes hadîsi ile araları bulunmuş ve: «îbni Abbâs hadisi istek hâline mahsûsdur.» denilmişdir"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "muslim",
+        "book": 9,
+        "hadith": 6
+      }
+    },
+    {
+      "hadithNumber": 2076,
+      "arabicNumber": "895.03",
+      "book": 9,
+      "hadithInBook": 7,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ، وَعَبْدُ الأَعْلَى، عَنْ سَعِيدٍ، عَنْ قَتَادَةَ، عَنْ أَنَسٍ، أَنَّ نَبِيَّ اللَّهِ صلى الله عليه وسلم كَانَ لاَ يَرْفَعُ يَدَيْهِ فِي شَىْءٍ مِنْ دُعَائِهِ إِلاَّ فِي الاِسْتِسْقَاءِ حَتَّى يُرَى بَيَاضُ إِبْطَيْهِ ‏.‏ غَيْرَ أَنَّ عَبْدَ الأَعْلَى قَالَ يُرَى بَيَاضُ إِبْطِهِ أَوْ بَيَاضُ إِبْطَيْهِ ‏.‏",
+        "translations": {
+          "en": "Anas reported that the Messenger of Allah (ﷺ) was not accustomed to raice his hands in any supplication he made except when praying for rain. (He would then raise [his hands] high enough) that the whiteness of his armpits became visible. 'Abd al-A'la said that (he was in doubt whether it was) the whiteness of his armpit or armpits",
+          "ur": "ابن ابی عدی اور عبدالاعلیٰ نے سعید ( بن ابی عروبہ ) سے ، انھوں نے قتادہ سے اور انھوں نے حضرت انس رضی اللہ تعالیٰ عنہ سے روایت کی کہ نبی اکرم صلی اللہ علیہ وسلم استسقاء کے سوا کسی اور دعا کے لئے اپنے ہاتھ ( اتنے زیادہ ) بلند نہیں کرتےتھے ۔ یہاں تک کہ اس سے آپ کی بغلوں کی سفیدی دیکھائی دینے لگتی ، البتہ عبدالاعلیٰ نے ( شک کے ساتھ ) کہا \" يري بياض ابطه اوبياض ابطيه \" ( آپ کی بغل کی سفیدی یا دونوں بغلوں کی سفیدی دیکھائی دینے لگتی ۔)",
+          "fr": "Rapporté par Anas رضي الله عنه : Le Messager d’Allah ﷺ n’avait pas l’habitude de lever les mains dans ses invocations, sauf lorsqu’il demandait la pluie. (Dans ce cas, il levait les mains si haut qu’on voyait la blancheur de ses aisselles.) ‘Abd al-A‘la a dit qu’il doutait s’il s’agissait d’une seule aisselle ou des deux",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Ibnu Abu Adi] dan [Abdul A'la] dari [Sa'id] dari [Qatadah] dari [Anas] bahwasanya; Nabi shallallahu 'alaihi wasallam tidak mengangkat kedua tangannya ketika berdo'a kecuali dalam shalat Istisqa`, hingga terlihat putih ketiak beliau.\" Namun Abdul A'la berkata; terlihat putih ketiak beliau atau kedua ketiak beliau. Dan telah menceritakan kepada kami [Ibnul Mutsanna] telah menceritakan kepada kami [Yahya bin Sa'id] dari [Ibnu Abu Arubah] dari [Qatadah] bahwa [Anas bin Malik] telah menceritakan kepada mereka, dari Nabi shallallahu 'alaihi wasallam semisalnya",
+          "tr": "ten sonra gelen 6 nolu Hadis 896 nolu sayfada, konu bütünlüğü için takdim te’hir yapılmış. Bize Muhammed b. El-Müsennâ rivayet etti. (Dediki): Bize ibni Ebi Adiyy ile Abdül a'lâ, Said'den, o da Katade'den, o da Enes'den naklen rivayet ettiki, Nebiyyullah (Sallallahu Aleyhi ve Selhm) istiskadan başka hiçbir duasında ellerini kaldırmaznuş. İstiska da koltuklarının beyazı görününceye kadar ellerini kaldırırmış. Yalnız Abdüla'lâ; «Koltuğunun beyazı görününceye kadar...» yahut «koltuklarının beyazı görününceye kadar...» demiş"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "muslim",
+        "book": 9,
+        "hadith": 7
+      }
+    },
+    {
+      "hadithNumber": 2077,
+      "arabicNumber": "896",
+      "book": 9,
+      "hadithInBook": 8,
+      "text": {
+        "arabic": "وَحَدَّثَنَا ابْنُ الْمُثَنَّى، حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، عَنِ ابْنِ أَبِي عَرُوبَةَ، عَنْ قَتَادَةَ، أَنَّحَدَّثَهُمْ عَنِ النَّبِيِّ صلى الله عليه وسلم نَحْوَهُ ‏.‏",
+        "translations": {
+          "en": "This hadith has been narrated by Anas b. Malik through another chain of transmitters",
+          "ur": "یحییٰ بن سعید نے ( سعید ) بن ابی عروبہ سے اور انھوں نے قتادہ سے روایت کی کہ ان کو حضرت انس بن مالک رضی اللہ تعالیٰ عنہ نے نبی کریم صلی اللہ علیہ وسلم سے اسی ( سابقہ حدیث ) کے ہم معنی حدیث بیان کی ۔",
+          "fr": "Rapporté par Anas ibn Malik رضي الله عنه à travers une autre chaîne de transmetteurs",
+          "tr": "{….} Bize İbnü'l-Müsennâ rivayet etti. (Dediki): Bize Yahya b. Saîd, ibni Ebi Arûbe'den, o da Katade'den naklen rivayet ettiki, Enes b. Mâlik, Katâde ve arkadaşlarına Nebi (Sallallahu Aleyhi ve Sellem)'den naklen bu hadisin benzerini rivayet etmiş"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "muslim",
+        "book": 9,
+        "hadith": 8
+      }
+    },
+    {
+      "hadithNumber": 2078,
+      "arabicNumber": "897.01",
+      "book": 9,
+      "hadithInBook": 9,
+      "text": {
+        "arabic": "وَحَدَّثَنَا يَحْيَى بْنُ يَحْيَى، وَيَحْيَى بْنُ أَيُّوبَ، وَقُتَيْبَةُ، وَابْنُ، حُجْرٍ قَالَ يَحْيَى أَخْبَرَنَا وَقَالَ الآخَرُونَ، حَدَّثَنَا إِسْمَاعِيلُ بْنُ جَعْفَرٍ، عَنْ شَرِيكِ بْنِ أَبِي نَمِرٍ، عَنْ أَنَسِ بْنِ مَالِكٍ، أَنَّجُمُعَةٍ مِنْ بَابٍ كَانَ نَحْوَ دَارِ الْقَضَاءِ وَرَسُولُ اللَّهِ صلى الله عليه وسلم قَائِمٌ يَخْطُبُ فَاسْتَقْبَلَ رَسُولَ اللَّهِ صلى الله عليه وسلم قَائِمًا ثُمَّ قَالَ يَا رَسُولَ اللَّهِ هَلَكَتِ الأَمْوَالُ وَانْقَطَعَتِ السُّبُلُ فَادْعُ اللَّهِ يُغِثْنَا ‏.‏ قَالَ فَرَفَعَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَدَيْهِ ثُمَّ قَالَ ‏\"‏ اللَّهُمَّ أَغِثْنَا اللَّهُمَّ أَغِثْنَا اللَّهُمَّ أَغِثْنَا ‏\"‏ ‏.‏ قَالَ أَنَسٌ وَلاَ وَاللَّهِ مَا نَرَى فِي السَّمَاءِ مِنْ سَحَابٍ وَلاَ قَزَعَةٍ وَمَا بَيْنَنَا وَبَيْنَ سَلْعٍ مِنْ بَيْتٍ وَلاَ دَارٍ - قَالَ - فَطَلَعَتْ مِنْ وَرَائِهِ سَحَابَةٌ مِثْلُ التُّرْسِ فَلَمَّا تَوَسَّطَتِ السَّمَاءَ انْتَشَرَتْ ثُمَّ أَمْطَرَتْ - قَالَ - فَلاَ وَاللَّهِ مَا رَأَيْنَا الشَّمْسَ سَبْتًا - قَالَ - ثُمَّ دَخَلَ رَجُلٌ مِنْ ذَلِكَ الْبَابِ فِي الْجُمُعَةِ الْمُقْبِلَةِ وَرَسُولُ اللَّهِ صلى الله عليه وسلم قَائِمٌ يَخْطُبُ فَاسْتَقْبَلَهُ قَائِمًا فَقَالَ يَا رَسُولَ اللَّهِ هَلَكَتِ الأَمْوَالُ وَانْقَطَعَتِ السُّبُلُ فَادْعُ اللَّهَ يُمْسِكْهَا عَنَّا - قَالَ - فَرَفَعَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَدَيْهِ ثُمَّ قَالَ ‏\"‏ اللَّهُمَّ حَوْلَنَا وَلاَ عَلَيْنَا اللَّهُمَّ عَلَى الآكَامِ وَالظِّرَابِ وَبُطُونِ الأَوْدِيَةِ وَمَنَابِتِ الشَّجَرِ ‏\"‏ ‏.‏ فَانْقَلَعَتْ وَخَرَجْنَا نَمْشِي فِي الشَّمْسِ ‏.‏ قَالَ شَرِيكٌ فَسَأَلْتُ أَنَسَ بْنَ مَالِكٍ أَهُوَ الرَّجُلُ الأَوَّلُ قَالَ لاَ أَدْرِي ‏.‏",
+        "translations": {
+          "en": "Anas b. Malik reported that a person entered the mosque through the door situated on theside of Daral-Qada' during Friday (prayer) and the messenger of Allah (ﷺ) was delivering the sermon while standing. He came and stood in front of the Messenger of Allah (ﷺ) and said:Messenger of Allah, the camels died and the passages were blocked; so supplicate Allah to send down rain upon us. The Messenger of Allah (ﷺ) raised his hands and then said: (O Allah, send down rain upon us; O Allah, send dowp rain upon us; O Allah, send down rain upon us. Anas said: By Allah, we did not see any cloud or any patch of it, and there was neither any house or building standing between us and the (hillock) Sal'a. There appeared a cloud in the shape of a shield from behind it, and as it (came high) in the sky it spread and then there was a downpour of rain. By Allah, we did not see the sun throughout the week. Then (that very man) came on the coming Friday through the same door when the Messenger of Allah (ﷺ) was standing and delivering the sermon. He stood in front of him and said: Messenger of Allah, our animals died and the passages blocked. Supplicate Allah to stop the rain for us. The Messenger of Allah (ﷺ) again raised his hands and said: O Allah, let it (rain) fall in our suburbs and not on us, O Allah (send it down) on the hillocks and small mountains and the river-beds and at places where trees grow. The rain stopped, and as we stepped out we were walking in sun- shine. He (the narrator) said to Sharik: I asked Anas b. Malik if he was the same man. He said: I do not know",
+          "ur": "شریک بن ابی نمر نے حضرت انس بن مالک رضی اللہ تعالیٰ عنہ سے روایت کی کہ جمعے کے روز ایک آدمی اس دروازے سے مسجد میں داخل ہوا جو دارالقضاء کی طرف تھا اور رسول اللہ صلی اللہ علیہ وسلم کھڑے خطبہ ارشاد فرمارہے تھے ، اس نے کھڑے کھڑے رسول اللہ صلی اللہ علیہ وسلم کی طرف رخ کیا ، پھر کہا : اےاللہ کے رسول صلی اللہ علیہ وسلم !مال مویشی ہلاک ہوگئے اور راستے منقطع ہوچکے ، اللہ تعالیٰ سے دعا فرمائیں کہ وہ ہمیں بارش عطا کرے ۔ اس پر رسول اللہ صلی اللہ علیہ وسلم نے اپنے دونوں ہاتھ اٹھا دیئے ، پھر کہا : \"\" اے اللہ!ہمیں بارش عنایت فرما ، اے اللہ!ہمیں بارش عنایت فرما ، اے اللہ!ہمیں بارش سے نوازدے ۔ \"\" حضرت انس رضی اللہ تعالیٰ عنہ نے کہا : اللہ کی قسم!ہم آسمان میں نہ کوئی گھٹا دیکھ رہے تھے اور نہ بادل کا کوئی ٹکڑا ۔ ہمارے اور سلع پہاڑ کے درمیان کوئی گھر تھا نہ محلہ ۔ پھر اس کے پیچھے سے ڈھال جیسی چھوٹی سی بدلی اٹھی ، جب وہ آسمان کے وسط میں پہنچی تو پھیل گئی ، پھر وہ برسی ، اللہ کی قسم!ہم نے ہفتہ بھر سورج نہ دیکھا ۔ پھر اگلے جمعے اسی دروازے سے ایک آدمی داخل ہوا ، رسول اللہ صلی اللہ علیہ وسلم کھڑے خطبہ ارشاد فرمارہے تھے ، اس نے کھڑے کھڑے آپ صلی اللہ علیہ وسلم کی طرف رخ کرکے کہا : اے اللہ کے رسول صلی اللہ علیہ وسلم ! ( بارش کی کثرت سے ) مال مویشی ہلاک ہوگئے اور راستے بند ہوگئے ، اس لئے اللہ تعالیٰ سے دعا فرمائیں کہ وہ ہم سے بارش روک لے ۔ اس پر رسول اللہ صلی اللہ علیہ وسلم نے دونوں ہاتھ اٹھادیے ، پھر فرمایا : \"\" اے اللہ!ہمارے ارد گرد ( بارش برسا ) ہم پر نہیں ، اے اللہ!پہاڑیوں پر ، ٹیلوں پر ، وادیوں کے اندر ( ندیوں میں ) اور درخت اگنے کے مقامات پر ( برسا ۔ ) \"\" کہا : \"\" ( فوراً ) بادل چھٹ گئے اور ہم ( مسجد سے ) نکلے تو دھوپ میں چل رہے تھے ۔ شریک نے کہا : میں نے حضرت انس رضی اللہ تعالیٰ عنہ سے پوچھا : کیا وہ پہلے آدمی تھا؟انھوں نے جواب دیا : میں نہیں جانتا ۔",
+          "fr": "Rapporté par Anas ibn Malik رضي الله عنه : Un homme entra dans la mosquée par la porte du côté de Dar al-Qada’ pendant la prière du vendredi, alors que le Messager d’Allah ﷺ prononçait le sermon en étant debout. Il se plaça devant le Messager d’Allah ﷺ et dit : « Ô Messager d’Allah, les chameaux sont morts et les chemins sont bloqués ; invoque Allah pour qu’Il fasse descendre la pluie sur nous. » Le Messager d’Allah ﷺ leva les mains et dit : « Ô Allah, fais descendre la pluie sur nous ! Ô Allah, fais descendre la pluie sur nous ! Ô Allah, fais descendre la pluie sur nous ! » Anas رضي الله عنه dit : Par Allah, nous n’avons vu aucun nuage, même pas un petit, et il n’y avait aucune maison ou bâtiment entre nous et la colline de Sal‘a. Un nuage apparut alors, en forme de bouclier, derrière elle, monta dans le ciel, s’étendit, puis il y eut une forte pluie. Par Allah, nous n’avons pas vu le soleil de toute la semaine. Puis, le même homme revint le vendredi suivant par la même porte, alors que le Messager d’Allah ﷺ était debout et prononçait le sermon. Il se plaça devant lui et dit : « Ô Messager d’Allah, nos animaux sont morts et les chemins sont bloqués. Invoque Allah pour qu’Il arrête la pluie pour nous. » Le Messager d’Allah ﷺ leva de nouveau les mains et dit : « Ô Allah, fais pleuvoir autour de nous et non sur nous ! Ô Allah, sur les collines, les petites montagnes, les lits de rivières et les endroits où poussent les arbres. » La pluie s’arrêta, et en sortant, nous marchions au soleil. Il (le narrateur) demanda à Sharik : « As-tu demandé à Anas ibn Malik s’il s’agissait du même homme ? » Il répondit : « Je ne sais pas. »",
+          "id": "Dan Telah meceritakan kepada kami [Yahya bin Yahya] dan [Yahya bin Ayyub] dan [Qutaibah] dan [Ibnu Hujr] -Yahya berkata- telah mengabarkan kepada kami -sementara yang lain berkata- Telah menceritakan kepada kami [Isma'il bin Ja'far] dari [Syarik bin Abu Namir] dari [Anas bin Malik] bahwasanya; Ada seorang laki-laki yang masuk Masjid pada hari Jum'at dari pintu yang menghadap Darul Qadla`, sementara Rasulullah shallallahu 'alaihi wasallam berdiri sedang menyampaikan khutbah. Kemudian laki-laki itu segera menghadap ke arah Rasulullah shallallahu 'alaihi wasallam dan berkata, \"Wahai Rasulullah, harta benda telah binasa dan jalan pun telah terputus. Karena itu, berdo'alah kepada Allah agar menurunkan hujan.\" Maka Rasulullah shallallahu 'alaihi wasallam mengangkat kedua tangannya seraya berdo'a: \"ALLAHUMMA AGHITSNAA ALLAHUMMA AGHITSNAA, ALLAHUMMA AGHITSNAA (Ya Allah, turunkanlah hujan kepada kami. Ya Allah, turunkanlah hujan kepada kami, Ya Allah, turunkanlah hujan kepada kami). Anas berkata, \"Tidak, demi Allah, kami tidak melihat mendung maupun gumpalan awan sedikitpun di langit, juga tidak ada di antara kami ataupun di antara celah meski satu rumah maupun tempat tinggal.\" Ia berkata, \"Maka datanglah dari arah belakangnya segumpalan awan yang menyerupai sebuah perisai. Setelah memenuhi langit, awan tersebut menyebar lalu turunlah hujan.\" Ia berkata, \"Tidak, demi Allah kami tidak dapat melihat matahari kala itu.\" Ia berkata, \"Kemudian ada seorang laki-laki yang masuk melalui pintu tersebut pada hari Jum'at selanjutnya, sedangkan Rasulullah shallallahu 'alaihi wasallam sedang berdiri menyampaikan khutbah, maka ia menghampiri beliau dengan berdiri dan mengatakan, \"Wahai Rasulullah, harta benda kami telah lenyap dan jalan-jalan pun sudah buntu, maka berdo'alah kepada Allah supaya Dia menetapkannya bagi kami.\" Ia mengatakan, \"Maka Rasulullah shallallahu 'alaihi wasallam mengangkat kedua tangannya lalu berdo'a, \"Ya Allah! Hujanilah di sekitar kami, jangan kepada kami. Ya, Allah! Berilah hujan ke daratan tinggi, beberapa anak bukit, perut lembah dan beberapa tanah yang menumbuhkan pepohonan.\" Maka kami segera berdiri dan keluar berjalan di bawah sinar matahari.\" Syarik berkata; Lalu aku pun bertanya kepada Anas bin Malik, \"Apakah laki-laki itu adalah laki-laki yang pertama?\" Ia menjawab, \"Saya tidak tahu.\" Dan telah meceritakan kepada kami [Dawud bin Rusyaidin] telah menceritakan kepada kami [Al Walid bin Muslim] dari [Al Auza'i] telah menceritakan kepadaku [Ishaq bin Abdullah bin Abu Thalhah] dari [Anas bin Malik] ia berkata; Orang-orang tertimpa musim paceklik pada masa Rasulullah shallallahu 'alaihi wasallam. Maka ketika Rasulullah shallallahu 'alaihi wasallam sedang menyampaikan khutbah kepada orang banyak di atas mimbar pada hari Jum'at, tiba-tiba berdirilah seorang Arab pegunungan dan berkata, \"Wahai Rasulullah, harta telah binasa dan sanak keluarga kami pun kelaparan.\" Ia pun menuturkan hadits yang semakna dengan hadits di atas. Dan di dalamnya ia menyebutkan do'a: \"ALLAHUMMA HAWAALAINAA WALAA 'ALAINAA (Ya Allah, hujanilah sekitar kami dan jangan kepada kami).\" Dan tidaklah beliau memberi isyarat dengan tangannya, kecuali terlihat (gumpalan awan), hingga aku melihat kota Madinah bagaikan lobang. Dan lembah Qanath mengalirkan airnya selama satu bulan, dan tidaklah seseorang datang dari seberang, kecuali dengan membawa berita terjadinya hujan yang lebat. Dan telah menceritakan kepadaku [Abdul A'la bin Hammad] dan [Muhammad bin Abu Bakar Al Muqaddami] keduanya berkata, telah menceritakan kepada kami [Mu'tamir] telah menceritakan kepada kami [Ubaidullah] dari [Tsabit Al Bunani] dari [Anas bin Malik] ia berkata; Nabi shallallahu 'alaihi wasallam menyampaikan khutbah pada hari Jum'at, kemudian orang-orang datang kepada beliau dengan berteriak seraya berkata, \"Wahai Nabi Allah, hujan tak lagi turun, pepohonan telah memerah dan hewan ternak pun telah binasa.\" Ia pun menuturkan hadits. Dan di dalamnya -dari riwayatnya Abdul A'la- tercantum; \"Kemudian (awan itu pun) menyebar dari Madinah, hingga hujan pun turun membasahi sekelilingnya, sementara di kota Madinah tak turun hujan setetes pun. Sesudah itu, aku melihat Madinah, ternyata kota Madinah saat itu benar-benar seperti mahkota (lantaran hujan telah merata membasahinya).\" Dan telah menceritakan kepada kami [Abu Kuraib] telah menceritakan kepada kami [Abu Usamah] dari [Sulaiman bin Al Mughirah] dari [Tsabit] dari [Anas] semisalnya. Dan ia menambahkan; \"Maka Allah menyatukan gumpalan-gumpalan awan itu, lalu kami tinggal di situ sejenak hingga aku melihat laki-laki itu tak sanggup lagi menahan keinginannya untuk segera mendatangi keluarganya.\" Dan Telah menceritakan kepada kami [Harun bin Sa'id Al Aili] Telah menceritakan kepada kami [Ibnu Wahab] telah menceritakan kepadaku [Usamah] bahwa [Hafsh bin Ubaidullah bin Anas bin Malik] telah menceritakan kepadanya, bahwa ia mendengar [Anas bin Malik] berkata; \"Ada seorang A'rabi (Arab pegunungan) datang kepada Rasulullah shallallahu 'alaihi wasallam pada hari Jum'at saat beliau berada di atas mimbar.\" Ia pun menuturkan hadits itu, dan ia menambahkan; \"Maka aku pun melihat awan yang saling memisah bagaikan air saat dituangkan",
+          "tr": "Bize Yahya ile Yahya b. Eyyûb, Kuteybe ve İbni Hucr rivayet ettiler. Yahya: Bize haber verdi, tâbirini kullandı; ötekiler: Bize îsmâil b. Cafer, Şerik b. Ebî Nemîr'den, o da Enes b. Mâlik'den naklen rivayet etti. dediler. (Enes demiş ki). Cum'a günü Darü'l-Kaza tarafındaki bir kapıdan mescide bir adam girdi. Resulullah (Sallallahu Aleyhi ve Sellem) ayakta hutbe okuyordu; onun karşısına dikildi. Ve: — Yâ Resûlallah! Mallar helak oldu. Yollar kesildi. Binâenaleyh duâ et de, Allah bize yağmur versin, dedi. Bunun üzerine Resulullah (Sallallahu Aleyhi ve Sellem) ellerini kaldırdı ve şöyle duâ etti: «Allah'ım! Bize yağmur ver! Allah'ım! Bize yağmur ver! Allah'ım! Bize yağmur ver!» Enes demiş ki: «Vallahi gökyüzünde ne bir bulut görüyorduk; ne de bir bulut paresi. Bizimle Sel' dağı arasında hiç bir ev ve bina yoktu. Derken dağın ardından kalkan şeklinde bir bulut belirdi. Bu bulut semânın ortasına gelince yayıldı. Sonra yağmur yağdı. Vallahi bir hafta güneşi göremedik. Ertesi cum'a yine o kapıdan bir adam girdi. Resulullah (Sallallahu Aleyhi ve Sellem) ayakta hutbe okuyordu. Gelen zât karşısına dikilerek: — «Yâ Resûlallah! Mallar helak oldu; yollar kesildi. (Ne olur) Allah'a duâ ediver de, artık bu yağmuru bizden dindirsin.» dedi. Bunun üzerine Resulullah (Sallallahu Aleyhi ve Sellem) yine ellerini kaldırdı ve: «Allah'ım! Üzerimize değil; etrafımıza (yağdır.) Allah'ım! Dağlara, tepelere, vâdî içlerine ve ormanlara...» diye duâ etti. Müteakibin yağmur dindi; biz de güneşe karşı çıktık, gittik. Şerik demiş ki: «Enes b. Mâlik'e: — Bu zât ilk gelenmiydi? diye sordum; — Bilmiyorum, cevâbını verdi.»"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "muslim",
+        "book": 9,
+        "hadith": 9
+      }
+    },
+    {
+      "hadithNumber": 2079,
+      "arabicNumber": "897.02",
+      "book": 9,
+      "hadithInBook": 10,
+      "text": {
+        "arabic": "وَحَدَّثَنَا دَاوُدُ بْنُ رُشَيْدٍ، حَدَّثَنَا الْوَلِيدُ بْنُ مُسْلِمٍ، عَنِ الأَوْزَاعِيِّ، حَدَّثَنِي إِسْحَاقُ، بْنُ عَبْدِ اللَّهِ بْنِ أَبِي طَلْحَةَ عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ أَصَابَتِ النَّاسَ سَنَةٌ عَلَى عَهْدِ رَسُولِ اللَّهِ صلى الله عليه وسلم فَبَيْنَا رَسُولُ اللَّهِ صلى الله عليه وسلم يَخْطُبُ النَّاسَ عَلَى الْمِنْبَرِ يَوْمَ الْجُمُعَةِ إِذْ قَامَ أَعْرَابِيٌّ فَقَالَ يَا رَسُولَ اللَّهِ هَلَكَ الْمَالُ وَجَاعَ الْعِيَالُ ‏.‏ وَسَاقَ الْحَدِيثَ بِمَعْنَاهُ ‏.‏ وَفِيهِ قَالَ ‏ \"‏ اللَّهُمَّ حَوَالَيْنَا وَلاَ عَلَيْنَا ‏\"‏ ‏.‏ قَالَ فَمَا يُشِيرُ بِيَدِهِ إِلَى نَاحِيَةٍ إِلاَّ تَفَرَّجَتْ حَتَّى رَأَيْتُ الْمَدِينَةَ فِي مِثْلِ الْجَوْبَةِ وَسَالَ وَادِي قَنَاةَ شَهْرًا ‏.‏ وَلَمْ يَجِئْ أَحَدٌ مِنْ نَاحِيَةٍ إِلاَّ أَخْبَرَ بِجَوْدٍ ‏.‏",
+        "translations": {
+          "en": "Anas b. Malik reported:The people were in the grip of famine during the lifetime of the Messenger of Allah (ﷺ), and (once) as the Messenger of Allah (ﷺ) was delivering the sermon standing on the pulpit on Friday, a bedouin stood up and said: Messenger of Allah, the animals died and the children suffered starvation. The rest of the hadith is the same (and the words are) that he (the Holy Prophet) said: O Allah, send down rain in our suburbs but not on us. He (the narrator) said: To whichever directions he pointed with his hands, the clouds broke up and I saw Medina like the opening of a (courtyard) and the stream of Qanat flowed for one month, and none came from any part (of Arabia) but with the news of heavy rainfall",
+          "ur": "اسحاق بن عبداللہ بن ابی طلحہ نے حضرت انس بن مالک رضی اللہ تعالیٰ عنہ سے روایت کی ، انھوں نےکہا : رسول اللہ صلی اللہ علیہ وسلم کے زمانے میں لوگوں کوخشک سالی نے آلیا ۔ اسی اثنا میں کہ رسول اللہ صلی اللہ علیہ وسلم جمعے کے دن منبر پر لوگوں کے سامنے خطبہ دے رہے تھے کہ اچانک ایک بدوی کھڑا ہوا اور کہا : اے اللہ کے رسول : مال مویشی ہلاک ہوگئے ، بال بچے بھوکے مرنے لگے ۔ ۔ ۔ ( آگے ) اسی ( سابقہ حدیث ) کے ہم معنی حدیث بیان کی ۔ اور اس میں ہے ، آپ صلی اللہ علیہ وسلم نے فرمایا : \" ا ے اللہ!ہمارے ارد گرد ( برسا ) ہمارے اوپر نہیں ۔ \" کہا : اور آپ اپنے ہاتھ سے جس طرف بھی اشارہ کرتے تھے اسی طرف سے بادل چھٹ جاتے تھےحتیٰ کہ میں نے مدینہ منورہ کو ( زمین کے ) خالی ٹکڑے کے مانند دیکھا اور وادی قناۃ ایک ماہ تک بہتی رہی اور کسی طرف سے بھی کوئی شخص نہیں آیا مگر اس نے موسلادھار بارش کی خبر دی ۔",
+          "fr": "Rapporté par Anas ibn Malik رضي الله عنه : Les gens souffraient de la famine du vivant du Messager d’Allah ﷺ. Un jour, alors que le Messager d’Allah ﷺ prononçait le sermon sur le minbar un vendredi, un bédouin se leva et dit : « Ô Messager d’Allah, les animaux sont morts et les enfants souffrent de la faim. » La suite du hadith est la même, avec ces mots : Il (le Prophète ﷺ) dit : « Ô Allah, fais pleuvoir dans nos environs mais pas sur nous. » Le narrateur dit : Dans toutes les directions où il pointait ses mains, les nuages se dispersaient, et j’ai vu Médine comme l’ouverture d’une cour, et le canal Qanat coula pendant un mois. Personne ne venait d’aucune région sans annoncer de fortes pluies",
+          "tr": "Bize, Dâvûd b. Ruşeyd rivayet etti. (Dediki): Bize Velîd b. Müslim, Evzâî'den rivayet etti. (Demiş ki): Bana İshâk b. Abdillâh b. Ebî Tâlha; Enesü'bnu Mâlik'den naklen rivayet etti. Enes şöyle demiş: Resulullah (Sallallahu Aleyhi ve Sellem) zamanında halk'a kıtlık isabet etti. Bir cum'a günü Resulullah (Sallallahu Aleyhi ve Sellem) minberde cemaata hutbe okurken birden Bedevinin biri ayağa kalkarak: — «Yâ Resûlallah! Mallar helak oldu; çoluk çocuk aç kaldı.» dedi. Râvî bu hadîsi de yukarkinin mânasında rivayet etmişdir. Bu hadîsde: «Allah'ım! Üzerimize değil; etrafımıza!..- dedi. Eli ile ne tarafa işaret ederse, o taraf hemen açılıyordu. Nihayet Medine'yi bir alanda imiş gibi gördüm. Kanat vadisi bir ay (mütemadiyen) aktı. Ne taraftan biri gelse, bol bol yağmur yağdığını haber veriyordu. İfadesi de vardır"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "muslim",
+        "book": 9,
+        "hadith": 10
+      }
+    },
+    {
+      "hadithNumber": 2080,
+      "arabicNumber": "897.03",
+      "book": 9,
+      "hadithInBook": 11,
+      "text": {
+        "arabic": "وَحَدَّثَنِي عَبْدُ الأَعْلَى بْنُ حَمَّادٍ، وَمُحَمَّدُ بْنُ أَبِي بَكْرٍ الْمُقَدَّمِيُّ، قَالاَ حَدَّثَنَا مُعْتَمِرٌ، حَدَّثَنَا عُبَيْدُ اللَّهِ، عَنْ ثَابِتٍ الْبُنَانِيِّ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ كَانَ النَّبِيُّ صلى الله عليه وسلم يَخْطُبُ يَوْمَ الْجُمُعَةِ فَقَامَ إِلَيْهِ النَّاسُ فَصَاحُوا وَقَالُوا يَا نَبِيَّ اللَّهِ قَحِطَ الْمَطَرُ وَاحْمَرَّ الشَّجَرُ وَهَلَكَتِ الْبَهَائِمُ ‏.‏ وَسَاقَ الْحَدِيثَ وَفِيهِ مِنْ رِوَايَةِ عَبْدِ الأَعْلَى فَتَقَشَّعَتْ عَنِ الْمَدِينَةِ ‏.‏ فَجَعَلَتْ",
+        "translations": {
+          "en": "Anas b. Malik reported that while the Messenger of Allah (ﷺ) was delivering the sermon on Friday, people stood up before him and said in a loud voice:Apostle of Allah, there is a drought and the trees have become yellow, the animals have died; and the rest of the hadith is the same, and in the narration transmitted by 'Abd al-A'la the words are:\" The clouds cleard from Medina and it began to rain around it and not a single drop of rain fell in Medina. And as I looked towards Medina, I found it hollow like (the hollowness of) a basin",
+          "ur": "عبدالاعلیٰ بن حماد اور محمد بن ابی بکر مقدمی نے کہا : ہمیں معتمر نے حدیث بیا ن کی ، انھوں نے کہا : ہمیں عبیداللہ نے ثابت بنانی سے اور انھوں نے کہا : رسول اللہ صلی اللہ علیہ وسلم جمعے کے دن خطبہ دے رہے تھے کہ لوگ آپ کے سامنے کھڑے ہوگئے ، ( بات شروع کرنے والے بدو کے ساتھ دوسرے بھی شامل ہوگئے ) وہ فریاد کرنے لگے اور کہنے لگے : اےاللہ کے نبی !بارش بندہوگئی ، درختوں ( کے پتے سوکھ کر ) سرخ ہوگئے اور مویشی ہلاک ہوگئے ۔ ۔ ۔ اور ( آگے مذکورہ بالا حدیث کے مانند ) حدیث بیان کی ۔ اس میں عبدالاعلیٰ کی روایت سے یہ ( الفاظ ) ہیں : مدینہ سے بادل چھٹ گئے اور اس کے ارد گرد بارش برسانے لگے جبکہ مدینہ میں ایک قطرہ بھی نہیں برس رہاتھا میں نے مدینہ کو دیکھا وہ ایک طرح کے تاج کے اندر ( بارش سے محفوظ ) تھا ۔",
+          "fr": "Rapporté par Anas ibn Malik رضي الله عنه : Alors que le Messager d’Allah ﷺ prononçait le sermon du vendredi, des gens se levèrent devant lui et dirent à haute voix : « Ô Messager d’Allah, il y a la sécheresse, les arbres jaunissent, les animaux sont morts. » La suite du hadith est la même, et dans la version rapportée par ‘Abd al-A‘la, il est dit : « Les nuages se sont dissipés au-dessus de Médine et il a plu autour, mais pas une goutte n’est tombée sur Médine. En regardant vers Médine, je l’ai trouvée comme un bassin creux. »",
+          "tr": "Bana Abdüla'lâ b. Hammâd ile Muhammed b. Ebî Bekir El-Mukaddemi rivayet ettiler. Dedilerki: Bize, Mu'temir rivayet etti. (Dediki): Bize Ubeydullah, Sâbit-i Bünâni'den, o da Enesü'bnu Mâlik'den naklen rivayet etti. Enes şöyle demiş: Nebi (Sallallahu Aleyhi ve Sellem) bir cum'a günü hutbe okuyordu, derken halk ona doğru kalkarak seslendiler ve: «Yâ Nebiyallah! Yağmur yağmaz oldu, ağaçlar kıpkırmızı kesildi; hayvanlar helak oldu.» dediler. Râvî, hadîsi (böylece) rivayet etmişdir. Bu hadîsin Abdüla'lâ rivayetinde şu cümleler de vardır: -Derken Medine'nin üzeri açıldı, yağmur etrafa yağmaya başladı. Medine'ye bir damla bile düşmüyordu. Medine'ye baktım; bir tac'a bürünmüş gibi duruyordu.»"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "muslim",
+        "book": 9,
+        "hadith": 11
+      }
+    },
+    {
+      "hadithNumber": 2081,
+      "arabicNumber": "897.04",
+      "book": 9,
+      "hadithInBook": 12,
+      "text": {
+        "arabic": "وَحَدَّثَنَاهُ أَبُو كُرَيْبٍ، حَدَّثَنَا أَبُو أُسَامَةَ، عَنْ سُلَيْمَانَ بْنِ الْمُغِيرَةِ، عَنْ ثَابِتٍ، عَنْ أَنَسٍ، بِنَحْوِهِ وَزَادَ فَأَلَّفَ اللَّهُ بَيْنَ السَّحَابِ وَمَكَثْنَا حَتَّى رَأَيْتُ الرَّجُلَ الشَّدِيدَ تُهِمُّهُ نَفْسُهُ أَنْ يَأْتِيَ أَهْلَهُ ‏.‏",
+        "translations": {
+          "en": "This hadith has been narrated on the authority of Anas but with this addition:\" Allah gathered the clouds and as we (were obliged) to stay back I saw that even the strong man, impelled by a desire to go to his family, (could not do so)",
+          "ur": "سلمان بن مغیرۃ نے ثابت اور انھوں نے حضرت انس رضی اللہ تعالیٰ عنہ سے اسی کے ہم معنی روایت کی اور یہ اضافہ کیا : اللہ تعالیٰ نے بادلوں کو جوڑ دیا اور ہم اسی ( حالت ) میں رہے حتیٰ کہ میں نے دیکھا ایک قوی اور مضبوط آدمی کو بھی اس کا دل ( بارش کی کثرت کی بناء پر ) اس فکر میں مبتلا کردیتاتھا کہ وہ ا پنے اہل وعیال کے پاس پہنچے ۔",
+          "fr": "Rapporté par Anas رضي الله عنه avec cette précision : « Allah a rassemblé les nuages, et comme nous étions obligés de rester, j’ai vu que même un homme fort, désireux de rejoindre sa famille, ne pouvait pas le faire. »",
+          "tr": "Bu hadîsi, bize Ebû Kureyb de rivayet etti. (Dediki): Bize Ebû Usâme, Süleyman b. Mugîra'dan, o da Sâbit'den, o da Enes' den yukarki hadisin mislini rivayet etti. Şunu da ziyâde etti: «Müteakiben Allah bulutu yatıştırdı. Biz (bir hayli) bekledik. O derece ki, kuvvetli bir adamın ailesi nezdine dönebilmesi başına dert olduğunu gördüm.»"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "muslim",
+        "book": 9,
+        "hadith": 12
+      }
+    },
+    {
+      "hadithNumber": 2082,
+      "arabicNumber": "897.05",
+      "book": 9,
+      "hadithInBook": 13,
+      "text": {
+        "arabic": "وَحَدَّثَنَا هَارُونُ بْنُ سَعِيدٍ الأَيْلِيُّ، حَدَّثَنَا ابْنُ وَهْبٍ، حَدَّثَنِي أُسَامَةُ، أَنَّ حَفْصَ بْنَ، عُبَيْدِ اللَّهِ بْنِ أَنَسِ بْنِ مَالِكٍ حَدَّثَهُ أَنَّهُ، سَمِعَ أَنَسَ بْنَ مَالِكٍ، يَقُولُ جَاءَ أَعْرَابِيٌّ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم يَوْمَ الْجُمُعَةِ وَهُوَ عَلَى الْمِنْبَرِ ‏.‏ وَاقْتَصَّ الْحَدِيثَ وَزَادَ فَرَأَيْتُ السَّحَابَ يَتَمَزَّقُ كَأَنَّهُ الْمُلاَءُ حِينَ تُطْوَى ‏.‏",
+        "translations": {
+          "en": "Ubaidullah b. Anas b. Malik heard (his father) Anas b. Malik as saying:A bedouin came to the Messenger of Allah (ﷺ) on Friday as he was (delivering the sermon on his) pulpit; and the rest of the hadith is the same but with this addition:\" I saw the cloud clearing just as a sheet is folded",
+          "ur": "حفص بن عبیداللہ بن انس بن مالک نے بیان کیاکہ انھوں نے حضرت انس بن مالک رضی اللہ تعالیٰ عنہ سے سنا ، وہ کہہ رہے تھے : جمعے کے دن ایک اعرابی رسول اللہ صلی اللہ علیہ وسلم کے پاس آیا جبکہ آپ منبر پر تھے ۔ ۔ ۔ ( آگے مذکورہ بالاحدیث کے مانند ) حدیث بیان کی اور اس میں یہ اضافہ کیا : میں نے بادل کو دیکھاوہ اس طرح چھٹ رہا تھا جیسے وہ ایک بڑی چادر ہوجب اسے لپیٹا جارہا ہو ۔",
+          "fr": "Rapporté par ‘Ubaidullah ibn Anas ibn Malik : Il a entendu son père Anas ibn Malik رضي الله عنه dire : Un bédouin est venu voir le Messager d’Allah ﷺ un vendredi alors qu’il était sur le minbar ; la suite du hadith est la même, avec ce détail supplémentaire : « J’ai vu le nuage se dissiper comme on replie un drap. »",
+          "tr": "Bize, Hârûn b. Said El-Eylî rivayet etti. (Dediki): Bize İbni Vehb rivayet etti. (Dediki): Bana Usâme rivayet etti; ona da Hafs b. Ubeydillâh b. Enes b. Mâlik rivayet etmiş. Hafs da Enesü'bnu Mâlik'i şöyle derken işitmiş: «Bir cum'a günü Resulullah (Sallallahu Aleyhi ve Sellem) minberde iken ona bir bedevi geldi...» Ve râvî hadîsi (böylece) rivayet etti. Şunu da ziyâde eyledi: «Bulutun, dürülü çarşafın yayıldığı gibi dağılıp gittiğini gördüm.» İzah için buraya tıklayın"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "muslim",
+        "book": 9,
+        "hadith": 13
+      }
+    },
+    {
+      "hadithNumber": 2083,
+      "arabicNumber": "898",
+      "book": 9,
+      "hadithInBook": 14,
+      "text": {
+        "arabic": "وَحَدَّثَنَا يَحْيَى بْنُ يَحْيَى، أَخْبَرَنَا جَعْفَرُ بْنُ سُلَيْمَانَ، عَنْ ثَابِتٍ الْبُنَانِيِّ، عَنْ أَنَسٍ، قَالَ قَالَ أَنَسٌ أَصَابَنَا وَنَحْنُ مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم مَطَرٌ قَالَ فَحَسَرَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ثَوْبَهُ حَتَّى أَصَابَهُ مِنْ الْمَطَرِ فَقُلْنَا يَا رَسُولَ اللَّهِ لِمَ صَنَعْتَ هَذَا قَالَ لِأَنَّهُ حَدِيثُ عَهْدٍ بِرَبِّهِ تَعَالَى",
+        "translations": {
+          "en": "Anas (b. Malik) reported:It rained upon us as we were with the Messenger of Allah (ﷺ). The Messenger of Allah (way peace be upon him) removed his cloth (from a part of his body) till the rain fell on it. We said: Messenger of Allah, why did you do this? He said: It is because it (the rainfall) has just come from the Exalted Lord",
+          "ur": "حضرت انس رضی اللہ تعالیٰ عنہ نے کہا : ہم رسول اللہ صلی اللہ علیہ وسلم کے ساتھ تھے کہ ہم پر بارش برسنے لگی تو رسول اللہ صلی اللہ علیہ وسلم اپنا ( سر اور کندھے کا کپڑا ) کھول دیا حتیٰ کہ بارش آپ پر آنے لگی ۔ ہم نے عرض کی : اے اللہ کے رسول صلی اللہ علیہ وسلم !آپ نے ایسا کیوں کیا؟آپ نے فرمایا : \" کیونکہ وہ نئی نئی ( سیدھی ) اپنے رب عزوجل کی طرف سے آرہی ہے ۔",
+          "fr": "Rapporté par Anas ibn Malik رضي الله عنه : Nous étions avec le Messager d’Allah ﷺ lorsqu’il s’est mis à pleuvoir. Le Messager d’Allah ﷺ a alors découvert une partie de son vêtement pour que la pluie tombe dessus. Nous avons demandé : « Ô Messager d’Allah, pourquoi as-tu fait cela ? » Il répondit : « Parce que cette pluie vient juste d’Allah, le Très-Haut. »",
+          "id": "Dan Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Ja'far bin Sulaiman] dari [Tsabit Al Bunani] dari [Anas] ia berkata; Kami diguyur hujan ketika bersama Rasulullah shallallahu 'alaihi wasallam, beliau membuka pakaiannya sehingga terkena hujan, lalu kami pun bertanya, \"Wahai Rasulullah, kenapa Anda melakukan hal itu?\" beliau menjawab: \"Karena hujan ini merupakan rahmat yang diberikan oleh Allah ta'ala",
+          "tr": "Bize Yahya b. Yahya rivayet etti. (Dediki): Bize Ca'fer b. Süleyman, Sâbit-i Bünânî'den, o da Enes'den naklen haber verdi. Demişki: Enes şunları söyledi; «Bir def'â biz Resulullah (Sallallahu Aleyhi ve Sellem) ile beraber iken yağmura tutulduk. Resulullah (Sallallahu Aleyhi ve Sellem) elbisesini çıkardı hattâ yağmurdan ıslandı. Biz: — Yâ Resulullah! Neden böyle yaptın? dedik. — Bu yağmur Rabbi Teâlâ tarafından yeni geliyor da onun için! cevâbını verdi.»"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "muslim",
+        "book": 9,
+        "hadith": 14
+      }
+    },
+    {
+      "hadithNumber": 2084,
+      "arabicNumber": "899.01",
+      "book": 9,
+      "hadithInBook": 15,
+      "text": {
+        "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ بْنِ قَعْنَبٍ، حَدَّثَنَا سُلَيْمَانُ، - يَعْنِي ابْنَ بِلاَلٍ - عَنْ جَعْفَرٍ، - وَهُوَ ابْنُ مُحَمَّدٍ - عَنْ عَطَاءِ بْنِ أَبِي رَبَاحٍ، أَنَّهُ سَمِعَ عَائِشَةَ، زَوْجَ النَّبِيِّ صلى الله عليه وسلم تَقُولُ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم إِذَا كَانَ يَوْمُ الرِّيحِ وَالْغَيْمِ عُرِفَ ذَلِكَ فِي وَجْهِهِ أَقْبَلَ وَأَدْبَرَ فَإِذَا مَطَرَتْ سُرَّ بِهِ وَذَهَبَ عَنْهُ ذَلِكَ ‏.‏ قَالَتْ عَائِشَةُ فَسَأَلْتُهُ فَقَالَ ‏\"‏ إِنِّي خَشِيتُ أَنْ يَكُونَ عَذَابًا سُلِّطَ عَلَى أُمَّتِي ‏\"‏ ‏.‏ وَيَقُولُ إِذَا رَأَى الْمَطَرَ ‏\"‏ رَحْمَةٌ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Ata' b. Abi Rabah reported that he heard 'A'isha, the wife of the Messenger of Allah (way peace be upon him), as saying:When there was on any day windstorm or dark cloud (its effects) could be read on the face of the Messenger of Allah (ﷺ), and he moved forward and backward (in a state of anxiety) ; and when it rained, he was delighted and it (the state of restlessness) disappeared. 'A'isha said: I asked him the reason of this anxiety and he said: I was afraid that it might be a calamity that might fall upon my Ummah, and when he saw rainfall he said: It is the mercy (of Allah)",
+          "ur": "جعفر بن محمد نے عطاء بن ابی ر باح سے روایت کی انھوں نے نبی کریم صلی اللہ علیہ وسلم کی ذوجہ محترمہ حضرت عائشہ رضی اللہ تعالیٰ عنہا کو کہتے ہوئے سنا : رسول اللہ صلی اللہ علیہ وسلم کی عادت مبارکہ تھیں کہ جب آندھی یا بادل کا دن ہوتا تو آپ کے چہرہ مبارک پر اس کا اثر پہچانا جاسکتا تھا ، آپ صلی اللہ علیہ وسلم ( اضطراب کے عالم میں ) کبھی آگے جاتے اور کبھی پیچھے ہٹتے ، پھر جب بارش برسناشروع ہوجاتی تو آپ اس سے خوش ہوجاتے اور وہ ( پہلی کیفیت ) آ پ سے دور ہوجاتی ، حضرت عائشہ رضی اللہ تعالیٰ عنہا نے کہا : میں نے ( ایک بار ) آپ سے ( اس کا سبب ) پوچھا تو آپ نے فرمایا : \" میں ڈر گیا کہ یہ عذاب نہ ہو جو میری امت پر مسلط کردیا گیا ہو \" اور بارش کو دیکھ لیتے تو فرماتے \" رحمت ہے ۔",
+          "fr": "Rapporté par ‘Ata’ b. Abi Rabah : J’ai entendu ‘Aïsha, l’épouse du Messager d’Allah ﷺ, dire : Lorsqu’il y avait un jour de tempête ou de nuages sombres, on pouvait lire l’inquiétude sur le visage du Messager d’Allah ﷺ, et il allait et venait, anxieux. Mais dès qu’il pleuvait, il était heureux et cette inquiétude disparaissait. ‘Aïsha a dit : Je lui ai demandé la raison de cette anxiété et il a répondu : « J’avais peur que ce soit un malheur qui s’abatte sur ma communauté. » Et quand il voyait la pluie, il disait : « C’est une miséricorde d’Allah. »",
+          "id": "Telah menceritakan kepada kami [Abdullah bin Maslamah bin Qa'nab] telah menceritakan kepada kami [Sulaiman, yaitu anaknya Bilal] dari [Ja'far, yaitu anaknya Muhammad] dari [Atha` bin Abu Rabah] bahwa ia mendengar [Aisyah] isteri Nabi shallallahu 'alaihi wasallam berkata; Apabila ada angin bertiup kencang sekali, maka hal itu dapat diketahui dari wajah beliau shallallahu 'alaihi wasallam, beliau bolak-balik ke depan dan ke belakang. Dan ketika hujan turun, maka beliau pun senang dan hilanglah kekhawatirannya. Aisyah berkata; Maka saya pun menanyakan hal itu pada beliau, beliau menjawab: \"Saya khawatir, bisa jadi hal itu akan menjadi adzab yang ditimpakan kepada umatku.\" Dan ketika melihat hujan beliau bersabda: \"(ini adalah) rahmat",
+          "tr": "Bize Abdullah b. Meslemete'bni Ka'neb rivüyet etti. (Dediki); Bize Süleyman yâni ibni Bilâl, Cafer'den —ki ibni Muhammed'dir.— O da Ata b. Ebi Rabâh'dan naklen rivayet etti. Ata', Peygamber (Sallallahu Aleyhi ve Sellem)'ln zevcesi Âişe'yi şöyle derken işitmiş: «Hava rüzgârlı ve bulutlu oldumu, bu Resulullah (Sallallahu Aleyhi ve Sellem)'in yüzünden belli olur, (ileri geri) gidip gelmeye başlardı. Yağmur yağdığı zaman ona sevinir ve bu gam kin hâl kendisinden giderdi. Ben, bunu kendisine sordum da: — (Gerçekten ümmetime musallat kılınacak bir azâb olmasından korktum.) cevâbını verdi. Yağmuru görünce (Rahmettir.) buyururdu.»"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "muslim",
+        "book": 9,
+        "hadith": 15
+      }
+    },
+    {
+      "hadithNumber": 2085,
+      "arabicNumber": "899.02",
+      "book": 9,
+      "hadithInBook": 16,
+      "text": {
+        "arabic": "وَحَدَّثَنِي أَبُو الطَّاهِرِ، أَخْبَرَنَا ابْنُ وَهْبٍ، قَالَ سَمِعْتُ ابْنَ جُرَيْجٍ، يُحَدِّثُنَا عَنْ عَطَاءِ، بْنِ أَبِي رَبَاحٍ عَنْ عَائِشَةَ، زَوْجِ النَّبِيِّ صلى الله عليه وسلم أَنَّهَا قَالَتْ كَانَ النَّبِيُّ صلى الله عليه وسلم إِذَا عَصَفَتِ الرِّيحُ قَالَ ‏\"‏ اللَّهُمَّ إِنِّي أَسْأَلُكَ خَيْرَهَا وَخَيْرَ مَا فِيهَا وَخَيْرَ مَا أُرْسِلَتْ بِهِ وَأَعُوذُ بِكَ مِنْ شَرِّهَا وَشَرِّ مَا فِيهَا وَشَرِّ مَا أُرْسِلَتْ بِهِ ‏\"‏ ‏.‏ قَالَتْ وَإِذَا تَخَيَّلَتِ السَّمَاءُ تَغَيَّرَ لَوْنُهُ وَخَرَجَ وَدَخَلَ وَأَقْبَلَ وَأَدْبَرَ فَإِذَا مَطَرَتْ سُرِّيَ عَنْهُ فَعَرَفْتُ ذَلِكَ فِي وَجْهِهِ ‏.‏ قَالَتْ عَائِشَةُ فَسَأَلْتُهُ فَقَالَ ‏\"‏ لَعَلَّهُ يَا عَائِشَةُ كَمَا قَالَ قَوْمُ عَادٍ ‏{‏ فَلَمَّا رَأَوْهُ عَارِضًا مُسْتَقْبِلَ أَوْدِيَتِهِمْ قَالُوا هَذَا عَارِضٌ مُمْطِرُنَا‏}‏ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Ata' b. Rabah reported on the authority of 'A'isha, the wife of the Messenger of Allah (way peace be upon him), who said:Whenever the wind was stormy, the Messenger of Allah (ﷺ) used to say: O Allah! I ask Thee for what is good in it, and the good which it contains, and the good of that which it was sent for. I seek refuge with Thee from what is evil in it, what evil it contains, and the evil of that what it was sent for; and when there was a thunder and lightning in the sky, his colour underwent a change, and he went out and in, backwards and forwards; and when the rain came, he felt relieved, and I noticed that (the sign of relief) on his face. 'A'isha asked him (about it) and he said: It may be as the people of 'Ad said: When they saw a cloud formation coming to their valley they said:\" It is a cloud which would give us rain\" (Qur'an, xlvi)",
+          "ur": "ابن جریج عطاء بن ابی رباح سے حدیث بیان کرتے ہیں ، انھوں نے نبی اکرم صلی اللہ علیہ وسلم کی زوجہ محترمہ حضرت عائشہ رضی اللہ تعالیٰ عنہا سے روای کی کہ انھوں نے کہا : جب تیز ہوا چلتی تو نبی اکرم صلی اللہ علیہ وسلم فرمایا کرتے : \" اے اللہ!میں تجھ سے اس کی خیر اور بھلائی کا سوا ل کرتا ہوں ۔ اور جو اس میں ہے اس کی اور جو کچھ اس کے زریعے بھیجا گیا ہے اس کی خیر ( کا طلبگار ہوں ) اور اس کے شر سے اور جو کچھ اس میں ہے اور جو اس میں بھیجا گیا ہے ا س کے شر سے تیری پناہ چاہتاہوں \" ( حضرت عائشہ رضی اللہ تعالیٰ عنہا نے ) کہا : جب آسمان پر بادل گھر آتے تو آپ صلی اللہ علیہ وسلم کا رنگ بدل جاتا اور آ پ ( اضطراب کے عالم میں ) کبھی باہر نکلتے اور کبھی اندر آتے ، کبھی آگے بڑھتے اور کبھی پیچھے ہٹتے ، اس کے بعد جب بارش برسنے لگتی تو آپ صلی اللہ علیہ وسلم سے ( یہ کیفیت ) دورہوجاتی ، مجھے اس کیفیت کا پتہ چل گیا ، حضرت عائشہ رضی اللہ تعالیٰ عنہا نے کہا : تومیں نے آپ صلی اللہ علیہ وسلم سے پوچھا ۔ آپ صلی اللہ علیہ وسلم نے فرمایا : \" عائشہ!ہوسکتاہے ( یہ اسی طرح ہو ) جیسے قوم عاد نے ( بادلوں کو دیکھ کر ) کہا تھا : \" جب انھوں نے اس ( عذاب ) کو بادل کی طرح اپنی بستیوں کی طرف آتے دیکھا تو انھوں نے کہا : یہ بادل ہے جو ہم پربرسے گا ۔",
+          "fr": "Rapporté par ‘Ata’ b. Rabah d’après ‘Aïsha, l’épouse du Messager d’Allah ﷺ : Chaque fois que le vent soufflait fort, le Messager d’Allah ﷺ disait : « Ô Allah ! Je Te demande le bien de ce vent, le bien qu’il contient et le bien pour lequel il a été envoyé. Je cherche refuge auprès de Toi contre le mal de ce vent, le mal qu’il contient et le mal pour lequel il a été envoyé. » Et quand il y avait du tonnerre ou des éclairs dans le ciel, son visage changeait de couleur, il allait et venait, anxieux. Mais quand la pluie tombait, il était soulagé, et je voyais ce soulagement sur son visage. ‘Aïsha lui demanda la raison, et il répondit : « Cela peut être comme ce qu’ont dit les gens de ‘Ad : Lorsque qu’ils ont vu un nuage venir vers leur vallée, ils ont dit : “Voici un nuage qui va nous apporter la pluie.” » (Coran, 46 :)",
+          "id": "Dan telah menceritakan kepadaku [Abu Thahir] telah mengabarkan kepada kami [Ibnu Wahb] ia berkata, saya mendengar [Ibnu Juraij] menceritakan dari [Atha` bin Abu Rabah] dari [Aisyah] isteri Nabi shallallahu 'alaihi wasallam, bahwa ia berkata; Apabila ada angin bertiup kencang sekali, maka Nabi shallallahu 'alaihi wasallam biasanya membaca: \"ALLAHUMMA INNII ASALUKA KHAIRAHAA WA KHAIRA MAA FIIHAA WA KHAIRA MAA URSILAT BIHI WA A'UUDZU BIKA MIN SYARRIHAA WA SYARRI MAA FIIHAA WA SYARRI MAA URSILAT BIHI (Ya Allah, sungguh, aku memohon kepada-Mu kebaikan angin, kebaikan yang dikandungnya, dan kebaikan yang dibawanya. Dan aku berlindung kepada-Mu dari keburukannya, keburukan yang ada di dalamnya dan keburukan yang dibawanya).\" Apabila langit gelap berawan, maka beliau akan kelihatan pucat, keluar masuk rumah, ke depan dan ke belakang. Dan jika hujan turun, beliau pun merasa lega, dan hal itu dapat diketahui dari raut wajahnya. Aisyah berkata; Saya menanyakan hal itu pada beliau, maka beliau berkata: \"Wahai Aisyah, kalau cuaca seperti ini, saya khawatir jangan-jangan akan terjadi seperti apa yang diungkapkan oleh kaum 'Aad, 'Maka tatkala mereka melihat azab itu berupa awan yang menuju ke lembah-lembah mereka, berkatalah mereka: 'Inilah awan yang akan menurunkan hujan kepada kami",
+          "tr": "Bana Ebû't-Tâhir rivayet etti. (Dediki): Bize îbni Vehb haber verdi. (Dediki): îbni Cüreyc'i dinledim, bize Ata' b. Ebî Rabâh'dan, o da Nebi (Sallallahu Aleyhi ve Sellem)'in zevcesi Aişe'den naklen rivayette bulundu. Aişe, şöyle demiş: Şiddetli rüzgâr estiği vakit Nebi (Sallallahu Aleyhi ve Sellem). — (Allah'ım! Senden bunun hayrını ve bunun tezammun ettiği şey'in hayır ile gönderildiği vazifenin hayrını dilerim. Bunun şerri ile tazammun ettiği şeyin ve gönderildiği vazifenin şerlerinden sana sığınırım.» derdi. Hava bulutlandığı vakit rengi değişir, (yerinde duramayıp içeri) girer çıkar, (öteye beriye) gider gelirdi. Yağmur yağdığı vakit ise açılırdı. Ben, bunu onun yüzünden anlardım. Kendisine sebebini sorduğumda: — (Yâ Âişe! Belki bu bulut Âd kavminin dediği gibi (bir azâb) olur. Onu vadilerine doğru gelen bir bulut hâlinde görünce Bu bize yağmur verecek bir buluttur, dediler...) [ Ahkaf 24 ] buyurdu.»"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "muslim",
+        "book": 9,
+        "hadith": 16
+      }
+    },
+    {
+      "hadithNumber": 2086,
+      "arabicNumber": "899.03",
+      "book": 9,
+      "hadithInBook": 17,
+      "text": {
+        "arabic": "وَحَدَّثَنِي هَارُونُ بْنُ مَعْرُوفٍ، حَدَّثَنَا ابْنُ وَهْبٍ، عَنْ عَمْرِو بْنِ الْحَارِثِ، ح وَحَدَّثَنِي أَبُو الطَّاهِرِ، أَخْبَرَنَا عَبْدُ اللَّهِ بْنُ وَهْبٍ، أَخْبَرَنَا عَمْرُو بْنُ الْحَارِثِ، أَنَّ أَبَا النَّضْرِ، حَدَّثَهُ عَنْ سُلَيْمَانَ بْنِ يَسَارٍ، عَنْ عَائِشَةَ، زَوْجِ النَّبِيِّ صلى الله عليه وسلم أَنَّهَا قَالَتْ مَا رَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم مُسْتَجْمِعًا ضَاحِكًا حَتَّى أَرَى مِنْهُ لَهَوَاتِهِ إِنَّمَا كَانَ يَتَبَسَّمُ - قَالَتْ- وَكَانَ إِذَا رَأَى غَيْمًا أَوْ رِيحًا عُرِفَ ذَلِكَ فِي وَجْهِهِ ‏.‏ فَقَالَتْ يَا رَسُولَ اللَّهِ أَرَى النَّاسَ",
+        "translations": {
+          "en": "A'isha, the wife of the Messenger of Allah (ﷺ), reported:I never saw Allah's Messenger (ﷺ) laugh to such an extent that I could see his uvula-whereas he used to smile only-and when he saw dark clouds or wind, (the signs of fear) were depicted on his face. I said: Messenger of Allah, I find people being happy when they ace the dark cloud in the hope that it would bring rain, but I find that when you see that (the cloud) there is an anxiety on your face. He said: 'A'isha, I am afraid that there may be a calamity in it, for a people was afflicted with wind, when the people saw the calamity they said:\" It is a cloud which would give us rain\" (Qur'an. xlvi)",
+          "ur": "سلمان بن یسار نے نبی اکرم صلی اللہ علیہ وسلم کی اہلیہ محترمہ حضرت عائشہ رضی اللہ تعالیٰ عنہا سے روایت کی کہ انھوں نے کہا : میں نے اللہ کے رسول صلی اللہ علیہ وسلم کو کبھی پوری طرح ایسا ایسےہنستا ہوانہیں دیکھاکہ میں آپ کے حلق مبارک کے اندر کا ابھرا ہواحصہ دیکھ لوں ، آپ صلی اللہ علیہ وسلم صرف مسکرایا کرتے تھے ، اور جب آپ صلی اللہ علیہ وسلم بادل یا آندھی دیکھتے تو اس کا اثرآپ کے چہرہ انور پرعیاں ہوجاتا تو ( حضرت عائشہ رضی اللہ تعالیٰ عنہا نے ) کہا : اے اللہ کے رسول صلی اللہ علیہ وسلم !میں لوگوں کو دیکھتی ہوں کہ جب بادل دیکھتے ہیں تو اس اُمید پر خوش ہوجاتے ہیں کہ اس میں بارش ہوگی اور میں آپ صلی اللہ علیہ وسلم کو دیکھتی ہوں کہ جب آپ اس ( بادل ) دیکھتے ہیں تو میں آپ کے چہرے پر ناپسندیدگی محسوس کرتی ہوں؟حضرت عائشہ رضی اللہ تعالیٰ عنہا نے کہا : آپ صلی اللہ علیہ وسلم نے فرمایا : \" عائشہ!مجھے اس بات سے کیا چیز امن دلا سکتی ہے کہ کہیں ان میں عذاب ( نہ ) ہو ، ایک قوم آندھی کے عذاب کا شکار ہوئی تھی اور ایک قوم نے عذاب کو ( دور ) سے دیکھا تو کہا : \" یہ بادل ہے جو ہم پر بارش برسائے گا ۔",
+          "fr": "Rapporté par ‘Aïsha, l’épouse du Messager d’Allah ﷺ : Je n’ai jamais vu le Messager d’Allah ﷺ rire au point de voir son palais, il se contentait de sourire. Mais quand il voyait des nuages sombres ou du vent, on voyait la peur sur son visage. Je lui ai dit : « Messager d’Allah, je vois que les gens se réjouissent quand ils voient un nuage, en espérant la pluie, mais toi, quand tu le vois, tu sembles inquiet. » Il a répondu : « ‘Aïsha, j’ai peur qu’il y ait un malheur dedans, car un peuple a été frappé par le vent, et quand ils ont vu le malheur arriver, ils ont dit : “Voici un nuage qui va nous apporter la pluie.” » (Coran, 46 :)",
+          "id": "Dan telah menceritakan kepadaku [Harun bin Ma'ruf] telah menceritakan kepada kami [Ibnu Wahb] dari [Amru bin Harits] -dalam jalur lain- Dan telah menceritakan kepadaku [Abu Thahir] telah mengabarkan kepada kami [Abdullah bin Wahb] telah mengabarkan kepada kami [Amru bin Harits] bahwa [Abu Nadlr] telah menceritakan kepadanya dari [Sulaiman bin Yasar] dari [Aisyah] isteri Nabi shallallahu 'alaihi wasallam, bahwa ia berkata; \"Saya tidak pernah melihat Rasulullah shallallahu 'alaihi wasallam tertawa terbahak-bahak hingga kelihatan tenggorokan beliau, karena biasanya beliau hanya tersenyum.\" Aisyah juga berkata; Dan jika beliau melihat awan hitam mengkelam atau angin yang bertiup kencang, maka (kekhawatiran) dapat dilihat dari raut wajah beliau. Aisyah pun bertanya, \"Wahai Rasulullah, saya memperhatikan manusia, bila mereka melihat kabut hitam, maka mereka begitu senang, karena akan segera turun hujan, namun saya memperhatikan Tuan ketika melihatnya, saya dapat menangkap (kekhawatiran) di raut muka Tuan.\" Beliau menjawab: \"Wahai Aisyah, saya khawatir bahwa kabut itu akan menjadi adzab. Sungguh, telah ada suatu kaum yang diadzab dengan angin, dan kaum itu pun telah melihat adzab, namun mereka berkata, 'Inilah awan yang akan menurunkan hujan kepada kami",
+          "tr": "Bana Hârûn b. Ma'rûf rivayet etti. (Dediki): Bize İbni Vehb, Amru'bnu Hâris'den rivayet etti. H. Bana Ebû't-Tâhir dahî rivayet etti. (Dediki): Bize Abdullah b. Vehb haber verdi. (Dediki): Bize Amru'bnu'l-Haris haber verdi. Ona da Ebû'n-Nadr, Süleyman b. Yesâr'dan, o da Nebi (Sallallahu Aleyhi ve Sel/em)'in zevcesi Âişe'den naklen rivayet etmiş. Âişe şöyle demiş: Ben, Resulullah (Sallallahu Aleyhi ve Sellem)'i ciddi bir şekilde, küçük dili görünecek derecede güldüğünü görmedim. O, yalnız tebessüm buyururdu. Bir bulut veya rüzgâr gördümü bu yüzünden belli olurdu. Kendisine: — Yâ Resulullah! Bakıyorum herkes bulutu gördüğü vakit, onda yağmur vardır ümidi ile ferahlanıyor. Hâlbuki bunu sen gördünmü, ben senin yüzünden hoşnutsuzluk okuyorum, dedim. Bunun üzerine (Sallallahu Aleyhi ve Sellem)* — Yâ Âişe! Bunda bir azâb bulunmadığına bana kim te'mînât verebilir? Hakikaten bir kavim rüzgârla azâb olunmuşdur. Gerçekten bir kavim azabı görmüş de: (Bu gördüğünüz bize yağmur yağdıracak bir buluttur.) demişlerdi, buyurdular.»"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "muslim",
+        "book": 9,
+        "hadith": 17
+      }
+    },
+    {
+      "hadithNumber": 2087,
+      "arabicNumber": "900.01",
+      "book": 9,
+      "hadithInBook": 18,
+      "text": {
+        "arabic": "وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا غُنْدَرٌ، عَنْ شُعْبَةَ، ح وَحَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، وَابْنُ بَشَّارٍ قَالاَ حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، عَنِ الْحَكَمِ، عَنْ مُجَاهِدٍ، عَنِ ابْنِ عَبَّاسٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم أَنَّهُ قَالَ ‏ \"‏ نُصِرْتُ بِالصَّبَا وَأُهْلِكَتْ عَادٌ بِالدَّبُورِ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Ibn 'Abbas reported Allah's Messenger (ﷺ) as saying:I have been helped by the east wind and the 'Ad were destroyed by the west wind",
+          "ur": "مجاہد نے حضرت ابن عباس رضی اللہ تعالیٰ عنہ سے ، انھوں نے نبی کریم صلی اللہ علیہ وسلم سے روایت کی کہ آپ صلی اللہ علیہ وسلم نے فرمایا : \" بادصبا ( مشرقی سمت سے چلنے والی ہوا ) سے میری مدد کی گئی ہے اور باددبور ( مغربی سمت سے چلنے والی ہوا ) سے قوم عاد کو ہلاک کیا گیا ۔",
+          "fr": "Rapporté par Ibn ‘Abbas : Le Messager d’Allah ﷺ a dit : « J’ai été aidé par le vent d’est, et les ‘Ad ont été détruits par le vent d’ouest. »",
+          "tr": "Bize Ebû Bekir b .Ebî Şeybe rivayet etti. (Dediki): Bize Gunder, Şu'be'den rivayet etti. H. Bize Muhammet! b. El-Müsennâ ile ibni Beşşâr rivayet ettiler. Dedilerki: Bize Muhammed b. Ca'fer rivayet etti. (Dediki): Bize Şu'be, Hakem'den, o da Mücâhid'den, o da İbni Abbas d an, o da Peygamber (Sallallahu Aleyhi ve Sellem)'den naklen rivayet ettiki, şöyle buyurmuşlar: «Ben, sabâ rüzgârı ile mansûr oldum. Ad kavmi ise batı rüzgârı ile helak edildiler.»"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "muslim",
+        "book": 9,
+        "hadith": 18
+      }
+    },
+    {
+      "hadithNumber": 2088,
+      "arabicNumber": "900.02",
+      "book": 9,
+      "hadithInBook": 19,
+      "text": {
+        "arabic": "وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَأَبُو كُرَيْبٍ قَالاَ حَدَّثَنَا أَبُو مُعَاوِيَةَ، ح وَحَدَّثَنَا عَبْدُ اللَّهِ بْنُ عُمَرَ بْنِ مُحَمَّدِ بْنِ أَبَانٍ الْجُعْفِيُّ، حَدَّثَنَا عَبْدَةُ، - يَعْنِي ابْنَ سُلَيْمَانَ - كِلاَهُمَا عَنِ الأَعْمَشِ، عَنْ مَسْعُودِ بْنِ مَالِكٍ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم ‏.‏ بِمِثْلِهِ ‏.‏",
+        "translations": {
+          "en": "This hadith has been narrated on the authority of Ibn 'Abbas through another chain of transmitters",
+          "ur": "سعید بن جبیر نے حضرت ابن عباس رضی اللہ تعالیٰ عنہ سے اور انھوں نے نبی کریم صلی اللہ علیہ وسلم سے اس کی مانند روایت کی ۔",
+          "fr": "Rapporté par Ibn ‘Abbas à travers une autre chaîne de transmetteurs : Le Messager d’Allah ﷺ a dit : « J’ai été aidé par le vent d’est, et les ‘Ad ont été détruits par le vent d’ouest. »",
+          "id": "Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Ghandar] dari [Syu'bah] -dalam jalur lain- Dan telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basysyar] keduanya berkata; telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Al Hakam] dari [Mujahid] dari [Ibnu Abbas] dari Nabi shallallahu 'alaihi wasallam, bahwa beliau bersabda: \"Aku mendapat pertolongan dengan angin timur dan kaum 'Aad dibinasakan dengan angin Barat.\" Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Abu Kuraib] keduanya berkata, telah menceritakan kepada kami [Abu Mu'awiyah] -dalam jalur lain- Dan telah menceritakan kepada kami [Abdullah bin Umar bin Muhammad bin Aban Al Ju'fi] telah menceritakan kepada kami [Abdah, yakni anaknya Sulaiman] keduanya dari [Al A'masy] dari [Mas'ud bin Malik] dari [Sa'id bin Jubair] dari [Ibnu Abbas] dari Nabi shallallahu 'alaihi wasallam semisalnya",
+          "tr": "{….} Bize Ebû Bekir b. Ebî Şeybe ile Ebû Kureyb rivayet ettiler. Dedilerki: Bize, Ebû Muâviye rivayet etti. H. Bize Abdullah b. Ömer b. Muhammed b. Ebân El-Cu'fi de rivayet etti. (Dediki): Bize Abde yâni îbni Süleyman rivayet etti. Ebû Muâviye ile Abde'nin ikisi birden A'meş'den, o da Mes'ûd b. Mâlik'den, o da Saîd b. Cübeyr'den, o da îbni Abbâs'dan, o da Peygamber (Sallallahu Aleyhi ve Sellem)'den naklen yukarki hadîsin mislini rivayet etmişlerdir. İzah için buraya tıklayın"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "muslim",
+        "book": 9,
+        "hadith": 19
+      }
+    }
+  ],
+  "metadata": {
+    "averageLength": "medium",
+    "size": "12KB"
+  }
+}

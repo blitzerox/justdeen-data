@@ -1,0 +1,2187 @@
+{
+  "collection": "abudawud",
+  "book": 35,
+  "name": {
+    "arabic": "كتاب Combing the Hair (Kitab Al-Tarajjul)",
+    "transliteration": "combing the hair (kitab al-tarajjul)",
+    "translation": "Combing the Hair (Kitab Al-Tarajjul)"
+  },
+  "totalHadith": 55,
+  "hadithNumberRange": {
+    "first": 4159,
+    "last": 4213
+  },
+  "content": [
+    {
+      "hadithNumber": 4159,
+      "arabicNumber": 4159,
+      "book": 35,
+      "hadithInBook": 1,
+      "text": {
+        "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنْ هِشَامِ بْنِ حَسَّانَ، عَنِ الْحَسَنِ، عَنْ عَبْدِ اللَّهِ بْنِ مُغَفَّلٍ، قَالَ نَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم عَنِ التَّرَجُّلِ إِلاَّ غِبًّا ‏.‏",
+        "translations": {
+          "en": "Narrated Abdullah ibn Mughaffal: The Messenger of Allah (ﷺ) forbade combing the hair except every second day",
+          "ur": "عبداللہ بن مغفل رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے ( پابندی سے ) کنگھی کرنے سے منع فرمایا ہے البتہ ناغہ کے ساتھ ہو ( تو جائز ہے ) ۔",
+          "fr": "Rapporté par Abdullah ibn Mughaffal رضي الله عنه : Le Messager d’Allah ﷺ a interdit de se peigner les cheveux sauf tous les deux jours",
+          "id": "Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Yahya] dari [Hisyam bin Hassan] dari [Al Hasan] dari [Abdullah bin Mughaffal] ia berkata, \"Rasulullah shallallahu 'alaihi wasallam melarang mengurai rambut untuk dibersihkan atau dibaguskan kecuai sesekali saja",
+          "tr": "Abdullah b. Muğaffel şöyle demiştir: Rasûlullah (s.a.v.) (sık sık) saç taramayı nehyyetti ancak gün aşırı olanı müstesna"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 35,
+        "hadith": 1
+      },
+      "narrator": {
+        "en": "Abdullah ibn Mughaffal"
+      }
+    },
+    {
+      "hadithNumber": 4160,
+      "arabicNumber": 4160,
+      "book": 35,
+      "hadithInBook": 2,
+      "text": {
+        "arabic": "حَدَّثَنَا الْحَسَنُ بْنُ عَلِيٍّ، حَدَّثَنَا يَزِيدُ الْمَازِنِيُّ، أَخْبَرَنَا الْجُرَيْرِيُّ، عَنْ عَبْدِ اللَّهِ بْنِ بُرَيْدَةَ، أَنَّ رَجُلاً، مِنْ أَصْحَابِ النَّبِيِّ صلى الله عليه وسلم رَحَلَ إِلَى فَضَالَةَ بْنِ عُبَيْدٍ وَهُوَ بِمِصْرَ فَقَدِمَ عَلَيْهِ فَقَالَ أَمَا إِنِّي لَمْ آتِكَ زَائِرًا وَلَكِنِّي سَمِعْتُ أَنَا وَأَنْتَ حَدِيثًا مِنْ رَسُولِ اللَّهِ صلى الله عليه وسلم رَجَوْتُ أَنْ يَكُونَ عِنْدَكَ مِنْهُ عِلْمٌ ‏.‏ قَالَ وَمَا هُوَ قَالَ كَذَا وَكَذَا قَالَ فَمَا لِي أَرَاكَ شَعِثًا وَأَنْتَ أَمِيرُ الأَرْضِ قَالَ إِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ يَنْهَانَا عَنْ كَثِيرٍ مِنَ الإِرْفَاهِ ‏.‏ قَالَ فَمَا لِي لاَ أَرَى عَلَيْكَ حِذَاءً قَالَ كَانَ النَّبِيُّ صلى الله عليه وسلم يَأْمُرُنَا أَنْ نَحْتَفِيَ أَحْيَانًا ‏.‏",
+        "translations": {
+          "en": "Abdullah ibn Buraydah said:A man from the companions of the Prophet (ﷺ) travelled to Fudalah ibn Ubayd when he was in Egypt. He came to him and said: I have not come to you to visit you. But you and I heard a tradition from the Messenger of Allah (ﷺ). I hope you may have some knowledge of it. He asked: What is it? He replied: So and so. He said: Why do I see you dishevelled when you are the ruler of this land? He said: The Messenger of Allah (ﷺ) has forbidden us to indulge much in luxury. He said: Why do I see you unshod? He replied: The Prophet (ﷺ) used to command us to go barefoot at times",
+          "ur": "عبداللہ بن بریدہ سے روایت ہے کہ ایک صحابی رسول رضی اللہ عنہ فضالہ بن عبید رضی اللہ عنہ کے پاس مصر گئے، جب وہاں پہنچے تو عرض کیا: میں یہاں آپ سے ملاقات کے لیے نہیں آیا ہوں، ہم نے اور آپ نے رسول اللہ صلی اللہ علیہ وسلم سے ایک حدیث سنی تھی مجھے امید ہے کہ اس کے متعلق آپ کو کچھ ( مزید ) علم ہو، انہوں نے پوچھا: وہ کون سی حدیث ہے؟ فرمایا: وہ اس اس طرح ہے، پھر انہوں نے فضالہ سے کہا: کیا بات ہے میں آپ کو پراگندہ سر دیکھ رہا ہوں حالانکہ آپ اس سر زمین کے حاکم ہیں؟ تو ارشاد فرمایا کہ رسول اللہ صلی اللہ علیہ وسلم ہمیں زیادہ عیش عشرت سے منع فرماتے تھے، پھر انہوں نے پوچھا: آپ کے پیر میں جوتیاں کیوں نظر نہیں آتیں؟ تو وہ بولے: نبی اکرم صلی اللہ علیہ وسلم ہمیں کبھی کبھی ننگے پیر رہنے کا بھی حکم دیتے تھے۔",
+          "fr": "Abdullah ibn Buraydah a dit : Un homme parmi les compagnons du Prophète ﷺ est allé voir Fudalah ibn Ubayd alors qu’il était en Égypte. Il lui a dit : « Je ne suis pas venu te rendre visite, mais toi et moi avons entendu un hadith du Messager d’Allah ﷺ. J’espère que tu t’en souviens. » Il demanda : « Lequel ? » Il répondit : « Tel ou tel. » Il dit : « Pourquoi te vois-je décoiffé alors que tu es le gouverneur de cette région ? » Il répondit : « Le Messager d’Allah ﷺ nous a interdit de trop rechercher le luxe. » Il demanda : « Pourquoi es-tu pieds nus ? » Il répondit : « Le Prophète ﷺ nous commandait parfois de marcher pieds nus. »",
+          "id": "Telah menceritakan kepada kami [Al Hasan bin Ali] berkata, telah menceritakan kepada kami [Yazid bin Harun] berkata, telah mengabarkan kepada kami [Al Jurairi] dari [Abdullah bin Buraidah] berkata, \"Seorang laki-laki dari sahabat Nabi shallallahu 'alaihi wasallam berkunjung ke rumah [Fadhalah bin Ubaid] yang berada di Mesir. Ia lalu datang kepadanya seraya berkata, \"Aku datang kepadamu bukan untuk berkunjung, tetapi aku dan kamu sendiri telah mendengar hadits Rasulullah shallallahu 'alaihi wasallam, maka aku berharap engkau mempunyai ilmu tentang itu.\" Fadhalah bertanya, \"Hadits tentang apa itu?\" sahabat Nabi itu menjawab, \"Begini dan begini.\" Fadhalah bertanya, \"Kenapa rambutmu tampak kusut dan berantakan, padahal engkau adalah seorang pemimpin?\" ia menjawab, \"Sesungguhnya Rasulullah shallallahu 'alaihi wasallam telah melarang kita untuk bermewah-mewah.\" Fadhalah lalu bertanya lagi, \"Kenapa aku juga melihatmu tidak mengenakan sepatu?\" ia menjawab, \"Nabi shallallahu 'alaihi wasallam memerintahkan untuk berjalan dengan tanpa alas kaki sesekali",
+          "tr": "Abdullah b. Büreyde'den rivayet edildiğine göre; ResûluIIah (s.a.v.)'in ashabından birisi, Mısır'daki Fedâle b.Ubeyd'e gitti, yanına yarıp; \"Ben seni ziyarete gelmedim. Ama, ikimiz Resûlullah (s.a.v.)'den bir hadis işitmiştik. Senin, o hadis hakkında bilgin olduğunu umarım'' dedi.Fedâle: O nedir? Şöyle Şöyle Bu ne hal! Sen. bu bölgenin emiri olduğun halde, saçın başın dağınık; Fedâie: Çünkü Rasûlullah (s.a.v.) bizi, çok süslenmekten nehyetti. Ne o? senin ayakkabın da yok! ResûluIIah bize, zaman zaman yalınayak yürümemizi emrederdi"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 35,
+        "hadith": 2
+      }
+    },
+    {
+      "hadithNumber": 4161,
+      "arabicNumber": 4161,
+      "book": 35,
+      "hadithInBook": 3,
+      "text": {
+        "arabic": "حَدَّثَنَا النُّفَيْلِيُّ، حَدَّثَنَا مُحَمَّدُ بْنُ سَلَمَةَ، عَنْ مُحَمَّدِ بْنِ إِسْحَاقَ، عَنْ عَبْدِ اللَّهِ بْنِ أَبِي أُمَامَةَ، عَنْ عَبْدِ اللَّهِ بْنِ كَعْبِ بْنِ مَالِكٍ، عَنْ أَبِي أُمَامَةَ، قَالَ ذَكَرَ أَصْحَابُ رَسُولِ اللَّهِ صلى الله عليه وسلم يَوْمًا عِنْدَهُ الدُّنْيَا فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ أَلاَ تَسْمَعُونَ أَلاَ تَسْمَعُونَ إِنَّ الْبَذَاذَةَ مِنَ الإِيمَانِ إِنَّ الْبَذَاذَةَ مِنَ الإِيمَانِ ‏\"‏ ‏.‏ يَعْنِي التَّقَحُّلَ ‏.‏ قَالَ أَبُو دَاوُدَ هُوَ أَبُو أُمَامَةَ بْنُ ثَعْلَبَةَ الأَنْصَارِيُّ ‏.‏",
+        "translations": {
+          "en": "Narrated AbuUmamah Ilyas ibn Tha'labah: The Companions of the Messenger of Allah (ﷺ) mentioned this word before him. The Messenger of Allah (ﷺ) said: Listen, listen! Wearing old clothes is a part of faith, wearing old clothes is a part of faith. Abu Dawud said: He is Abu Umamah b. Tha'labat al-Ansari",
+          "ur": "ابوامامہ رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم کے کچھ صحابہ نے ایک روز آپ کے پاس دنیا کا ذکر کیا تو آپ نے فرمایا: کیا تم سن نہیں رہے ہو؟ کیا تم سن نہیں رہے ہو؟ بیشک سادگی و پراگندہ حالی ایمان کی دلیل ہے، بیشک سادگی و پراگندہ حالی ایمان کی دلیل ہے اس سے مراد ترک زینت و آرائش اور خستہ حالی ہے۔ ابوداؤد کہتے ہیں: وہ ابوامامہ بن ثعلبہ انصاری ہیں۔",
+          "fr": "Rapporté par Abu Umamah Ilyas ibn Tha'labah رضي الله عنه : Les compagnons du Messager d’Allah ﷺ ont mentionné ce mot devant lui. Le Messager d’Allah ﷺ a dit : « Écoutez, écoutez ! Porter des vêtements usés fait partie de la foi, porter des vêtements usés fait partie de la foi. » Abu Dawud a dit : Il s’agit de Abu Umamah ibn Tha’labat al-Ansari",
+          "id": "Telah menceritakan kepada kami [An Nufaili] berkata, telah menceritakan kepada kami [Muhammad bin Salamah] dari [Muhammad bin Ishaq] dari [Abdullah bin Abu Umamah] dari [Abdullah bin Ka'b bin Malik] dari [Abu Umamah] ia berkata, \"Pada suatu hari sahabat Rasulullah shallallahu 'alaihi wasallam memperbincangkan tentang dunia di sisinya, maka Rasulullah shallallahu 'alaihi wasallam bersabda: \"Tidakkah kalian mendengar? Tidakkah kalian mendengar? Sesungguhnya sederhana dalam berpakaian adalah bagian dari iman. Sesungguhnya sederhana dalam berpakaian adalah bagian dari iman.\" Maksudnya adalah berpakaian apa adanya dan pantas.\", Abu Dawud berkata; \"Dia adalah Abu Umamah bin Tsa'labah Al Anshari",
+          "tr": "Ebû Umâme (r.a)'ın şöyle dediği rivayet edilmiştir. Bir gün sahâbîler, Resûlullah'ın yanında dünyayı andılar. Bunun üzerine ResûluIIah \"Duyunuz duyunuz, şüphesiz bezâze imândandır şüphesiz bezâze imandandır\" buyurdu. Râvî: Bezâze; cildin kuru olması ve perişanlıktır\" der. Ebû Davûd der ki, o (Ebû Omâme) Ebû Ümâme b. Salebe el-Ensâri'dir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 35,
+        "hadith": 3
+      },
+      "narrator": {
+        "en": "AbuUmamah Ilyas ibn Tha'labah"
+      }
+    },
+    {
+      "hadithNumber": 4162,
+      "arabicNumber": 4162,
+      "book": 35,
+      "hadithInBook": 4,
+      "text": {
+        "arabic": "حَدَّثَنَا نَصْرُ بْنُ عَلِيٍّ، حَدَّثَنَا أَبُو أَحْمَدَ، عَنْ شَيْبَانَ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ عَبْدِ اللَّهِ بْنِ الْمُخْتَارِ، عَنْ مُوسَى بْنِ أَنَسٍ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ كَانَتْ لِلنَّبِيِّ صلى الله عليه وسلم سُكَّةٌ يَتَطَيَّبُ مِنْهَا ‏.‏",
+        "translations": {
+          "en": "Narrated Anas ibn Malik: The Prophet (ﷺ) had sikkah with which he perfumed himself",
+          "ur": "انس بن مالک رضی اللہ عنہ کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم کے پاس خوشبو کی ایک ڈبیہ تھی جس سے آپ خوشبو لگایا کرتے تھے۔",
+          "fr": "Rapporté par Anas ibn Malik رضي الله عنه : Le Prophète ﷺ avait du sikkah avec lequel il se parfumait",
+          "id": "Telah menceritakan kepada kami [Nashr bin Ali] berkata, telah menceritakan kepada kami [Abu Ahmad] dari [Syaiban bin 'Abdurrahman] dari [Abdullah Ibnul Mukhtar] dari [Musa bin Anas] dari [Anas bin Malik] ia berkata, \"Nabi shallallahu 'alaihi wasallam mempunyai sukkah (minyak terbagus) yang biasa beliau gunakan untuk wewangian",
+          "tr": "Enes b. Mâlik (r.a); demiştir ki : Resûlullah (s.a.v.)'iri sûkkesi (güzel bir esans)'ı vardı, ondan sürünürdü. Sûkke: Değerli bir esans çeşididir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 35,
+        "hadith": 4
+      },
+      "narrator": {
+        "en": "Anas ibn Malik"
+      }
+    },
+    {
+      "hadithNumber": 4163,
+      "arabicNumber": 4163,
+      "book": 35,
+      "hadithInBook": 5,
+      "text": {
+        "arabic": "حَدَّثَنَا سُلَيْمَانُ بْنُ دَاوُدَ الْمَهْرِيُّ، أَخْبَرَنَا ابْنُ وَهْبٍ، حَدَّثَنِي ابْنُ أَبِي الزِّنَادِ، عَنْ سُهَيْلِ بْنِ أَبِي صَالِحٍ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ مَنْ كَانَ لَهُ شَعْرٌ فَلْيُكْرِمْهُ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Narrated AbuHurayrah: The Prophet (ﷺ) said: He who has hair should honour it",
+          "ur": "ابوہریرہ رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: جس کے پاس بال ہوں تو اسے چاہیئے کہ وہ انہیں اچھی طرح رکھے ۔",
+          "fr": "Rapporté par Abu Hurayrah رضي الله عنه : Le Prophète ﷺ a dit : « Celui qui a des cheveux doit en prendre soin. »",
+          "id": "Telah menceritakan kepada kami [Sulaiman bin Dawud Al mahri] berkata, telah mengabarkan kepada kami [Ibnu Wahb] berkata, telah menceritakan kepadaku [Ibnu Abu Az Zinad] dari [Suhail bin Abu Shalih] dari [Bapaknya] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: \"Barangsiapa mempunyai rambut hendaklah ia memuliakannya (merawat)",
+          "tr": "Ebû Hureyre (r.a)'den rivayet edildiğine göre: Resûlullah (s.a.v.) şöyle buyurmuştur: \"Saçı olan kimse ona ikram etsin"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 35,
+        "hadith": 5
+      },
+      "narrator": {
+        "en": "AbuHurayrah"
+      }
+    },
+    {
+      "hadithNumber": 4164,
+      "arabicNumber": 4164,
+      "book": 35,
+      "hadithInBook": 6,
+      "text": {
+        "arabic": "حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ عُمَرَ، حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، عَنْ عَلِيِّ بْنِ الْمُبَارَكِ، عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ، قَالَ حَدَّثَتْنِي كَرِيمَةُ بِنْتُ هَمَّامٍ، أَنَّ امْرَأَةً، أَتَتْ عَائِشَةَ - رضى الله عنها - فَسَأَلَتْهَا عَنْ خِضَابِ الْحِنَّاءِ فَقَالَتْ لاَ بَأْسَ بِهِ وَلَكِنِّي أَكْرَهُهُ كَانَ حَبِيبِي رَسُولُ اللَّهِ صلى الله عليه وسلم يَكْرَهُ رِيحَهُ ‏.‏ قَالَ أَبُو دَاوُدَ تَعْنِي خِضَابَ شَعْرِ الرَّأْسِ ‏.‏",
+        "translations": {
+          "en": "Narrated Aisha, Ummul Mu'minin: Karimah, daughter of Hammam, told that a woman came to Aisha (Allah be pleased with her) and asked her about dyeing with henna. She replied: There is no harm, but I do not like it. My beloved, the Messenger of Allah (ﷺ), disliked its odour. Abu Dawud said: She meant the colour of hair of the head",
+          "ur": "کریمہ بنت ہمام کا بیان ہے کہ ایک عورت ام المؤمنین عائشہ رضی اللہ عنہا کے پاس آئی اور ان سے مہندی کے خضاب کے متعلق پوچھا تو آپ نے کہا: اس میں کوئی مضائقہ نہیں، لیکن میں اسے ناپسند کرتی ہوں، میرے محبوب رسول اللہ صلی اللہ علیہ وسلم اس کی بو ناپسند فرماتے تھے۔ ابوداؤد کہتے ہیں: مراد سر کے بال کا خضاب ہے۔",
+          "fr": "Rapporté par Aisha, la mère des croyants رضي الله عنها : Karima, fille de Hammam, a raconté qu’une femme est venue voir Aisha رضي الله عنها et lui a demandé à propos de la teinture au henné. Elle a répondu : « Il n’y a pas de mal, mais je n’aime pas cela. Mon bien-aimé, le Messager d’Allah ﷺ, n’aimait pas son odeur. » Abu Dawud a dit : Elle parlait de la couleur des cheveux de la tête",
+          "id": "Telah menceritakan kepada kami [Ubaidullah bin Umar] berkata, telah menceritakan kepada kami [Yahya bin Sa'id] dari [Ali Ibnul Mubarak] ia berkata; telah menceritakan kepadaku [Karimah binti Hammam] berkata, \"bahwasanya ada seorang wanita yang datang menemui ['Aisyah radliallahu 'anha], lalu ia bertanya kepadanya tentang pewarna dari pacar?\" maka ia menjawab, \"Tidak apa-apa, hanya saja aku tidak menyukainya karena kekasihku, Rasulullah shallallahu 'alaihi wasallam tidak menyukai baunya.\" Abu Dawud berkata, \"Yakni pewarna rambut",
+          "tr": "Kerime Binti Hamam (r.a)'den rivayet edildiğine göre, Bir kadın, Hz. Aişe (r.a)'ye gelip, kına yakmanın hükmünü sordu. Hz. Aişe: \"Bunda bir mahzur yok, ama ben hoşlanmıyorum. Çünkü habîbim Resûlullah (s.a.v.) onun kokusunu sevmezdi.\" dedi. Ebû Davûd der ki: Hz. Aişe saçın kınasını kasdediyor. Nesâi, Zinet te var bu hadis. İzah 4166 da"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 35,
+        "hadith": 6
+      },
+      "narrator": {
+        "en": "Aisha, Ummul Mu'minin"
+      }
+    },
+    {
+      "hadithNumber": 4165,
+      "arabicNumber": 4165,
+      "book": 35,
+      "hadithInBook": 7,
+      "text": {
+        "arabic": "حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ، حَدَّثَتْنِي غِبْطَةُ بِنْتُ عَمْرٍو الْمُجَاشِعِيَّةُ، قَالَتْ حَدَّثَتْنِي عَمَّتِي أُمُّ الْحَسَنِ، عَنْ جَدَّتِهَا، عَنْ عَائِشَةَ، رضى الله عنها أَنَّ هِنْدًا بِنْتَ عُتْبَةَ، قَالَتْ يَا نَبِيَّ اللَّهِ بَايِعْنِي ‏.‏ قَالَ ‏ \"‏ لاَ أُبَايِعُكِ حَتَّى تُغَيِّرِي كَفَّيْكِ كَأَنَّهُمَا كَفَّا سَبُعٍ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Narrated Aisha, Ummul Mu'minin: When Hind, daughter of Utbah, said: Prophet of Allah, accept my allegiance, he replied; I shall not accept your allegiance till you make a difference to the palms of your hands; for they look like the paws of a beast of prey",
+          "ur": "ام المؤمنین عائشہ رضی اللہ عنہا سے روایت ہے کہ ہند بنت عتبہ رضی اللہ عنہا نے عرض کیا: اللہ کے نبی! مجھ سے بیعت لے لیجئیے، تو آپ نے فرمایا: جب تک تم اپنی دونوں ہتھیلیوں کا رنگ نہیں بدلو گی میں تم سے بیعت نہیں لوں گا، گویا وہ دونوں کسی درندے کی ہتھیلیاں ہیں ۔",
+          "fr": "Rapporté par Aisha, la mère des croyants رضي الله عنها : Quand Hind, fille de Utbah, a dit : « Prophète d’Allah, accepte mon allégeance », il répondit : « Je n’accepterai ton allégeance que lorsque tu feras une différence sur les paumes de tes mains, car elles ressemblent aux pattes d’un animal sauvage. »",
+          "id": "Telah menceritakan kepada kami [Muslim bin Ibrahim] berkata, telah menceritakan kepadaku [Ghibthah binti Amru Al Mujasyi'iyah] ia berkata; telah menceritakan kepadaku bibiku [Ummul Hasan] dari [Neneknya] dari ['Aisyah radliallahu 'anha] bahwa Hind binti Utbah berkata, \"Wahai Nabi Allah, baiatlah aku.\" Beliau bersabda: \"Aku tidak akan membaiatmu hingga kamu mengubah (pewarna) kedua telapak tanganmu, sebab kedua telapak tangannya seperti telapak tangan binatang buas",
+          "tr": "Aişe (r.a)'den rivayet edildiğine göre: Hind Binti Utbe: \"Yâ Resulullah, benimle bîat et\" dedi. Resûlullah (s.a.v.); \"Ellerini (n rengini) değiştirinceye kadar seninle bîat etmeyeceğim. Onlar sanki vahşi hayvan ayağı gibi...\" buyurdu. Bu hadisi Sadece Ebu Dâvud rivayet etmiştir. İzah 4166 da"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 35,
+        "hadith": 7
+      },
+      "narrator": {
+        "en": "Aisha, Ummul Mu'minin"
+      }
+    },
+    {
+      "hadithNumber": 4166,
+      "arabicNumber": 4166,
+      "book": 35,
+      "hadithInBook": 8,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ مُحَمَّدٍ الصُّورِيُّ، حَدَّثَنَا خَالِدُ بْنُ عَبْدِ الرَّحْمَنِ، حَدَّثَنَا مُطِيعُ بْنُ مَيْمُونٍ، عَنْ صَفِيَّةَ بِنْتِ عِصْمَةَ، عَنْ عَائِشَةَ، - رضى الله عنها - قَالَتْ أَوْمَتِ امْرَأَةٌ مِنْ وَرَاءِ سِتْرٍ بِيَدِهَا كِتَابٌ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَبَضَ النَّبِيُّ صلى الله عليه وسلم يَدَهُ فَقَالَ ‏\"‏ مَا أَدْرِي أَيَدُ رَجُلٍ أَمْ يَدُ امْرَأَةٍ ‏\"‏ ‏.‏ قَالَتْ بَلِ امْرَأَةٌ ‏.‏ قَالَ ‏\"‏ لَوْ كُنْتِ امْرَأَةً لَغَيَّرْتِ أَظْفَارَكِ ‏\"‏ ‏.‏ يَعْنِي بِالْحِنَّاءِ ‏.‏",
+        "translations": {
+          "en": "Narrated Aisha, Ummul Mu'minin: A woman made a sign from behind a curtain to indicate that she had a letter for the Messenger of Allah (ﷺ). The Prophet (ﷺ) closed his hand, saying: I do not know this is a man's or a woman's hand. She said: No, a woman. He said: If you were a woman, you would make a difference to your nails, meaning with henna",
+          "ur": "ام المؤمنین عائشہ رضی اللہ عنہا کہتی ہیں کہ ایک عورت نے پردے کے پیچھے سے اشارہ کیا، اس کے ہاتھ میں رسول اللہ صلی اللہ علیہ وسلم کے نام کا ایک خط تھا، آپ نے اپنا ہاتھ سمیٹ لیا، اور فرمایا: مجھے نہیں معلوم کہ یہ کسی مرد کا ہاتھ ہے یا عورت کا تو اس نے عرض کیا: نہیں، بلکہ یہ عورت کا ہاتھ ہے، تو آپ نے فرمایا: اگر تم عورت ہوتی تو اپنے ناخن کے رنگ بدلے ہوتی یعنی مہندی سے۔",
+          "fr": "Rapporté par Aisha, la mère des croyants رضي الله عنها : Une femme fit un signe derrière un rideau pour indiquer qu’elle avait une lettre pour le Messager d’Allah ﷺ. Le Prophète ﷺ ferma la main en disant : « Je ne sais pas si c’est la main d’un homme ou d’une femme. » Elle dit : « Non, c’est celle d’une femme. » Il dit : « Si tu étais une femme, tu aurais différencié tes ongles, c’est-à-dire avec du henné. »",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Muhammad Ash Shuri] berkata, telah menceritakan kepada kami [Khalid bin 'Abdurrahman] berkata, telah menceritakan kepada kami [Muthi' bin Maimun] dari [Shafiyah binti Ishmah] dari ['Aisyah radliallahu 'anha] ia berkata, \"Seorang wanita dari balik satir memberikan kitab (Al Qur'an kepada Rasulullah shallallahu 'alaihi wasallam, lalu Nabi shallallahu 'alaihi wasallam memegang tangannya. Beliau bersabda: \"Aku tidak tahu, ini tangan laki-laki atau tangan perempuan?\" Wanita itu menjawab, \"Ini tangan perempuan.\" Beliau bersabda lagi: \"Jika kamu perempuan maka ubahlah warna kulitmu.\" Yaitu dengan pacar)",
+          "tr": "Âişe (r.a)'nın şöyle dediği rivayet edilmiştir; Elinde Resûlııllaha mektup bulunan bir kadın, perdenin arkasından işaret etti (elini uzattı) Resûlullah elini tuttu (mektubu almadan çekti) ve: \"Bu erkek eli mi, yoksa kadın eli mi bilmiyorum?\" buyurdu. Kadın: \"Kadın elidir\" dedi. Resûlullah (s.a.v.): \"Eğer sen kadın olsaydın tırnaklanın (n rengini) kına ile değiştirirdin\" buyurdu"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 35,
+        "hadith": 8
+      },
+      "narrator": {
+        "en": "Aisha, Ummul Mu'minin"
+      }
+    },
+    {
+      "hadithNumber": 4167,
+      "arabicNumber": 4167,
+      "book": 35,
+      "hadithInBook": 9,
+      "text": {
+        "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، عَنْ مَالِكٍ، عَنِ ابْنِ شِهَابٍ، عَنْ حُمَيْدِ بْنِ عَبْدِ الرَّحْمَنِ، أَنَّهُ سَمِعَ مُعَاوِيَةَ بْنَ أَبِي سُفْيَانَ، عَامَ حَجَّ وَهُوَ عَلَى الْمِنْبَرِ وَتَنَاوَلَ قُصَّةً مِنْ شَعْرٍ كَانَتْ فِي يَدِ حَرَسِيٍّ يَقُولُ يَا أَهْلَ الْمَدِينَةِ أَيْنَ عُلَمَاؤُكُمْ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَنْهَى عَنْ مِثْلِ هَذِهِ وَيَقُولُ ‏ \"‏ إِنَّمَا هَلَكَتْ بَنُو إِسْرَائِيلَ حِينَ اتَّخَذَ هَذِهِ نِسَاؤُهُمْ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Narrated Humaid b. 'Adb al-Rahman:That he heard Mu'awiyah b. Abi Sufyan say during the Hajj when he was on the pulpit and took a lock of hair which was in the hand of the guard, saying: O people of Medina, where are your scholars ? I heard the Messenger of Allah (ﷺ) forbidding such a think as this and said: The children of Isra'il perished when their women practised it",
+          "ur": "حمید بن عبدالرحمٰن سے روایت ہے کہ معاویہ بن ابی سفیان رضی اللہ عنہما نے جس سال حج کیا میں نے آپ کو منبر پر کہتے سنا، آپ نے بالوں کا ایک گچھا جو ایک پہرے دار کے ہاتھ میں تھا لے کر کہا: مدینہ والو! تمہارے علماء کہاں ہیں؟ میں نے رسول اللہ صلی اللہ علیہ وسلم کو ان جیسی چیزوں سے منع کرتے سنا ہے، آپ صلی اللہ علیہ وسلم فرما رہے تھے: بنی اسرائیل ہلاک ہو گئے جس وقت ان کی عورتوں نے یہ کام شروع کیا ۔",
+          "fr": "Rapporté par Humaid ibn Abd al-Rahman رضي الله عنه : Il a entendu Mu’awiyah ibn Abi Sufyan dire pendant le Hajj, alors qu’il était sur le minbar et qu’il tenait une mèche de cheveux dans la main du garde : « Ô gens de Médine, où sont vos savants ? J’ai entendu le Messager d’Allah ﷺ interdire cela et dire : Les enfants d’Israël ont péri lorsque leurs femmes ont pratiqué cela. »",
+          "id": "Telah menceritakan kepada kami [Abdullah bin Maslamah] dari [Malik] dari [Ibnu Syihab] dari [Humaid bin 'Abdurrahman] Bahwasanya ia mendengar [Mu'awiyah bin Abu Sufyan] berkata di atas mimbar pada tahun haji -saat itu ia memegang wig yang berada di tangan penjaga, \"Wahai penduduk Madinah, di mana ulama kalian! Aku mendengar Rasulullah shallallahu 'alaihi wasallam melarang dari perkara semacam ini, beliau bersabda: \"Hanyasanya orang-orang bani Isra'il hancur karena wanita-wanita mereka menggunakan barang ini",
+          "tr": "Humeyd b. Abdurrahman; demiştir ki; Muâviye b. Ebî Süfyân, Hâc senesinde (Resûlullah'ın) minberi üzerinde, bir muhafızın elindeki kâkülü alıp şöyle derken dinlemiştim. Ey Medine'liler, alimleriniz nerede?\" Ben Rasûlullah (s.a.v.)'i, bu gibi şeylerden nehyedip şöyle derken işittim. \"İsrailoğulları, ancak kadınları bunu yaptıkları zaman helak olmuşlardır.”"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (3468) Sahih Muslim (2127)"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 35,
+        "hadith": 9
+      },
+      "narrator": {
+        "en": "Humaid b. 'Adb al-Rahman"
+      }
+    },
+    {
+      "hadithNumber": 4168,
+      "arabicNumber": 4168,
+      "book": 35,
+      "hadithInBook": 10,
+      "text": {
+        "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ حَنْبَلٍ، وَمُسَدَّدٌ، قَالاَ حَدَّثَنَا يَحْيَى، عَنْ عُبَيْدِ اللَّهِ، قَالَ حَدَّثَنِي نَافِعٌ، عَنْ عَبْدِ اللَّهِ، قَالَ لَعَنَ رَسُولُ اللَّهِ صلى الله عليه وسلم الْوَاصِلَةَ وَالْمُسْتَوْصِلَةَ وَالْوَاشِمَةَ وَالْمُسْتَوْشِمَةَ ‏.‏",
+        "translations": {
+          "en": "Abd Allah said:The Messenger of Allah (ﷺ) cursed the woman who adds some false hair and the woman who asks for it, the woman who tattoos and the woman who asks for it",
+          "ur": "عبداللہ بن عمر رضی اللہ عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے لعنت کی اس عورت پر جو دوسری عورت کے بال میں بال کو جوڑے، اور اس عورت پر اپنے بالوں میں اور بال جڑوائے، اور اس عورت پر دوسری عورت کا بدن گودے، اور نیل بھرے، اور اس عورت پر جو اپنا بدن گودوائے ۱؎۔",
+          "fr": "Abd Allah رضي الله عنه a dit : Le Messager d’Allah ﷺ a maudit la femme qui ajoute de faux cheveux et celle qui le demande, la femme qui tatoue et celle qui le demande",
+          "id": "Telah menceritakan kepada kami [Ahmad bin Hanbal] dan [Musaddad] keduanya berkata; telah menceritakan kepada kami [Yahya] dari [Ubaidullah] ia berkata; telah menceritakan kepadaku [Nafi'] dari [Abdullah] ia berkata, \"Rasulullah shallallahu 'alaihi wasallam melaknat wanita yang menyambung rambut dan wanita yang minta untuk disambung rambutnya, wanita yang mentato dan wanita yang minta untuk ditato",
+          "tr": "Abdullah b. Ömer (r.a)'ın şöyle dediği rivayet edilmiştir. Rasûlullah (s.a.v.) saç ekleyene ve ekletene, dövme yapana ve yaptırana lanet etti"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (5947) Sahih Muslim (2124)"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 35,
+        "hadith": 10
+      }
+    },
+    {
+      "hadithNumber": 4169,
+      "arabicNumber": 4169,
+      "book": 35,
+      "hadithInBook": 11,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عِيسَى، وَعُثْمَانُ بْنُ أَبِي شَيْبَةَ، - الْمَعْنَى - قَالاَ حَدَّثَنَا جَرِيرٌ، عَنْ مَنْصُورٍ، عَنْ إِبْرَاهِيمَ، عَنْ عَلْقَمَةَ، عَنْ عَبْدِ اللَّهِ، قَالَ لَعَنَ اللَّهُ الْوَاشِمَاتِ وَالْمُسْتَوْشِمَاتِ ‏.‏ قَالَ مُحَمَّدٌ وَالْوَاصِلاَتِ وَقَالَ عُثْمَانُ وَالْمُتَنَمِّصَاتِ ثُمَّ اتَّفَقَا وَالْمُتَفَلِّجَاتِ لِلْحُسْنِ الْمُغَيِّرَاتِ خَلْقَ اللَّهِ عَزَّ وَجَلَّ ‏.‏ فَبَلَغَ ذَلِكَ امْرَأَةً مِنْ بَنِي أَسَدٍ يُقَالُ لَهَا أُمُّ يَعْقُوبَ ‏.‏ زَادَ عُثْمَانُ كَانَتْ تَقْرَأُ الْقُرْآنَ ثُمَّ اتَّفَقَا فَأَتَتْهُ فَقَالَتْ بَلَغَنِي عَنْكَ أَنَّكَ لَعَنْتَ الْوَاشِمَاتِ وَالْمُسْتَوْشِمَاتِ ‏.‏ قَالَ مُحَمَّدٌ وَالْوَاصِلاَتِ وَقَالَ عُثْمَانُ وَالْمُتَنَمِّصَاتِ ثُمَّ اتَّفَقَا وَالْمُتَفَلِّجَاتِ قَالَ عُثْمَانُ لِلْحُسْنِ الْمُغَيِّرَاتِ خَلْقَ اللَّهِ تَعَالَى ‏.‏ فَقَالَ وَمَا لِي لاَ أَلْعَنُ مَنْ لَعَنَ رَسُولُ اللَّهِ صلى الله عليه وسلم وَهُوَ فِي كِتَابِ اللَّهِ تَعَالَى قَالَتْ لَقَدْ قَرَأْتُ مَا بَيْنَ لَوْحَىِ الْمُصْحَفِ فَمَا وَجَدْتُهُ ‏.‏ فَقَالَ وَاللَّهِ لَئِنْ كُنْتِ قَرَأْتِيهِ لَقَدْ وَجَدْتِيهِ ثُمَّ قَرَأَ ‏{‏ وَمَا آتَاكُمُ الرَّسُولُ فَخُذُوهُ وَمَا نَهَاكُمْ عَنْهُ فَانْتَهُوا ‏}‏ قَالَتْ إِنِّي أَرَى بَعْضَ هَذَا عَلَى امْرَأَتِكَ ‏.‏ قَالَ فَادْخُلِي فَانْظُرِي ‏.‏ فَدَخَلَتْ ثُمَّ خَرَجَتْ فَقَالَ مَا رَأَيْتِ وَقَالَ عُثْمَانُ فَقَالَتْ مَا رَأَيْتُ ‏.‏ فَقَالَ لَوْ كَانَ ذَلِكَ مَا كَانَتْ مَعَنَا ‏.‏",
+        "translations": {
+          "en": "Abd Allah (b. Mas'us) said:Allah has cursed the woman who tattoo and the women who have themselves tattooed, the women who add false hair (according to the version of Muhammad b. Isa) and the women who pluck hairs from their faces (according to the version on 'Uthman). The agreed version then goes: The women who spaces between their teeth for beauty, changing what Allah has created. When a woman of Banu Asad called Umm Ya'qub, who read the Qur'an (according to the version of 'Uthman) heard it, she came to him (according to the agreed version) and said: I have heard that you have cursed the women who tattoo, those have themselves tattooed, those who add false hair (according to the version of Muhammad), those pluck hairs from their faces, and those who make spaces between their teeth (according to the agreed version), for changing what Allah has created (according to the version of 'Uthman). He said: Why should I not curse those whom the Messenger of Allah (ﷺ) had cursed and those who were mentioned in Allah's Book ? She said: I have read it from cover to cover and have not found in it. He said: I swear by Allah, if you read it, you would have found it. He then read: What the Apostle has brought you accept, and what he has forbidden refrain from it. She said: I find some of these thing in you wife. He said: Enter (the house) and see. She said: I then entered (the house) and came out. He asked: What did you see ? She said: I did not see (anything). He said: Had it been so, she would have not have been with us. This is according to the version of 'Uthman",
+          "ur": "عبداللہ بن مسعود رضی اللہ عنہ کہتے ہیں کہ اللہ نے جسم میں گودنے لگانے والیوں اور گودنے لگوانے والیوں پر لعنت کی ہے، ( محمد کی روایت میں ہے ) اور بال جوڑنے والیوں پر، ( اور عثمان کی روایت میں ہے ) اور اپنے بال اکھیڑنے والیوں پر، جو زیب و زینت کے واسطہ منہ کے روئیں اکھیڑتی ہیں، اور خوبصورتی کے لیے اپنے دانتوں میں کشادگی کرانے والیوں، اور اللہ کی بنائی ہوئی صورت کو بدلنے والیوں پر۔ تو یہ خبر قبیلہ بنی اسد کی ایک عورت ( ام یعقوب نامی ) کو پہنچی جو قرآن پڑھا کرتی تھی، تو وہ عبداللہ بن مسعود کے پاس آئی اور کہنے لگی: مجھے یہ معلوم ہوا ہے کہ آپ نے گودنے والیوں اور گودوانے والیوں پر اور بال جوڑنے والیوں اور بال اکھیڑنے والیوں پر اور دانتوں کے درمیان کشادگی کرانے والیوں پر خوبصورتی کے لیے جو اللہ کی بنائی ہوئی شکل تبدیل کر دیتی ہیں پر لعنت کی ہے؟ تو عبداللہ بن مسعود نے کہا: میں ان پر کیوں نہ لعنت کروں جن پر رسول اللہ صلی اللہ علیہ وسلم نے لعنت کی ہو اور وہ اللہ کی کتاب کی رو سے بھی ملعون ہوں؟ تو اس عورت نے کہا: میں تو پورا قرآن پڑھ چکی ہوں لیکن یہ مسئلہ مجھے اس میں کہیں نہیں ملا؟ تو عبداللہ بن مسعود نے کہا: اللہ کی قسم! اگر تم نے اسے پڑھا ہوتا تو یہ مسئلہ ضرور پاتی پھر آپ نے آیت کریمہ «وما آتاكم الرسول فخذوه وما نهاكم عنه فانتهوا» اور تمہیں جو کچھ رسول دیں اسے لے لو اور جس سے منع کریں رک جاؤ ( الحشر: ۷ ) پڑھی تو وہ بولی: میں نے تو اس میں سے بعض چیزیں آپ کی بیوی کو بھی کرتے دیکھا ہے، آپ نے کہا: اچھا اندر جاؤ اور دیکھو تو وہ اندر گئیں پھر باہر آئیں تو آپ نے پوچھا: تم نے کیا دیکھا ہے؟ تو اس عورت نے کہا: مجھے کوئی چیز نظر نہیں آئی تو آپ نے فرمایا: اگر وہ ایسا کرتی تو پھر میرے ساتھ نہ رہتی۔",
+          "fr": "Abd Allah (ibn Mas’ud) رضي الله عنه a dit : Allah a maudit les femmes qui tatouent et celles qui se font tatouer, celles qui ajoutent de faux cheveux (selon la version de Muhammad ibn Isa) et celles qui s’épilent le visage (selon la version de ‘Uthman). La version commune ajoute : Les femmes qui se font écarter les dents pour la beauté, changeant ainsi ce qu’Allah a créé. Lorsqu’une femme de Banu Asad nommée Umm Ya’qub, qui lisait le Coran (selon la version de ‘Uthman), l’a entendu, elle est venue le voir (selon la version commune) et a dit : « J’ai entendu que tu as maudit les femmes qui tatouent, celles qui se font tatouer, celles qui ajoutent de faux cheveux (selon la version de Muhammad), celles qui s’épilent le visage et celles qui se font écarter les dents (selon la version commune), pour avoir changé ce qu’Allah a créé (selon la version de ‘Uthman). » Il répondit : « Pourquoi ne maudirais-je pas celles que le Messager d’Allah ﷺ a maudites et celles qui sont mentionnées dans le Livre d’Allah ? » Elle dit : « Je l’ai lu du début à la fin et je n’y ai pas trouvé cela. » Il répondit : « Par Allah, si tu l’avais lu, tu l’y aurais trouvé. » Puis il récita : « Ce que le Messager vous donne, prenez-le, et ce qu’il vous interdit, abstenez-vous-en. » Elle dit : « Je trouve certaines de ces choses chez ta femme. » Il dit : « Entre (dans la maison) et regarde. » Elle entra, puis ressortit. Il demanda : « Qu’as-tu vu ? » Elle répondit : « Je n’ai rien vu. » Il dit : « Si cela avait été le cas, elle ne serait pas restée avec nous. » Ceci selon la version de ‘Uthman",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Isa] dan [Utsman bin Abu Syaibah] secara makna, keduanya berkata; telah menceritakan kepada kami [Jarir] dari [Manshur] dari [Ibrahim] dari [Alqamah] dari [Abdullah] ia berkata, \"Allah melaknat wanita yang mentato dan wanita yang minta untuk ditato.\" Muhammad menyebutkan, \"dan wanita yang meyambung rambut.\" Utsman menyebutkan, \"dan wanita yang mencukur bulu alis.\" Dan keduanya sepakat dengan penyebutan, \"dan mengikir gigi untuk kecantikan dengan merubah ciptaan Allah Azza Wa Jalla. Hadits ini kemudian di dengar oleh seorang wanita dari bani Asad yang biasa di panggil dengan nama Ummu Ya'qub, Utsman menambahkan, \"yang sedang membaca Al-Qur'an. Ia lalu mendatangi Abdullah dan berkata, \"Telah sampai kabar kepadaku bahwa engkau melaknat Wanita yang mentato dan wanita yang minta untuk ditato?\" Muhammad menyebutkan, \"dan wanita yang menyambung rambut.\" Utsman menyebutkan, \"dan wanita yang mencukur alis. Kemudian keduanya sepakat dengan penyebutan, \"wanita yang mengikir gigi, Utsman menyebutkan, \"untuk kecantikan dengan merubah ciptaan Allah Ta'ala.\" Ummu Ya'qub berkata, \"Aku telah membaca lembaran-lembaran Al-Qur'an tetapi aku tidak mendapatkannya.\" Abdullah berkata, \"Demi Allah, jika engkau membacanya, sungguh engkau pasti mendapatkannya.\" Kemudian Abdullah membaca: (Apa yang diberikan Rasul kepadamu maka terimalah dia, dan apa yang dilarangnya bagimu maka tinggalkanlah.. (Qs. Al Hasyr: 7).\" Ummu Ya'qub berkata, \"Aku melihat hal ini ada pada isterimu!\" Abdullah berkata, \"Masuk dan lihatlah.\" Ummu Ya'qub kemudian masuk dan keluar lagi. Abdullah berkata, \"Apa yang engkau lihat?\" Utsman berkata (dalam riwayatnya) maka Ummu Ya'qub berkata; \"Aku tidak melihatnya\", Ibnu Mas'ud berkata; \"Jikalau hal itu ada pada istriku niscaya dia tidak akan ada bersama kami",
+          "tr": "Muhammed b. İsa ve Osman b. Ebİ Şeybe'den; Cerîr, Mansur'dan; O, İbrahim den; İbrahim, Alkame'den, o da Abdullah (îbn Mes'ûd)'dan şöyle dediğini rivayet etmişlerdir. Dövme yapan ve yaptıran - Muhammed\"in rivayetine göre - saç ekleyen, - Osman'ın rivayetine göre - Yüzün kılını yolduran - Her ikisinin rivayetine göre - güzellik için dişlerini törpülettiren, Allah Azze ve Celle'nin yarattığı şeyi değiştiren kadınlara Allah lanet etsin. Bu haber, Beni Esad kabilesinden Ümmü Ya'kîıp denilen bir kadına -Osman, Kur'an okuyan bir kadın, dedi - ulaştı. Kadın Abdullah'a geldi ve \"senin, döğme yapan ve döğme yaptıran -Muhammed'in rivayetine göre, saç ekleyen, - Osman'ın rivayetine göre, yüzünün kılını yolduran, -Her ikisinin rivayetine göre, dişlerini torpilleten - Osman, güzellik için dişlerini torpületen, dedi. - Allah'ın yarattığı şeyi değiştiren kadınlara lanet ettiğini duydum.\" dedi.Abdullah: \"Rasûlullah'ın lanet ettiği kişiye, ben niçin lanet etmeyecekmişim? Üstelik bu Allah'ın kitabında da var.” Kadın: \"Ben Kur'anın iki kapağı arasına (Kur'anın tamamını) okudum, öyle bir şey bulamadım.\"Abdullah: \"Vallahi, eğer sen Kur'anı okusaydın onu bulurdun\" dedi. Sonra da; \"Rasûl size ne getirdi ise onu alın, sizi neden nehyetti ise de derhal vazgeçin\"[Haşr 17] ayetini okudu. Kadın: Ben bunların bir kısmını senin hanımında da görüyorum\" Abdullah: \"Gir (eve) bak\" Kadın eve girdi, sonra çıktı. Abdullah: \"Ne gördün?\" Osman'ın rivayetine göre - Kadın: \" Bir şey görmedim\" dedi. Abdullah; \"Eğer öyle (dediğin gibi) olsaydı o bizimle beraber olmazdı\" dedi. Diğer tahric: Buhari, Libas: Müslim, Libas: Nesaî, Ziyne: Tirmizî Edep: İbn Mace Nikah"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (5931) Sahih Muslim (2125)"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 35,
+        "hadith": 11
+      }
+    },
+    {
+      "hadithNumber": 4170,
+      "arabicNumber": 4170,
+      "book": 35,
+      "hadithInBook": 12,
+      "text": {
+        "arabic": "حَدَّثَنَا ابْنُ السَّرْحِ، حَدَّثَنَا ابْنُ وَهْبٍ، عَنْ أُسَامَةَ، عَنْ أَبَانَ بْنِ صَالِحٍ، عَنْ مُجَاهِدِ بْنِ جَبْرٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ لُعِنَتِ الْوَاصِلَةُ وَالْمُسْتَوْصِلَةُ وَالنَّامِصَةُ وَالْمُتَنَمِّصَةُ وَالْوَاشِمَةُ وَالْمُسْتَوْشِمَةُ مِنْ غَيْرِ دَاءٍ ‏.‏ قَالَ أَبُو دَاوُدَ وَتَفْسِيرُ الْوَاصِلَةِ الَّتِي تَصِلُ الشَّعْرَ بِشَعْرِ النِّسَاءِ وَالْمُسْتَوْصِلَةُ الْمَعْمُولُ بِهَا وَالنَّامِصَةُ الَّتِي تَنْقُشُ الْحَاجِبَ حَتَّى تَرِقَّهُ وَالْمُتَنَمِّصَةُ الْمَعْمُولُ بِهَا وَالْوَاشِمَةُ الَّتِي تَجْعَلُ الْخِيلاَنَ فِي وَجْهِهَا بِكُحْلٍ أَوْ مِدَادٍ وَالْمُسْتَوْشِمَةُ الْمَعْمُولُ بِهَا ‏.‏",
+        "translations": {
+          "en": "Narrated Ibn 'Abbas: The woman who supplies fake hair and the one who asks for it, the woman who pulls out hair for other people and the woman who depilates herself, the woman who tattoos and the one who has it done when there is no disease to justify it have been cursed. Abu Dawud said: Wasilah means the woman who adds false hair to the hair of women. Mustawsilah means the one who asks for adding the hair to her hair. namisah means a woman who plucks hair from the brow until she makes it thin; mutanammisah means the woman who depilates herself ; washimah is a woman who tattoos in the face with antimony or ink ; mustawshimah is a woman with whom it is done",
+          "ur": "عبداللہ بن عباس رضی اللہ عنہما کہتے ہیں کہ ملعون قرار دی گئی ہے بال جوڑنے والی، اور جڑوانے والی، بال اکھیڑنے والی اور اکھڑوانے والی، اور بغیر کسی بیماری کے گودنے لگانے والی اور گودنے لگوانے والی۔ ابوداؤد کہتے ہیں: «واصلة» اس عورت کو کہتے ہیں جو عورتوں کے بال میں بال جوڑے، اور «مستوصلة» اسے کہتے ہیں جو ایسا کروائے، اور «نامصة» وہ عورت ہے جو ابرو کے بال اکھیڑ کر باریک کرے، اور«متنمصة» وہ ہے جو ایسا کروائے، اور «واشمة» وہ عورت ہے جو چہرہ میں سرمہ یا سیاہی سے خال ( تل ) بنائے، اور «مستوشمة» وہ ہے جو ایسا کروائے۔",
+          "fr": "Rapporté par Ibn Abbas رضي الله عنه : La femme qui ajoute de faux cheveux et celle qui le demande, la femme qui épile les autres et celle qui s’épile elle-même, la femme qui tatoue et celle qui se fait tatouer sans raison médicale, ont été maudites. Abu Dawud a dit : Wasilah désigne la femme qui ajoute de faux cheveux à d’autres femmes. Mustawsilah est celle qui demande qu’on lui ajoute des cheveux. Namisah est la femme qui s’épile les sourcils jusqu’à les rendre fins ; mutanammisah est celle qui s’épile elle-même ; washimah est la femme qui se fait tatouer le visage avec de l’antimoine ou de l’encre ; mustawshimah est celle à qui on le fait",
+          "id": "Telah menceritakan kepada kami [Ibnu As Sarh] berkata, telah menceritakan kepada kami [Ibnu Wahb] dari [Usamah] dari [Aban bin Shalih] dari [Mujahid bin Jabr] dari [Ibnu Abbas] ia berkata, \"Telah dilaknat wanita yang menyambung rambut dan wanita yang minta untuk disambung rambutnya, wanita yang mencabut alis dan wanita yang minta dicabut alisnya, wanita yang mentato dan wanita yang minta antuk ditato, tanpa ada penyakit.\" Abu Dawud berkata, \"Al Washilah adalah wanita yang menyambung rambutnya dengan rambut wanita (wig). Al Mustaushilat adalah orang yang disambung rambutnya. An Namishat adalah orang yang mencabut alisnya hingga tipis, dan Al Mutanamishat adalah orang yang minta dicabut alisnya. Al Wasyimah adalah orang yang membuat tato di wajahnya baik dengan celak atau tinta, Al Mustausyimah adalah orang yang minta ditato",
+          "tr": "İbn Abbas (r.a) demiştirki: Saç ekleyen ve ekleten, yüzünün kılını alan ve aldıran, hastalıktan dolayı olmadan döğme yapan ve yaptıran kadınlara lanet edildiler. Ebû Davûd şöyle dedi: Vasile: Saçı kadınların saçına ekleyen kadın. Müstevsile, kendisine saç eklenen kadın, Namisa; inceltinceye kadar kaşı yolan kadına Müte-nemmisa kaşı yolunan kadın, Vasime: Yüzünü sürme veya mürekkeple ben yapan kadın, Müstevşime de, kendisine ben yapan kadın demektir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 35,
+        "hadith": 12
+      },
+      "narrator": {
+        "en": "Ibn 'Abbas"
+      }
+    },
+    {
+      "hadithNumber": 4171,
+      "arabicNumber": 4171,
+      "book": 35,
+      "hadithInBook": 13,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرِ بْنِ زِيَادٍ، قَالَ حَدَّثَنَا شَرِيكٌ، عَنْ سَالِمٍ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، قَالَ لاَ بَأْسَ بِالْقَرَامِلِ ‏.‏ قَالَ أَبُو دَاوُدَ كَأَنَّهُ يَذْهَبُ إِلَى أَنَّ الْمَنْهِيَّ، عَنْهُ شُعُورُ النِّسَاءِ ‏.‏ قَالَ أَبُو دَاوُدَ كَانَ أَحْمَدُ يَقُولُ الْقَرَامِلُ لَيْسَ بِهِ بَأْسٌ ‏.‏",
+        "translations": {
+          "en": "Sa'id b. Jubair said:There is no harm in fastening the hair with silk or woollen threads. Abu Dawud said: It appears that he held the view that what is prohibited is the adding of the hair of women. Abu Dawud said: Ahmad (b. hanbal) used to say: There is no harm in tying the hair with silk or woollen threads",
+          "ur": "سعید بن جبیر کہتے ہیں بالوں کی چوٹیاں بنا کر کسی چیز سے باندھنے میں کوئی مضائقہ نہیں ہے۔ ابوداؤد کہتے ہیں: گویا وہ اس بات کی طرف جا رہے ہیں کہ جس سے منع کیا گیا ہے وہ دوسری عورت کے بال اپنے بال میں جوڑنا ہے نہ کہ اپنے بالوں کی چوٹی باندھنی۔ ابوداؤد کہتے ہیں: احمد کہتے تھے: چوٹی باندھنے میں کوئی حرج نہیں۔",
+          "fr": "Sa’id ibn Jubair رضي الله عنه a dit : Il n’y a pas de mal à attacher les cheveux avec des fils de soie ou de laine. Abu Dawud a dit : Il semble qu’il considérait que ce qui est interdit, c’est d’ajouter les cheveux d’autres femmes. Abu Dawud a dit : Ahmad ibn Hanbal disait : Il n’y a pas de mal à attacher les cheveux avec des fils de soie ou de laine",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Ja'far bin Ziyad] ia berkata; telah menceritakan kepada kami [Syarik] dari [Salim] dari [Sa'id bin Jubair] ia berkata, \"Benang sutera tidak apa-apa.\" Abu Dawud berkata, \"Seakan-akan ia berpendapat bahwa yang dilarang adalah rambut wanita.\" Abu Dawud berkata, \"Ahmad berkata, \"Benang dari sutera tidak ada masalah (boleh)",
+          "tr": "Said b. Cübeyr (r.a) \"karmellerle (saçı ulamakta) mahzur yoktur.\" demiştir. Ebû Davûd der ki: \"Galiba Saîd b. Cübeyr, yasak olanın kadınların saçları olduğu görüşündedir.\" Ahmed (b. Hanbel) de \"karmellerdc (saçı ulamakta) mahzur yoktur\" derdi"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif Maqtu"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 35,
+        "hadith": 13
+      }
+    },
+    {
+      "hadithNumber": 4172,
+      "arabicNumber": 4172,
+      "book": 35,
+      "hadithInBook": 14,
+      "text": {
+        "arabic": "حَدَّثَنَا الْحَسَنُ بْنُ عَلِيٍّ، وَهَارُونُ بْنُ عَبْدِ اللَّهِ، - الْمَعْنَى - أَنَّ أَبَا عَبْدِ الرَّحْمَنِ الْمُقْرِئَ، حَدَّثَهُمْ عَنْ سَعِيدِ بْنِ أَبِي أَيُّوبَ، عَنْ عُبَيْدِ اللَّهِ بْنِ أَبِي جَعْفَرٍ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ مَنْ عُرِضَ عَلَيْهِ طِيبٌ فَلاَ يَرُدَّهُ فَإِنَّهُ طَيِّبُ الرِّيحِ خَفِيفُ الْمَحْمَلِ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Abu Hurairah reported the Messenger of Allah (ﷺ) as saying:If anyone is presented some perfume, he should not return it, for it is a thing of good fragrance and light to bear",
+          "ur": "ابوہریرہ رضی اللہ عنہ سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: جسے خوشبو کا ( تحفہ ) پیش کیا جائے تو وہ اسے لوٹائے نہیں کیونکہ وہ خوشبودار ہے اور اٹھانے میں ہلکا ہے ۱؎ ۔",
+          "fr": "Abu Hurayrah رضي الله عنه a rapporté que le Messager d’Allah ﷺ a dit : « Si quelqu’un reçoit du parfum, qu’il ne le refuse pas, car c’est une chose agréable et légère à porter. »",
+          "id": "Telah menceritakan kepada kami [Al Hasan bin Ali] dan [Harun bin Abdullah] secara makna, bahwa [Abu 'Abdurrahman Al Muqri] menceritakan kepada mereka dari [Sa'id bin Abu Ayyub] dari [Ubaidullah bin Abu Ja'far] dari [Al A'raj] dari [Abu Hurairah] ia berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Barangsiapa ditawari minyak wangi janganlah menolak, karena minyak wangi itu enak aromanya dan ringan membawanya",
+          "tr": "Ebû Hureyre (r.a)'den şöyle rivayet edilmiştir: Rasulullah (s.a.v.) şöyle buyurmuştur. \"Kendisine güzel koku ikram edilen kişi onu reddetmesin. Çünkü, o esansın kokusu güzel, taşıması hafiftir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim (2253)"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 35,
+        "hadith": 14
+      }
+    },
+    {
+      "hadithNumber": 4173,
+      "arabicNumber": 4173,
+      "book": 35,
+      "hadithInBook": 15,
+      "text": {
+        "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، أَخْبَرَنَا ثَابِتُ بْنُ عُمَارَةَ، حَدَّثَنِي غُنَيْمُ بْنُ قَيْسٍ، عَنْ أَبِي مُوسَى، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ إِذَا اسْتَعْطَرَتِ الْمَرْأَةُ فَمَرَّتْ عَلَى الْقَوْمِ لِيَجِدُوا رِيحَهَا فَهِيَ كَذَا وَكَذَا ‏\"‏ ‏.‏ قَالَ قَوْلاً شَدِيدًا ‏.‏",
+        "translations": {
+          "en": "Narrated AbuMusa: The Prophet (ﷺ) said: If a woman uses perfume and passes the people so that they may get its odour, she is so-and-so, meaning severe remarks",
+          "ur": "ابوموسیٰ اشعری رضی اللہ عنہ سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: جب عورت عطر لگائے پھر وہ لوگوں کے پاس سے اس لیے گزرے تاکہ وہ اس کی خوشبو سونگھیں تو وہ ایسی اور ایسی ہے آپ نے ( ایسی عورت کے متعلق ) بڑی سخت بات کہی۔",
+          "fr": "Rapporté par Abu Musa رضي الله عنه : Le Prophète ﷺ a dit : « Si une femme se parfume et passe devant des gens pour qu’ils sentent son odeur, elle est ainsi et ainsi », c’est-à-dire qu’il a prononcé des paroles sévères à son sujet",
+          "id": "Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Yahya] berkata, telah mengabarkan kepada kami [Tsabit bin Umarah] berkata, telah menceritakan kepadaku [Ghunaim bin Qais] dari [Abu Musa] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: \"Jika seorang wanita memakai wewangian, lalu sengaja melewati suatu kaum agar mereka mencium baunya, maka ia adalah begini dan begini.\" Beliau mengatakan itu dengan intonasi yang keras",
+          "tr": "Ebû Musa el-Eşarî (r.a) demiştir ki. Rasulullah (s.a.v.) şöyle buyurdu; \"Kadın koku sürünür ve kokusunu farketsinler diye bir topluma uğrarsa o şöyle şöyledir.\" Ebû Musa: \"Rasulullah, çok ağır sözler söyledi\" der. Bu hadis; Tirmizi edeb:; Nesai Zinet; Darimi İstizan; Ahmed b. Hanbel IV. -400. 414. 418. dede var. İzah 4175 te"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 35,
+        "hadith": 15
+      },
+      "narrator": {
+        "en": "AbuMusa"
+      }
+    },
+    {
+      "hadithNumber": 4174,
+      "arabicNumber": 4174,
+      "book": 35,
+      "hadithInBook": 16,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ، حَدَّثَنَا سُفْيَانُ، عَنْ عَاصِمِ بْنِ عُبَيْدِ اللَّهِ، عَنْ عُبَيْدِ اللَّهِ، مَوْلَى أَبِي رُهْمٍ عَنْ أَبِي هُرَيْرَةَ، قَالَ لَقِيَتْهُ امْرَأَةٌ وَجَدَ مِنْهَا رِيحَ الطِّيبِ يُنْفَحُ وَلِذَيْلِهَا إِعْصَارٌ فَقَالَ يَا أَمَةَ الْجَبَّارِ جِئْتِ مِنَ الْمَسْجِدِ قَالَتْ نَعَمْ ‏.‏ قَالَ وَلَهُ تَطَيَّبْتِ قَالَتْ نَعَمْ ‏.‏ قَالَ إِنِّي سَمِعْتُ حِبِّي أَبَا الْقَاسِمِ صلى الله عليه وسلم يَقُولُ ‏ \"‏ لاَ تُقْبَلُ صَلاَةٌ لاِمْرَأَةٍ تَطَيَّبَتْ لِهَذَا الْمَسْجِدِ حَتَّى تَرْجِعَ فَتَغْتَسِلَ غُسْلَهَا مِنَ الْجَنَابَةِ ‏\"‏ ‏.‏ قَالَ أَبُو دَاوُدَ الإِعْصَارُ غُبَارٌ ‏.‏",
+        "translations": {
+          "en": "Narrated AbuHurayrah: A woman met him and he found the odour of perfume in her. Her clothes were fluttering in the air. He said: O maid-servant of the Almighty, are you coming from the mosque? She replied: Yes. He said: For it did you use perfume? She replied: Yes. He said: I heard my beloved AbulQasim (ﷺ) say: The prayer of a woman who uses perfume for this mosque is not accepted until she returns and takes a bath like that of sexual defilement (perfectly). Abu Dawud said: Al-i'sar means dust",
+          "ur": "ابوہریرہ رضی اللہ عنہ کہتے ہیں کہ ان سے ایک عورت ملی جس سے آپ نے خوشبو پھوٹتے محسوس کیا، اور اس کے کپڑے ہوا سے اڑ رہے تھے تو آپ نے کہا: جبار کی بندی! تم مسجد سے آئی ہو؟ وہ بولی: ہاں، انہوں نے کہا: تم نے مسجد جانے کے لیے خوشبو لگا رکھی ہے؟ بولی: ہاں، آپ نے کہا: میں نے اپنے حبیب ابوالقاسم صلی اللہ علیہ وسلم کو فرماتے ہوئے سنا ہے: اس عورت کی نماز قبول نہیں کی جاتی جو اس مسجد میں آنے کے لیے خوشبو لگائے، جب تک واپس لوٹ کر جنابت کا غسل نہ کر لے ۔ ابوداؤد کہتے ہیں: «اعصار» غبار ہے ۱؎۔",
+          "fr": "Rapporté par Abu Hurayrah رضي الله عنه : Une femme l’a rencontré et il a senti l’odeur de parfum sur elle. Ses vêtements flottaient dans l’air. Il lui dit : « Ô servante du Tout-Puissant, viens-tu de la mosquée ? » Elle répondit : « Oui. » Il dit : « Pour cela t’es-tu parfumée ? » Elle répondit : « Oui. » Il dit : « J’ai entendu mon bien-aimé Abul Qasim ﷺ dire : La prière d’une femme qui se parfume pour cette mosquée n’est pas acceptée tant qu’elle ne retourne pas se laver comme après une impureté majeure (complètement). » Abu Dawud a dit : Al-i’sar signifie poussière",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Katsir] berkata, telah menceritakan kepada kami [Sufyan] dari [Ashim bin Ubaidullah] dari [Ubaid] mantan budak Abu Ruhm, dari [Abu Hurairah] ia berkata, \"Ia bertemu seorang wanita dan mencium bau harum darinya, dan ujung pakaiannya menjuntai (menyapu tanah). Ia lalu berkata, \"Wahai Budak Al Jabbar, apakah engkau datang dari masjid?\" wanita itu menjawab, \"Ya.\" Abu Hurairah bertanya lagi, \"Karena ingin ke masjidkah kamu memakai wewangian?\" wanita itu menjawab, \"Ya.\" Abu Hurairah lalu berkata, \"Sesungguhnya aku mendengar kekasihku, Abu Al Qasim shallallahu 'alaihi wasallam bersabda: \"Tidak akan diterima shalat seorang wanita yang memakai wewangian karena ingin pergi ke masjid ini, sehingga ia kembali dan mandi sebagaimana ia mandi dari junub.\" Abu Dawud berkata, \"Al I'shar maksudnya adalah debu",
+          "tr": "Ebu Ruhm'in azatlısı Ubeydullah'dan rivayet edildiğine göre; Ebû Hureyre (r.a) bir kadınla karşılaştı. Kadından esans kokusu hissetti eteğinde de (yukarı doğru yükselen kokulu) toz vardı. Kadına: \"Ey Cebbar (olan Allah'ın) cariyesi, Mescidden mi geliyorsun?\" dedi. Kadın: Evet Onun için mi koku süründün? -Evet Ben Sevgili Nebiim Ebü'l-Kasım'ı şöyle derken işittim: \"Şu mescid için koku sürünen bir kadın'ın namazı (evine) dönüpte cünüplükten dolayı guslettiği gibi gusledinceye kadar, kabul edilmez.\" Ebû Dâvûd derki; \"I'sâr tozdur.\" dedi. İbn Mâce, Fiten de de var, bu hadis. İzah 4175 te"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan Lighairihi"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 35,
+        "hadith": 16
+      },
+      "narrator": {
+        "en": "AbuHurayrah"
+      }
+    },
+    {
+      "hadithNumber": 4175,
+      "arabicNumber": 4175,
+      "book": 35,
+      "hadithInBook": 17,
+      "text": {
+        "arabic": "حَدَّثَنَا النُّفَيْلِيُّ، وَسَعِيدُ بْنُ مَنْصُورٍ، قَالاَ حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ أَبُو عَلْقَمَةَ، قَالَ حَدَّثَنِي يَزِيدُ بْنُ خُصَيْفَةَ، عَنْ بُسْرِ بْنِ سَعِيدٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ أَيُّمَا امْرَأَةٍ أَصَابَتْ بَخُورًا فَلاَ تَشْهَدَنَّ مَعَنَا الْعِشَاءَ ‏\"‏ ‏.‏ قَالَ ابْنُ نُفَيْلٍ ‏\"‏ عِشَاءَ الآخِرَةِ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Narrated AbuHurayrah: The Prophet (ﷺ) said: If a woman fumigates herself with perfume, she must not attend the night prayer with us. Ibn Nufayl said: Isha' means night prayer",
+          "ur": "ابوہریرہ رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: جس عورت نے خوشبو کی دھونی لے رکھی ہو تو وہ ہمارے ساتھ عشاء کے لیے ( مسجد میں ) نہ آئے ( بلکہ وہ گھر ہی میں پڑھ لے ) ۔ ابن نفیل کی روایت میں «العشاء» کے بجائے «عشاء الآخرة» ہے ( یعنی عشاء کی صلاۃ ) ۔",
+          "fr": "Rapporté par Abu Hurayrah رضي الله عنه : Le Prophète ﷺ a dit : « Si une femme se parfume avec de l’encens, elle ne doit pas assister à la prière du soir avec nous. » Ibn Nufayl a dit : Isha’ signifie la prière du soir",
+          "id": "Telah menceritakan kepada kami [An nufaili] dan [Sa'id bin Manshur] keduanya berkata; telah menceritakan kepada kami [Abdullah bin Muhammad Abu Alqamah] ia berkata; telah menceritakan kepadaku [Yazid bin Khushaifah] dari [Busr bin Sa'id] dari [Abu Hurairah] ia berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Wanita mana saja yang terkena bakhur (wewangian), maka jangan sekali-kali ia shalat isya bersama kami.\" Ia (perawi) berkata, \"Maksudnya adalah shalat isya yang akhir (larut malam)",
+          "tr": "Ebû Hureyre (r.a) Nebi (s.a.v.)'in şöyle buyurduğunu rivayet etmiştir. \"Buhur Sürünen bir kadın, bizimle birlikte yatsı namazına gelmesin"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim (444)"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 35,
+        "hadith": 17
+      },
+      "narrator": {
+        "en": "AbuHurayrah"
+      }
+    },
+    {
+      "hadithNumber": 4176,
+      "arabicNumber": 4176,
+      "book": 35,
+      "hadithInBook": 18,
+      "text": {
+        "arabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا حَمَّادٌ، أَخْبَرَنَا عَطَاءٌ الْخُرَاسَانِيُّ، عَنْ يَحْيَى بْنِ يَعْمَرَ، عَنْ عَمَّارِ بْنِ يَاسِرٍ، قَالَ قَدِمْتُ عَلَى أَهْلِي لَيْلاً وَقَدْ تَشَقَّقَتْ يَدَاىَ فَخَلَّقُونِي بِزَعْفَرَانٍ فَغَدَوْتُ عَلَى النَّبِيِّ صلى الله عليه وسلم فَسَلَّمْتُ عَلَيْهِ فَلَمْ يَرُدَّ عَلَىَّ وَلَمْ يُرَحِّبْ بِي فَقَالَ ‏\"‏ اذْهَبْ فَاغْسِلْ هَذَا عَنْكَ ‏\"‏ ‏.‏ فَذَهَبْتُ فَغَسَلْتُهُ ثُمَّ جِئْتُ وَقَدْ بَقِيَ عَلَىَّ مِنْهُ رَدْعٌ فَسَلَّمْتُ فَلَمْ يَرُدَّ عَلَىَّ وَلَمْ يُرَحِّبْ بِي وَقَالَ ‏\"‏ اذْهَبْ فَاغْسِلْ هَذَا عَنْكَ ‏\"‏ ‏.‏ فَذَهَبْتُ فَغَسَلْتُهُ ثُمَّ جِئْتُ فَسَلَّمْتُ عَلَيْهِ فَرَدَّ عَلَىَّ وَرَحَّبَ بِي وَقَالَ ‏\"‏ إِنَّ الْمَلاَئِكَةَ لاَ تَحْضُرُ جَنَازَةَ الْكَافِرِ بِخَيْرٍ وَلاَ الْمُتَضَمِّخَ بِالزَّعْفَرَانِ وَلاَ الْجُنُبَ ‏\"‏ ‏.‏ قَالَ وَرَخَّصَ لِلْجُنُبِ إِذَا نَامَ أَوْ أَكَلَ أَوْ شَرِبَ أَنْ يَتَوَضَّأَ ‏.‏",
+        "translations": {
+          "en": "Narrated Ammar ibn Yasir: I came to my family at night (after a journey) with my hands chapped and they perfumed me with saffron. In the morning I went to the Prophet (ﷺ) and gave him a greeting, but he did not respond to me nor did he welcome me. He said: Go away and wash this off yourself. I then went away and washed it off me. I came to him but there remained a spot of it on me. I give him a greeting, but he did not respond to me nor did he welcome me. He said: Go away and wash it off yourself. I then went away and washed it off me. I then came and gave him a greeting. He responded to me and welcomed me, saying: The angels do not attend the funeral of an unbeliever bringing good to it, nor a man who smears himself with saffron, nor a man who is sexually defiled. He said: He permitted the man who was sexually defiled to perform ablution when he slept, ate or drank",
+          "ur": "عمار بن یاسر رضی اللہ عنہما کہتے ہیں کہ میں اپنے گھر والوں کے پاس رات کو آیا، میرے دونوں ہاتھ پھٹے ہوئے تھے تو ان لوگوں نے اس میں زعفران کا خلوق ( ایک مرکب خوشبو ہے ) لگا دیا، پھر میں صبح کو رسول اللہ صلی اللہ علیہ وسلم کی خدمت میں حاضر ہوا اور آپ کو سلام کیا تو آپ نے نہ میرے سلام کا جواب دیا اور نہ خوش آمدید کہا اور فرمایا: جا کر اسے دھو ڈالو میں نے جا کر اسے دھو دیا، پھر آیا، اور میرے ہاتھ پر خلوق کا اثر ( دھبہ ) باقی رہ گیا تھا، میں نے آپ صلی اللہ علیہ وسلم کو سلام کیا تو آپ نے میرے سلام کا جواب دیا اور نہ خوش آمدید کہا اور فرمایا: جا کر اسے دھو ڈالو میں گیا اور میں نے اسے دھویا، پھر آ کر سلام کیا تو آپ صلی اللہ علیہ وسلم نے سلام کا جواب دیا اور خوش آمدید کہا، اور فرمایا: فرشتے کافر کے جنازہ میں کوئی خیر لے کر نہیں آتے، اور نہ اس شخص کے جو زعفران ملے ہو، نہ جنبی کے اور آپ صلی اللہ علیہ وسلم نے جنبی کو رخصت دی کہ وہ سونے، کھانے، یا پینے کے وقت وضو کر لے۔",
+          "fr": "Rapporté par Ammar ibn Yasir رضي الله عنه : Je suis rentré chez moi la nuit (après un voyage) avec les mains abîmées, et ma famille m’a parfumé avec du safran. Le matin, je suis allé voir le Prophète ﷺ et je l’ai salué, mais il ne m’a pas répondu ni accueilli. Il m’a dit : « Va te laver et enlève cela de toi. » Je suis donc parti me laver et j’ai enlevé le parfum. Je suis revenu, mais il en restait encore une trace sur moi. Je l’ai salué, mais il ne m’a pas répondu ni accueilli. Il m’a dit : « Va te laver et enlève cela de toi. » Je suis donc reparti me laver et j’ai tout enlevé. Je suis revenu et je l’ai salué. Cette fois, il m’a répondu et accueilli en disant : « Les anges n’assistent pas aux funérailles d’un mécréant pour lui apporter du bien, ni d’un homme qui s’enduit de safran, ni d’un homme en état d’impureté majeure. » Il a ajouté : « Il est permis à celui qui est en état d’impureté majeure de faire les ablutions s’il veut dormir, manger ou boire. »",
+          "id": "Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan kepada kami [Hammad] berkata, telah mengabarkan kepada kami [Atha Al Khurasani] dari [Yahya bin Ya'mar] dari [Ammar bin Yasir] ia berkata, \"Aku kembali ke rumah di waktu yang sudah malam, dan tanganku terlihat pecah-pecah hingga mereka melumuri aku dengan Za'faran (yang berwarna kuning). Aku lalu mendatangi Nabi shallallahu 'alaihi wasallam di waktu pagi, aku mengucapkan salam namun beliau tidak menjawab salam atau menyambutku. Bahkan beliau bersabda: \"Pergi dan bersihkanlah ini darimu.\" Aku lantas pergi dan membersihkan Za'faran tersebut. Kemudian aku mendatangi beliau meskipun masih ada sisa-sisa Za'faran. Aku mengucapkan salam namun beliau tidak menjawab atau menyambutku. Beliau bersabda: \"Bersihkan ini darimu.\" Aku lalu pergi dan membersihkannya. Kemudian aku datang dan mengucapkan salam kepadanya, lalu beliau menjawab atau menyambutku. Beliau lantas bersabda: \"Sesungguhnya malaikat tidak akan datang menghadiri jenazah orang kafir dengan kebaikan, dan pula orang yang melumuri dirinya dengan Za'faran dan orang yang junub.\" Ammar berkata, \"Beliau memberi keringanan kepada orang yang junub jika ingin tidur, atau makan, atau minum cukup dengan berwudhu.\" Telah menceritakan kepada kami [Nashr bin Ali] berkata, telah menceritakan kepada kami [Muhammad bin Bakr] berkata, telah mengabarkan kepada kami [Ibnu Juraij] berkata, telah mengabarkan kepadaku [Umar bin Atha bin Abu Al Khuwar] Bahwasanya ia mendengar [Yahya bin Ya'mar] mengabarkan dari [seorang laki-laki] ia mengabarkan kepadanya dari [Ammar bin Yasir] berkata -Umar berkeyakinan bahwa Yahya menyebut nama laki-laki itu, namun Umar lupa namanya-, \"Aku memakai wewangian…sama seperti hadits ini. namun yang pertama lebih lengkap dan sempurna, sebab disebutkan tentang mandi di dalamnya.\" Ia berkata, \"Aku bertanya kepada Umar, \"Apakah mereka sedang ihram?\" Umar berkata, \"Tidak, mereka sedang menetap di rumah",
+          "tr": "Ammar b. Yâsir (r.a.)'ın şöyle dediği rivayet edilmiştir. Bir gece ellerim yarık bir halde aileme geldim. (Ellerime) za'ferân sürdüler. Ertesi gün Rasûlullah (s.a.v.)'e gelip selâm verdim. Selâmıma karşılık vermedi, \"merhaba\"'demedi. \"Git şunu yıka\" buyurdu. Gittim, onu yıkadım sonra geri geldim. Elimde za'ferândan az bir leke kalmıştı. Selâm verdim, Selâmıma yine karşılık vermedi. “Merhaba\" demedi. (Tekrar) \"Git şunu yıka\" buyurdu. Gittim ve onu yıkadım. Sonra Hz. Nebi (s.a.)’e gelip selâm verdim. Bu sefer selamımı aldı, \"Merhaba\" dedi ve şöyle buyurdu. \"Şüphesiz melekler kâfirin cenazesinde, Za'ferân sürünenin ve cünübün yanında hayırla bulunmazlar\" Râvî; \"(Rasûlullah) cünüp için uyumak, yemek veya içmek istediği za­man abdest almasına ruhsat verdi.\" dedi"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 35,
+        "hadith": 18
+      },
+      "narrator": {
+        "en": "Ammar ibn Yasir"
+      }
+    },
+    {
+      "hadithNumber": 4177,
+      "arabicNumber": 4177,
+      "book": 35,
+      "hadithInBook": 19,
+      "text": {
+        "arabic": "حَدَّثَنَا نَصْرُ بْنُ عَلِيٍّ، حَدَّثَنَا مُحَمَّدُ بْنُ بَكْرٍ، أَخْبَرَنَا ابْنُ جُرَيْجٍ، أَخْبَرَنِي عُمَرُ بْنُ عَطَاءِ بْنِ أَبِي الْخُوَارِ، أَنَّهُ سَمِعَ يَحْيَى بْنَ يَعْمَرَ، يُخْبِرُ عَنْ رَجُلٍ، أَخْبَرَهُ عَنْ عَمَّارِ بْنِ يَاسِرٍ، - زَعَمَ عُمَرُ أَنَّ يَحْيَى، سَمَّى ذَلِكَ الرَّجُلَ فَنَسِيَ عُمَرُ اسْمَهُ - أَنَّ عَمَّارًا قَالَ تَخَلَّقْتُ بِهَذِهِ الْقِصَّةِ ‏.‏ وَالأَوَّلُ أَتَمُّ بِكَثِيرٍ فِيهِ ذَكَرَ الْغُسْلَ قَالَ قُلْتُ لِعُمَرَ وَهُمْ حُرُمٌ قَالَ لاَ الْقَوْمُ مُقِيمُونَ ‏.‏",
+        "translations": {
+          "en": "The tradition mentioned above (No. 4164) has also been transmitted by Ammar ibn Yasir through a different chain of narrators. This version has:Ammar said: I used khaluq. The first version is more perfect; it mentioned \"taking a bath\". Ibn Jurayj said: I said to Umar (a transmitter): They might be wearing ihram (robe of pilgrim)? He replied: No, they were residents",
+          "ur": "عمار بن یاسر رضی اللہ عنہما کہتے ہیں کہ میں نے خود اپنے ہاتھوں میں خلوق ملا، پہلی روایت زیادہ کامل ہے اس میں دھونے کا ذکر ہے ۔ ابن جریج کہتے ہیں: میں نے عمر بن عطاء سے پوچھا: وہ لوگ محرم تھے؟ کہا: نہیں، بلکہ سب مقیم تھے۔",
+          "fr": "Rapporté par Ammar ibn Yasir رضي الله عنه : Le récit mentionné ci-dessus a aussi été transmis par Ammar ibn Yasir à travers une autre chaîne de rapporteurs. Dans cette version, Ammar a dit : « J’ai utilisé du khaluq. » La première version est plus complète ; elle mentionne le fait de prendre un bain. Ibn Jurayj a dit : « J’ai demandé à Umar (un rapporteur) : “Peut-être portaient-ils l’ihram ?” Il a répondu : “Non, ils étaient des habitants.” »",
+          "tr": "Bize Nasr b. Ali haber verdi. Bize Muhammed b. Bekir haber verdi. Bize İbn Cüreyc haber verdi. Bana Ömer b. Ata bin Ebî'l - Huvâr haber verdi. O, Yahya b. Yâmer'den işitmiş, Yahya; bir adamdan, o da Ammar b. Yâsir'den haber verdi. Ömer, Yahya b. Yâ'mer'in bu zatın ismini söylediğini, ama kendisinin onu unuttuğunu zannetti. Ammar \"Ben haluk sürünmüştüm\" diye başladı ve Önceki (hadisteki) hadiseyi anlattı. Önceki hadis bir çok yönden daha tamdır. Onda gusul zikredilmiştir. (İbn Cureyc) der ki: Ömer'e \"Onlar (Ammar ve ailesi) ihramlı mıydılar?\" dedim. \"Hayır, onlar mukimdiler\" dedi"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 35,
+        "hadith": 19
+      }
+    },
+    {
+      "hadithNumber": 4178,
+      "arabicNumber": 4178,
+      "book": 35,
+      "hadithInBook": 20,
+      "text": {
+        "arabic": "حَدَّثَنَا زُهَيْرُ بْنُ حَرْبٍ الأَسَدِيُّ، حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ حَرْبٍ الأَسَدِيُّ، حَدَّثَنَا أَبُو جَعْفَرٍ الرَّازِيُّ، عَنِ الرَّبِيعِ بْنِ أَنَسٍ، عَنْ جَدَّيْهِ، قَالاَ سَمِعْنَا أَبَا مُوسَى، يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ لاَ يَقْبَلُ اللَّهُ تَعَالَى صَلاَةَ رَجُلٍ فِي جَسَدِهِ شَىْءٌ مِنْ خَلُوقٍ ‏\"‏ ‏.‏ قَالَ أَبُو دَاوُدَ جَدَّاهُ زَيْدٌ وَزِيَادٌ ‏.‏",
+        "translations": {
+          "en": "Al-Rabi' b. Anas, quoting his two grandfathers, said:We heard Abu Musa say: The Messenger of Allah (ﷺ) said: Allah does not accept the prayer of a man who has any khaluq (perfume composed of saffron) on his body. Abu Dawud said: His grandfathers were Zaid and Ziyad",
+          "ur": "ابوموسیٰ اشعری کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: اللہ اس شخص کی نماز قبول نہیں فرماتا جس کے بدن میں کچھ بھی خلوق ( زعفران سے مرکب خوشبو ) لگی ہو ۔",
+          "fr": "Rapporté par Al-Rabi’ ibn Anas, citant ses deux grands-pères : Nous avons entendu Abu Musa dire : Le Messager d’Allah ﷺ a dit : « Allah n’accepte pas la prière d’un homme qui a du khaluq (un parfum à base de safran) sur le corps. » Abu Dawud a précisé : Ses deux grands-pères étaient Zaid et Ziyad",
+          "id": "Telah menceritakan kepada kami [Zuhair bin Harb Al Asadi] berkata, telah menceritakan kepada kami [Muhammad bin Abdullah bin Az Zubair Al Asadi] berkata, telah menceritakan kepada kami [Abu Ja'far Ar Razi] dari [Ar Rabi' bin Anas] dari [Kedua kakeknya] keduanya berkata; kami mendengar [Abu Musa] berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Allah Ta'ala tidak menerima shalat seorang laki-laki yang pada tubuhnya Za'faran.\" Abu Dawud berkata, \"Kedua kakeknya adalah [Zaid] dan [Ziyad]",
+          "tr": "Rabi b. Enes, dedelerinden, Ebû Musa'yı şöyle derken işittiklerini nakletmiştir. Rasûlullah (s.a.v.): \"Allah (c.c.) bedeninde halûkdan bir eser olan adam'ın namazını kabul etmez\" buyurdu. Ebu Davud, Rabı'nin dedeleri: Zeyd ve Ziyûd'dır.\" der"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 35,
+        "hadith": 20
+      }
+    },
+    {
+      "hadithNumber": 4179,
+      "arabicNumber": 4179,
+      "book": 35,
+      "hadithInBook": 21,
+      "text": {
+        "arabic": "حَدَّثَنَا مُسَدَّدٌ، أَنَّ حَمَّادَ بْنَ زَيْدٍ، وَإِسْمَاعِيلَ بْنَ إِبْرَاهِيمَ، حَدَّثَاهُمْ عَنْ عَبْدِ الْعَزِيزِ بْنِ صُهَيْبٍ، عَنْ أَنَسٍ، قَالَ نَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم عَنِ التَّزَعْفُرِ لِلرِّجَالِ وَقَالَ عَنْ إِسْمَاعِيلَ أَنْ يَتَزَعْفَرَ الرَّجُلُ ‏.‏",
+        "translations": {
+          "en": "Anas said:The Messenger of Allah (ﷺ) forbade men to use saffron. Isma'il version has: \"(forbade) man to use saffron",
+          "ur": "انس رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے مردوں کو زعفران لگانے سے منع فرمایا ہے۔ اور اسماعیل کی روایت میں«عن التزعفر للرجال» کے بجائے «أن يتزعفرالرجل» ہے۔",
+          "fr": "Rapporté par Anas رضي الله عنه : Le Messager d’Allah ﷺ a interdit aux hommes d’utiliser le safran. Dans la version d’Isma’il, il est dit : « (il a interdit) à l’homme d’utiliser le safran. »",
+          "id": "Telah menceritakan kepada kami [Musaddad] bahwa [Hammad bin Zaid] dan [Isma'il bin Ibrahim] keduanya menceritakan kepada mereka dari [Abdul Aziz bin Shuhaib] dari [Anas] ia berkata, \"Rasulullah shallallahu 'alaihi wasallam melarang penggunakan Za'faran untuk laki-laki",
+          "tr": "Enes (r.a) demiştir ki: \"Resûlullah (s.a.v.), erkekleri zaferan sürünmekten nehyetti.\" Müsedded; ismail'den \"Erkeğin zâferan kullanmasını\" diye rivayet etti"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim (2101)"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 35,
+        "hadith": 21
+      }
+    },
+    {
+      "hadithNumber": 4180,
+      "arabicNumber": 4180,
+      "book": 35,
+      "hadithInBook": 22,
+      "text": {
+        "arabic": "حَدَّثَنَا هَارُونُ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ عَبْدِ اللَّهِ الأُوَيْسِيُّ، حَدَّثَنَا سُلَيْمَانُ بْنُ بِلاَلٍ، عَنْ ثَوْرِ بْنِ زَيْدٍ، عَنِ الْحَسَنِ بْنِ أَبِي الْحَسَنِ، عَنْ عَمَّارِ بْنِ يَاسِرٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ ثَلاَثَةٌ لاَ تَقْرَبُهُمُ الْمَلاَئِكَةُ جِيفَةُ الْكَافِرِ وَالْمُتَضَمِّخُ بِالْخَلُوقِ وَالْجُنُبُ إِلاَّ أَنْ يَتَوَضَّأَ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Narrated Ammar ibn Yasir: The Prophet (ﷺ) said: The angels do not come near three: the dead body of the unbeliever, one who smears himself with khaluq, and the one who is sexually defiled except that he performs ablution",
+          "ur": "عمار بن یاسر رضی اللہ عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: تین آدمی ایسے ہیں کہ فرشتے ان کے قریب نہیں جاتے: ایک کافر کی لاش کے پاس، دوسرے جو زعفران میں لت پت ہو اور تیسرے جنبی ( ناپاک ) إلا یہ کہ وہ وضو کر لے ۔",
+          "fr": "Rapporté par Ammar ibn Yasir رضي الله عنه : Le Prophète ﷺ a dit : « Les anges ne s’approchent pas de trois catégories : le corps d’un mécréant, celui qui s’enduit de khaluq, et celui qui est en état d’impureté majeure, sauf s’il fait les ablutions. »",
+          "id": "Telah menceritakan kepada kami [Harun bin Abdullah] berkata, telah menceritakan kepada kami [Abdul Aziz bin Abdullah Al Uwaisi] berkata, telah menceritakan kepada kami [Sulaiman bin Bilal] dari [Tsaur bin Zaid] dari [Al Hasan bin Abu Al Hasan] dari [Ammar bin Yasir] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: \"Tiga kelompok yang tidak akan didekati oleh malaikat; bangkai orang kafir, orang yang berlebihan dalam menggunakan wewangian dan orang junub kecuali jika ia berwudhu",
+          "tr": "Ammar b. Yasîr (r.a)'den Rasûlullah (s.a.v.)'in şöyle buyurduğu rivayet edilmiştir: \"Üç gurup varki, onlara (rahmet) melekler yaklaşmaz. Bunlar; kâfirlerin ölüsü, halûk sürünen kişi ve abdest alması hali müstesna cünüp olandır"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 35,
+        "hadith": 22
+      },
+      "narrator": {
+        "en": "Ammar ibn Yasir"
+      }
+    },
+    {
+      "hadithNumber": 4181,
+      "arabicNumber": 4181,
+      "book": 35,
+      "hadithInBook": 23,
+      "text": {
+        "arabic": "حَدَّثَنَا أَيُّوبُ بْنُ مُحَمَّدٍ الرَّقِّيُّ، حَدَّثَنَا عُمَرُ بْنُ أَيُّوبَ، عَنْ جَعْفَرِ بْنِ بُرْقَانَ، عَنْ ثَابِتِ بْنِ الْحَجَّاجِ، عَنْ عَبْدِ اللَّهِ الْهَمْدَانِيِّ، عَنِ الْوَلِيدِ بْنِ عُقْبَةَ، قَالَ لَمَّا فَتَحَ نَبِيُّ اللَّهِ صلى الله عليه وسلم مَكَّةَ جَعَلَ أَهْلُ مَكَّةَ يَأْتُونَهُ بِصِبْيَانِهِمْ فَيَدْعُو لَهُمْ بِالْبَرَكَةِ وَيَمْسَحُ رُءُوسَهُمْ قَالَ فَجِيءَ بِي إِلَيْهِ وَأَنَا مُخَلَّقٌ فَلَمْ يَمَسَّنِي مِنْ أَجْلِ الْخَلُوقِ ‏.‏",
+        "translations": {
+          "en": "Narrated Al-Walid ibn Uqbah: When the Prophet of Allah (ﷺ) conquered Makkah. The people of Makkah began to bring their boys and he would invoke a blessing on them and rub their heads. I was brought, but as I had been perfumed with khaluq, he did not touch me because of the khaluq",
+          "ur": "ولید بن عقبہ کہتے ہیں کہ جب اللہ کے نبی اکرم صلی اللہ علیہ وسلم نے مکہ فتح کیا تو ابن مکہ اپنے بچوں کو لے کر آپ کی خدمت میں حاضر ہونے لگے، آپ صلی اللہ علیہ وسلم ان کے لیے برکت کی دعا فرماتے اور ان کے سروں پر ہاتھ پھیرتے، مجھے بھی آپ کی خدمت میں لایا گیا، لیکن مجھے خلوق لگا ہوا تھا اسی لیے آپ صلی اللہ علیہ وسلم نے مجھے ہاتھ نہیں لگایا۔",
+          "fr": "Rapporté par Al-Walid ibn Uqbah رضي الله عنه : Lorsque le Prophète d’Allah ﷺ a conquis La Mecque, les habitants ont commencé à amener leurs garçons, et il invoquait la bénédiction sur eux et leur caressait la tête. On m’a amené, mais comme j’étais parfumé au khaluq, il ne m’a pas touché à cause de ce parfum",
+          "id": "Telah menceritakan kepada kami [Ayyub bin Muhammad Ar Raqqi] berkata, telah menceritakan kepada kami [Umar bin Ayyub] dari [Ja'far bin Burqan] dari [Tsabit Ibnul Hajjaj] dari [Abdullah Al Hamdani] dari [Al Walid bin Uqbah] ia berkata, \"Ketika Nabi Allah shallallahu 'alaihi wasallam membuka kota Makkah, penduduk Makkah datang kepada beliau dengan membawa anak-anak mereka, lalu beliau mendoakan keberkahan bagi mereka dan mengusap kepala mereka.\" Al Walid berkata, \"Aku lalu dibawa menghadap beliau sementara aku penuh dengan Za'faran, maka beliau pun tidak mengusapku karena alasan Za'faran tersebut",
+          "tr": "Velid b. Ukbe'den, şöyle dediği rivayet edilmiştir. Rasûlullah (s.a.v..) Mekke'yi fethedince, Mekke'liler çocuklarını ona getirmeye başladılar. Rasûlullah (s.a.v.)'de onlar için bereketle dua ediyor ve başlarını sıvazlıyordu. Kendisine bende götürüldüm. Bana halûk sürülmüştü. Rasûlullah (s.a.v.) halûktan dolayı bana dokunmadı"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Munkar"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Munkar"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 35,
+        "hadith": 23
+      },
+      "narrator": {
+        "en": "Al-Walid ibn Uqbah"
+      }
+    },
+    {
+      "hadithNumber": 4182,
+      "arabicNumber": 4182,
+      "book": 35,
+      "hadithInBook": 24,
+      "text": {
+        "arabic": "حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ عُمَرَ بْنِ مَيْسَرَةَ، حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، حَدَّثَنَا سَلْمٌ الْعَلَوِيُّ، عَنْ أَنَسِ بْنِ مَالِكٍ، أَنَّ رَجُلاً، دَخَلَ عَلَى رَسُولِ اللَّهِ صلى الله عليه وسلم وَعَلَيْهِ أَثَرُ صُفْرَةٍ - وَكَانَ النَّبِيُّ صلى الله عليه وسلم قَلَّمَا يُوَاجِهُ رَجُلاً فِي وَجْهِهِ بِشَىْءٍ يَكْرَهُهُ - فَلَمَّا خَرَجَ قَالَ ‏ \"‏ لَوْ أَمَرْتُمْ هَذَا أَنْ يَغْسِلَ هَذَا عَنْهُ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Narrated Anas ibn Malik: A man came to the Messenger of Allah (ﷺ) and he had the mark of yellowness (of saffron). The Prophet (peace be upon him rarely mentioned a thing which he disliked before a man. When he went away, he said: Would that you tell this man that he should wash this off him)",
+          "ur": "انس بن مالک رضی اللہ عنہ سے روایت ہے کہ ایک شخص رسول اللہ صلی اللہ علیہ وسلم کے پاس آیا اس پر ( زعفران کی ) زردی کا نشان تھا، اور نبی اکرم صلی اللہ علیہ وسلم بہت کم کسی ایسے شخص کا سامنا فرماتے جس کے چہرہ پہ کوئی ایسی چیز ہوتی جسے آپ ناپسند فرماتے، چنانچہ جب وہ چلا گیا تو آپ صلی اللہ علیہ وسلم نے فرمایا: کاش تم لوگ اسے حکم دیتے کہ وہ اسے اپنے سے دھو ڈالے ۔",
+          "fr": "Rapporté par Anas ibn Malik رضي الله عنه : Un homme est venu voir le Messager d’Allah ﷺ et il avait des traces jaunes de safran. Le Prophète ﷺ mentionnait rarement devant quelqu’un ce qu’il n’aimait pas. Quand l’homme est parti, il a dit : « Ne pourriez-vous pas dire à cet homme de laver cela de lui ? »",
+          "id": "Telah menceritakan kepada kami [Ubaidullah bin Umar bin Maisarah] berkata, telah menceritakan kepada kami [Hammad bin Zaid] berkata, telah menceritakan kepada kami [Salm Al 'Alawi] dari [Anas bin Malik] berkata, \"Seorang laki-laki masuk menemui Rasulullah shallallahu 'alaihi wasallam, sementara pada dirinya terdapat sisa-sisa warna kuning (Za'faran). Dan jarang sekali Nabi shallallahu 'alaihi wasallam menemui seseorang dengan wajah yang kurang senang karena sesuatu, maka ketika keluar beliau bersabda: \"Sekiranya kalian suruh orang ini untuk membersihkan dirinya dari sisa-sisa warna kuning",
+          "tr": "Enes b. Malik (r.a)'den; şöyle dediği rivayet edilmiştir; Bir adam üzerinde (za'ferân) sarılığı (nın) izi olduğu halde Rasûlullah (s.a.v.)'in yanına girdi. Rasûlllah Efendimiz, yüzünde hoşlanmadığı bir şey bulunan bir adama çok az yönünü dönerdi. Adam çıkınca \"keşke ona şunu (boyayı) yıkamayı emretseydiniz.\" buyurdu"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 35,
+        "hadith": 24
+      },
+      "narrator": {
+        "en": "Anas ibn Malik"
+      }
+    },
+    {
+      "hadithNumber": 4183,
+      "arabicNumber": 4183,
+      "book": 35,
+      "hadithInBook": 25,
+      "text": {
+        "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، وَمُحَمَّدُ بْنُ سُلَيْمَانَ الأَنْبَارِيُّ، قَالاَ حَدَّثَنَا وَكِيعٌ، عَنْ سُفْيَانَ، عَنْ أَبِي إِسْحَاقَ، عَنِ الْبَرَاءِ، قَالَ مَا رَأَيْتُ مِنْ ذِي لِمَّةٍ أَحْسَنَ فِي حُلَّةٍ حَمْرَاءَ مِنْ رَسُولِ اللَّهِ صلى الله عليه وسلم زَادَ مُحَمَّدُ بْنُ سُلَيْمَانَ لَهُ شَعْرٌ يَضْرِبُ مَنْكِبَيْهِ ‏.‏ قَالَ أَبُو دَاوُدَ وَكَذَا رَوَاهُ إِسْرَائِيلُ عَنْ أَبِي إِسْحَاقَ قَالَ يَضْرِبُ مَنْكِبَيْهِ وَقَالَ شُعْبَةُ يَبْلُغُ شَحْمَةَ أُذُنَيْهِ ‏.‏",
+        "translations": {
+          "en": "Narrated Al-Bara' : I did not see any man with locks hanging down to shoulders in red robe more beautiful than the Messenger of Allah (ﷺ). Muhammad b. Sulaiman added: He had hair which touched his shoulders. Abu Dawud said: Isra'il also transmitted it in a similar way from Abu Ishaq saying: \"(his hair) touched his shoulders\". Shu'bah added: (His hair) reached the lobes of his ears",
+          "ur": "براء رضی اللہ عنہ کہتے ہیں کہ میں نے کسی شخص کو جو کان کی لو سے نیچے بال رکھے ہو اور سرخ جوڑے میں ملبوس ہو رسول اللہ صلی اللہ علیہ وسلم سے زیادہ خوبصورت نہیں دیکھا ( محمد بن سلیمان کی روایت میں اتنا اضافہ ہے کہ ) آپ کے بال دونوں شانوں سے لگ رہے تھے۔ ابوداؤد کہتے ہیں: اسی طرح اسے اسرائیل نے ابواسحاق سے روایت کیا ہے کہ وہ بال آپ کے دونوں شانوں سے لگ رہے تھے اور شعبہ کہتے ہیں: وہ آپ کے دونوں کانوں کی لو تک پہنچ رہے تھے ۔",
+          "fr": "Rapporté par Al-Bara’ رضي الله عنه : Je n’ai jamais vu un homme avec des cheveux tombant sur les épaules, vêtu d’un manteau rouge, plus beau que le Messager d’Allah ﷺ. Muhammad ibn Sulaiman a ajouté : Il avait des cheveux qui touchaient ses épaules. Abu Dawud a dit : Isra’il l’a aussi rapporté de façon similaire de la part d’Abu Ishaq en disant : « (ses cheveux) touchaient ses épaules. » Shu’bah a ajouté : (Ses cheveux) atteignaient les lobes de ses oreilles",
+          "id": "Telah menceritakan kepada kami [Abdullah bin Maslamah] dan [Muhammad bin Sulaiman Al Anbari] keduanya berkata; telah menceritakan kepada kami [Waki'] dari [Sufyan] dari [Abu Ishaq] dari [Al Bara] ia berkata, \"Aku belum pernah melihat seseorang berambut panjang yang lebih bagus ketika mengenakan pakaian berwarna merah melebihi Rasulullah shallallahu 'alaihi wasallam.\" [Muhammad bin Sulaiman] menambahkan, \"Beliau mempunyai rambut hingga kedua bahu.\" Abu Dawud berkata, \"Demikian [Isra'il] meriwayatkannya dari [Abu Ishaq], ia berkata, \"(Rambutnya) Hingga kedua pundaknya.\" Sementara Syu'bah menceritakan, \"Hingga daun telinga",
+          "tr": "El-Berâ (r.a)'ın şöyle dediği rivayet edilmiştir. Kırmızı elbise içinde saçları boynuna dökülenler içinde Rasûlullah (s.a.v.)'den daha güzel birini görmedim. Râvî Muhammed b. Süleyman buna \"onun omuzlarını döven saçı vardı\" sözünü ilâve etmiştir. Ebâ Davûd derki; Bunu israil'de Ishâk'clan rivayet elti ve \"saçı omuzlarını döverdi\" dedi. Şube ise \"Kulaklarının yumuşağına kadar varırdı\" dedi"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (3551) Sahih Muslim (2337)"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 35,
+        "hadith": 25
+      },
+      "narrator": {
+        "en": "Al-Bara'"
+      }
+    },
+    {
+      "hadithNumber": 4184,
+      "arabicNumber": 4184,
+      "book": 35,
+      "hadithInBook": 26,
+      "text": {
+        "arabic": "حَدَّثَنَا حَفْصُ بْنُ عُمَرَ، حَدَّثَنَا شُعْبَةُ، عَنْ أَبِي إِسْحَاقَ، عَنِ الْبَرَاءِ، قَالَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم لَهُ شَعْرٌ يَبْلُغُ شَحْمَةَ أُذُنَيْهِ ‏.‏",
+        "translations": {
+          "en": "Narrated Al-Bara' :The Messenger of Allah (ﷺ) had hair which reached the lobes of his ears",
+          "ur": "براء رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم کے بال آپ کے دونوں کانوں کی لو تک پہنچتے تھے۔",
+          "fr": "Rapporté par Al-Bara’ رضي الله عنه : Le Messager d’Allah ﷺ avait des cheveux qui atteignaient les lobes de ses oreilles",
+          "id": "Telah menceritakan kepada kami [Hafsh bin Umar] berkata, telah menceritakan kepada kami [Syu'bah] dari [Abu Ishaq] dari [Al Bara] ia berkata, \"Rasulullah shallallahu 'alaihi wasallam mempunyai rambut yang panjangnya hingga daun telinga",
+          "tr": "Bera’ (bi A’zib r.a) şöyle demiştir. Rasûlullah (s.a.v.)'in kulaklarının yumuşağına varan saçı vardı. Bu hadis; Buhari. Libas, Menâkıb: Müslim, fezail, Nesaî. Zinet: Ahmed b. Hanbel, 111.249. dada var"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 35,
+        "hadith": 26
+      },
+      "narrator": {
+        "en": "Al-Bara'"
+      }
+    },
+    {
+      "hadithNumber": 4185,
+      "arabicNumber": 4185,
+      "book": 35,
+      "hadithInBook": 27,
+      "text": {
+        "arabic": "حَدَّثَنَا مَخْلَدُ بْنُ خَالِدٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنْ ثَابِتٍ، عَنْ أَنَسٍ، قَالَ كَانَ شَعْرُ رَسُولِ اللَّهِ صلى الله عليه وسلم إِلَى شَحْمَةِ أُذُنَيْهِ ‏.‏",
+        "translations": {
+          "en": "Narrated Anas ibn Malik: The hair of the Messenger of Allah (ﷺ) were up to the lobes of his ears",
+          "ur": "انس رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم کے بال آپ کے دونوں کانوں کی لو تک پہنچتے تھے۔",
+          "fr": "Rapporté par Anas ibn Malik رضي الله عنه : Les cheveux du Messager d’Allah ﷺ atteignaient les lobes de ses oreilles",
+          "id": "Telah menceritakan kepada kami [Makhlad bin Khalid] berkata, telah menceritakan kepada kami [Abdurrazaq] berkata, telah mengabarkan kepada kami [Ma'mar] dari [Tsabit] dari [Anas] ia berkata, \"Rambut Rasulullah shallallahu 'alaihi wasallam panjangnya hingga dua daun telinga",
+          "tr": "Enes (r.a)'den şöyle dediği rivayet edilmiştir: Rasûlullah (s.a.v.)'in saçı kulaklarının yumuşağına kadardı. Bu hadis; Nesai, Zinet de var"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 35,
+        "hadith": 27
+      },
+      "narrator": {
+        "en": "Anas ibn Malik"
+      }
+    },
+    {
+      "hadithNumber": 4186,
+      "arabicNumber": 4186,
+      "book": 35,
+      "hadithInBook": 28,
+      "text": {
+        "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا إِسْمَاعِيلُ، أَخْبَرَنَا حُمَيْدٌ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ كَانَ شَعْرُ رَسُولِ اللَّهِ صلى الله عليه وسلم إِلَى أَنْصَافِ أُذُنَيْهِ ‏.‏",
+        "translations": {
+          "en": "Narrated Anas bin Malik:The hair of Messenger of Allah (ﷺ) were halfway down his ears",
+          "ur": "انس بن مالک رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم کے بال آپ کے آدھے کانوں تک رہتے تھے۔",
+          "fr": "Rapporté par Anas ibn Malik رضي الله عنه : Les cheveux du Messager d’Allah ﷺ descendaient jusqu’au milieu de ses oreilles",
+          "id": "Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Isma'il] berkata, telah mengabarkan kepada kami [Humaid] dari [Anas bin Malik] ia berkata, \"Rambut Rasulullah shallallahu 'alaihi wasallam panjangnya hingga pertengahan daun telinganya",
+          "tr": "Enes b. Malık (r.a) demiştir ki: Rasûlullah (s.a.v.)'in saçı kulaklarının yarısına kadardı. Bu hadis; Müslim, fedail; Nesaî, Zinet; Ahmed III, 133, 165. te de var"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim (2338)"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 35,
+        "hadith": 28
+      },
+      "narrator": {
+        "en": "Anas bin Malik"
+      }
+    },
+    {
+      "hadithNumber": 4187,
+      "arabicNumber": 4187,
+      "book": 35,
+      "hadithInBook": 29,
+      "text": {
+        "arabic": "حَدَّثَنَا ابْنُ نُفَيْلٍ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ أَبِي الزِّنَادِ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، قَالَتْ كَانَ شَعْرُ رَسُولِ اللَّهِ صلى الله عليه وسلم فَوْقَ الْوَفْرَةِ وَدُونَ الْجُمَّةِ ‏.‏",
+        "translations": {
+          "en": "Narrated Aisha, Ummul Mu'minin: The hair of the Messenger of Allah (ﷺ) were above wafrah and below jummah",
+          "ur": "ام المؤمنین عائشہ رضی اللہ عنہا کہتی ہیں کہ رسول اللہ صلی اللہ علیہ وسلم کے بال «وفرہ» ۱؎ سے بڑے اور «جمہ» ۲؎ سے چھوٹے تھے۔",
+          "fr": "Rapporté par Aisha, la mère des croyants رضي الله عنها : Les cheveux du Messager d’Allah ﷺ étaient plus longs que le wafrah et plus courts que le jummah",
+          "id": "Telah menceritakan kepada kami [Ibnu Nufail] berkata, telah menceritakan kepada kami ['Abdurrahman bin Abu Az Zinad] dari [Hisyam bin Urwah] dari [Bapaknya] dari ['Aisyah] ia berkata, \"Rambut Rasulullah shallallahu 'alaihi wasallam panjangnya melebihi daun telinga tetapi belum sampai kedua pundaknya",
+          "tr": "Aişe (r.anha) şöyle demiştir. \"Rasûlullah (s.a.v.)'in saçı vefreden daha fazla cümmeden kısa idi. (kulak yumuşağı ile omuzlan arasında îdi)"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 35,
+        "hadith": 29
+      },
+      "narrator": {
+        "en": "Aisha, Ummul Mu'minin"
+      }
+    },
+    {
+      "hadithNumber": 4188,
+      "arabicNumber": 4188,
+      "book": 35,
+      "hadithInBook": 30,
+      "text": {
+        "arabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا إِبْرَاهِيمُ بْنُ سَعْدٍ، أَخْبَرَنِي ابْنُ شِهَابٍ، عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ بْنِ عُتْبَةَ، عَنِ ابْنِ عَبَّاسٍ، قَالَ كَانَ أَهْلُ الْكِتَابِ - يَعْنِي - يَسْدِلُونَ أَشْعَارَهُمْ وَكَانَ الْمُشْرِكُونَ يَفْرُقُونَ رُءُوسَهُمْ وَكَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم تُعْجِبُهُ مُوَافَقَةُ أَهْلِ الْكِتَابِ فِيمَا لَمْ يُؤْمَرْ بِهِ فَسَدَلَ رَسُولُ اللَّهِ صلى الله عليه وسلم نَاصِيَتَهُ ثُمَّ فَرَقَ بَعْدُ ‏.‏",
+        "translations": {
+          "en": "Narrated Ibn 'Abbas:The people of the Book used to let their hair hand down, and the polytheists used to part their hair. The Messenger of Allah (ﷺ) like to confirm with the People of the Book in the matters about which he had received no command. Hence he Messenger of Allah (ﷺ) let his forelock hang down but afterwards he parted it",
+          "ur": "عبداللہ بن عباس رضی اللہ عنہما کہتے ہیں کہ اہل کتاب اپنے بالوں کا «سدل» کرتے یعنی انہیں لٹکا ہوا چھوڑ دیتے تھے، اور مشرکین اپنے سروں میں مانگ نکالتے تھے، اور رسول اللہ صلی اللہ علیہ وسلم کو جن باتوں میں کوئی حکم نہ ملتا اہل کتاب کی موافقت پسند فرماتے تھے اسی لیے آپ اپنی پیشانی کے بالوں کو لٹکا چھوڑ دیتے تھے پھر بعد میں آپ مانگ نکالنے لگے۔",
+          "fr": "Rapporté par Ibn ‘Abbas رضي الله عنه : Les gens du Livre laissaient leurs cheveux retomber, tandis que les polythéistes les séparaient. Le Messager d’Allah ﷺ aimait suivre les gens du Livre dans les choses sur lesquelles il n’avait pas reçu de commandement. Ainsi, le Messager d’Allah ﷺ laissait sa mèche retomber, puis plus tard, il la séparait",
+          "id": "Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan kepada kami [Ibrahim bin Sa'd] berkata, telah mengabarkan kepadaku [Ibnu Syihab] dari [Ubaidullah bin Abdullah bin Utbah] dari [Ibnu Abbas] ia berkata, \"orang-orang ahli kitab biasa mengurai rambutnya dan orang-orang musyrik biasa membelah rambut kepada mereka menjadi dua bagian. Sedangkan Rasulullah shallallahu 'alaihi wasallam lebih senang menyamai orang-orang ahli kitab pada hal-hal yang tidak ada perintahnya. Maka Rasulullah shallallahu 'alaihi wasallam pun mengurai rambutnya bagian depan, kemudian membelahnya setelah itu",
+          "tr": "İbn Abbas (r.a) şöyle demiştir: Ehl-i Kitap'tan olanlar (yahudi ve hıristiyanlar) saçlarım alınlarına salıverirler, müşrikler ise ikiye ayırırlardı. Nebi Efendimiz kendisine bir emir gelmeyen konularda ehli kitaba müvafakattan hoşlanırdı, (onun için) o da başının önündeki saçları (alnına) salıver (ir) di. Ama daha sonra saçlarını ortadan ayırdı"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (5917) Sahih Muslim (2336)"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 35,
+        "hadith": 30
+      },
+      "narrator": {
+        "en": "Ibn 'Abbas"
+      }
+    },
+    {
+      "hadithNumber": 4189,
+      "arabicNumber": 4189,
+      "book": 35,
+      "hadithInBook": 31,
+      "text": {
+        "arabic": "حَدَّثَنَا يَحْيَى بْنُ خَلَفٍ، حَدَّثَنَا عَبْدُ الأَعْلَى، عَنْ مُحَمَّدٍ، - يَعْنِي ابْنَ إِسْحَاقَ - قَالَ حَدَّثَنِي مُحَمَّدُ بْنُ جَعْفَرِ بْنِ الزُّبَيْرِ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، رضى الله عنها قَالَتْ كُنْتُ إِذَا أَرَدْتُ أَنْ أَفْرِقَ رَأْسَ رَسُولِ اللَّهِ صلى الله عليه وسلم صَدَعْتُ الْفَرْقَ مِنْ يَافُوخِهِ وَأُرْسِلُ نَاصِيَتَهُ بَيْنَ عَيْنَيْهِ ‏.‏",
+        "translations": {
+          "en": "Narrated Aisha, Ummul Mu'minin: When I parted the hair of the Messenger of Allah (ﷺ) I made a parting from the crow of his head and let his forelock hang between his eyes",
+          "ur": "ام المؤمنین عائشہ رضی اللہ عنہا کہتی ہیں کہ جب میں رسول اللہ صلی اللہ علیہ وسلم کے سر میں مانگ نکالنی چاہتی تو سر کے بیچ سے نکالتی، اور پیشانی کے بالوں کو دونوں آنکھوں کے بیچ کی سیدھ سے آدھا ایک طرف اور آدھا دوسری طرف لٹکا دیا کرتی تھی۔",
+          "fr": "Rapporté par Aisha, la mère des croyants رضي الله عنها : Quand je séparais les cheveux du Messager d’Allah ﷺ, je faisais une raie depuis le sommet de sa tête et laissais sa mèche tomber entre ses yeux",
+          "id": "Telah menceritakan kepada kami [Yahya bin Khalaf] berkata, telah menceritakan kepada kami [Abdul A'la] dari [Muhammad] -yaitu Ibnu Ishaq- ia berkata; telah menceritakan kepadaku [Muhammad bin Ja'far bin Az Zubair] dari [Urwah] dari ['Aisyah radliallahu 'anha] ia berkata, \"Jika aku ingin membelah (menyisir) rambut Rasulullah shallallahu 'alaihi wasallam, maka aku memulainya dari ubun-ubun dan mengurai rambut bagian depan antara dua matanya",
+          "tr": "Âişe (r'anha) şöyle demiştir: \"Ben Rasûlullah (s.a.v.)'in saçlarını ayırmak istediğimde tam tepesinden ayırır, alnı üzerine dökülen saçları da gözlerinin arasına sarkıtırdım"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 35,
+        "hadith": 31
+      },
+      "narrator": {
+        "en": "Aisha, Ummul Mu'minin"
+      }
+    },
+    {
+      "hadithNumber": 4190,
+      "arabicNumber": 4190,
+      "book": 35,
+      "hadithInBook": 32,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْعَلاَءِ، حَدَّثَنَا مُعَاوِيَةُ بْنُ هِشَامٍ، وَسُفْيَانُ بْنُ عُقْبَةَ السُّوَائِيُّ، - هُوَ أَخُو قَبِيصَةَ - وَحُمَيْدُ بْنُ خُوَارٍ عَنْ سُفْيَانَ الثَّوْرِيِّ، عَنْ عَاصِمِ بْنِ كُلَيْبٍ، عَنْ أَبِيهِ، عَنْ وَائِلِ بْنِ حُجْرٍ، قَالَ أَتَيْتُ النَّبِيَّ صلى الله عليه وسلم وَلِي شَعْرٌ طَوِيلٌ فَلَمَّا رَآنِي رَسُولُ اللَّهِ صلى الله عليه وسلم قَالَ ‏\"‏ ذُبَابٌ ذُبَابٌ ‏\"‏ ‏.‏ قَالَ فَرَجَعْتُ فَجَزَزْتُهُ ثُمَّ أَتَيْتُهُ مِنَ الْغَدِ فَقَالَ ‏\"‏ إِنِّي لَمْ أَعْنِكَ وَهَذَا أَحْسَنُ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Narrated Wa'il ibn Hujr: I came to the Prophet (ﷺ) and I had long hair. When the Messenger of Allah (ﷺ) saw me, he said: Evil, evil! He said: I then returned and cut them off. I then came to him in the morning. He said (to me): I did not intend to do evil to you. This is much better",
+          "ur": "وائل بن حجر رضی اللہ عنہ کہتے ہیں کہ میں نبی اکرم صلی اللہ علیہ وسلم کے پاس آیا، میرے بال لمبے تھے تو جب آپ نے مجھے دیکھا تو فرمایا: نحوست ہے، نحوست تو میں واپس لوٹ گیا اور جا کر اسے کاٹ ڈالا، پھر دوسرے دن آپ کی خدمت میں آیا تو آپ نے فرمایا: میں نے تیرے ساتھ کوئی برائی نہیں کی، یہ اچھا ہے ۔",
+          "fr": "Rapporté par Wa’il ibn Hujr رضي الله عنه : Je suis venu voir le Prophète ﷺ et j’avais de longs cheveux. Quand le Messager d’Allah ﷺ m’a vu, il a dit : « Mal, mal ! » Je suis alors reparti et je les ai coupés. Le matin, je suis revenu vers lui. Il m’a dit : « Je ne voulais pas te faire de mal. C’est bien mieux ainsi. »",
+          "id": "Telah menceritakan kepada kami [Muhammad Ibnul 'Ala] berkata, telah menceritakan kepada kami [Mu'awiyah bin Hisyam] dan [Sufyan bin Uqbah As Suwa`i] -ia adalah saudara Qabishah dan [Humaid bin Khuwar] - dari [Sufyan Ats Tsauri] dari [Ashim bin Kulaib] dari [Bapaknya] dari [Wail bin Hujr] ia berkata, \"Aku mendatangi Nabi shallallahu 'alaihi wasallam, sementara aku mempunyai rambut yang panjang. Ketika Rasulullah shallallahu 'alaihi wasallam melihatku beliau bersabda: \"Lalat, lalat.\" Wail bin Hujr berkata, \"Maka aku kembali pulang dan memangkasnya, setelah itu aku mendatangi beliau pada keesokan harinya. Beliau bersabda: \"Sesungguhnya aku tidak bermaksud untuk menjelekkanmu namun ini (sekarang) lebih baik",
+          "tr": "Vâil b. Hier (r.a)'ın şöyle dediği rivayet edilmiştir:' \"Saçlarım hayli uzun bir halde iken Rasûlullah (s.a.v.)'e geldim. Beni görünce; \"Uğursuzluk, Uğursuzluk\" buyurdu. Hemen dönüp saçlarımı kısalttım, ertesi gün tekrar geldim \"Seni kastetmemiştim, (ama) bu daha güzel\" buyurdu"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 35,
+        "hadith": 32
+      },
+      "narrator": {
+        "en": "Wa'il ibn Hujr"
+      }
+    },
+    {
+      "hadithNumber": 4191,
+      "arabicNumber": 4191,
+      "book": 35,
+      "hadithInBook": 33,
+      "text": {
+        "arabic": "حَدَّثَنَا النُّفَيْلِيُّ، حَدَّثَنَا سُفْيَانُ، عَنِ ابْنِ أَبِي نَجِيحٍ، عَنْ مُجَاهِدٍ، قَالَ قَالَتْ أُمُّ هَانِئٍ قَدِمَ النَّبِيُّ صلى الله عليه وسلم إِلَى مَكَّةَ وَلَهُ أَرْبَعُ غَدَائِرَ تَعْنِي عَقَائِصَ ‏.‏",
+        "translations": {
+          "en": "Narrated Umm Hani: The Prophet (ﷺ) came to Mecca and he had four plaits of hair",
+          "ur": "ام ہانی رضی اللہ عنہا کہتی ہیں کہ نبی اکرم صلی اللہ علیہ وسلم مکہ آئے اور ( اس وقت ) آپ کی چار چوٹیاں تھیں۔",
+          "fr": "Rapporté par Umm Hani رضي الله عنها : Le Prophète ﷺ est venu à La Mecque et il avait quatre tresses de cheveux",
+          "id": "Telah menceritakan kepada kami [An Nufaili] berkata, telah menceritakan kepada kami [Sufyan] dari [Ibnu Abu Najih] dari [Mujahid] ia berkata; [Ummu Hani] berkata, \"Nabi shallallahu 'alaihi wasallam datang ke Makkah, dan saat itu beliau mempunyai empat kepangan",
+          "tr": "Ümmü Hani şöyle demiştir: Rasûlullah (s.a.v.) Mekke'ye geldi, başında dört tane belik (örgü) vardık"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 35,
+        "hadith": 33
+      },
+      "narrator": {
+        "en": "Umm Hani"
+      }
+    },
+    {
+      "hadithNumber": 4192,
+      "arabicNumber": 4192,
+      "book": 35,
+      "hadithInBook": 34,
+      "text": {
+        "arabic": "حَدَّثَنَا عُقْبَةُ بْنُ مُكْرَمٍ، وَابْنُ الْمُثَنَّى، قَالاَ حَدَّثَنَا وَهْبُ بْنُ جَرِيرٍ، حَدَّثَنَا أَبِي قَالَ، سَمِعْتُ مُحَمَّدَ بْنَ أَبِي يَعْقُوبَ، يُحَدِّثُ عَنِ الْحَسَنِ بْنِ سَعْدٍ، عَنْ عَبْدِ اللَّهِ بْنِ جَعْفَرٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم أَمْهَلَ آلَ جَعْفَرٍ ثَلاَثًا أَنْ يَأْتِيَهُمْ ثُمَّ أَتَاهُمْ فَقَالَ ‏\"‏ لاَ تَبْكُوا عَلَى أَخِي بَعْدَ الْيَوْمِ ‏\"‏ ‏.‏ ثُمَّ قَالَ ‏\"‏ ادْعُوا لِي بَنِي أَخِي ‏\"‏ ‏.‏ فَجِيءَ بِنَا كَأَنَّا أَفْرُخٌ فَقَالَ ‏\"‏ ادْعُوا لِي الْحَلاَّقَ ‏\"‏ ‏.‏ فَأَمَرَهُ فَحَلَقَ رُءُوسَنَا ‏.‏",
+        "translations": {
+          "en": "Narrated Abdullah ibn Ja'far: The Prophet (ﷺ) gave the children of Ja'far three day' time to visit them. He then came to visit them, and said: Do not weep over my brother after this day. He said: Call to me the children of my brother. We were brought to him as if we were chicken. He said: Call a barber to me. He then ordered and our heads were shaved",
+          "ur": "عبداللہ بن جعفر رضی اللہ عنہما سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم نے جعفر کے گھر والوں کو تین دن کی مہلت دی پھر آپ ان کے پاس تشریف لائے اور فرمایا: آج کے بعد میرے بھائی پر تم نہ رونا ۱؎ پھر فرمایا: میرے پاس میرے بھتیجوں کو بلاؤ تو ہمیں آپ کی خدمت میں لایا گیا، ایسا لگ رہا تھا گویا ہم چوزے ہیں، آپ صلی اللہ علیہ وسلم نے فرمایا: حجام کو بلاؤ اور آپ نے اسے حکم دیا تو اس نے ہمارے سر مونڈے۔",
+          "fr": "Rapporté par Abdullah ibn Ja’far رضي الله عنه : Le Prophète ﷺ a donné trois jours aux enfants de Ja’far pour leur rendre visite. Ensuite, il est venu les voir et a dit : « Ne pleurez plus sur mon frère après ce jour. » Il a dit : « Faites venir les enfants de mon frère. » On nous a amenés vers lui, comme des poussins. Il a dit : « Faites venir un coiffeur. » Il a alors ordonné qu’on nous rase la tête",
+          "id": "Telah menceritakan kepada kami [Uqbah bin Mukram] dan [Ibnu Al Mutsanna] keduanya berkata; telah menceritakan kepada kami [Wahb bin Jarir] berkata, telah menceritakan kepada kami [Bapakku] ia berkata, \"Aku mendengar [Muhammad bin Abu Ya'qub] ia menceritakan dari [Al Hasan bin Sa'd] dari [Abdullah bin Ja'far] berkata, \"Nabi shallallahu 'alaihi wasallam memberi tenggang waktu untuk keluarga Ja'far selama tiga hari, setelah itu beliau datang kepada mereka dan bersabda: \"Setelah ini, janganlah kalian menangisi saudaraku.\" Setelah itu beliau bersabda: \"Undanglah kemari bani saudaraku.\" kami lalu dihadapkan kepada beliau layaknya anak-anak ayam, beliau lantas bersabda: \"Panggilkan tukang cukur kepadaku.\" Beliau lalu memerintah tukang tukur itu (untuk mencukur), hingga kami semua dicukur olehnya",
+          "tr": "Abdullah b. Câbir (r.a) şöyle demişlir. Hz. Nebi (s.a.v.); Cafer ailesine, üçgiin sonra kendilerine geleceğini söyledi. Sonra Cafer ailesine varıp; \"Bu günden sonra kardeşim için ağlamayın” buyurdu. Daha sonra da \"bana kardeşimin çocuklarını çağırın\" dedi. Biz Râsûlullah'a getirildik. Birer kuş yavrusu gibi idik. Efendimiz: \"Bana berberi çağırın\" buyurdu (berber geldi) Rasûlullah kendisine emretti, o da başlarımızı tıraş etti"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 35,
+        "hadith": 34
+      },
+      "narrator": {
+        "en": "Abdullah ibn Ja'far"
+      }
+    },
+    {
+      "hadithNumber": 4193,
+      "arabicNumber": 4193,
+      "book": 35,
+      "hadithInBook": 35,
+      "text": {
+        "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ حَنْبَلٍ، حَدَّثَنَا عُثْمَانُ بْنُ عُثْمَانَ، - قَالَ أَحْمَدُ كَانَ رَجُلاً صَالِحًا - قَالَ أَخْبَرَنَا عُمَرُ بْنُ نَافِعٍ عَنْ أَبِيهِ عَنِ ابْنِ عُمَرَ قَالَ نَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم عَنِ الْقَزَعِ وَالْقَزَعُ أَنْ يُحْلَقَ رَأْسُ الصَّبِيِّ فَيُتْرَكَ بَعْضُ شَعْرِهِ ‏.‏",
+        "translations": {
+          "en": "Narrated Ibn 'Umar:The Messenger of Allah (ﷺ) forbade qaza'. Qaza' means having part of a boy's head shaved and leaving part unshaven",
+          "ur": "عبداللہ بن عمر رضی اللہ عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے «قزع» سے منع فرمایا ہے، اور «قزع» یہ ہے کہ بچے کا سر مونڈ دیا جائے اور اس کے کچھ بال چھوڑ دئیے جائیں۔",
+          "fr": "Rapporté par Ibn ‘Umar رضي الله عنه : Le Messager d’Allah ﷺ a interdit le qaza’. Le qaza’ consiste à raser une partie de la tête d’un garçon et à laisser une autre partie non rasée",
+          "id": "Telah menceritakan kepada kami [Ahmad bin Hanbal] berkata, telah menceritakan kepada kami [Utsman bin Utsman] -Ahmad berkata; ia adalah seorang laki-laki yang shalih- ia berkata; telah mengabarkan kepada kami [Umar bin Nafi'] dari [Bapaknya] dari [Ibnu Umar] ia berkata, \"Rasulullah shallallahu 'alaihi wasallam melarang Al Qaza', Al Qaza' adalah kepala anak kecil yang dicukur sebagiannya dan dibiarkan sebagian",
+          "tr": "İbn Ömer (r.a) şöyle demiştir; \"Nebi (s.a.v.) yarım tıraştan nehyetli.\" Yarım tıraş; çocuğun başının bir kısmının tıraş edilip, bir kısmının saçının bırakılmasıdır"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (5920) Sahih Muslim (2120)"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 35,
+        "hadith": 35
+      },
+      "narrator": {
+        "en": "Ibn 'Umar"
+      }
+    },
+    {
+      "hadithNumber": 4194,
+      "arabicNumber": 4194,
+      "book": 35,
+      "hadithInBook": 36,
+      "text": {
+        "arabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا حَمَّادٌ، حَدَّثَنَا أَيُّوبُ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم نَهَى عَنِ الْقَزَعِ وَهُوَ أَنْ يُحْلَقَ رَأْسُ الصَّبِيِّ فَتُتْرَكَ لَهُ ذُؤَابَةٌ ‏.‏",
+        "translations": {
+          "en": "Narrated Abdullah ibn Umar: the Prophet (ﷺ) forbade qaza' which means that the head of a boy is shaved and a lock is left",
+          "ur": "عبداللہ بن عمر رضی اللہ عنہما سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم نے «قزع» سے منع فرمایا ہے، اور «قزع» یہ ہے کہ بچے کا سر مونڈ دیا جائے اور اس کی چوٹی چھوڑ دی جائے۔",
+          "fr": "Rapporté par Abdullah ibn Umar رضي الله عنه : Le Prophète ﷺ a interdit le qaza’, c’est-à-dire raser la tête d’un garçon et laisser une mèche",
+          "id": "Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan kepada kami [Hammad] berkata, telah menceritakan kepada kami [Ayyub] dari [Nafi'] dari [Ibnu Umar] berkata, \"Nabi shallallahu 'alaihi wasallam melarang Al Qaza'. Yaitu mencukur kepala anak kecil dengan menyisakan sedikit (dikepang)",
+          "tr": "İbn Ömer (r.a), \"Rasûlullah (s.a.v.) yarım tıraştan nehyelti\" demiştir. Yarım tıraş: Çocuğun saçını tıraş edip zülüf bırakmaktır. İzah 4195 te"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 35,
+        "hadith": 36
+      },
+      "narrator": {
+        "en": "Abdullah ibn Umar"
+      }
+    },
+    {
+      "hadithNumber": 4195,
+      "arabicNumber": 4195,
+      "book": 35,
+      "hadithInBook": 37,
+      "text": {
+        "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ حَنْبَلٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، حَدَّثَنَا مَعْمَرٌ، عَنْ أَيُّوبَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم رَأَى صَبِيًّا قَدْ حُلِقَ بَعْضُ شَعْرِهِ وَتُرِكَ بَعْضُهُ فَنَهَاهُمْ عَنْ ذَلِكَ وَقَالَ ‏ \"‏ احْلِقُوهُ كُلَّهُ أَوِ اتْرُكُوهُ كُلَّهُ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Narrated Abdullah ibn Umar: The Prophet (ﷺ) saw a boy with part of his head shaved and part left unshaven. He forbade them to do that, saying: Shave it all or leave it all",
+          "ur": "عبداللہ بن عمر رضی اللہ عنہما سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم نے ایک بچے کو دیکھا کہ اس کے کچھ بال منڈے ہوئے تھے اور کچھ چھوڑ دئیے گئے تھے تو آپ نے انہیں اس سے منع کیا اور فرمایا: یا تو پورا مونڈ دو، یا پورا چھوڑے رکھو ۔",
+          "fr": "Rapporté par Abdullah ibn Umar رضي الله عنه : Le Prophète ﷺ a vu un garçon avec une partie de la tête rasée et une autre non rasée. Il leur a interdit de faire cela en disant : « Rasez tout ou laissez tout. »",
+          "id": "Telah menceritakan kepada kami [Ahmad bin Hanbal] berkata, telah menceritakan kepada kami [Abdurrazaq] berkata, telah menceritakan kepada kami [Ma'mar] dari [Ayyub] dari [Nafi'] dari [Ibnu Umar] berkata, \"Nabi shallallahu 'alaihi wasallam melihat melihat anak kecil yang rambutnya dicukur sebagian dan disisakan sebagian, lalu beliau melarang hal itu. Beliau bersabda: \"Cukurlah semua atau sisakan semua",
+          "tr": "İbn Ömer (r.a) şöyle demiştir. \"Hz. Nebi (s.a.v.) saçının bir kısmı tıraş edilip, bir kısmı bırakılmış bir çocuk gördü, insanları bundan men edip: \"Ya tamamını tıraş edin ya da hep bırakın\" buyurdu"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 35,
+        "hadith": 37
+      },
+      "narrator": {
+        "en": "Abdullah ibn Umar"
+      }
+    },
+    {
+      "hadithNumber": 4196,
+      "arabicNumber": 4196,
+      "book": 35,
+      "hadithInBook": 38,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْعَلاَءِ، حَدَّثَنَا زَيْدُ بْنُ الْحُبَابِ، عَنْ مَيْمُونِ بْنِ عَبْدِ اللَّهِ، عَنْ ثَابِتٍ الْبُنَانِيِّ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ كَانَتْ لِي ذُؤَابَةٌ فَقَالَتْ لِي أُمِّي لاَ أَجُزُّهَا كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَمُدُّهَا وَيَأْخُذُ بِهَا ‏.‏",
+        "translations": {
+          "en": "Narrated Anas ibn Malik: I had a hanging lock of hair. My mother said to me: I shall not cut it, for the Messenger of Allah (ﷺ) used to stretch it our and hold it",
+          "ur": "انس بن مالک رضی اللہ عنہ کہتے ہیں کہ میرے ایک چوٹی تھی، میری ماں نے مجھ سے کہا: میں اس کو نہیں کاٹوں گی، رسول اللہ صلی اللہ علیہ وسلم ( ازراہ شفقت ) اسے پکڑ کر کھینچتے تھے۔",
+          "fr": "Rapporté par Anas ibn Malik رضي الله عنه : J’avais une mèche de cheveux pendante. Ma mère m’a dit : « Je ne la couperai pas, car le Messager d’Allah ﷺ avait l’habitude de la tenir et de l’étirer. »",
+          "id": "Telah menceritakan kepada kami [Muhammad Ibnul 'Ala] berkata, telah menceritakan kepada kami [Zaid Ibnul Hubab] dari [Maimun bin Abdullah] dari [Tsabit Al Bunani] dari [Anas bin Malik] ia berkata, \"Aku mempunyai jambul. Ibuku lalu berkata kepadaku, \"Aku tidak akan memotongnya, Rasulullah shallallahu 'alaihi wasallam biasa memanjangkan dan memegangnya",
+          "tr": "Enes b. Mâlik (r.a)'den şöyle demiştir: Benim zülüflerim (başın yan tarafına sarkan saçlar) vardı Annem bana: \"Ben onları kesmem, çünkü Rasûlullah (s.a.v.) çeker ve tutardı\" dedi"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 35,
+        "hadith": 38
+      },
+      "narrator": {
+        "en": "Anas ibn Malik"
+      }
+    },
+    {
+      "hadithNumber": 4197,
+      "arabicNumber": 4197,
+      "book": 35,
+      "hadithInBook": 39,
+      "text": {
+        "arabic": "حَدَّثَنَا الْحَسَنُ بْنُ عَلِيٍّ، حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، حَدَّثَنَا الْحَجَّاجُ بْنُ حَسَّانَ، قَالَ دَخَلْنَا عَلَى أَنَسِ بْنِ مَالِكٍ فَحَدَّثَتْنِي أُخْتِي الْمُغِيرَةُ، قَالَتْ وَأَنْتَ يَوْمَئِذٍ غُلاَمٌ وَلَكَ قَرْنَانِ أَوْ قُصَّتَانِ فَمَسَحَ رَأْسَكَ وَبَرَّكَ عَلَيْكَ وَقَالَ ‏ \"‏ احْلِقُوا هَذَيْنِ أَوْ قُصُّوهُمَا فَإِنَّ هَذَا زِيُّ الْيَهُودِ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Narrated Anas ibn Malik: Al-Hajjaj ibn Hassan said: We entered upon Anas ibn Malik. My sister al-Mughirah said: You were a boy in those days and you had two locks of hair. He (Anas) rubbed your head and invoked blessing on you. He said: Shave them (i.e. the locks) or clip them, for this is the fashion of the Jews",
+          "ur": "حجاج بن حسان کا بیان ہے ہم انس بن مالک رضی اللہ عنہ کے پاس آئے، مجھ سے میری بہن مغیرہ نے بیان کیا: تو اس وقت لڑکا تھا اور تیرے سر پر دو چوٹیاں یا دو لٹیں تھیں تو انہوں نے تمہارے سر پر ہاتھ پھیرا اور برکت کی دعا کی اور کہا: ان دونوں کو مونڈوا ڈالو، یا انہیں کاٹ ڈالو کیونکہ یہ یہود کا طریقہ ہے۔",
+          "fr": "Rapporté par Anas ibn Malik رضي الله عنه : Al-Hajjaj ibn Hassan a dit : Nous sommes entrés chez Anas ibn Malik. Ma sœur al-Mughirah a dit : « Tu étais un garçon à cette époque et tu avais deux mèches de cheveux. » Il (Anas) t’a caressé la tête et a invoqué la bénédiction sur toi. Il a dit : « Rase-les (c’est-à-dire les mèches) ou coupe-les, car c’est la façon de faire des Juifs. »",
+          "id": "Telah menceritakan kepada kami [Al Hasan bin Ali] berkata, telah menceritakan kepada kami [Yazid bin Harun] berkata, telah menceritakan kepada kami [Al Hajjaj bin Hassan] ia berkata; Kami masuk menemui [Anas bin Malik], lalu [saudara pererempuan Al Mughirah] menceritakan kepadaku, ia berkata, \"Dahulu kamu masih bocah, dan kamu mempunyai dua tanduk (jambul), lalu Anas mengusap kepalamu dan mendoakan keberkahan untukmu. Ia lalu berkata, \"cukurlah atau pangkaslah dua jambul ini, karena ini adalah hiasan orang-orang yahudi",
+          "tr": "(Haccac b. Hassan şöyle demiştir. Biz Enes b. Malik'in yanına girdik, kız kardeşim Muğire, bana, o hadiseyi haber verip şöyle dedi. \"Sen o gün küçük bir çocuktun ve senin saçının iki beliği, veya alnının üstündeki saçtan iki tutam) vardı.[şek râvilerden birisindendir] Enes başını okşadı, senin için dua etti ve \"Şunları kesin veya kısaltın. Çünkü bu yahudilerin şiarıdır.\" dedi"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 35,
+        "hadith": 39
+      },
+      "narrator": {
+        "en": "Anas ibn Malik"
+      }
+    },
+    {
+      "hadithNumber": 4198,
+      "arabicNumber": 4198,
+      "book": 35,
+      "hadithInBook": 40,
+      "text": {
+        "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ، عَنْ سَعِيدٍ، عَنْ أَبِي هُرَيْرَةَ، يَبْلُغُ بِهِ النَّبِيَّ صلى الله عليه وسلم ‏ \"‏ الْفِطْرَةُ خَمْسٌ أَوْ خَمْسٌ مِنَ الْفِطْرَةِ الْخِتَانُ وَالاِسْتِحْدَادُ وَنَتْفُ الإِبْطِ وَتَقْلِيمُ الأَظْفَارِ وَقَصُّ الشَّارِبِ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Narrated Abu Hurairah:The Prophet (ﷺ) as saying: The inborn characteristics of man are five. Another version says: Five things are of the inborn characteristics of man: circumcision, shaving the pubes, plucking out hair under the armpit, paring the nails and clipping the moustaches",
+          "ur": "ابوہریرہ رضی اللہ عنہ کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم فرمایا: پانچ چیزیں فطرت ہیں یا فطرت میں سے ہیں: ختنہ کرنا، زیر ناف کے بال مونڈنا، بغل کا بال اکھیڑنا، ناخن تراشنا اور مونچھ کاٹنا ۔",
+          "fr": "Rapporté par Abu Huraira رضي الله عنه : Le Prophète ﷺ a dit : « Les caractéristiques naturelles de l’homme sont au nombre de cinq. » Une autre version dit : « Cinq choses font partie des caractéristiques naturelles de l’homme : la circoncision, le rasage des poils pubiens, l’épilation des aisselles, la coupe des ongles et la taille de la moustache. »",
+          "id": "Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Sufyan] dari [Az Zuhri] dari [Sa'id] dari [Abu Hurairah] dan sampai kepada Nabi shallallahu 'alaihi wasallam, \"Fitrah (suci) itu ada pada lima hal, atau ada lima hal dari fitrah; khitan, mencukur bulu kemaluan, mencabut bulu ketiak, memotong kuku dan mencukur kumis",
+          "tr": "Ebu Hureyre (r.a), Rasûlullah (s.a.v.)'e iblağ ederek (merfuan) şöyle demiştir: Fıtrat beştir. Veya beş şey fıtrattandır.[şek ravidendir] Sünnet olmak, etek tıraşı yapmak, koltuk altını yolmak, tırnakları kesmek, bıyığı kısaltmaktır"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (5889) Sahih Muslim (257)"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 35,
+        "hadith": 40
+      },
+      "narrator": {
+        "en": "Abu Hurairah"
+      }
+    },
+    {
+      "hadithNumber": 4199,
+      "arabicNumber": 4199,
+      "book": 35,
+      "hadithInBook": 41,
+      "text": {
+        "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ الْقَعْنَبِيُّ، عَنْ مَالِكٍ، عَنْ أَبِي بَكْرِ بْنِ نَافِعٍ، عَنْ أَبِيهِ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم أَمَرَ بِإِحْفَاءِ الشَّوَارِبِ وَإِعْفَاءِ اللِّحَى ‏.‏",
+        "translations": {
+          "en": "Narrated Abd Allah b. 'Umar:The Messenger of Allah (ﷺ) commanded to clip the moustaches and grow the beard long",
+          "ur": "عبداللہ بن عمر رضی اللہ عنہما سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے مونچھوں کے خوب کترنے، اور داڑھیوں کے بڑھانے کا حکم دیا ہے۔",
+          "fr": "Rapporté par Abd Allah ibn ‘Umar رضي الله عنه : Le Messager d’Allah ﷺ a ordonné de tailler la moustache et de laisser pousser la barbe",
+          "id": "Telah menceritakan kepada kami [Abdullah bin Maslamah Al Qa'nabi] dari [Malik] dari [Abu Bakr bin Nafi'] dari [Bapaknya] dari [Abdullah bin Umar] berkata, \"Rasulullah shallallahu 'alaihi wasallam memerintahkan mencukur kumis dan membiarkan janggut",
+          "tr": "Abdullah b. Ömer (r.a); şöyle demiştir: Rasûhıllah (s.a.v.) bıyıkları kazıyıp sakalları olduğu hâl üzere bırakmayı (uzatmayı) emretti"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (5892، 5893) Sahih Muslim (259)"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 35,
+        "hadith": 41
+      },
+      "narrator": {
+        "en": "Abd Allah b. 'Umar"
+      }
+    },
+    {
+      "hadithNumber": 4200,
+      "arabicNumber": 4200,
+      "book": 35,
+      "hadithInBook": 42,
+      "text": {
+        "arabic": "حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا صَدَقَةُ الدَّقِيقِيُّ، حَدَّثَنَا أَبُو عِمْرَانَ الْجَوْنِيُّ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ وَقَّتَ لَنَا رَسُولُ اللَّهِ صلى الله عليه وسلم حَلْقَ الْعَانَةِ وَتَقْلِيمَ الأَظْفَارِ وَقَصَّ الشَّارِبِ وَنَتْفَ الإِبْطِ أَرْبَعِينَ يَوْمًا مَرَّةً ‏.‏ قَالَ أَبُو دَاوُدَ رَوَاهُ جَعْفَرُ بْنُ سُلَيْمَانَ عَنْ أَبِي عِمْرَانَ عَنْ أَنَسٍ لَمْ يَذْكُرِ النَّبِيَّ صلى الله عليه وسلم قَالَ وُقِّتَ لَنَا وَهَذَا أَصَحُّ ‏.‏",
+        "translations": {
+          "en": "Narrated Anas bin Malik: The Messenger of Allah (ﷺ) fixed forty days to shave the pubes, paring the nails, clipping the moustaches, and plucking the hair under the armpit. Abu Dawud said: Ja'far b. Sulaiman transmitted it from Abu 'Imran on the authority of Anas. In this version he did not mention the Prophet (ﷺ). He said: Forty days were fixed for us. This is a more correct version",
+          "ur": "انس بن مالک رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے زیر ناف کے بال مونڈنے، ناخن کاٹنے، مونچھیں تراشنے اور بغل کے بال اکھاڑنے کی چالیس دن میں ایک بار کی تحدید فرما دی ہے۔ ابوداؤد کہتے ہیں: اسے جعفر بن سلیمان نے ابوعمران سے اور انہوں نے انس سے روایت کیا ہے اور نبی اکرم صلی اللہ علیہ وسلم کا ذکر نہیں کیا ہے اور اس میں «وقَّتَ لنا» کے بجائے «وُقِّتَ لنا» بصیغہ مجہول ہے، اور یہ زیادہ صحیح ہے۔",
+          "fr": "Rapporté par Anas ibn Malik رضي الله عنه : Le Messager d’Allah ﷺ a fixé quarante jours pour le rasage des poils pubiens, la coupe des ongles, la taille de la moustache et l’épilation des aisselles. Abu Dawud a dit : Ja’far ibn Sulaiman l’a transmis de la part d’Abu ‘Imran au nom d’Anas. Dans cette version, il n’a pas mentionné le Prophète ﷺ. Il a dit : « Quarante jours nous étaient fixés. » Cette version est la plus correcte",
+          "id": "Telah menceritakan kepada kami [Muslim bin Ibrahim] berkata, telah menceritakan kepada kami [Shadaqah Ad Daqiqi] berkata, telah menceritakan kepada kami [Abu Imran Al Jauni] dari [Anas bin Malik] ia berkata, \"Rasulullah shallallahu 'alaihi wasallam memberi waktu kita untuk mencukur bulu kemaluan, memotong kuku, mencukur kumis dan mencabut bulu ketiak selama empat puluh hari sekali.\" Abu Dawud berkata \" [Ja'far bin Sulaiman] menceritakannya dari [Abu Imran], dari [Anas]. Namun ia tidak menyebut Nabi shallallahu 'alaihi wasallam. Ia berkata, \"Kami diberi waktu…\", dan ini yang benar",
+          "tr": "Enes b. Malik {r.a) şöyle demiştir: Rasûlullah (s.a.v.), bizim kırk günde bir elek tıraşı olmamızı, tırnakları kesmemizi, bıyığı kısaltmamızı ve koltuk allını yolmamız! tayin etti.(emretti) Ebû Davûd der ki: Bu hadisi Cafer b. Süleyman îmrân'dan o da Enes'den Hz. Nebii anmadan rivayet cinıiş ve \"bize tayin edildi (emredildi)\" demiştir. Bu esahtır"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 35,
+        "hadith": 42
+      },
+      "narrator": {
+        "en": "Anas bin Malik"
+      }
+    },
+    {
+      "hadithNumber": 4201,
+      "arabicNumber": 4201,
+      "book": 35,
+      "hadithInBook": 43,
+      "text": {
+        "arabic": "حَدَّثَنَا ابْنُ نُفَيْلٍ، حَدَّثَنَا زُهَيْرٌ، قَرَأْتُ عَلَى عَبْدِ الْمَلِكِ بْنِ أَبِي سُلَيْمَانَ وَقَرَأَهُ عَبْدُ الْمَلِكِ عَلَى أَبِي الزُّبَيْرِ وَرَوَاهُ أَبُو الزُّبَيْرِ عَنْ جَابِرٍ، قَالَ كُنَّا نُعْفِي السِّبَالَ إِلاَّ فِي حَجٍّ أَوْ عُمْرَةٍ ‏.‏ قَالَ أَبُو دَاوُدَ الاِسْتِحْدَادُ حَلْقُ الْعَانَةِ ‏.‏",
+        "translations": {
+          "en": "Narrated Jabir: We used to grow beard long except during the Hajj or 'Umrah. Abu Dawud said: Istihdad means to shave the pubes",
+          "ur": "جابر رضی اللہ عنہ کہتے ہیں کہ ہم حج و عمرہ کے سوا ہمیشہ داڑھیوں کو لٹکتا رہنے دیتے تھے۔ ابوداؤد کہتے ہیں: «استحداد» کے معنی زیر ناف مونڈنے کے ہیں۔",
+          "fr": "Rapporté par Jabir رضي الله عنه : Nous laissions pousser notre barbe, sauf pendant le Hajj ou la ‘Umrah. Abu Dawud a dit : Istihdad signifie se raser les poils pubiens",
+          "id": "Telah menceritakan kepada kami [Ibnu Nufail] berkata, telah menceritakan kepada kami [Zuhair] aku membaca di hadapan [Abdul Malik bin Abu Sualiman] dan Abdul Malik membacanya di hadapan [Abu Az Zubair] dan Abu Az Zubair meriwayatkannya dari [Jabir] ia berkata, \"Kami membiarkan Sibal (bulu janggut yang panjang hingga dada) kecuali pada saat haji dan umrah.\" Abu Dawud berkata, \"Al Istihdad artinya adalah mencukur bulu kemaluan",
+          "tr": "Câbir (r.a) şöyle demiştir: Biz (sâhâbîler), hac ve umre dışında sakallarımızın ucunu (veya bıyıklarımızın ucunu) kendi haline bırakır (uzatır)dık. Ebû Dâvûd der ki: \"istihdaf etek tıraşı demektir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 35,
+        "hadith": 43
+      },
+      "narrator": {
+        "en": "Jabir"
+      }
+    },
+    {
+      "hadithNumber": 4202,
+      "arabicNumber": 4202,
+      "book": 35,
+      "hadithInBook": 44,
+      "text": {
+        "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، ح وَحَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا سُفْيَانُ، - الْمَعْنَى - عَنِ ابْنِ عَجْلاَنَ، عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ لاَ تَنْتِفُوا الشَّيْبَ مَا مِنْ مُسْلِمٍ يَشِيبُ شَيْبَةً فِي الإِسْلاَمِ ‏\"‏ ‏.‏ قَالَ عَنْ سُفْيَانَ ‏\"‏ إِلاَّ كَانَتْ لَهُ نُورًا يَوْمَ الْقِيَامَةِ ‏\"‏ ‏.‏ وَقَالَ فِي حَدِيثِ يَحْيَى ‏\"‏ إِلاَّ كَتَبَ اللَّهُ لَهُ بِهَا حَسَنَةً وَحَطَّ عَنْهُ بِهَا خَطِيئَةً ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Amr b. Shu'aib, on his father's authority, told that his grandfather reported the Messenger of Allah (ﷺ) said:Do not pluck out grey hair. If any believer grows a grey hair in Islam, he will have light on the Day of Resurrection. (This is Sufyan's version). Yahya's version says: Allah will record on his behalf a good deed for it, and will blot out a sin for it",
+          "ur": "عبداللہ بن عمرو بن العاص رضی اللہ عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: سفید بال نہ اکھیڑو، اس لیے کہ جس مسلمان کا کوئی بال حالت اسلام میں سفید ہوا ہو ( سفیان کی روایت میں ہے ) تو وہ اس کے لیے قیامت کے دن نور ہو گا ( اور یحییٰ کی روایت میں ہے ) اس کے بدلے اللہ تعالیٰ اس کے لیے ایک نیکی لکھے گا اور اس سے ایک گناہ مٹا دے گا ۔",
+          "fr": "Amr ibn Shu'aib, selon l’autorité de son père, a rapporté que son grand-père a dit que le Messager d’Allah ﷺ a dit : « Ne retirez pas les cheveux blancs. Si un croyant a un cheveu blanc qui pousse dans l’islam, cela sera pour lui une lumière le Jour de la Résurrection. » (Ceci est la version de Sufyan). Dans la version de Yahya, il est ajouté : « Allah inscrira pour lui une bonne action grâce à ce cheveu et effacera un péché. »",
+          "id": "Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Yahya]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Sufyan] secara makna, dari [Ibnu 'Ajlan] dari [Amru bin Syu'aib] dari [Bapaknya] dari [Kakeknya] ia berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Janganlah kalian mencabut uban, tidaklah seorang muslim tumbuh uban padanya dalam Islam -disebutkan oleh Sufyan dalam riwayatnya- \"Kecuali ia akan menjadi cahaya baginya pada hari kiamat.\" Dalam riwayat lain (oleh Yahya) disebutkan, \"Kecuali dengannya Allah akan menuliskan satu kebaikan dan dihapuskan darinya satu dosa",
+          "tr": "Amır b. Şuayb, babası vasıtasıyla dedesinden. Rasülullah (s.a.v.)'in şöyle buyurduğunu rivayet etmiştir: Beyaz kılları yolmayınız; İslâımla saçı sakalı ağarmış olan hiç bir müslüman yok ki - Süfyan rivayetinde dedi ki; O kıl, kıyamet günün de onun için bir nur olmasın -Yahya'nın hadisinde ise \".... o kıl sebebiyle Allah, Ona bir hasene yazmasın ve ondan bir günah silmiş olmasın\" dedi"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 35,
+        "hadith": 44
+      }
+    },
+    {
+      "hadithNumber": 4203,
+      "arabicNumber": 4203,
+      "book": 35,
+      "hadithInBook": 45,
+      "text": {
+        "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ، عَنْ أَبِي سَلَمَةَ، وَسُلَيْمَانَ بْنِ يَسَارٍ، عَنْ أَبِي هُرَيْرَةَ، يَبْلُغُ بِهِ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏ \"‏ إِنَّ الْيَهُودَ وَالنَّصَارَى لاَ يَصْبُغُونَ فَخَالِفُوهُمْ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Narrated Abu Hurairah:The Prophet (ﷺ) as saying: Jews and Christians do not dye (their beards), so act differently from them",
+          "ur": "ابوہریرہ رضی اللہ عنہ کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: یہود و نصاریٰ اپنی داڑھیاں نہیں رنگتے ہیں، لہٰذا تم ان کی مخالفت کرو ، یعنی انہیں خضاب سے رنگا کرو۔",
+          "fr": "Rapporté par Abu Huraira رضي الله عنه : Le Prophète ﷺ a dit : « Les Juifs et les Chrétiens ne teignent pas leur barbe, alors faites le contraire d’eux. »",
+          "id": "Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Sufyan] dari [Az Zuhri] dari [Abu Salamah] dan [Sulaiman bin Yasar] dari [Abu Hurairah] dan sampai kepada Nabi shallallahu 'alaihi wasallam, beliau bersabda: \"Sesungguhnya orang-orang Yahudi dan Nashara tidak mencelup (menyemir rambut), maka selisihilah mereka",
+          "tr": "Ebû Hûreyre (r.a) Resulullah (s.a.v.)'den nıerfû' olarak şöyle rivayet etmiştir. \"Yahudiler ve hiristiyanlar (saçlarını ve sakallarını) boyatmıyorlar. Onlara muhalefet ediniz"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (5899) Sahih Muslim (2103)"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 35,
+        "hadith": 45
+      },
+      "narrator": {
+        "en": "Abu Hurairah"
+      }
+    },
+    {
+      "hadithNumber": 4204,
+      "arabicNumber": 4204,
+      "book": 35,
+      "hadithInBook": 46,
+      "text": {
+        "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ عَمْرِو بْنِ السَّرْحِ، وَأَحْمَدُ بْنُ سَعِيدٍ الْهَمْدَانِيُّ، قَالاَ حَدَّثَنَا ابْنُ وَهْبٍ، حَدَّثَنَا ابْنُ جُرَيْجٍ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، قَالَ أُتِيَ بِأَبِي قُحَافَةَ يَوْمَ فَتْحِ مَكَّةَ وَرَأْسُهُ وَلِحْيَتُهُ كَالثَّغَامَةِ بَيَاضًا فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ غَيِّرُوا هَذَا بِشَىْءٍ وَاجْتَنِبُوا السَّوَادَ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Narrated Jabir bin ‘Abdullah :Abu Quhafah was brought on the day of the conquest of Mecca with head and beard while like hyssop. The Messenger of Allah (ﷺ) said: Change this something, but avoid black",
+          "ur": "جابر بن عبداللہ رضی اللہ عنہما کہتے ہیں کہ فتح مکہ کے دن ( ابوبکر رضی اللہ عنہ کے والد ) ابوقحافہ کو لایا گیا، ان کا سر اور ان کی داڑھی ثغامہ ( نامی سفید رنگ کے پودے ) کے مانند سفید تھی تو رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: اسے کسی چیز سے بدل دو اور سیاہی سے بچو ۔",
+          "fr": "Rapporté par Jabir ibn ‘Abdullah رضي الله عنه : Le jour de la conquête de La Mecque, on amena Abu Quhafah dont la tête et la barbe étaient blanches comme l’hysope. Le Messager d’Allah ﷺ a dit : « Changez cela, mais évitez le noir. »",
+          "id": "Telah menceritakan kepada kami [Ahmad bin Amru bin As Sarh] dan [Ahmad bin Sa'id Al Hamdani] keduanya berkata; telah menceritakan kepada kami [Ibnu Wahb] berkata, telah menceritakan kepada kami [Ibnu Juraij] dari [Abu Az Zubair] dari [Jabir bin Abdullah] ia berkata, \"Pada saat pembukaan kota Makkah, Abu Kuhafah dihadapkan kepada Rasulullah, sementara rambut dan janggutnya putih seperti bunga berwarna putih, maka Rasulullah shallallahu 'alaihi wasallam bersabda: \"Rubahlah warna rambutmu ini dengan sesuatu, dan jauhilah warna hitam",
+          "tr": "Câbir b. Abdullah (r.a) demiştir ki; \"'Mekke fethedildiğ Ebu Kuhafe getirildi, saçı ve sakalı ak tavşan gibi bembeyaz idi. Rasûlullah (s.a.v.) \"şunu bir şeyle değiştirin, siyahtan uzak durun (şu beyazlığı siyahın dışında bir renkle boyayınî buyurdu)"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim (2102)"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 35,
+        "hadith": 46
+      },
+      "narrator": {
+        "en": "Jabir bin ‘Abdullah"
+      }
+    },
+    {
+      "hadithNumber": 4205,
+      "arabicNumber": 4205,
+      "book": 35,
+      "hadithInBook": 47,
+      "text": {
+        "arabic": "حَدَّثَنَا الْحَسَنُ بْنُ عَلِيٍّ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، حَدَّثَنَا مَعْمَرٌ، عَنْ سَعِيدٍ الْجُرَيْرِيِّ، عَنْ عَبْدِ اللَّهِ بْنِ بُرَيْدَةَ، عَنْ أَبِي الأَسْوَدِ الدِّيلِيِّ، عَنْ أَبِي ذَرٍّ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ إِنَّ أَحْسَنَ مَا غُيِّرَ بِهِ هَذَا الشَّيْبُ الْحِنَّاءُ وَالْكَتَمُ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Narrated AbuDharr: The Prophet (ﷺ) said: The best things with which grey hair are changed are henna and katam",
+          "ur": "ابوذر رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: سب سے اچھی چیز جس سے اس بڑھاپے ( بال کی سفیدی ) کو بدلا جائے حناء ( مہندی ) اور کتم ( وسمہ ) ہے ۔",
+          "fr": "Rapporté par Abu Dharr رضي الله عنه : Le Prophète ﷺ a dit : « Les meilleures choses pour changer la couleur des cheveux blancs sont le henné et le katam. »",
+          "id": "Telah menceritakan kepada kami [Al Hasan bin Ali] berkata, telah menceritakan kepada kami [Abdurrazaq] berkata, telah menceritakan kepada kami [Ma'mar] dari [Sa'id Al Jurairi] dari [Abdullah bin Buraidah] dari [Abu Al Aswad Ad dili] dari [Abu Dzar] ia berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Sesungguhnya yang paling baik untuk mengubah warna uban ini adalah pacar dan Al Katam (sejenis pacar)",
+          "tr": "Ebû Zer' (r.a)'den; Rasûlullah (s.a.v.)'in şöyle buyurduğu rivayet edilmiştir: Kendisi ile şu beyazlığın (saç ve sakal beyazlığı) değiştirildiği en iyi şey, kına ve ketem'dir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 35,
+        "hadith": 47
+      },
+      "narrator": {
+        "en": "AbuDharr"
+      }
+    },
+    {
+      "hadithNumber": 4206,
+      "arabicNumber": 4206,
+      "book": 35,
+      "hadithInBook": 48,
+      "text": {
+        "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ يُونُسَ، حَدَّثَنَا عُبَيْدُ اللَّهِ، - يَعْنِي ابْنَ إِيَادٍ - قَالَ حَدَّثَنَا إِيَادٌ، عَنْ أَبِي رِمْثَةَ، قَالَ انْطَلَقْتُ مَعَ أَبِي نَحْوَ النَّبِيِّ صلى الله عليه وسلم فَإِذَا هُوَ ذُو وَفْرَةٍ بِهَا رَدْعُ حِنَّاءَ وَعَلَيْهِ بُرْدَانِ أَخْضَرَانِ ‏.‏",
+        "translations": {
+          "en": "Narrated AbuRimthah: I went with my father to the Prophet (ﷺ). He had locks hanging down as far as the lobes of the ears stained with henna, and he was wearing two green garments",
+          "ur": "ابورمثہ رضی اللہ عنہ کہتے ہیں کہ میں اپنے والد کے ساتھ نبی اکرم صلی اللہ علیہ وسلم کی خدمت میں گیا تو دیکھا کہ آپ کے سر کے بال کان کی لو تک ہیں، ان میں مہندی لگی ہوئی ہے، اور آپ کے جسم مبارک پر سبز رنگ کی دو چادریں ہیں۔",
+          "fr": "Rapporté par Abu Rimthah رضي الله عنه : Je suis allé avec mon père chez le Prophète ﷺ. Il avait des mèches qui descendaient jusqu’aux lobes de ses oreilles et qui étaient colorées au henné. Il portait deux vêtements verts",
+          "tr": "Ebû Risme (r.a); şöyle demiştir: Babamla birlikle Rasûlullah (s.a.v.)'in yanına gittik. Rasulullahın saçları kulak yumuşağına kadar sarkmış vaziyette idi, üzerinde kına lekeleri vardı. Sırtında iki yeşil cübbe bulunuyordu"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 35,
+        "hadith": 48
+      },
+      "narrator": {
+        "en": "AbuRimthah"
+      }
+    },
+    {
+      "hadithNumber": 4207,
+      "arabicNumber": 4207,
+      "book": 35,
+      "hadithInBook": 49,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْعَلاَءِ، حَدَّثَنَا ابْنُ إِدْرِيسَ، قَالَ سَمِعْتُ ابْنَ أَبْجَرَ، عَنْ إِيَادِ بْنِ لَقِيطٍ، عَنْ أَبِي رِمْثَةَ، فِي هَذَا الْخَبَرِ قَالَ فَقَالَ لَهُ أَبِي أَرِنِي هَذَا الَّذِي بِظَهْرِكَ فَإِنِّي رَجُلٌ طَبِيبٌ ‏.‏ قَالَ ‏ \"‏ اللَّهُ الطَّبِيبُ بَلْ أَنْتَ رَجُلٌ رَفِيقٌ طَبِيبُهَا الَّذِي خَلَقَهَا ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "This version adds (to the previous hadith No 4194):My father said to him (the Prophet): Show me what is on your back, for I am a physician. He (the Prophet) said: You are only a soother. Its physician is He Who has created it",
+          "ur": "اس سند سے ابورمثہ رضی اللہ عنہ سے اس حدیث میں مروی ہے کہ میرے والد نے رسول اللہ صلی اللہ علیہ وسلم سے عرض کیا کہ مجھے آپ اپنی وہ چیز دکھائیں جو آپ کی پشت پر ہے کیونکہ میں طبیب ہوں، آپ نے فرمایا: طبیب تو اللہ ہے، بلکہ تو رفیق ہے ( مریض کو تسکین اور دلاسے دیتا ہے ) طبیب تو وہی ہے جس نے اسے پیدا کیا ہے ۔",
+          "fr": "Ce récit ajoute (au hadith n°4194) : Mon père lui a dit (au Prophète) : « Montre-moi ce que tu as dans le dos, car je suis médecin. » Le Prophète ﷺ a répondu : « Tu n’es qu’un apaisant. Celui qui en est le médecin, c’est Celui qui l’a créé. »",
+          "id": "Telah menceritakan kepada kami [Ahmad bin Yunus] berkata, telah menceritakan kepada kami [Ubaidullah] - maksudnya Ubaidullah bin Had- ia berkata; telah menceritakan kepada kami [Iyad] dari [Abu Rimtsah] ia berkata, \"Aku bersama bapakku pergi menemui Nabi shallallahu 'alaihi wasallam, dan ternyata rambut beliau panjangnya hingga daun telinga yang diberi warna dengan daun pacar, dan beliau mengenakan dua kain berwarna hijau.\" Telah menceritakan kepada kami [Muhammad Ibnul 'Ala] berkata, telah menceritakan kepada kami [Ibnu Idris] ia berkata; Aku mendengar [Ibnu Abjar] dari [Iyad bin Laqith] dari [Abu Rimtsah] berkenaan dengan kabar ini. Ia (perawi) berkata; Lalu bapakku berkata kepadanya, \"Perlihatkanlah kepadaku apa yang ada di punggungmu, karena aku adalah seorang tabib.\" Ia berkata, \"Demi Allah, engkau hanyalah perantara. Tabib yang sebenarnya adalah Dzat Yang telah menciptakannya (sakit)",
+          "tr": "Bize Muhammed b. El-Alâ haber verdi. Bize İdris. İbn Ebcer'den işittim diyerek haber verdi. İbn Ebcer. İyad b. Lekittan, o da Ebû Rimse'den bu (4206.) haberi rivayet edip şöyle dedi. Babam Rasûluliah (s.a.v.)'e: \"Bana sırtındaki (nübüvvet mührü) nü gösler; ben tabibim\" dedi. Rasûlullah (s.a.v.): \"Tabîb Allah'tır belki, sen şefkatli bir adamsın onun tabibi yaratandır.\" buyurdu"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 35,
+        "hadith": 49
+      }
+    },
+    {
+      "hadithNumber": 4208,
+      "arabicNumber": 4208,
+      "book": 35,
+      "hadithInBook": 50,
+      "text": {
+        "arabic": "حَدَّثَنَا ابْنُ بَشَّارٍ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ، حَدَّثَنَا سُفْيَانُ، عَنْ إِيَادِ بْنِ لَقِيطٍ، عَنْ أَبِي رِمْثَةَ، قَالَ أَتَيْتُ النَّبِيَّ صلى الله عليه وسلم أَنَا وَأَبِي فَقَالَ لِرَجُلٍ أَوْ لأَبِيهِ ‏\"‏ مَنْ هَذَا ‏\"‏ ‏.‏ قَالَ ابْنِي ‏.‏ قَالَ ‏\"‏ لاَ تَجْنِي عَلَيْهِ ‏\"‏ ‏.‏ وَكَانَ قَدْ لَطَخَ لِحْيَتَهُ بِالْحِنَّاءِ ‏.‏",
+        "translations": {
+          "en": "Narrated AbuRimthah: I and my father came to the Prophet (ﷺ). He said to a man or to my father: Who is this? He replied: He is my son. He said: Do not commit a crime on him. He had stained his beard with henna",
+          "ur": "ابورمثہ رضی اللہ عنہ کہتے ہیں کہ میں اور میرے والد نبی اکرم صلی اللہ علیہ وسلم کے پاس آئے آپ نے ایک شخص سے یا میرے والد سے پوچھا: یہ کون ہے؟ وہ بولے: میرا بیٹا ہے، آپ نے فرمایا: یہ تمہارا بوجھ نہیں اٹھائے گا، تم جو کرو گے اس کی باز پرس تم سے ہو گی، آپ نے اپنی داڑھی میں مہندی لگا رکھی تھی ۔",
+          "fr": "Rapporté par Abu Rimthah رضي الله عنه : Mon père et moi sommes venus chez le Prophète ﷺ. Il a dit à un homme ou à mon père : « Qui est-ce ? » Il a répondu : « C’est mon fils. » Le Prophète ﷺ a dit : « Ne commets pas de faute contre lui. » Sa barbe était colorée au henné",
+          "id": "Telah menceritakan kepada kami [Ibnu Basysyar] berkata, telah menceritakan kepada kami ['Abdurrahman] berkata, telah menceritakan kepada kami [Sufyan] dari [Iyad bin Laqith] dari [Abu Rimtsah] ia berkata, \"Aku dan bapakku mendatangi Nabi shallallahu 'alaihi wasallam, lalu beliau bertanya kepada seorang laki-laki, atau kepada bapaknya: \"Siapa ini?\" orang itu menjawab, \"Anakku.\" Beliau bersabda: \"Jangan engkau berlaku jahat kepadanya.\" Dan saat itu ia sedang mewarnai janggutnya dengan pacar",
+          "tr": "Bize, İbn Beşşâr haber verdi, bize Abdurrahman haber verdi. Bize Süfyan , İyâd b. Lakît'ten. o da Ebû Rimse'den rivâyei elli. Ebû Rimse şöyle demiştir: Babamla birlikte Rasûlullah (s.a.v.)(in yanına geldik. Rasûiullah bir adama -veya babama- (beni göstererek) \"Bu kim?\" diye sordu. Babam \"oğlum\" dedi. Rasûlullah (s.a.v.) \"Sen, onun aleyhine suç işlemezsin (senin suçun ondan sorulmaz)\" buyurdu. O zaman, Rasûlullah (s.a.v.) sakalına kına yakmıştı"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 35,
+        "hadith": 50
+      },
+      "narrator": {
+        "en": "AbuRimthah"
+      }
+    },
+    {
+      "hadithNumber": 4209,
+      "arabicNumber": 4209,
+      "book": 35,
+      "hadithInBook": 51,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عُبَيْدٍ، حَدَّثَنَا حَمَّادٌ، عَنْ ثَابِتٍ، عَنْ أَنَسٍ، أَنَّهُ سُئِلَ عَنْ خِضَابِ النَّبِيِّ، صلى الله عليه وسلم فَذَكَرَ أَنَّهُ لَمْ يَخْضِبْ وَلَكِنْ قَدْ خَضَبَ أَبُو بَكْرٍ وَعُمَرُ رَضِيَ اللَّهُ عَنْهُمَا ‏.‏",
+        "translations": {
+          "en": "Thabit said that Anas was asked about the hair-dye of the Prophet (ﷺ). He replied:He did not dye his hair, but Abu Bakr and 'Umar dyed their hair",
+          "ur": "انس رضی اللہ عنہ سے روایت ہے کہ ان سے نبی اکرم صلی اللہ علیہ وسلم کے خضاب کے متعلق پوچھا گیا تو انہوں نے کہا: آپ صلی اللہ علیہ وسلم نے تو خضاب لگایا ہی نہیں، ہاں ابوبکر و عمر رضی اللہ عنہما نے لگایا ہے۔",
+          "fr": "Thabit a dit qu’on a demandé à Anas رضي الله عنه si le Prophète ﷺ se teignait les cheveux. Il a répondu : « Il ne se teignait pas les cheveux, mais Abu Bakr et ‘Umar le faisaient. »",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Ubaid] berkata, telah menceritakan kepada kami [Hammad] dari [Tsabit] dari [Anas] Bahwasanya ia pernah ditanya tentang warna cat (rambut) Nabi shallallahu 'alaihi wasallam. Lalu ia menyebutkan bahwa Rasulullah tidak pernah mengecat rambutnya, hanya saja hal itu pernah dilakukan oleh Abu Bakar dan Umar radliallahu 'anhuma",
+          "tr": "Sâbit'ten rivayet edildiğine göre: Enes (r.a)'a, Hz. Nebi (s.a.v.)'in boyanması konusu soruldu. O da Resûlullah’ın boyanmadığını, ama Ebû Bekir ve Ömer'in boyandıklarını söyledi"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (5895) Sahih Muslim (2341)"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 35,
+        "hadith": 51
+      }
+    },
+    {
+      "hadithNumber": 4210,
+      "arabicNumber": 4210,
+      "book": 35,
+      "hadithInBook": 52,
+      "text": {
+        "arabic": "حَدَّثَنَا عَبْدُ الرَّحِيمِ بْنُ مُطَرِّفٍ أَبُو سُفْيَانَ، حَدَّثَنَا عَمْرُو بْنُ مُحَمَّدٍ، حَدَّثَنَا ابْنُ أَبِي رَوَّادٍ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ يَلْبَسُ النِّعَالَ السِّبْتِيَّةَ وَيُصَفِّرُ لِحْيَتَهُ بِالْوَرْسِ وَالزَّعْفَرَانِ وَكَانَ ابْنُ عُمَرَ يَفْعَلُ ذَلِكَ ‏.‏",
+        "translations": {
+          "en": "Narrated Abdullah ibn Umar: The Prophet (ﷺ) used to wear tanned leather sandals and dye his beard yellow with wars and saffron, and Ibn 'Umar used to do that too",
+          "ur": "عبداللہ بن عمر رضی اللہ عنہما سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم کھال کی سبتی جوتیاں پہنتے تھے جس پر بال نہیں ہوتے تھے، اور اپنی داڑھی ورس ۱؎ اور زعفران سے رنگتے تھے، اور ابن عمر رضی اللہ عنہما بھی ایسا کرتے تھے۔",
+          "fr": "Rapporté par Abdullah ibn Umar رضي الله عنه : Le Prophète ﷺ portait des sandales en cuir tanné et teignait sa barbe en jaune avec du wars et du safran. Ibn ‘Umar faisait de même",
+          "id": "Telah menceritakan kepada kami [Abdurrahim bin Mutaharrif Abu Sufyan] berkata, telah menceritakan kepada kami [Amru bin Muhammad] berkata, telah menceritakan kepada kami [Ibnu Abu Rawwad] dari [Nafi'] dari [Ibnu Umar] berkata, \"Nabi shallallahu 'alaihi wasallam mengenakan sandal yang bertali dan memberi warna janggutnya dengan Al Waras (semacam tumbuhan) dan Za'faran. Dan Ibnu Umar juga melakukan hal itu",
+          "tr": "İbn Ömer (r.a)'dan rivayet edildi ki: Rasûlullah (s.a.v.) sibtî (denilen) pabuçlar giyer, sakalını vers ve za'feranlar boyardı. (Nâfî) \"Aynısını İbn Ömer'de yapardı\" der"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 35,
+        "hadith": 52
+      },
+      "narrator": {
+        "en": "Abdullah ibn Umar"
+      }
+    },
+    {
+      "hadithNumber": 4211,
+      "arabicNumber": 4211,
+      "book": 35,
+      "hadithInBook": 53,
+      "text": {
+        "arabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا إِسْحَاقُ بْنُ مَنْصُورٍ، حَدَّثَنَا مُحَمَّدُ بْنُ طَلْحَةَ، عَنْ حُمَيْدِ بْنِ وَهْبٍ، عَنِ ابْنِ طَاوُسٍ، عَنْ طَاوُسٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ مَرَّ عَلَى النَّبِيِّ صلى الله عليه وسلم رَجُلٌ قَدْ خَضَبَ بِالْحِنَّاءِ فَقَالَ ‏\"‏ مَا أَحْسَنَ هَذَا ‏\"‏ ‏.‏ قَالَ فَمَرَّ آخَرُ قَدْ خَضَبَ بِالْحِنَّاءِ وَالْكَتَمِ فَقَالَ ‏\"‏ هَذَا أَحْسَنُ مِنْ هَذَا ‏\"‏ ‏.‏ قَالَ فَمَرَّ آخَرُ قَدْ خَضَبَ بِالصُّفْرَةِ فَقَالَ ‏\"‏ هَذَا أَحْسَنُ مِنْ هَذَا كُلِّهِ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Narrated Abdullah ibn Abbas: When a man who had dyed himself with henna passed by the Prophet (ﷺ), he said: How fine this is! When another man who had dyed himself with henna and katam passed by, he said: This is better than that. Then another man who had dyed himself with yellow dye, passed by, he said: This is better than all that",
+          "ur": "عبداللہ بن عباس رضی اللہ عنہما کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم کے پاس سے ایک شخص گزرا جس نے مہندی کا خضاب لگا رکھا تھا، تو آپ نے فرمایا: یہ کتنا اچھا ہے پھر ایک اور شخص گزرا جس نے مہندی اور کتم کا خضاب لگا رکھا تھا، تو آپ نے فرمایا: یہ اس سے بھی اچھا ہے اتنے میں ایک تیسرا شخص زرد خضاب لگا کے گزرا تو آپ نے فرمایا: یہ ان سب سے اچھا ہے ۔",
+          "fr": "Rapporté par Abdullah ibn Abbas رضي الله عنه : Lorsqu’un homme qui s’était teint avec du henné est passé devant le Prophète ﷺ, il a dit : « Comme c’est beau ! » Lorsqu’un autre homme, qui s’était teint avec du henné et du katam, est passé, il a dit : « C’est mieux que cela. » Puis un autre homme, qui s’était teint avec une teinture jaune, est passé, il a dit : « C’est mieux que tout le reste. »",
+          "id": "Telah menceritakan kepada kami [Utsman bin Abu Syaibah] berkata, telah menceritakan kepada kami [Ishaq bin Manshur] berkata, telah menceritakan kepada kami [Muhammad bin Thalhah] dari [Humaid bin Wahb] dari [Ibnu Thawus] dari [Thawus] dari [Ibnu Abbas] ia berkata, \"Seorang laki-laki yang mengecat rambutnya dengan pacar lewat dihadapan Nabi shallallahu 'alaihi wasallam, beliau bersabda: \"Betapa bagusnya ini.\" Setelah itu lewat orang lain yang mewarnai rambutnya dengan pacar dan Al Katam (tanaman semacam daun pacar), beliau bersabda: \"Orang ini lebih bagus dari yang tadi.\" Setelah itu lewat orang lain yang mewarnai rambutnya dengan warna kuning, beliau bersabda: \"Orang ini lebih bagus dari yang tadi-tadi",
+          "tr": "İbn Abbas (r.a) şöyle demiştir: Rasûlullah (s.a.v.)'e (sakalını veya saçını) kına ile boyamış bir adam uğradı. Efendimiz, \"Şu ne kadar güzel\" buyurdu, (sakalını veya saçını) kına ve ketemle boyamış olan başka birisi geçti. Bu sefer Rasûlullah (s.a.v.) \"Bu ondan da güzel\" buyurdu. Sarıya boyanmış daha başka birisi geçti, onun için de \"Bu hepsinden daha güzel\" buyurdu"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 35,
+        "hadith": 53
+      },
+      "narrator": {
+        "en": "Abdullah ibn Abbas"
+      }
+    },
+    {
+      "hadithNumber": 4212,
+      "arabicNumber": 4212,
+      "book": 35,
+      "hadithInBook": 54,
+      "text": {
+        "arabic": "حَدَّثَنَا أَبُو تَوْبَةَ، حَدَّثَنَا عُبَيْدُ اللَّهِ، عَنْ عَبْدِ الْكَرِيمِ الْجَزَرِيِّ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ يَكُونُ قَوْمٌ يَخْضِبُونَ فِي آخِرِ الزَّمَانِ بِالسَّوَادِ كَحَوَاصِلِ الْحَمَامِ لاَ يَرِيحُونَ رَائِحَةَ الْجَنَّةِ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Narrated Abdullah ibn Abbas: The Prophet (ﷺ) said: At the end of time there will be people who will use this black dye like the crops of doves who will not experience the fragrance of Paradise",
+          "ur": "عبداللہ بن عباس رضی اللہ عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: آخر زمانے میں کچھ لوگ کبوتر کے سینے کی طرح سیاہ خضاب لگائیں گے وہ جنت کی بو تک نہ پائیں گے ۔",
+          "fr": "Rapporté par Abdullah ibn Abbas رضي الله عنه : Le Prophète ﷺ a dit : « À la fin des temps, il y aura des gens qui utiliseront cette teinture noire, comme la couleur des ailes des pigeons, et ils ne sentiront pas le parfum du Paradis. »",
+          "id": "Telah menceritakan kepada kami [Abu Taubah] berkata, telah menceritakan kepada kami [Ubaidullah] dari [Abdul Karim Al jazari] dari [Sa'id bin Jubair] dari [Ibnu Abbas] ia berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Pada akhir zaman nanti akan ada orang-orang yang mengecat rambutnya dengan warna hitam seperti warna mayoritas dada merpati, mereka tidak akan mendapat bau surga",
+          "tr": "İbn Abbas (r.a); şöyle demiştir. Rasûlullah (s.a.v.) \"Ahir zamanda (saç ve sakalını) güvercin göğsü gibi siyaha boyayan bir kavim gelecektir. Onlar cennetin kokusunu alamazlar.\" buyurdu"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 35,
+        "hadith": 54
+      },
+      "narrator": {
+        "en": "Abdullah ibn Abbas"
+      }
+    },
+    {
+      "hadithNumber": 4213,
+      "arabicNumber": 4213,
+      "book": 35,
+      "hadithInBook": 55,
+      "text": {
+        "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا عَبْدُ الْوَارِثِ بْنُ سَعِيدٍ، عَنْ مُحَمَّدِ بْنِ جُحَادَةَ، عَنْ حُمَيْدٍ الشَّامِيِّ، عَنْ سُلَيْمَانَ الْمَنْبِهِيِّ، عَنْ ثَوْبَانَ، مَوْلَى رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم إِذَا سَافَرَ كَانَ آخِرُ عَهْدِهِ بِإِنْسَانٍ مِنْ أَهْلِهِ فَاطِمَةَ وَأَوَّلُ مَنْ يَدْخُلُ عَلَيْهَا إِذَا قَدِمَ فَاطِمَةَ فَقَدِمَ مِنْ غَزَاةٍ لَهُ وَقَدْ عَلَّقَتْ مِسْحًا أَوْ سِتْرًا عَلَى بَابِهَا وَحَلَّتِ الْحَسَنَ وَالْحُسَيْنَ قُلْبَيْنِ مِنْ فِضَّةٍ فَقَدِمَ فَلَمْ يَدْخُلْ فَظَنَّتْ أَنَّ مَا مَنَعَهُ أَنْ يَدْخُلَ مَا رَأَى فَهَتَكَتِ السِّتْرَ وَفَكَّكَتِ الْقُلْبَيْنِ عَنِ الصَّبِيَّيْنِ وَقَطَعَتْهُ بَيْنَهُمَا فَانْطَلَقَا إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم وَهُمَا يَبْكِيَانِ فَأَخَذَهُ مِنْهُمَا وَقَالَ ‏\"‏ يَا ثَوْبَانُ اذْهَبْ بِهَذَا إِلَى آلِ فُلاَنٍ ‏\"‏ ‏.‏ أَهْلِ بَيْتٍ بِالْمَدِينَةِ ‏\"‏ إِنَّ هَؤُلاَءِ أَهْلُ بَيْتِي أَكْرَهُ أَنْ يَأْكُلُوا طَيِّبَاتِهِمْ فِي حَيَاتِهِمُ الدُّنْيَا يَا ثَوْبَانُ اشْتَرِ لِفَاطِمَةَ قِلاَدَةً مِنْ عَصَبٍ وَسِوَارَيْنِ مِنْ عَاجٍ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Narrated Thawban: When the Messenger of Allah (ﷺ) went on a journey, the last member of his family he saw was Fatimah, and the first he visited on his return was Fatimah. Once when he returned from an expedition she had hung up a hair-cloth, or a curtain, at her door, and adorned al-Hasan and al-Husayn with silver bracelets. So when he arrived, he did not enter. Thinking that he had been prevented from entering by what he had seen, she tore down the curtain, unfastened the bracelets from the boys and cut them off. They went weeping to the Messenger of Allah (ﷺ), and when he had taken them from them, he said: Take this to so and so's family. Thawban. In Medina, these are my family, and I did not like them to enjoy their good things in the present life. Buy Fatimah a necklace or asb, Thawban, and two ivory bracelets",
+          "ur": "ثوبان مولیٰ رسول اللہ صلی اللہ علیہ وسلم کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم جب کسی سفر پر تشریف لے جاتے تو اپنے گھر والوں میں سب سے اخیر میں فاطمہ رضی اللہ عنہا سے ملتے اور جب سفر سے واپس آتے تو سب سے پہلے فاطمہ رضی اللہ عنہا سے ملاقات کرتے، چنانچہ آپ صلی اللہ علیہ وسلم ایک غزوہ سے تشریف لائے، فاطمہ رضی اللہ عنہا نے اپنے دروازے پر ایک ٹاٹ یا پردہ لٹکا رکھا تھا اور حسن و حسین رضی اللہ عنہما دونوں کو چاندی کے دو کنگن پہنا رکھے تھے، آپ صلی اللہ علیہ وسلم تشریف لائے تو گھر میں داخل نہیں ہوئے تو وہ سمجھ گئیں کہ آپ کے اندر آنے سے یہی چیز مانع رہی ہے جو آپ نے دیکھا ہے، تو انہوں نے دروازے سے پردہ اتار دیا، پھر دونوں صاحبزادوں کے کنگن کو اتار لیا، اور کاٹ کر ان کے سامنے ڈال دیا، تو وہ دونوں رسول اللہ صلی اللہ علیہ وسلم کے پاس روتے ہوئے آئے، آپ نے ان سے کٹے ہوئے ٹکڑے لے کر فرمایا: ثوبان! اسے مدینہ میں فلاں گھر والوں کو جا کر دے آؤ پھر فرمایا: یہ لوگ میرے اہل بیت ہیں مجھے یہ ناپسند ہے کہ یہ اپنے مزے دنیا ہی میں لوٹ لیں، اے ثوبان! فاطمہ کے لیے مونگوں والا ایک ہار اور ہاتھی دانت کے دو کنگن خرید کر لے آؤ ۔",
+          "fr": "Rapporté par Thawban رضي الله عنه : Quand le Messager d’Allah ﷺ partait en voyage, la dernière personne de sa famille qu’il voyait était Fatimah, et la première qu’il visitait à son retour était aussi Fatimah. Une fois, à son retour d’une expédition, elle avait accroché un tissu ou un rideau à sa porte et avait mis des bracelets en argent à al-Hasan et al-Husayn. Quand il est arrivé, il n’est pas entré. Pensant que c’était à cause de ce qu’il avait vu, elle a retiré le rideau, enlevé les bracelets des garçons et les a coupés. Ils sont allés en pleurant auprès du Messager d’Allah ﷺ, et quand il les a pris, il a dit : « Emmenez cela à la famille de untel. Thawban, à Médine, voici ma famille, et je n’aime pas qu’ils profitent de leurs biens dans cette vie. Achète à Fatimah un collier ou un asb, Thawban, et deux bracelets en ivoire. »",
+          "id": "Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Abdul Warits bin Sa'id] dari [Muhammad bin Juhadah] dari [Humaid Asy Syami] dari [Sulaiman Al Munabbihi] dari [Tsauban] mantan budak (yang telah dimerdekakan oleh) Rasulullah shallallahu 'alaihi wasallam, ia berkata, \"Jika Rasulullah shallallahu 'alaihi wasallam melakukan safar, maka orang yang paling akhir beliau beri nasihat dari keluarganya adalah Fatimah, dan orang yang pertama kali beliau temui saat datang adalah Fatimah. Satu kali beliau tiba dari peperangan yang dilakukannya, sementara Fatimah telah memasang satir di pintunya dan memasang perhiasan gelang perak pada hasan dan husain. Beliau datang namun tidak masuk, hal itu menjadikan Fatimah berperasangka bahwa tidak masuknya Rasulullah adalah karena apa yang beliau lihat dari yang ia lakukan. Lalu ia menyobek tirai dan melepas dua gelang yang ada pada kedua anaknya. Setelah itu ia membawa kedua anaknya yang masih menangis untuk menemui Rasulullah shallallahu 'alaihi wasallam. Beliau lantas meraih gelang tersebut dari keduanya dan bersabda: \"Wahai Tsauban, pergilah dengan membawa ini (gelang) ke keluarga fulan -ahlu bait di Madinah-, mereka (keluarga Fathimah) adalah ahli baitku, aku tidak ingin mereka makan dengan enak dalam kehidupan mereka di dunia. Wahai Tsauban, belikanlah Fatimah kalung dari ashab (sejenis tumbuhan) dan dua gelang dari gading",
+          "tr": "Rasûlullah (s.a.v.)'in azatlısı Sevban (r.a)'dan şöyle rivayet edilmiştir: Rasûlullah (s.a.v.) bir yolculuğa çıktığında ailesinden son veda ettiği ve döndüğünde de yanına ilk girdiği insan Fâtıma (r.a) idi. Rasûlullah (s.a.v.) bir gazvesinden döndü. Hz. Fâtıma (r.a) kapısının üzerine çul -veya perde- asmış, Hüseyin ve Hasen'e gümüşten iki bilezik takmıştı. Rasûlullah (bu sefer) Hz. Fâtıma'nın yanına girmedi. Hz. Fâtıma, Rasûlullah'in gördüklerinden dolayı girmediğini zannetti ve çul'u (yada perdeyi) yırttı, çocuklardan bilezikleri çıkarıp her birini ikisi arasında paylaştırdı. Bunun üzerine Hasen ve Hüseyin ağlayarak Rasûlullah (s.a.v.)'e geldiler. Rasûlullah bileziği onların elinden aldı (ve Sevban'a verib) \"Ya Sevbân, şunu Medine'deki falan aileye götür, Şüphesiz bunlar (Hasen, Hüseyin ve Ebeveyinleri, benim ailemdir. Onların güzel nimetlerini, dünya hayatlarında yemelerini uygun bulmuyorum. Yâ Sevban, Fâtıma için aşık kemiği (veya deniz aygırı dişinden) bir gerdanlık ve fil dişinden (yada deniz kaplumbağası) iki bilezik satın al\" buyurdu"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 35,
+        "hadith": 55
+      },
+      "narrator": {
+        "en": "Thawban"
+      }
+    }
+  ],
+  "metadata": {
+    "averageLength": "medium",
+    "size": "41KB"
+  }
+}

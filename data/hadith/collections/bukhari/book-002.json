@@ -1,0 +1,1294 @@
+{
+  "collection": "bukhari",
+  "book": 2,
+  "name": {
+    "arabic": "الإيمان",
+    "transliteration": "iman",
+    "translation": "Belief"
+  },
+  "totalHadith": 51,
+  "hadithNumberRange": {
+    "first": 8,
+    "last": 58
+  },
+  "content": [
+    {
+      "hadithNumber": 8,
+      "arabicNumber": 8,
+      "book": 2,
+      "hadithInBook": 1,
+      "text": {
+        "arabic": "حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مُوسَى، قَالَ أَخْبَرَنَا حَنْظَلَةُ بْنُ أَبِي سُفْيَانَ، عَنْ عِكْرِمَةَ بْنِ خَالِدٍ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ بُنِيَ الإِسْلاَمُ عَلَى خَمْسٍ شَهَادَةِ أَنْ لاَ إِلَهَ إِلاَّ اللَّهُ وَأَنَّ مُحَمَّدًا رَسُولُ اللَّهِ، وَإِقَامِ الصَّلاَةِ، وَإِيتَاءِ الزَّكَاةِ، وَالْحَجِّ، وَصَوْمِ رَمَضَانَ ‏\"‏‏.‏",
+        "translations": {
+          "en": "Narrated Ibn 'Umar: Allah's Messenger (ﷺ) said: Islam is based on (the following) five (principles): 1. To testify that none has the right to be worshipped but Allah and Muhammad is Allah's Messenger (ﷺ). 2. To offer the (compulsory congregational) prayers dutifully and perfectly. 3. To pay Zakat (i.e. obligatory charity) . 4. To perform Hajj. (i.e. Pilgrimage to Mecca) 5. To observe fast during the month of Ramadan",
+          "ur": "ہم سے عبیداللہ بن موسیٰ نے یہ حدیث بیان کی۔ انہوں نے کہا کہ ہمیں اس کی بابت حنظلہ بن ابی سفیان نے خبر دی۔ انہوں نے عکرمہ بن خالد سے روایت کی انہوں نے عبداللہ بن عمر رضی اللہ عنہما سے روایت کی کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا اسلام کی بنیاد پانچ چیزوں پر قائم کی گئی ہے۔ اول گواہی دینا کہ اللہ کے سوا کوئی معبود نہیں اور بیشک محمد صلی اللہ علیہ وسلم اللہ کے سچے رسول ہیں اور نماز قائم کرنا اور زکوٰۃ ادا کرنا اور حج کرنا اور رمضان کے روزے رکھنا۔",
+          "fr": "Rapporté par Ibn 'Umar : Le Messager d'Allah (ﷺ) a dit : L'islam repose sur cinq principes : 1. Attester qu'il n'y a de dieu qu'Allah et que Muhammad est le Messager d'Allah (ﷺ). 2. Accomplir les prières obligatoires avec sérieux et régularité. 3. Donner la Zakat (l'aumône obligatoire). 4. Faire le Hajj (le pèlerinage à La Mecque). 5. Jeûner pendant le mois de Ramadan",
+          "id": "Telah menceritakan kepada kami [Abdullah bin Musa] dia berkata, telah mengabarkan kepada kami [Hanzhalah bin Abu Sufyan] dari ['Ikrimah bin Khalid] dari [Ibnu Umar] berkata: Rasulullah shallallahu 'alaihi wasallam bersabda: \"Islam dibangun diatas lima (landasan); persaksian tidak ada ilah selain Allah dan sesungguhnya Muhammad utusan Allah, mendirikan shalat, menunaikan zakat, haji dan puasa Ramadlan",
+          "tr": "İbn-i Ömer r.a.’den Resulullah sallallahu aleyhi ve sellem buyurdu ki: İslam beş şey üzerine bina olunmuştur: Allah`dan başka ilâh olmadığına ve Muhammed`in (sallallahu aleyhi ve sellem)'in Allâh`ın Resulü olduğuna Şahadet etmek, Namaz kılmak, Zekat vermek, Haccetmek, Ramazan orucunu tutmaktır. Tekrarı: 4515 (Diğer Tahric edenler: Müslim, İman; Tirmizî, İman)"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 2,
+        "hadith": 1
+      },
+      "narrator": {
+        "en": "Ibn 'Umar"
+      }
+    },
+    {
+      "hadithNumber": 9,
+      "arabicNumber": 9,
+      "book": 2,
+      "hadithInBook": 2,
+      "text": {
+        "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ، قَالَ حَدَّثَنَا أَبُو عَامِرٍ الْعَقَدِيُّ، قَالَ حَدَّثَنَا سُلَيْمَانُ بْنُ بِلاَلٍ، عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ الإِيمَانُ بِضْعٌ وَسِتُّونَ شُعْبَةً، وَالْحَيَاءُ شُعْبَةٌ مِنَ الإِيمَانِ ‏\"‏‏.‏",
+        "translations": {
+          "en": "Narrated Abu Huraira: The Prophet (ﷺ) said, \"Faith (Belief) consists of more than sixty branches (i.e. parts). And Haya (This term \"Haya\" covers a large number of concepts which are to be taken together; amongst them are self respect, modesty, bashfulness, and scruple, etc.) is a part of faith",
+          "ur": "ہم سے بیان کیا عبداللہ بن محمد جعفی نے، انہوں نے کہا ہم سے بیان کیا ابوعامر عقدی نے، انہوں نے کہا ہم سے بیان کیا سلیمان بن بلال نے، انہوں نے عبداللہ بن دینار سے، انہوں نے روایت کیا ابوصالح سے، انہوں نے نقل کیا ابوہریرہ رضی اللہ عنہ سے، انہوں نے نقل فرمایا جناب نبی کریم صلی اللہ علیہ وسلم سے آپ صلی اللہ علیہ وسلم نے فرمایا کہ ایمان کی ساٹھ سے کچھ اوپر شاخیں ہیں۔ اور حیاء ( شرم ) بھی ایمان کی ایک شاخ ہے۔",
+          "fr": "Rapporté par Abu Huraira : Le Prophète (ﷺ) a dit : La foi comporte plus de soixante branches. Et la pudeur (Haya), qui regroupe plusieurs notions comme le respect de soi, la modestie, la retenue et la conscience, fait partie de la foi",
+          "id": "Telah menceritakan kepada kami [Abdullah bin Muhammad Al Ju'fi] dia berkata, Telah menceritakan kepada kami [Abu 'Amir Al 'Aqadi] yang berkata, bahwa Telah menceritakan kepada kami [Sulaiman bin Bilal] dari [Abdullah bin Dinar] dari [Abu Shalih] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: \"Iman memiliki lebih dari enam puluh cabang, dan malu adalah bagian dari iman",
+          "tr": "Ebu Hureyre r.a. şöyle demiştir: Nebiyy-i Muhterem sallallahu aleyhi ve sellem buyurdu ki: İman altmış bu kadar şu`bedir. Haya da iman’ın bir şu`besidir"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 2,
+        "hadith": 2
+      },
+      "narrator": {
+        "en": "Abu Huraira"
+      }
+    },
+    {
+      "hadithNumber": 10,
+      "arabicNumber": 10,
+      "book": 2,
+      "hadithInBook": 3,
+      "text": {
+        "arabic": "حَدَّثَنَا آدَمُ بْنُ أَبِي إِيَاسٍ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ عَبْدِ اللَّهِ بْنِ أَبِي السَّفَرِ، وَإِسْمَاعِيلَ، عَنِ الشَّعْبِيِّ، عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو ـ رضى الله عنهما ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ الْمُسْلِمُ مَنْ سَلِمَ الْمُسْلِمُونَ مِنْ لِسَانِهِ وَيَدِهِ، وَالْمُهَاجِرُ مَنْ هَجَرَ مَا نَهَى اللَّهُ عَنْهُ ‏\"‏‏.‏ قَالَ أَبُو عَبْدِ اللَّهِ وَقَالَ أَبُو مُعَاوِيَةَ حَدَّثَنَا دَاوُدُ عَنْ عَامِرٍ قَالَ سَمِعْتُ عَبْدَ اللَّهِ عَنِ النَّبِيِّ صلى الله عليه وسلم‏.‏ وَقَالَ عَبْدُ الأَعْلَى عَنْ دَاوُدَ عَنْ عَامِرٍ عَنْ عَبْدِ اللَّهِ عَنِ النَّبِيِّ صلى الله عليه وسلم‏.‏",
+        "translations": {
+          "en": "Narrated 'Abdullah bin 'Amr: The Prophet (ﷺ) said, \"A Muslim is the one who avoids harming Muslims with his tongue and hands. And a Muhajir (emigrant) is the one who gives up (abandons) all what Allah has forbidden",
+          "ur": "ہم سے آدم بن ابی ایاس نے یہ حدیث بیان کی، ان کو شعبہ نے وہ عبداللہ بن ابی السفر اور اسماعیل سے روایت کرتے ہیں، وہ دونوں شعبی سے نقل کرتے ہیں، انہوں نے عبداللہ بن عمرو بن عاص رضی اللہ عنہما سے، وہ نبی کریم صلی اللہ علیہ وسلم سے روایت کرتے ہیں کہ آپ صلی اللہ علیہ وسلم نے فرمایا مسلمان وہ ہے جس کی زبان اور ہاتھ سے مسلمان بچے رہیں اور مہاجر وہ ہے جو ان کاموں کو چھوڑ دے جن سے اللہ نے منع فرمایا۔ ابوعبداللہ ( امام بخاری رحمہ اللہ ) نے فرمایا اور ابومعاویہ نے کہ ہم کو حدیث بیان کی داؤد بن ابی ہند نے، انہوں نے روایت کی عامر شعبی سے، انہوں نے کہا کہ میں نے سنا عبداللہ بن عمرو بن عاص سے، وہ حدیث بیان کرتے ہیں جناب نبی کریم صلی اللہ علیہ وسلم سے ( وہی مذکورہ حدیث ) اور کہا کہ عبدالاعلیٰ نے روایت کیا داؤد سے، انہوں نے عامر سے، انہوں نے عبداللہ بن عمرو بن عاص سے، انہوں نے نبی کریم صلی اللہ علیہ وسلم سے۔",
+          "fr": "Rapporté par 'Abdullah bin 'Amr : Le Prophète (ﷺ) a dit : Un musulman est celui qui ne fait de mal à aucun autre musulman, ni par ses paroles ni par ses actes. Et un Muhajir (émigrant) est celui qui abandonne tout ce qu'Allah a interdit",
+          "id": "Telah menceritakan kepada kami [Adam bin Abu Iyas] berkata, Telah menceritakan kepada kami [Syu'bah] dari [Abdullah bin Abu As Safar] dan [Isma'il bin Abu Khalid] dari [Asy Sya'bi] dari [Abdullah bin 'Amru] dari Nabi shallallahu 'alaihi wasallam, bersabda: \"Seorang muslim adalah orang yang Kaum Muslimin selamat dari lisan dan tangannya, dan seorang Muhajir adalah orang yang meninggalkan apa yang dilarang oleh Allah \" Abu Abdullah berkata; dan [Abu Mu'awiyyah] berkata; Telah menceritakan kepada kami [Daud], dia adalah anak Ibnu Hind, dari ['Amir] berkata; aku mendengar [Abdullah], maksudnya ibnu 'Amru, dari Nabi shallallahu 'alaihi wasallam Dan berkata [Abdul A'laa] dari [Daud] dari ['Amir] dari [Abdullah] dari Nabi shallallahu 'alaihi wasallam",
+          "tr": "Abdullah bin Amr bin As r.a. Nebiyy-i Muhterem sallallahu aleyhi ve sellem buyurdu ki: Müslüman, dilinden, elinden müslümanlar selamette kalan kimsedir. Muhacir de Allâh`ın nehyettiğini terkedendir. Tekrarı:"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 2,
+        "hadith": 3
+      },
+      "narrator": {
+        "en": "'Abdullah bin 'Amr"
+      }
+    },
+    {
+      "hadithNumber": 11,
+      "arabicNumber": 11,
+      "book": 2,
+      "hadithInBook": 4,
+      "text": {
+        "arabic": "حَدَّثَنَا سَعِيدُ بْنُ يَحْيَى بْنِ سَعِيدٍ الْقُرَشِيِّ، قَالَ حَدَّثَنَا أَبِي قَالَ، حَدَّثَنَا أَبُو بُرْدَةَ بْنُ عَبْدِ اللَّهِ بْنِ أَبِي بُرْدَةَ، عَنْ أَبِي بُرْدَةَ، عَنْ أَبِي مُوسَى ـ رضى الله عنه ـ قَالَ قَالُوا يَا رَسُولَ اللَّهِ أَىُّ الإِسْلاَمِ أَفْضَلُ قَالَ ‏ \"‏ مَنْ سَلِمَ الْمُسْلِمُونَ مِنْ لِسَانِهِ وَيَدِهِ ‏\"‏‏.‏",
+        "translations": {
+          "en": "Narrated Abu Musa: Some people asked Allah's Messenger (ﷺ), \"Whose Islam is the best? i.e. (Who is a very good Muslim)?\" He replied, \"One who avoids harming the Muslims with his tongue and hands",
+          "ur": "ہم کو سعید بن یحییٰ بن سعید اموی قریشی نے یہ حدیث سنائی، انہوں نے اس حدیث کو اپنے والد سے نقل کیا، انہوں نے ابوبردہ بن عبداللہ بن ابی بردہ سے، انہوں نے ابی بردہ سے، انہوں نے ابوموسیٰ رضی اللہ عنہ سے، وہ کہتے ہیں کہ لوگوں نے پوچھا یا رسول اللہ! کون سا اسلام افضل ہے؟ تو نبی کریم صلی اللہ علیہ وسلم نے فرمایا وہ جس کے ماننے والے مسلمانوں کی زبان اور ہاتھ سے سارے مسلمان سلامتی میں رہیں۔",
+          "fr": "Rapporté par Abu Musa : Des gens ont demandé au Messager d'Allah (ﷺ) : De qui l'islam est-il le meilleur ? (C'est-à-dire : Qui est un très bon musulman ?) Il a répondu : Celui qui ne fait de mal à aucun musulman, ni par ses paroles ni par ses actes",
+          "id": "Telah menceritakan kepada kami [Sa'id bin Yahya bin Sa'id Al Qurasyi] dia berkata, Telah menceritakan kepada kami [bapakku] berkata, bahwa Telah menceritakan kepada kami [Abu Burdah bin Abdullah bin Abu Burdah] dari [Abu Burdah] dari [Abu Musa] berkata: 'Wahai Rasulullah, Islam manakah yang paling utama?\" Rasulullah shallallahu 'alaihi wasallam menjawab: \"Siapa yang Kaum Muslimin selamat dari lisan dan tangannya",
+          "tr": "Ebu Musa el-Eş’ari r.a. şöyle demiştir: \"Ya Resulallah, müslümanlar’ın hangisi faziletlidir?\" diye sordular \"Müslümanlar; dilinden elinden selamette kalandır.\" cevabını verdiler"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 2,
+        "hadith": 4
+      },
+      "narrator": {
+        "en": "Abu Musa"
+      }
+    },
+    {
+      "hadithNumber": 12,
+      "arabicNumber": 12,
+      "book": 2,
+      "hadithInBook": 5,
+      "text": {
+        "arabic": "حَدَّثَنَا عَمْرُو بْنُ خَالِدٍ، قَالَ حَدَّثَنَا اللَّيْثُ، عَنْ يَزِيدَ، عَنْ أَبِي الْخَيْرِ، عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو ـ رضى الله عنهما ـ أَنَّ رَجُلاً، سَأَلَ النَّبِيَّ صلى الله عليه وسلم أَىُّ الإِسْلاَمِ خَيْرٌ قَالَ ‏ \"‏ تُطْعِمُ الطَّعَامَ، وَتَقْرَأُ السَّلاَمَ عَلَى مَنْ عَرَفْتَ وَمَنْ لَمْ تَعْرِفْ ‏\"‏‏.‏",
+        "translations": {
+          "en": "Narrated 'Abdullah bin 'Amr: A man asked the Prophet (ﷺ) , \"What sort of deeds or (what qualities of) Islam are good?\" The Prophet (ﷺ) replied, 'To feed (the poor) and greet those whom you know and those whom you do not Know (See Hadith No)",
+          "ur": "ہم سے حدیث بیان کی عمرو بن خالد نے، ان کو لیث نے، وہ روایت کرتے ہیں یزید سے، وہ ابوالخیر سے، وہ عبداللہ بن عمرو بن عاص رضی اللہ عنہما سے کہ ایک دن ایک آدمی نے نبی کریم صلی اللہ علیہ وسلم سے پوچھا کہ کون سا اسلام بہتر ہے؟ فرمایا کہ تم کھانا کھلاؤ، اور جس کو پہچانو اس کو بھی اور جس کو نہ پہچانو اس کو بھی، الغرض سب کو سلام کرو۔",
+          "fr": "Rapporté par 'Abdullah bin 'Amr : Un homme a demandé au Prophète (ﷺ) : Quelles actions ou qualités de l'islam sont les meilleures ? Le Prophète (ﷺ) a répondu : Donner à manger (aux pauvres) et saluer ceux que tu connais comme ceux que tu ne connais pas",
+          "id": "Telah menceritakan kepada kami ['Amru bin Khalid] berkata, Telah menceritakan kepada kami [Al Laits] dari [Yazid] dari [Abu Al Khair] dari [Abdullah bin 'Amru]; Ada seseorang yang bertanya kepada Nabi shallallahu 'alaihi wasallam; \"Islam manakah yang paling baik?\" Nabi shallallahu 'alaihi wasallam menjawab: \"Kamu memberi makan, mengucapkan salam kepada orang yang kamu kenal dan yang tidak kamu kenal",
+          "tr": "Abdullah b. Amr'dan radiyallahu anh'dan rivayet edildiğine göre bir adam Nebi (sallallahu aleyhi ve sellem)'e : \"İslâm'ın hangi ameli daha faziletlidir?\" diye sordu.Nebi sallallahu aleyhi ve sellem şöyle cevap verdi: \"Yemek yedirmen, tanıdığın ve tanımadığın herkese selâm vermendir. Tekrarı:"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 2,
+        "hadith": 5
+      },
+      "narrator": {
+        "en": "'Abdullah bin 'Amr"
+      }
+    },
+    {
+      "hadithNumber": 13,
+      "arabicNumber": 13,
+      "book": 2,
+      "hadithInBook": 6,
+      "text": {
+        "arabic": "حَدَّثَنَا مُسَدَّدٌ، قَالَ حَدَّثَنَا يَحْيَى، عَنْ شُعْبَةَ، عَنْ قَتَادَةَ، عَنْ أَنَسٍ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم‏.‏ وَعَنْ حُسَيْنٍ الْمُعَلِّمِ، قَالَ حَدَّثَنَا قَتَادَةُ، عَنْ أَنَسٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ لا يُؤْمِنُ أَحَدُكُمْ حَتَّى يُحِبَّ لأَخِيهِ مَا يُحِبُّ لِنَفْسِهِ ‏\"‏‏.‏",
+        "translations": {
+          "en": "Narrated Anas: The Prophet (ﷺ) said, \"None of you will have faith till he wishes for his (Muslim) brother what he likes for himself",
+          "ur": "ہم سے حدیث بیان کی مسدد نے، ان کو یحییٰ نے، انہوں نے شعبہ سے نقل کیا، انہوں نے قتادہ سے، انہوں نے انس رضی اللہ عنہ خادم رسول اللہ صلی اللہ علیہ وسلم سے، انہوں نے نبی کریم صلی اللہ علیہ وسلم سے روایت کیا۔ اور شعبہ نے حسین معلم سے بھی روایت کیا، انہوں نے قتادہ سے، انہوں نے انس رضی اللہ عنہ سے، انہوں نے نبی کریم صلی اللہ علیہ وسلم سے نقل فرمایا کہ نبی کریم صلی اللہ علیہ وسلم نے فرمایا تم میں سے کوئی شخص ایماندار نہ ہو گا جب تک اپنے بھائی کے لیے وہ نہ چاہے جو اپنے نفس کے لیے چاہتا ہے۔",
+          "fr": "Rapporté par Anas : Le Prophète (ﷺ) a dit : Aucun de vous n'aura vraiment la foi tant qu'il n'aimera pas pour son frère (musulman) ce qu'il aime pour lui-même",
+          "id": "Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Yahya] dari [Syu'bah] dari [Qotadah] dari [Anas] dari Nabi shallallahu 'alaihi wasallam Dan dari [Husain Al Mu'alim] berkata, telah menceritakan kepada kami [Qotadah] dari [Anas] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: \"Tidaklah beriman seseorang dari kalian sehingga dia mencintai untuk saudaranya sebagaimana dia mencintai untuk dirinya sendiri",
+          "tr": "Enes'ten rivayet edilmiştir: Nebi (Sallallahu aleyhi ve Sellem) şöyle buyurmuştur: Hiçbiriniz kendisi için sevdiğini (istediğini) (Müslüman) kardeşi için de sevmedikçe iman etmiş olamaz"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 2,
+        "hadith": 6
+      },
+      "narrator": {
+        "en": "Anas"
+      }
+    },
+    {
+      "hadithNumber": 14,
+      "arabicNumber": 14,
+      "book": 2,
+      "hadithInBook": 7,
+      "text": {
+        "arabic": "حَدَّثَنَا أَبُو الْيَمَانِ، قَالَ أَخْبَرَنَا شُعَيْبٌ، قَالَ حَدَّثَنَا أَبُو الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ فَوَالَّذِي نَفْسِي بِيَدِهِ لاَ يُؤْمِنُ أَحَدُكُمْ حَتَّى أَكُونَ أَحَبَّ إِلَيْهِ مِنْ وَالِدِهِ وَوَلَدِهِ ‏\"‏‏.‏",
+        "translations": {
+          "en": "Narrated Abu Huraira: \"Allah's Messenger (ﷺ) said, \"By Him in Whose Hands my life is, none of you will have faith till he loves me more than his father and his children",
+          "ur": "ہم سے ابوالیمان نے حدیث بیان کی، ان کو شعیب نے، ان کو ابولزناد نے اعرج سے، انہوں نے ابوہریرہ رضی اللہ عنہ سے نقل کی کہ بیشک رسول اللہ صلی اللہ علیہ وسلم نے فرمایا، قسم ہے اس ذات کی جس کے ہاتھ میں میری جان ہے۔ تم میں سے کوئی بھی ایماندار نہ ہو گا جب تک میں اس کے والد اور اولاد سے بھی زیادہ اس کا محبوب نہ بن جاؤں۔",
+          "fr": "Rapporté par Abu Huraira : Le Messager d'Allah (ﷺ) a dit : Par Celui qui détient ma vie entre Ses mains, aucun de vous n'aura la foi tant qu'il ne m'aimera pas plus que son père et ses enfants",
+          "id": "Telah menceritakan kepada kami [Abu Al Yaman] berkata, telah mengabarkan kepada kami [Syu'aib] berkata, telah menceritakan kepada kami [Abu Az Zanad] dari [Al A'raj] dari [Abu Hurairah], bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: \"Maka demi Zat yang jiwaku di tangan-Nya, tidaklah beriman seorang dari kalian hingga aku lebih dicintainya daripada orang tuanya dan anaknya",
+          "tr": "Ebu Hureyre'den rivayet edilmiştir: Allah Resulü (Sallallahu aleyhi ve Sellem) şöyle buyurdu: \"Canımı elinde tutan Allah'a yemin ederim ki, hiçbiriniz beni ana-babasından ve çoluk çocuğundan daha çok sevmedikçe iman etmiş olmaz"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 2,
+        "hadith": 7
+      },
+      "narrator": {
+        "en": "Abu Huraira"
+      }
+    },
+    {
+      "hadithNumber": 15,
+      "arabicNumber": 15,
+      "book": 2,
+      "hadithInBook": 8,
+      "text": {
+        "arabic": "حَدَّثَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا ابْنُ عُلَيَّةَ، عَنْ عَبْدِ الْعَزِيزِ بْنِ صُهَيْبٍ، عَنْ أَنَسٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم ح وَحَدَّثَنَا آدَمُ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ قَتَادَةَ، عَنْ أَنَسٍ، قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏ \"‏ لاَ يُؤْمِنُ أَحَدُكُمْ حَتَّى أَكُونَ أَحَبَّ إِلَيْهِ مِنْ وَالِدِهِ وَوَلَدِهِ وَالنَّاسِ أَجْمَعِينَ ‏\"‏‏.‏",
+        "translations": {
+          "en": "Narrated Anas: The Prophet (ﷺ) said \"None of you will have faith till he loves me more than his father, his children and all mankind",
+          "ur": "ہمیں حدیث بیان کی یعقوب بن ابراہیم نے، ان کو ابن علیہ نے، وہ عبدالعزیز بن صہیب سے روایت کرتے ہیں، وہ انس رضی اللہ عنہ سے وہ نبی کریم صلی اللہ علیہ وسلم سے نقل کرتے ہیں اور ہم کو آدم بن ابی ایاس نے حدیث بیان کی، ان کو شعبہ نے، وہ قتادہ سے نقل کرتے ہیں، وہ انس رضی اللہ عنہ سے کہ نبی کریم صلی اللہ علیہ وسلم نے فرمایا تم میں سے کوئی شخص ایماندار نہ ہو گا جب تک اس کے والد اور اس کی اولاد اور تمام لوگوں سے زیادہ اس کے دل میں میری محبت نہ ہو جائے۔",
+          "fr": "Rapporté par Anas : Le Prophète (ﷺ) a dit : Aucun de vous n'aura la foi tant qu'il ne m'aimera pas plus que son père, ses enfants et toute l'humanité",
+          "id": "Telah menceritakan kepada kami [Ya'qub bin Ibrahim] berkata, telah menceritakan kepada kami [Ibnu 'Ulayyah] dari [Abdul 'Aziz bin Shuhaib] dari [Anas] dari Nabi shallallahu 'alaihi wasallam Dan telah menceritakan pula kepada kami [Adam] berkata, telah menceritakan kepada kami [Syu'bah] dari [Qotadah] dari [Anas] berkata, Nabi shallallahu 'alaihi wasallam bersabda: \"Tidaklah beriman seorang dari kalian hingga aku lebih dicintainya daripada orang tuanya, anaknya dan dari manusia seluruhnya",
+          "tr": "Enes r.a.'den rivayet edilmiştir: Nebi (Sallallahu aleyhi ve Sellem) şöyle buyurmuştur: \"Hiçbiriniz, beni kendi canından, ana-babasından, çoluk-çocuğun-dan ve bütün insanlardan daha çok sevmedikçe iman etmiş olmaz"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 2,
+        "hadith": 8
+      },
+      "narrator": {
+        "en": "Anas"
+      }
+    },
+    {
+      "hadithNumber": 16,
+      "arabicNumber": 16,
+      "book": 2,
+      "hadithInBook": 9,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، قَالَ حَدَّثَنَا عَبْدُ الْوَهَّابِ الثَّقَفِيُّ، قَالَ حَدَّثَنَا أَيُّوبُ، عَنْ أَبِي قِلاَبَةَ، عَنْ أَنَسٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ ثَلاَثٌ مَنْ كُنَّ فِيهِ وَجَدَ حَلاَوَةَ الإِيمَانِ أَنْ يَكُونَ اللَّهُ وَرَسُولُهُ أَحَبَّ إِلَيْهِ مِمَّا سِوَاهُمَا، وَأَنْ يُحِبَّ الْمَرْءَ لاَ يُحِبُّهُ إِلاَّ لِلَّهِ، وَأَنْ يَكْرَهَ أَنْ يَعُودَ فِي الْكُفْرِ كَمَا يَكْرَهُ أَنْ يُقْذَفَ فِي النَّارِ ‏\"‏‏.‏",
+        "translations": {
+          "en": "Narrated Anas: The Prophet (ﷺ) said, \"Whoever possesses the following three qualities will have the sweetness (delight) of faith: 1. The one to whom Allah and His Apostle become dearer than anything else. 2. Who loves a person and he loves him only for Allah's sake. 3. Who hates to revert to Atheism (disbelief) as he hates to be thrown into the fire",
+          "ur": "ہمیں محمد بن مثنیٰ نے یہ حدیث بیان کی، ان کو عبدالوہاب ثقفی نے، ان کو ایوب نے، وہ ابوقلابہ سے روایت کرتے ہیں، وہ انس رضی اللہ عنہ سے ناقل ہیں وہ نبی کریم صلی اللہ علیہ وسلم سے آپ صلی اللہ علیہ وسلم نے فرمایا تین خصلتیں ایسی ہیں کہ جس میں یہ پیدا ہو جائیں اس نے ایمان کی مٹھاس کو پا لیا۔ اول یہ کہ اللہ اور اس کا رسول اس کے نزدیک سب سے زیادہ محبوب بن جائیں، دوسرے یہ کہ وہ کسی انسان سے محض اللہ کی رضا کے لیے محبت رکھے۔ تیسرے یہ کہ وہ کفر میں واپس لوٹنے کو ایسا برا جانے جیسا کہ آگ میں ڈالے جانے کو برا جانتا ہے۔",
+          "fr": "Rapporté par Anas : Le Prophète (ﷺ) a dit : Celui qui possède ces trois qualités goûtera à la douceur de la foi : 1. Celui pour qui Allah et Son Messager sont plus chers que tout le reste. 2. Celui qui aime une personne uniquement pour Allah. 3. Celui qui déteste retourner à l'incroyance autant qu'il déteste être jeté dans le feu",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] berkata, telah menceritakan kepada kami [Abdul Wahhab Ats Tsaqafi] berkata, telah menceritakan kepada kami [Ayyub] dari [Abu Qilabah] dari [Anas bin Malik] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: \"Tiga perkara yang apabila ada pada diri seseorang, ia akan mendapatkan manisnya iman: Dijadikannya Allah dan Rasul-Nya lebih dicintainya dari selain keduanya. Jika ia mencintai seseorang, dia tidak mencintainya kecuali karena Allah. Dan dia benci kembali kepada kekufuran seperti dia benci bila dilempar ke neraka",
+          "tr": "Enes r.a. şöyle demiştir: Nebiyy-i Mükerrem sallallahu aleyhi ve sellem buyurdu ki: Kimde üç şey bulunursa halavet-i îmanı tatmış olur. Allah ile Resulullah kendisine başkalarından daha sevgili olmak; bir kimseyi sevmek, fakat yalnız Allah için sevmek; (Allah, onu küfür’den kurtardıktan sonra) yine küfre dönmekten ateşe atılacakmışcasına hoşlanmamak. Tekrar: 21, 6041, 6941 Bu hadis farklı sened ile Enes r.a.’den bemzer metin ile 20 noda sayfanın altında 14. bab olarak geçmektedir Diğer tahric: Müslim, Tirmizi İman"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 2,
+        "hadith": 9
+      },
+      "narrator": {
+        "en": "Anas"
+      }
+    },
+    {
+      "hadithNumber": 17,
+      "arabicNumber": 17,
+      "book": 2,
+      "hadithInBook": 10,
+      "text": {
+        "arabic": "حَدَّثَنَا أَبُو الْوَلِيدِ، قَالَ حَدَّثَنَا شُعْبَةُ، قَالَ أَخْبَرَنِي عَبْدُ اللَّهِ بْنُ عَبْدِ اللَّهِ بْنِ جَبْرٍ، قَالَ سَمِعْتُ أَنَسًا، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ آيَةُ الإِيمَانِ حُبُّ الأَنْصَارِ، وَآيَةُ النِّفَاقِ بُغْضُ الأَنْصَارِ ‏\"‏‏.‏",
+        "translations": {
+          "en": "Narrated Anas: The Prophet (ﷺ) said, \"Love for the Ansar is a sign of faith and hatred for the Ansar is a sign of hypocrisy",
+          "ur": "ہم سے اس حدیث کو ابوالولید نے بیان کیا، ان سے شعبہ نے، انہیں عبداللہ بن جبیر نے خبر دی، وہ کہتے ہیں کہ ہم نے انس بن مالک رضی اللہ عنہ سے اس کو سنا، وہ رسول اللہ صلی اللہ علیہ وسلم سے روایت کرتے ہیں کہ آپ صلی اللہ علیہ وسلم نے فرمایا انصار سے محبت رکھنا ایمان کی نشانی ہے اور انصار سے کینہ رکھنا نفاق کی نشانی ہے۔",
+          "fr": "Rapporté par Anas : Le Prophète (ﷺ) a dit : Aimer les Ansar est un signe de foi et les détester est un signe d'hypocrisie",
+          "id": "Telah menceritakan kepada kami [Abu Al Walid] berkata, telah menceritakan kepada kami [Syu'bah] telah mengabarkan kepadaku [Abdullah bin Abdullah bin Jabar], berkata; aku mendengar [Anas] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: \"Tanda iman adalah mencintai (kaum) Anshar dan tanda nifaq adalah membenci (kaum) Anshar",
+          "tr": "Enes r.a. şöyle demiştir: Nebiyyi Mükerrem sallallahu aleyhi ve sellem buyurdu ki: İmanın alâmeti ensarı sevmektir, nifakın (münafıklığın) alâmeti ise ensara buğzetmektir. Tekrar:"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 2,
+        "hadith": 10
+      },
+      "narrator": {
+        "en": "Anas"
+      }
+    },
+    {
+      "hadithNumber": 18,
+      "arabicNumber": 18,
+      "book": 2,
+      "hadithInBook": 11,
+      "text": {
+        "arabic": "حَدَّثَنَا أَبُو الْيَمَانِ، قَالَ أَخْبَرَنَا شُعَيْبٌ، عَنِ الزُّهْرِيِّ، قَالَ أَخْبَرَنِي أَبُو إِدْرِيسَ، عَائِذُ اللَّهِ بْنُ عَبْدِ اللَّهِ أَنَّ عُبَادَةَ بْنَ الصَّامِتِ ـ رضى الله عنه ـ وَكَانَ شَهِدَ بَدْرًا، وَهُوَ أَحَدُ النُّقَبَاءِ لَيْلَةَ الْعَقَبَةِ ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ وَحَوْلَهُ عِصَابَةٌ مِنْ أَصْحَابِهِ ‏ \"‏ بَايِعُونِي عَلَى أَنْ لاَ تُشْرِكُوا بِاللَّهِ شَيْئًا، وَلاَ تَسْرِقُوا، وَلاَ تَزْنُوا، وَلاَ تَقْتُلُوا أَوْلاَدَكُمْ، وَلاَ تَأْتُوا بِبُهْتَانٍ تَفْتَرُونَهُ بَيْنَ أَيْدِيكُمْ وَأَرْجُلِكُمْ، وَلاَ تَعْصُوا فِي مَعْرُوفٍ، فَمَنْ وَفَى مِنْكُمْ فَأَجْرُهُ عَلَى اللَّهِ، وَمَنْ أَصَابَ مِنْ ذَلِكَ شَيْئًا فَعُوقِبَ فِي الدُّنْيَا فَهُوَ كَفَّارَةٌ لَهُ، وَمَنْ أَصَابَ مِنْ ذَلِكَ شَيْئًا ثُمَّ سَتَرَهُ اللَّهُ، فَهُوَ إِلَى اللَّهِ إِنْ شَاءَ عَفَا عَنْهُ، وَإِنْ شَاءَ عَاقَبَهُ ‏\"‏‏.‏ فَبَايَعْنَاهُ عَلَى ذَلِكَ‏.‏",
+        "translations": {
+          "en": "Narrated 'Ubada bin As-Samit: who took part in the battle of Badr and was a Naqib (a person heading a group of six persons), on the night of Al-'Aqaba pledge: Allah's Apostle said while a group of his companions were around him, \"Swear allegiance to me for: 1. Not to join anything in worship along with Allah. 2. Not to steal. 3. Not to commit illegal sexual intercourse. 4. Not to kill your children. 5. Not to accuse an innocent person (to spread such an accusation among people). 6. Not to be disobedient (when ordered) to do good deed.\" The Prophet (ﷺ) added: \"Whoever among you fulfills his pledge will be rewarded by Allah. And whoever indulges in any one of them (except the ascription of partners to Allah) and gets the punishment in this world, that punishment will be an expiation for that sin. And if one indulges in any of them, and Allah conceals his sin, it is up to Him to forgive or punish him (in the Hereafter).\" 'Ubada bin As-Samit added: \"So we swore allegiance for these.\" (points to Allah's Apostle)",
+          "ur": "ہم سے اس حدیث کو ابوالیمان نے بیان کیا، ان کو شعیب نے خبر دی، وہ زہری سے نقل کرتے ہیں، انہیں ابوادریس عائذ اللہ بن عبداللہ نے خبر دی کہ عبادہ بن صامت رضی اللہ عنہ جو بدر کی لڑائی میں شریک تھے اور لیلۃالعقبہ کے ( بارہ ) نقیبوں میں سے تھے۔ فرماتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے اس وقت جب آپ کے گرد صحابہ کی ایک جماعت بیٹھی ہوئی تھی فرمایا کہ مجھ سے بیعت کرو اس بات پر کہ اللہ کے ساتھ کسی کو شریک نہ کرو گے، چوری نہ کرو گے، زنا نہ کرو گے، اپنی اولاد کو قتل نہ کرو گے اور نہ عمداً کسی پر کوئی ناحق بہتان باندھو گے اور کسی بھی اچھی بات میں ( اللہ کی ) نافرمانی نہ کرو گے۔ جو کوئی تم میں ( اس عہد کو ) پورا کرے گا تو اس کا ثواب اللہ کے ذمے ہے اور جو کوئی ان ( بری باتوں ) میں سے کسی کا ارتکاب کرے اور اسے دنیا میں ( اسلامی قانون کے تحت ) سزا دے دی گئی تو یہ سزا اس کے ( گناہوں کے ) لیے بدلا ہو جائے گی اور جو کوئی ان میں سے کسی بات میں مبتلا ہو گیا اور اللہ نے اس کے ( گناہ ) کو چھپا لیا تو پھر اس کا ( معاملہ ) اللہ کے حوالہ ہے، اگر چاہے معاف کرے اور اگر چاہے سزا دیدے۔ ( عبادہ کہتے ہیں کہ ) پھر ہم سب نے ان ( سب باتوں ) پر آپ صلی اللہ علیہ وسلم سے بیعت کر لی۔",
+          "fr": "Rapporté par 'Ubada bin As-Samit : qui a participé à la bataille de Badr et était un Naqib (chef d'un groupe de six personnes), lors de la nuit du pacte d'Al-'Aqaba : Le Messager d'Allah a dit alors qu'un groupe de ses compagnons était autour de lui : Jurez-moi fidélité pour : 1. N'associer personne à Allah dans l'adoration. 2. Ne pas voler. 3. Ne pas commettre d'adultère. 4. Ne pas tuer vos enfants. 5. Ne pas accuser injustement une personne innocente. 6. Ne pas désobéir lorsqu'on vous ordonne de faire le bien. Le Prophète (ﷺ) a ajouté : Celui d'entre vous qui respecte son engagement sera récompensé par Allah. Et celui qui commet l'une de ces fautes (sauf l'association à Allah) et reçoit une punition dans ce monde, cette punition effacera son péché. Mais si quelqu'un commet l'une de ces fautes et qu'Allah cache son péché, c'est à Lui de le pardonner ou de le punir dans l'au-delà. 'Ubada bin As-Samit a ajouté : Nous avons donc juré fidélité pour ces choses-là. (Il désigne le Messager d'Allah)",
+          "id": "Telah menceritakan kepada kami [Abu Al Yaman] berkata, telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] berkata, telah mengabarkan kepada kami [Abu Idris 'Aidzullah bin Abdullah], bahwa ['Ubadah bin Ash Shamit] adalah sahabat yang ikut perang Badar dan juga salah seorang yang ikut bersumpah pada malam Aqobah, dia berkata; bahwa Rasulullah shallallahu 'alaihi wasallam bersabda ketika berada ditengah-tengah sebagian sahabat: \"Berbai'atlah kalian kepadaku untuk tidak menyekutukan Allah dengan sesuatu apapun, tidak mencuri, tidak berzina, tidak membunuh anak-anak kalian, tidak membuat kebohongan yang kalian ada-adakan antara tangan dan kaki kalian, tidak bermaksiat dalam perkara yang ma'ruf. Barangsiapa diantara kalian yang memenuhinya maka pahalanya ada pada Allah dan barangsiapa yang melanggar dari hal tersebut lalu Allah menghukumnya di dunia maka itu adalah kafarat baginya, dan barangsiapa yang melanggar dari hal-hal tersebut kemudian Allah menutupinya (tidak menghukumnya di dunia) maka urusannya kembali kepada Allah, jika Dia mau, dimaafkannya atau disiksanya\". Maka kami membai'at Beliau untuk perkara-perkara tersebut",
+          "tr": "Ebu İdris Aizullah bin Abdullah'dan rivayet edildiğine göre, Bedir savaşına katılan ve Akabe bey'ati sırasında seçilen temsilcilerden biri olan Ubâde b. Sâmit şöyle demiştir: Allah Resulü etrafında sahabeden bir grup varken şöyle buyurdu: Allah'a hiçbir şeyi ortak koşmamak, hırsızlık yapmamak, zina et­memek, çocuklarınızı öldürmemek, el ve ayaklarınız arasından (kendiliğinizden) uyduracağınız bir yalanla bühtan etmemek, hiçbir iyi işte isyan etmemek üzere bana beyat ediniz. Kim sözünde durursa onun mükafatını vermek Allah'a aittir. Kim de bu günahlardan birini işler de dünyada iken cezalandırılırsa, bu ceza kendisi için keffaret olur. Kim bu günahlardan birini işler de, Allah onun durumunu örterse (suç işlediği insanlar arasında bu durum ortaya çıkmazsa) onun durumu Allah'a kalmıştır; dilerse ona azap eder, dilerse onu affeder\". Biz de bu şart üzere Nebi sallallahu aleyhi ve sellem'e bey'at ettik. Tekrar: 3892, 3893, 3999, 4894, 6784, 6801, 6873, 7055, 7199, 7213, 7468. Diğer tahric: Tirmizî, Hudud; Müslim, Hudud"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 2,
+        "hadith": 11
+      },
+      "narrator": {
+        "en": "'Ubada bin As-Samit"
+      }
+    },
+    {
+      "hadithNumber": 19,
+      "arabicNumber": 19,
+      "book": 2,
+      "hadithInBook": 12,
+      "text": {
+        "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، عَنْ مَالِكٍ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ عَبْدِ اللَّهِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ أَبِي صَعْصَعَةَ، عَنْ أَبِيهِ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، أَنَّهُ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ يُوشِكُ أَنْ يَكُونَ خَيْرَ مَالِ الْمُسْلِمِ غَنَمٌ يَتْبَعُ بِهَا شَعَفَ الْجِبَالِ وَمَوَاقِعَ الْقَطْرِ، يَفِرُّ بِدِينِهِ مِنَ الْفِتَنِ ‏\"‏‏.‏",
+        "translations": {
+          "en": "Narrated Abu Said Al-Khudri: Allah's Messenger (ﷺ) said, \"A time will soon come when the best property of a Muslim will be sheep which he will take on the top of mountains and the places of rainfall (valleys) so as to flee with his religion from afflictions",
+          "ur": "ہم سے (اس حدیث کو) عبداللہ بن مسلمہ نے بیان کیا، انہوں نے اسے مالک رحمہ اللہ سے نقل کیا، انہوں نے عبدالرحمٰن بن عبداللہ بن ابی صعصعہ سے، انہوں نے اپنے باپ (عبداللہ رحمہ اللہ) سے، وہ ابو سعید خدری سے نقل کرتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا وہ وقت قریب ہے جب مسلمان کا ( سب سے ) عمدہ مال ( اس کی بکریاں ہوں گی ) ۔ جن کے پیچھے وہ پہاڑوں کی چوٹیوں اور برساتی وادیوں میں اپنے دین کو بچانے کے لیے بھاگ جائے گا۔",
+          "fr": "Rapporté par Abu Said Al-Khudri : Le Messager d'Allah (ﷺ) a dit : Un temps viendra bientôt où le meilleur bien d'un musulman sera un troupeau de moutons qu'il emmènera sur les sommets des montagnes et dans les vallées où il pleut, pour fuir avec sa religion les épreuves",
+          "id": "Telah menceritakan kepada kami [Abdullah bin Maslamah] dari [Malik] dari [Abdurrahman bin Abdullah bin Abdurrahman bin Abu Sha'Sha'ah] dari [bapaknya] dari [Abu Sa'id Al Khudri] bahwa dia berkata, Rasulullah shallallahu 'alaihi wasallam bersabda: \"Hampir saja terjadi (suatu zaman) harta seorang muslim yang paling baik adalah kambing yang digembalakannya di puncak gunung dan tempat-tempat terpencil, dia pergi menghindar dengan membawa agamanya disebabkan takut terkena fitnah",
+          "tr": "Ebu Said-i Hudri r.a. şöyle demiştir: Resulullah sallallahu aleyhi ve sellem buyurdu ki: \"Müslümanın en hayırlı malının koyun olması yakındır. Dağ başlarında ve yağmur suyunun biriktiği yerlerde (vadi ortalarında) onları gezdirir de bu sayede dinini fitnelerden korumuş olur Tekrar:"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 2,
+        "hadith": 12
+      },
+      "narrator": {
+        "en": "Abu Said Al-Khudri"
+      }
+    },
+    {
+      "hadithNumber": 20,
+      "arabicNumber": 20,
+      "book": 2,
+      "hadithInBook": 13,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ سَلاَمٍ، قَالَ أَخْبَرَنَا عَبْدَةُ، عَنْ هِشَامٍ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، قَالَتْ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم إِذَا أَمَرَهُمْ أَمَرَهُمْ مِنَ الأَعْمَالِ بِمَا يُطِيقُونَ قَالُوا إِنَّا لَسْنَا كَهَيْئَتِكَ يَا رَسُولَ اللَّهِ، إِنَّ اللَّهَ قَدْ غَفَرَ لَكَ مَا تَقَدَّمَ مِنْ ذَنْبِكَ وَمَا تَأَخَّرَ‏.‏ فَيَغْضَبُ حَتَّى يُعْرَفَ الْغَضَبُ فِي وَجْهِهِ ثُمَّ يَقُولُ ‏ \"‏ إِنَّ أَتْقَاكُمْ وَأَعْلَمَكُمْ بِاللَّهِ أَنَا ‏\"‏‏.‏",
+        "translations": {
+          "en": "Narrated 'Aisha: Whenever Allah's Messenger (ﷺ) ordered the Muslims to do something, he used to order them deeds which were easy for them to do, (according to their strength and endurance). They said, \"O Allah's Messenger (ﷺ)! We are not like you. Allah has forgiven your past and future sins.\" So Allah's Apostle became angry and it was apparent on his face. He said, \"I am the most Allah fearing, and know Allah better than all of you do",
+          "ur": "یہ حدیث ہم سے محمد بن سلام نے بیان کی، وہ کہتے ہیں کہ انہیں اس کی عبدہ نے خبر دی، وہ ہشام سے نقل کرتے ہیں، ہشام عائشہ رضی اللہ عنہا سے وہ فرماتی ہیں کہ رسول اللہ صلی اللہ علیہ وسلم لوگوں کو کسی کام کا حکم دیتے تو وہ ایسا ہی کام ہوتا جس کے کرنے کی لوگوں میں طاقت ہوتی ( اس پر ) صحابہ رضی اللہ عنہم نے عرض کیا کہ یا رسول اللہ! ہم لوگ تو آپ جیسے نہیں ہیں ( آپ تو معصوم ہیں ) اور آپ کی اللہ پاک نے اگلی پچھلی سب لغزشیں معاف فرما دی ہیں۔ ( اس لیے ہمیں اپنے سے کچھ زیادہ عبادت کرنے کا حکم فرمائیے ) ( یہ سن کر ) آپ صلی اللہ علیہ وسلم ناراض ہوئے حتیٰ کہ خفگی آپ صلی اللہ علیہ وسلم کے چہرہ مبارک سے ظاہر ہونے لگی۔ پھر فرمایا کہ بیشک میں تم سب سے زیادہ اللہ سے ڈرتا ہوں اور تم سب سے زیادہ اسے جانتا ہوں۔ ( پس تم مجھ سے بڑھ کر عبادت نہیں کر سکتے ) ۔",
+          "fr": "Rapporté par 'Aisha : Chaque fois que le Messager d'Allah (ﷺ) ordonnait quelque chose aux musulmans, il leur demandait des actions faciles à accomplir, selon leurs capacités. Ils ont dit : Ô Messager d'Allah (ﷺ) ! Nous ne sommes pas comme toi. Allah a pardonné tes péchés passés et futurs. Alors le Messager d'Allah s'est mis en colère, et cela se voyait sur son visage. Il a dit : Je suis celui qui craint le plus Allah et qui Le connaît le mieux parmi vous",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Salam] berkata, telah mengabarkan kepada kami ['Abdah] dari [Hisyam] dari [bapaknya] dari [Aisyah] berkata: \"Rasulullah shallallahu 'alaihi wasallam bila memerintahkan kepada para sahabat, Beliau memerintahkan untuk melakukan amalan yang mampu mereka kerjakan, kemudian para sahabat berkata; \"Kami tidaklah seperti engkau, ya Rasulullah, karena engkau sudah diampuni dosa-dosa yang lalu dan yang akan datang\". Maka Beliau shallallahu 'alaihi wasallam menjadi marah yang dapat terlihat dari wajahnya, kemudian bersabda: \"Sesungguhnya yang paling taqwa dan paling mengerti tentang Allah diantara kalian adalah aku",
+          "tr": "Aişe r.anha şöyle demiştir: Resulullah sallallahu aleyhi ve sellem Ashabına emrettiği zaman (daima ellerinden) gelebilecek amelleri emrederdi. (o zaman Ashab-ı Kiram,): '' Ey Allah'ın elçisi! Biz senin durumunda değiliz. Allah senin geçmiş ve gelecek günahlarını bağışlamıştır.'' Bu söz üzerine Nebi (Sallallahu aleyhi ve Sellem) yüzünden öfkesi anlaşılacak şekilde sinirlenir sonra da şöyle derdi: Allah'a karşı gelmekten en çok sakınanınız, O'nu en iyi bileniniz benim"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 2,
+        "hadith": 13
+      },
+      "narrator": {
+        "en": "'Aisha"
+      }
+    },
+    {
+      "hadithNumber": 21,
+      "arabicNumber": 21,
+      "book": 2,
+      "hadithInBook": 14,
+      "text": {
+        "arabic": "حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ قَتَادَةَ، عَنْ أَنَسٍ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ ثَلاَثٌ مَنْ كُنَّ فِيهِ وَجَدَ حَلاَوَةَ الإِيمَانِ مَنْ كَانَ اللَّهُ وَرَسُولُهُ أَحَبَّ إِلَيْهِ مِمَّا سِوَاهُمَا، وَمَنْ أَحَبَّ عَبْدًا لاَ يُحِبُّهُ إِلاَّ لِلَّهِ، وَمَنْ يَكْرَهُ أَنْ يَعُودَ فِي الْكُفْرِ بَعْدَ إِذْ أَنْقَذَهُ اللَّهُ، كَمَا يَكْرَهُ أَنْ يُلْقَى فِي النَّارِ ‏\"‏‏.‏",
+        "translations": {
+          "en": "Narrated Anas: The Prophet (ﷺ) said, \"Whoever possesses the following three qualities will taste the sweetness of faith: 1. The one to whom Allah and His Apostle become dearer than anything else. 2. Who loves a person and he loves him only for Allah's sake. 3. Who hates to revert to disbelief (Atheism) after Allah has brought (saved) him out from it, as he hates to be thrown in fire",
+          "ur": "اس حدیث کو ہم سے سلیمان بن حرب نے بیان کیا، ان سے شعبہ نے، وہ قتادہ سے روایت کرتے ہیں، وہ انس رضی اللہ عنہ سے، اور وہ نبی کریم صلی اللہ علیہ وسلم سے نقل کرتے ہیں کہ آپ صلی اللہ علیہ وسلم نے فرمایا، جس شخص میں یہ تین باتیں ہوں گی وہ ایمان کا مزہ پالے گا، ایک یہ کہ وہ شخص جسے اللہ اور اس کا رسول ان کے ماسوا سے زیادہ عزیز ہوں اور دوسرے یہ کہ جو کسی بندے سے محض اللہ ہی کے لیے محبت کرے اور تیسری بات یہ کہ جسے اللہ نے کفر سے نجات دی ہو، پھر دوبارہ کفر اختیار کرنے کو وہ ایسا برا سمجھے جیسا آگ میں گر جانے کو برا جانتا ہے۔",
+          "fr": "Rapporté par Anas : Le Prophète (ﷺ) a dit : Celui qui possède ces trois qualités goûtera à la douceur de la foi : 1. Celui pour qui Allah et Son Messager sont plus chers que tout le reste. 2. Celui qui aime une personne uniquement pour Allah. 3. Celui qui déteste retourner à l'incroyance après qu'Allah l'en ait sauvé, autant qu'il déteste être jeté dans le feu",
+          "id": "Telah menceritakan kepada kami [Sulaiman bin Harb] berkata, telah menceritakan kepada kami [Syu'bah] dari [Qotadah] dari [Anas bin Malik] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: \"Tiga (perkara) yang apabila ada pada diri seseorang, ia akan mendapatkan manisnya iman: Allah dan Rasul-Nya lebih dicintainya dari selain keduanya. Dan siapa yang bila mencintai seseorang, dia tidak mencintai orang itu kecuali karena Allah 'azza wajalla. Dan siapa yang benci kembali kepada kekufuran seperti dia benci bila dilempar ke neraka",
+          "tr": "Enes'ten rivayet edilmiştir: Hz.Peygamber şöyle buyurdu: Şu üç şey kimde olursa, o imanın tadını bulur: 1. Allah ve Resûlü'nü her şeyden daha çok sevmek, 2. Sevdiği kişiyi yalnızca Allah için sevmek, 3. Allah kendisini küfürden kurtardıktan sonra yeniden küfre (inkarcılığa) dönmeyi, ateşe atılmak kadar kötü görmek"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 2,
+        "hadith": 14
+      },
+      "narrator": {
+        "en": "Anas"
+      }
+    },
+    {
+      "hadithNumber": 22,
+      "arabicNumber": 22,
+      "book": 2,
+      "hadithInBook": 15,
+      "text": {
+        "arabic": "حَدَّثَنَا إِسْمَاعِيلُ، قَالَ حَدَّثَنِي مَالِكٌ، عَنْ عَمْرِو بْنِ يَحْيَى الْمَازِنِيِّ، عَنْ أَبِيهِ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\"‏ يَدْخُلُ أَهْلُ الْجَنَّةِ الْجَنَّةَ، وَأَهْلُ النَّارِ النَّارَ، ثُمَّ يَقُولُ اللَّهُ تَعَالَى أَخْرِجُوا مَنْ كَانَ فِي قَلْبِهِ مِثْقَالُ حَبَّةٍ مِنْ خَرْدَلٍ مِنْ إِيمَانٍ‏.‏ فَيُخْرَجُونَ مِنْهَا قَدِ اسْوَدُّوا فَيُلْقَوْنَ فِي نَهَرِ الْحَيَا ـ أَوِ الْحَيَاةِ، شَكَّ مَالِكٌ ـ فَيَنْبُتُونَ كَمَا تَنْبُتُ الْحِبَّةُ فِي جَانِبِ السَّيْلِ، أَلَمْ تَرَ أَنَّهَا تَخْرُجُ صَفْرَاءَ مُلْتَوِيَةً ‏\"‏‏.‏ قَالَ وُهَيْبٌ حَدَّثَنَا عَمْرٌو ‏\"‏ الْحَيَاةِ ‏\"‏‏.‏ وَقَالَ ‏\"‏ خَرْدَلٍ مِنْ خَيْرٍ ‏\"‏‏.‏",
+        "translations": {
+          "en": "Narrated Abu Said Al-Khudri: The Prophet (ﷺ) said, \"When the people of Paradise will enter Paradise and the people of Hell will go to Hell, Allah will order those who have had faith equal to the weight of a grain of mustard seed to be taken out from Hell. So they will be taken out but (by then) they will be blackened (charred). Then they will be put in the river of Haya' (rain) or Hayat (life) (the Narrator is in doubt as to which is the right term), and they will revive like a grain that grows near the bank of a flood channel. Don't you see that it comes out yellow and twisted?",
+          "ur": "ہم سے اسماعیل نے یہ حدیث بیان کی، وہ کہتے ہیں ان سے مالک نے، وہ عمرو بن یحییٰ المازنی سے نقل کرتے ہیں، وہ اپنے باپ سے روایت کرتے ہیں اور وہ ابو سعید خدری رضی اللہ عنہ اور وہ نبی اکرم صلی اللہ علیہ وسلم سے نقل کرتے ہیں کہ آپ صلی اللہ علیہ وسلم نے فرمایا جب جنتی جنت میں اور دوزخی دوزخ میں داخل ہو جائیں گے۔ اللہ پاک فرمائے گا، جس کے دل میں رائی کے دانے کے برابر ( بھی ) ایمان ہو، اس کو بھی دوزخ سے نکال لو۔ تب ( ایسے لوگ ) دوزخ سے نکال لیے جائیں گے اور وہ جل کر کوئلے کی طرح سیاہ ہو چکے ہوں گے۔ پھر زندگی کی نہر میں یا بارش کے پانی میں ڈالے جائیں گے۔ ( یہاں راوی کو شک ہو گیا ہے کہ اوپر کے راوی نے کون سا لفظ استعمال کیا ) اس وقت وہ دانے کی طرح اگ آئیں گے جس طرح ندی کے کنارے دانے اگ آتے ہیں۔ کیا تم نے نہیں دیکھا کہ دانہ زردی مائل پیچ در پیچ نکلتا ہے۔ وہیب نے کہا کہ ہم سے عمرو نے ( «حياء» کی بجائے ) «حياة»،‏‏‏‏ اور ( «خردل من ايمان» ) کی بجائے ( «خردل من خير» ) کا لفظ بیان کیا۔",
+          "fr": "Rapporté par Abu Said Al-Khudri : Le Prophète (ﷺ) a dit : Quand les gens du Paradis entreront au Paradis et que les gens de l'Enfer iront en Enfer, Allah ordonnera que ceux qui ont eu la foi, même du poids d'une graine de moutarde, soient sortis de l'Enfer. Ils seront alors sortis, mais ils seront noircis (brûlés). Ensuite, ils seront plongés dans la rivière de Haya' (pluie) ou Hayat (vie) (le narrateur n'est pas sûr du terme exact), et ils reprendront vie comme une graine qui pousse près du bord d'un cours d'eau. Ne vois-tu pas qu'elle sort jaune et tordue ?",
+          "id": "Telah menceritakan kepada kami [Isma'il] berkata, telah menceritakan kepada kami [Malik] dari ['Amru bin Yahya Al Mazani] dari [bapaknya] dari [Abu Sa'id Al Khudri] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: \"Ahlu surga telah masuk ke surga dan Ahlu neraka telah masuk neraka. Lalu Allah Ta'ala berfirman: \"Keluarkan dari neraka siapa yang didalam hatinya ada iman sebesar biji sawi\". Maka mereka keluar dari neraka dalam kondisi yang telah menghitam gosong kemudian dimasukkan kedalam sungai hidup atau kehidupan. -Malik ragu. - Lalu mereka tumbuh bersemi seperti tumbuhnya benih di tepi aliran sungai. Tidakkah kamu perhatikan bagaimana dia keluar dengan warna kekuningan.\"Berkata [Wuhaib] Telah menceritakan kepada kami ['Amru]: \"Kehidupan\". Dan berkata: \"Sedikit dari kebaikan",
+          "tr": "Ebu Saîd el-Hudrî'den rivayet edildiğine göre Hz. Peygamber şöyle buyurmuştur: \"Cennetlikler cennete, cehennemlikler de cehenneme girdikten sonra Allah Teala: 'Kalbinde hardal danesi ağırlığınca imanı olanı (cehennemden) çıkarın!’ buyurur. Bunun üzerine (bu kişiler) cehennem'den kararmış (kömür gibi olmuş) bir halde çıkarılırlar. Sonra haya yahut hayat (şüphe Malik'tendir) nehrine atılırlar. Orada selin uğradığı yerde kalan tohumlar nasıl (çabucak) ayrık otu olarak biterse öyle biterler. Görmez misin, bunlar (ne güzel) sapsarı olarak (ve iki tarafına) salınarak sürer?. Tekrar:"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 2,
+        "hadith": 15
+      },
+      "narrator": {
+        "en": "Abu Said Al-Khudri"
+      }
+    },
+    {
+      "hadithNumber": 23,
+      "arabicNumber": 23,
+      "book": 2,
+      "hadithInBook": 16,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عُبَيْدِ اللَّهِ، قَالَ حَدَّثَنَا إِبْرَاهِيمُ بْنُ سَعْدٍ، عَنْ صَالِحٍ، عَنِ ابْنِ شِهَابٍ، عَنْ أَبِي أُمَامَةَ بْنِ سَهْلٍ، أَنَّهُ سَمِعَ أَبَا سَعِيدٍ الْخُدْرِيَّ، يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ بَيْنَا أَنَا نَائِمٌ رَأَيْتُ النَّاسَ يُعْرَضُونَ عَلَىَّ، وَعَلَيْهِمْ قُمُصٌ مِنْهَا مَا يَبْلُغُ الثُّدِيَّ، وَمِنْهَا مَا دُونَ ذَلِكَ، وَعُرِضَ عَلَىَّ عُمَرُ بْنُ الْخَطَّابِ وَعَلَيْهِ قَمِيصٌ يَجُرُّهُ ‏\"‏‏.‏ قَالُوا فَمَا أَوَّلْتَ ذَلِكَ يَا رَسُولَ اللَّهِ قَالَ ‏\"‏ الدِّينَ ‏\"‏‏.‏",
+        "translations": {
+          "en": "Narrated Abu Said Al-Khudri: Allah's Messenger (ﷺ) said, \"While I was sleeping I saw (in a dream) some people wearing shirts of which some were reaching up to the breasts only while others were even shorter than that. Umar bin Al-Khattab was shown wearing a shirt that he was dragging.\" The people asked, \"How did you interpret it? (What is its interpretation) O Allah's Messenger (ﷺ)?\" He (the Prophet (ﷺ) ) replied, \"It is the Religion",
+          "ur": "ہم سے محمد بن عبیداللہ نے یہ حدیث بیان کی، ان سے ابراہیم بن سعد نے، وہ صالح سے روایت کرتے ہیں، وہ ابن شہاب سے، وہ ابوامامہ بن سہل بن حنیف سے راوی ہیں، وہ ابو سعید خدری رضی اللہ عنہ سے، وہ کہتے تھے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا کہ میں ایک وقت سو رہا تھا، میں نے خواب میں دیکھا کہ لوگ میرے سامنے پیش کیے جا رہے ہیں اور وہ کرتے پہنے ہوئے ہیں۔ کسی کا کرتہ سینے تک ہے اور کسی کا اس سے نیچا ہے۔ ( پھر ) میرے سامنے عمر بن الخطاب لائے گئے۔ ان ( کے بدن ) پر ( جو ) کرتا تھا۔ اسے وہ گھسیٹ رہے تھے۔ ( یعنی ان کا کرتہ زمین تک نیچا تھا ) صحابہ نے پوچھا کہ یا رسول اللہ! اس کی کیا تعبیر ہے؟ آپ صلی اللہ علیہ وسلم نے فرمایا کہ ( اس سے ) دین مراد ہے۔",
+          "fr": "Rapporté par Abu Said Al-Khudri : Le Messager d'Allah (ﷺ) a dit : Pendant que je dormais, j'ai vu (en rêve) des gens portant des chemises, certaines arrivaient à la poitrine, d'autres étaient encore plus courtes. Umar bin Al-Khattab m'est apparu portant une chemise qu'il traînait derrière lui. Les gens ont demandé : Comment l'as-tu interprété, ô Messager d'Allah (ﷺ) ? Il (le Prophète (ﷺ)) a répondu : C'est la religion",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Ubaidillah] berkata, telah menceritakan kepada kami [Ibrahim bin Sa'd] dari [Shalih] dari [Ibnu Syihab] dari [Abu Umamah bin Sahal bin Hunaif] bahwasanya dia mendengar [Abu Said Al Khudri] berkata, Rasulullah shallallahu 'alaihi wasallam bersabda: \"Ketika aku tidur, aku bermimpi melihat orang-orang dihadapkan kepadaku. Mereka mengenakan baju, diantaranya ada yang sampai kepada buah dada dan ada yang kurang dari itu. Dan dihadapkan pula kepadaku Umar bin Al Khaththab dan dia mengenakan baju dan menyeretnya. Para sahabat bertanya: \"Apa maksudnya hal demikian menurut engkau, ya Rasulullah?\" Beliau shallallahu 'alaihi wasallam menjawab: \"Ad-Din (agama)",
+          "tr": "Ebu Said-i Hudri r.a. şöyle demiştir: Resulullah sallallahu aleyhi ve sellem buyurdu ki: Uyuduğum esnada gördüm ki halk bana arzolunuyordu. Üstlerinde gömlekler vardı. Bu gömleklerin kimi memelere varıyor, kimi daha kısa idi. Ömer bin el-Hattâb da bana arzolundu. Üstünde (eteklerini yerde) sürüdüğü bir gömlek vardı. \"Ya Resûlâllâh, bunu ne ile te`vîl ettin?\" diye sordular. \"Dîn ile.\" cevâbını verdi. Tekrar:"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 2,
+        "hadith": 16
+      },
+      "narrator": {
+        "en": "Abu Said Al-Khudri"
+      }
+    },
+    {
+      "hadithNumber": 24,
+      "arabicNumber": 24,
+      "book": 2,
+      "hadithInBook": 17,
+      "text": {
+        "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، قَالَ أَخْبَرَنَا مَالِكُ بْنُ أَنَسٍ، عَنِ ابْنِ شِهَابٍ، عَنْ سَالِمِ بْنِ عَبْدِ اللَّهِ، عَنْ أَبِيهِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم مَرَّ عَلَى رَجُلٍ مِنَ الأَنْصَارِ وَهُوَ يَعِظُ أَخَاهُ فِي الْحَيَاءِ، فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ دَعْهُ فَإِنَّ الْحَيَاءَ مِنَ الإِيمَانِ ‏\"‏‏.‏",
+        "translations": {
+          "en": "Narrated 'Abdullah (bin 'Umar): Once Allah's Messenger (ﷺ) passed by an Ansari (man) who was admonishing his brother regarding Haya'. On that Allah's Messenger (ﷺ) said, \"Leave him as Haya' is a part of faith.\" (See Hadith)",
+          "ur": "عبداللہ بن یوسف نے ہم سے بیان کیا، وہ کہتے ہیں کہ ہمیں مالک بن انس نے ابن شہاب سے خبر دی، وہ سالم بن عبداللہ سے نقل کرتے ہیں، وہ اپنے باپ (عبداللہ بن عمر رضی اللہ عنہما) سے کہ ایک دفعہ رسول اللہ صلی اللہ علیہ وسلم ایک انصاری شخص کے پاس سے گزرے اس حال میں کہ وہ اپنے ایک بھائی سے کہہ رہے تھے کہ تم اتنی شرم کیوں کرتے ہو۔ آپ صلی اللہ علیہ وسلم نے اس انصاری سے فرمایا کہ اس کو اس کے حال پر رہنے دو کیونکہ حیاء بھی ایمان ہی کا ایک حصہ ہے۔",
+          "fr": "Rapporté par 'Abdullah (bin 'Umar) : Un jour, le Messager d'Allah (ﷺ) est passé près d'un homme des Ansar qui réprimandait son frère à propos de la pudeur (Haya'). Alors le Messager d'Allah (ﷺ) a dit : Laisse-le, car la pudeur fait partie de la foi",
+          "id": "Telah menceritakan kepada kami [Abdullah bin Yusuf] berkata, telah mengabarkan kepada kami [Malik bin Anas] dari [Ibnu Syihab] dari [Salim bin Abdullah] dari [bapaknya], bahwa Rasulullah shallallahu 'alaihi wasallam berjalan melewati seorang sahabat Anshar yang saat itu sedang memberi pengarahan saudaranya tentang malu. Maka Rasulullah shallallahu 'alaihi wasallam bersabda: \"Tinggalkanlah dia, karena sesungguhnya malu adalah bagian dari iman",
+          "tr": "Salim b. Abdullah'ın babası (yani İbn-i Ömer den) rivayet ettiğine göre Nebi (Sallallahu aleyhi ve Sellem) Ensardan bir kişinin yanından geçiyordu. O sırada bu kişi kardeşine utangaçlığı (hayası) sebebiyle öğüt veriyordu. Bunun üzerine Hz. Pey­gamber ona şöyle buyurdu: Onu bırak! Çünkü haya (utanmak) imandandır. Tekrar: 6118 Diğer Tahric: Bu hadis Müslim İman; Tirmizi İman da da geçer. (Yani onu ikisi de tahric ettiler)"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 2,
+        "hadith": 17
+      },
+      "narrator": {
+        "en": "'Abdullah (bin 'Umar)"
+      }
+    },
+    {
+      "hadithNumber": 25,
+      "arabicNumber": 25,
+      "book": 2,
+      "hadithInBook": 18,
+      "text": {
+        "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ الْمُسْنَدِيُّ، قَالَ حَدَّثَنَا أَبُو رَوْحٍ الْحَرَمِيُّ بْنُ عُمَارَةَ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ وَاقِدِ بْنِ مُحَمَّدٍ، قَالَ سَمِعْتُ أَبِي يُحَدِّثُ، عَنِ ابْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ أُمِرْتُ أَنْ أُقَاتِلَ النَّاسَ حَتَّى يَشْهَدُوا أَنْ لاَ إِلَهَ إِلاَّ اللَّهُ وَأَنَّ مُحَمَّدًا رَسُولُ اللَّهِ، وَيُقِيمُوا الصَّلاَةَ، وَيُؤْتُوا الزَّكَاةَ، فَإِذَا فَعَلُوا ذَلِكَ عَصَمُوا مِنِّي دِمَاءَهُمْ وَأَمْوَالَهُمْ إِلاَّ بِحَقِّ الإِسْلاَمِ، وَحِسَابُهُمْ عَلَى اللَّهِ ‏\"‏‏.‏",
+        "translations": {
+          "en": "Narrated Ibn 'Umar: Allah's Messenger (ﷺ) said: \"I have been ordered (by Allah) to fight against the people until they testify that none has the right to be worshipped but Allah and that Muhammad is Allah's Messenger (ﷺ), and offer the prayers perfectly and give the obligatory charity, so if they perform that, then they save their lives and property from me except for Islamic laws and then their reckoning (accounts) will be done by Allah",
+          "ur": "اس حدیث کو ہم سے عبداللہ بن محمد مسندی نے بیان کیا، ان سے ابوروح حرمی بن عمارہ نے، ان سے شعبہ نے، وہ واقد بن محمد سے روایت کرتے ہیں، وہ کہتے ہیں میں نے یہ حدیث اپنے باپ سے سنی، وہ ابن عمر رضی اللہ عنہما سے روایت کرتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا، مجھے ( اللہ کی طرف سے ) حکم دیا گیا ہے کہ لوگوں سے جنگ کروں اس وقت تک کہ وہ اس بات کا اقرار کر لیں کہ اللہ کے سوا کوئی معبود نہیں ہے اور یہ کہ محمد صلی اللہ علیہ وسلم اللہ کے سچے رسول ہیں اور نماز ادا کرنے لگیں اور زکوٰۃ دیں، جس وقت وہ یہ کرنے لگیں گے تو مجھ سے اپنے جان و مال کو محفوظ کر لیں گے، سوائے اسلام کے حق کے۔ ( رہا ان کے دل کا حال تو ) ان کا حساب اللہ کے ذمے ہے۔",
+          "fr": "Rapporté par Ibn 'Umar : Le Messager d'Allah (ﷺ) a dit : J'ai reçu l'ordre (d'Allah) de combattre les gens jusqu'à ce qu'ils témoignent qu'il n'y a de dieu qu'Allah et que Muhammad est le Messager d'Allah (ﷺ), qu'ils accomplissent la prière correctement et qu'ils donnent l'aumône obligatoire. S'ils le font, alors ils préservent leur vie et leurs biens de moi, sauf selon les lois de l'islam, et leur compte sera réglé par Allah",
+          "id": "Telah menceritakan kepada kami [Abdullah bin Muhammad Al Musnadi] dia berkata, Telah menceritakan kepada kami [Abu Rauh Al Harami bin Umarah] berkata, telah menceritakan kepada kami [Syu'bah] dari [Waqid bin Muhammad] berkata; aku mendengar [bapakku] menceritakan dari [Ibnu Umar], bahwa Rasulullah shallallahu 'alaihi wasallam telah bersabda: \"Aku diperintahkan untuk memerangi manusia hingga mereka bersaksi; tidak ada ilah kecuali Allah dan bahwa sesungguhnya Muhammad adalah utusan Allah, menegakkan shalat, menunaikan zakat. Jika mereka lakukan yang demikian maka mereka telah memelihara darah dan harta mereka dariku kecuali dengan haq Islam dan perhitungan mereka ada pada Allah",
+          "tr": "İbn Ömer radiyallahu anh'den rivayet edildiğine göre Allah Resulü (Sallallahu aleyhi ve Sellem) şöyle buyurmuştur: Allah'tan başka ilah olmadığına ve Muhammedin Allah'ın elçisi olduğuna şahitlik edinceye, namaz kılıncaya ve zekât verinceye kadar insanlarla savaşmakla emrolundum. Şayet bunu yaparlarsa islam'ın hakkı hariç kanlarını ve mallarını benden korumuş olurlar, hesaplarını görmek ise Allah’a aittir"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 2,
+        "hadith": 18
+      },
+      "narrator": {
+        "en": "Ibn 'Umar"
+      }
+    },
+    {
+      "hadithNumber": 26,
+      "arabicNumber": 26,
+      "book": 2,
+      "hadithInBook": 19,
+      "text": {
+        "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ يُونُسَ، وَمُوسَى بْنُ إِسْمَاعِيلَ، قَالاَ حَدَّثَنَا إِبْرَاهِيمُ بْنُ سَعْدٍ، قَالَ حَدَّثَنَا ابْنُ شِهَابٍ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم سُئِلَ أَىُّ الْعَمَلِ أَفْضَلُ فَقَالَ ‏\"‏ إِيمَانٌ بِاللَّهِ وَرَسُولِهِ ‏\"‏‏.‏ قِيلَ ثُمَّ مَاذَا قَالَ ‏\"‏ الْجِهَادُ فِي سَبِيلِ اللَّهِ ‏\"‏‏.‏ قِيلَ ثُمَّ مَاذَا قَالَ ‏\"‏ حَجٌّ مَبْرُورٌ ‏\"‏‏.‏",
+        "translations": {
+          "en": "Narrated Abu Huraira: Allah's Messenger (ﷺ) was asked, \"What is the best deed?\" He replied, \"To believe in Allah and His Apostle (Muhammad). The questioner then asked, \"What is the next (in goodness)? He replied, \"To participate in Jihad (religious fighting) in Allah's Cause.\" The questioner again asked, \"What is the next (in goodness)?\" He replied, \"To perform Hajj (Pilgrim age to Mecca) 'Mubrur, (which is accepted by Allah and is performed with the intention of seeking Allah's pleasure only and not to show off and without committing a sin and in accordance with the traditions of the Prophet)",
+          "ur": "ہم سے احمد بن یونس اور موسیٰ بن اسماعیل دونوں نے بیان کیا، انہوں نے کہا ہم سے ابراہیم بن سعید نے بیان کیا، انہوں نے کہا ہم سے ابن شہاب نے بیان کیا، وہ سعید بن المسیب رضی اللہ عنہ سے روایت کرتے ہیں، وہ ابوہریرہ رضی اللہ عنہ سے کہ رسول اللہ صلی اللہ علیہ وسلم سے دریافت کیا گیا کہ کون سا عمل سب سے افضل ہے؟ آپ صلی اللہ علیہ وسلم نے فرمایا ”اللہ اور اس کے رسول پر ایمان لانا“ کہا گیا، اس کے بعد کون سا؟ آپ صلی اللہ علیہ وسلم نے فرمایا کہ ”اللہ کی راہ میں جہاد کرنا“ کہا گیا، پھر کیا ہے؟ آپ صلی اللہ علیہ وسلم نے فرمایا ”حج مبرور“۔",
+          "fr": "Rapporté par Abu Huraira : On a demandé au Messager d'Allah (ﷺ) : Quelle est la meilleure action ? Il a répondu : Croire en Allah et en Son Messager (Muhammad). Le questionneur a alors demandé : Et ensuite ? Il a répondu : Participer au jihad (combat pour la cause d'Allah). Le questionneur a encore demandé : Et après ? Il a répondu : Accomplir le Hajj (pèlerinage à La Mecque) Mabrur, c'est-à-dire accepté par Allah, fait uniquement pour Lui, sans ostentation, sans péché et selon la tradition du Prophète",
+          "id": "Telah menceritakan kepada kami [Ahmad bin Yunus] dan [Musa bin Isma'il] keduanya berkata, telah menceritakan kepada kami [Ibrahim bin Sa'd] berkata, telah menceritakan kepada kami [Ibnu Syihab] dari [Sa'id bin Al Musayyab] dari [Abu Hurairah], bahwa Rasulullah shallallahu 'alaihi wasallam ditanya tentang Islam, manakah yang paling utama? Maka Rasulullah shallallahu 'alaihi wasallam menjawab: \"Iman kepada Allah dan Rasul-Nya\". Lalu ditanya lagi: \"Lalu apa?\" Beliau menjawab: \"Al Jihad fi sabilillah (berperang di jalan Allah). Lalu ditanya lagi: \"Kemudian apa lagi?\" Jawab Beliau shallallahu 'alaihi wasallam: \"haji mabrur",
+          "tr": "Ebu Hureyre r.a. şöyle demiştir: Resûlullah (Sallallahu aleyhi ve sellem)`e: \"Amelin hangisi efdaldir?\" diye sordular. \"Allaha ve Resûlüne îman.\" buyurdu. \"Ondan sonra hangisi?\" dediler. \"Allah yolunda Cihad.\" buyurdu. \"Ondan sonra da hangisi?\" diye sordular. \"Makbûl (olmuş içine günah riya karışmamış) Hac.\" cevabını verdi. Tekrar:"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 2,
+        "hadith": 19
+      },
+      "narrator": {
+        "en": "Abu Huraira"
+      }
+    },
+    {
+      "hadithNumber": 27,
+      "arabicNumber": 27,
+      "book": 2,
+      "hadithInBook": 20,
+      "text": {
+        "arabic": "حَدَّثَنَا أَبُو الْيَمَانِ، قَالَ أَخْبَرَنَا شُعَيْبٌ، عَنِ الزُّهْرِيِّ، قَالَ أَخْبَرَنِي عَامِرُ بْنُ سَعْدِ بْنِ أَبِي وَقَّاصٍ، عَنْ سَعْدٍ، رضى الله عنه أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم أَعْطَى رَهْطًا وَسَعْدٌ جَالِسٌ، فَتَرَكَ رَسُولُ اللَّهِ صلى الله عليه وسلم رَجُلاً هُوَ أَعْجَبُهُمْ إِلَىَّ فَقُلْتُ يَا رَسُولَ اللَّهِ مَا لَكَ عَنْ فُلاَنٍ فَوَاللَّهِ إِنِّي لأَرَاهُ مُؤْمِنًا‏.‏ فَقَالَ ‏\"‏ أَوْ مُسْلِمًا ‏\"‏‏.‏ فَسَكَتُّ قَلِيلاً، ثُمَّ غَلَبَنِي مَا أَعْلَمُ مِنْهُ فَعُدْتُ لِمَقَالَتِي فَقُلْتُ مَا لَكَ عَنْ فُلاَنٍ فَوَاللَّهِ إِنِّي لأَرَاهُ مُؤْمِنًا فَقَالَ ‏\"‏ أَوْ مُسْلِمًا ‏\"‏‏.‏ ثُمَّ غَلَبَنِي مَا أَعْلَمُ مِنْهُ فَعُدْتُ لِمَقَالَتِي وَعَادَ رَسُولُ اللَّهِ صلى الله عليه وسلم ثُمَّ قَالَ ‏\"‏ يَا سَعْدُ، إِنِّي لأُعْطِي الرَّجُلَ وَغَيْرُهُ أَحَبُّ إِلَىَّ مِنْهُ، خَشْيَةَ أَنْ يَكُبَّهُ اللَّهُ فِي النَّارِ ‏\"‏‏.‏ وَرَوَاهُ يُونُسُ وَصَالِحٌ وَمَعْمَرٌ وَابْنُ أَخِي الزُّهْرِيِّ عَنِ الزُّهْرِيِّ‏.‏",
+        "translations": {
+          "en": "Narrated Sa'd: Allah's Messenger (ﷺ) distributed (Zakat) amongst (a group of) people while I was sitting there but Allah's Messenger (ﷺ) left a man whom I thought the best of the lot. I asked, \"O Allah's Messenger (ﷺ)! Why have you left that person? By Allah I regard him as a faithful believer.\" The Prophet (ﷺ) commented: \"Or merely a Muslim.\" I remained quiet for a while, but could not help repeating my question because of what I knew about him. And then asked Allah's Messenger (ﷺ), \"Why have you left so and so? By Allah! He is a faithful believer.\" The Prophet (ﷺ) again said, \"Or merely a Muslim.\" And I could not help repeating my question because of what I knew about him. Then the Prophet (ﷺ) said, \"O Sa'd! I give to a person while another is dearer to me, for fear that he might be thrown on his face in the Fire by Allah",
+          "ur": "ہم سے ابوالیمان نے بیان کیا، وہ کہتے ہیں کہ ہمیں شعیب نے زہری سے خبر دی، انہیں عامر بن سعد بن ابی وقاص نے اپنے والد سعد رضی اللہ عنہ سے سن کر یہ خبر دی کہ رسول اللہ صلی اللہ علیہ وسلم نے چند لوگوں کو کچھ عطیہ دیا اور سعد وہاں موجود تھے۔ ( وہ کہتے ہیں کہ ) رسول اللہ صلی اللہ علیہ وسلم نے ان میں سے ایک شخص کو کچھ نہ دیا۔ حالانکہ وہ ان میں مجھے سب سے زیادہ پسند تھا۔ میں نے کہا: یا رسول اللہ! آپ نے فلاں کو کچھ نہ دیا حالانکہ میں اسے مومن گمان کرتا ہوں۔ آپ صلی اللہ علیہ وسلم نے فرمایا مومن یا مسلمان؟ میں تھوڑی دیر چپ رہ کر پھر پہلی بات دہرانے لگا۔ نبی کریم صلی اللہ علیہ وسلم نے بھی دوبارہ وہی جواب دیا۔ پھر آپ صلی اللہ علیہ وسلم نے فرمایا کہ اے سعد! باوجود یہ کہ ایک شخص مجھے زیادہ عزیز ہے ( پھر بھی میں اسے نظر انداز کر کے ) کسی اور دوسرے کو اس خوف کی وجہ سے یہ مال دے دیتا ہوں کہ ( وہ اپنی کمزوری کی وجہ سے اسلام سے پھر جائے اور ) اللہ اسے آگ میں اوندھا ڈال دے۔ اس حدیث کو یونس، صالح، معمر اور زہری کے بھتیجے عبداللہ نے زہری سے روایت کیا۔",
+          "fr": "Rapporté par Sa'd : Le Messager d'Allah (ﷺ) a distribué la Zakat à un groupe de personnes pendant que j'étais assis là, mais il a laissé de côté un homme que je pensais être le meilleur du groupe. J'ai demandé : Ô Messager d'Allah (ﷺ) ! Pourquoi as-tu laissé cette personne ? Par Allah, je le considère comme un vrai croyant. Le Prophète (ﷺ) a répondu : Ou peut-être seulement un musulman. Je suis resté silencieux un moment, mais je n'ai pas pu m'empêcher de répéter ma question à cause de ce que je savais sur lui. J'ai donc demandé à nouveau au Messager d'Allah (ﷺ) : Pourquoi as-tu laissé untel ? Par Allah ! C'est un vrai croyant. Le Prophète (ﷺ) a encore dit : Ou peut-être seulement un musulman. Je n'ai pas pu m'empêcher de répéter ma question à cause de ce que je savais sur lui. Alors le Prophète (ﷺ) a dit : Ô Sa'd ! Je donne à une personne alors qu'une autre m'est plus chère, par crainte qu'elle ne soit jetée sur son visage dans le Feu par Allah",
+          "id": "Telah menceritakan kepada kami [Abu Al Yaman] berkata, telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] berkata, telah mengabarkan kepadaku ['Amir bin Sa'd bin Abu Waqash] dari [Sa'd], bahwa Rasulullah shallallahu 'alaihi wasallam memberikan makanan kepada beberapa orang dan saat itu Sa'd sedang duduk. Tetapi Beliau tidak memberi makanan tersebut kepada seorang laki-laki, padahal orang tersebut yang paling berkesan bagiku diantara mereka yang ada, maka aku bertanya kepada Rasulullah shallallahu 'alaihi wasallam: \"Wahai Rasulullah, bagaimana dengan si fulan? Sungguh aku melihat dia sebagai seorang mu'min.\" Nabi shallallahu 'alaihi wasallam membalas: \"atau dia muslim?\" Kemudian aku terdiam sejenak, dan aku terdorong untuk lebih memastikan apa yang dimaksud Beliau shallallahu 'alaihi wasallam, maka aku ulangi ucapanku: \"Wahai Rasulullah, bagaimana dengan si fulan? Sungguh aku memandangnya sebagai seorang mu'min.\" Nabi shallallahu 'alaihi wasallam membalas: \"atau dia muslim?\" Lalu aku terdorong lagi untuk lebih memastikan apa yang dimaksudnya hingga aku ulangi lagi pertanyaanku. Lalu Nabi shallallahu 'alaihi wasallam bersabda: \"Wahai Sa'd, sesungguhnya aku juga akan memberi kepada orang tersebut. Namun aku lebih suka memberi kepada yang lainnya dari pada memberi kepada dia, karena aku takut kalau Allah akan mencampakkannya ke neraka\". [Yunus], [Shalih], [Ma'mar] dan [keponakan Az Zuhri], telah meriwayatkan dari [Az Zuhri]",
+          "tr": "Sa'd b. Ebu Vakkas'ın oğlu Amir babasından şunu rivayet etmiştir: Sa'd'ın oturduğu bir sırada Allah Resulü sallallahu aleyhi ve sellem bir grup insana (zekat malından) bir şeyler verdi, benim en beğendiğim adama ise bir şey vermedi. Ey Allah'ın elçisi! Falancaya vermemenin sebebi nedir? Vallahi ben onu mu'min olarak görüyorum\" dedim. Allah Resulü: 'Yahut müslümandır\" buyurdu. Ben bir süre sustum. Sonra o adam hakkındaki bilgim sebebiyle dayanamadım ve bir kez daha: \"Falancaya vermemenin sebebi nedir? Vallahi ben onu mu'min olarak görüyorum\" dedim. Allah Resulü yine: Yahut müslümandır\" buyurdu. Sonra yine dayanamadım ve aynı şeyleri tekrarladım, Hz. Peygamber de aynı şeyi tekrarladı. Sonra da şöyle buyurdu: \"Sa'd! Başkasını daha çok sevdiğim halde bir adama, Allah onu yüz üstü ateşe atmasın diye mal verdiğim olur. Tekrar:"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 2,
+        "hadith": 20
+      },
+      "narrator": {
+        "en": "Sa'd"
+      }
+    },
+    {
+      "hadithNumber": 28,
+      "arabicNumber": 28,
+      "book": 2,
+      "hadithInBook": 21,
+      "text": {
+        "arabic": "حَدَّثَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا اللَّيْثُ، عَنْ يَزِيدَ بْنِ أَبِي حَبِيبٍ، عَنْ أَبِي الْخَيْرِ، عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو، أَنَّ رَجُلاً، سَأَلَ رَسُولَ اللَّهِ صلى الله عليه وسلم أَىُّ الإِسْلاَمِ خَيْرٌ قَالَ ‏ \"‏ تُطْعِمُ الطَّعَامَ، وَتَقْرَأُ السَّلاَمَ عَلَى مَنْ عَرَفْتَ وَمَنْ لَمْ تَعْرِفْ ‏\"‏‏.‏",
+        "translations": {
+          "en": "Narrated 'Abdullah bin 'Amr: A person asked Allah's Messenger (ﷺ), \"What (sort of) deeds in or (what qualities of) Islam are good?\" He replied, \"To feed (the poor) and greet those whom you know and those whom you don't know",
+          "ur": "ہم سے قتیبہ نے بیان کیا، انہوں نے کہا ہم سے لیث نے بیان کیا، انہوں نے یزید بن ابی حبیب سے، انہوں نے ابوالخیر سے، انہوں نے عبداللہ بن عمرو رضی اللہ عنہما سے کہ ایک آدمی نے رسول اللہ صلی اللہ علیہ وسلم سے پوچھا کون سا اسلام بہتر ہے؟ آپ صلی اللہ علیہ وسلم نے فرمایا کہ تو کھانا کھلائے اور ہر شخص کو سلام کرے خواہ اس کو تو جانتا ہو یا نہ جانتا ہو۔",
+          "fr": "Rapporté par 'Abdullah bin 'Amr : Une personne a demandé au Messager d'Allah (ﷺ) : Quelles actions ou qualités de l'islam sont bonnes ? Il a répondu : Donner à manger (aux pauvres) et saluer ceux que tu connais comme ceux que tu ne connais pas",
+          "id": "Telah menceritakan kepada kami [Qutaibah] berkata, telah menceritakan kepada kami [Al Laits] dari [Yazid bin Abu Habib] dari [Abu Al Khair] dari [Abdullah bin 'Amru] bahwa ada seseorang bertanya kepada Rasulullah shallallahu 'alaihi wasallam; \"Islam manakah yang paling baik?\" Nabi shallallahu 'alaihi wasallam menjawab: \"Kamu memberi makan dan memberi salam kepada orang yang kamu kenal dan yang tidak kamu kenal",
+          "tr": "Abdullah bin Amr'dan rivayet edildiğine göre bir adam Hz. Peygamber'e gelerek \"Ey Allah'ın elçisi İslam'ın (İslam'daki amellerin) hangisi en hayırlıdır? diye sordu. Hz. Peygamber şöyle buyurdu: \"Yemek yedirmen ve tanıyıp tanımadığın kişilere selam vermendir"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 2,
+        "hadith": 21
+      },
+      "narrator": {
+        "en": "'Abdullah bin 'Amr"
+      }
+    },
+    {
+      "hadithNumber": 29,
+      "arabicNumber": 29,
+      "book": 2,
+      "hadithInBook": 22,
+      "text": {
+        "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، عَنْ مَالِكٍ، عَنْ زَيْدِ بْنِ أَسْلَمَ، عَنْ عَطَاءِ بْنِ يَسَارٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ أُرِيتُ النَّارَ فَإِذَا أَكْثَرُ أَهْلِهَا النِّسَاءُ يَكْفُرْنَ ‏\"‏‏.‏ قِيلَ أَيَكْفُرْنَ بِاللَّهِ قَالَ ‏\"‏ يَكْفُرْنَ الْعَشِيرَ، وَيَكْفُرْنَ الإِحْسَانَ، لَوْ أَحْسَنْتَ إِلَى إِحْدَاهُنَّ الدَّهْرَ ثُمَّ رَأَتْ مِنْكَ شَيْئًا قَالَتْ مَا رَأَيْتُ مِنْكَ خَيْرًا قَطُّ ‏\"‏‏.‏",
+        "translations": {
+          "en": "Narrated Ibn 'Abbas: The Prophet (ﷺ) said: \"I was shown the Hell-fire and that the majority of its dwellers were women who were ungrateful.\" It was asked, \"Do they disbelieve in Allah?\" (or are they ungrateful to Allah?) He replied, \"They are ungrateful to their husbands and are ungrateful for the favors and the good (charitable deeds) done to them. If you have always been good (benevolent) to one of them and then she sees something in you (not of her liking), she will say, 'I have never received any good from you",
+          "ur": "اس حدیث کو ہم سے عبداللہ بن مسلمہ نے بیان کیا، وہ امام مالک سے، وہ زید بن اسلم سے، وہ عطاء بن یسار سے، وہ عبداللہ ابن عباس رضی اللہ عنہما سے نقل کرتے ہیں کہ نبی کریم صلی اللہ علیہ وسلم نے فرمایا مجھے دوزخ دکھلائی گئی تو اس میں زیادہ تر عورتیں تھیں جو کفر کرتی ہیں۔ کہا گیا یا رسول اللہ! کیا وہ اللہ کے ساتھ کفر کرتی ہیں؟ آپ صلی اللہ علیہ وسلم نے فرمایا کہ خاوند کی ناشکری کرتی ہیں۔ اور احسان کی ناشکری کرتی ہیں۔ اگر تم عمر بھر ان میں سے کسی کے ساتھ احسان کرتے رہو۔ پھر تمہاری طرف سے کبھی کوئی ان کے خیال میں ناگواری کی بات ہو جائے تو فوراً کہہ اٹھے گی کہ میں نے کبھی بھی تجھ سے کوئی بھلائی نہیں دیکھی۔",
+          "fr": "Rapporté par Ibn 'Abbas : Le Prophète (ﷺ) a dit : J'ai vu l'Enfer et la majorité de ses habitants étaient des femmes qui étaient ingrates. On a demandé : Sont-elles ingrates envers Allah ? (ou sont-elles ingrates envers Allah ?) Il a répondu : Elles sont ingrates envers leurs maris et envers les bienfaits et les bonnes actions qu'on leur fait. Si tu as toujours été bon envers l'une d'elles et qu'elle voit quelque chose chez toi qui ne lui plaît pas, elle dira : Je n'ai jamais rien reçu de bon de ta part",
+          "id": "Telah menceritakan kepada kami [Abdullah bin Maslamah] dari [Malik] dari [Zaid bin Aslam] dari ['Atho' bin Yasar] dari [Ibnu 'Abbas] berkata, Nabi shallallahu 'alaihi wasallam bersabda: \"Aku diperlihatkan neraka, ternyata kebanyakan penghuninya adalah wanita. Karena mereka sering mengingkari\". Ditanyakan: \"Apakah mereka mengingkari Allah?\" Beliau bersabda: \"Mereka mengingkari pemberian suami, mengingkari kebaikan. Seandainya kamu berbuat baik terhadap seseorang dari mereka sepanjang masa, lalu dia melihat satu saja kejelekan darimu maka dia akan berkata: 'aku belum pernah melihat kebaikan sedikitpun darimu",
+          "tr": "Abdullah ibn-i Abbas r.a şöyle demiştir: Nebiyy-i Muhterem sallallahu aleyhi ve sellem buyurdu ki: \"Bana afeş (cehennem) gösterildi. Cehennemliklerin çoğunluğunun kadınlar olduğunu gördüm. Zira onlar inkar edenlerdir\". Nebi (Sallallahu aleyhi ve Sellem)'e soruldu: \"Allah'ı mı inkar ederler?\" Nebi sallallahu aleyhi ve selem şöyle buyurdu: Kocalarını(n hakkını) inkar ederler, iyiliği inkar ederler. Onlardan birine uzun zaman iyilikte bulunsan, sonra senden (sevmediği) bir şey görse hemen 'zaten senden hiçbir iyilik görmedim' der\". Tekrar:"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 2,
+        "hadith": 22
+      },
+      "narrator": {
+        "en": "Ibn 'Abbas"
+      }
+    },
+    {
+      "hadithNumber": 30,
+      "arabicNumber": 30,
+      "book": 2,
+      "hadithInBook": 23,
+      "text": {
+        "arabic": "حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ وَاصِلٍ الأَحْدَبِ، عَنِ الْمَعْرُورِ، قَالَ لَقِيتُ أَبَا ذَرٍّ بِالرَّبَذَةِ، وَعَلَيْهِ حُلَّةٌ، وَعَلَى غُلاَمِهِ حُلَّةٌ، فَسَأَلْتُهُ عَنْ ذَلِكَ، فَقَالَ إِنِّي سَابَبْتُ رَجُلاً، فَعَيَّرْتُهُ بِأُمِّهِ، فَقَالَ لِيَ النَّبِيُّ صلى الله عليه وسلم ‏ \"‏ يَا أَبَا ذَرٍّ أَعَيَّرْتَهُ بِأُمِّهِ إِنَّكَ امْرُؤٌ فِيكَ جَاهِلِيَّةٌ، إِخْوَانُكُمْ خَوَلُكُمْ، جَعَلَهُمُ اللَّهُ تَحْتَ أَيْدِيكُمْ، فَمَنْ كَانَ أَخُوهُ تَحْتَ يَدِهِ فَلْيُطْعِمْهُ مِمَّا يَأْكُلُ، وَلْيُلْبِسْهُ مِمَّا يَلْبَسُ، وَلاَ تُكَلِّفُوهُمْ مَا يَغْلِبُهُمْ، فَإِنْ كَلَّفْتُمُوهُمْ فَأَعِينُوهُمْ ‏\"‏‏.‏",
+        "translations": {
+          "en": "Narrated Al-Ma'rur: At Ar-Rabadha I met Abu Dhar who was wearing a cloak, and his slave, too, was wearing a similar one. I asked about the reason for it. He replied, \"I abused a person by calling his mother with bad names.\" The Prophet said to me, 'O Abu Dhar! Did you abuse him by calling his mother with bad names You still have some characteristics of ignorance. Your slaves are your brothers and Allah has put them under your command. So whoever has a brother under his command should feed him of what he eats and dress him of what he wears. Do not ask them (slaves) to do things beyond their capacity (power) and if you do so, then help them",
+          "ur": "ہم سے سلیمان بن حرب نے بیان کیا، کہا ہم سے شعبہ نے بیان کیا، انہوں نے اسے واصل احدب سے، انہوں نے معرور سے، کہا میں ابوذر سے ربذہ میں ملا وہ ایک جوڑا پہنے ہوئے تھے اور ان کا غلام بھی جوڑا پہنے ہوئے تھا۔ میں نے اس کا سبب دریافت کیا تو کہنے لگے کہ میں نے ایک شخص یعنی غلام کو برا بھلا کہا تھا اور اس کی ماں کی غیرت دلائی ( یعنی گالی دی ) تو رسول اللہ صلی اللہ علیہ وسلم نے یہ معلوم کر کے مجھ سے فرمایا اے ابوذر! تو نے اسے ماں کے نام سے غیرت دلائی، بیشک تجھ میں ابھی کچھ زمانہ جاہلیت کا اثر باقی ہے۔ ( یاد رکھو ) ماتحت لوگ تمہارے بھائی ہیں۔ اللہ نے ( اپنی کسی مصلحت کی بنا پر ) انہیں تمہارے قبضے میں دے رکھا ہے تو جس کے ماتحت اس کا کوئی بھائی ہو تو اس کو بھی وہی کھلائے جو آپ کھاتا ہے اور وہی کپڑا اسے پہنائے جو آپ پہنتا ہے اور ان کو اتنے کام کی تکلیف نہ دو کہ ان کے لیے مشکل ہو جائے اور اگر کوئی سخت کام ڈالو تو تم خود بھی ان کی مدد کرو۔",
+          "fr": "Rapporté par Al-Ma'rur : À Ar-Rabadha, j'ai rencontré Abu Dhar qui portait un manteau, et son esclave en portait un similaire. J'ai demandé la raison de cela. Il a répondu : J'ai insulté quelqu'un en l'appelant par le nom de sa mère de façon blessante. Le Prophète m'a dit : Ô Abu Dhar ! As-tu insulté quelqu'un en l'appelant par le nom de sa mère ? Tu as encore des traits de l'ignorance. Vos esclaves sont vos frères et Allah les a placés sous votre responsabilité. Donc, celui qui a un frère sous son autorité doit le nourrir de ce qu'il mange et l'habiller de ce qu'il porte. Ne leur demandez pas des choses au-dessus de leurs capacités et si vous le faites, alors aidez-les",
+          "id": "Telah menceritakan kepada kami [Sulaiman bin Harb] berkata, telah menceritakan kepada kami [Syu'bah] dari [Washil Al Ahdab] dari [Al Ma'rur bin Suwaid] berkata: Aku bertemu [Abu Dzar] di Rabdzah yang saat itu mengenakan pakaian dua lapis, begitu juga anaknya, maka aku tanyakan kepadanya tentang itu, maka dia menjawab: Aku telah menghina seseorang dengan cara menghina ibunya, maka Nabi shallallahu 'alaihi wasallam menegurku: \"Wahai Abu Dzar apakah kamu menghina ibunya? Sesungguhnya kamu masih memiliki (sifat) jahiliyyah. Saudara-saudara kalian adalah tanggungan kalian, Allah telah menjadikan mereka di bawah tangan kalian. Maka siapa yang saudaranya berada di bawah tangannya (tanggungannya) maka jika dia makan berilah makanan seperti yang dia makan, bila dia berpakaian berilah seperti yang dia pakai, janganlah kalian membebani mereka sesuatu yang di luar batas kemampuan mereka. Jika kalian membebani mereka, maka bantulah mereka",
+          "tr": "Ma'rur'dan rivayet edildiğine göre o şöyle demiştir: Ebu Zer' ile Rebeze'de karşılaştık. Kendisinin ve kölesinin üzerinde bir hülle vardı. Ona bunun sebebini sorduğumda şöyle dedi: Bir adama sövdüm, onu anasından dolayı ayıpladım. Bunun üzerine Nebi (Sallallahu aleyhi ve Sellem) bana şöyle dedi: \"Ebu Zer' ! Onu anasından dolayı ayıplıyor musun? Gerçekten sen kendisinde cahiliye (ahlakı) olan birisin. Kardeşleriniz sizin hizmetçilerinizdir. Allah onları sizin elinizin altına (idarenize) verdi. Kimin elinin altında kardeşi varsa ona yediğinden yedirsin, giydiğinden giydirsin. Onlara yapamayacakları şeyler yüklemeyin. Şayet onlara bir iş yüklerseniz kendilerine yardımcı olunuz. Tekrar:"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 2,
+        "hadith": 23
+      },
+      "narrator": {
+        "en": "Al-Ma'rur"
+      }
+    },
+    {
+      "hadithNumber": 31,
+      "arabicNumber": 31,
+      "book": 2,
+      "hadithInBook": 24,
+      "text": {
+        "arabic": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ الْمُبَارَكِ، حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، حَدَّثَنَا أَيُّوبُ، وَيُونُسُ، عَنِ الْحَسَنِ، عَنِ الأَحْنَفِ بْنِ قَيْسٍ، قَالَ ذَهَبْتُ لأَنْصُرَ هَذَا الرَّجُلَ، فَلَقِيَنِي أَبُو بَكْرَةَ فَقَالَ أَيْنَ تُرِيدُ قُلْتُ أَنْصُرُ هَذَا الرَّجُلَ‏.‏ قَالَ ارْجِعْ فَإِنِّي سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\"‏ إِذَا الْتَقَى الْمُسْلِمَانِ بِسَيْفَيْهِمَا فَالْقَاتِلُ وَالْمَقْتُولُ فِي النَّارِ ‏\"‏‏.‏ فَقُلْتُ يَا رَسُولَ اللَّهِ هَذَا الْقَاتِلُ فَمَا بَالُ الْمَقْتُولِ قَالَ ‏\"‏ إِنَّهُ كَانَ حَرِيصًا عَلَى قَتْلِ صَاحِبِهِ ‏\"‏‏.‏",
+        "translations": {
+          "en": "Narrated Al-Ahnaf bin Qais: While I was going to help this man ('Ali Ibn Abi Talib), Abu Bakra met me and asked, \"Where are you going?\" I replied, \"I am going to help that person.\" He said, \"Go back for I have heard Allah's Messenger (ﷺ) saying, 'When two Muslims fight (meet) each other with their swords, both the murderer as well as the murdered will go to the Hell-fire.' I said, 'O Allah's Messenger (ﷺ)! It is all right for the murderer but what about the murdered one?' Allah's Messenger (ﷺ) replied, \"He surely had the intention to kill his companion",
+          "ur": "ہم سے بیان کیا عبدالرحمٰن بن مبارک نے، کہا ہم سے بیان کیا حماد بن زید نے، کہا ہم سے بیان کیا ایوب اور یونس نے، انہوں نے حسن سے، انہوں نے احنف بن قیس سے، کہا کہ میں اس شخص ( علی رضی اللہ عنہ ) کی مدد کرنے کو چلا۔ راستے میں مجھ کو ابوبکرہ ملے۔ پوچھا کہاں جاتے ہو؟ میں نے کہا، اس شخص ( علی رضی اللہ عنہ ) کی مدد کرنے کو جاتا ہوں۔ ابوبکرہ نے کہا اپنے گھر کو لوٹ جاؤ۔ میں نے نبی کریم صلی اللہ علیہ وسلم سے سنا ہے آپ صلی اللہ علیہ وسلم فرماتے تھے جب دو مسلمان اپنی اپنی تلواریں لے کر بھڑ جائیں تو قاتل اور مقتول دونوں دوزخی ہیں۔ میں نے عرض کیا یا رسول اللہ! قاتل تو خیر ( ضرور دوزخی ہونا چاہیے ) مقتول کیوں؟ فرمایا ”وہ بھی اپنے ساتھی کو مار ڈالنے کی حرص رکھتا تھا۔“ ( موقع پاتا تو وہ اسے ضرور قتل کر دیتا دل کے عزم صمیم پر وہ دوزخی ہوا ) ۔",
+          "fr": "Rapporté par Al-Ahnaf bin Qais : Alors que j'allais aider cet homme ('Ali Ibn Abi Talib), Abu Bakra m'a rencontré et m'a demandé : Où vas-tu ? J'ai répondu : Je vais aider cette personne. Il a dit : Retourne, car j'ai entendu le Messager d'Allah (ﷺ) dire : Lorsque deux musulmans se battent l'un contre l'autre avec leurs épées, le meurtrier comme le tué iront tous deux en Enfer. J'ai dit : Ô Messager d'Allah (ﷺ) ! C'est normal pour le meurtrier, mais qu'en est-il du tué ? Le Messager d'Allah (ﷺ) a répondu : Il avait sûrement l'intention de tuer son compagnon",
+          "id": "Telah menceritakan kepada kami [Abdurrahman bin Al Mubarak] Telah menceritakan kepada kami [Hammad bin Zaid] Telah menceritakan kepada kami [Ayyub] dan [Yunus] dari [Al Hasan] dari [Al Ahnaf bin Qais] berkata; aku datang untuk menolong seseorang kemudian bertemu [Abu Bakrah], maka dia bertanya: \"Kamu mau kemana?\" Aku jawab: \"hendak menolong seseorang\" dia berkata: \"Kembalilah, karena aku pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: \"Jika dua orang muslim saling bertemu (untuk berkelahi) dengan menghunus pedang masing-masing, maka yang terbunuh dan membunuh masuk neraka\". aku pun bertanya: \"Wahai Rasulullah, ini bagi yang membunuh, tapi bagaimana dengan yang terbunuh?\" Maka Nabi shallallahu 'alaihi wasallam menjawab: \"Dia juga sebelumnya sangat ingin untuk membunuh temannya",
+          "tr": "Ahnef b. Kays'tan rivayet edildiğine göre o şöyle demiştir: Şu adama (Hz. Ali'ye) yardım etme niyeti İle çıktım. Ebu Bekre ile karşılaştım. Bana: \"Nereye gidiyorsun?\" diye sordu. \"Şu adam'a yardım etmeye gidiyorum\" dedim. O: \"Geri dön. Çünkü ben Allah Resulü'nün şöyle dediğini duydum: ''iki Müslüman kılıç kılıca karşılaştıklarında öldüren de öldürülen de ateştedir. Nebi (Sallallahu aleyhi ve Sellem)'e sordum: ''Öldüreni anladım da ya şu öldürülen niçin ateştedir ey Allah'ın elçisi ?'' Allah Resulü şöyle buyurdu: \"Çünkü o da arkadaşını öldürmek istiyordu. Tekrar: 6875, 7083 Diğer tahric: Müslim, fiten ve işratu’s-sa’a"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 2,
+        "hadith": 24
+      },
+      "narrator": {
+        "en": "Al-Ahnaf bin Qais"
+      }
+    },
+    {
+      "hadithNumber": 32,
+      "arabicNumber": 32,
+      "book": 2,
+      "hadithInBook": 25,
+      "text": {
+        "arabic": "حَدَّثَنَا أَبُو الْوَلِيدِ، قَالَ حَدَّثَنَا شُعْبَةُ، ح‏.‏ قَالَ وَحَدَّثَنِي بِشْرٌ، قَالَ حَدَّثَنَا مُحَمَّدٌ، عَنْ شُعْبَةَ، عَنْ سُلَيْمَانَ، عَنْ إِبْرَاهِيمَ، عَنْ عَلْقَمَةَ، عَنْ عَبْدِ اللَّهِ، قَالَ لَمَّا نَزَلَتِ ‏{‏الَّذِينَ آمَنُوا وَلَمْ يَلْبِسُوا إِيمَانَهُمْ بِظُلْمٍ‏}‏ قَالَ أَصْحَابُ رَسُولِ اللَّهِ صلى الله عليه وسلم أَيُّنَا لَمْ يَظْلِمْ فَأَنْزَلَ اللَّهُ ‏{‏إِنَّ الشِّرْكَ لَظُلْمٌ عَظِيمٌ‏}‏‏.‏",
+        "translations": {
+          "en": "Narrated 'Abdullah: When the following Verse was revealed: \"It is those who believe and confuse not their belief with wrong (worshipping others besides Allah.)\" (6:83), the companions of Allah's Messenger (ﷺ) asked, \"Who is amongst us who had not done injustice (wrong)?\" Allah revealed: \"No doubt, joining others in worship with Allah is a great injustice (wrong) indeed",
+          "ur": "ہمارے سامنے ابوالولید نے بیان کیا، انہوں نے کہا ہم سے شعبہ نے بیان کیا (دوسری سند) اور امام بخاری رحمہ اللہ نے کہا کہ ہم سے (اسی حدیث کو) بشر نے بیان کیا، ان سے محمد نے، ان سے شعبہ نے، انہوں نے سلیمان سے، انہوں نے علقمہ سے، انہوں نے عبداللہ بن مسعود رضی اللہ عنہ سے جب سورۃ الانعام کی یہ آیت اتری جو لوگ ایمان لائے اور انہوں نے اپنے ایمان میں گناہوں کی آمیزش نہیں کی تو آپ صلی اللہ علیہ وسلم کے اصحاب نے کہا یا رسول اللہ! یہ تو بہت ہی مشکل ہے۔ ہم میں کون ایسا ہے جس نے گناہ نہیں کیا۔ تب اللہ پاک نے سورۃ لقمان کی یہ آیت اتاری «إن الشرك لظلم عظيم‏» کہ بیشک شرک بڑا ظلم ہے۔",
+          "fr": "Rapporté par 'Abdullah : Lorsque ce verset a été révélé : Ce sont ceux qui croient et ne mêlent pas leur foi à l'injustice (adorer d'autres qu'Allah) (6:83), les compagnons du Messager d'Allah (ﷺ) ont demandé : Qui parmi nous n'a pas commis d'injustice ? Allah a révélé : Certes, associer d'autres à Allah est une grande injustice",
+          "id": "Telah menceritakan kepada kami [Abu Al Walid] berkata, telah menceritakan kepada kami [Syu'bah] dan juga telah meriwayatkan hadits yang serupa ini, Telah menceritakan kepadaku [Bisyir bin Khalid Abu Muhammad Al 'Asykari] berkata, telah menceritakan kepada kami [Muhammad bin Ja'far] dari [Syu'bah] dari [Sulaiman] dari [Ibrahim] dari [Alqamah] dari [Abdullah] berkata: ketika turun ayat: \"Orang-orang beriman dan tidak mencampur adukkan iman mereka dengan kezhaliman\" para sahabat Rasulullah shallallahu 'alaihi wasallam bertanya: \"Siapakah diantara kami yang tidak berbuat zhalim? Maka Allah 'azza wajalla menurunkan (firman-Nya): \"Sesungguhnya kesyirikan adalah kezhaliman yang besar\". (QS. Luqman:)",
+          "tr": "Abdullah (İbn-i Mes’ud’dan) rivayet’e göre: \"İman edenler ve imanlarına zulüm karıştırmayanlar var ya.[En'am, 82] ayeti indiri­lince Nebi (Sallallahu aleyhi ve Sellem)'e: \"Hangimiz zulüm etmemiştir ki! dediler. Bunun üzerine Allah şu âyeti indirdi: \"Şüphesiz ki şirk büyük bir zulümdür.[Lokman, 13] Tekrar:"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 2,
+        "hadith": 25
+      },
+      "narrator": {
+        "en": "'Abdullah"
+      }
+    },
+    {
+      "hadithNumber": 33,
+      "arabicNumber": 33,
+      "book": 2,
+      "hadithInBook": 26,
+      "text": {
+        "arabic": "حَدَّثَنَا سُلَيْمَانُ أَبُو الرَّبِيعِ، قَالَ حَدَّثَنَا إِسْمَاعِيلُ بْنُ جَعْفَرٍ، قَالَ حَدَّثَنَا نَافِعُ بْنُ مَالِكِ بْنِ أَبِي عَامِرٍ أَبُو سُهَيْلٍ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ آيَةُ الْمُنَافِقِ ثَلاَثٌ إِذَا حَدَّثَ كَذَبَ، وَإِذَا وَعَدَ أَخْلَفَ، وَإِذَا اؤْتُمِنَ خَانَ ‏\"‏‏.‏",
+        "translations": {
+          "en": "Narrated Abu Huraira: The Prophet (ﷺ) said, \"The signs of a hypocrite are three: 1. Whenever he speaks, he tells a lie. 2. Whenever he promises, he always breaks it (his promise ). 3. If you trust him, he proves to be dishonest. (If you keep something as a trust with him, he will not return it)",
+          "ur": "ہم سے سلیمان ابوالربیع نے بیان کیا، ان سے اسماعیل بن جعفر نے، ان سے نافع بن ابی عامر ابوسہیل نے، وہ اپنے باپ سے، وہ ابوہریرہ رضی اللہ عنہ سے روایت کرتے ہیں، وہ رسول اللہ صلی اللہ علیہ وسلم سے نقل کرتے ہیں کہ آپ صلی اللہ علیہ وسلم نے فرمایا، منافق کی علامتیں تین ہیں۔ جب بات کرے جھوٹ بولے، جب وعدہ کرے اس کے خلاف کرے اور جب اس کو امین بنایا جائے تو خیانت کرے۔",
+          "fr": "Rapporté par Abu Huraira : Le Prophète (ﷺ) a dit : Les signes d'un hypocrite sont au nombre de trois : 1. Quand il parle, il ment. 2. Quand il promet, il ne tient pas sa promesse. 3. Si tu lui confies quelque chose, il trahit la confiance. (Si tu lui confies un objet, il ne te le rendra pas)",
+          "id": "Telah menceritakan kepada kami [Sulaiman Abu ar Rabi'] berkata, telah menceritakan kepada kami [Isma'il bin Ja'far] berkata, telah menceritakan kepada kami [Nafi' bin Malik bin Abu 'Amir Abu Suhail] dari [bapaknya] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: \"Tanda-tanda munafiq ada tiga; jika berbicara dusta, jika berjanji mengingkari dan jika diberi amanat dia khianat",
+          "tr": "Ebu Hureyre r.a. şöyle demiştir: Nebiyy-i Muhterem sallallahu aleyhi ve sellem buyurdu ki: \"Münafığın alâmeti üçtür: 1. Konuştuğunda yalan söyler, 2. Söz verdiğinde sözünden döner, 3. Kendisine bir şey emanet edildiğinde ihanet eder\". Tekrar: 2682, 2749, 6095. Diğer tahric: Tirmizî, İman: 25; Müslim, İman GENİŞ AÇIKLAMA: 32 de"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 2,
+        "hadith": 26
+      },
+      "narrator": {
+        "en": "Abu Huraira"
+      }
+    },
+    {
+      "hadithNumber": 34,
+      "arabicNumber": 34,
+      "book": 2,
+      "hadithInBook": 27,
+      "text": {
+        "arabic": "حَدَّثَنَا قَبِيصَةُ بْنُ عُقْبَةَ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنِ الأَعْمَشِ، عَنْ عَبْدِ اللَّهِ بْنِ مُرَّةَ، عَنْ مَسْرُوقٍ، عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏ \"‏ أَرْبَعٌ مَنْ كُنَّ فِيهِ كَانَ مُنَافِقًا خَالِصًا، وَمَنْ كَانَتْ فِيهِ خَصْلَةٌ مِنْهُنَّ كَانَتْ فِيهِ خَصْلَةٌ مِنَ النِّفَاقِ حَتَّى يَدَعَهَا إِذَا اؤْتُمِنَ خَانَ وَإِذَا حَدَّثَ كَذَبَ وَإِذَا عَاهَدَ غَدَرَ، وَإِذَا خَاصَمَ فَجَرَ ‏\"‏‏.‏ تَابَعَهُ شُعْبَةُ عَنِ الأَعْمَشِ‏.‏",
+        "translations": {
+          "en": "Narrated 'Abdullah bin 'Amr: The Prophet (ﷺ) said, \"Whoever has the following four (characteristics) will be a pure hypocrite and whoever has one of the following four characteristics will have one characteristic of hypocrisy unless and until he gives it up. 1. Whenever he is entrusted, he betrays. 2. Whenever he speaks, he tells a lie. 3. Whenever he makes a covenant, he proves treacherous. 4. Whenever he quarrels, he behaves in a very imprudent, evil and insulting manner",
+          "ur": "ہم سے قبیصہ بن عقبہ نے یہ حدیث بیان کی، ان سے سفیان نے، وہ اعمش بن عبیداللہ بن مرہ سے نقل کرتے ہیں، وہ مسروق سے، وہ عبداللہ بن عمر رضی اللہ عنہما سے روایت کرتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا کہ چار عادتیں جس کسی میں ہوں تو وہ خالص منافق ہے اور جس کسی میں ان چاروں میں سے ایک عادت ہو تو وہ ( بھی ) نفاق ہی ہے، جب تک اسے نہ چھوڑ دے۔ ( وہ یہ ہیں ) جب اسے امین بنایا جائے تو ( امانت میں ) خیانت کرے اور بات کرتے وقت جھوٹ بولے اور جب ( کسی سے ) عہد کرے تو اسے پورا نہ کرے اور جب ( کسی سے ) لڑے تو گالیوں پر اتر آئے۔ اس حدیث کو شعبہ نے ( بھی ) سفیان کے ساتھ اعمش سے روایت کیا ہے۔",
+          "fr": "Rapporté par 'Abdullah bin 'Amr : Le Prophète (ﷺ) a dit : Celui qui possède ces quatre caractéristiques est un hypocrite pur, et celui qui en possède une a une caractéristique d'hypocrisie jusqu'à ce qu'il l'abandonne : 1. Quand on lui confie quelque chose, il trahit. 2. Quand il parle, il ment. 3. Quand il fait un pacte, il le trahit. 4. Quand il se dispute, il se comporte de façon grossière, mauvaise et insultante",
+          "id": "Telah menceritakan kepada kami [Qabishah bin 'Uqbah] berkata, telah menceritakan kepada kami [Sufyan] dari [Al A'masy] dari [Abdullah bin Murrah] dari [Masruq] dari [Abdullah bin 'Amru] bahwa Nabi shallallahu 'alaihi wasallam bersabda: \"Empat hal bila ada pada seseorang maka dia adalah seorang munafiq tulen, dan barangsiapa yang terdapat pada dirinya satu sifat dari empat hal tersebut maka pada dirinya terdapat sifat nifaq hingga dia meninggalkannya. Yaitu, jika diberi amanat dia khianat, jika berbicara dusta, jika berjanji mengingkari dan jika berseteru curang\". Hadits ini diriwayatkan pula oleh [Syu'bah] dari [Al A'masy]",
+          "tr": "Abdullah bin Amr r.a. şöyle demiştir: Nebiyy-i Mükerrem sallallahu aleyhi ve sellem buyurdu ki: \"Dört şey kimde bulunursa o kişi halis münafık olur. Kimde bu özelliklerden biri bulunursa bunu terk edinceye kadar kendisinde ni­fak özelliklerinden biri bulunmuş olur: Kendisine bir şey emanet edilince ihanet eder, Konuştuğunda yalan söyler, Antlaşma yaptığında antlaşmaya vefa göstermez, Düşmanlık yaptığında haddi aşar. Tekrar: 2459, 3178. Diğer tahric edenler: Tirmizî, İman; Müslim, İman"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 2,
+        "hadith": 27
+      },
+      "narrator": {
+        "en": "'Abdullah bin 'Amr"
+      }
+    },
+    {
+      "hadithNumber": 35,
+      "arabicNumber": 35,
+      "book": 2,
+      "hadithInBook": 28,
+      "text": {
+        "arabic": "حَدَّثَنَا أَبُو الْيَمَانِ، قَالَ أَخْبَرَنَا شُعَيْبٌ، قَالَ حَدَّثَنَا أَبُو الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ مَنْ يَقُمْ لَيْلَةَ الْقَدْرِ إِيمَانًا وَاحْتِسَابًا غُفِرَ لَهُ مَا تَقَدَّمَ مِنْ ذَنْبِهِ ‏\"‏‏.‏",
+        "translations": {
+          "en": "Narrated Abu Huraira: Allah's Messenger (ﷺ) said, \"Whoever establishes the prayers on the night of Qadr out of sincere faith and hoping to attain Allah's rewards (not to show off) then all his past sins will be forgiven",
+          "ur": "ہم سے ابوالیمان نے بیان کیا، انہیں شعیب نے خبر دی، کہا ان سے ابوالزناد نے اعرج کے واسطے سے بیان کیا، اعرج نے ابوہریرہ رضی اللہ عنہ سے نقل کیا، وہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا، جو شخص شب قدر ایمان کے ساتھ محض ثواب آخرت کے لیے ذکر و عبادت میں گزارے، اس کے گزشتہ گناہ بخش دئیے جاتے ہیں۔",
+          "fr": "Rapporté par Abu Huraira : Le Messager d'Allah (ﷺ) a dit : Celui qui prie pendant la nuit du Destin (Laylat al-Qadr) avec une foi sincère et dans l'espoir de la récompense d'Allah (et non pour se faire remarquer), tous ses péchés passés seront pardonnés",
+          "id": "Telah menceritakan kepada kami [Abu Al Yaman] berkata, telah mengabarkan kepada kami [Syu'aib] berkata, telah menceritakan kepada kami [Abu Al Zanad] dari [Al A'raj] dari [Abu Hurairah] berkata, Rasulullah shallallahu 'alaihi wasallam bersabda: \"Barangsiapa menegakkan lailatul qodar karena iman dan mengharap pahala, maka diampuni dosa-dosanya yang telah lalu",
+          "tr": "Ebu Hureyre r.a. şöyle demiştir: Resulullah sallallahu aleyhi ve sellem buyurdu ki: Kim inanarak ve sevabını yalnızca Allah'tan umarak Kadir gecesini ihya ederse geçmiş günahlerı bağışlanır. Tekrar:"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 2,
+        "hadith": 28
+      },
+      "narrator": {
+        "en": "Abu Huraira"
+      }
+    },
+    {
+      "hadithNumber": 36,
+      "arabicNumber": 36,
+      "book": 2,
+      "hadithInBook": 29,
+      "text": {
+        "arabic": "حَدَّثَنَا حَرَمِيُّ بْنُ حَفْصٍ، قَالَ حَدَّثَنَا عَبْدُ الْوَاحِدِ، قَالَ حَدَّثَنَا عُمَارَةُ، قَالَ حَدَّثَنَا أَبُو زُرْعَةَ بْنُ عَمْرِو بْنِ جَرِيرٍ، قَالَ سَمِعْتُ أَبَا هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ انْتَدَبَ اللَّهُ لِمَنْ خَرَجَ فِي سَبِيلِهِ لاَ يُخْرِجُهُ إِلاَّ إِيمَانٌ بِي وَتَصْدِيقٌ بِرُسُلِي أَنْ أُرْجِعَهُ بِمَا نَالَ مِنْ أَجْرٍ أَوْ غَنِيمَةٍ، أَوْ أُدْخِلَهُ الْجَنَّةَ، وَلَوْلاَ أَنْ أَشُقَّ عَلَى أُمَّتِي مَا قَعَدْتُ خَلْفَ سَرِيَّةٍ، وَلَوَدِدْتُ أَنِّي أُقْتَلُ فِي سَبِيلِ اللَّهِ ثُمَّ أُحْيَا، ثُمَّ أُقْتَلُ ثُمَّ أُحْيَا، ثُمَّ أُقْتَلُ ‏\"‏‏.‏",
+        "translations": {
+          "en": "Narrated Abu Huraira: The Prophet (ﷺ) said, \"The person who participates in (Holy battles) in Allah's cause and nothing compels him to do so except belief in Allah and His Apostles, will be recompensed by Allah either with a reward, or booty (if he survives) or will be admitted to Paradise (if he is killed in the battle as a martyr). Had I not found it difficult for my followers, then I would not remain behind any sariya going for Jihad and I would have loved to be martyred in Allah's cause and then made alive, and then martyred and then made alive, and then again martyred in His cause",
+          "ur": "ہم سے حرمی بن حفص نے بیان کیا، ان سے عبدالواحد نے، ان سے عمارہ نے، ان سے ابوزرعہ بن عمرو بن جریر نے، وہ کہتے ہیں میں نے ابوہریرہ سے سنا، وہ رسول اللہ صلی اللہ علیہ وسلم سے نقل کرتے ہیں آپ صلی اللہ علیہ وسلم نے فرمایا کہ جو شخص اللہ کی راہ میں ( جہاد کے لیے ) نکلا، اللہ اس کا ضامن ہو گیا۔ ( اللہ تعالیٰ فرماتا ہے ) اس کو میری ذات پر یقین اور میرے پیغمبروں کی تصدیق نے ( اس سرفروشی کے لیے گھر سے ) نکالا ہے۔ ( میں اس بات کا ضامن ہوں ) کہ یا تو اس کو واپس کر دوں ثواب اور مال غنیمت کے ساتھ، یا ( شہید ہونے کے بعد ) جنت میں داخل کر دوں ( رسول اللہ صلی اللہ علیہ وسلم نے فرمایا ) اور اگر میں اپنی امت پر ( اس کام کو ) دشوار نہ سمجھتا تو لشکر کا ساتھ نہ چھوڑتا اور میری خواہش ہے کہ اللہ کی راہ میں مارا جاؤں، پھر زندہ کیا جاؤں، پھر مارا جاؤں، پھر زندہ کیا جاؤں، پھر مارا جاؤں۔",
+          "fr": "Rapporté par Abu Huraira : Le Prophète (ﷺ) a dit : Celui qui participe à un combat dans la cause d'Allah et n'est poussé à le faire que par sa foi en Allah et en Son Messager, Allah le récompensera soit par une récompense, soit par un butin (s'il survit), soit il sera admis au Paradis (s'il meurt en martyr). Si cela n'était pas difficile pour mes fidèles, je n'aurais jamais manqué d'accompagner une expédition partant pour le jihad, et j'aurais aimé être tué en martyr dans la cause d'Allah, puis ressuscité, puis tué à nouveau en martyr, puis ressuscité, et encore tué en martyr pour Lui",
+          "id": "Telah menceritakan kepada kami [Harami bin Hafsh] berkata, telah menceritakan kepada kami [Abdul Wahid] berkata, telah menceritakan kepada kami [Umarah] berkata, telah menceritakan kepada kami [Abu Zur'ah bin 'Amru bin Jarir] berkata: Aku mendengar [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: \"Allah menjamin orang yang keluar (berperang) di jalan-Nya, tidak ada yang mendorongnya keluar kecuali karena iman kepada-Ku dan membenarkan para rasul-Ku untuk mengembalikannya dengan memperoleh pahala atau ghonimah atau memasukkannya ke surga. Kalau seandainya tidak memberatkan umatku tentu aku tidak akan duduk tinggal diam di belakang sariyyah (pasukan khusus) dan tentu aku ingin sekali bila aku terbunuh di jalan Allah lalu aku dihidupkan lagi kemudian terbunuh lagi lalu aku dihidupkan kembali kemudian terbunuh lagi",
+          "tr": "Ebu Zür'a bin Amr bin Cerîr şöyle demiştir. Ebu Hureyre'nin şöyle dediğini duydum. Nebiyy-i Ekrem sallallahu aleyhi ve sellem buyurdu ki: \"Allah kendi yolunda cihad'a çıkan kişi için kefil olarak şöyle buyurmuştur: Bu kişiyi yalnızca bana olan imanı ve elçilerimi tasdik etmesi cihada çıkarmıştır. Ben onu kazanacağı ecir veya ganimetle geri döndürme yahut cennet'e koymaya kefilim'. (Nebi (Sallallahu aleyhi ve Sellem) şöyle buyurdu:) Ümmetime zorluk çıkartmayacak olsaydım savaşa çıkan hiçbir seriyyenin arkasında kalmazdım. Allah yolunda öldürülmeyi, sonra diriltilmeyi sonra tekrar öldürülmeyi sonra tekrar diriltilmeyi sonra yine öldürülmeyi isterdim.'' Tekrar: 2787, 2797, 2972, 3123, 7226, 7227, 7457,7463. AÇIKLAMA 36’DA"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 2,
+        "hadith": 29
+      },
+      "narrator": {
+        "en": "Abu Huraira"
+      }
+    },
+    {
+      "hadithNumber": 37,
+      "arabicNumber": 37,
+      "book": 2,
+      "hadithInBook": 30,
+      "text": {
+        "arabic": "حَدَّثَنَا إِسْمَاعِيلُ، قَالَ حَدَّثَنِي مَالِكٌ، عَنِ ابْنِ شِهَابٍ، عَنْ حُمَيْدِ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ مَنْ قَامَ رَمَضَانَ إِيمَانًا وَاحْتِسَابًا غُفِرَ لَهُ مَا تَقَدَّمَ مِنْ ذَنْبِهِ ‏\"‏‏.‏",
+        "translations": {
+          "en": "Narrated Abu Huraira: Allah's Messenger (ﷺ) said: \"Whoever establishes prayers during the nights of Ramadan faithfully out of sincere faith and hoping to attain Allah's rewards (not for showing off), all his past sins will be forgiven",
+          "ur": "ہم سے اسماعیل نے بیان کیا، انہوں نے کہا کہ مجھ سے امام مالک رحمہ اللہ نے بیان کیا، انہوں نے ابن شہاب سے نقل کیا، انہوں نے حمید بن عبدالرحمٰن سے، انہوں نے ابوہریرہ رضی اللہ عنہ سے کہ نبی کریم صلی اللہ علیہ وسلم نے فرمایا جو کوئی رمضان میں ( راتوں کو ) ایمان رکھ کر اور ثواب کے لیے عبادت کرے اس کے اگلے گناہ بخش دئیے جاتے ہیں۔",
+          "fr": "Rapporté par Abu Huraira : Le Messager d'Allah (ﷺ) a dit : Celui qui prie pendant les nuits du Ramadan avec une foi sincère et dans l'espoir de la récompense d'Allah (et non pour se faire remarquer), tous ses péchés passés seront pardonnés",
+          "id": "Telah menceritakan kepada kami [Isma'il] berkata, telah menceritakan kepadaku [Malik] dari [Ibnu Syihab] dari [Humaid bin Abdurrahman] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: \"Barangsiapa menegakkan Ramadlan karena iman dan mengharap pahala, maka diampuni dosa-dosanya yang telah lalu",
+          "tr": "Ebu Hureyre r.a. Resulullâh sallallahu aleyhi ve sellem buyurdu ki: \"Kim inanarak ve sevabını yalnızca Allah'tan umarak Ramazan'ı (gecelerini) ihya ederse geçmiş günahları bağışlanır. AÇIKLAMA 36’DA"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 2,
+        "hadith": 30
+      },
+      "narrator": {
+        "en": "Abu Huraira"
+      }
+    },
+    {
+      "hadithNumber": 38,
+      "arabicNumber": 38,
+      "book": 2,
+      "hadithInBook": 31,
+      "text": {
+        "arabic": "حَدَّثَنَا ابْنُ سَلاَمٍ، قَالَ أَخْبَرَنَا مُحَمَّدُ بْنُ فُضَيْلٍ، قَالَ حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ مَنْ صَامَ رَمَضَانَ إِيمَانًا وَاحْتِسَابًا غُفِرَ لَهُ مَا تَقَدَّمَ مِنْ ذَنْبِهِ ‏\"‏‏.‏",
+        "translations": {
+          "en": "Narrated Abu Huraira: Allah's Messenger (ﷺ) said, \"Whoever observes fasts during the month of Ramadan out of sincere faith, and hoping to attain Allah's rewards, then all his past sins will be forgiven",
+          "ur": "ہم نے ابن سلام نے بیان کیا، انہوں نے کہا کہ ہمیں محمد بن فضیل نے خبر دی، انہوں نے کہا کہ ہم سے یحییٰ بن سعید نے بیان کیا، انہوں نے ابوسلمہ سے روایت کی، وہ ابوہریرہ رضی اللہ عنہ سے نقل کرتے ہیں کہ نبی کریم صلی اللہ علیہ وسلم نے فرمایا جس نے رمضان کے روزے ایمان اور خالص نیت کے ساتھ رکھے اس کے پچھلے گناہ بخش دیئے گئے۔",
+          "fr": "Rapporté par Abu Huraira : Le Messager d'Allah (ﷺ) a dit : « Celui qui jeûne pendant le mois de Ramadan avec une foi sincère et dans l’espoir d’obtenir la récompense d’Allah, alors tous ses péchés passés seront pardonnés. »",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Salam] berkata, telah mengabarkan kepada kami [Muhammad bin Fudlail] berkata, telah menceritakan kepada kami [Yahya bin Sa'id] dari [Abu Salamah] dari [Abu Hurairah] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Barangsiapa yang berpuasa karena iman dan mengharap pahala, maka diampuni dosa-dosanya yang telah lalu",
+          "tr": "Ebu Hureyre r.a. şöyle dedi: Resulullah sallallahu aleyhi ve sellem buyurdu ki: \"Kim inanarak ve sevabını yalnızca Allah tan umarak Ramazan orucunu tutarsa geçmiş günahları bağışlanır"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 2,
+        "hadith": 31
+      },
+      "narrator": {
+        "en": "Abu Huraira"
+      }
+    },
+    {
+      "hadithNumber": 39,
+      "arabicNumber": 39,
+      "book": 2,
+      "hadithInBook": 32,
+      "text": {
+        "arabic": "حَدَّثَنَا عَبْدُ السَّلاَمِ بْنُ مُطَهَّرٍ، قَالَ حَدَّثَنَا عُمَرُ بْنُ عَلِيٍّ، عَنْ مَعْنِ بْنِ مُحَمَّدٍ الْغِفَارِيِّ، عَنْ سَعِيدِ بْنِ أَبِي سَعِيدٍ الْمَقْبُرِيِّ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ إِنَّ الدِّينَ يُسْرٌ، وَلَنْ يُشَادَّ الدِّينَ أَحَدٌ إِلاَّ غَلَبَهُ، فَسَدِّدُوا وَقَارِبُوا وَأَبْشِرُوا، وَاسْتَعِينُوا بِالْغَدْوَةِ وَالرَّوْحَةِ وَشَىْءٍ مِنَ الدُّلْجَةِ ‏\"‏‏.‏",
+        "translations": {
+          "en": "Narrated Abu Huraira: The Prophet (ﷺ) said, \"Religion is very easy and whoever overburdens himself in his religion will not be able to continue in that way. So you should not be extremists, but try to be near to perfection and receive the good tidings that you will be rewarded; and gain strength by worshipping in the mornings, the afternoons, and during the last hours of the nights.\" (See Fath-ul-Bari, Page 102, Vol)",
+          "ur": "ہم سے عبدالسلام بن مطہر نے بیان کیا، انہوں نے کہا کہ ہم کو عمر بن علی نے معن بن محمد غفاری سے خبر دی، وہ سعید بن ابوسعید مقبری سے، وہ ابوہریرہ سے کہ نبی کریم صلی اللہ علیہ وسلم نے فرمایا بیشک دین آسان ہے اور جو شخص دین میں سختی اختیار کرے گا تو دین اس پر غالب آ جائے گا ( اور اس کی سختی نہ چل سکے گی ) پس ( اس لیے ) اپنے عمل میں پختگی اختیار کرو۔ اور جہاں تک ممکن ہو میانہ روی برتو اور خوش ہو جاؤ ( کہ اس طرز عمل سے تم کو دارین کے فوائد حاصل ہوں گے ) اور صبح اور دوپہر اور شام اور کسی قدر رات میں ( عبادت سے ) مدد حاصل کرو۔ ( نماز پنج وقتہ بھی مراد ہو سکتی ہے کہ پابندی سے ادا کرو۔)",
+          "fr": "Rapporté par Abu Huraira : Le Prophète (ﷺ) a dit : « La religion est très facile et celui qui se complique trop la vie dans sa pratique religieuse ne pourra pas continuer ainsi. Donc, ne soyez pas extrêmes, essayez plutôt de vous rapprocher de la perfection et réjouissez-vous car vous serez récompensés ; et puisez de la force en adorant Allah le matin, l’après-midi et pendant les dernières heures de la nuit. »",
+          "id": "Telah menceritakan kepada kami [Abdus Salam bin Muthahhar] berkata, telah menceritakan kepada kami [Umar bin Ali] dari [Ma'an bin Muhammad Al Ghifari] dari [Sa'id bin Abu Sa'id Al Maqburi] dari [Abu Hurairah] bahwa Nabi shallallahu 'alaihi wasallam bersabda: \"Sesungguhnya agama itu mudah, dan tidaklah seseorang mempersulit agama kecuali dia akan dikalahkan (semakin berat dan sulit). Maka berlakulah lurus kalian, mendekatlah (kepada yang benar) dan berilah kabar gembira dan minta tolonglah dengan Al Ghadwah (berangkat di awal pagi) dan ar-ruhah (berangkat setelah zhuhur) dan sesuatu dari ad-duljah ((berangkat di waktu malam)",
+          "tr": "Ebu Hureyre r.a. dediki Nebiyy-i Muhterem sallallahu aleyhi ve sellem buyurdu ki: \"Dîn kolaylıktır. Dini aşmak isteyen kimse, ona yenik düşer. O halde, orta yolu tutunuz, (elinizden gelenin) en iyisini yapmaya çalışınız, o zaman size müjdeler otsun; günün başlangıcından, sonundan ve bir miktar da geceden faydalanınız. Tekrar:"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 2,
+        "hadith": 32
+      },
+      "narrator": {
+        "en": "Abu Huraira"
+      }
+    },
+    {
+      "hadithNumber": 40,
+      "arabicNumber": 40,
+      "book": 2,
+      "hadithInBook": 33,
+      "text": {
+        "arabic": "حَدَّثَنَا عَمْرُو بْنُ خَالِدٍ، قَالَ حَدَّثَنَا زُهَيْرٌ، قَالَ حَدَّثَنَا أَبُو إِسْحَاقَ، عَنِ الْبَرَاءِ، أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ أَوَّلَ مَا قَدِمَ الْمَدِينَةَ نَزَلَ عَلَى أَجْدَادِهِ ـ أَوْ قَالَ أَخْوَالِهِ ـ مِنَ الأَنْصَارِ، وَأَنَّهُ صَلَّى قِبَلَ بَيْتِ الْمَقْدِسِ سِتَّةَ عَشَرَ شَهْرًا، أَوْ سَبْعَةَ عَشَرَ شَهْرًا، وَكَانَ يُعْجِبُهُ أَنْ تَكُونَ قِبْلَتُهُ قِبَلَ الْبَيْتِ، وَأَنَّهُ صَلَّى أَوَّلَ صَلاَةٍ صَلاَّهَا صَلاَةَ الْعَصْرِ، وَصَلَّى مَعَهُ قَوْمٌ، فَخَرَجَ رَجُلٌ مِمَّنْ صَلَّى مَعَهُ، فَمَرَّ عَلَى أَهْلِ مَسْجِدٍ، وَهُمْ رَاكِعُونَ فَقَالَ أَشْهَدُ بِاللَّهِ لَقَدْ صَلَّيْتُ مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم قِبَلَ مَكَّةَ، فَدَارُوا كَمَا هُمْ قِبَلَ الْبَيْتِ، وَكَانَتِ الْيَهُودُ قَدْ أَعْجَبَهُمْ إِذْ كَانَ يُصَلِّي قِبَلَ بَيْتِ الْمَقْدِسِ، وَأَهْلُ الْكِتَابِ، فَلَمَّا وَلَّى وَجْهَهُ قِبَلَ الْبَيْتِ أَنْكَرُوا ذَلِكَ‏.‏ قَالَ زُهَيْرٌ حَدَّثَنَا أَبُو إِسْحَاقَ عَنِ الْبَرَاءِ فِي حَدِيثِهِ هَذَا أَنَّهُ مَاتَ عَلَى الْقِبْلَةِ قَبْلَ أَنْ تُحَوَّلَ رِجَالٌ وَقُتِلُوا، فَلَمْ نَدْرِ مَا نَقُولُ فِيهِمْ، فَأَنْزَلَ اللَّهُ تَعَالَى ‏{‏وَمَا كَانَ اللَّهُ لِيُضِيعَ إِيمَانَكُمْ‏}‏",
+        "translations": {
+          "en": "Narrated Al-Bara' (bin 'Azib): When the Prophet (ﷺ) came to Medina, he stayed first with his grandfathers or maternal uncles from Ansar. He offered his prayers facing Baitul-Maqdis (Jerusalem) for sixteen or seventeen months, but he wished that he could pray facing the Ka'ba (at Mecca). The first prayer which he offered facing the Ka'ba was the 'Asr prayer in the company of some people. Then one of those who had offered that prayer with him came out and passed by some people in a mosque who were bowing during their prayers (facing Jerusalem). He said addressing them, \"By Allah, I testify that I have prayed with Allah's Messenger (ﷺ) facing Mecca (Ka'ba).' Hearing that, those people changed their direction towards the Ka'ba immediately. Jews and the people of the scriptures used to be pleased to see the Prophet (ﷺ) facing Jerusalem in prayers but when he changed his direction towards the Ka'ba, during the prayers, they disapproved of it. Al-Bara' added, \"Before we changed our direction towards the Ka'ba (Mecca) in prayers, some Muslims had died or had been killed and we did not know what to say about them (regarding their prayers.) Allah then revealed: And Allah would never make your faith (prayers) to be lost (i.e. the prayers of those Muslims were valid).' \" (2:)",
+          "ur": "ہم سے عمرو بن خالد نے بیان کیا، انہوں نے کہا ہم سے زہیر نے بیان کیا، انہوں نے کہا ہم سے ابواسحاق نے بیان کیا، ان کو براء بن عازب رضی اللہ عنہ نے خبر دی کہ رسول اللہ صلی اللہ علیہ وسلم جب مدینہ تشریف لائے تو پہلے اپنی نانہال میں اترے، جو انصار تھے۔ اور وہاں آپ صلی اللہ علیہ وسلم نے سولہ یا سترہ ماہ بیت المقدس کی طرف منہ کر کے نماز پڑھی اور آپ صلی اللہ علیہ وسلم کی خواہش تھی کہ آپ کا قبلہ بیت اللہ کی طرف ہو ( جب بیت اللہ کی طرف نماز پڑھنے کا حکم ہو گیا ) تو سب سے پہلی نماز جو آپ صلی اللہ علیہ وسلم نے بیت اللہ کی طرف پڑھی عصر کی نماز تھی۔ وہاں آپ صلی اللہ علیہ وسلم کے ساتھ لوگوں نے بھی نماز پڑھی، پھر آپ کے ساتھ نماز پڑھنے والوں میں سے ایک آدمی نکلا اور اس کا مسجد ( بنی حارثہ ) کی طرف گزر ہوا تو وہ لوگ رکوع میں تھے۔ وہ بولا کہ میں اللہ کی گواہی دیتا ہوں کہ میں نے رسول اللہ صلی اللہ علیہ وسلم کے ساتھ مکہ کی طرف منہ کر کے نماز پڑھی ہے۔ ( یہ سن کر ) وہ لوگ اسی حالت میں بیت اللہ کی طرف گھوم گئے اور جب رسول اللہ صلی اللہ علیہ وسلم بیت المقدس کی طرف منہ کر کے نماز پڑھا کرتے تھے، یہود اور عیسائی خوش ہوتے تھے مگر جب آپ صلی اللہ علیہ وسلم نے بیت اللہ کی طرف منہ پھیر لیا تو انہیں یہ امر ناگوار ہوا۔ زہیر ( ایک راوی ) کہتے ہیں کہ ہم سے ابواسحاق نے براء سے یہ حدیث بھی نقل کی ہے کہ قبلہ کی تبدیلی سے پہلے کچھ مسلمان انتقال کر چکے تھے۔ تو ہمیں یہ معلوم نہ ہو سکا کہ ان کی نمازوں کے بارے میں کیا کہیں۔ تب اللہ نے یہ آیت نازل کی «وما كان الله ليضيع إيمانكم‏» ( البقرہ: 143 ) ۔",
+          "fr": "Rapporté par Al-Bara' (bin 'Azib) : Lorsque le Prophète (ﷺ) est arrivé à Médine, il a d'abord séjourné chez ses grands-pères ou ses oncles maternels parmi les Ansar. Il priait en direction de Bayt al-Maqdis (Jérusalem) pendant seize ou dix-sept mois, mais il souhaitait pouvoir prier en direction de la Ka'ba (à La Mecque). La première prière qu’il a faite en direction de la Ka'ba fut la prière d’‘Asr, accompagné de quelques personnes. Ensuite, l’un de ceux qui avaient prié avec lui est sorti et a croisé des gens dans une mosquée qui étaient en train de prier en direction de Jérusalem. Il leur a dit : « Par Allah, je témoigne que j’ai prié avec le Messager d’Allah (ﷺ) en direction de La Mecque (Ka'ba). » En entendant cela, ces personnes ont immédiatement changé de direction vers la Ka'ba. Les Juifs et les gens des Écritures étaient contents de voir le Prophète (ﷺ) prier en direction de Jérusalem, mais lorsqu’il a changé la direction vers la Ka'ba pendant la prière, ils l’ont désapprouvé. Al-Bara' a ajouté : « Avant que nous changions la direction de la prière vers la Ka'ba (La Mecque), certains musulmans étaient morts ou avaient été tués et nous ne savions pas quoi dire à leur sujet (concernant leurs prières). Allah a alors révélé : “Et Allah ne laissera jamais perdre votre foi (vos prières),” c’est-à-dire que les prières de ces musulmans étaient valides. »",
+          "id": "Telah menceritakan kepada kami ['Amru bin Khalid] berkata, telah menceritakan kepada kami [Zuhair] berkata, telah menceritakan kepada kami [Abu Ishaq] dari [Al Barro` bin 'Azib] bahwa Nabi shallallahu 'alaihi wasallam saat pertama kali datang di Madinah, singgah pada kakek-kakeknya ('Azib) atau paman-pamannya dari Kaum Anshar, dan saat itu Beliau shallallahu 'alaihi wasallam shalat menghadap Baitul Maqdis selama enam belas bulan atau tujuh belas bulan, dan Beliau sangat senang sekali kalau shalat menghadap Baitullah (Ka'bah). Shalat yang dilakukan Beliau shallallahu 'alaihi wasallam pertama kali (menghadap Ka'bah) itu adalah shalat 'ashar dan orang-orang juga ikut shalat bersama Beliau. Pada suatu hari sahabat yang ikut shalat bersama Nabi shallallahu 'alaihi wasallam pergi melewati orang-orang di Masjid lain saat mereka sedang ruku', maka dia berkata: \"Aku bersaksi kepada Allah bahwa aku ikut shalat bersama Rasulullah shallallahu 'alaihi wasallam menghadap Makkah, maka orang-orang yang sedang (ruku') tersebut berputar menghadap Baitullah dan orang-orang Yahudi dan Ahlul Kitab menjadi heran, sebab sebelumnya Nabi shallallahu 'alaihi wasallam shalat menghadap Baitul Maqdis. Ketika melihat Nabi shallallahu 'alaihi wasallam menghadapkan wajahnya ke Baitullah mereka mengingkari hal ini. Berkata Zuhair Telah menceritakan kepada kami Abu Ishaq dari Al Barro`, dalam haditsnya ini menerangkan tentang (hukum) seseorang yang meninggal dunia pada saat arah qiblat belum dialihkan dan juga banyak orang-orang yang terbunuh pada masa itu?, kami tidak tahu apa yang harus kami sikapi tentang mereka hingga akhirnya Allah Ta'ala menurunkan firman-Nya: \"Dan Allah tidaklah akan menyia-nyiakan iman kalian\". (QS. Al Baqoroh:)",
+          "tr": "Bera’ r.a. şöyle dedi: Nebiyy-i Mükerrem sallallahu aleyhi ve sellem Medine'ye ilk geldiğinde Ensar'dan ecdadının yahut dayılarının- yanında misafir olarak kaldı. On altı ay (yahut on yedi ay) boyunca Beytü'l-Makdis'e yönelerek namaz kıldı. Kıblenin Ka'be olmasını istiyordu. Medine'de Kabe'ye yönelerek kıldığı ilk namaz ikindi namazı idi. Bir grup sahabe de onunla birlikte kıldılar. Nebi s.a.v. ile birlikte namaz kılanlardan bir sahabi namazdan çıkınca bir başka mescitte namaz kılan, namaz içinde rükû' eden bir topluluğun yanına uğradı. Onlara: Allah için şahitlik ederim ki Allah Resulü ile Kabe'ye dönerek namaz kıldım, dedi. Bunun üzerine o topluluk bulundukları yerde Kabe'ye doğru yöneldiler. Hz. Peygamberin Beytü'l-Makdis'e dönerek namaz kılması Yahudilerin yani ehl-i kitabın hoşuna gidiyordu. Hz. Peygamber namazda yüzünü Kabe'ye çevirince ehli kitap onun bu yaptığını yadırgadı. Züheyr şöyle demiştir: Ebû İshak, Bera'dan şunu rivayet etmiştir: \"Kıblenin değiştirilmesinden önce bazı kimseler vefat etmişler ve şehit olmuşlardı. Biz onlar hakkında ne diyeceğimizi bilemedik. Bunun üzerine Yüce Allah şu âyeti indirdi: \"Allah sizin imanınızı zayi edecek değildir.[Bakara 143] Tekrar:"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 2,
+        "hadith": 33
+      },
+      "narrator": {
+        "en": "Al-Bara' (bin 'Azib)"
+      }
+    },
+    {
+      "hadithNumber": 41,
+      "arabicNumber": 41,
+      "book": 2,
+      "hadithInBook": 34,
+      "text": {
+        "arabic": "قَالَ مَالِكٌ أَخْبَرَنِي زَيْدُ بْنُ أَسْلَمَ، أَنَّ عَطَاءَ بْنَ يَسَارٍ، أَخْبَرَهُ أَنَّ أَبَا سَعِيدٍ الْخُدْرِيَّ أَخْبَرَهُ أَنَّهُ، سَمِعَ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏ \"‏ إِذَا أَسْلَمَ الْعَبْدُ فَحَسُنَ إِسْلاَمُهُ يُكَفِّرُ اللَّهُ عَنْهُ كُلَّ سَيِّئَةٍ كَانَ زَلَفَهَا، وَكَانَ بَعْدَ ذَلِكَ الْقِصَاصُ، الْحَسَنَةُ بِعَشْرِ أَمْثَالِهَا إِلَى سَبْعِمِائَةِ ضِعْفٍ، وَالسَّيِّئَةُ بِمِثْلِهَا إِلاَّ أَنْ يَتَجَاوَزَ اللَّهُ عَنْهَا ‏\"‏‏.‏",
+        "translations": {
+          "en": "Narrated Abu Sa'id Al Khudri:Allah's Messenger (ﷺ) said, \"If a person embraces Islam sincerely, then Allah shall forgive all his past sins, and after that starts the settlement of accounts, the reward of his good deeds will be ten times to seven hundred times for each good deed and one evil deed will be recorded as it is unless Allah forgives it",
+          "ur": "امام مالک رحمہ اللہ کہتے ہیں مجھے زید بن اسلم نے خبر دی، انہیں عطاء بن یسار نے، ان کو ابو سعید خدری رضی اللہ عنہ نے بتایا کہ انہوں نے رسول اللہ صلی اللہ علیہ وسلم کو یہ ارشاد فرماتے ہوئے سنا کہ جب ( ایک ) بندہ مسلمان ہو جائے اور اس کا اسلام عمدہ ہو ( یقین و خلوص کے ساتھ ہو ) تو اللہ اس کے گناہ کو جو اس نے اس ( اسلام لانے ) سے پہلے کیا معاف فرما دیتا ہے اور اب اس کے بعد کے لیے بدلا شروع ہو جاتا ہے ( یعنی ) ایک نیکی کے عوض دس گنا سے لے کر سات سو گنا تک ( ثواب ) اور ایک برائی کا اسی برائی کے مطابق ( بدلا دیا جاتا ہے ) مگر یہ کہ اللہ تعالیٰ اس برائی سے بھی درگزر کرے۔ ( اور اسے بھی معاف فرما دے۔ یہ بھی اس کے لیے آسان ہے۔)",
+          "fr": "Rapporté par Abu Sa'id Al Khudri : Le Messager d'Allah (ﷺ) a dit : « Si une personne embrasse l’islam sincèrement, alors Allah lui pardonne tous ses péchés passés, et ensuite commence le règlement des comptes : la récompense de chaque bonne action sera multipliée par dix jusqu’à sept cents fois, et une mauvaise action sera inscrite telle quelle, sauf si Allah la pardonne. »",
+          "tr": "Ebu Said-i Hudri r.a. şöyle demiştir: Resulullah sallallahu aleyhi ve sellem`den işittim, buyurdu ki: \"Kişi Müslüman olur da Müslümanlığını iyi yaparsa Allah onun önceki bütün günahlarını bağışlar. Bundan sonra (yaptıklarının) karşılığı söz konusudur: Bir iyiliğe on katından yediyüz katına kadar sevap vardır. Kötülüğe ise kendi misli kadar günah vardır, ancak Allah dilerse bundan da vazgeçer (bağışlar)"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 2,
+        "hadith": 34
+      },
+      "narrator": {
+        "en": "Abu Sa'id Al Khudri"
+      }
+    },
+    {
+      "hadithNumber": 42,
+      "arabicNumber": 42,
+      "book": 2,
+      "hadithInBook": 35,
+      "text": {
+        "arabic": "حَدَّثَنَا إِسْحَاقُ بْنُ مَنْصُورٍ، قَالَ حَدَّثَنَا عَبْدُ الرَّزَّاقِ، قَالَ أَخْبَرَنَا مَعْمَرٌ، عَنْ هَمَّامٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ إِذَا أَحْسَنَ أَحَدُكُمْ إِسْلاَمَهُ، فَكُلُّ حَسَنَةٍ يَعْمَلُهَا تُكْتَبُ لَهُ بِعَشْرِ أَمْثَالِهَا إِلَى سَبْعِمِائَةِ ضِعْفٍ، وَكُلُّ سَيِّئَةٍ يَعْمَلُهَا تُكْتَبُ لَهُ بِمِثْلِهَا ‏\"‏‏.‏",
+        "translations": {
+          "en": "Narrated Abu Huraira: Allah's Messenger (ﷺ) said, \"If any one of you improves (follows strictly) his Islamic religion then his good deeds will be rewarded ten times to seven hundred times for each good deed and a bad deed will be recorded as it is",
+          "ur": "ہم سے اسحاق بن منصور نے بیان کیا، ان سے عبدالرزاق نے، انہیں معمر نے ہمام سے خبر دی، وہ ابوہریرہ رضی اللہ عنہ سے نقل کرتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا کہ تم میں سے کوئی شخص جب اپنے اسلام کو عمدہ بنا لے ( یعنی نفاق اور ریا سے پاک کر لے ) تو ہر نیک کام جو وہ کرتا ہے اس کے عوض دس سے لے کر سات سو گنا تک نیکیاں لکھی جاتی ہیں اور ہر برا کام جو کرتا ہے تو وہ اتنا ہی لکھا جاتا ہے ( جتنا کہ اس نے کیا ہے ) ۔",
+          "fr": "Rapporté par Abu Huraira : Le Messager d’Allah (ﷺ) a dit : « Si l’un d’entre vous améliore (et suit sérieusement) sa pratique de l’islam, alors ses bonnes actions seront récompensées de dix à sept cents fois pour chaque bonne action, et une mauvaise action sera inscrite telle quelle. »",
+          "id": "Telah menceritakan kepada kami [Ishaq bin Manshur] berkata, telah menceritakan kepada kami [Abdurrazzaq] berkata, telah mengabarkan kepada kami [Ma'mar] dari [Hamam bin Munabbih] dari [Abu Hurairah] berkata, Rasulullah shallallahu 'alaihi wasallam bersabda: \"Apabila seorang dari kalian memperbaiki keIslamannya maka dari setiap kebaikan akan ditulis baginya sepuluh (kebaikan) yang serupa hingga tujuh ratus tingkatan, dan setiap satu kejelekan yang dikerjakan akan ditulis satu kejelekan saja yang serupa dengannya",
+          "tr": "Ebu Hureyre'den rivayet edildiğine göre Allah Resulü şöyle buyurmuştur: \"Siz'den birisi iyi Müslüman olursa yaptığı her iyilik on katından yediyüz katına kadar yazılır. Yaptığı her kötülük ise kendi misli kadar yazılır"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 2,
+        "hadith": 35
+      },
+      "narrator": {
+        "en": "Abu Huraira"
+      }
+    },
+    {
+      "hadithNumber": 43,
+      "arabicNumber": 43,
+      "book": 2,
+      "hadithInBook": 36,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا يَحْيَى، عَنْ هِشَامٍ، قَالَ أَخْبَرَنِي أَبِي، عَنْ عَائِشَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم دَخَلَ عَلَيْهَا وَعِنْدَهَا امْرَأَةٌ قَالَ ‏\"‏ مَنْ هَذِهِ ‏\"‏‏.‏ قَالَتْ فُلاَنَةُ‏.‏ تَذْكُرُ مِنْ صَلاَتِهَا‏.‏ قَالَ ‏\"‏ مَهْ، عَلَيْكُمْ بِمَا تُطِيقُونَ، فَوَاللَّهِ لاَ يَمَلُّ اللَّهُ حَتَّى تَمَلُّوا ‏\"‏‏.‏ وَكَانَ أَحَبَّ الدِّينِ إِلَيْهِ مَا دَامَ عَلَيْهِ صَاحِبُهُ‏.‏",
+        "translations": {
+          "en": "Narrated 'Aisha: Once the Prophet (ﷺ) came while a woman was sitting with me. He said, \"Who is she?\" I replied, \"She is so and so,\" and told him about her (excessive) praying. He said disapprovingly, \"Do (good) deeds which is within your capacity (without being overtaxed) as Allah does not get tired (of giving rewards) but (surely) you will get tired and the best deed (act of Worship) in the sight of Allah is that which is done regularly",
+          "ur": "ہم سے محمد بن المثنی نے بیان کیا، ان سے یحییٰ نے ہشام کے واسطے سے نقل کیا، وہ کہتے ہیں مجھے میرے باپ (عروہ) نے عائشہ رضی اللہ عنہا سے روایت نقل کی کہ رسول اللہ صلی اللہ علیہ وسلم ( ایک دن ) ان کے پاس آئے، اس وقت ایک عورت میرے پاس بیٹھی تھی، آپ نے دریافت کیا یہ کون ہے؟ میں نے عرض کیا، فلاں عورت اور اس کی نماز ( کے اشتیاق اور پابندی ) کا ذکر کیا۔ آپ صلی اللہ علیہ وسلم نے فرمایا ٹھہر جاؤ ( سن لو کہ ) تم پر اتنا ہی عمل واجب ہے جتنے عمل کی تمہارے اندر طاقت ہے۔ اللہ کی قسم! ( ثواب دینے سے ) اللہ نہیں اکتاتا، مگر تم ( عمل کرتے کرتے ) اکتا جاؤ گے، اور اللہ کو دین ( کا ) وہی عمل زیادہ پسند ہے جس کی ہمیشہ پابندی کی جا سکے۔ ( اور انسان بغیر اکتائے اسے انجام دے ) ۔",
+          "fr": "Rapporté par 'Aisha : Un jour, le Prophète (ﷺ) est venu alors qu’une femme était assise avec moi. Il a demandé : « Qui est-ce ? » J’ai répondu : « C’est une telle », et je lui ai parlé de ses prières (très nombreuses). Il a dit, désapprouvant : « Faites des actions (bonnes) à la mesure de vos capacités (sans vous surmener), car Allah ne se lasse pas (de donner des récompenses), mais c’est vous qui vous lasserez. Et la meilleure action aux yeux d’Allah est celle qui est faite régulièrement. »",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] berkata, telah menceritakan kepada kami [Yahya] dari [Hisyam] berkata, telah mengabarkan [bapakku] kepadaku dari [Aisyah] bahwa Nabi shallallahu 'alaihi wasallam mendatanginya dan bersamanya ada seorang wanita lain, lalu Nabi shallallahu 'alaihi wasallam bertanya: \"siapa ini?\" Aisyah menjawab: \"si fulanah\", Lalu diceritakan tentang shalatnya. Maka Nabi shallallahu 'alaihi wasallam bersabda: \"tinggalkanlah apa yang tidak kalian sanggupi, demi Allah, Allah tidak akan bosan hingga kalian sendiri yang menjadi bosan, dan agama yang paling dicintai-Nya adalah apa yang senantiasa dikerjakan secara rutin dan kontinyu",
+          "tr": "Âişe r.anha'den rivayet edildiğine göre bir gün onun yanında bir kadın otururken Nebi Sallallahu Aleyhi ve Sellem yanlarına girerek sordu: Bu hanım kimdir? Hz. Âişe şöyle cevap verdi: Falancadır, o şöyle şöyle namaz kılan bir kadındır. (Hz. Âişe, kadının kıldığı namazları Nebi Sallallahu Aleyhi ve Sellem'e anlatmaya başladı.) Bunun üzerine Nebi (Sallallahu aleyhi ve Sellem) şöyle buyurdu: Dur bakalım, bunları saymayı bırak! Gücünüzün yettiği amelleri yapın. Allah'a andolsun ki siz usanmadıkça Allah usanmaz\". Resulullah'in en çok sevdiği din (amel), sahibinin devam ettiği (amel) idi. Tekrar:"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 2,
+        "hadith": 36
+      },
+      "narrator": {
+        "en": "'Aisha"
+      }
+    },
+    {
+      "hadithNumber": 44,
+      "arabicNumber": 44,
+      "book": 2,
+      "hadithInBook": 37,
+      "text": {
+        "arabic": "حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا هِشَامٌ، قَالَ حَدَّثَنَا قَتَادَةُ، عَنْ أَنَسٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\"‏ يَخْرُجُ مِنَ النَّارِ مَنْ قَالَ لاَ إِلَهَ إِلاَّ اللَّهُ، وَفِي قَلْبِهِ وَزْنُ شَعِيرَةٍ مِنْ خَيْرٍ، وَيَخْرُجُ مِنَ النَّارِ مَنْ قَالَ لاَ إِلَهَ إِلاَّ اللَّهُ، وَفِي قَلْبِهِ وَزْنُ بُرَّةٍ مِنْ خَيْرٍ، وَيَخْرُجُ مِنَ النَّارِ مَنْ قَالَ لاَ إِلَهَ إِلاَّ اللَّهُ، وَفِي قَلْبِهِ وَزْنُ ذَرَّةٍ مِنْ خَيْرٍ ‏\"‏‏.‏ قَالَ أَبُو عَبْدِ اللَّهِ قَالَ أَبَانُ حَدَّثَنَا قَتَادَةُ حَدَّثَنَا أَنَسٌ عَنِ النَّبِيِّ صلى الله عليه وسلم ‏\"‏ مِنْ إِيمَانٍ ‏\"‏‏.‏ مَكَانَ ‏\"‏ مِنْ خَيْرٍ ‏\"‏‏.‏",
+        "translations": {
+          "en": "Narrated Anas: The Prophet (ﷺ) said, \"Whoever said \"None has the right to be worshipped but Allah and has in his heart good (faith) equal to the weight of a barley grain will be taken out of Hell. And whoever said: \"None has the right to be worshipped but Allah and has in his heart good (faith) equal to the weight of a wheat grain will be taken out of Hell. And whoever said, \"None has the right to be worshipped but Allah and has in his heart good (faith) equal to the weight of an atom will be taken out of Hell",
+          "ur": "ہم سے مسلم بن ابراہیم نے بیان کیا، ان سے ہشام نے، ان سے قتادہ نے انس کے واسطے سے نقل کیا، وہ رسول اللہ صلی اللہ علیہ وسلم سے روایت کرتے ہیں کہ آپ صلی اللہ علیہ وسلم نے فرمایا جس شخص نے «لا إله إلا الله» کہہ لیا اور اس کے دل میں جو برابر بھی ( ایمان ) ہے تو وہ ( ایک نہ ایک دن ) دوزخ سے ضرور نکلے گا اور دوزخ سے وہ شخص ( بھی ) ضرور نکلے گا جس نے کلمہ پڑھا اور اس کے دل میں گیہوں کے دانہ برابر خیر ہے اور دوزخ سے وہ ( بھی ) نکلے گا جس نے کلمہ پڑھا اور اس کے دل میں اک ذرہ برابر بھی خیر ہے۔ ابوعبداللہ ( امام بخاری رحمہ اللہ ) فرماتے ہیں کہ ابان نے بروایت قتادہ بواسطہ انس رضی اللہ عنہ رسول صلی اللہ علیہ وسلم سے «خير» کی جگہ «ايمان» کا لفظ نقل کیا ہے۔",
+          "fr": "Rapporté par Anas : Le Prophète (ﷺ) a dit : « Celui qui dit “Nul n’a le droit d’être adoré en dehors d’Allah” et qui a dans son cœur une foi sincère, même du poids d’un grain d’orge, sera sorti de l’Enfer. Et celui qui dit “Nul n’a le droit d’être adoré en dehors d’Allah” et qui a dans son cœur une foi sincère du poids d’un grain de blé sera sorti de l’Enfer. Et celui qui dit “Nul n’a le droit d’être adoré en dehors d’Allah” et qui a dans son cœur une foi sincère du poids d’un atome sera sorti de l’Enfer. »",
+          "id": "Telah menceritakan kepada kami [Muslim bin Ibrahim] berkata, telah menceritakan kepada kami [Hisyam] berkata, telah menceritakan kepada kami [Qotadah] dari [Anas] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: \"Akan dikeluarkan dari neraka siapa yang mengatakan tidak ada Ilah kecuali Allah dan dalam hatinya ada kebaikan sebesar jemawut. Dan akan dikeluarkan dari neraka siapa yang mengatakan tidak ada ilah kecuali Allah dan dalam hatinya ada kebaikan sebesar biji gandum. Dan akan dikeluarkan dari neraka siapa yang mengatakan tidak ada ilah kecuali Allah dan dalam hatinya ada kebaikan sebesar biji sawi. Abu Abdullah berkata; [Aban] berkata; Telah menceritakan kepada kami [Qotadah] Telah menceritakan kepada kami [Anas] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda. Dan kata iman di dalam hadits ini diganti dengan kata kebaikan",
+          "tr": "Enes r.a. şöyle demiştir: Nebiyy-i Muhterem sallallahu aleyhi ve sellem buyurdu ki: La İlahe İllallah deyib de kalbinde bir arpa tanesi kadar hayır (yani iman) bulunan kimse Cehennem`den çıkacaktır. La İlahe İllallah deyip te kalbinde bir buğday tanesi kadar hayır (yani iman) bulunan kimse Cehennem`den çıkacaktır. La İlahe İllallah deyip te kalbinde bir zerre kadar hayır (iman) bulunan kimse Cehennem`den çıkacaktır. Tekrar:"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 2,
+        "hadith": 37
+      },
+      "narrator": {
+        "en": "Anas"
+      }
+    },
+    {
+      "hadithNumber": 45,
+      "arabicNumber": 45,
+      "book": 2,
+      "hadithInBook": 38,
+      "text": {
+        "arabic": "حَدَّثَنَا الْحَسَنُ بْنُ الصَّبَّاحِ، سَمِعَ جَعْفَرَ بْنَ عَوْنٍ، حَدَّثَنَا أَبُو الْعُمَيْسِ، أَخْبَرَنَا قَيْسُ بْنُ مُسْلِمٍ، عَنْ طَارِقِ بْنِ شِهَابٍ، عَنْ عُمَرَ بْنِ الْخَطَّابِ، أَنَّ رَجُلاً، مِنَ الْيَهُودِ قَالَ لَهُ يَا أَمِيرَ الْمُؤْمِنِينَ، آيَةٌ فِي كِتَابِكُمْ تَقْرَءُونَهَا لَوْ عَلَيْنَا مَعْشَرَ الْيَهُودِ نَزَلَتْ لاَتَّخَذْنَا ذَلِكَ الْيَوْمَ عِيدًا‏.‏ قَالَ أَىُّ آيَةٍ قَالَ ‏{‏الْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ نِعْمَتِي وَرَضِيتُ لَكُمُ الإِسْلاَمَ دِينًا‏}‏‏.‏ قَالَ عُمَرُ قَدْ عَرَفْنَا ذَلِكَ الْيَوْمَ وَالْمَكَانَ الَّذِي نَزَلَتْ فِيهِ عَلَى النَّبِيِّ صلى الله عليه وسلم وَهُوَ قَائِمٌ بِعَرَفَةَ يَوْمَ جُمُعَةٍ‏.‏",
+        "translations": {
+          "en": "Narrated 'Umar bin Al-Khattab: Once a Jew said to me, \"O the chief of believers! There is a verse in your Holy Book Which is read by all of you (Muslims), and had it been revealed to us, we would have taken that day (on which it was revealed as a day of celebration.\" 'Umar bin Al-Khattab asked, \"Which is that verse?\" The Jew replied, \"This day I have perfected your religion For you, completed My favor upon you, And have chosen for you Islam as your religion.\" (5:3) 'Umar replied,\"No doubt, we know when and where this verse was revealed to the Prophet. It was Friday and the Prophet (ﷺ) was standing at 'Arafat (i.e. the Day of Hajj)",
+          "ur": "ہم سے اس حدیث کو حسن بن صباح نے بیان کیا، انہوں نے جعفر بن عون سے سنا، وہ ابوالعمیس سے بیان کرتے ہیں، انہیں قیس بن مسلم نے طارق بن شہاب کے واسطے سے خبر دی۔ وہ عمر بن خطاب رضی اللہ عنہ سے روایت کرتے ہیں کہ ایک یہودی نے ان سے کہا کہ اے امیرالمؤمنین! تمہاری کتاب ( قرآن ) میں ایک آیت ہے جسے تم پڑھتے ہو۔ اگر وہ ہم یہودیوں پر نازل ہوتی تو ہم اس ( کے نزول کے ) دن کو یوم عید بنا لیتے۔ آپ نے پوچھا وہ کون سی آیت ہے؟ اس نے جواب دیا ( سورۃ المائدہ کی یہ آیت کہ ) ”آج میں نے تمہارے دین کو مکمل کر دیا اور اپنی نعمت تم پر تمام کر دی اور تمہارے لیے دین اسلام پسند کیا“ عمر رضی اللہ عنہ نے فرمایا کہ ہم اس دن اور اس مقام کو ( خوب ) جانتے ہیں جب یہ آیت رسول اللہ صلی اللہ علیہ وسلم پر نازل ہوئی ( اس وقت ) آپ صلی اللہ علیہ وسلم عرفات میں جمعہ کے دن کھڑے ہوئے تھے۔",
+          "fr": "Rapporté par 'Umar bin Al-Khattab : Un jour, un Juif m’a dit : « Ô chef des croyants ! Il y a un verset dans votre Livre Saint que vous lisez tous (musulmans), et si ce verset nous avait été révélé, nous aurions fait de ce jour un jour de fête. » 'Umar bin Al-Khattab a demandé : « Quel est ce verset ? » Le Juif a répondu : « Aujourd’hui, J’ai parachevé pour vous votre religion, accompli sur vous Mon bienfait, et J’agrée l’islam comme religion pour vous. » (5:3) 'Umar a répondu : « Sans aucun doute, nous savons quand et où ce verset a été révélé au Prophète. C’était un vendredi et le Prophète (ﷺ) se tenait à ‘Arafat (le jour du Hajj). »",
+          "id": "Telah menceritakan kepada kami [Al Hasan bin Ash Shabbah] bahwa dia mendengar [Ja'far bin 'Aun] berkata; Telah menceritakan kepada kami [Abu Al 'Umais], telah mengabarkan kepada kami [Qais bin Muslim] dari [Thariq bin Syihab] dari [Umar bin Al Khaththab]; Ada seorang laki-laki Yahudi berkata: \"Wahai Amirul Mu'minin, ada satu ayat dalam kitab kalian yang kalian baca, seandainya ayat itu diturunkan kepada kami Kaum Yahudi, tentulah kami jadikan (hari diturunkannya ayat itu) sebagai hari raya ('ied). Maka Umar bin Al Khaththab berkata: \"Ayat apakah itu?\" (Orang Yahudi itu) berkata: \"Pada hari ini telah Kusempurnakan untuk kalian agama kalian, dan telah Ku-cukupkan kepada kalian nikmat-Ku, dan telah Ku-ridhai Islam itu jadi agama bagi kalian\". (QS. Al Maidah ayat 3). Maka Umar bin Al Khaththab menjawab: \"Kami tahu hari tersebut dan dimana tempat diturunkannya ayat tersebut kepada Nabi shallallahu 'alaihi wasallam, yaitu pada hari Jum'at ketika Beliau shallallahu 'alaihi wasallam berada di 'Arafah",
+          "tr": "Ömer İbnü'l-Hattâb r.a.'den rivayet edildiğine göre Yahudilerden biri ona şöyle dedi: Ey muminlerin emiri ! Sizin kitabınızda okuduğunuz bir ayet biz Yahudiler topluluğuna inmiş olsaydı, o ayet'in indiği günü bayram edinirdik\". Hz. Ömer sordu: \"Hangi âyet?\" Yahudi cevap verdi: \"Bugün size dininizi kemale erdirdim, üzerinizdeki ni'metimi tamamladım ve sizin için din olarak İslâm'dan razı oldum.’’ [Mâide,3] Bunun üzerine Hz. Ömer şöyle dedi: Biz bu günü ve Nebi (Sallallahu aleyhi ve Sellem)'e bu âyet'in indirildiği yeri biliriz. Bu ayet Nebi (Sallallahu aleyhi ve Sellem) Arafat'ta ayakta beklerken Cum'a günü indirildi. Tekrar:"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 2,
+        "hadith": 38
+      },
+      "narrator": {
+        "en": "'Umar bin Al-Khattab"
+      }
+    },
+    {
+      "hadithNumber": 46,
+      "arabicNumber": 46,
+      "book": 2,
+      "hadithInBook": 39,
+      "text": {
+        "arabic": "حَدَّثَنَا إِسْمَاعِيلُ، قَالَ حَدَّثَنِي مَالِكُ بْنُ أَنَسٍ، عَنْ عَمِّهِ أَبِي سُهَيْلِ بْنِ مَالِكٍ، عَنْ أَبِيهِ، أَنَّهُ سَمِعَ طَلْحَةَ بْنَ عُبَيْدِ اللَّهِ، يَقُولُ جَاءَ رَجُلٌ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم مِنْ أَهْلِ نَجْدٍ، ثَائِرُ الرَّأْسِ، يُسْمَعُ دَوِيُّ صَوْتِهِ، وَلاَ يُفْقَهُ مَا يَقُولُ حَتَّى دَنَا، فَإِذَا هُوَ يَسْأَلُ عَنِ الإِسْلاَمِ فَقَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ‏\"‏ خَمْسُ صَلَوَاتٍ فِي الْيَوْمِ وَاللَّيْلَةِ ‏\"‏‏.‏ فَقَالَ هَلْ عَلَىَّ غَيْرُهَا قَالَ ‏\"‏ لاَ، إِلاَّ أَنْ تَطَوَّعَ ‏\"‏‏.‏ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ وَصِيَامُ رَمَضَانَ ‏\"‏‏.‏ قَالَ هَلْ عَلَىَّ غَيْرُهُ قَالَ ‏\"‏ لاَ، إِلاَّ أَنْ تَطَوَّعَ ‏\"‏‏.‏ قَالَ وَذَكَرَ لَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم الزَّكَاةَ‏.‏ قَالَ هَلْ عَلَىَّ غَيْرُهَا قَالَ ‏\"‏ لاَ، إِلاَّ أَنْ تَطَوَّعَ ‏\"‏‏.‏ قَالَ فَأَدْبَرَ الرَّجُلُ وَهُوَ يَقُولُ وَاللَّهِ لاَ أَزِيدُ عَلَى هَذَا وَلاَ أَنْقُصُ‏.‏ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ أَفْلَحَ إِنْ صَدَقَ ‏\"‏‏.‏",
+        "translations": {
+          "en": "Narrated Talha bin 'Ubaidullah: A man from Najd with unkempt hair came to Allah's Messenger (ﷺ) and we heard his loud voice but could not understand what he was saying, till he came near and then we came to know that he was asking about Islam. Allah's Messenger (ﷺ) said, \"You have to offer prayers perfectly five times in a day and night (24 hours).\" The man asked, \"Is there any more (praying)?\" Allah's Messenger (ﷺ) replied, \"No, but if you want to offer the Nawafil prayers (you can).\" Allah's Messenger (ﷺ) further said to him: \"You have to observe fasts during the month of Ramadan.\" The man asked, \"Is there any more fasting?\" Allah's Messenger (ﷺ) replied, \"No, but if you want to observe the Nawafil fasts (you can.)\" Then Allah's Messenger (ﷺ) further said to him, \"You have to pay the Zakat (obligatory charity).\" The man asked, \"Is there any thing other than the Zakat for me to pay?\" Allah's Messenger (ﷺ) replied, \"No, unless you want to give alms of your own.\" And then that man retreated saying, \"By Allah! I will neither do less nor more than this.\" Allah's Messenger (ﷺ) said, \"If what he said is true, then he will be successful (i.e. he will be granted Paradise)",
+          "ur": "ہم سے اسماعیل نے بیان کیا، کہا مجھ سے امام مالک رحمہ اللہ نے بیان کیا، انہوں نے اپنے چچا ابوسہیل بن مالک سے، انہوں نے اپنے باپ (مالک بن ابی عامر) سے، انہوں نے طلحہ بن عبیداللہ سے وہ کہتے تھے نجد والوں میں ایک شخص نبی کریم صلی اللہ علیہ وسلم کے پاس آیا، سر پریشان یعنی بال بکھرے ہوئے تھے، ہم اس کی آواز کی بھنبھناہٹ سنتے تھے اور ہم سمجھ نہیں پا رہے تھے کہ وہ کیا کہہ رہا ہے۔ یہاں تک کہ وہ نزدیک آن پہنچا، جب معلوم ہوا کہ وہ اسلام کے بارے میں پوچھ رہا ہے۔ نبی کریم صلی اللہ علیہ وسلم نے فرمایا کہ اسلام دن رات میں پانچ نمازیں پڑھنا ہے، اس نے کہا بس اس کے سوا تو اور کوئی نماز مجھ پر نہیں۔ آپ صلی اللہ علیہ وسلم نے فرمایا نہیں مگر تو نفل پڑھے ( تو اور بات ہے ) نبی کریم صلی اللہ علیہ وسلم نے فرمایا اور رمضان کے روزے رکھنا۔ اس نے کہا اور تو کوئی روزہ مجھ پر نہیں ہے۔ آپ صلی اللہ علیہ وسلم نے فرمایا نہیں مگر تو نفل روزے رکھے ( تو اور بات ہے ) طلحہ نے کہا اور نبی کریم صلی اللہ علیہ وسلم نے اس سے زکوٰۃ کا بیان کیا۔ وہ کہنے لگا کہ بس اور کوئی صدقہ مجھ پر نہیں ہے۔ آپ صلی اللہ علیہ وسلم نے فرمایا نہیں مگر یہ کہ تو نفل صدقہ دے ( تو اور بات ہے ) راوی نے کہا پھر وہ شخص پیٹھ موڑ کر چلا۔ یوں کہتا جاتا تھا، قسم اللہ کی میں نہ اس سے بڑھاؤں گا نہ گھٹاؤں گا، نبی کریم صلی اللہ علیہ وسلم نے فرمایا اگر یہ سچا ہے تو اپنی مراد کو پہنچ گیا۔",
+          "fr": "Rapporté par Talha bin 'Ubaidullah : Un homme du Najd, aux cheveux en désordre, est venu voir le Messager d’Allah (ﷺ). Nous avons entendu sa voix forte sans comprendre ce qu’il disait, jusqu’à ce qu’il s’approche et nous avons alors compris qu’il posait des questions sur l’islam. Le Messager d’Allah (ﷺ) lui a dit : « Tu dois accomplir parfaitement cinq prières par jour et par nuit (24 heures). » L’homme a demandé : « Y a-t-il d’autres prières ? » Le Messager d’Allah (ﷺ) a répondu : « Non, sauf si tu veux faire des prières surérogatoires (Nawafil). » Le Messager d’Allah (ﷺ) a ensuite dit : « Tu dois jeûner pendant le mois de Ramadan. » L’homme a demandé : « Y a-t-il d’autres jeûnes ? » Le Messager d’Allah (ﷺ) a répondu : « Non, sauf si tu veux faire des jeûnes surérogatoires. » Puis le Messager d’Allah (ﷺ) a ajouté : « Tu dois payer la Zakat (aumône obligatoire). » L’homme a demandé : « Y a-t-il autre chose que la Zakat à donner ? » Le Messager d’Allah (ﷺ) a répondu : « Non, sauf si tu veux donner de ta propre volonté. » Ensuite, cet homme est parti en disant : « Par Allah ! Je ne ferai ni moins ni plus que cela. » Le Messager d’Allah (ﷺ) a dit : « S’il dit vrai, alors il réussira (il entrera au Paradis). »",
+          "id": "Telah menceritakan kepada kami [Isma'il] Telah menceritakan kepadaku [Malik bin Anas] dari pamannya - [Abu Suhail bin Malik] - dari [bapaknya], bahwa dia mendengar [Thalhah bin 'Ubaidullah] berkata: Telah datang kepada Rasulullah shallallahu 'alaihi wasallam seorang dari penduduk Najed dalam keadaan kepalanya penuh debu dengan suaranya yang keras terdengar, namun tidak dapat dimengerti apa maksud yang diucapkannya, hingga mendekat (kepada Nabi shallallahu 'alaihi wasallam) kemudian dia bertanya tentang Islam, maka Rasulullah shallallahu 'alaihi wasallam menjawab: \"Shalat lima kali dalam sehari semalam\". Kata orang itu: \"apakah ada lagi selainnya buatku\". Nabi shallallahu 'alaihi wasallam menjawab: \"Tidak ada kecuali yang thathawu' (sunnat) \". Rasulullah shallallahu 'alaihi wasallam berkata: \"Dan puasa Ramadlan\". Orang itu bertanya lagi: \"Apakah ada lagi selainnya buatku\". Rasulullah shallallahu 'alaihi wasallam menjawab: \"Tidak ada kecuali yang thathawu' (sunnat) \". Lalu Rasulullah shallallahu 'alaihi wasallam menyebut: \"Zakat\": Kata orang itu: \"apakah ada lagi selainnya buatku\". Rasulullah shallallahu 'alaihi wasallam menjawab: \"Tidak ada kecuali yang thathawu' (sunnat) \". Thalhah bin 'Ubaidullah berkata: Lalu orang itu pergi sambil berkata: \"Demi Allah, aku tidak akan menambah atau menguranginya\". Maka Rasulullah shallallahu 'alaihi wasallam bersabda: \"Dia akan beruntung jika jujur menepatinya",
+          "tr": "Talha b. Ubeydullah'tan rivayet edilmiştir: Necidlilerden saçı başı dağınık bir adam Nebi (sallallahu aleyhi ve sellem)'e geldi. Sesinin mırıltısı duyuluyor, ancak ne dediği anlaşılmıyordu. Yaklaştı nihayet bir de baktık ki İslam hakkında soru soruyor. Nebi (sallallahu aleyhi ve sellem) şöyle buyurdu: Bir gün ve gecede beş vakit namaz.\" dedi. Adam: \"Benim üzerime bunlar dışında gerekli olan namaz var mıdır?\" diye sordu. Nebi (sallallahu aleyhi ve sellem) Hayır. Ancak dilersen nafile olarak yaparsın\" buyurdu. Daha sonra Nebi (sallallahu aleyhi ve sellem) Ramazanda oruç tutmak\" dedi. Adam: Benim üzerime bunlar dışında gerekli olan oruç var mıdır? diye sordu. Nebi (sallallahu aleyhi ve sellem) Hayır. Ancak dilersen nafile olarak tutabilirsin\" buyurdu. Daha sonra Nebi (sallallahu aleyhi ve sellem) zekat'tan bahsetti. Adam: \"Benim üzerime bunlar dışında gerekli olan zekat var mıdır?\" diye sordu. Nebi (sallallahu aleyhi ve sellem): \"Hayır. Ancak dilersen nafile olarak verirsin\" buyurdu. Adam \"Vallahi bunlardan ne fazla ne de eksik yaparım\" diyerek döndü ve gitti. Nebi (sallallahu aleyhi ve sellem)’de şöyle buyurdu: \"Doğru söylediyse kurtuldu. Tekrar:"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 2,
+        "hadith": 39
+      },
+      "narrator": {
+        "en": "Talha bin 'Ubaidullah"
+      }
+    },
+    {
+      "hadithNumber": 47,
+      "arabicNumber": 47,
+      "book": 2,
+      "hadithInBook": 40,
+      "text": {
+        "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ عَبْدِ اللَّهِ بْنِ عَلِيٍّ الْمَنْجُوفِيُّ، قَالَ حَدَّثَنَا رَوْحٌ، قَالَ حَدَّثَنَا عَوْفٌ، عَنِ الْحَسَنِ، وَمُحَمَّدٍ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ مَنِ اتَّبَعَ جَنَازَةَ مُسْلِمٍ إِيمَانًا وَاحْتِسَابًا، وَكَانَ مَعَهُ حَتَّى يُصَلَّى عَلَيْهَا، وَيَفْرُغَ مِنْ دَفْنِهَا، فَإِنَّهُ يَرْجِعُ مِنَ الأَجْرِ بِقِيرَاطَيْنِ، كُلُّ قِيرَاطٍ مِثْلُ أُحُدٍ، وَمَنْ صَلَّى عَلَيْهَا ثُمَّ رَجَعَ قَبْلَ أَنْ تُدْفَنَ فَإِنَّهُ يَرْجِعُ بِقِيرَاطٍ ‏\"‏‏.‏ تَابَعَهُ عُثْمَانُ الْمُؤَذِّنُ قَالَ حَدَّثَنَا عَوْفٌ عَنْ مُحَمَّدٍ عَنْ أَبِي هُرَيْرَةَ عَنِ النَّبِيِّ صلى الله عليه وسلم نَحْوَهُ‏.‏",
+        "translations": {
+          "en": "Narrated Abu Huraira: Allah's Messenger (ﷺ) said, \"(A believer) who accompanies the funeral procession of a Muslim out of sincere faith and hoping to attain Allah's reward and remains with it till the funeral prayer is offered and the burial ceremonies are over, he will return with a reward of two Qirats. Each Qirat is like the size of the (Mount) Uhud. He who offers the funeral prayer only and returns before the burial, will return with the reward of one Qirat only",
+          "ur": "ہم سے احمد بن عبداللہ بن علی منجونی نے بیان کیا، کہا ہم سے روح نے بیان کیا، کہا ہم سے عوف نے بیان کیا، انہوں نے حسن بصری اور محمد بن سیرین سے، انہوں نے ابوہریرہ رضی اللہ عنہ سے کہ نبی کریم صلی اللہ علیہ وسلم نے فرمایا، جو کوئی ایمان رکھ کر اور ثواب کی نیت سے کسی مسلمان کے جنازے کے ساتھ جائے اور نماز اور دفن سے فراغت ہونے تک اس کے ساتھ رہے تو وہ دو قیراط ثواب لے کر لوٹے گا ہر قیراط اتنا بڑا ہو گا جیسے احد کا پہاڑ، اور جو شخص جنازے پر نماز پڑھ کر دفن سے پہلے لوٹ جائے تو وہ ایک قیراط ثواب لے کر لوٹے گا۔ روح کے ساتھ اس حدیث کو عثمان مؤذن نے بھی روایت کیا ہے۔ کہا ہم سے عوف نے بیان کیا، انہوں نے محمد بن سیرین سے سنا، انہوں نے ابوہریرہ رضی اللہ عنہ سے، انہوں نے نبی کریم صلی اللہ علیہ وسلم سے اگلی روایت کی طرح۔",
+          "fr": "Rapporté par Abu Huraira : Le Messager d’Allah (ﷺ) a dit : « Celui qui accompagne le cortège funéraire d’un musulman avec une foi sincère et dans l’espoir d’obtenir la récompense d’Allah, et reste jusqu’à ce que la prière funéraire soit faite et l’enterrement terminé, recevra une double récompense (deux Qirats). Chaque Qirat est aussi grand que le mont Uhud. Celui qui ne fait que la prière funéraire et part avant l’enterrement, recevra une seule récompense (un Qirat). »",
+          "id": "Telah menceritakan kepada kami [Ahmad bin Abdullah bin Ali Al Manjufi] berkata, telah menceritakan kepada kami [Rauh] berkata, telah menceritakan kepada kami ['Auf] dari [Al Hasan] dan [Muhammad] dari [Abu Hurairah], bahwa Rasulullah shallallahu 'alaihi wasallam telah bersabda: \"Barangsiapa mengiringi jenazah muslim, karena iman dan mengharapkan balasan dan dia selalu bersama jenazah tersebut sampai dishalatkan dan selesai dari penguburannya, maka dia pulang dengan membawa dua qiroth, setiap qiroth setara dengan gunung Uhud. Dan barangsiapa menyolatkannya dan pulang sebelum dikuburkan maka dia pulang membawa satu qiroth\". Hadits seperti ini juga diriwayatkan dari [Utsman Al Mu`adzin], dia berkata; telah menceritakan kepada kami ['Auf] dari [Muhammad] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam",
+          "tr": "Ebu Hureyre r.a. şöyle demiştir: Resulullâh sallallahu aleyhi ve sellem buyurdu ki: Bir kimse inanarak ve sevabını yalnızca Allah'tan umarak bir Müslümanın cenazesinin arkasından giderse, namazını kılıp defnedinceye kadar onunla birlikte bulunursa iki kır'at ecirle döner. Her bir kırat Uhud Dağı kadardır. Kim cenaze namazını kılar sonra cenaze defnedilmeden dönerse o da bir kırat ecirle dönmüş olur. Tekrar:"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 2,
+        "hadith": 40
+      },
+      "narrator": {
+        "en": "Abu Huraira"
+      }
+    },
+    {
+      "hadithNumber": 48,
+      "arabicNumber": 48,
+      "book": 2,
+      "hadithInBook": 41,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عَرْعَرَةَ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ زُبَيْدٍ، قَالَ سَأَلْتُ أَبَا وَائِلٍ عَنِ الْمُرْجِئَةِ،، فَقَالَ حَدَّثَنِي عَبْدُ اللَّهِ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏ \"‏ سِبَابُ الْمُسْلِمِ فُسُوقٌ، وَقِتَالُهُ كُفْرٌ ‏\"‏‏.‏",
+        "translations": {
+          "en": "Narrated 'Abdullah: The Prophet (ﷺ) said, \"Abusing a Muslim is Fusuq (an evil doing) and killing him is Kufr (disbelief)",
+          "ur": "ہم سے محمد بن عرعرہ نے بیان کیا، وہ کہتے ہیں کہ ہم سے شعبہ نے بیان کیا، انہوں نے زبید بن حارث سے، کہا میں نے ابووائل سے مرجیہ کے بارے میں پوچھا، (وہ کہتے ہیں گناہ سے آدمی فاسق نہیں ہوتا) انہوں نے کہا کہ مجھ سے عبداللہ بن مسعود رضی اللہ عنہ نے بیان کیا کہ نبی کریم صلی اللہ علیہ وسلم نے فرمایا کہ مسلمان کو گالی دینے سے آدمی فاسق ہو جاتا ہے اور مسلمان سے لڑنا کفر ہے۔",
+          "fr": "Rapporté par 'Abdullah : Le Prophète (ﷺ) a dit : « Insulter un musulman est une mauvaise action (Fousouq) et le tuer est un acte de mécréance (Kufr). »",
+          "id": "Telah menceritakan kepada kami [Muhammad bin 'Ar'arah] berkata, Telah menceritakan kepada kami [Syu'bah] dari [Zubaid] berkata: Aku bertanya kepada [Abu Wa'il] tentang Murji`ah, maka dia menjawab: Telah menceritakan kepadaku [Abdullah] bahwa Nabi shallallahu 'alaihi wasallam bersabda: \"mencerca orang muslim adalah fasiq dan memeranginya adalah kufur",
+          "tr": "Zeyd şöyle demiştir: Ebu Vail'e Mürcie mezhebinde olanlarla savaşma konusundaki görüşünü sordum, şöyle söyledi: Abdullah bana Nebi sallallahu aleyhi ve sellem'in şöyle söylediğini bildirdi: Müslümana sövmek fısk, onunla savaşmak küfürdür. Tekrar: 6044, 7076 Diğer tahric: Tirmizî, İman; Müslim, İman"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 2,
+        "hadith": 41
+      },
+      "narrator": {
+        "en": "'Abdullah"
+      }
+    },
+    {
+      "hadithNumber": 49,
+      "arabicNumber": 49,
+      "book": 2,
+      "hadithInBook": 42,
+      "text": {
+        "arabic": "أَخْبَرَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا إِسْمَاعِيلُ بْنُ جَعْفَرٍ، عَنْ حُمَيْدٍ، عَنْ أَنَسٍ، قَالَ أَخْبَرَنِي عُبَادَةُ بْنُ الصَّامِتِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم خَرَجَ يُخْبِرُ بِلَيْلَةِ الْقَدْرِ، فَتَلاَحَى رَجُلاَنِ مِنَ الْمُسْلِمِينَ فَقَالَ ‏ \"‏ إِنِّي خَرَجْتُ لأُخْبِرَكُمْ بِلَيْلَةِ الْقَدْرِ، وَإِنَّهُ تَلاَحَى فُلاَنٌ وَفُلاَنٌ فَرُفِعَتْ وَعَسَى أَنْ يَكُونَ خَيْرًا لَكُمُ الْتَمِسُوهَا فِي السَّبْعِ وَالتِّسْعِ وَالْخَمْسِ ‏\"‏‏.‏",
+        "translations": {
+          "en": "Narrated 'Ubada bin As-Samit:\"Allah's Messenger (ﷺ) went out to inform the people about the (date of the) night of decree (Al-Qadr) but there happened a quarrel between two Muslim men. The Prophet (ﷺ) said, \"I came out to inform you about (the date of) the night of Al-Qadr, but as so and so and so and so quarrelled, its knowledge was taken away (I forgot it) and maybe it was better for you. Now look for it in the 7th, the 9th and the 5th (of the last 10 nights of the month of Ramadan)",
+          "ur": "ہم سے قتیبہ بن سعید نے بیان کیا، کہا ہم سے اسماعیل بن جعفر نے بیان کیا، انہوں نے حمید سے، انہوں نے انس رضی اللہ عنہ سے، کہا مجھ کو عبادہ بن صامت نے خبر دی کہ نبی کریم صلی اللہ علیہ وسلم اپنے حجرے سے نکلے، لوگوں کو شب قدر بتانا چاہتے تھے ( وہ کون سی رات ہے ) اتنے میں دو مسلمان آپس میں لڑ پڑے، آپ صلی اللہ علیہ وسلم نے فرمایا، میں تو اس لیے باہر نکلا تھا کہ تم کو شب قدر بتلاؤں اور فلاں فلاں آدمی لڑ پڑے تو وہ میرے دل سے اٹھا لی گئی اور شاید اسی میں کچھ تمہاری بہتری ہو۔ ( تو اب ایسا کرو کہ ) شب قدر کو رمضان کی ستائیسویں، انتیسویں و پچیسویں رات میں ڈھونڈا کرو۔",
+          "fr": "Rapporté par 'Ubada bin As-Samit : Le Messager d’Allah (ﷺ) est sorti pour informer les gens de la date de la Nuit du Destin (Al-Qadr), mais il y a eu une dispute entre deux hommes musulmans. Le Prophète (ﷺ) a dit : « Je suis sorti pour vous informer de la date de la Nuit d’Al-Qadr, mais comme untel et untel se sont disputés, sa connaissance m’a été retirée (je l’ai oubliée), et peut-être que c’est mieux pour vous. Cherchez-la donc la 7e, la 9e et la 5e nuit (parmi les dix dernières nuits du mois de Ramadan). »",
+          "id": "Telah mengabarkan kepada kami [Qutaibah bin Sa'id] Telah menceritakan kepada kami [Isma'il bin Ja'far] dari [Humaid], Telah menceritakan kepadaku [Anas bin Malik] berkata, telah mengabarkan kepadaku ['Ubadah bin Ash Shamit], bahwa Rasulullah shallallahu 'alaihi wasallam keluar untuk menjelaskan tentang Lailatul Qodar, lalu ada dua orang muslimin saling berdebat. Maka Nabi shallallahu 'alaihi wasallam bersabda: \"Aku datang untuk menjelaskan Lailatul Qodar kepada kalian, namun fulan dan fulan saling berdebat sehingga akhirnya diangkat (lailatul qodar), dan semoga menjadi lebih baik buat kalian, maka itu intailah (lailatul qodar) itu pada hari yang ketujuh, enam dan lima",
+          "tr": "Ubade bin Samit'ten rivayet edildiğine göre Allah Resulü (Sallallahu aleyhi ve Sellem) kadir gecesini haber vermek üzere evinden çıktı. Müslümanlardan iki kişi birbiri ile tartıştılar. Bunun üzerine Nebi (Sallallahu aleyhi ve Sellem) şöyle buyurdu: \"Size Kadir gecesini haber vermek üzere çıkmıştım. Ancak falan ile falan tartışınca (buna dair bilgi hafızamdan) kaldırıldı. Umarım ki bu da sizin için hayırlı olur. Kadir gecesini (yirmiden sonraki) yedinci, dokuzuncu ve beşinci gecede arayınız. Tekrar:"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 2,
+        "hadith": 42
+      },
+      "narrator": {
+        "en": "'Ubada bin As-Samit"
+      }
+    },
+    {
+      "hadithNumber": 50,
+      "arabicNumber": 50,
+      "book": 2,
+      "hadithInBook": 43,
+      "text": {
+        "arabic": "حَدَّثَنَا مُسَدَّدٌ، قَالَ حَدَّثَنَا إِسْمَاعِيلُ بْنُ إِبْرَاهِيمَ، أَخْبَرَنَا أَبُو حَيَّانَ التَّيْمِيُّ، عَنْ أَبِي زُرْعَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ كَانَ النَّبِيُّ صلى الله عليه وسلم بَارِزًا يَوْمًا لِلنَّاسِ، فَأَتَاهُ جِبْرِيلُ فَقَالَ مَا الإِيمَانُ قَالَ ‏\"‏ الإِيمَانُ أَنْ تُؤْمِنَ بِاللَّهِ وَمَلاَئِكَتِهِ وَبِلِقَائِهِ وَرُسُلِهِ، وَتُؤْمِنَ بِالْبَعْثِ ‏\"‏‏.‏ قَالَ مَا الإِسْلاَمُ قَالَ ‏\"‏ الإِسْلاَمُ أَنْ تَعْبُدَ اللَّهَ وَلاَ تُشْرِكَ بِهِ، وَتُقِيمَ الصَّلاَةَ، وَتُؤَدِّيَ الزَّكَاةَ الْمَفْرُوضَةَ، وَتَصُومَ رَمَضَانَ ‏\"‏‏.‏ قَالَ مَا الإِحْسَانُ قَالَ ‏\"‏ أَنْ تَعْبُدَ اللَّهَ كَأَنَّكَ تَرَاهُ، فَإِنْ لَمْ تَكُنْ تَرَاهُ فَإِنَّهُ يَرَاكَ ‏\"‏‏.‏ قَالَ مَتَى السَّاعَةُ قَالَ ‏\"‏ مَا الْمَسْئُولُ عَنْهَا بِأَعْلَمَ مِنَ السَّائِلِ، وَسَأُخْبِرُكَ عَنْ أَشْرَاطِهَا إِذَا وَلَدَتِ الأَمَةُ رَبَّهَا، وَإِذَا تَطَاوَلَ رُعَاةُ الإِبِلِ الْبُهْمُ فِي الْبُنْيَانِ، فِي خَمْسٍ لاَ يَعْلَمُهُنَّ إِلاَّ اللَّهُ ‏\"‏‏.‏ ثُمَّ تَلاَ النَّبِيُّ صلى الله عليه وسلم ‏{‏إِنَّ اللَّهَ عِنْدَهُ عِلْمُ السَّاعَةِ‏}‏ الآيَةَ‏.‏ ثُمَّ أَدْبَرَ فَقَالَ ‏\"‏ رُدُّوهُ ‏\"‏‏.‏ فَلَمْ يَرَوْا شَيْئًا‏.‏ فَقَالَ ‏\"‏ هَذَا جِبْرِيلُ جَاءَ يُعَلِّمُ النَّاسَ دِينَهُمْ ‏\"‏‏.‏ قَالَ أَبُو عَبْدِ اللَّهِ جَعَلَ ذَلِكَ كُلَّهُ مِنَ الإِيمَانِ‏.‏",
+        "translations": {
+          "en": "Narrated Abu Huraira: One day while the Prophet (ﷺ) was sitting in the company of some people, (The angel) Gabriel came and asked, \"What is faith?\" Allah's Messenger (ﷺ) replied, 'Faith is to believe in Allah, His angels, (the) meeting with Him, His Apostles, and to believe in Resurrection.\" Then he further asked, \"What is Islam?\" Allah's Messenger (ﷺ) replied, \"To worship Allah Alone and none else, to offer prayers perfectly to pay the compulsory charity (Zakat) and to observe fasts during the month of Ramadan.\" Then he further asked, \"What is Ihsan (perfection)?\" Allah's Messenger (ﷺ) replied, \"To worship Allah as if you see Him, and if you cannot achieve this state of devotion then you must consider that He is looking at you.\" Then he further asked, \"When will the Hour be established?\" Allah's Messenger (ﷺ) replied, \"The answerer has no better knowledge than the questioner. But I will inform you about its portents. 1. When a slave (lady) gives birth to her master. 2. When the shepherds of black camels start boasting and competing with others in the construction of higher buildings. And the Hour is one of five things which nobody knows except Allah. The Prophet (ﷺ) then recited: \"Verily, with Allah (Alone) is the knowledge of the Hour--.\" (31. 34) Then that man (Gabriel) left and the Prophet (ﷺ) asked his companions to call him back, but they could not see him. Then the Prophet (ﷺ) said, \"That was Gabriel who came to teach the people their religion.\" Abu 'Abdullah said: He (the Prophet) considered all that as a part of faith",
+          "ur": "ہم سے مسدد نے بیان کیا، انہوں نے کہا کہ ہم سے اسماعیل بن ابراہیم نے بیان کیا، انہوں نے کہا کہ ہم کو ابوحیان تیمی نے ابوزرعہ سے خبر دی، انہوں نے ابوہریرہ رضی اللہ عنہ سے نقل کیا کہ ایک دن نبی کریم صلی اللہ علیہ وسلم لوگوں میں تشریف فرما تھے کہ آپ کے پاس ایک شخص آیا اور پوچھنے لگا کہ ایمان کسے کہتے ہیں۔ آپ صلی اللہ علیہ وسلم نے فرمایا کہ ایمان یہ ہے کہ تم اللہ پاک کے وجود اور اس کی وحدانیت پر ایمان لاؤ اور اس کے فرشتوں کے وجود پر اور اس ( اللہ ) کی ملاقات کے برحق ہونے پر اور اس کے رسولوں کے برحق ہونے پر اور مرنے کے بعد دوبارہ اٹھنے پر ایمان لاؤ۔ پھر اس نے پوچھا کہ اسلام کیا ہے؟ آپ صلی اللہ علیہ وسلم نے پھر جواب دیا کہ اسلام یہ ہے کہ تم خالص اللہ کی عبادت کرو اور اس کے ساتھ کسی کو شریک نہ بناؤ اور نماز قائم کرو۔ اور زکوٰۃ فرض ادا کرو۔ اور رمضان کے روزے رکھو۔ پھر اس نے احسان کے متعلق پوچھا۔ آپ صلی اللہ علیہ وسلم نے فرمایا احسان یہ کہ تم اللہ کی عبادت اس طرح کرو گویا تم اسے دیکھ رہے ہو اگر یہ درجہ نہ حاصل ہو تو پھر یہ تو سمجھو کہ وہ تم کو دیکھ رہا ہے۔ پھر اس نے پوچھا کہ قیامت کب آئے گی۔ آپ صلی اللہ علیہ وسلم نے فرمایا کہ اس کے بارے میں جواب دینے والا پوچھنے والے سے کچھ زیادہ نہیں جانتا ( البتہ ) میں تمہیں اس کی نشانیاں بتلا سکتا ہوں۔ وہ یہ ہیں کہ جب لونڈی اپنے آقا کو جنے گی اور جب سیاہ اونٹوں کے چرانے والے ( دیہاتی لوگ ترقی کرتے کرتے ) مکانات کی تعمیر میں ایک دوسرے سے بازی لے جانے کی کوشش کریں گے ( یاد رکھو ) قیامت کا علم ان پانچ چیزوں میں ہے جن کو اللہ کے سوا کوئی نہیں جانتا۔ پھر آپ نے یہ آیت پڑھی کہ اللہ ہی کو قیامت کا علم ہے کہ وہ کب ہو گی ( آخر آیت تک ) پھر وہ پوچھنے والا پیٹھ پھیر کر جانے لگا۔ آپ صلی اللہ علیہ وسلم نے فرمایا کہ اسے واپس بلا کر لاؤ۔ لوگ دوڑ پڑے مگر وہ کہیں نظر نہیں آیا۔ آپ صلی اللہ علیہ وسلم نے فرمایا کہ وہ جبرائیل تھے جو لوگوں کو ان کا دین سکھانے آئے تھے۔ ابوعبداللہ ( امام بخاری رحمہ اللہ ) فرماتے ہیں کہ نبی کریم صلی اللہ علیہ وسلم نے ان تمام باتوں کو ایمان ہی قرار دیا ہے۔",
+          "fr": "Rapporté par Abu Huraira : Un jour, alors que le Prophète (ﷺ) était assis avec des gens, l’ange Gabriel est venu et a demandé : « Qu’est-ce que la foi ? » Le Messager d’Allah (ﷺ) a répondu : « La foi, c’est croire en Allah, en Ses anges, en la rencontre avec Lui, en Ses messagers et croire à la Résurrection. » Il a ensuite demandé : « Qu’est-ce que l’islam ? » Le Messager d’Allah (ﷺ) a répondu : « C’est adorer Allah seul sans rien Lui associer, accomplir parfaitement la prière, donner l’aumône obligatoire (Zakat) et jeûner pendant le mois de Ramadan. » Il a ensuite demandé : « Qu’est-ce que l’Ihsan (la perfection) ? » Le Messager d’Allah (ﷺ) a répondu : « C’est adorer Allah comme si tu Le voyais, et si tu ne Le vois pas, sache qu’Il te voit. » Il a ensuite demandé : « Quand aura lieu l’Heure (le Jour du Jugement) ? » Le Messager d’Allah (ﷺ) a répondu : « Celui qui répond n’en sait pas plus que celui qui interroge. Mais je vais vous parler de ses signes : 1. Quand une esclave donnera naissance à sa maîtresse. 2. Quand les gardiens de chameaux noirs rivaliseront dans la construction de hauts bâtiments. Et l’Heure fait partie de cinq choses que seul Allah connaît. » Le Prophète (ﷺ) a ensuite récité : « C’est auprès d’Allah seul que se trouve la connaissance de l’Heure… » (31:34) Puis cet homme (Gabriel) est parti et le Prophète (ﷺ) a demandé à ses compagnons de le rappeler, mais ils ne l’ont pas vu. Le Prophète (ﷺ) a dit : « C’était Gabriel, venu enseigner la religion aux gens. » Abu ‘Abdullah a dit : Le Prophète (ﷺ) considérait tout cela comme faisant partie de la foi",
+          "id": "Telah menceritakan kepada kami [Musaddad] berkata, Telah menceritakan kepada kami [Isma'il bin Ibrahim] telah mengabarkan kepada kami [Abu Hayyan At Taimi] dari [Abu Zur'ah] dari [Abu Hurairah] berkata; bahwa Nabi shallallahu 'alaihi wasallam pada suatu hari muncul kepada para sahabat, lalu datang Malaikat Jibril 'Alaihis Salam yang kemudian bertanya: \"Apakah iman itu?\" Nabi shallallahu 'alaihi wasallam menjawab: \"Iman adalah kamu beriman kepada Allah, malaikat-malaikat-Nya, kitab-kitab-Nya, pertemuan dengan-Nya, Rasul-Rasul-Nya, dan kamu beriman kepada hari berbangkit\". (Jibril 'Alaihis salam) berkata: \"Apakah Islam itu?\" Jawab Nabi shallallahu 'alaihi wasallam: \"Islam adalah kamu menyembah Allah dan tidak menyekutukannya dengan suatu apapun, kamu dirikan shalat, kamu tunaikan zakat yang diwajibkan, dan berpuasa di bulan Ramadlan\". (Jibril 'Alaihis salam) berkata: \"Apakah ihsan itu?\" Nabi shallallahu 'alaihi wasallam menjawab: \"Kamu menyembah Allah seolah-olah melihat-Nya dan bila kamu tidak melihat-Nya sesungguhnya Dia melihatmu\". (Jibril 'Alaihis salam) berkata lagi: \"Kapan terjadinya hari kiamat?\" Nabi shallallahu 'alaihi wasallam menjawab: \"Yang ditanya tentang itu tidak lebih tahu dari yang bertanya. Tapi aku akan terangkan tanda-tandanya; (yaitu); jika seorang budak telah melahirkan tuannya, jika para penggembala unta yang berkulit hitam berlomba-lomba membangun gedung-gedung selama lima masa, yang tidak diketahui lamanya kecuali oleh Allah\". Kemudian Nabi shallallahu 'alaihi wasallam membaca: \"Sesungguhnya hanya pada Allah pengetahuan tentang hari kiamat\" (QS. Luqman: 34). Setelah itu Jibril 'Alaihis salam pergi, kemudian Nabi shallallahu 'alaihi wasallam berkata; \"hadapkan dia ke sini.\" Tetapi para sahabat tidak melihat sesuatupun, maka Nabi bersabda; \"Dia adalah Malaikat Jibril datang kepada manusia untuk mengajarkan agama mereka.\" Abu Abdullah berkata: \"Semua hal yang diterangkan Beliau shallallahu 'alaihi wasallam dijadikan sebagai iman",
+          "tr": "Ebu Hureyre Radiyallahu anh şöyle demiştir: Bir gün Resulullâh sallallahu aleyhi ve sellem açıkta oturuyordu. (yanına) biri gelip: \"İman nedir?\" diye sordu. \"iman; Allâha, Meleklerine, Allâh`a kavuşmaya, Nebilerine inanmak, kezâlik (öldükten sonra) dirilmeğe inanmaktır.\" cevâbını verdi. \"Ya İslâm nedir?\" dedi. \"İslâm; Allâh`a ibâdet edip (hiçbir şeyi) O`na şerîk ittihâz etmemek, namazı ikâme ve farz edilmiş zekâtı edâ etmek, Ramazanda da oruç tutmaktır.\" buyurdu. (Ondan sonra) \"Ya ihsân nedir?\" diye sordu. \"Allâh`a sanki görüyormuş gibi ibâdet etmendir. Eğer sen, Allâh`ı görmüyorsan şüphesiz O, seni görür.\" buyurdu. \"Kıyâmet ne zaman?\" dedi. (Bunun üzerine) buyurdu ki: \"Bu mes`elede sorulan, sorandan daha âlim değildir. (Şu kadar var ki Kıyâmet`den evvel zuhur edecek) alâmetlerini sana haber vereyim: Ne zaman (satılmış) câriye, sâhibini (yâni efendisini) doğurur, kim idikleri belirsiz deve çobanları (yüksek) binâ kurmakta birbiriyle yarışa çıkarlarsa (Kıyâmet`den evvelki alâmetler görünmüş olur. Kıyâmet`in vakti) Allâh`dan başka kimsenin bilmediği beş şeyden biridir. \" Ondan sonra Nebiyy-i Muhterem salla`llahu aleyhi ve sellem"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 2,
+        "hadith": 43
+      },
+      "narrator": {
+        "en": "Abu Huraira"
+      }
+    },
+    {
+      "hadithNumber": 51,
+      "arabicNumber": 51,
+      "book": 2,
+      "hadithInBook": 44,
+      "text": {
+        "arabic": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ حَمْزَةَ، قَالَ حَدَّثَنَا إِبْرَاهِيمُ بْنُ سَعْدٍ، عَنْ صَالِحٍ، عَنِ ابْنِ شِهَابٍ، عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ، أَنَّ عَبْدَ اللَّهِ بْنَ عَبَّاسٍ، أَخْبَرَهُ قَالَ أَخْبَرَنِي أَبُو سُفْيَانَ، أَنَّ هِرَقْلَ، قَالَ لَهُ سَأَلْتُكَ هَلْ يَزِيدُونَ أَمْ يَنْقُصُونَ، فَزَعَمْتَ أَنَّهُمْ يَزِيدُونَ، وَكَذَلِكَ الإِيمَانُ حَتَّى يَتِمَّ‏.‏ وَسَأَلْتُكَ هَلْ يَرْتَدُّ أَحَدٌ سَخْطَةً لِدِينِهِ بَعْدَ أَنْ يَدْخُلَ فِيهِ، فَزَعَمْتَ أَنْ لاَ، وَكَذَلِكَ الإِيمَانُ حِينَ تُخَالِطُ بَشَاشَتُهُ الْقُلُوبَ، لاَ يَسْخَطُهُ أَحَدٌ‏.‏",
+        "translations": {
+          "en": "Narrated 'Abdullah bin 'Abbas: I was informed by Abu Sufyan that Heraclius said to him, \"I asked you whether they (followers of Muhammad) were increasing or decreasing. You replied that they were increasing. And in fact, this is the way of true Faith till it is complete in all respects. I further asked you whether there was anybody, who, after embracing his (the Prophets) religion (Islam) became displeased and discarded it. You replied in the negative, and in fact, this is (a sign of) true faith. When its delight enters the heart and mixes with them completely, nobody can be displeased with it",
+          "ur": "ہم سے ابراہیم بن حمزہ نے بیان کیا، کہا ہم سے ابراہیم بن سعد نے بیان کیا، انہوں نے صالح بن کیسان سے، انہوں نے ابن شہاب سے، انہوں نے عبیداللہ بن عبداللہ سے، ان کو عبداللہ بن عباس رضی اللہ عنہما نے خبر دی، ان کو ابوسفیان بن حرب نے کہ ہرقل ( روم کے بادشاہ ) نے ان سے کہا۔ میں نے تم سے پوچھا تھا کہ اس رسول کے ماننے والے بڑھ رہے ہیں یا گھٹ رہے ہیں۔ تو نے جواب میں بتلایا کہ وہ بڑھ رہے ہیں۔ ( ٹھیک ہے ) ایمان کا یہی حال رہتا ہے یہاں تک کہ وہ پورا ہو جائے اور میں نے تجھ سے پوچھا تھا کہ کوئی اس کے دین میں آ کر پھر اس کو برا جان کر پھر جاتا ہے؟ تو نے کہا۔ نہیں، اور ایمان کا یہی حال ہے۔ جب اس کی خوشی دل میں سما جاتی ہے تو پھر اس کو کوئی برا نہیں سمجھ سکتا۔",
+          "fr": "Rapporté par 'Abdullah bin 'Abbas : Abu Sufyan m’a informé qu’Héraclius lui a dit : « Je t’ai demandé si les adeptes de Muhammad augmentaient ou diminuaient. Tu as répondu qu’ils augmentaient. En fait, c’est ainsi que la vraie foi progresse jusqu’à être complète. Je t’ai aussi demandé s’il y avait quelqu’un qui, après avoir embrassé sa religion (l’islam), s’en détournait et la rejetait. Tu as répondu non, et en effet, c’est un signe de la vraie foi : quand sa douceur entre dans le cœur et s’y mélange complètement, personne ne peut la rejeter. »",
+          "id": "Telah menceritakan kepada kami [Ibrahim bin Hamzah] berkata, telah menceritakan kepada kami [Ibrahim bin Sa'd] dari [Shalih] dari [Ibnu Syihab] dari [Ubaidillah bin Abdullah] bahwa [Abdullah bin 'Abbas] mengabarkan kepadanya, bahwa dia berkata; telah mengabarkan kepadaku [Abu Sufyan bin Harb] bahwa Heraqlius berkata kepadanya: \"Aku sudah bertanya kepadamu, apakah jumlah mereka bertambah atau berkurang? Maka kamu bertutur bahwa mereka bertambah, dan memang begitulah iman akan terus berkembang hingga sempurna. Dan aku bertanya kepadamu, apakah ada orang yang murtad karena dongkol pada agamanya? Kemudian kamu bertutur; tidak ada, maka begitu juga iman bila sudah tumbuh bersemi dalam hati tidak akan ada yang dongkol kepadanya",
+          "tr": "Ubeydullah bin Abdullah'tan rivayet edildiğine göre Abdullah b. Abbas r.a. şöyle söylemiştir: Ebu Süfyan bana Herakleios'un şöyle söylediğini anlattı: \"Sana onların sayısı artıyor mu azalıyor mu diye sordum, sen onların sayısı­nın arttığını söyledin. îman da tamamlanıncaya kadar böyledir. Sana herhangi bir kimse onun dinine girdikten sonra ona kızıp dininden dö­nüyor mu diye sordum, sen 'hayır' diye cevap verdin. İmanın mutluluğu da kalbe yerleşince hiç kimse böylesi bir mü'mini öfkelendirip de imanından uzak­laştıramaz. Bu Hadis’in geniş hali 7 nolu olarak geçmiştir"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 2,
+        "hadith": 44
+      },
+      "narrator": {
+        "en": "'Abdullah bin 'Abbas"
+      }
+    },
+    {
+      "hadithNumber": 52,
+      "arabicNumber": 52,
+      "book": 2,
+      "hadithInBook": 45,
+      "text": {
+        "arabic": "حَدَّثَنَا أَبُو نُعَيْمٍ، حَدَّثَنَا زَكَرِيَّاءُ، عَنْ عَامِرٍ، قَالَ سَمِعْتُ النُّعْمَانَ بْنَ بَشِيرٍ، يَقُولُ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏ \"‏ الْحَلاَلُ بَيِّنٌ وَالْحَرَامُ بَيِّنٌ، وَبَيْنَهُمَا مُشَبَّهَاتٌ لاَ يَعْلَمُهَا كَثِيرٌ مِنَ النَّاسِ، فَمَنِ اتَّقَى الْمُشَبَّهَاتِ اسْتَبْرَأَ لِدِيِنِهِ وَعِرْضِهِ، وَمَنْ وَقَعَ فِي الشُّبُهَاتِ كَرَاعٍ يَرْعَى حَوْلَ الْحِمَى، يُوشِكُ أَنْ يُوَاقِعَهُ‏.‏ أَلاَ وَإِنَّ لِكُلِّ مَلِكٍ حِمًى، أَلاَ إِنَّ حِمَى اللَّهِ فِي أَرْضِهِ مَحَارِمُهُ، أَلاَ وَإِنَّ فِي الْجَسَدِ مُضْغَةً إِذَا صَلَحَتْ صَلَحَ الْجَسَدُ كُلُّهُ، وَإِذَا فَسَدَتْ فَسَدَ الْجَسَدُ كُلُّهُ‏.‏ أَلاَ وَهِيَ الْقَلْبُ ‏\"‏‏.‏",
+        "translations": {
+          "en": "Narrated An-Nu'man bin Bashir: I heard Allah's Messenger (ﷺ) saying, 'Both legal and illegal things are evident but in between them there are doubtful (suspicious) things and most of the people have no knowledge about them. So whoever saves himself from these suspicious things saves his religion and his honor. And whoever indulges in these suspicious things is like a shepherd who grazes (his animals) near the Hima (private pasture) of someone else and at any moment he is liable to get in it. (O people!) Beware! Every king has a Hima and the Hima of Allah on the earth is His illegal (forbidden) things. Beware! There is a piece of flesh in the body if it becomes good (reformed) the whole body becomes good but if it gets spoilt the whole body gets spoilt and that is the heart",
+          "ur": "ہم سے ابونعیم نے بیان کیا، کہا ہم سے زکریا نے، انہوں نے عامر سے، کہا میں نے نعمان بن بشیر رضی اللہ عنہما سے سنا، وہ کہتے تھے میں نے نبی کریم صلی اللہ علیہ وسلم سے سنا آپ صلی اللہ علیہ وسلم فرماتے تھے حلال کھلا ہوا ہے اور حرام بھی کھلا ہوا ہے اور ان دونوں کے درمیان بعض چیزیں شبہ کی ہیں جن کو بہت لوگ نہیں جانتے ( کہ حلال ہیں یا حرام ) پھر جو کوئی شبہ کی چیزوں سے بھی بچ گیا اس نے اپنے دین اور عزت کو بچا لیا اور جو کوئی ان شبہ کی چیزوں میں پڑ گیا اس کی مثال اس چرواہے کی ہے جو ( شاہی محفوظ ) چراگاہ کے آس پاس اپنے جانوروں کو چرائے۔ وہ قریب ہے کہ کبھی اس چراگاہ کے اندر گھس جائے ( اور شاہی مجرم قرار پائے ) سن لو ہر بادشاہ کی ایک چراگاہ ہوتی ہے۔ اللہ کی چراگاہ اس کی زمین پر حرام چیزیں ہیں۔ ( پس ان سے بچو اور ) سن لو بدن میں ایک گوشت کا ٹکڑا ہے جب وہ درست ہو گا سارا بدن درست ہو گا اور جہاں بگڑا سارا بدن بگڑ گیا۔ سن لو وہ ٹکڑا آدمی کا دل ہے۔",
+          "fr": "Rapporté par An-Nu'man bin Bashir : J’ai entendu le Messager d’Allah (ﷺ) dire : « Ce qui est permis et ce qui est interdit sont clairs, mais entre les deux il y a des choses douteuses (suspectes) que la plupart des gens ne connaissent pas. Celui qui s’éloigne de ces choses douteuses protège sa religion et son honneur. Mais celui qui s’y engage ressemble à un berger qui fait paître ses animaux près d’un terrain privé et risque d’y entrer à tout moment. Faites attention ! Chaque roi a un terrain protégé, et le terrain protégé d’Allah sur terre, ce sont Ses interdits. Faites attention ! Il y a dans le corps un morceau de chair : s’il est sain, tout le corps est sain, et s’il est corrompu, tout le corps est corrompu. C’est le cœur. »",
+          "id": "Telah menceritakan kepada kami [Abu Nu'aim] Telah menceritakan kepada kami [Zakaria] dari ['Amir] berkata; aku mendengar [An Nu'man bin Basyir] berkata; aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: \"Yang halal sudah jelas dan yang haram juga sudah jelas. Namun diantara keduanya ada perkara syubhat (samar) yang tidak diketahui oleh banyak orang. Maka barangsiapa yang menjauhi diri dari yang syubhat berarti telah memelihara agamanya dan kehormatannya. Dan barangsiapa yang sampai jatuh (mengerjakan) pada perkara-perkara syubhat, sungguh dia seperti seorang penggembala yang menggembalakan ternaknya di pinggir jurang yang dikhawatirkan akan jatuh ke dalamnya. Ketahuilah bahwa setiap raja memiliki batasan, dan ketahuilah bahwa batasan larangan Allah di bumi-Nya adalah apa-apa yang diharamkan-Nya. Dan ketahuilah pada setiap tubuh ada segumpal darah yang apabila baik maka baiklah tubuh tersebut dan apabila rusak maka rusaklah tubuh tersebut. Ketahuilah, ia adalah hati",
+          "tr": "Nu'man b. Beşîr'den rivayet edilmiştir: Allah Resûlü'nün şöyle buyurduğunu işittim: Helal de bellidir, haram da. Bu ikisi arasında insanlardan çoğunun bilmediği şüpheli şeyler vardır. Kim şüphelilerden korunursa dini ve ırzını (şahsiyetini) korumuş olur. Kim de şüpheli şeylere düşerse harama düşer. Bu kişi bir koruluğun etrafında koyun güden ve koyunların her an koruluğa girme ihtimali bulunan bir çoban gibidir, dikkat edin! Her kralın bir koruluğu vardır. Dikkat edin! Allah'ın yeryüzündeki koruluğu haram kıldığı şeylerdir. Dikkat edin! Vücutta öyle bir et parçası vardır ki o düzgün olursa bütün vücut düzgün olur, o bozuk olursa bütün vücut bozuk olur. Dikkat edin! Bu et parçası kalptır. Tekrar:"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 2,
+        "hadith": 45
+      },
+      "narrator": {
+        "en": "An-Nu'man bin Bashir"
+      }
+    },
+    {
+      "hadithNumber": 53,
+      "arabicNumber": 53,
+      "book": 2,
+      "hadithInBook": 46,
+      "text": {
+        "arabic": "حَدَّثَنَا عَلِيُّ بْنُ الْجَعْدِ، قَالَ أَخْبَرَنَا شُعْبَةُ، عَنْ أَبِي جَمْرَةَ، قَالَ كُنْتُ أَقْعُدُ مَعَ ابْنِ عَبَّاسٍ، يُجْلِسُنِي عَلَى سَرِيرِهِ فَقَالَ أَقِمْ عِنْدِي حَتَّى أَجْعَلَ لَكَ سَهْمًا مِنْ مَالِي، فَأَقَمْتُ مَعَهُ شَهْرَيْنِ، ثُمَّ قَالَ إِنَّ وَفْدَ عَبْدِ الْقَيْسِ لَمَّا أَتَوُا النَّبِيَّ صلى الله عليه وسلم قَالَ ‏\"‏ مَنِ الْقَوْمُ أَوْ مَنِ الْوَفْدُ ‏\"‏‏.‏ قَالُوا رَبِيعَةُ‏.‏ قَالَ ‏\"‏ مَرْحَبًا بِالْقَوْمِ ـ أَوْ بِالْوَفْدِ ـ غَيْرَ خَزَايَا وَلاَ نَدَامَى ‏\"‏‏.‏ فَقَالُوا يَا رَسُولَ اللَّهِ، إِنَّا لاَ نَسْتَطِيعُ أَنْ نَأْتِيَكَ إِلاَّ فِي شَهْرِ الْحَرَامِ، وَبَيْنَنَا وَبَيْنَكَ هَذَا الْحَىُّ مِنْ كُفَّارِ مُضَرَ، فَمُرْنَا بِأَمْرٍ فَصْلٍ، نُخْبِرْ بِهِ مَنْ وَرَاءَنَا، وَنَدْخُلْ بِهِ الْجَنَّةَ‏.‏ وَسَأَلُوهُ عَنِ الأَشْرِبَةِ‏.‏ فَأَمَرَهُمْ بِأَرْبَعٍ، وَنَهَاهُمْ عَنْ أَرْبَعٍ، أَمَرَهُمْ بِالإِيمَانِ بِاللَّهِ وَحْدَهُ‏.‏ قَالَ ‏\"‏ أَتَدْرُونَ مَا الإِيمَانُ بِاللَّهِ وَحْدَهُ ‏\"‏‏.‏ قَالُوا اللَّهُ وَرَسُولُهُ أَعْلَمُ‏.‏ قَالَ ‏\"‏ شَهَادَةُ أَنْ لاَ إِلَهَ إِلاَّ اللَّهُ وَأَنَّ مُحَمَّدًا رَسُولُ اللَّهِ، وَإِقَامُ الصَّلاَةِ، وَإِيتَاءُ الزَّكَاةِ، وَصِيَامُ رَمَضَانَ، وَأَنْ تُعْطُوا مِنَ الْمَغْنَمِ الْخُمُسَ ‏\"‏‏.‏ وَنَهَاهُمْ عَنْ أَرْبَعٍ عَنِ الْحَنْتَمِ وَالدُّبَّاءِ وَالنَّقِيرِ وَالْمُزَفَّتِ‏.‏ وَرُبَّمَا قَالَ الْمُقَيَّرِ‏.‏ وَقَالَ ‏\"‏ احْفَظُوهُنَّ وَأَخْبِرُوا بِهِنَّ مَنْ وَرَاءَكُمْ ‏\"‏‏.‏",
+        "translations": {
+          "en": "Narrated Abu Jamra: I used to sit with Ibn 'Abbas and he made me sit on his sitting place. He requested me to stay with him in order that he might give me a share from his property. So I stayed with him for two months. Once he told (me) that when the delegation of the tribe of 'Abdul Qais came to the Prophet, the Prophet (ﷺ) asked them, \"Who are the people (i.e. you)? (Or) who are the delegate?\" They replied, \"We are from the tribe of Rabi'a.\" Then the Prophet (ﷺ) said to them, \"Welcome! O people (or O delegation of 'Abdul Qais)! Neither will you have disgrace nor will you regret.\" They said, \"O Allah's Messenger (ﷺ)! We cannot come to you except in the sacred month and there is the infidel tribe of Mudar intervening between you and us. So please order us to do something good (religious deeds) so that we may inform our people whom we have left behind (at home), and that we may enter Paradise (by acting on them).\" Then they asked about drinks (what is legal and what is illegal). The Prophet (ﷺ) ordered them to do four things and forbade them from four things. He ordered them to believe in Allah Alone and asked them, \"Do you know what is meant by believing in Allah Alone?\" They replied, \"Allah and His Apostle know better.\" Thereupon the Prophet (ﷺ) said, \"It means: 1. To testify that none has the right to be worshipped but Allah and Muhammad is Allah's Messenger (ﷺ). 2. To offer prayers perfectly 3. To pay the Zakat (obligatory charity) 4. To observe fast during the month of Ramadan. 5. And to pay Al-Khumus (one fifth of the booty to be given in Allah's Cause). Then he forbade them four things, namely, Hantam, Dubba,' Naqir Ann Muzaffat or Muqaiyar; (These were the names of pots in which Alcoholic drinks were prepared) (The Prophet (ﷺ) mentioned the container of wine and he meant the wine itself). The Prophet (ﷺ) further said (to them): \"Memorize them (these instructions) and convey them to the people whom you have left behind",
+          "ur": "ہم سے علی بن جعد نے بیان کیا، کہا ہم کو شعبہ نے خبر دی، انہوں نے ابوجمرہ سے نقل کیا کہ میں عبداللہ بن عباس رضی اللہ عنہما کے پاس بیٹھا کرتا تھا وہ مجھ کو خاص اپنے تخت پر بٹھاتے ( ایک دفعہ ) کہنے لگے کہ تم میرے پاس مستقل طور پر رہ جاؤ میں اپنے مال میں سے تمہارا حصہ مقرر کر دوں گا۔ تو میں دو ماہ تک ان کی خدمت میں رہ گیا۔ پھر کہنے لگے کہ عبدالقیس کا وفد جب نبی کریم صلی اللہ علیہ وسلم کے پاس آیا تو آپ نے پوچھا کہ یہ کون سی قوم کے لوگ ہیں یا یہ وفد کہاں کا ہے؟ انہوں نے کہا کہ ربیعہ خاندان کے لوگ ہیں۔ آپ صلی اللہ علیہ وسلم نے فرمایا مرحبا اس قوم کو یا اس وفد کو نہ ذلیل ہونے والے نہ شرمندہ ہونے والے ( یعنی ان کا آنا بہت خوب ہے ) وہ کہنے لگے اے اللہ کے رسول! ہم آپ کی خدمت میں صرف ان حرمت والے مہینوں میں آ سکتے ہیں کیونکہ ہمارے اور آپ کے درمیان مضر کے کافروں کا قبیلہ آباد ہے۔ پس آپ ہم کو ایک ایسی قطعی بات بتلا دیجئیے جس کی خبر ہم اپنے پچھلے لوگوں کو بھی کر دیں جو یہاں نہیں آئے اور اس پر عمل درآمد کر کے ہم جنت میں داخل ہو جائیں اور انہوں نے آپ سے اپنے برتنوں کے بارے میں بھی پوچھا۔ آپ صلی اللہ علیہ وسلم نے ان کو چار باتوں کا حکم دیا اور چار قسم کے برتنوں کو استعمال میں لانے سے منع فرمایا۔ ان کو حکم دیا کہ ایک اکیلے اللہ پر ایمان لاؤ۔ پھر آپ صلی اللہ علیہ وسلم نے پوچھا کہ جانتے ہو ایک اکیلے اللہ پر ایمان لانے کا مطلب کیا ہے؟ انہوں نے کہا کہ اللہ اور اس کے رسول ہی کو معلوم ہے۔ آپ صلی اللہ علیہ وسلم نے فرمایا کہ اس بات کی گواہی دینا کہ اللہ کے سوا کوئی مبعود نہیں اور یہ کہ محمد صلی اللہ علیہ وسلم اس کے سچے رسول ہیں اور نماز قائم کرنا اور زکوٰۃ ادا کرنا اور رمضان کے روزے رکھنا اور مال غنیمت سے جو ملے اس کا پانچواں حصہ ( مسلمانوں کے بیت المال میں ) داخل کرنا اور چار برتنوں کے استعمال سے آپ صلی اللہ علیہ وسلم نے ان کو منع فرمایا۔ سبز لاکھی مرتبان سے اور کدو کے بنائے ہوئے برتن سے، لکڑی کے کھودے ہوئے برتن سے، اور روغنی برتن سے اور فرمایا کہ ان باتوں کو حفظ کر لو اور ان لوگوں کو بھی بتلا دینا جو تم سے پیچھے ہیں اور یہاں نہیں آئے ہیں۔",
+          "fr": "Rapporté par Abu Jamra : J’avais l’habitude de m’asseoir avec Ibn 'Abbas, et il me faisait asseoir à sa place. Il m’a demandé de rester avec lui pour qu’il puisse me donner une part de ses biens. Je suis donc resté avec lui pendant deux mois. Un jour, il m’a raconté que lorsque la délégation de la tribu d’Abdul Qais est venue voir le Prophète, le Prophète (ﷺ) leur a demandé : « Qui êtes-vous (vous, les gens) ? (Ou) qui sont les délégués ? » Ils ont répondu : « Nous sommes de la tribu de Rabi’a. » Alors le Prophète (ﷺ) leur a dit : « Soyez les bienvenus, ô gens (ou délégation d’Abdul Qais) ! Vous ne connaîtrez ni honte ni regret. » Ils ont dit : « Ô Messager d’Allah (ﷺ) ! Nous ne pouvons venir te voir qu’au mois sacré, car il y a la tribu infidèle de Mudar entre nous et toi. Donne-nous donc des instructions (religieuses) que nous pourrons transmettre à notre peuple resté chez nous, afin que nous puissions entrer au Paradis en les appliquant. » Ils ont ensuite demandé au sujet des boissons (ce qui est permis et ce qui est interdit). Le Prophète (ﷺ) leur a ordonné de faire quatre choses et leur a interdit quatre choses. Il leur a ordonné de croire en Allah seul et leur a demandé : « Savez-vous ce que signifie croire en Allah seul ? » Ils ont répondu : « Allah et Son Messager savent mieux. » Le Prophète (ﷺ) a alors dit : « Cela signifie : 1. Attester qu’il n’y a de dieu qu’Allah et que Muhammad est le Messager d’Allah (ﷺ). 2. Accomplir parfaitement la prière. 3. Payer la Zakat (aumône obligatoire). 4. Jeûner pendant le mois de Ramadan. 5. Et donner le cinquième du butin (Al-Khumus) pour la cause d’Allah. » Ensuite, il leur a interdit quatre choses : Hantam, Dubba’, Naqir, Muzaffat ou Muqaiyar (ce sont des noms de récipients dans lesquels on préparait des boissons alcoolisées). Le Prophète (ﷺ) a parlé du récipient à vin, mais il voulait dire le vin lui-même. Le Prophète (ﷺ) leur a également dit : « Apprenez ces instructions et transmettez-les à ceux que vous avez laissés derrière vous. »",
+          "id": "Telah menceritakan kepada kami [Ali bin Al Ja'di] berkata, telah mengabarkan kepada kami [Syu'bah] dari [Abu Jamrah] berkata: aku pernah duduk bersama [Ibnu 'Abbas] saat dia mempersilahkan aku duduk di permadaninya lalu berkata: \"Tinggallah bersamaku hingga aku memberimu bagian dari hartaku\". Maka aku tinggal mendampingi dia selama dua bulan, lalu berkata: Ketika utusan Abu Qais datang menemui Nabi shallallahu 'alaihi wasallam, Beliau bertanya kepada mereka: \"Kaum manakah ini atau utusan siapakah ini? Mereka menjawab: \"Rabi'ah!\" Beliau shallallahu 'alaihi wasallam bersabda: \"selamat datang wahai para utusan dengan sukarela dan tanpa menyesal\". para utusan itu berkata: \"ya Rasulullah, kami tidak dapat mendatangimu kecuali di bulan suci, karena antara kami dan engkau ada suku Mudlor yang kafir. Oleh karena itu ajarkanlah kami dengan satu pelajaran yang jelas yang dapat kami amalkan dan dapat kami ajarkan kepada orang-orang di kampung kami, yang dengan begitu kami dapat masuk surga.\" kemudian mereka bertanya kepada Nabi shallallahu 'alaihi wasallam tentang minuman, maka Nabi shallallahu 'alaihi wasallam memerintahkan mereka dengan empat hal dan melarang dari empat hal, memerintahkan mereka untuk beriman kepada Allah satu-satunya, kemudian bertanya: \"Tahukah kalian apa arti beriman kepada Allah satu-satunya?\" Mereka menjawab: \"Allah dan Rasul-Nya yang lebih mengetahui.\" Nabi shallallahu 'alaihi wasallam menjelaskan: Persaksian tidak ada ilah kecuali Allah dan bahwa Muhammad adalah utusan Allah, menegakkan shalat, menunaikan zakat, berpuasa pada bulan Ramadlan dan mengeluarkan seperlima dari harta rampasan perang\". Dan Nabi shallallahu 'alaihi wasallam melarang mereka dari empat perkara, yaitu janganlah kalian meminum sesuatu dari al hantam, ad Dubbaa`, an naqir dan al Muzaffaat. Atau Beliau shallallahu 'alaihi wasallam menyebut muqoyyir (bukan naqir). Nabi shallallahu 'alaihi wasallam bersabda: \"jagalah semuanya dan beritahukanlah kepada orang-orang di kampung kalian",
+          "tr": "Ebu Cemre'den rivayet edildiğine göre o şöyle demiştir: İbn Abbas'la birlikte oturuyordum. Beni oturduğu koltuk üzerinde, yanında oturtmuştu. Sonra bana \"Benim yanımda kalırsan malımdan sana bir pay veririm\" dedi. Ben de iki ay onun yanında kaldım. Sonra şöyle dedi: Benî Abdülkays heyeti Nebi (Sallallahu aleyhi ve Sellem)'e geldi Nebi (Sallallahu aleyhi ve Sellem) sordu: Bu Topluluk (Bu Heyet) Kimdir? Orada bulunanlar \"Onlar Rebîa'dır\" dediler. geldiklerinde Nebi s.a.v. onlara: Merhaba (hoş geldiniz). Allah sizi utandırmasın, pişman etmesin\" buyurdu. Onlar şöyle dediler: Ey Allah'ın elçisi! Biz senin yanına ancak Haram aylarda gelebiliyoruz. Bizimle senin aranda Mudar kabilesinin kâfirlerinden falanca kabile var. Bize öyle kesin bir şey söyle ki bunu geride bıraktığımız akrabalarımıza bildirelim ve bununla (bunu yaptığımızda) cennete girelim\". Ayrıca içecekler hakkında da soru sordular. Nebi (Sallallahu aleyhi ve Sellem) de onlara dört şeyi emretti, dört şeyi yasakladı. Onlara; yalnızca Allah'a inanmayı emrederek şöyle sordu: \"Yalnızca Allah'a inanmak nedir bilir misiniz?\" Onlar: \"Allah ve Resulü daha iyi bilir\" dediler. Nebi (Sallallahu aleyhi ve Sellem) şöyle buyurdu: (Yalnızca Allah'a iman:) Allah'tan başka ilah olmadığına ve Muhammedin Allah'ın elçisi olduğuna şahitlik etmek, namaz kılmak, zekat vermek, oruç tutmak ve ganimetin beşte birini (devlet hazinesine) vermektir\". Nebi s.a.v. onlara şu dört şeyi (kullanmayı) yasakladı: Hantem, Dübbâ, Nekîr, Müzeffet (mukayyer de demiş olabilir). Onlara şöyle dedi: \"Bunları ezberleyin ve geride kalanlarınıza da bildirin"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 2,
+        "hadith": 46
+      },
+      "narrator": {
+        "en": "Abu Jamra"
+      }
+    },
+    {
+      "hadithNumber": 54,
+      "arabicNumber": 54,
+      "book": 2,
+      "hadithInBook": 47,
+      "text": {
+        "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، قَالَ أَخْبَرَنَا مَالِكٌ، عَنْ يَحْيَى بْنِ سَعِيدٍ، عَنْ مُحَمَّدِ بْنِ إِبْرَاهِيمَ، عَنْ عَلْقَمَةَ بْنِ وَقَّاصٍ، عَنْ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ الأَعْمَالُ بِالنِّيَّةِ، وَلِكُلِّ امْرِئٍ مَا نَوَى، فَمَنْ كَانَتْ هِجْرَتُهُ إِلَى اللَّهِ وَرَسُولِهِ، فَهِجْرَتُهُ إِلَى اللَّهِ وَرَسُولِهِ، وَمَنْ كَانَتْ هِجْرَتُهُ لِدُنْيَا يُصِيبُهَا، أَوِ امْرَأَةٍ يَتَزَوَّجُهَا، فَهِجْرَتُهُ إِلَى مَا هَاجَرَ إِلَيْهِ ‏\"‏‏.‏",
+        "translations": {
+          "en": "Narrated 'Umar bin Al-Khattab: Allah's Messenger (ﷺ) said, \"The reward of deeds depends upon the intention and every person will get the reward according to what he has intended. So whoever emigrated for Allah and His Apostle, then his emigration was for Allah and His Apostle. And whoever emigrated for worldly benefits or for a woman to marry, his emigration was for what he emigrated for",
+          "ur": "ہم سے عبداللہ بن مسلمہ نے بیان کیا، کہا ہم کو امام مالک رحمہ اللہ نے خبر دی، انہوں نے یحییٰ بن سعید سے، انہوں نے محمد بن ابراہیم سے، انہوں نے علقمہ بن وقاص سے، انہوں نے عمر رضی اللہ عنہ سے کہ نبی کریم صلی اللہ علیہ وسلم نے فرمایا عمل نیت ہی سے صحیح ہوتے ہیں ( یا نیت ہی کے مطابق ان کا بدلا ملتا ہے ) اور ہر آدمی کو وہی ملے گا جو نیت کرے گا۔ پس جو کوئی اللہ اور اس کے رسول کی رضا کے لیے ہجرت کرے اس کی ہجرت اللہ اور اس کے رسول کی طرف ہو گی اور جو کوئی دنیا کمانے کے لیے یا کسی عورت سے شادی کرنے کے لیے ہجرت کرے گا تو اس کی ہجرت ان ہی کاموں کے لیے ہو گی۔",
+          "fr": "Rapporté par 'Umar bin Al-Khattab : Le Messager d’Allah (ﷺ) a dit : « La récompense des actions dépend de l’intention, et chaque personne sera récompensée selon ce qu’elle a eu comme intention. Donc, celui qui a émigré pour Allah et Son Messager, alors son émigration était pour Allah et Son Messager. Et celui qui a émigré pour des biens matériels ou pour épouser une femme, son émigration était pour ce pour quoi il a émigré. »",
+          "id": "Telah menceritakan kepada kami [Abdullah bin Maslamah] berkata, telah mengabarkan kepada kami [Malik] dari [Yahya bin Sa'id] dari [Muhammad bin Ibrahim] dari [Alqamah bin Waqash] dari [Umar], bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: \"Semua perbuatan tergantung niatnya, dan (balasan) bagi tiap-tiap orang (tergantung) apa yang diniatkan; barangsiapa niat hijrahnya karena Allah dan Rasul-Nya, maka hijrahnya adalah kepada Allah dan Rasul-Nya. Barangsiapa niat hijrahnya karena dunia yang ingin digapainya atau karena seorang perempuan yang ingin dinikahinya, maka hijrahnya adalah kepada apa dia diniatkan",
+          "tr": "Ömer den rivayet edildiğine göre Allah Resulü sallallahu aleyhi ve selem şöyle buyurmuştur: \"Ameller niyetlere göredir. Herkes için niyet ettiği(nin karşılığı) vardır. Kimin hicreti Allah'a ve Resulüne ise onun hicreti Allah'a ve Resûlünedir. Kimin de hicreti elde etmek istediği dünya ve nikahlamak istediği bir kadına ise onun hicreti de hicret ettiği şeyedir. Tekrar:"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 2,
+        "hadith": 47
+      },
+      "narrator": {
+        "en": "'Umar bin Al-Khattab"
+      }
+    },
+    {
+      "hadithNumber": 55,
+      "arabicNumber": 55,
+      "book": 2,
+      "hadithInBook": 48,
+      "text": {
+        "arabic": "حَدَّثَنَا حَجَّاجُ بْنُ مِنْهَالٍ، قَالَ حَدَّثَنَا شُعْبَةُ، قَالَ أَخْبَرَنِي عَدِيُّ بْنُ ثَابِتٍ، قَالَ سَمِعْتُ عَبْدَ اللَّهِ بْنَ يَزِيدَ، عَنْ أَبِي مَسْعُودٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ إِذَا أَنْفَقَ الرَّجُلُ عَلَى أَهْلِهِ يَحْتَسِبُهَا فَهُوَ لَهُ صَدَقَةٌ ‏\"‏‏.‏",
+        "translations": {
+          "en": "Narrated Abu Mas'ud: The Prophet (ﷺ) said, \"If a man spends on his family (with the intention of having a reward from Allah) sincerely for Allah's sake then it is a (kind of) alms-giving in reward for him",
+          "ur": "ہم سے حجاج بن منہال نے بیان کیا، وہ کہتے ہیں کہ ہم سے شعبہ نے بیان کیا، وہ کہتے ہیں مجھ کو عدی بن ثابت نے خبر دی، انہوں نے عبداللہ بن یزید سے سنا، انہوں نے عبداللہ بن مسعود سے نقل کیا انہوں نے نبی کریم صلی اللہ علیہ وسلم سے کہ آپ صلی اللہ علیہ وسلم نے فرمایا جب آدمی ثواب کی نیت سے اپنے اہل و عیال پر خرچ کرے پس وہ بھی اس کے لیے صدقہ ہے۔",
+          "fr": "Rapporté par Abu Mas'ud : Le Prophète (ﷺ) a dit : « Si un homme dépense pour sa famille (dans l’intention d’obtenir une récompense d’Allah) sincèrement pour Allah, alors cela sera considéré comme une aumône pour lui. »",
+          "id": "Telah menceritakan kepada kami [Hajjaj bin Minhal] berkata, telah menceritakan kepada kami [Syu'bah] berkata, telah mengabarkan kepadaku ['Adi bin Tsabit] berkata: Aku pernah mendengar [Abdullah bin Yazid] dari [Abu Mas'ud] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: \"Apabila seseorang memberi nafkah untuk keluarganya dengan niat mengharap pahala maka baginya Sedekah",
+          "tr": "Ebu Mes’ud r.a. şöyle dedi: Nebiyy-i Mükerrem sallallahu aleyhi ve sellem buyurdu ki: \"Kişi Allah'ın rızasını gözeterek ailesine harcama yaptığında bu kendisi için sadaka olur. Tekrar:"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 2,
+        "hadith": 48
+      },
+      "narrator": {
+        "en": "Abu Mas'ud"
+      }
+    },
+    {
+      "hadithNumber": 56,
+      "arabicNumber": 56,
+      "book": 2,
+      "hadithInBook": 49,
+      "text": {
+        "arabic": "حَدَّثَنَا الْحَكَمُ بْنُ نَافِعٍ قَالَ أَخْبَرَنَا شُعَيْبٌ عَنْ الزُّهْرِيِّ قَالَ حَدَّثَنِي عَامِرُ بْنُ سَعْدٍ عَنْ سَعْدِ بْنِ أَبِي وَقَّاصٍ أَنَّهُ أَخْبَرَهُ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ \"إِنَّكَ لَنْ تُنْفِقَ نَفَقَةً تَبْتَغِي بِهَا وَجْهَ اللَّهِ إِلَّا أُجِرْتَ عَلَيْهَا حَتَّى مَا تَجْعَلُ فِي فَمِ امْرَأَتِكَ",
+        "translations": {
+          "en": "Narrated Sa'd bin Abi Waqqas: Allah's Messenger (ﷺ) said, \"You will be rewarded for whatever you spend for Allah's sake even if it were a morsel which you put in your wife's mouth",
+          "ur": "ہم سے حکم بن نافع نے بیان کیا، کہا ہم کو شعیب نے زہری سے خبر دی، انہوں نے کہا کہ مجھ سے عامر بن سعد نے سعد بن ابی وقاص سے بیان کیا، انہوں نے ان کو خبر دی کہ نبی کریم صلی اللہ علیہ وسلم نے فرمایا بیشک تو جو کچھ خرچ کرے اور اس سے تیری نیت اللہ کی رضا حاصل کرنی ہو تو تجھ کو اس کا ثواب ملے گا۔ یہاں تک کہ اس پر بھی جو تو اپنی بیوی کے منہ میں ڈالے۔",
+          "fr": "Rapporté par Sa'd bin Abi Waqqas : Le Messager d’Allah (ﷺ) a dit : « Tu seras récompensé pour tout ce que tu dépenses pour Allah, même pour une bouchée que tu mets dans la bouche de ton épouse. »",
+          "id": "Telah menceritakan kepada kami [Al Hakam bin Nafi'] berkata, telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] berkata, telah menceritakan kepadaku ['Amir bin Sa'd] dari [Sa'd bin Abu Waqash] bahwasanya dia mengabarkan, bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: \"Sesungguhnya, tidaklah kamu menafkahkan suatu nafkah yang dimaksudkan mengharap wajah Allah kecuali kamu akan diberi pahala termasuk sesuatu yang kamu suapkan ke mulut istrimu",
+          "tr": "Sa'd b. Ebî Vakkas'tan rivayet edildiğine göre Nebi (Sallallahu aleyhi ve Sellem) şöyle buyurmuştur: \"Allah'ın rızasını gözeterek yaptığın her harcamadan dolayı sevap alırsın, hatta eşinin ağzına koyduğun lokmadan bile. Tekrar:"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 2,
+        "hadith": 49
+      },
+      "narrator": {
+        "en": "Sa'd bin Abi Waqqas"
+      }
+    },
+    {
+      "hadithNumber": 57,
+      "arabicNumber": 57,
+      "book": 2,
+      "hadithInBook": 50,
+      "text": {
+        "arabic": "حَدَّثَنَا مُسَدَّدٌ، قَالَ حَدَّثَنَا يَحْيَى، عَنْ إِسْمَاعِيلَ، قَالَ حَدَّثَنِي قَيْسُ بْنُ أَبِي حَازِمٍ، عَنْ جَرِيرِ بْنِ عَبْدِ اللَّهِ، قَالَ بَايَعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم عَلَى إِقَامِ الصَّلاَةِ، وَإِيتَاءِ الزَّكَاةِ، وَالنُّصْحِ لِكُلِّ مُسْلِمٍ‏.‏",
+        "translations": {
+          "en": "Narrated Jarir bin Abdullah: I gave the pledge of allegiance to Allah's Messenger (ﷺ) for the following: 1. offer prayers perfectly 2. pay the Zakat (obligatory charity) 3. and be sincere and true to every Muslim",
+          "ur": "ہم سے مسدد نے بیان کیا، انہوں نے کہا ہم سے یحییٰ بن سعید بن قطان نے بیان کیا، انہوں نے اسماعیل سے، انہوں نے کہا مجھ سے قیس بن ابی حازم نے بیان کیا، انہوں نے جریر بن عبداللہ بجلی رضی اللہ عنہ سے سنا، انہوں نے کہا نبی کریم صلی اللہ علیہ وسلم سے میں نے نماز قائم کرنے اور زکوٰۃ ادا کرنے اور ہر مسلمان کی خیر خواہی کرنے پر بیعت کی۔",
+          "fr": "Rapporté par Jarir bin Abdullah : J’ai donné mon engagement d’allégeance au Messager d’Allah (ﷺ) pour les choses suivantes : 1. accomplir la prière parfaitement, 2. payer la Zakat (aumône obligatoire), 3. et être sincère et loyal envers chaque musulman",
+          "id": "Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Yahya] dari [Isma'il] berkata, telah menceritakan kepadaku [Qais bin Abu Hazim] dari [Jarir bin Abdullah] berkata: \"Aku telah membai'at Rasulullah untuk menegakkan shalat, menunaikan zakat dan menasehati kepada setiap muslim",
+          "tr": "Cerir bin Abdullah'ın şöyle dediği rivayet edilmiştir: Nebi (Sallallahu aleyhi ve Sellem)'e namaz kılmak, zekat vermek ve her müslümana (karşı) hayırhah olmak üzere biat ettim. Tekrar:"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 2,
+        "hadith": 50
+      },
+      "narrator": {
+        "en": "Jarir bin Abdullah"
+      }
+    },
+    {
+      "hadithNumber": 58,
+      "arabicNumber": 58,
+      "book": 2,
+      "hadithInBook": 51,
+      "text": {
+        "arabic": "حَدَّثَنَا أَبُو النُّعْمَانِ، قَالَ حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ زِيَادِ بْنِ عِلاَقَةَ، قَالَ سَمِعْتُ جَرِيرَ بْنَ عَبْدِ اللَّهِ، يَقُولُ يَوْمَ مَاتَ الْمُغِيرَةُ بْنُ شُعْبَةَ قَامَ فَحَمِدَ اللَّهَ وَأَثْنَى عَلَيْهِ وَقَالَ عَلَيْكُمْ بِاتِّقَاءِ اللَّهِ وَحْدَهُ لاَ شَرِيكَ لَهُ، وَالْوَقَارِ وَالسَّكِينَةِ حَتَّى يَأْتِيَكُمْ أَمِيرٌ، فَإِنَّمَا يَأْتِيكُمُ الآنَ، ثُمَّ قَالَ اسْتَعْفُوا لأَمِيرِكُمْ، فَإِنَّهُ كَانَ يُحِبُّ الْعَفْوَ‏.‏ ثُمَّ قَالَ أَمَّا بَعْدُ، فَإِنِّي أَتَيْتُ النَّبِيَّ صلى الله عليه وسلم قُلْتُ أُبَايِعُكَ عَلَى الإِسْلاَمِ‏.‏ فَشَرَطَ عَلَىَّ وَالنُّصْحِ لِكُلِّ مُسْلِمٍ‏.‏ فَبَايَعْتُهُ عَلَى هَذَا، وَرَبِّ هَذَا الْمَسْجِدِ إِنِّي لَنَاصِحٌ لَكُمْ‏.‏ ثُمَّ اسْتَغْفَرَ وَنَزَلَ‏.‏",
+        "translations": {
+          "en": "Narrated Ziyad bin'Ilaqa: I heard Jarir bin 'Abdullah (Praising Allah). On the day when Al-Mughira bin Shu'ba died, he (Jarir) got up (on the pulpit) and thanked and praised Allah and said, \"Be afraid of Allah alone Who has none along with Him to be worshipped.(You should) be calm and quiet till the (new) chief comes to you and he will come to you soon. Ask Allah's forgiveness for your (late) chief because he himself loved to forgive others.\" Jarir added, \"Amma badu (now then), I went to the Prophet and said, 'I give my pledge of allegiance to you for Islam.\" The Prophet (ﷺ) conditioned (my pledge) for me to be sincere and true to every Muslim so I gave my pledge to him for this. By the Lord of this mosque! I am sincere and true to you (Muslims). Then Jarir asked for Allah's forgiveness and came down (from the pulpit)",
+          "ur": "ہم سے ابونعمان نے بیان کیا، کہا ہم سے ابوعوانہ نے بیان کیا، انہوں نے زیاد سے، انہوں نے علاقہ سے، کہا میں نے جریر بن عبداللہ سے سنا جس دن مغیرہ بن شعبہ ( حاکم کوفہ ) کا انتقال ہوا تو وہ خطبہ کے لیے کھڑے ہوئے اور اللہ کی تعریف اور خوبی بیان کی اور کہا تم کو اکیلے اللہ کا ڈر رکھنا چاہیے اس کا کوئی شریک نہیں اور تحمل اور اطمینان سے رہنا چاہیے اس وقت تک کہ کوئی دوسرا حاکم تمہارے اوپر آئے اور وہ ابھی آنے والا ہے۔ پھر فرمایا کہ اپنے مرنے والے حاکم کے لیے دعائے مغفرت کرو کیونکہ وہ ( مغیرہ ) بھی معافی کو پسند کرتا تھا پھر کہا کہ اس کے بعد تم کو معلوم ہونا چاہیے کہ میں ایک دفعہ نبی کریم صلی اللہ علیہ وسلم کے پاس آیا اور میں نے عرض کیا کہ میں آپ سے اسلام پر بیعت کرتا ہوں آپ صلی اللہ علیہ وسلم نے مجھ سے ہر مسلمان کی خیر خواہی کے لیے شرط کی، پس میں نے اس شرط پر آپ سے بیعت کر لی ( پس ) اس مسجد کے رب کی قسم کہ میں تمہارا خیرخواہ ہوں پھر استغفار کیا اور منبر سے اتر آئے۔",
+          "fr": "Rapporté par Ziyad bin 'Ilaqa : J’ai entendu Jarir bin 'Abdullah (louant Allah). Le jour où Al-Mughira bin Shu'ba est décédé, il (Jarir) s’est levé (sur la chaire), a remercié et loué Allah, puis a dit : « Craignez Allah seul, Lui qui n’a aucun associé à adorer avec Lui. (Vous devriez) rester calmes et patients jusqu’à ce que le nouveau chef vienne à vous, et il viendra bientôt. Demandez à Allah de pardonner votre (ancien) chef car lui-même aimait pardonner aux autres. » Jarir a ajouté : « Amma ba'd (pour continuer), je suis allé voir le Prophète et j’ai dit : “Je te donne mon engagement d’allégeance pour l’islam.” Le Prophète (ﷺ) a posé comme condition que je sois sincère et loyal envers chaque musulman, alors je lui ai donné mon engagement pour cela. Par le Seigneur de cette mosquée ! Je suis sincère et loyal envers vous (musulmans). » Ensuite, Jarir a demandé pardon à Allah et est descendu de la chaire",
+          "id": "Telah menceritakan kepada kami [Abu An Nu'man] berkata, telah menceritakan kepada kami [Abu 'Awanah] dari [Ziyad bin 'Alaqah] berkata; saya mendengar [Jarir bin Abdullah] berkata ketika Al Mughirah bin Syu'bah meninggal, sambil berdiri dia memuji Allah dan mensucikan-Nya, berkata: \"Wajib atas kalian bertakwa kepada Allah satu-satunya dan tidak menyekutukannya, dan dengan penuh ketundukan dan ketenangan sampai datang pemimpin pengganti, dan sekarang datang penggantinya, \" kemudian dia berkata: \"Mintakanlah maaf kepada Allah Subhanahu wa Ta'ala buat pemimpin kalian ini (Al Mughirah), karena dia suka memberi maaf.\" Lalu berkata: \"Amma ba'du, sesungguhnya aku mendatangi Nabi shallallahu 'alaihi wasallam kemudian aku berkata: \"Aku membai'at engkau untuk Islam\". Lalu Nabi shallallahu 'alaihi wasallam memberi syarat dan menasehati kepada setiap muslim, maka aku membai'at Beliau untuk perkara itu, dan demi Pemilik Masjid ini, sungguh aku akan selalu memberi nasihat kepada kalian\" Kemudian dia beristighfar lalu turun dari mimbar",
+          "tr": "Ziyâd b. Alâka'dan rivayet edildiğine göre o şöyle demiştir: Muğîre bin Şu'be'nin vefat ettiği gün Cerir b. Abdullah'ın kalkıp (minbere çıkarak) Allah'a hamd-ü senada bulunduktan sonra şöyle dediğini işittim: \"Yalnızca Allah'tan korkun, onun ortağı yoktur. (Yeni) İdareciniz gelinceye kadar ağırbaşlı ve sakin olun. O size şimdi (yakında) geliyor\". Daha sonra şunları söyledi: (Vefat etmiş olan) İdareciniz (Muğîre b. Şu'be) için (Allah'tan) af talep ediniz. Çünkü o affetmeyi severdi\". Sonra da şunları ilave etti: \"Ben Nebi (Sallallahu aleyhi ve Sellem)’in yanına gelerek; Sana İslâm üzere bey'at ediyorum, dedim. O da bana her müslümana karşı hayırhah olmayı şart koştu, ben de ona bu şart üzere bey'at ettim. Bu mescidin Rabbi'ne yemin ede­rim ki ben size karşı hayırhahım\". Daha sonra istiğfar ederek minberden indi"
+        }
+      },
+      "grades": [],
+      "reference": {
+        "collection": "bukhari",
+        "book": 2,
+        "hadith": 51
+      },
+      "narrator": {
+        "en": "Ziyad bin'Ilaqa"
+      }
+    }
+  ],
+  "metadata": {
+    "averageLength": "long",
+    "size": "35KB"
+  }
+}

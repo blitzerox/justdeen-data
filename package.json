@@ -1,0 +1,59 @@
+{
+  "name": "islamic-data-repository",
+  "version": "1.0.0",
+  "description": "Mobile-optimized Islamic content repository (Quran, Hadith, Duas) for GitHub CDN delivery",
+  "main": "scripts/optimize.js",
+  "scripts": {
+    "validate": "node scripts/validate.js",
+    "validate:quran": "find data/quran/chapters -name '*.json' -exec ajv validate -s schemas/quran-chapter.json -d {} \\;",
+    "validate:hadith": "find data/hadith -name '*.json' -not -path '*/index.json' -exec ajv validate -s schemas/hadith-book.json -d {} \\;",
+    "validate:duas": "find data/duas -name '*.json' -not -path '*/index.json' -exec ajv validate -s schemas/duas-category.json -d {} \\;",
+    "optimize": "node scripts/optimize.js",
+    "build": "npm run validate && npm run optimize",
+    "test": "node scripts/test.js",
+    "dev": "node scripts/dev-server.js",
+    "size-check": "find data -name '*.json' -exec ls -lh {} \\; | awk '$5 ~ /[0-9]+M/ {print \"Large file: \" $9 \" (\" $5 \")\"; large++} END {if(large>0) print \"Found \" large \" files over 1MB\"; else print \"All files appropriately sized\"}'",
+    "stats": "echo 'Repository Statistics:' && echo 'Quran Chapters:' $(find data/quran/chapters -name '*.json' | wc -l) && echo 'Total Size:' $(du -sh data/ | cut -f1)",
+    "clean": "find . -name '*.json.gz' -delete && find . -name 'optimization-report.json' -delete",
+    "precommit": "npm run validate && npm run optimize"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/username/islamic-data.git"
+  },
+  "keywords": [
+    "islamic",
+    "quran",
+    "hadith",
+    "duas",
+    "mobile",
+    "offline",
+    "cdn",
+    "islam",
+    "prayer",
+    "muslim"
+  ],
+  "author": "Islamic Data Contributors",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/username/islamic-data/issues"
+  },
+  "homepage": "https://github.com/username/islamic-data#readme",
+  "devDependencies": {
+    "ajv": "^8.12.0",
+    "ajv-cli": "^5.0.0",
+    "compression": "^1.7.4",
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "files": [
+    "data/",
+    "schemas/",
+    "api/",
+    "examples/",
+    "scripts/",
+    "README.md"
+  ]
+}

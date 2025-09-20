@@ -1,0 +1,249 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://islamic-data.com/schemas/hadith-book.json",
+  "title": "Hadith Book Schema",
+  "description": "Schema for validating Hadith book JSON files",
+  "type": "object",
+  "required": ["collection", "book", "name", "totalHadith", "hadithNumberRange", "content", "metadata"],
+  "properties": {
+    "collection": {
+      "type": "string",
+      "enum": ["bukhari", "muslim", "abudawud", "tirmidhi", "nasai", "majah", "malik", "ahmad", "darimi"],
+      "description": "Name of the hadith collection"
+    },
+    "book": {
+      "type": "integer",
+      "minimum": 0,
+      "description": "Book number within the collection"
+    },
+    "name": {
+      "type": "object",
+      "required": ["arabic", "transliteration", "translation"],
+      "properties": {
+        "arabic": {
+          "type": "string",
+          "minLength": 1,
+          "description": "Arabic name of the book"
+        },
+        "transliteration": {
+          "type": "string",
+          "description": "English transliteration of the book name"
+        },
+        "translation": {
+          "type": "string",
+          "description": "English translation of the book name"
+        }
+      }
+    },
+    "totalHadith": {
+      "type": "integer",
+      "minimum": 1,
+      "description": "Total number of hadith in this book"
+    },
+    "content": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "$ref": "#/definitions/hadith"
+      }
+    },
+    "hadithNumberRange": {
+      "type": "object",
+      "required": ["first", "last"],
+      "properties": {
+        "first": {
+          "type": "integer",
+          "minimum": 1,
+          "description": "First hadith number in this book"
+        },
+        "last": {
+          "type": "integer",
+          "minimum": 1,
+          "description": "Last hadith number in this book"
+        }
+      }
+    },
+    "metadata": {
+      "type": "object",
+      "required": ["averageLength", "size"],
+      "properties": {
+        "totalWords": {
+          "type": "integer",
+          "minimum": 1,
+          "description": "Total word count in all hadith"
+        },
+        "averageLength": {
+          "type": "string",
+          "enum": ["short", "medium", "long"],
+          "description": "Average length of hadith in this book"
+        },
+        "mainTopics": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "Main topics covered in this book"
+        },
+        "size": {
+          "type": "string",
+          "pattern": "^[0-9]+(\\.[0-9]+)?(KB|MB)$",
+          "description": "File size"
+        }
+      }
+    }
+  },
+  "definitions": {
+    "hadith": {
+      "type": "object",
+      "required": ["hadithNumber", "arabicNumber", "book", "hadithInBook", "text", "grades", "reference"],
+      "properties": {
+        "hadithNumber": {
+          "type": "integer",
+          "minimum": 1,
+          "description": "Hadith number within the collection"
+        },
+        "arabicNumber": {
+          "type": "integer",
+          "minimum": 1,
+          "description": "Arabic hadith number"
+        },
+        "book": {
+          "type": "integer",
+          "minimum": 1,
+          "description": "Book number"
+        },
+        "hadithInBook": {
+          "type": "integer",
+          "minimum": 1,
+          "description": "Hadith number within the book"
+        },
+        "chapterNumber": {
+          "type": "integer",
+          "minimum": 1,
+          "description": "Chapter number within the book"
+        },
+        "text": {
+          "type": "object",
+          "required": ["arabic"],
+          "properties": {
+            "arabic": {
+              "type": "string",
+              "minLength": 1,
+              "description": "Arabic text of the hadith"
+            }
+          }
+        },
+        "grades": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "Grading/authenticity status"
+        },
+        "reference": {
+          "type": "object",
+          "required": ["collection", "book", "hadith"],
+          "properties": {
+            "collection": {
+              "type": "string",
+              "description": "Collection name"
+            },
+            "book": {
+              "type": "integer",
+              "minimum": 1,
+              "description": "Book number"
+            },
+            "hadith": {
+              "type": "integer",
+              "minimum": 1,
+              "description": "Hadith number within book"
+            }
+          }
+        },
+        "narrator": {
+          "type": "object",
+          "required": ["arabic", "transliteration"],
+          "properties": {
+            "arabic": {
+              "type": "string",
+              "pattern": "^[\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF\uFB50-\uFDFF\uFE70-\uFEFF\\s]+$",
+              "description": "Arabic name of the narrator"
+            },
+            "transliteration": {
+              "type": "string",
+              "description": "English transliteration of narrator name"
+            },
+            "translation": {
+              "type": "string",
+              "description": "English translation of narrator name"
+            }
+          }
+        },
+        "isnad": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "pattern": "^[\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF\uFB50-\uFDFF\uFE70-\uFEFF\\s]+$"
+          },
+          "description": "Chain of narration in Arabic"
+        },
+        "grading": {
+          "type": "object",
+          "required": ["authenticity", "scholar"],
+          "properties": {
+            "authenticity": {
+              "type": "string",
+              "enum": ["sahih", "hasan", "daif", "mawdu"],
+              "description": "Authenticity grading of the hadith"
+            },
+            "scholar": {
+              "type": "string",
+              "description": "Name of the scholar who graded the hadith"
+            }
+          }
+        },
+        "references": {
+          "type": "object",
+          "properties": {
+            "quranVerses": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "pattern": "^[0-9]{1,3}:[0-9]{1,3}$"
+              },
+              "description": "Related Quran verses (chapter:verse format)"
+            },
+            "relatedHadith": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "pattern": "^[a-z]+:[0-9]+$"
+              },
+              "description": "Related hadith (collection:number format)"
+            }
+          }
+        },
+        "topics": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "Topics covered in this hadith"
+        },
+        "metadata": {
+          "type": "object",
+          "properties": {
+            "wordCount": {
+              "type": "integer",
+              "minimum": 1
+            },
+            "length": {
+              "type": "string",
+              "enum": ["short", "medium", "long"]
+            }
+          }
+        }
+      }
+    }
+  }
+}

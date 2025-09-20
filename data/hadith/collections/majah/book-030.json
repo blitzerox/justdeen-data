@@ -1,0 +1,2503 @@
+{
+  "collection": "majah",
+  "book": 30,
+  "name": {
+    "arabic": "كتاب Chapters on Drinks",
+    "transliteration": "chapters on drinks",
+    "translation": "Chapters on Drinks"
+  },
+  "totalHadith": 65,
+  "hadithNumberRange": {
+    "first": 3371,
+    "last": 3435
+  },
+  "content": [
+    {
+      "hadithNumber": 3371,
+      "arabicNumber": 3371,
+      "book": 30,
+      "hadithInBook": 1,
+      "text": {
+        "arabic": "حَدَّثَنَا الْحُسَيْنُ بْنُ الْحَسَنِ الْمَرْوَزِيُّ، حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ، ح وَحَدَّثَنَا إِبْرَاهِيمُ بْنُ سَعِيدٍ الْجَوْهَرِيُّ، حَدَّثَنَا عَبْدُ الْوَهَّابِ، جَمِيعًا عَنْ رَاشِدٍ أَبِي مُحَمَّدٍ الْحِمَّانِيِّ، عَنْ شَهْرِ بْنِ حَوْشَبٍ، عَنْ أُمِّ الدَّرْدَاءِ، عَنْ أَبِي الدَّرْدَاءِ، قَالَ أَوْصَانِي خَلِيلِي ـ صلى الله عليه وسلم ـ ‏ \"‏ لاَ تَشْرَبِ الْخَمْرَ فَإِنَّهَا مِفْتَاحُ كُلِّ شَرٍّ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated that Abu Darda’ said:‘My close friend (ﷺ) advised me: ‘Do not drink wine, for it is the key to all evils.’”",
+          "ur": "ابو الدرداء رضی اللہ عنہ کہتے ہیں کہ میرے خلیل ( جگری دوست ) رسول اللہ صلی اللہ علیہ وسلم نے مجھے وصیت فرمائی: شراب مت پیو، اس لیے کہ یہ تمام برائیوں کی کنجی ہے ۱؎۔",
+          "fr": "Rapporté par Abu Darda’ : Mon ami proche (ﷺ) m’a conseillé : « Ne bois pas de vin, car c’est la clé de tous les maux. »",
+          "id": "Telah menceritakan kepada kami [Al Husain bin Al Hasan Al Mawarzi] telah menceritakan kepada kami [Ibnu Abu 'Adi]. Telah menceritakan kepada kami [Ibrahim bin Sa'id Al Jauhari] telah menceritakan kepada kami [Abdul Wahhab] semuanya dari [Rasyid Abu Muhammad Al Himmani] dari [Syahr bin Hausyab] dari [Ummu Darda] dari [Abu Darda] dia berkata, \"Kekasihku, shallallahu 'alaihi wasallam, memberi wasiat kepadaku: \"Janganlah kamu meminum khamer, sesungguhnya khamer adalah kunci semua kejahatan",
+          "tr": "Ebü'd-Derdâ (r.a.)'den; Şöyle demiştir: Bana dostum (Muhammed) (Sallallahu Aleyhi ve Sellem) şu tavsiyede bulundu: «İçki içme. Çünkü içki, her şerrin anahtarıdır.» Not: Zevaid'de bunun senedinin hasen olduğu bildirllmiştır"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan Lighairihi"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 30,
+        "hadith": 1
+      }
+    },
+    {
+      "hadithNumber": 3372,
+      "arabicNumber": 3372,
+      "book": 30,
+      "hadithInBook": 2,
+      "text": {
+        "arabic": "حَدَّثَنَا الْعَبَّاسُ بْنُ عُثْمَانَ الدِّمَشْقِيُّ، حَدَّثَنَا الْوَلِيدُ بْنُ مُسْلِمٍ، حَدَّثَنَا مُنِيرُ بْنُ الزُّبَيْرِ، أَنَّهُ سَمِعَ عُبَادَةَ بْنَ نُسَىٍّ، يَقُولُ سَمِعْتُ خَبَّابَ بْنَ الأَرَتِّ، عَنْ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ أَنَّهُ قَالَ ‏ \"‏ إِيَّاكَ وَالْخَمْرَ فَإِنَّ خَطِيئَتَهَا تَفْرَعُ الْخَطَايَا كَمَا أَنَّ شَجَرَتَهَا تَفْرَعُ الشَّجَرَ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "‘Ubadah bin Samit said:“I heard Khabbab bin Arat narrating that the Messenger of Allah (ﷺ) said: ‘Beware of wine! For its sins overwhelm other sins, just as the grapevine overwhelms other trees.’”",
+          "ur": "خباب بن ارت رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: شراب سے بچو، اس لیے کہ اس کے گناہ سے دوسرے بہت سے گناہ پھوٹتے ہیں جس طرح ایک درخت ہوتا ہے اور اس سے بہت سی شاخیں پھوٹتی ہیں ۔",
+          "fr": "Rapporté par ‘Ubadah bin Samit : J’ai entendu Khabbab bin Arat raconter que le Messager d’Allah (ﷺ) a dit : « Méfiez-vous du vin ! Car ses péchés surpassent les autres, comme la vigne couvre les autres arbres. »",
+          "id": "Telah menceritakan kepada kami [Al 'Abbas bin Utsman Ad Dimasyqi] telah menceritakan kepada kami [Al Walid bin Muslim] telah menceritakan kepada kami [Munir bin Az Zubair] bahwa dia mendengar ['Ubadah bin Nusai] berkata; saya mendengar [Khabbab bin Al Art] dari Rasulullah shallallahu 'alaihi wasallam, beliau bersabda: \"Janganlah kamu mendekati khamer, sesungguhnya kesalahannya akan bercabang dengan kesalahan (yang lain), sebagaimana pohon memiliki cabang dengan pohon-pohon (yang lain)",
+          "tr": "Habbâb bin el-Eret (r.a.)'den rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurmuştur: «Şarap'tan sakın. Çünkü şarabın ağacı (yâni üzüm ve hurma ağacı) diğer ağaçların üstüne çıktığı gibi şarabın günahı diğer günahların üstüne çıkar.» Not: Zeva.id'de şöyle denilmiştir: Bunun senedinde Münir bin Zübeyr eş-Şami el-Ezdi bulunur. Bu ravi zayıftır"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 30,
+        "hadith": 2
+      }
+    },
+    {
+      "hadithNumber": 3373,
+      "arabicNumber": 3373,
+      "book": 30,
+      "hadithInBook": 3,
+      "text": {
+        "arabic": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ نُمَيْرٍ، عَنْ عُبَيْدِ اللَّهِ بْنِ عُمَرَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ قَالَ ‏ \"‏ مَنْ شَرِبَ الْخَمْرَ فِي الدُّنْيَا لَمْ يَشْرَبْهَا فِي الآخِرَةِ إِلاَّ أَنْ يَتُوبَ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated from Ibn ‘Umar that the Messenger of Allah (ﷺ) said:“Whoever drinks wine in this world, he will not drink it in the Hereafter, unless he repents.”",
+          "ur": "عبداللہ بن عمر رضی اللہ عنہما سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: جو شخص دنیا میں شراب پئے گا، وہ آخرت میں نہیں پی سکے گا مگر یہ کہ وہ توبہ کر لے ۔",
+          "fr": "Rapporté par Ibn ‘Umar : Le Messager d’Allah (ﷺ) a dit : « Celui qui boit du vin dans ce monde n’en boira pas dans l’au-delà, à moins qu’il ne se repente. »",
+          "id": "Telah menceritakan kepada kami [Ali bin Muhammad] telah menceritakan kepada kami [Abdullah bin Numair] dari ['Ubaidullah bin Umar] dari [Nafi'] dari [Ibnu Umar], bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: \"Barangsiapa meminum khamer di dunia maka ia tidak akan meminumnya di akhirat, kecuali jika dirinya bertaubat",
+          "tr": "İbn-i Ömer (r.a.)'dan rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurmuştur: «Kim dünyada içki içerse ahirette içki içmeyecektir. Meğer ki (içkiyi bırakıp) tevbe ede.»"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 30,
+        "hadith": 3
+      }
+    },
+    {
+      "hadithNumber": 3374,
+      "arabicNumber": 3374,
+      "book": 30,
+      "hadithInBook": 4,
+      "text": {
+        "arabic": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ، حَدَّثَنَا يَحْيَى بْنُ حَمْزَةَ، حَدَّثَنِي زَيْدُ بْنُ وَاقِدٍ، أَنَّ خَالِدَ بْنَ عَبْدِ اللَّهِ بْنِ حُسَيْنٍ، حَدَّثَهُ قَالَ حَدَّثَنِي أَبُو هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ قَالَ ‏ \"‏ مَنْ شَرِبَ الْخَمْرَ فِي الدُّنْيَا لَمْ يَشْرَبْهَا فِي الآخِرَةِ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Abu Hurairah narrated that the Messenger of Allah (ﷺ) said:“Whoever drinks wine in this world, he will not drink it in the Hereafter.”",
+          "ur": "ابوہریرہ رضی اللہ عنہ بیان کرتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: جو دنیا میں شراب پئے گا، وہ آخرت میں اس سے محروم رہے گا ۔",
+          "fr": "Rapporté par Abu Hurairah : Le Messager d’Allah (ﷺ) a dit : « Celui qui boit du vin dans ce monde n’en boira pas dans l’au-delà. »",
+          "id": "Telah menceritakan kepada kami [Hisyam bin 'Ammar] telah menceritakan kepada kami [Yahya bin Hamzah] dia berkata; telah menceritakan kepadaku [Zaid bin Waqid] bahwa [Khalid bin Abdullah bin Husain] menceritakan kepadanya, dia berkata; telah menceritakan kepadaku [Abu Hurairah], bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: \"Barangsiapa minum khamer di dunia, niscaya dia tidak akan meminumnya di Akhirat",
+          "tr": "Ebû Hureyre (r.a.)'dan rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurmuştur: «Kim dünyada içki içer (de tevbe etmeden ölür)se, o kimse âhi-rette içki içmeyecektir.» Not: Zevaid'de şöyle denilmiştir: Bunun senedi sahih olup ravileri sıka, zatlardır"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 30,
+        "hadith": 4
+      }
+    },
+    {
+      "hadithNumber": 3375,
+      "arabicNumber": 3375,
+      "book": 30,
+      "hadithInBook": 5,
+      "text": {
+        "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَمُحَمَّدُ بْنُ الصَّبَّاحِ، قَالاَ حَدَّثَنَا مُحَمَّدُ بْنُ سُلَيْمَانَ بْنِ الأَصْبَهَانِيِّ، عَنْ سُهَيْلٍ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏ \"‏ مُدْمِنُ الْخَمْرِ كَعَابِدِ وَثَنٍ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated from Abu Hurairah that the Messenger of Allah (ﷺ) said:“The one who is addicted to wine is like one who worships idols.”",
+          "ur": "ابوہریرہ رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: شراب کا عادی ایسے ہی ہے جیسے بتوں کا پجاری ۱؎۔",
+          "fr": "Rapporté par Abu Hurairah : Le Messager d’Allah (ﷺ) a dit : « Celui qui est accro au vin est comme celui qui adore les idoles. »",
+          "id": "Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Muhammad bin As Shabah] keduanya berkata; telah menceritakan kepada kami [Muhammad bin Sulaiman bin Al Ashbahani] dari [Suhail] dari [Ayahnya] dari [Abu Hurairah] dia berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Pecandu khamer seperti penyembah berhala",
+          "tr": "Ebû Hureyre (r.a.)'den rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: «İçki içmeye devam eden bir kimse put'a tapan kimse gibidir.» Not: Zevaid'de şöyle denilmiştir: Bunun senedinde bulunan Muhammed bin Süleyman'ı, Nes:U ve İbn-i Adi zayıf saymışlardır. İbn-i Hibban ise onu kuvvetli saymıştır. Ebu Hatim de: Onun hadisleri yazılır. Fakat delil olarak gösterilmez, Ilemiştir. Senedin kalan ravileri güvenilir zaUardır"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 30,
+        "hadith": 5
+      }
+    },
+    {
+      "hadithNumber": 3376,
+      "arabicNumber": 3376,
+      "book": 30,
+      "hadithInBook": 6,
+      "text": {
+        "arabic": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ، حَدَّثَنَا سُلَيْمَانُ بْنُ عُتْبَةَ، حَدَّثَنِي يُونُسُ بْنُ مَيْسَرَةَ بْنِ حَلْبَسٍ، عَنْ أَبِي إِدْرِيسَ، عَنْ أَبِي الدَّرْدَاءِ، عَنِ النَّبِيِّ ـ صلى الله عليه وسلم ـ قَالَ ‏ \"‏ لاَ يَدْخُلُ الْجَنَّةَ مُدْمِنُ خَمْرٍ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated from Abu Darda’ that the Prophet (ﷺ) said:“No one who is addicted to wine will enter Paradise.”",
+          "ur": "ابو الدرداء رضی اللہ عنہ کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: عادی شرابی جنت میں داخل نہیں ہو گا ۔",
+          "fr": "Rapporté par Abu Darda’ : Le Prophète (ﷺ) a dit : « Aucun accro au vin n’entrera au Paradis. »",
+          "id": "Telah menceritakan kepada kami [Hisyam bin 'Ammar] telah menceritakan kepada kami [Sulaiman bin 'Utbah] telah menceritakan kepadaku [Yunus bin Maisarah bin Halbas] dari [Abu Idris] dari [Abu Darda] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: \"Tidak akan masuk surga seorang pecandu Khamer",
+          "tr": "Ebü'd-Derdâ (r.a.)'den rivayet edildiğine göre; Nebi (Sallallahu Aleyhi ve Sellem) şöyle buyurmuştur: «İçki İçmeye devam eden bir kimse cennete girmeyecektir.» Not: Zevaid'de şöyle denilmiştir: Bunun senedi hasendir. Ravl Süleyman bin Utbe'nin güvenilirliği hakkında ihtiIM vardır. Senedin kalan ravlleri güvenilir zatlardır"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 30,
+        "hadith": 6
+      }
+    },
+    {
+      "hadithNumber": 3377,
+      "arabicNumber": 3377,
+      "book": 30,
+      "hadithInBook": 7,
+      "text": {
+        "arabic": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ إِبْرَاهِيمَ الدِّمَشْقِيُّ، حَدَّثَنَا الْوَلِيدُ بْنُ مُسْلِمٍ، حَدَّثَنَا الأَوْزَاعِيُّ، عَنْ رَبِيعَةَ بْنِ يَزِيدَ، عَنِ ابْنِ الدَّيْلَمِيِّ، عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏\"‏ مَنْ شَرِبَ الْخَمْرَ وَسَكِرَ لَمْ تُقْبَلْ لَهُ صَلاَةٌ أَرْبَعِينَ صَبَاحًا وَإِنْ مَاتَ دَخَلَ النَّارَ فَإِنْ تَابَ تَابَ اللَّهُ عَلَيْهِ وَإِنْ عَادَ فَشَرِبَ فَسَكِرَ لَمْ تُقْبَلْ لَهُ صَلاَةٌ أَرْبَعِينَ صَبَاحًا فَإِنْ مَاتَ دَخَلَ النَّارَ فَإِنْ تَابَ تَابَ اللَّهُ عَلَيْهِ وَإِنْ عَادَ فَشَرِبَ فَسَكِرَ لَمْ تُقْبَلْ لَهُ صَلاَةٌ أَرْبَعِينَ صَبَاحًا فَإِنْ مَاتَ دَخَلَ النَّارَ فَإِنْ تَابَ تَابَ اللَّهُ عَلَيْهِ وَإِنْ عَادَ كَانَ حَقًّا عَلَى اللَّهِ أَنْ يَسْقِيَهُ مِنْ رَدْغَةِ الْخَبَالِ يَوْمَ الْقِيَامَةِ ‏\"‏ ‏.‏ قَالُوا يَا رَسُولَ اللَّهِ وَمَا رَدْغَةُ الْخَبَالِ قَالَ ‏\"‏ عُصَارَةُ أَهْلِ النَّارِ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated from ‘Abdullah bin ‘Amr that the Messenger of Allah (ﷺ) said:“Whoever drinks wine and gets drunk, his prayer will not be accepted for forty days, and if he dies he will enter Hell, but if he repents, Allah will accept his repentance. If he drinks wine again and gets drunk, his prayer will not be accepted for forty days, and if he dies he will enter Hell, but if he repents, Allah will accept his repentance. If he drinks wine again and gets drunk, his prayer will not be accepted for forty days, and if he dies he will enter Hell, but if he repents Allah will accept his repentance. But if he does it again, then Allah will most certainly make him drink of the mire of the puss or sweat on the Day of Resurrection.” They said: “O Messenger of Allah, what is the mire of the pus or sweat? He said: “The drippings of the people of Hell.”",
+          "ur": "عبداللہ بن عمرو رضی اللہ عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: جو شراب پی کر مست ہو جائے ( نشہ ہو جائے ) اس کی نماز چالیس روز تک قبول نہیں ہوتی، اور اگر وہ اس دوران مر جائے تو وہ جہنم میں جائے گا، لیکن اگر وہ توبہ کر لے تو اللہ تعالیٰ اس کی توبہ قبول فرمائے گا، پھر اگر وہ توبہ سے پھر جائے اور شراب پئے، اور اسے نشہ آ جائے تو چالیس روز تک اس کی نماز قبول نہیں ہو گی، اگر وہ اس دوران مر گیا تو جہنم میں جائے گا، لیکن اگر وہ پھر توبہ کر لے تو اللہ تعالیٰ اس کی توبہ قبول فرمائے گا، اگر وہ پھر پی کر بدمست ہو جائے تو پھر اس کی نماز چالیس روز تک قبول نہیں ہو گی، اور وہ اسی حالت میں مر گیا تو جہنم میں جائے گا، اور اگر اس نے پھر توبہ کر لی تو اللہ تعالیٰ اس کی توبہ قبول کر لے گا، اب اگر وہ ( اس کے بعد بھی ) پئے تو اللہ تعالیٰ کے لیے حق ہو گا کہ اسے قیامت کے دن «ردغۃ الخبال» پلائے، لوگوں نے سوال کیا: اللہ کے رسول! یہ «ردغۃ الخبال» کیا ہے؟ فرمایا: جہنمیوں کا پیپ ۔",
+          "fr": "Rapporté par ‘Abdullah bin ‘Amr : Le Messager d’Allah (ﷺ) a dit : « Celui qui boit du vin et s’enivre, sa prière ne sera pas acceptée pendant quarante jours, et s’il meurt il ira en Enfer, mais s’il se repent, Allah acceptera son repentir. S’il boit encore du vin et s’enivre, sa prière ne sera pas acceptée pendant quarante jours, et s’il meurt il ira en Enfer, mais s’il se repent, Allah acceptera son repentir. S’il recommence, sa prière ne sera pas acceptée pendant quarante jours, et s’il meurt il ira en Enfer, mais s’il se repent Allah acceptera son repentir. Mais s’il recommence encore, alors Allah lui fera certainement boire du pus ou de la sueur le Jour de la Résurrection. » Ils ont demandé : « Ô Messager d’Allah, qu’est-ce que le pus ou la sueur ? » Il a répondu : « Ce sont les écoulements des gens de l’Enfer. »",
+          "id": "Telah menceritakan kepada kami [Abdurrahman bin Ibrahim Ad Dimasyqi] telah menceritakan kepada kami [Al Walid bin Muslim] telah menceritakan kepada kami [Al Auza'i] dari [Rabi'ah bin Yazid] dari [Ibnu Dailami] dari [Abdullah bin 'Amru] dia berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Barangsiapa minum khamer hingga mabuk, maka shalatnya tidak akan diterima selama empat puluh pagi (hari). Jika meninggal dunia maka ia akan masuk neraka, dan jika ia bertaubat maka Allah akan menerima taubatnya. Jika ia kembali minum khamer lalu mabuk maka shalatnya tidak akan diterima selama empat puluh hari, dan jika ia mati maka ia akan masuk neraka. Dan jika ia bertaubat maka Allah akan menerima taubatnya, dan jika ia kembali mengulanginya lagi maka Allah sangat layak memberinya minuman dari Radaghah Al Khabal di hari Kiamat.\" Mereka bertanya, \"Apakah maksud dari Radaghah Al Khabal wahai Rasulullah?\" beliau menjawab: \"Keringat penghuni neraka",
+          "tr": "Abdullah bin Amr (bin el-As) (r.a.)'dan rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: «Kim İçki içip sarhoş olursa, kırk sabah (a kadar) onun hiç bir namazı kabul olunmaz. Ve eğer (bu arada tevbe etmeksizin) ölürse ateşe girer. Eğer tevbe ederse (yâni içki içme işini kesin olarak bırakıp, ettiği günahtan pişmanlık duyarak Allah'a yönelirse) Allah onun tevbesini kabul eder. Şayet o kişi tevbesini bozup içki içer ve sarhoş olursa, kırk sabah(a kadar) onun hiç bir namazı kabul olunmaz ve ölürse ateşe girer. Şayet tevbe ederse Allah onun tevbesini kabul eder. Eğer herif tevbesini bozup (tekrar) içki içip sarhoş olursa, kırk sabah onun hiç bir namazı kabul olunmaz. Şayet ölürse ateşe girer. Eğer tevbe ederse Allah (yine) tevbesini kabul eder. Eğer (o kimse dördüncü defa) dönüş yapıp içki içerse, kıyamet günü ona Redğatü'l-habâl'dan içirmek Allah üzerine bir hak olar.» Sahabîler: Yâ Resûlallah! Redğatül-Habal nedir? diye sordular. Resûl-i Ekrem (Sallallahu Aleyhi ve Sellem): «Ateş (yani cehennem) halkının (yanması dolayısıyla) vücudlarından akan (irin gibi) şeyidir» buyurdu"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 30,
+        "hadith": 7
+      }
+    },
+    {
+      "hadithNumber": 3378,
+      "arabicNumber": 3378,
+      "book": 30,
+      "hadithInBook": 8,
+      "text": {
+        "arabic": "حَدَّثَنَا يَزِيدُ بْنُ عَبْدِ اللَّهِ الْيَمَامِيُّ، حَدَّثَنَا عِكْرِمَةُ بْنُ عَمَّارٍ، حَدَّثَنَا أَبُو كَثِيرٍ السُّحَيْمِيُّ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏ \"‏ الْخَمْرُ مِنْ هَاتَيْنِ الشَّجَرَتَيْنِ النَّخْلَةِ وَالْعِنَبَةِ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated from Abu Hurairah that the Messenger of Allah (ﷺ) said:“Wine comes from these two trees: The date palm and the grapevine.”",
+          "ur": "ابوہریرہ رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: شراب ان دو درختوں: کھجور اور انگور سے بنتی ہے ۔",
+          "fr": "Rapporté par Abu Hurairah : Le Messager d’Allah (ﷺ) a dit : « Le vin provient de ces deux arbres : le palmier-dattier et la vigne. »",
+          "id": "Telah menceritakan kepada kami [Yazid bin Abdullah Al Yamami] telah menceritakan kepada kami [Ikrimah bin 'Ammar] telah menceritakan kepada kami [Abu Katsir As Suhaimi] dari [Abu Hurairah] dia berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Khamer itu terbuat dari dua jenis pohon ini; kurma dan anggur",
+          "tr": "Ebu Hureyre (r.a.)'den rivayet edildiğine gSre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demigtir: «İçki (çoğunlukla) şu iki ağaçtan yapılır: Hurma ağacı ve üzüm asması,»"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 30,
+        "hadith": 8
+      }
+    },
+    {
+      "hadithNumber": 3379,
+      "arabicNumber": 3379,
+      "book": 30,
+      "hadithInBook": 9,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ رُمْحٍ، أَنْبَأَنَا اللَّيْثُ بْنُ سَعْدٍ، عَنْ يَزِيدَ بْنِ أَبِي حَبِيبٍ، أَنَّ خَالِدَ بْنَ كَثِيرٍ الْهَمْدَانِيَّ، حَدَّثَهُ أَنَّ السَّرِيَّ بْنَ إِسْمَاعِيلَ حَدَّثَهُ أَنَّ الشَّعْبِيَّ حَدَّثَهُ أَنَّهُ، سَمِعَ النُّعْمَانَ بْنَ بَشِيرٍ، يَقُولُ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏ \"‏ إِنَّ مِنَ الْحِنْطَةِ خَمْرًا وَمِنَ الشَّعِيرِ خَمْرًا وَمِنَ الزَّبِيبِ خَمْرًا وَمِنَ التَّمْرِ خَمْرًا وَمِنَ الْعَسَلِ خَمْرًا ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated from Nu’man bin Bashir that the Messenger of Allah (ﷺ) said:“From wheat comes wine, from barley comes wine, from raisins comes wine, from dates comes wine and from honey comes wine.”",
+          "ur": "نعمان بن بشیر رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: شراب کئی چیزوں سے بنائی جاتی ہے، گیہوں سے، جو سے، منقیٰ سے، کھجور سے اور شہد سے ۔",
+          "fr": "Rapporté par Nu’man bin Bashir : Le Messager d’Allah (ﷺ) a dit : « Le vin peut être fabriqué à partir de blé, d’orge, de raisins secs, de dattes et de miel. »",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Rumh] telah memberitakan kepada kami [Al Laits bin Sa'd] dari [Yazid bin Abu Habib] bahwa [Khalid bin Katsir Al Hamdani] meriwayatkan bahwa [As Sari bin Isma'il] menceritakan kepadanya, bahwa [Asy Sya'bi] menceritakan kepadanya, bahwa dia mendengar [An Nu'man bin Basyir] berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Sesungguhnya pada biji gandum (dapat dibuat) khamer, tepung gandum dapat dibuat khamer, anggur dapat dibuat khamer, kurma dapat dibuat khamer dan madu juga dapat dibuat menjadi khamer",
+          "tr": "Nu'mân bin Begîr (r.a.)'den rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: «Şüphesiz, içki buğdaydan olur, içki arpadan olur. içki kuru üzümden olur, içki kuru Hurmadan olur ve içld bal'dan olur.»"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 30,
+        "hadith": 9
+      }
+    },
+    {
+      "hadithNumber": 3380,
+      "arabicNumber": 3380,
+      "book": 30,
+      "hadithInBook": 10,
+      "text": {
+        "arabic": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ، وَمُحَمَّدُ بْنُ إِسْمَاعِيلَ، قَالاَ حَدَّثَنَا وَكِيعٌ، حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ عُمَرَ بْنِ عَبْدِ الْعَزِيزِ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ عَبْدِ اللَّهِ الْغَافِقِيِّ، وَأَبِي، طُعْمَةَ مَوْلاَهُمْ أَنَّهُمَا سَمِعَا ابْنَ عُمَرَ، يَقُولُ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏ \"‏ لُعِنَتِ الْخَمْرُ عَلَى عَشَرَةِ أَوْجُهٍ بِعَيْنِهَا وَعَاصِرِهَا وَمُعْتَصِرِهَا وَبَائِعِهَا وَمُبْتَاعِهَا وَحَامِلِهَا وَالْمَحْمُولَةِ إِلَيْهِ وَآكِلِ ثَمَنِهَا وَشَارِبِهَا وَسَاقِيهَا ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated from Ibn ‘Umar that the Messenger of Allah (ﷺ) said:“Wine is cursed from ten angles: The wine itself, the one who squeezes (the grapes etc), the one for whom it is squeezed, the one who sells it, the one who buys it, the one who carries it, the one to whom it is carried, the one who consumes its price, the one who drinks it and the one who pours it.”",
+          "ur": "عبداللہ بن عمر رضی اللہ عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: شراب دس طرح سے ملعون ہے، یہ لعنت خود اس پر ہے، اس کے نچوڑنے والے پر، نچڑوانے والے پر، اس کے بیچنے والے پر، اس کے خریدنے والے پر، اس کو اٹھا کر لے جانے والے پر، اس شخص پر جس کے پاس اٹھا کر لے جائی جائے، اس کی قیمت کھانے والے پر، اس کے پینے والے پر اور اس کے پلانے والے پر ۔",
+          "fr": "Rapporté par Ibn ‘Umar : Le Messager d’Allah (ﷺ) a dit : « Le vin est maudit sous dix aspects : le vin lui-même, celui qui le presse (les raisins, etc.), celui pour qui on le presse, celui qui le vend, celui qui l’achète, celui qui le transporte, celui à qui il est transporté, celui qui profite de son prix, celui qui le boit et celui qui le sert. »",
+          "id": "Telah menceritakan kepada kami [Ali bin Muhammad] dan [Muhammad bin Isma'il] keduanya berkata; telah menceritakan kepada kami [Waki'] telah menceritakan kepada kami [Abdul Aziz bin Umar bin Abdul Aziz] dari [Abdurrahman bin Abdullah Al Ghafiqi] dan [Abu Thu'mah] bekas budak mereka, keduanya mendengar [Ibnu Umar] berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Khamer dilaknat atas sepuluh bagian; dzatnya, yang memerasnya, yang minta diperaskan, penjualnya, yang minta dibelikan, yang membawanya, yang minta dibawakannya, yang memakan hasil penjualannya, peminumnya dan yang menuangkannya",
+          "tr": "ibn-i Ömer (r.a.)'dan rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: «İçkiye on yönden lanet edilmiştir: İçkinin kendisine, onu imâl edene, imâl etmek isteyene, satıcısına, müşterisine, taşıyanına, taşıttıranına (yâni sipariş edenine), pahasını yiyenine, içenine ve içirenine.»"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 30,
+        "hadith": 10
+      }
+    },
+    {
+      "hadithNumber": 3381,
+      "arabicNumber": 3381,
+      "book": 30,
+      "hadithInBook": 11,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ سَعِيدِ بْنِ يَزِيدَ بْنِ إِبْرَاهِيمَ التُّسْتَرِيُّ، حَدَّثَنَا أَبُو عَاصِمٍ، عَنْ شَبِيبٍ، سَمِعْتُ أَنَسَ بْنَ مَالِكٍ، - أَوْ حَدَّثَنِي أَنَسٌ، - قَالَ لَعَنَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ فِي الْخَمْرِ عَشَرَةً عَاصِرَهَا وَمُعْتَصِرَهَا وَالْمَعْصُورَةَ لَهُ وَحَامِلَهَا وَالْمَحْمُولَةَ لَهُ وَبَائِعَهَا وَالْمُبْتَاعَةَ لَهُ وَسَاقِيَهَا وَالْمُسْتَقَاةَ لَهُ ‏\"‏ ‏.‏ حَتَّى عَدَّ عَشَرَةً مِنْ هَذَا الضَّرْبِ ‏.‏",
+        "translations": {
+          "en": "Anas said:“The Messenger of Allah (ﷺ) cursed ten with regard to wine: The one who squeezes (the grapes etc.), the one who asks for it to be squeezed, the one for whom it is squeezed, the one who carries it, the one to whom it is carried, the one who sells it, the one for whom it is brought, the one who pours it, the one for whom it is poured, until he counted ten like this.”",
+          "ur": "انس بن مالک رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے دس قسم کے لوگوں پر شراب کی وجہ سے لعنت فرمائی: اس کے نچوڑنے والے پر، نچڑوانے والے پر، اور اس پر جس کے لیے نچوڑی جائے، اسے لے جانے والے پر، اس شخص پر جس کے لیے لے جائی جائے، بیچنے والے پر، اس پر جس کو بیچی جائے، پلانے والے پر اور اس پر جس کو پلائی جائے ، یہاں تک کہ دسوں کو آپ نے گن کر اس طرح بتایا",
+          "fr": "Rapporté par Anas : Le Messager d’Allah (ﷺ) a maudit dix personnes en rapport avec le vin : celui qui le presse (les raisins, etc.), celui qui demande à ce qu’on le presse, celui pour qui on le presse, celui qui le transporte, celui à qui il est transporté, celui qui le vend, celui pour qui il est apporté, celui qui le sert, celui pour qui il est servi, jusqu’à ce qu’il en compte dix ainsi",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Sa'id bin Yazid bin Ibrahim At Tustari] telah menceritakan kepada kami [Abu 'Ashim] dari [Syabib] saya mendengar [Anas bin Malik], atau telah menceritakan kepadaku Anas bin Malik dia berkata, \"Rasulullah shallallahu 'alaihi wasallam melaknat sepuluh perkara dalam khamer; \"Orang yang memerasnya, yang minta diperaskan, alat untuk memeras, orang yang membawanya, orang yang minta dibawakan, penjualnya, orang yang dibelikan, yang menuangkannya, yang minta menuangkannya.\" Beliau menyebutkan hingga sepuluh perkara dari permisalan ini",
+          "tr": "Enea bin Mâlik (r.a.)'den; Şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem) içki hususunda on kimseyi lânetlemiştir: İmâl eden, imâl etmek isteyen, kendisi için imâl edilen, taşıyan, kendisi için taşınan, satan, satın alan, sunan, kendisine sunulan. Nihayet bu neviden on kimseyi saydı"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 30,
+        "hadith": 11
+      }
+    },
+    {
+      "hadithNumber": 3382,
+      "arabicNumber": 3382,
+      "book": 30,
+      "hadithInBook": 12,
+      "text": {
+        "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَعَلِيُّ بْنُ مُحَمَّدٍ، قَالاَ حَدَّثَنَا أَبُو مُعَاوِيَةَ، حَدَّثَنَا الأَعْمَشُ، عَنْ مُسْلِمٍ، عَنْ مَسْرُوقٍ، عَنْ عَائِشَةَ، قَالَتْ لَمَّا نَزَلَتِ الآيَاتُ مِنْ آخِرِ سُورَةِ الْبَقَرَةِ فِي الرِّبَا خَرَجَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ فَحَرَّمَ التِّجَارَةَ فِي الْخَمْرِ ‏.‏",
+        "translations": {
+          "en": "It was narrated that ‘Aishah said:“When the Verses at the end of Surat Al-Baqarah concerning usury were revealed, the Messenger of Allah(ﷺ) went out and forbade dealing in wine.”",
+          "ur": "ام المؤمنین عائشہ رضی اللہ عنہا کہتی ہیں کہ جب سود کے سلسلے میں سورۃ البقرہ کی آخری آیات نازل ہوئیں تو رسول اللہ صلی اللہ علیہ وسلم باہر تشریف لائے، اور شراب کی تجارت کو حرام قرار دے دیا۔",
+          "fr": "Rapporté par ‘Aishah : Lorsque les versets à la fin de la sourate Al-Baqarah concernant l’usure ont été révélés, le Messager d’Allah (ﷺ) est sorti et a interdit le commerce du vin",
+          "id": "Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Ali bin Muhammad] keduanya berkata; telah menceritakan kepada kami [Abu Mu'awiyah] telah menceritakan kepada kami [Al A'masy] dari [Muslim] dari [Masruq] dari [Aisyah] radliallahu 'anha, dia berkata, \"Ketika turun beberapa ayat dari penutup surat Al Baqarah tentang riba, Rasulullah shallallahu 'alaihi wasallam keluar dan mengharamkan jual beli khamer",
+          "tr": "Âîşe (r.anhâ)'dan; Şöyle demiştir: Bakara sûresinin sonundaki faiz âyetleri (275 - 279) indiği zaman Resulullah (Sallallahu Aleyhi ve Sellem) (Mescid-i Nebeviyye'ye) çıktı (ve bu âyetleri halka okuduktan) sonra içki ticâretini haram kıldı"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih Hadith"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 30,
+        "hadith": 12
+      }
+    },
+    {
+      "hadithNumber": 3383,
+      "arabicNumber": 3383,
+      "book": 30,
+      "hadithInBook": 13,
+      "text": {
+        "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا سُفْيَانُ، عَنْ عَمْرِو بْنِ دِينَارٍ، عَنْ طَاوُسٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ بَلَغَ عُمَرَ أَنَّ سَمُرَةَ، بَاعَ خَمْرًا فَقَالَ قَاتَلَ اللَّهُ سَمُرَةَ أَلَمْ يَعْلَمْ أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ قَالَ ‏ \"‏ لَعَنَ اللَّهُ الْيَهُودَ حُرِّمَتْ عَلَيْهِمُ الشُّحُومُ فَجَمَلُوهَا فَبَاعُوهَا ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated that Ibn ‘Abbas said:Umar heard that Samurah had sold some wine, and he said: “May Allah ruin Samurah! Does he not know that the Messenger of Allah (ﷺ) said: ‘May Allah curse the Jews, for animal fat was forbidden to them, so they melted it down and sold it.’”",
+          "ur": "عبداللہ بن عباس رضی اللہ عنہما کہتے ہیں کہ عمر رضی اللہ عنہ کو خبر ملی کہ سمرہ رضی اللہ عنہ نے شراب بیچی ہے تو کہا: اللہ تعالیٰ سمرہ کو تباہ کرے، کیا اسے نہیں معلوم کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا ہے کہ یہود پر اللہ کی لعنت ہو، اس لیے کہ ان پر چربی حرام کی گئی تھی، تو انہوں نے اسے پگھلایا اور بیچ دیا ۱؎۔",
+          "fr": "Rapporté par Ibn ‘Abbas : ‘Umar a appris que Samurah avait vendu du vin, et il a dit : « Qu’Allah détruise Samurah ! Ne sait-il pas que le Messager d’Allah (ﷺ) a dit : “Qu’Allah maudisse les Juifs, car la graisse animale leur avait été interdite, alors ils l’ont fondue et l’ont vendue.” »",
+          "id": "Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Sufyan] dari ['Amru bin Dinar] dari [Thawus] dari [Ibnu Abbas] dia berkata, \"Telah sampai berita kepada Umar bahwa Samrah sedang menjual khamer, maka [Umar] berkata, \"Semoga Allah melaknat Samrah! Apakah dia tidak tahu bahwa Rasulullah shallallahu 'alaihi wasallam telah bersabda: \"Semoga Allah melaknat orang-orang Yahudi, lemak babi telah diharamkan kepada mereka, namun mereka tetap saja mengemas dan menjualnya",
+          "tr": "İbn-i Abbâs (r.a.)'dan rivayet edildiğine göre: Semûre (r.a.)'ın bir mikdar içki sattığı haberi Ömer (bin el-Hattab) (r.a.)'a ulaştı. Bunun üzerine Ömer (r.a.): Yazıklar olsun Semûre'ye. Resulullah (Sallallahu Aleyhi ve Sellem)'in şöyle buyurduğunu Semûre bilmedi mi? «Allah yahûdîlere la'net etsin. Onlara (büyük ve küçük baş hayvanların) iç yağları (nın yenmesi) haram kılındı da onlar bunu eritip sattılar.»"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 30,
+        "hadith": 13
+      }
+    },
+    {
+      "hadithNumber": 3384,
+      "arabicNumber": 3384,
+      "book": 30,
+      "hadithInBook": 14,
+      "text": {
+        "arabic": "حَدَّثَنَا الْعَبَّاسُ بْنُ الْوَلِيدِ الدِّمَشْقِيُّ، حَدَّثَنَا عَبْدُ السَّلاَمِ بْنُ عَبْدِ الْقُدُّوسِ، حَدَّثَنَا ثَوْرُ بْنُ يَزِيدَ، عَنْ خَالِدِ بْنِ مَعْدَانَ، عَنْ أَبِي أُمَامَةَ الْبَاهِلِيِّ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏ \"‏ لاَ تَذْهَبُ اللَّيَالِي وَالأَيَّامُ حَتَّى تَشْرَبَ طَائِفَةٌ مِنْ أُمَّتِي الْخَمْرَ يُسَمُّونَهَا بِغَيْرِ اسْمِهَا ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated from Abu Umamah Al-Bahili that the Messenger of Allah (ﷺ) said:“Night and day will not cease until a group among my nation drinks wine, calling it by some other name.”",
+          "ur": "ابوامامہ باہلی رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: رات اور دن یعنی زمانہ ختم نہیں ہو گا یہاں تک کہ میری امت کی ایک جماعت اس میں شراب پئے گی، وہ شراب کا نام بدل دے گی ۱؎۔",
+          "fr": "Rapporté par Abu Umamah Al-Bahili : Le Messager d’Allah (ﷺ) a dit : « Le jour et la nuit ne cesseront pas de se succéder jusqu’à ce qu’un groupe de ma communauté boive du vin, en lui donnant un autre nom. »",
+          "id": "Telah menceritakan kepada kami [Al 'Abbas bin Al Walid Ad Dimasyqi] telah menceritakan kepada kami [Abdussalam bin Abdul Quddus] telah menceritakan kepada kami [Tsaur bin Yazid] dari [Khalid bin Ma'dan] dari [Abu Umamah Al Bahili] dia berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Malam dan siang tidak akan berlalu (menghilang) sehingga sekelompok dari umatku akan meminum khamer, mereka memberi nama dengan nama selainnya",
+          "tr": "Ebû Ümâme el-Bâhili (r.a.)'den rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: «Benim ümmetimden bir zümre içkiye adından başka ad takarak içinde içmedikçe geceler ve gündüzler gidip tükenmeyecek (yâni dünyanın sonu gelmeyecek)tir.» Not: Zevald'de şöyle denilmiştir: Bunun senedInde Abdüsselam bın Abdilkud. dOs bulunur. Takribü't-Tehzib'te yazar bu ravinin zayı! OldUğunu söylemiştir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 30,
+        "hadith": 14
+      }
+    },
+    {
+      "hadithNumber": 3385,
+      "arabicNumber": 3385,
+      "book": 30,
+      "hadithInBook": 15,
+      "text": {
+        "arabic": "حَدَّثَنَا الْحُسَيْنُ بْنُ أَبِي السَّرِيِّ، حَدَّثَنَا عُبَيْدُ اللَّهِ، حَدَّثَنَا سَعْدُ بْنُ أَوْسٍ الْعَبْسِيُّ، عَنْ بِلاَلِ بْنِ يَحْيَى الْعَبْسِيِّ، عَنْ أَبِي بَكْرِ بْنِ حَفْصٍ، عَنِ ابْنِ مُحَيْرِيزٍ، عَنْ ثَابِتِ بْنِ السِّمْطِ، عَنْ عُبَادَةَ بْنِ الصَّامِتِ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏ \"‏ يَشْرَبُ نَاسٌ مِنْ أُمَّتِي الْخَمْرَ بِاسْمٍ يُسَمُّونَهَا إِيَّاهُ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated from ‘Ubadah bin Samit that the Messenger of Allah (ﷺ) said:“People among my nation will drink wine, under some other name that they will give it.”",
+          "ur": "عبادہ بن صامت رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: میری امت کے بعض لوگ شراب کا دوسرا نام رکھ کر پئیں گے ۔",
+          "fr": "Rapporté par ‘Ubadah bin Samit : Le Messager d’Allah (ﷺ) a dit : « Certains membres de ma communauté boiront du vin, en lui donnant un autre nom. »",
+          "id": "Telah menceritakan kepada kami [Al Husain bin Abu As Sirri] telah menceritakan kepada kami [Abdullah] telah menceritakan kepada kami [Sa'd bin Aus Al 'Absi] dari [Bilal bin Yahya Al 'Absi] dari [Abu Bakr bin Hafsh] dari [Ibnu Al Muhairiz] dari [Tsabit bin As Simth] dari ['Ubadah bin As Shamit] dia berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Beberapa orang dari umatku akan meminum khamer dengan nama yang mereka sematkan sendiri",
+          "tr": "Ubâde bin es-Samit (r.a.)'den rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: «Benim ümmetimden bir grup içkiye başka bir isim takarak onu içeceklerdir.»"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 30,
+        "hadith": 15
+      }
+    },
+    {
+      "hadithNumber": 3386,
+      "arabicNumber": 3386,
+      "book": 30,
+      "hadithInBook": 16,
+      "text": {
+        "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنِ الزُّهْرِيِّ، عَنْ أَبِي سَلَمَةَ، عَنْ عَائِشَةَ، تَبْلُغُ بِهِ النَّبِيَّ ـ صلى الله عليه وسلم ـ قَالَ ‏ \"‏ كُلُّ شَرَابٍ أَسْكَرَ فَهُوَ حَرَامٌ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated from ‘Aishah, narrating it from the Prophet (ﷺ):“Every drink that causes intoxication is unlawful.”",
+          "ur": "ام المؤمنین عائشہ رضی اللہ عنہا کہتی ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ہر نشہ لانے والی چیز حرام ہے ۔",
+          "fr": "Rapporté par ‘Aishah, rapportant du Prophète (ﷺ) : « Toute boisson qui enivre est interdite. »",
+          "id": "Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari [Az Zuhri] dari [Abu Salamah] dari [Aisyah] dan sampai kepada Nabi shallallahu 'alaihi wasallam, beliau bersabda: \"Setiap minuman yang memabukkan adalah haram",
+          "tr": "Âişe (r.anha)'dan rivayet edildiğine göre; Nebi (Sallallahu Aleyhi ve Sellem) şöyle buyurmuştur: «Sarhoşluk veren her içilen şey, haramdır.» Bu Hadis Kütüb-i Sitte nin tümünde yer alır"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 30,
+        "hadith": 16
+      }
+    },
+    {
+      "hadithNumber": 3387,
+      "arabicNumber": 3387,
+      "book": 30,
+      "hadithInBook": 17,
+      "text": {
+        "arabic": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ، حَدَّثَنَا صَدَقَةُ بْنُ خَالِدٍ، حَدَّثَنَا يَحْيَى بْنُ الْحَارِثِ الذِّمَارِيُّ، سَمِعْتُ سَالِمَ بْنَ عَبْدِ اللَّهِ بْنِ عُمَرَ، يُحَدِّثُ عَنْ أَبِيهِ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏ \"‏ كُلُّ مُسْكِرٍ حَرَامٌ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Salim bin ‘Abdullah bin ‘Umar narrated that his father said:“The Messenger of Allah (ﷺ) said: ‘Every intoxicant is unlawful.’”",
+          "ur": "عبداللہ بن عمر رضی اللہ عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ہر نشہ لانے والی چیز حرام ہے ۔",
+          "fr": "Rapporté par Salim bin ‘Abdullah bin ‘Umar, dont le père a dit : Le Messager d’Allah (ﷺ) a dit : « Toute substance enivrante est interdite. »",
+          "id": "Telah menceritakan kepada kami [Hisyam bin 'Ammar] telah menceritakan kepada kami [Shadaqah bin Khalid] telah menceritakan kepada kami [Yahya bin Al Harits Ad Dzimari] saya mendengar [Salim bin Abdullah bin Umar] menceritakan dari [Ayahnya] dia berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Setiap sesuatu yang memabukkan adalah haram",
+          "tr": "Abdullah bin Ömer (r.a.)'dan rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: «Sarhoşluk veren her şey haramdır.» Bu Hadis Kütüb-i Sitte nin tümünde yer alır"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 30,
+        "hadith": 17
+      }
+    },
+    {
+      "hadithNumber": 3388,
+      "arabicNumber": 3388,
+      "book": 30,
+      "hadithInBook": 18,
+      "text": {
+        "arabic": "حَدَّثَنَا يُونُسُ بْنُ عَبْدِ الأَعْلَى، حَدَّثَنَا ابْنُ وَهْبٍ، أَخْبَرَنَا ابْنُ جُرَيْجٍ، عَنْ أَيُّوبَ بْنِ هَانِئٍ، عَنْ مَسْرُوقٍ، عَنِ ابْنِ مَسْعُودٍ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ قَالَ ‏ \"‏ كُلُّ مُسْكِرٍ حَرَامٌ ‏\"‏ ‏.‏ قَالَ ابْنُ مَاجَهْ هَذَا حَدِيثُ الْمِصْرِيِّينَ ‏.‏",
+        "translations": {
+          "en": "It was narrated from Ibn Mas’ud that the Messenger of Allah (ﷺ) said:“Every intoxicant is unlawful.”",
+          "ur": "عبداللہ بن مسعود رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ہر نشہ آور چیز حرام ہے ۔ ابن ماجہ کہتے ہیں: یہ اہل مصر کی حدیث ہے۔",
+          "fr": "Rapporté par Ibn Mas’ud : Le Messager d’Allah (ﷺ) a dit : « Toute substance enivrante est interdite. »",
+          "id": "Telah menceritakan kepada kami [Yunus bin Abdul A'la] telah menceritakan kepada kami [Ibnu Wahb] telah mengabarkan kepada kami [Ibnu Juraij] dari [Ayyub bin Hani`] dari [Masruq] dari [Ibnu Mas'ud], bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: \"Setiap sesuatu yang memabukkan adalah haram.\" Ibnu Majah berkata, \"Ini adalah hadits orang-orang Mesir",
+          "tr": "İbn-i Mes'ud (r.a.)'den rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: «Sarhoşluk veren her şey haramdır.»' İbn-i Mâceh demiştir ki: Bu, Mısırlıların hadîsidir. Not: zevaid'de ŞÖJle denilmiştir: Bunun senedi SahDı. nvUeri SıkA, YAni gilvenilir zatlardır"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 30,
+        "hadith": 18
+      }
+    },
+    {
+      "hadithNumber": 3389,
+      "arabicNumber": 3389,
+      "book": 30,
+      "hadithInBook": 19,
+      "text": {
+        "arabic": "حَدَّثَنَا عَلِيُّ بْنُ مَيْمُونٍ الرَّقِّيُّ، حَدَّثَنَا خَالِدُ بْنُ حَيَّانَ، عَنْ سُلَيْمَانَ بْنِ عَبْدِ اللَّهِ بْنِ الزِّبْرِقَانِ، عَنْ يَعْلَى بْنِ شَدَّادِ بْنِ أَوْسٍ، سَمِعْتُ مُعَاوِيَةَ، يَقُولُ سَمِعْتُ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ يَقُولُ ‏ \"‏ كُلُّ مُسْكِرٍ حَرَامٌ عَلَى كُلِّ مُؤْمِنٍ ‏\"‏ ‏.‏ وَهَذَا حَدِيثُ الرَّقِّيِّينَ ‏.‏",
+        "translations": {
+          "en": "Mu’awiyah said:“I heard the Messenger of Allah (ﷺ) say: ‘Every intoxicant is unlawful for every believer.’”",
+          "ur": "معاویہ رضی اللہ عنہ کہتے ہیں کہ میں نے رسول اللہ صلی اللہ علیہ وسلم کو فرماتے سنا: ہر نشہ لانے والی چیز ہر مومن پر حرام ہے ۔ یہ اہل رقہ کی حدیث ہے۔",
+          "fr": "Rapporté par Mu’awiyah : J’ai entendu le Messager d’Allah (ﷺ) dire : « Toute substance enivrante est interdite à tout croyant. »",
+          "id": "Telah menceritakan kepada kami [Ali bin Maimun Ar Raqqi] telah menceritakan kepada kami [Khalid bin Hayyan] dari [Sulaiman bin Abdullah bin Az Zabriqan] dari [Ya'la bin Syaddad bin Aus] saya mendengar [Mu'awiyah] berkata, \"Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: \"Setiap yang memabukkan adalah haram bagi setiap mukmin.\" Ini adalah hadits penduduk Raqqiyin",
+          "tr": "Muâviye (r.a.)'den; Şöyle demiştir: Ben, Resulullah (Sallallahu Aleyhi ve Sellem)'den şöyle buyururken işittim: «Sarhoşluk veren her şey, her mu'min'e haramdır.» Bu da, rakkililerin hadisidir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 30,
+        "hadith": 19
+      }
+    },
+    {
+      "hadithNumber": 3390,
+      "arabicNumber": 3390,
+      "book": 30,
+      "hadithInBook": 20,
+      "text": {
+        "arabic": "حَدَّثَنَا سَهْلٌ، حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، عَنْ مُحَمَّدِ بْنِ عَمْرِو بْنِ عَلْقَمَةَ، عَنْ أَبِي سَلَمَةَ، عَنِ ابْنِ عُمَرَ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏ \"‏ كُلُّ مُسْكِرٍ خَمْرٌ وَكُلُّ خَمْرٍ حَرَامٌ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated from Ibn ‘Umar that the Messenger of Allah (ﷺ) said:“Every intoxicant is Khamr (wine) and every Khamr is unlawful.”",
+          "ur": "عبداللہ بن عمر رضی اللہ عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ہر نشہ لانے والی چیز شراب ہے اور ہر شراب حرام ہے ۔",
+          "fr": "Rapporté par Ibn ‘Umar : Le Messager d’Allah (ﷺ) a dit : « Toute substance enivrante est du Khamr (vin) et tout Khamr est interdit. »",
+          "id": "Telah menceritakan kepada kami [Sahl] telah menceritakan kepada kami [Yazid bin Harun] dari [Muhammad bin 'Amru bin 'Alqamah] dari [Abu Salamah] dari [Ibnu Umar] dia berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Setiap yang memabukkan adalah khamer, dan semua jenis khamer adalah haram",
+          "tr": "îbn-i Ömer (r.a.)'dan rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: «Sarhoşluk veren her şey hamr'dır (yâni dinen yasaklanan içkidir) ve hamr'ın her çeşidi haramdır.» Bu Hadis Kütüb-i Sitte nin tümünde yer alır"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 30,
+        "hadith": 20
+      }
+    },
+    {
+      "hadithNumber": 3391,
+      "arabicNumber": 3391,
+      "book": 30,
+      "hadithInBook": 21,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا أَبُو دَاوُدَ، حَدَّثَنَا شُعْبَةُ، عَنْ سَعِيدِ بْنِ أَبِي بُرْدَةَ، عَنْ أَبِيهِ، عَنْ أَبِي مُوسَى، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏ \"‏ كُلُّ مُسْكِرٍ حَرَامٌ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated from Abu Musa that the Messenger of Allah (ﷺ) said:“Every intoxicant is unlawful.”",
+          "ur": "ابوموسیٰ اشعری رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ہر نشہ لانے والی چیز حرام ہے ۔",
+          "fr": "Rapporté par Abu Musa : Le Messager d’Allah (ﷺ) a dit : « Toute substance enivrante est interdite. »",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada kami [Abu Daud] telah menceritakan kepada kami [Syu'bah] dari [Sa'id bin Abu Burdah] dari [Ayahnya] dari [Abu Musa] dia berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Setiap sesuatu yang memabukkan adalah haram",
+          "tr": "Ebû Musa (el-Eş'arî) (r.a.)'den rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurmuştur: «Sarhoşluk veren her şey haramdır.»"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 30,
+        "hadith": 21
+      }
+    },
+    {
+      "hadithNumber": 3392,
+      "arabicNumber": 3392,
+      "book": 30,
+      "hadithInBook": 22,
+      "text": {
+        "arabic": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ الْمُنْذِرِ الْحِزَامِيُّ، حَدَّثَنَا أَبُو يَحْيَى، زَكَرِيَّا بْنُ مَنْظُورٍ عَنْ أَبِي حَازِمٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏ \"‏ كُلُّ مُسْكِرٍ حَرَامٌ وَمَا أَسْكَرَ كَثِيرُهُ فَقَلِيلُهُ حَرَامٌ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated from ‘Abdullah bin ‘Umar that the Messenger of Allah (ﷺ) said:“Every intoxicant is unlawful and whatever causes intoxication in large amounts, a small amount of it is (also) unlawful.”",
+          "ur": "عبداللہ بن عمر رضی اللہ عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ہر نشہ لانے والی چیز حرام ہے اور جس کی زیادہ مقدار نشہ لانے والی ہو اس کا تھوڑا بھی حرام ہے ۔",
+          "fr": "Rapporté par ‘Abdullah bin ‘Umar : Le Messager d’Allah (ﷺ) a dit : « Toute substance enivrante est interdite, et si une grande quantité enivre, alors même une petite quantité est interdite. »",
+          "id": "Telah menceritakan kepada kami [Ibrahim bin Al Mundzir Al Hizami] telah menceritakan kepada kami [Abu Yahya Zakaria bin Mandlur] dari [Abu Hazim] dari [Abdullah bin Umar] dia berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Setiap yang memabukkan adalah haram, dan sesuatu yang banyaknya memabukkan maka sedikitnya pun haram",
+          "tr": "Abdullah bin Ömer (r.a.)'dan rivayet edildiğine göre Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: «Sarhoşluk veren her şey haramdır ve çoğu sarhoşluk veren şeyin azı (da) haramdır.» Not: Zevaid de şöyle denir: Bunun senedinde Zekeriyya bin Manzur bulunur. Bu ravi zayıftır. Tahric: Ahmed bin Hanbel ve Darekutni de bu hadis'i rivayet ettiler"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 30,
+        "hadith": 22
+      }
+    },
+    {
+      "hadithNumber": 3393,
+      "arabicNumber": 3393,
+      "book": 30,
+      "hadithInBook": 23,
+      "text": {
+        "arabic": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا أَنَسُ بْنُ عِيَاضٍ، حَدَّثَنِي دَاوُدُ بْنُ بَكْرٍ، عَنْ مُحَمَّدِ بْنِ الْمُنْكَدِرِ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ قَالَ ‏ \"‏ مَا أَسْكَرَ كَثِيرُهُ فَقَلِيلُهُ حَرَامٌ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated from Jabir bin ‘Abdullah that the Messenger of Allah (ﷺ) said:“Whatever causes intoxication in large amounts, a small amount of it is (also) unlawful.”",
+          "ur": "جابر رضی اللہ عنہ سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: جس کی زیادہ مقدار نشہ آور ہو، اس کا تھوڑا بھی حرام ہے ۔",
+          "fr": "Rapporté par Jabir bin ‘Abdullah : Le Messager d’Allah (ﷺ) a dit : « Si une grande quantité d’une chose enivre, alors même une petite quantité est interdite. »",
+          "id": "Telah menceritakan kepada kami [Abdurrahman bin Ibrahim] telah menceritakan kepada kami [Anas bin Iyadl] telah menceritakan kepadaku [Daud bin Bakr] dari [Muhammad bin Al Munkadir] dari [Jabir bin Abdullah], bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: \"Sesuatu yang banyaknya memabukkan, maka sedikitnya pun haram",
+          "tr": "Câbir bin Abdillah (r.a.)'dan rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurmuştur: «Çoğu sarhoşluk veren şeyin azı (da) haramdır.»"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 30,
+        "hadith": 23
+      }
+    },
+    {
+      "hadithNumber": 3394,
+      "arabicNumber": 3394,
+      "book": 30,
+      "hadithInBook": 24,
+      "text": {
+        "arabic": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا أَنَسُ بْنُ عِيَاضٍ، حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ عُمَرَ، عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ قَالَ ‏ \"‏ مَا أَسْكَرَ كَثِيرُهُ فَقَلِيلُهُ حَرَامٌ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated from ‘Amr bin Shu’aib, from his father, from his grandfather, that the Messenger of Allah (ﷺ) said:“Whatever causes intoxication in large amounts a small amount of it is (also) unlawful.”",
+          "ur": "عبداللہ بن عمرو بن العاص رضی اللہ عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: جس کی زیادہ مقدار نشہ لانے والی ہو، اس کا تھوڑا بھی حرام ہے ۔",
+          "fr": "Rapporté par ‘Amr bin Shu’aib, de son père, de son grand-père : Le Messager d’Allah (ﷺ) a dit : « Si une grande quantité d’une chose enivre, alors même une petite quantité est interdite. »",
+          "id": "Telah menceritakan kepada kami [Abdurrahman bin Ibrahim] telah menceritakan kepada kami [Anas bin Iyadl] telah menceritakan kepada kami ['Ubaidullah bin Umar] dari ['Amru bin Syu'aib] dari [Ayahnya] dari [Kakeknya], bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: \"Sesuatu yang banyaknya memabukkan, maka sedikitnya pun haram",
+          "tr": "Amr bin Şuayb'ın dedesi (Abdullah bin Amr bin el-As) (r.a.)'den rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurmuştur: «Çoğu sarhoşluk veren şeyin azı (da) haramdır.»"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 30,
+        "hadith": 24
+      }
+    },
+    {
+      "hadithNumber": 3395,
+      "arabicNumber": 3395,
+      "book": 30,
+      "hadithInBook": 25,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ رُمْحٍ، أَنْبَأَنَا اللَّيْثُ بْنُ سَعْدٍ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ نَهَى أَنْ يُنْبَذَ التَّمْرُ وَالزَّبِيبُ جَمِيعًا وَنَهَى أَنْ يُنْبَذَ الْبُسْرُ وَالرُّطَبُ جَمِيعًا ‏.‏ قَالَ اللَّيْثُ بْنُ سَعْدٍ حَدَّثَنِي عَطَاءُ بْنُ أَبِي رَبَاحٍ الْمَكِّيُّ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، عَنِ النَّبِيِّ ـ صلى الله عليه وسلم ـ مِثْلَهُ ‏.‏",
+        "translations": {
+          "en": "It was narrated from Jabir bin ‘Abdullah that the Messenger of Allah (ﷺ) forbade making Nabidh* with dates and raisins together, or with unripe dates and fresh dates together.” Another chain reports the same",
+          "ur": "جابر رضی اللہ عنہ سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے کھجور اور انگور کو ملا کر، اور کچی کھجور اور تر کھجور کو ملا کر نبیذ بنانے سے منع فرمایا ہے۔",
+          "fr": "Rapporté par Jabir bin ‘Abdullah : Le Messager d’Allah (ﷺ) a interdit de préparer du Nabidh* avec des dattes et des raisins secs ensemble, ou avec des dattes fraîches et des dattes non mûres ensemble. » Un autre récit rapporte la même chose",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Rumh] telah memberitakan kepada kami [Al Laits bin Sa'd] dari [Abu Az Zubair] dari [Jabir bin Abdullah], bahwa Rasulullah shallallahu 'alaihi wasallam melarang membuat minuman dari perasan anggur kering dan kurma, juga dari perasan kurma muda dan kurma matang, \" [Al Laits bin Sa'd] berkata, telah menceritakan kepadaku ['Atha' bin Abu Rabah Al Makki] dari [Jabir bin Abdullah] dari Nabi shallallahu 'alaihi wasallam",
+          "tr": "Câbir bin Abdillah (r.a.)'dan rivayet edildiğine göre: Resulullah (Sallallahu Aleyhi ve Sellem) kuru hurma ile kuru üzümün karıştırılarak sulandırılması suretiyle şıra yapmayı yasaklamış ve hurma koruğu ile yaş hurmanın karıştırılarak sulandırılması suretiyle şıra yapmayı yasaklamıştır. EI-Leys bin Sa'd da Ata bin Ebi Rabâh aracılığıyla Câbir bin Abdillah'dan Nebi (Sallallahu Aleyhi ve Sellem)'in bu hadîsinin mislini rivayet etmiştir. Tahric: Bu hadisi Buhâri, Müslim, Ebû Dâvûd ve Nesâi de rivayet etmişlerdir. TirmizIde bunun benzerini rivayet etmiştir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 30,
+        "hadith": 25
+      }
+    },
+    {
+      "hadithNumber": 3396,
+      "arabicNumber": 3396,
+      "book": 30,
+      "hadithInBook": 26,
+      "text": {
+        "arabic": "حَدَّثَنَا يَزِيدُ بْنُ عَبْدِ اللَّهِ الْيَمَامِيُّ، حَدَّثَنَا عِكْرِمَةُ بْنُ عَمَّارٍ، عَنْ أَبِي كَثِيرٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏ \"‏ لاَ تَنْبِذُوا التَّمْرَ وَالْبُسْرَ جَمِيعًا وَانْبِذُوا كُلَّ وَاحِدٍ مِنْهُمَا عَلَى حِدَتِهِ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated from Abu Hurairah that the Messenger of Allah (ﷺ) said:‘Do not make Nabidh with dried dates and unripe dates together, make Nabidh with each of them on its own.”",
+          "ur": "ابوہریرہ رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: پکی اور کچی کھجوریں ملا کر نبیذ نہ بناؤ، بلکہ ان میں سے ہر ایک کا الگ الگ نبیذ بناؤ ۔",
+          "fr": "Rapporté par Abu Hurairah : Le Messager d’Allah (ﷺ) a dit : « Ne préparez pas de Nabidh avec des dattes séchées et des dattes non mûres ensemble, préparez du Nabidh avec chacune séparément. »",
+          "id": "Telah menceritakan kepada kami [Yazid bin Abdullah Al Yamami] telah menceritakan kepada kami [Ikrimah bin 'Ammar] dari [Abu Katsir] dari [Abu Hurairah] dia berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Janganlah kalian membuat minuman dari perasan kurma matang dengan kurma muda menjadi satu. Tetapi buatlah minuman dari perasan pada masing-masing jenisnya",
+          "tr": "Ebû Hureyre (r.a.)'den rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: «Hurma ile hurma koruğunu karıştırarak sulandırmak suretiyle şıra yapmayınız. Bunların her birini yalnızca sulandırıp şıra yapınız.» Tahric: Bu hadis Müslim tarafından da rivayet edilmiştir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 30,
+        "hadith": 26
+      }
+    },
+    {
+      "hadithNumber": 3397,
+      "arabicNumber": 3397,
+      "book": 30,
+      "hadithInBook": 27,
+      "text": {
+        "arabic": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ، حَدَّثَنَا الْوَلِيدُ بْنُ مُسْلِمٍ، حَدَّثَنَا الأَوْزَاعِيُّ، عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ، عَنْ عَبْدِ اللَّهِ بْنِ أَبِي قَتَادَةَ، عَنْ أَبِيهِ، أَنَّهُ سَمِعَ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ يَقُولُ ‏ \"‏ لاَ تَجْمَعُوا بَيْنَ الرُّطَبِ وَالزَّهْوِ وَلاَ بَيْنَ الزَّبِيبِ وَالتَّمْرِ وَانْبِذُوا كُلَّ وَاحِدٍ مِنْهُمَا عَلَى حِدَتِهِ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated from ‘Abdullah bin Abu Qatadah, from his father, that he heard the Messenger of Allah (ﷺ) say:“Do not combine fresh dates and unripe dates, or raisins and dates; rather make Nabidh with each one of them on its own.”",
+          "ur": "ابوقتادہ رضی اللہ عنہ کہتے ہیں کہ انہوں نے رسول اللہ صلی اللہ علیہ وسلم کو فرماتے سنا: تر اور کچی کھجوروں کو نہ ملاؤ، اور نہ ہی انگور اور کھجور کو، بلکہ ان میں سے ہر ایک کا الگ الگ نبیذ بناؤ ۔",
+          "fr": "Rapporté par ‘Abdullah bin Abu Qatadah, de son père, qui a entendu le Messager d’Allah (ﷺ) dire : « Ne mélangez pas les dattes fraîches et les dattes non mûres, ni les raisins secs et les dattes ; préparez du Nabidh avec chaque ingrédient séparément. »",
+          "id": "Telah menceritakan kepada kami [Hisyam bin 'Ammar] telah menceritakan kepada kami [Al Walid bin Muslim] telah menceritakan kepada kami [Al Auza'i] dari [Yahya bin Abu Katsir] dari [Abdullah bin Abu Qatadah] dari [Ayahnya], bahwa dia mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: \"Janganlah kalian mencampurkan kurma matang dengan kurma pentil, atau anggur kering dengan kurma, tetapi buatlah perasan nabidz dari masing -masing jenisnya",
+          "tr": "Ebû Katâde (Haris) (r.a.)'den rivayet edildiğine göre kendisi Resulullah (Sallallahu Aleyhi ve Sellem)'den şu buyruğu işitmiştir: «Hurma ile hurma koruğunu bir arada birleştirmeyim/, kuru üzüm ile kuru hurmayı da bir arada birleştirmeyiniz. (Yâni birarada sulandırmak suretiyle şıra yapmayınız.) Bunların her birini yalnızca sulandırıp şırasını yapınız.»' Tahric: Bu hadisi Buhârl, Müslim, Ebû Dâvûd ve Nesâî tarafından da rivayet edilmiştir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 30,
+        "hadith": 27
+      }
+    },
+    {
+      "hadithNumber": 3398,
+      "arabicNumber": 3398,
+      "book": 30,
+      "hadithInBook": 28,
+      "text": {
+        "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، ح وَحَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ الْمَلِكِ بْنِ أَبِي الشَّوَارِبِ، حَدَّثَنَا عَبْدُ الْوَاحِدِ بْنُ زِيَادٍ، قَالاَ حَدَّثَنَا عَاصِمٌ الأَحْوَلُ، حَدَّثَتْنَا بَنَانَةُ بِنْتُ يَزِيدَ الْعَبْشَمِيَّةُ، عَنْ عَائِشَةَ، قَالَتْ كُنَّا نَنْبِذُ لِرَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ فِي سِقَاءٍ فَنَأْخُذُ قَبْضَةً مِنْ تَمْرٍ أَوْ قَبْضَةً مِنْ زَبِيبٍ فَنَطْرَحُهَا فِيهِ ثُمَّ نَصُبُّ عَلَيْهِ الْمَاءَ فَنَنْبِذُهُ غُدْوَةً فَيَشْرَبُهُ عَشِيَّةً وَنَنْبِذُهُ عَشِيَّةً فَيَشْرَبُهُ غُدْوَةً ‏.‏ وَقَالَ أَبُو مُعَاوِيَةَ نَهَارًا فَيَشْرَبُهُ لَيْلاً أَوْ لَيْلاً فَيَشْرَبُهُ نَهَارًا ‏.‏",
+        "translations": {
+          "en": "It was narrated that ‘Aishah said:“We used to make Nabidh for the Messenger of Allah (ﷺ) in a water skin. We would take a handful of dates or a handful of raisins, and put them in it, then pour water over it. We would make that in the morning and he would drink it in the evening, or we would make it in the evening and he would drink it in the morning.”",
+          "ur": "ام المؤمنین عائشہ رضی اللہ عنہا کہتی ہیں کہ ہم رسول اللہ صلی اللہ علیہ وسلم کے لیے ایک مشک میں نبیذ تیار کرتے اس کے لیے ہم ایک مٹھی کھجور یا ایک مٹھی انگور لے لیتے، پھر اسے مشک میں ڈال دیتے، اس کے بعد اس میں پانی ڈال دیتے، اگر ہم اسے صبح میں بھگوتے تو آپ اسے شام میں پیتے، اور اگر ہم شام میں بھگوتے تو آپ اسے صبح میں پیتے۔ ابومعاویہ اپنی روایت میں یوں کہتے ہیں: دن میں بھگوتے تو رات میں پیتے اور رات میں بھگوتے تو دن میں پیتے ۔",
+          "fr": "Rapporté par ‘Aishah : Nous préparions du Nabidh pour le Messager d’Allah (ﷺ) dans une outre. Nous prenions une poignée de dattes ou une poignée de raisins secs, nous les mettions dedans, puis nous versions de l’eau par-dessus. Nous faisions cela le matin et il en buvait le soir, ou nous le faisions le soir et il en buvait le matin",
+          "id": "Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Abu Mu'awiyah]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Muhammad bin Abdul Malik bin Abu As Syawarib] telah menceritakan kepada kami [Abdul Wahid bin Ziyad] keduanya berkata; telah menceritakan kepada kami ['Ashim Al Ahwal] telah menceritakan kepada kami [Bunanah bini Yazid Al 'Absyamiyah] dari [Aisyah] dia berkata, \"Kami membuat minuman untuk Rasulullah shallallahu 'alaihi wasallam dalam bejana minum; kami ambil segenggam kurma atau kismis dan memasukkannya ke dalam bejana tersebut kemudian menuangkan air ke dalamnya. Kami membuatnya di waktu pagi lalu beliau meminumnya di waktu sore, dan jika kami membuatnya di sore hari beliau meminumnya di waktu pagi.\" Abu Mu'awiyah berkata, \"(membuatnya) di waktu siang dan meminumnya di malam hari atau (membuatnya) di malam hari dan meminumnya di siang hari",
+          "tr": "Ai§e (r.a.)'dan; Şöyle demiştir: Biz, Resulullah (Sallallahu Aleyhi ve Sellem) için tulumda Nebîz (yâni şıra) yapardık (Şöyle ki): Kuru hurmadan bir avuç veya kuru üzümden bir avuç alıp bir tuluma atardık. Sonra üzerine su dökerdik. Böylece sabahleyin şıra hazırlardık, onu akşamleyin içerdi ve akşamleyin şıra hazırlardık, bunu d» sabahleyin İçerdi. Ebû Muâviye kendi rivayetinde: \"(Şırayı) gündüz hazırlardık, gece içerdi veya gece hazırlardık, gündüz içerdi\" demiştir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 30,
+        "hadith": 28
+      }
+    },
+    {
+      "hadithNumber": 3399,
+      "arabicNumber": 3399,
+      "book": 30,
+      "hadithInBook": 29,
+      "text": {
+        "arabic": "حَدَّثَنَا أَبُو كُرَيْبٍ، عَنْ إِسْمَاعِيلَ بْنِ صَبِيحٍ، عَنْ أَبِي إِسْرَائِيلَ، عَنْ أَبِي عُمَرَ الْبَهْرَانِيِّ، عَنِ ابْنِ عَبَّاسٍ، قَالَ كَانَ يُنْبَذُ لِرَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ فَيَشْرَبُهُ يَوْمَهُ ذَلِكَ وَالْغَدَ وَالْيَوْمَ الثَّالِثَ فَإِنْ بَقِيَ مِنْهُ شَىْءٌ أَهْرَاقَهُ أَوْ أَمَرَ بِهِ فَأُهْرِيقَ ‏.‏",
+        "translations": {
+          "en": "It was narrated that Ibn ‘Abbas said:“Nabidh would be made for the Messenger of Allah (ﷺ) and he would drink it on the same day, or the next day, or the third day, and if there was any left he would throw it away or give orders that it was to be thrown away.”",
+          "ur": "عبداللہ بن عباس رضی اللہ عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم کے لیے نبیذ تیار کی جاتی تو آپ اسے اسی دن پیتے، پھر اگلے دن، پھر تیسرے دن، اور اگر اس کے بعد بھی اس میں سے کچھ بچ جاتا تو اسے بہا دیتے یا کسی کو حکم دیتے تو وہ بہا دیتا۔",
+          "fr": "Rapporté par Ibn ‘Abbas : On préparait du Nabidh pour le Messager d’Allah (ﷺ) et il en buvait le jour même, ou le lendemain, ou le troisième jour ; s’il en restait, il le jetait ou ordonnait qu’on le jette",
+          "id": "Telah menceritakan kepada kami [Abu Kuraib] dari [Isma'il bin Shabih] dari [Abu Israil] dari [Abu Umar Al Bahrani] dari [Ibnu Abbas] dia berkata, \"Rasulullah shallallahu 'alaihi wasallam dibuatkan minuman dari perasan anggur, beliau lalu meminumnya di hari itu juga, keesokan harinya dan hari ketiganya. Jika (di hari ketiga) masih tersisa, maka beliau membuangnya atau memerintahkan untuk membuangnya",
+          "tr": "İbn-i Abbâs (r.a.)'dan; Şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem) için şıra yapılırdı. O, yapılan şırayı yapıldığı gün, ertesi gün ve üçüncü gün içerdi. Sonra şıradan bir şey kalırsa döker veya O'nun emri ile dökülürdü"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 30,
+        "hadith": 29
+      }
+    },
+    {
+      "hadithNumber": 3400,
+      "arabicNumber": 3400,
+      "book": 30,
+      "hadithInBook": 30,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ الْمَلِكِ بْنِ أَبِي الشَّوَارِبِ، حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، قَالَ كَانَ يُنْبَذُ لِرَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ فِي تَوْرٍ مِنْ حِجَارَةٍ ‏.‏",
+        "translations": {
+          "en": "It was narrated that Jabir bin ‘Abdullah said:“Nabidh would be made for the Messenger of Allah (ﷺ) in a vessel of stone.”",
+          "ur": "جابر بن عبداللہ رضی اللہ عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم کے لیے پتھر کے ایک پیالے میں نبیذ تیار بنائی جاتی تھی۔",
+          "fr": "Rapporté par Jabir bin ‘Abdullah : On préparait du Nabidh pour le Messager d’Allah (ﷺ) dans un récipient en pierre",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Abdul Malik bin Abu As Syawarib] telah menceritakan kepada kami [Abu 'Awanah] dari [Abu Az Zubair] dari [Jabir bin Abdullah] dia berkata, \"Rasulullah shallallahu 'alaihi wasallam pernah dibuatkan minuman dari perasan (anggur) dalam wadah yang terbuat dari batu",
+          "tr": "Câbir bin Abdillah (r.a.)'dan; Şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem) için taştan (mamul) tevr (denilen) kabta şıra yapılırdı"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 30,
+        "hadith": 30
+      }
+    },
+    {
+      "hadithNumber": 3401,
+      "arabicNumber": 3401,
+      "book": 30,
+      "hadithInBook": 31,
+      "text": {
+        "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا مُحَمَّدُ بْنُ بِشْرٍ، عَنْ مُحَمَّدِ بْنِ عَمْرٍو، حَدَّثَنَا أَبُو سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ نَهَى رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ أَنْ يُنْبَذَ فِي النَّقِيرِ وَالْمُزَفَّتِ وَالدُّبَّاءِ وَالْحَنْتَمَةِ وَقَالَ ‏ \"‏ كُلُّ مُسْكِرٍ حَرَامٌ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated that Abu Hurairah said:“The Messenger of Allah (ﷺ) forbade making Nabidh in Naqir, Muzaffat, Dubba’, and Hantamah. And he said: ‘Every intoxicant is unlawful.”",
+          "ur": "ابوہریرہ رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے منع فرمایا ہے کہ نقیر، مزفت، دباء اور حنتمہ میں نبیذ تیار کی جائے، اور آپ صلی اللہ علیہ وسلم کا ارشاد ہے: ہر نشہ آور چیز حرام ہے ۱؎۔",
+          "fr": "Rapporté par Abu Hurairah : Le Messager d’Allah (ﷺ) a interdit de préparer du Nabidh dans des récipients appelés Naqir, Muzaffat, Dubba’ et Hantamah. Et il a dit : « Toute substance enivrante est interdite. »",
+          "id": "Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Muhammad bin Bisyr] dari [Muhammad bin Umar], dan telah menceritakan kepada kami [Abu Salamah] dari [Abu Hurairah] dia berkata, \"Rasulullah shallallahu 'alaihi wasallam melarang membuat perasan nabidz dalam An Naqir, Al Muzaffat, Ad Duba dan Al Hantam. Beliau lalu bersabda: \"Semua yang memabukkan adalah haram",
+          "tr": "Ebû Hureyre (r.a.)'den; Şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem) nekîr, müzeffet, dübbâ ve hantem'e (denilen kablar)da şıra yapılmasını yasakladı ve: «Sarhoşluk veren her şey haramdır,» buyurdu. Not: Zevaid'de şÖyle denilmiştir: Bu hadisin senedi sahih Olup rAvlleri sika, zAtIardır. Bu hadisin asb: ........... Sarhoşluk veren her şey haramdırıt cümlesi Mrlç, BuhArl ve MUslim'de vardır"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 30,
+        "hadith": 31
+      }
+    },
+    {
+      "hadithNumber": 3402,
+      "arabicNumber": 3402,
+      "book": 30,
+      "hadithInBook": 32,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ رُمْحٍ، أَنْبَأَنَا اللَّيْثُ بْنُ سَعْدٍ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، قَالَ نَهَى رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ أَنْ يُنْبَذَ فِي الْمُزَفَّتِ وَالْقَرْعِ ‏.‏",
+        "translations": {
+          "en": "It was narrated that Ibn ‘Umar said:“The Messenger of Allah (ﷺ) forbade making Nabidh in Muzaffat or a gourd.”",
+          "ur": "عبداللہ بن عمر رضی اللہ عنہما کہتے ہیں رسول اللہ صلی اللہ علیہ وسلم نے مزفت ( روغنی برتن ) ، اور دباء ( کدو کی تونبی ) میں نبیذ تیار کرنے سے منع فرمایا۔",
+          "fr": "Rapporté par Ibn ‘Umar : Le Messager d’Allah (ﷺ) a interdit de préparer du Nabidh dans un Muzaffat ou une courge",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Rumh] telah memberitakan kepada kami [Al Laits bin Sa'd] dari [Nafi'] dari [Ibnu Umar] dia berkata, \"Rasulullah shallallahu 'alaihi wasallam melarang membuat minuman dari perasan nabidz dalam Al Muzaffat dan Qar",
+          "tr": "îbn-i Ömer (r.a.)'dan; Şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem) müzeffet ve kar' (denilen kablar)da şıra yapılmasını yasaklamıştır"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 30,
+        "hadith": 32
+      }
+    },
+    {
+      "hadithNumber": 3403,
+      "arabicNumber": 3403,
+      "book": 30,
+      "hadithInBook": 33,
+      "text": {
+        "arabic": "حَدَّثَنَا نَصْرُ بْنُ عَلِيٍّ، حَدَّثَنَا أَبِي، عَنِ الْمُثَنَّى بْنِ سَعِيدٍ، عَنْ أَبِي الْمُتَوَكِّلِ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، قَالَ نَهَى رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ عَنِ الشُّرْبِ فِي الْحَنْتَمِ وَالدُّبَّاءِ وَالنَّقِيرِ ‏.‏",
+        "translations": {
+          "en": "It was narrated that Abu Sa’eed Al-Khudri said:“The Messenger of Allah (ﷺ) forbade drinking from Hantam, Dubba’ and Naqir",
+          "ur": "ابو سعید خدری رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے حنتم، دباء اور نقیر میں پینے سے منع فرمایا۔",
+          "fr": "Rapporté par Abu Sa’eed Al-Khudri : Le Messager d’Allah (ﷺ) a interdit de boire dans des récipients appelés Hantam, Dubba’ et Naqir",
+          "id": "Telah menceritakan kepada kami [Nashr bin Ali] telah menceritakan kepada kami [Ayahku] dari [Al Mutsanna bin Sa'id] dari [Abu Al Mutawaki] dari [Abu Sa'id Al Khudri] dia berkata, \"Rasulullah shallallahu 'alaihi wasallam melarang minuman yang berada dibuat dalam Al Hantam, Ad Duba dan An Naqir",
+          "tr": "Ebû Saîd-i Hudrî (r.a.)'den; Şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem), hantem, dubbâ ve nakîr (denilen kablar)da bulundurulan (şıra ve diğer meşrubat)ı içmeyi yasaklamıştır"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 30,
+        "hadith": 33
+      }
+    },
+    {
+      "hadithNumber": 3404,
+      "arabicNumber": 3404,
+      "book": 30,
+      "hadithInBook": 34,
+      "text": {
+        "arabic": "حَدَّثَنَا أَبُو بَكْرٍ، وَالْعَبَّاسُ بْنُ عَبْدِ الْعَظِيمِ الْعَنْبَرِيُّ، قَالاَ حَدَّثَنَا شَبَابَةُ، عَنْ شُعْبَةَ، عَنْ بُكَيْرِ بْنِ عَطَاءٍ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ يَعْمَرَ، قَالَ نَهَى رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ عَنِ الدُّبَّاءِ وَالْحَنْتَمِ ‏.‏",
+        "translations": {
+          "en": "It was narrated that ‘Abdur-Rahman bin Ya’mar said:“The Messenger of Allah (ﷺ) forbade Dubba’ and Hantam.”",
+          "ur": "عبدالرحمٰن بن یعمر رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے دباء اور حنتم ( کے استعمال ) سے منع فرمایا ہے۔",
+          "fr": "Rapporté par ‘Abdur-Rahman bin Ya’mar : Le Messager d’Allah (ﷺ) a interdit le Dubba’ et le Hantam",
+          "id": "Telah menceritakan kepada kami [Abu Bakar] dan [Al 'Abbas bin Abdul 'Adzim Al 'Anbari] keduanya berkata; telah menceritakan kepada kami [Syababah] dari [Syu'bah] dari [Bukair bin 'Atha] dari [Abdurrahman bin Ya'mar] dia berkata, \"Rasulullah shallallahu 'alaihi wasallam melarang Ad duba dan Al Hantam",
+          "tr": "Abdurrahman bin Ya'mer (r.a.)'den; Şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem) dubbâ ve hantem (denilen kablar) ı yasaklamıştır"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 30,
+        "hadith": 34
+      }
+    },
+    {
+      "hadithNumber": 3405,
+      "arabicNumber": 3405,
+      "book": 30,
+      "hadithInBook": 35,
+      "text": {
+        "arabic": "حَدَّثَنَا عَبْدُ الْحَمِيدِ بْنُ بَيَانٍ الْوَاسِطِيُّ، حَدَّثَنَا إِسْحَاقُ بْنُ يُوسُفَ، عَنْ شَرِيكٍ، عَنْ سِمَاكٍ، عَنِ الْقَاسِمِ بْنِ مُخَيْمِرَةَ، عَنِ ابْنِ بُرَيْدَةَ، عَنْ أَبِيهِ، عَنِ النَّبِيِّ ـ صلى الله عليه وسلم ـ قَالَ ‏ \"‏ كُنْتُ نَهَيْتُكُمْ عَنِ الأَوْعِيَةِ فَانْتَبِذُوا فِيهِ وَاجْتَنِبُوا كُلَّ مُسْكِرٍ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated from Ibn Buraidah from his father that the Prophet (ﷺ) said:“I used to forbid you to use certain vessels, but now make Nabidh in them, but avoid all intoxicants.”",
+          "ur": "بریدہ رضی اللہ عنہ کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: میں نے تمہیں ( مخصوص ) برتنوں کے استعمال سے روکا تھا، اب ان میں نبیذ تیار کر سکتے ہو لیکن ہر نشہ لانے والی چیز سے بچو ۔",
+          "fr": "Rapporté par Ibn Buraidah, d’après son père : Le Prophète (ﷺ) a dit : “Je vous interdisais d’utiliser certains récipients, mais maintenant, préparez du Nabidh dedans, tout en évitant tout ce qui enivre.”",
+          "id": "Telah menceritakan kepada kami [Abdul Hamid bin Bayan Al Wasithi] telah menceritakan kepada kami [Ishaq bin Yusuf] dari [Syarik] dari [Simak] dari [Al Qasim bin Mukhaimirah] dari [Ibnu Buraidah] dari [Ayahnya] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: \"Aku telah melarang kalian menggunakan bejana-bejana, sekarang gunakanlah untuk membuat perasan, dan jauhilah setiap sesuatu yang memabukkan",
+          "tr": "İbn-i Büreyde'nin babası (Büreyde el-Eslemî) (r.a.)'dan rivayet edildiğine göre Mebi (Sallallahu Aleyhi ve Sellem) Söyle buyurmuştur: «Ben sizi bâzı kablar (da şıra yapmak) dan men etmiştim. Bundan sonra o nevî kablarda şıra yapınız (yâni yapabilirsiniz) ve sarhoşluk veren her şeyden sakınınız.»"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 30,
+        "hadith": 35
+      }
+    },
+    {
+      "hadithNumber": 3406,
+      "arabicNumber": 3406,
+      "book": 30,
+      "hadithInBook": 36,
+      "text": {
+        "arabic": "حَدَّثَنَا يُونُسُ بْنُ عَبْدِ الأَعْلَى، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ وَهْبٍ، أَنْبَأَنَا ابْنُ جُرَيْجٍ، عَنْ أَيُّوبَ بْنِ هَانِئٍ، عَنْ مَسْرُوقِ بْنِ الأَجْدَعِ، عَنِ ابْنِ مَسْعُودٍ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ قَالَ ‏ \"‏ إِنِّي كُنْتُ نَهَيْتُكُمْ عَنْ نَبِيذِ الأَوْعِيَةِ أَلاَ وَإِنَّ وِعَاءً لاَ يُحَرِّمُ شَيْئًا كُلُّ مُسْكِرٍ حَرَامٌ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated from Ibn Mas’ud that the Messenger of Allah (ﷺ) said:“I used to forbid you from making Nabidh in certain vessels, but a vessel does not make something unlawful. All intoxicants are unlawful.”",
+          "ur": "عبداللہ بن مسعود رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: میں نے تمہیں ( مخصوص ) برتنوں میں نبیذ بنانے سے منع کیا تھا، سنو! برتن کی وجہ سے کوئی چیز حرام نہیں ہوتی، البتہ ہر نشہ لانے والی چیز حرام ہے ۔",
+          "fr": "Rapporté par Ibn Mas’ud : Le Messager d’Allah (ﷺ) a dit : “Je vous interdisais de préparer du Nabidh dans certains récipients, mais un récipient ne rend pas une chose interdite. Tout ce qui enivre est interdit.”",
+          "id": "Telah menceritakan kepada kami [Yunus bin Abdul A'la] telah menceritakan kepada kami [Abdullah bin Wahb] telah memberitakan kepada kami [Ibnu Juraij] dari [Ayyub bin Hani] dari [Masruq bin Ajda'] dari [Ibnu Mas'ud], bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: \"Sungguh, aku telah melarang kalian membuat perasan dalam bejana-bejana. Ketahuilah, bejana tidak bisa membuat sesuatu menjadi haram, dan setiap yang memabukkan adalah haram",
+          "tr": "İbn-i Mes'ûd (r.a.)'den rivayet edildiğine göre Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurmuştur: «Ben sizi bâzı kabların şırasından menetmiştim. Bilmiş olunuz ki hiç bir kap, hiç bir şeyi haram etmez. Sarhoşluk veren her şey haramdır.» Not: Zevaid de: Bu hadisin isnadı hasendir. denmiştir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 30,
+        "hadith": 36
+      }
+    },
+    {
+      "hadithNumber": 3407,
+      "arabicNumber": 3407,
+      "book": 30,
+      "hadithInBook": 37,
+      "text": {
+        "arabic": "حَدَّثَنَا سُوَيْدُ بْنُ سَعِيدٍ، حَدَّثَنَا الْمُعْتَمِرُ بْنُ سُلَيْمَانَ، عَنْ أَبِيهِ، حَدَّثَتْنِي رُمَيْثَةُ، عَنْ عَائِشَةَ، أَنَّهَا قَالَتْ أَتَعْجِزُ إِحْدَاكُنَّ أَنْ تَتَّخِذَ كُلَّ عَامٍ مِنْ جِلْدِ أُضْحِيَّتِهَا سِقَاءً ثُمَّ قَالَتْ نَهَى رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ أَنْ يُنْبَذَ فِي الْجَرِّ وَفِي كَذَا وَفِي كَذَا إِلاَّ الْخَلَّ ‏.‏",
+        "translations": {
+          "en": "It was narrated that ‘Aishah said:“Is anyone of you incapable of taking a water skin from the skin of her sacrifice each year?” Then she said: “The Messenger of Allah (ﷺ) forbade making Nabidh in (earthenware) jars, and in such and such, and such and such, except for vinegar.”",
+          "ur": "ام المؤمنین عائشہ رضی اللہ عنہا کہتی ہیں کہ انہوں نے سوال کیا: کیا تم میں سے کوئی عورت اس بات سے عاجز ہے کہ وہ ہر سال اپنی قربانی کے جانور کی کھال سے ایک مشک تیار کرے؟ پھر کہا: رسول اللہ صلی اللہ علیہ وسلم نے مٹی کے روغنی گھڑے میں نبیذ تیار کرنے سے منع فرمایا ہے، اور فلاں فلاں برتن میں بھی، البتہ ان میں سرکہ بنایا جا سکتا ہے۔",
+          "fr": "Rapporté par ‘Aishah رضي الله عنها : “L’une d’entre vous est-elle incapable de prendre chaque année une outre d’eau faite avec la peau de son sacrifice ?” Puis elle a dit : “Le Messager d’Allah (ﷺ) a interdit de préparer du Nabidh dans des jarres en terre cuite, et dans ceci et cela, sauf pour le vinaigre.”",
+          "id": "Telah menceritakan kepada kami [Suwaid bin Sa'id] telah menceritakan kepada kami [Al Mu'tamir bin Sulaiman] dari [Ayahnya] telah menceritakan kepadaku [Rumaitsah] dari [Aisyah] bahwa dia berkata, \"Tidak mampukah salah seorang dari kalian setiap tahunnya membuat bejana dari kulit binatang kurban?\" Kemudian dia berkata lagi, \"Rasulullah shallallahu 'alaihi wasallam melarang membuat perasan dalam bejana yang terbuat dari tembikar, dan dalam bejana begini dan bejana begini, kecuali cuka",
+          "tr": "Âişe (r.anha)'dan; Şöyle demiştir: (Yâ Rümeyse!) Siz kadınlardan her hangi birisi her yıl Kurban bayramında kestirdiği kurbanının derisini tulum yapmaktan aciz mi? Âişe sözüne devamla şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem) cerler (yâni balçıktan yapılan küp ve testiler) de, şöyle ve şöyle kablarda şıra yapmayı yasakladı. Ancak sirkenin bu nevî kablarda kurulmasını yasaklamadı. Not: Zevaid'de şöyle denilmiştir: Bu hadisin senedindeki ravi Süveyd'ln gtlvenllirUği konusunda !htilaf bulunduğu için sened hasen sayılmıştır"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif Isnaad"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 30,
+        "hadith": 37
+      }
+    },
+    {
+      "hadithNumber": 3408,
+      "arabicNumber": 3408,
+      "book": 30,
+      "hadithInBook": 38,
+      "text": {
+        "arabic": "حَدَّثَنَا إِسْحَاقُ بْنُ مُوسَى الْخَطْمِيُّ، حَدَّثَنَا الْوَلِيدُ بْنُ مُسْلِمٍ، حَدَّثَنَا الأَوْزَاعِيُّ، عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ نَهَى رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ أَنْ يُنْبَذَ فِي الْجِرَارِ ‏.‏",
+        "translations": {
+          "en": "It was narrated that Abu Hurairah said:“The Messenger of Allah (ﷺ) forbade making Nabidh in (earthenware) jars.”",
+          "ur": "ابوہریرہ رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے مٹی کے روغنی برتنوں میں نبیذ تیار کرنے سے منع فرمایا ہے۔",
+          "fr": "Rapporté par Abu Hurairah : Le Messager d’Allah (ﷺ) a interdit de préparer du Nabidh dans des jarres en terre cuite",
+          "id": "Telah menceritakan kepada kami [Ishaq bin Musa Al Khathmi] telah menceritakan kepada kami [Al Walid bin Muslim] telah menceritakan kepada kami [Al Auza'i] dari [Yahya bin Abu Katsir] dari [Abu Salamah] dari [Abu Hurairah] dia berkata, \"Rasulullah shallallahu 'alaihi wasallam melarang membuat perasan dalam bejana yang terbuat dari tembikar",
+          "tr": "Ebû Hureyre (r.a.)'den; Şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem) cerlerde (yâni balçıktan yapılma küp ve testilerde) şıra kurulmasını yasaklamıştır"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 30,
+        "hadith": 38
+      }
+    },
+    {
+      "hadithNumber": 3409,
+      "arabicNumber": 3409,
+      "book": 30,
+      "hadithInBook": 39,
+      "text": {
+        "arabic": "حَدَّثَنَا مُجَاهِدُ بْنُ مُوسَى، حَدَّثَنَا الْوَلِيدُ، عَنْ صَدَقَةَ أَبِي مُعَاوِيَةَ، عَنْ زَيْدِ بْنِ وَاقِدٍ، عَنْ خَالِدِ بْنِ عَبْدِ اللَّهِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ أُتِيَ النَّبِيُّ ـ صلى الله عليه وسلم ـ بِنَبِيذِ جَرٍّ يَنِشُّ فَقَالَ ‏ \"‏ اضْرِبْ بِهَذَا الْحَائِطَ فَإِنَّ هَذَا شَرَابُ مَنْ لاَ يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الآخِرِ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated that Abu Hurairah said:“Some Nabidh from an (earthenware) jar was brought to the Messenger of Allah (ﷺ) and it was bubbling. He said: ‘Throw this against the wall, for this is the drink of one who does not believe in Allah and the Last Day.’”",
+          "ur": "ابوہریرہ رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم کے پاس ایک ایسے گھڑے میں نبیذ لائی گئی جو جوش مار رہی تھی، آپ صلی اللہ علیہ وسلم نے فرمایا: اسے دیوار پر مار دو، اس لیے کہ یہ ایسے لوگوں کا مشروب ہے جو اللہ اور یوم آخرت پر ایمان نہیں رکھتے ۱؎۔",
+          "fr": "Rapporté par Abu Hurairah : On a apporté au Messager d’Allah (ﷺ) du Nabidh provenant d’une jarre en terre cuite, et il bouillonnait. Il a dit : “Jetez cela contre le mur, car c’est la boisson de celui qui ne croit pas en Allah et au Jour dernier.”",
+          "id": "Telah menceritakan kepada kami [Mujahid bin Musa] telah menceritakan kepada kami [Al Walid] dari [Shadaqah Abu Mu'awiyah] dari [Zaid bin Waqid] dari [Khalid bin Abdullah] dari [Abu Hurairah] dia berkata, \"Rasulullah shallallahu 'alaihi wasallam dibawakan perasan dalam sebuah bejana tembikar (guci) yang telah menguap (mengalami fermentasi), maka beliau pun bersabda: \"Lemparkan ia ke tembok, sesungguhnya ini adalah minuman orang yang tidak beriman kepada Allah dan hari akhir",
+          "tr": "Ebû Hureyre (r.a.)'den Şöyle demiştir: Nebi (Sallallahu Aleyhi ve Sellem)'e bir cer şırası getirildi. Şıra kabarıp kaynıyordu. Bunun üzerine Resûl-i Ekrem (Sallallahu Aleyhi ve Sellem) (bana): «Bunu bahçeye dök. Çünkü bu, Allah'a ve âhiret gününe inanmayan kimsenin içkisidir» buyurdu"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 30,
+        "hadith": 39
+      }
+    },
+    {
+      "hadithNumber": 3410,
+      "arabicNumber": 3410,
+      "book": 30,
+      "hadithInBook": 40,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ رُمْحٍ، أَنْبَأَنَا اللَّيْثُ بْنُ سَعْدٍ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، عَنْ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ أَنَّهُ قَالَ ‏ \"‏ غَطُّوا الإِنَاءَ وَأَوْكُوا السِّقَاءَ وَأَطْفِئُوا السِّرَاجَ وَأَغْلِقُوا الْبَابَ فَإِنَّ الشَّيْطَانَ لاَ يَحُلُّ سِقَاءً وَلاَ يَفْتَحُ بَابًا وَلاَ يَكْشِفُ إِنَاءً فَإِنْ لَمْ يَجِدْ أَحَدُكُمْ إِلاَّ أَنْ يَعْرُضَ عَلَى إِنَائِهِ عُودًا وَيَذْكُرَ اسْمَ اللَّهِ فَلْيَفْعَلْ فَإِنَّ الْفُوَيْسِقَةَ تُضْرِمُ عَلَى أَهْلِ الْبَيْتِ بَيْتَهُمْ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated from Jabir bin ‘Abdullah that the Messenger of Allah (ﷺ) said:“Cover your vessels, tie your water skins, extinguish your lamps and lock your doors, for Satan does not untie a water skin, open a door or uncover a vessel. If a person cannot find anything but a stick with which to cover his vessel and mention the Name of Allah, then let him do so. And the mouse could set fire to the house with its people inside.”",
+          "ur": "جابر رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: برتن کو ڈھانک کر رکھو، مشک کا منہ بند کر کے رکھو، چراغ بجھا دو، اور دروازہ بند کر لو، اس لیے کہ شیطان نہ ایسی مشک کو کھولتا ہے، اور نہ ایسے دروازے کو اور نہ ہی ایسے برتن کو جو بند کر دیا گیا ہو، اب اگر تم میں سے کسی کو ڈھانکنے کے لیے لکڑی کے علاوہ کوئی چیز نہ ہو تو اسی کو «بسم الله» کہہ کر برتن پر آڑا رکھ دے، اس لیے کہ چوہیا لوگوں کے گھر جلا دیتی ہے ۱؎۔",
+          "fr": "Rapporté par Jabir bin ‘Abdullah : Le Messager d’Allah (ﷺ) a dit : “Couvrez vos récipients, attachez vos outres d’eau, éteignez vos lampes et fermez vos portes, car Satan ne détache pas une outre, n’ouvre pas une porte et ne découvre pas un récipient. Si quelqu’un ne trouve qu’un bâton pour couvrir son récipient, qu’il le fasse et qu’il mentionne le nom d’Allah. Une souris pourrait mettre le feu à la maison avec ses habitants à l’intérieur.”",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Rumh] telah memberitakan kepada kami [Al Laits bin Sa'd] dari [Abu Az Zubair] dari [Jabir bin Abdullah] dari Rasulullah shallallahu 'alaihi wasallam, bahwa beliau bersabda: \"Tutuplah tempat minum kalian, rapatkan bejana, matikan lampu dan tutuplah pintu kalian, sesungguhnya setan tidak akan membuka bejana, membuka pintu dan tidak dapat menyingkap tempat air minum, jika salah seorang dari kalian tidak dapat (melakukannya) kecuali hanya dengan merentangkan sebatang kayu di atas tempat minumnya, maka lakukanlah dengan menyebut nama Allah. Sesungguhnya tikus dapat merusak pemilik rumah dengan membakar rumahnya",
+          "tr": "Câbir bin Abdillah (r.a.)'dan rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurmuştur: «Kab'ı örtünüz, tulumun ağzını bağlayınız, lambayı söndürünüz ve kapıyı kapatınız. Çünkü şeytan (besmele ile ağzı bağlanan) hiç bir tulumun bağını çözemez, (besmele ile kapatılan) hiç bir kapıyı açamaz ve (besmele ile örtülen) hiç bir kabın örtüsünü kaldıramaz. Eğer biriniz kabının üstüne bir tahta parçasını enine koymaktan başka örtecek hiç bir şey bulamazsa, Allah'ın ismini anarak o tahta parçasını enine koymak suretiyle kabını örtsün. (Lâmbayı söndürmek de şundandır:) Çünkü fare ev halkının başına evlerini yakabilir.»"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 30,
+        "hadith": 40
+      }
+    },
+    {
+      "hadithNumber": 3411,
+      "arabicNumber": 3411,
+      "book": 30,
+      "hadithInBook": 41,
+      "text": {
+        "arabic": "حَدَّثَنَا عَبْدُ الْحَمِيدِ بْنُ بَيَانٍ الْوَاسِطِيُّ، حَدَّثَنَا خَالِدُ بْنُ عَبْدِ اللَّهِ، عَنْ سُهَيْلٍ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ أَمَرَنَا رَسُولُ اللَّهِ بِتَغْطِيَةِ الإِنَاءِ وَإِيكَاءِ السِّقَاءِ وَإِكْفَاءِ الإِنَاءِ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated that Abu Hurairah said:“The Messenger of Allah (ﷺ) commanded us to cover our vessels, tie up our water skins and turn over our vessels.”",
+          "ur": "ابوہریرہ رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے ہمیں برتن ڈھانکنے، مشک کا منہ بند کر دینے، اور برتن کو الٹ کر رکھنے کا حکم دیا ہے۔",
+          "fr": "Rapporté par Abu Hurairah : Le Messager d’Allah (ﷺ) nous a ordonné de couvrir nos récipients, d’attacher nos outres d’eau et de retourner nos récipients",
+          "id": "Telah menceritakan kepada kami [Abdul Hamid bin Bayan Al Wasithi] telah menceritakan kepada kami [Khalid bin Abdullah] dari [Suhail] dari [Ayahnya] dari [Abu Hurairah] dia berkata, \"Rasulullah shallallahu 'alaihi wasallam memerintahkan kami menutup tempat air, merapatkan tutup bejana dan tempayan",
+          "tr": "Ebû Hureyre (r.a.)'den; Şöyle demi tir: Resulullah (Sallallahu Aleyhi ve Sellem) bize kab'ı örtmeyi, tulumun ağzını bağlamayı ve (boş) kabı ağzı yere gelecek biçimde ters çevirmeyi emretti. Not: Zevaid'de şöyle denilmiştir: Bunun senedi sahih olup ravileri sika zatlardır"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 30,
+        "hadith": 41
+      }
+    },
+    {
+      "hadithNumber": 3412,
+      "arabicNumber": 3412,
+      "book": 30,
+      "hadithInBook": 42,
+      "text": {
+        "arabic": "حَدَّثَنَا عِصْمَةُ بْنُ الْفَضْلِ، حَدَّثَنَا حَرَمِيُّ بْنُ عُمَارَةَ بْنِ أَبِي حَفْصَةَ، حَدَّثَنَا حَرِيشُ بْنُ خِرِّيتٍ، أَنْبَأَنَا ابْنُ أَبِي مُلَيْكَةَ، عَنْ عَائِشَةَ، قَالَتْ كُنْتُ أَصْنَعُ لِرَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ ثَلاَثَةَ آنِيَةٍ مِنَ اللَّيْلِ مُخَمَّرَةً إِنَاءً لِطَهُورِهِ وَإِنَاءً لِسِوَاكِهِ وَإِنَاءً لِشَرَابِهِ ‏.‏",
+        "translations": {
+          "en": "It was narrated that ‘Aishah said:“I used to prepare three covered vessels for the Messenger of Allah (ﷺ) at night: A vessel for his water for purification, a vessel for his tooth stick and a vessel for his drink.”",
+          "ur": "ام المؤمنین عائشہ رضی اللہ عنہا کہتی ہیں کہ میں رسول اللہ صلی اللہ علیہ وسلم کے لیے رات کو تین ڈھکے ہوئے پانی کے برتن رکھتی: ایک آپ کے استنجاء کے لیے، دوسرا آپ کے مسواک یعنی وضو کے لیے، اور تیسرا آپ کے پینے کے لیے۔",
+          "fr": "Rapporté par ‘Aishah رضي الله عنها : Je préparais trois récipients couverts pour le Messager d’Allah (ﷺ) la nuit : un pour son eau d’ablution, un pour son siwak et un pour sa boisson",
+          "id": "Telah menceritakan kepada kami ['Ishmah bin Al Fadll] telah menceritakan kepada kami [Harami bin 'Umarah bin Abu Hafshah] telah menceritakan kepada kami [Harisy bin Khirrit] telah memberitakan kepada kami [Ibnu Abu Mulaikah] dari [Aisyah] dia berkata, \"Aku selalu meletakkan tiga bejana untuk Rasulullah shallallahu 'alaihi wasallam di setiap malamnya, satu bejana untuk bersuci, satu bejana untuk siwak dan satu bejana untuk minum",
+          "tr": "Âişe (r.anha)'dan; Şöyle demiştir: Ben, Resulullah (Sallallahu Aleyhi ve Sellem) için üstü örtülü üç kab'ı akşamdan hazırlardım: Bir kab'ı abdest suyu için, bir kab'ı misvak'ı için ve bir kab'ı içeceği için. Not: Zevaid'de şöyle denilmiştir; Bunun senedinde Hariş bin Hırrlt bulunur, Bu ravi zayıftır"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 30,
+        "hadith": 42
+      }
+    },
+    {
+      "hadithNumber": 3413,
+      "arabicNumber": 3413,
+      "book": 30,
+      "hadithInBook": 43,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ رُمْحٍ، أَنْبَأَنَا اللَّيْثُ بْنُ سَعْدٍ، عَنْ نَافِعٍ، عَنْ زَيْدِ بْنِ عَبْدِ اللَّهِ بْنِ عُمَرَ، عَنْ عَبْدِ اللَّهِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ أَبِي بَكْرٍ، عَنْ أُمِّ سَلَمَةَ، أَنَّهَا أَخْبَرَتْهُ عَنْ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ قَالَ ‏ \"‏ إِنَّ الَّذِي يَشْرَبُ فِي إِنَاءِ الْفِضَّةِ إِنَّمَا يُجَرْجِرُ فِي بَطْنِهِ نَارَ جَهَنَّمَ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated from Umm Salamah that the Messenger of Allah (ﷺ) said:“The one who drinks from a silver vessel is swallowing Hell-fire into his belly.”",
+          "ur": "ام المؤمنین ام سلمہ رضی اللہ عنہا کہتی ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: جو شخص چاندی کے برتن میں پیتا ہے، وہ اپنے پیٹ میں جہنم کی آگ غٹ غٹ اتارتا ہے ۔",
+          "fr": "Rapporté par Umm Salamah رضي الله عنها : Le Messager d’Allah (ﷺ) a dit : “Celui qui boit dans un récipient en argent avale du feu de l’Enfer dans son ventre.”",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Rumh] telah memberitakan kepada kami [Al Laits bin Sa'd] dari [Nafi'] dari [Zaid bin Abdullah bin Umar] dari [Abdullah bin Abdurrahman bin Abu Bakr] dari [Ummu Salamah], bahwa dia mengabarkan kepadanya dari Rasulullah shallallahu 'alaihi wasallam, beliau bersabda: \"Orang yang minum dari bejana yang terbuat dari perak, sungguh ia telah mendidihkan api neraka di dalam perutnya",
+          "tr": "Ümmü Seleme (r.a.)'dan rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurmuştur: «Gümüş kab'dan (bir şey) içen kimse muhakkak karnına cehennem ateşini yudumlaya yudumlaya, çurp çurp diye gönderir.»"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 30,
+        "hadith": 43
+      }
+    },
+    {
+      "hadithNumber": 3414,
+      "arabicNumber": 3414,
+      "book": 30,
+      "hadithInBook": 44,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ الْمَلِكِ بْنِ أَبِي الشَّوَارِبِ، حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ أَبِي بِشْرٍ، عَنْ مُجَاهِدٍ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ أَبِي لَيْلَى، عَنْ حُذَيْفَةَ، قَالَ نَهَى رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ عَنِ الشُّرْبِ فِي آنِيَةِ الذَّهَبِ وَالْفِضَّةِ وَقَالَ ‏ \"‏ هِيَ لَهُمْ فِي الدُّنْيَا وَهِيَ لَكُمْ فِي الآخِرَةِ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated that Hudhaifah said:“The Messenger of Allah (ﷺ) forbade drinking from vessels of gold and silver. He said: “They are for them in this world and for you in the Hereafter.’”",
+          "ur": "حذیفہ رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے سونے چاندی کے برتن میں پینے سے منع فرمایا ہے، آپ کا ارشاد ہے: یہ ان ( کافروں ) کے لیے دنیا میں ہیں اور تمہارے لیے آخرت میں ہیں ۔",
+          "fr": "Rapporté par Hudhaifah : Le Messager d’Allah (ﷺ) a interdit de boire dans des récipients en or et en argent. Il a dit : “Ils sont pour eux dans ce monde et pour vous dans l’Au-delà.”",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Abdul Malik bin Abu As Syawarib] telah menceritakan kepada kami [Abu 'Awanah] dari [Abu Bisyr] dari [Mujahid] dari [Abdurrahman bin Abu Laila] dari [Hudzaifah] dia berkata, \"Rasulullah shallallahu 'alaihi wasallam melarang minum dari gelas yang terbuat dari emas dan perak, beliau bersabda: \"Ia (gelas dari emas dan perak) untuk mereka di dunia dan untuk kalian di akhirat",
+          "tr": "Huzeyfe (bin el-Yemân) (r.a.)'den rivayet edildiğine göre: Resulullah (Sallallahu Aleyhi ve Sellem) altın ve gümüş kablardan (bir şey) içmeyi yasaklayarak şöyle buyurmuştur: «Altın ve gümüş kablar dünyada kâfirlerin, ahirette de biz muslümanlarındır.»"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 30,
+        "hadith": 44
+      }
+    },
+    {
+      "hadithNumber": 3415,
+      "arabicNumber": 3415,
+      "book": 30,
+      "hadithInBook": 45,
+      "text": {
+        "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا غُنْدَرٌ، عَنْ شُعْبَةَ، عَنْ سَعْدِ بْنِ إِبْرَاهِيمَ، عَنْ نَافِعٍ، عَنِ امْرَأَةِ ابْنِ عُمَرَ، عَنْ عَائِشَةَ، عَنْ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ قَالَ ‏ \"‏ مَنْ شَرِبَ فِي إِنَاءِ فِضَّةٍ فَكَأَنَّمَا يُجَرْجِرُ فِي بَطْنِهِ نَارَ جَهَنَّمَ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated from ‘Aishah that the Prophet (ﷺ) said:“Whoever drinks from a silver vessel, it is as if he is swallowing Hell-fire into his belly.”",
+          "ur": "ام المؤمنین عائشہ رضی اللہ عنہا کہتی ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: جو شخص چاندی کے برتن میں پیتا ہے گویا وہ اپنے پیٹ میں جہنم کی آگ غٹ غٹ اتارتا ہے ۔",
+          "fr": "Rapporté par ‘Aishah رضي الله عنها : Le Prophète (ﷺ) a dit : “Celui qui boit dans un récipient en argent, c’est comme s’il avalait du feu de l’Enfer dans son ventre.”",
+          "id": "Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Ghundar] dari [Syu'bah] dari [Sa'd bin Ibrahim] dari [Nafi'] dari [isterinya Ibnu Umar] dari [Aisyah] dari Rasulullah shallallahu 'alaihi wasallam, beliau bersabda: \"Barangsiapa minum dari bejana yang terbuat dari perak, ibarat seseorang yang mendidihkan api neraka Jahannam ke dalam perutnya",
+          "tr": "Aişe (r.a.)'dan rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurmuştur: «Kim gümüş bir kab'dan (bir şey) içerse karnına cehennem ateşini çurp çurp diye yudumlayarak gönderir gibidir.» Not: Zevaid'de şöyle denilmiştir: Bunun senedi sahlh olup ravileri güvenlIir zatlardır"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 30,
+        "hadith": 45
+      }
+    },
+    {
+      "hadithNumber": 3416,
+      "arabicNumber": 3416,
+      "book": 30,
+      "hadithInBook": 46,
+      "text": {
+        "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا ابْنُ مَهْدِيٍّ، حَدَّثَنَا عَزْرَةُ بْنُ ثَابِتٍ الأَنْصَارِيُّ، عَنْ ثُمَامَةَ بْنِ عَبْدِ اللَّهِ، عَنْ أَنَسٍ، أَنَّهُ كَانَ يَتَنَفَّسُ فِي الإِنَاءِ ثَلاَثًا وَزَعَمَ أَنَسٌ أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ كَانَ يَتَنَفَّسُ فِي الإِنَاءِ ثَلاَثًا ‏.‏",
+        "translations": {
+          "en": "It was narrated from Anas that he used to drink from a vessel in three draughts, and Anas said that the Messenger of Allah (ﷺ) used to drink from a vessel in three draughts",
+          "ur": "انس رضی اللہ عنہ سے روایت ہے کہ وہ برتن سے تین سانسوں میں پیتے اور کہتے تھے: رسول اللہ صلی اللہ علیہ وسلم بھی تین سانسوں میں پیا کرتے تھے ۱؎۔",
+          "fr": "Rapporté par Anas : Il buvait dans un récipient en trois gorgées, et Anas a dit que le Messager d’Allah (ﷺ) buvait aussi en trois gorgées",
+          "id": "Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Ibnu Mahdi] telah menceritakan kepada kami ['Azrah bin Tsabit Al Anshari] dari [Tsumamah bin Abdullah] dari [Anas], bahwa dia bernafas ke dalam bejana (tempat air minum) sebanyak tiga kali, dan Anas mengaku bahwa Rasulullah shallallahu 'alaihi wasallam juga bernafas tiga kali dalam bejana (saat minum)",
+          "tr": "Enes (bin Mâlik) (r.a.)'den rivayet edildiğine göre: Kendisi (bir şey içerken) üç defa nefes alırdı (yâni kabı ağzından uzaklaştırarak kabın dışında nefes alırdı) ve: Resulullah (Sallallahu Aleyhi ve Sellem) (bir şey içerken) üç defa nefes alırdı, demiştir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 30,
+        "hadith": 46
+      }
+    },
+    {
+      "hadithNumber": 3417,
+      "arabicNumber": 3417,
+      "book": 30,
+      "hadithInBook": 47,
+      "text": {
+        "arabic": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ، وَمُحَمَّدُ بْنُ الصَّبَّاحِ، قَالاَ حَدَّثَنَا مَرْوَانُ بْنُ مُعَاوِيَةَ، حَدَّثَنَا رِشْدِينُ بْنُ كُرَيْبٍ، عَنْ أَبِيهِ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ النَّبِيَّ ـ صلى الله عليه وسلم ـ شَرِبَ فَتَنَفَّسَ فِيهِ مَرَّتَيْنِ ‏.‏",
+        "translations": {
+          "en": "It was narrated from Ibn ‘Abbas that the Prophet (ﷺ) drank, and took two breaths while doing so",
+          "ur": "عبداللہ بن عباس رضی اللہ عنہما سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم نے پانی پیا، تو آپ نے دوبار سانس لی",
+          "fr": "Rapporté par Ibn ‘Abbas : Le Prophète (ﷺ) buvait en prenant deux respirations pendant qu’il buvait",
+          "id": "Telah menceritakan kepada kami [Hisyam bin 'Ammar] dan [Muhammad bin Ash Shabah] keduanya berkata; telah menceritakan kepada kami [Marwan bin Mu'awiyah] telah menceritakan kepada kami [Risydin bin Kuraib] dari [Ayahnya] dari [Ibnu Abbas], bahwa Nabi shallallahu 'alaihi wasallam minum dan bernafas di dalamnya (bejana) dua kali",
+          "tr": "İbn-i Abbâs (r.a.)'dan rivayet edildiğine göre: Nebi (Sallallahu Aleyhi ve Sellem) (bir şey) içti de içerken iki defa nefes almıştır"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 30,
+        "hadith": 47
+      }
+    },
+    {
+      "hadithNumber": 3418,
+      "arabicNumber": 3418,
+      "book": 30,
+      "hadithInBook": 48,
+      "text": {
+        "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ عَمْرِو بْنِ السَّرْحِ، حَدَّثَنَا ابْنُ وَهْبٍ، عَنْ يُونُسَ، عَنِ ابْنِ شِهَابٍ، عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ بْنِ عُتْبَةَ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، قَالَ نَهَى رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ عَنِ اخْتِنَاثِ الأَسْقِيَةِ أَنْ يُشْرَبَ مِنْ أَفْوَاهِهَا ‏.‏",
+        "translations": {
+          "en": "It was narrated that Abu Sa’eed Al-Khudri said:“The Messenger of Allah (ﷺ) forbade tipping up water skins in order to drink from their mouths.”",
+          "ur": "ابو سعید خدری رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے مشک کے منہ باہر نکال کر ان سے پانی پینے سے منع فرمایا ہے۔",
+          "fr": "Rapporté par Abu Sa’eed Al-Khudri : Le Messager d’Allah (ﷺ) a interdit de soulever les outres d’eau pour boire directement à leur embouchure",
+          "id": "Telah menceritakan kepada kami [Ahmad bin 'Amru bin As Sarh] telah menceritakan kepada kami [Ibnu Wahb] dari [Yunus] dari [Ibnu Syihab] dari ['Ubaidullah bin Abdullah bin 'Utbah] dari [Abu Sa'id Al Khudri] dia berkata, \"Rasulullah shallallahu 'alaihi wasallam melarang langsung dari mulut bejana air minum",
+          "tr": "Ebû Saîd-i Hudrî (r.a.)'den rivayet edildiğine göre: Resulullah (Sallallahu Aleyhi ve Sellem) tulumların ağızlarını dışarıya kıvırıp tulumların ağızlarından (bir şeyin) içilmesini yasaklamıştır"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 30,
+        "hadith": 48
+      }
+    },
+    {
+      "hadithNumber": 3419,
+      "arabicNumber": 3419,
+      "book": 30,
+      "hadithInBook": 49,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا أَبُو عَامِرٍ، حَدَّثَنَا زَمْعَةُ بْنُ صَالِحٍ، عَنْ سَلَمَةَ بْنِ وَهْرَامَ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، قَالَ نَهَى رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ عَنِ اخْتِنَاثِ الأَسْقِيَةِ وَإِنَّ رَجُلاً بَعْدَمَا نَهَى رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ عَنْ ذَلِكَ قَامَ مِنَ اللَّيْلِ إِلَى سِقَاءٍ فَاخْتَنَثَهُ فَخَرَجَتْ عَلَيْهِ مِنْهُ حَيَّةٌ ‏.‏",
+        "translations": {
+          "en": "It was narrated that Ibn ‘Abbas said:“The Messenger of Allah (ﷺ) forbade tipping up water skins. After the Messenger of Allah (ﷺ) had forbidden that, a man got up at night and tipped up a water skin, and a snake fell out of it onto him.”",
+          "ur": "عبداللہ بن عباس رضی اللہ عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے مشک کے منہ باہر کر کے پانی پینے سے منع فرمایا، رسول اللہ صلی اللہ علیہ وسلم کی اس ممانعت کے بعد ایک شخص نے رات کو اٹھ کر مشک کے منہ سے پانی پینا چاہا، تو اس میں سے ایک سانپ نکلا۔",
+          "fr": "Rapporté par Ibn ‘Abbas : Le Messager d’Allah (ﷺ) a interdit de soulever les outres d’eau. Après cette interdiction, un homme s’est levé la nuit, a soulevé une outre, et un serpent en est tombé sur lui",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada kami [Abu 'Amir] telah menceritakan kepada kami [Zam'ah bin Shalih] dari [Salamah bin Wahram] dari [Ikrimah] dari [Ibnu Abbas] dia berkata, \"Rasulullah shallallahu 'alaihi wasallam melarang minum langsung dari mulut bejana. Setelah Rasulullah shallallahu 'alaihi wasallam melarang perbuatan itu, ada seorang laki-laki bangun di waktu malam dan minum langsung dari mulut bejana, tiba-tiba keluar seekor ular dari mulut bejana tersebut ke arahnya",
+          "tr": "İbn-i Abbâs (r.a.)'dam; Şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem) tulumların ağızlarını dışarıya kıvırıp onun ağzından (bir şey) içmeyi yasaklamıştır. Resulullah (Sallallahu Aleyhi ve Sellem) bunu yasakladıktan sonra bir adam geceleyin kalkıp bir tulumun ağzını dışarıya kıvırıp onun ağzından içti de tulumdan adamın üstüne bir yılan çıktı"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 30,
+        "hadith": 49
+      }
+    },
+    {
+      "hadithNumber": 3420,
+      "arabicNumber": 3420,
+      "book": 30,
+      "hadithInBook": 50,
+      "text": {
+        "arabic": "حَدَّثَنَا بِشْرُ بْنُ هِلاَلٍ الصَّوَّافُ، حَدَّثَنَا عَبْدُ الْوَارِثِ بْنُ سَعِيدٍ، عَنْ أَيُّوبَ، عَنْ عِكْرِمَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ نَهَى رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ عَنِ الشُّرْبِ مِنْ فِي السِّقَاءِ ‏.‏",
+        "translations": {
+          "en": "It was narrated that Abu Hurairah said:“The Messenger of Allah (ﷺ) forbade drinking (directly) from the mouth of a water skin.”",
+          "ur": "ابوہریرہ رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے مشک کے منہ سے پانی پینے سے منع فرمایا ۱؎۔",
+          "fr": "Rapporté par Abu Hurairah : Le Messager d’Allah (ﷺ) a interdit de boire directement à l’embouchure d’une outre d’eau",
+          "id": "Telah menceritakan kepada kami [Bisyr bin Hilal Ash Shawaf] telah menceritakan kepada kami [Abdul Waris bin Sa'id] dari [Ayyub] dari [Ikrimah] dari [Abu Hurairah] dia berkata, \"Rasulullah shallallahu 'alaihi wasallam melarang minum langsung dari mulut bejana (ceret)",
+          "tr": "Ebû Hureyre (r.a.)'den; Şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem) tulum (ve testi gibi kabIar)ın ağzından (bir şey) içmeyi yasakladı"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 30,
+        "hadith": 50
+      }
+    },
+    {
+      "hadithNumber": 3421,
+      "arabicNumber": 3421,
+      "book": 30,
+      "hadithInBook": 51,
+      "text": {
+        "arabic": "حَدَّثَنَا بَكْرُ بْنُ خَلَفٍ أَبُو بِشْرٍ، حَدَّثَنَا يَزِيدُ بْنُ زُرَيْعٍ، حَدَّثَنَا خَالِدٌ الْحَذَّاءُ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ نَهَى أَنْ يُشْرَبَ مِنْ فَمِ السِّقَاءِ ‏.‏",
+        "translations": {
+          "en": "It was narrated that Ibn ‘Abbas said:“The Messenger of Allah (ﷺ) forbade drinking (directly) from the mouth of a water skin.”",
+          "ur": "عبداللہ بن عباس رضی اللہ عنہما سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے اس بات سے منع فرمایا ہے کہ مشک کے منہ سے پانی پیا جائے۔",
+          "fr": "Rapporté par Ibn ‘Abbas : Le Messager d’Allah (ﷺ) a interdit de boire directement à l’embouchure d’une outre d’eau",
+          "id": "Telah menceritakan kepada kami [Bakr bin Khalaf Abu Bisyr] telah menceritakan kepada kami [Yazid bin Zurai'] telah menceritakan kepada kami [Khalid Al Haddza`] dari [Ikrimah] dari [Ibnu Abbas], bahwa Rasulullah shallallahu 'alaihi wasallam melarang minum langsung dari mulut bejana (ceret)",
+          "tr": "İbn-i Abbâs (r.a.)'dan; Şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem) tulum (ve testi gibi kablar)ın ağzından (bir şey) içmeyi yasakladı"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 30,
+        "hadith": 51
+      }
+    },
+    {
+      "hadithNumber": 3422,
+      "arabicNumber": 3422,
+      "book": 30,
+      "hadithInBook": 52,
+      "text": {
+        "arabic": "حَدَّثَنَا سُوَيْدُ بْنُ سَعِيدٍ، حَدَّثَنَا عَلِيُّ بْنُ مُسْهِرٍ، عَنْ عَاصِمٍ، عَنِ الشَّعْبِيِّ، عَنِ ابْنِ عَبَّاسٍ، قَالَ سَقَيْتُ النَّبِيَّ ـ صلى الله عليه وسلم ـ مِنْ زَمْزَمَ فَشَرِبَ قَائِمًا ‏.‏ فَذَكَرْتُ ذَلِكَ لِعِكْرِمَةَ فَحَلَفَ بِاللَّهِ مَا فَعَلَ ‏.‏",
+        "translations": {
+          "en": "‘Asim narrated from Sha’bi, from Ibn ‘Abbas who said:“I drew water from Zamzam for the Prophet (ﷺ) and he drank standing up.”",
+          "ur": "عبداللہ بن عباس رضی اللہ عنہما کہتے ہیں کہ میں نے نبی اکرم صلی اللہ علیہ وسلم کو زمزم کا پانی پلایا، تو آپ نے کھڑے کھڑے پیا ۱؎۔ شعبی کہتے ہیں: میں نے یہ حدیث عکرمہ سے بیان کی تو انہوں نے قسم کھا کر کہا کہ نبی اکرم صلی اللہ علیہ وسلم نے ایسا نہیں کیا۔",
+          "fr": "Rapporté par ‘Asim, d’après Sha’bi, d’après Ibn ‘Abbas : J’ai puisé de l’eau de Zamzam pour le Prophète (ﷺ) et il a bu debout",
+          "id": "Telah menceritakan kepada kami [Suwaid bin Sa'id] telah menceritakan kepada kami [Ali bin Mushir] dari ['Ashim] dari [Asy Sya'bi] dari [Ibnu Abbas] dia berkata, \"Saya menuangkan air zamzam kepada Nabi shallallahu 'alaihi wasallam, beliau lalu meminumnya sambil berdiri, lalu hal itu aku ceritakan kepada Ikrimah, maka dia bersumpah dengan nama Allah atas apa yang di lakukan oleh Rasulullah",
+          "tr": "İbn-i Abbâs (r.a.)'dan: Şöyle demiştir: Ben, Resulullah (Sallallahu Aleyhi ve Sellem)'e zem-zem ikram ettim. O, ayakta içti. Râvî demiştir ki: Sonra ben bunu İkrime'ye anlattım. İkrime O'nun öyle yapmadığına (Yâni Resulullah (Sallallahu Aleyhi ve Sellem)'in ayakta Zem-zem içmediğine) Allah'ın adı ile yemin etti"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 30,
+        "hadith": 52
+      }
+    },
+    {
+      "hadithNumber": 3423,
+      "arabicNumber": 3423,
+      "book": 30,
+      "hadithInBook": 53,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الصَّبَّاحِ، أَنْبَأَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنْ يَزِيدَ بْنِ يَزِيدَ بْنِ جَابِرٍ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ أَبِي عَمْرَةَ، عَنْ جَدَّةٍ، لَهُ يُقَالُ لَهَا كَبْشَةُ الأَنْصَارِيَّةُ أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ دَخَلَ عَلَيْهَا وَعِنْدَهَا قِرْبَةٌ مُعَلَّقَةٌ فَشَرِبَ مِنْهَا وَهُوَ قَائِمٌ فَقَطَعَتْ فَمَ الْقِرْبَةِ تَبْتَغِي بَرَكَةَ مَوْضِعِ فِي رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ ‏.‏",
+        "translations": {
+          "en": "It was narrated from ‘Abdur-Rahman bin Abi ‘Amrah, from a grandmother of his who was called Kabshah Al-Ansariyyah, that the Messenger of Allah (ﷺ) entered upon her, and there was a water skin hanging there. He drank from it while standing, and she cut off the mouth of the water skin, seeking the blessing of the place where the mouth of the Messenger of Allah (ﷺ) had been",
+          "ur": "کبشہ انصاریہ رضی اللہ عنہا سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم ان کے پاس تشریف لے گئے، ان کے پاس ایک پانی کی مشک لٹکی ہوئی تھی، آپ صلی اللہ علیہ وسلم نے کھڑ ے کھڑے اس کے منہ سے منہ لگا کر پانی پیا، تو انہوں نے مشک کے منہ کو جہاں رسول اللہ صلی اللہ علیہ وسلم کے منہ کا لمس ہوا تھا برکت کے لیے کاٹ کر رکھ لیا۔",
+          "fr": "Rapporté par ‘Abdur-Rahman bin Abi ‘Amrah, d’après sa grand-mère Kabshah Al-Ansariyyah : Le Messager d’Allah (ﷺ) est entré chez elle, et il y avait une outre d’eau suspendue. Il a bu debout, et elle a découpé l’embouchure de l’outre pour garder l’endroit où la bouche du Messager d’Allah (ﷺ) avait touché, cherchant la bénédiction",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Ash Shabah] telah memberitakan kepada kami [Sufyan bin 'Uyainah] dari [Yazid bin Yazid bin Jabir] dari [Abdurrahman bin Abu 'Amrah] dari neneknya yang bernama [Kabsyah Al Anshariyah], bahwa Rasulullah shallallahu 'alaihi wasallam pernah masuk menemuinya, lalu beliau minum dengan berdiri dari bejana yang tergantung di sisinya. Kabsyah lalu memotong mulut bejana guna mengharap berkah dari bekas mulut Rasulullah shallallahu 'alaihi wasallam",
+          "tr": "Kebşe el-Ensârîyye (r.a.)'den rivayet edildiğine göre: (Bir defa) Resulullah (Sallallahu Aleyhi ve Sellem) onun evine gitmiş. O esnada Kebşe'nin yanında asılı bir su tulumu bulunuyordu. Resul i Ekrem (Sallallahu Aleyhi ve Sellem) ayakta tulumdan su içmiş. Kebşe de Resulullah (Sallallahu Aleyhi ve Sellem)'in mübarek ağzının dokunduğu tulumun ağzını keserek bereket (ve feyiz) hâtırası olarak saklamıştır"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 30,
+        "hadith": 53
+      }
+    },
+    {
+      "hadithNumber": 3424,
+      "arabicNumber": 3424,
+      "book": 30,
+      "hadithInBook": 54,
+      "text": {
+        "arabic": "حَدَّثَنَا حُمَيْدُ بْنُ مَسْعَدَةَ، حَدَّثَنَا بِشْرُ بْنُ الْمُفَضَّلِ، حَدَّثَنَا سَعِيدٌ، عَنْ قَتَادَةَ، عَنْ أَنَسٍ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ نَهَى عَنِ الشُّرْبِ قَائِمًا ‏.‏",
+        "translations": {
+          "en": "It was narrated from Anas that the Messenger of Allah (ﷺ) forbade drinking while standing up",
+          "ur": "انس رضی اللہ عنہ سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے کھڑے ہو کر پینے سے منع فرمایا۔",
+          "fr": "Rapporté par Anas : Le Messager d’Allah (ﷺ) a interdit de boire en étant debout",
+          "id": "Telah menceritakan kepada kami [Humaid bin Mas'udah] telah menceritakan kepada kami [Bisyr bin Al Mufadlal] telah menceritakan kepada kami [Sa'id] dari [Qatadah] dari [Anas bin Malik], bahwa Rasulullah shallallahu 'alaihi wasallam melarang minum sambil berdiri",
+          "tr": "Enes (r.a.)'den rivayet edildiğine güre: Resulullah (Sallallahu Aleyhi ve Sellem) ayakta (su ve benzerini) içmeyi yasaklamıştır"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 30,
+        "hadith": 54
+      }
+    },
+    {
+      "hadithNumber": 3425,
+      "arabicNumber": 3425,
+      "book": 30,
+      "hadithInBook": 55,
+      "text": {
+        "arabic": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ، حَدَّثَنَا مَالِكُ بْنُ أَنَسٍ، عَنِ الزُّهْرِيِّ، عَنْ أَنَسِ بْنِ مَالِكٍ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ أُتِيَ بِلَبَنٍ قَدْ شِيبَ بِمَاءٍ وَعَنْ يَمِينِهِ أَعْرَابِيٌّ وَعَنْ يَسَارِهِ أَبُو بَكْرٍ فَشَرِبَ ثُمَّ أَعْطَى الأَعْرَابِيَّ وَقَالَ ‏ \"‏ الأَيْمَنُ فَالأَيْمَنُ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated from Anas bin Malik that the Messenger of Allah (ﷺ) was brought some milk mixed with water. On his right there was a Bedouin and on his left was Abu Bakr. He drank some, then he gave it to the Bedouin and said:“Pass it around to the right.”",
+          "ur": "انس بن مالک رضی اللہ عنہ سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم کے پاس دودھ آیا جس میں پانی ملا ہوا تھا، اس وقت آپ کے دائیں جانب ایک اعرابی اور آپ کے بائیں جانب ابوبکر رضی اللہ عنہ تھے، تو آپ صلی اللہ علیہ وسلم نے پیا، پھر اعرابی کو دیا اور فرمایا: دائیں طرف والے کو دینا چاہیئے، پھر وہ اپنے دائیں طرف والے کو دے ۱؎۔",
+          "fr": "Rapporté par Anas bin Malik : On a apporté au Messager d’Allah (ﷺ) du lait mélangé à de l’eau. À sa droite se trouvait un bédouin et à sa gauche, Abu Bakr. Il en a bu, puis l’a donné au bédouin en disant : “Faites passer à droite.”",
+          "id": "Telah menceritakan kepada kami [Hisyam bin 'Ammar] telah menceritakan kepada kami [Malik bin Anas] dari [Az Zuhri] dari [Anas bin Malik], bahwa Rasulullah shallallahu 'alaihi wasallam pernah di suguhi susu yang telah di campur dengan air, di sisi kanan beliau ada seorang Arab badui dan di sebelah kirinya Abu Bakar. Kemudian beliau meminum susu tersebut lalu memberikan (sisanya) kepada orang Arab badui itu seraya bersabda: \"Dari yang sebelah kanan dan seterusnya",
+          "tr": "Enes bîn Mâlik (r.a.)'den rivayet edildiğine göre: (Bir gün) Resulullah (Sallallahu Aleyhi ve Sellem)'e su karıştırılan bir mikdar süt getirildi. Sağında bir bedevi, solunda da Ebû Bekir bulunuyordu. O, içtikten sonra (artığını) bedeviye verdi ve: «Sağa verilir, sıra ile sağa verilir, buyurdu.»"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 30,
+        "hadith": 55
+      }
+    },
+    {
+      "hadithNumber": 3426,
+      "arabicNumber": 3426,
+      "book": 30,
+      "hadithInBook": 56,
+      "text": {
+        "arabic": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ، حَدَّثَنَا إِسْمَاعِيلُ بْنُ عَيَّاشٍ، حَدَّثَنَا ابْنُ جُرَيْجٍ، عَنِ ابْنِ شِهَابٍ، عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ، عَنِ ابْنِ عَبَّاسٍ، قَالَ أُتِيَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ بِلَبَنٍ وَعَنْ يَمِينِهِ ابْنُ عَبَّاسٍ وَعَنْ يَسَارِهِ خَالِدُ بْنُ الْوَلِيدِ فَقَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ لاِبْنِ عَبَّاسٍ ‏ \"‏ أَتَأْذَنُ لِي أَنْ أَسْقِيَ خَالِدًا ‏\"‏ ‏.‏ قَالَ ابْنُ عَبَّاسٍ مَا أُحِبُّ أَنْ أُوثِرَ بِسُؤْرِ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ عَلَى نَفْسِي أَحَدًا ‏.‏ فَأَخَذَ ابْنُ عَبَّاسٍ فَشَرِبَ وَشَرِبَ خَالِدٌ ‏.‏",
+        "translations": {
+          "en": "It was narrated that Ibn ‘Abbas said:“The Messenger of Allah (ﷺ) was brought some milk. On his right was Ibn ‘Abbas and on his left was Khalid bin Walid. The Messenger of Allah (ﷺ) said to Ibn ‘Abbas: ‘Will you permit me to give Khalid to drink?’ Ibn ‘Abbas said: ‘I would not like to give preference to anyone over myself when it comes to the leftover drink of the Messenger of Allah (ﷺ). So Ibn ‘Abbas took it and drank some, then Khalid drank some.”",
+          "ur": "عبداللہ بن عباس رضی اللہ عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم کے پاس دودھ آیا، اس وقت آپ کے دائیں جانب ابن عباس رضی اللہ عنہما اور بائیں جانب خالد بن ولید رضی اللہ عنہ تھے، رسول اللہ صلی اللہ علیہ وسلم نے ابن عباس رضی اللہ عنہما سے پوچھا: کیا تم مجھے اس کی اجازت دیتے ہو کہ پہلے خالد کو پلاؤں؟ ابن عباس رضی اللہ عنہما نے کہا: میں رسول اللہ صلی اللہ علیہ وسلم کے جوٹھے کے لیے اپنے اوپر کسی کو ترجیح دینا پسند نہیں کرتا، چنانچہ ابن عباس رضی اللہ عنہما نے لیا، اور پیا، اور پھر خالد رضی اللہ عنہ نے پیا ۱؎۔",
+          "fr": "Rapporté par Ibn ‘Abbas : On a apporté du lait au Messager d’Allah (ﷺ). À sa droite se trouvait Ibn ‘Abbas et à sa gauche Khalid bin Walid. Le Messager d’Allah (ﷺ) a dit à Ibn ‘Abbas : “Me permets-tu de donner à boire à Khalid ?” Ibn ‘Abbas a répondu : “Je ne voudrais pas donner la priorité à quelqu’un d’autre que moi pour ce qui reste de la boisson du Messager d’Allah (ﷺ).” Alors Ibn ‘Abbas en a bu, puis Khalid en a bu",
+          "id": "Telah menceritakan kepada kami [Hisyam bin 'Ammar] telah menceritakan kepada kami [Isma'il bin 'Ayyasy] telah menceritakan kepada kami [Ibnu Juraij] dari [Ibnu Syihab] dari ['Ubaidullah bin Abdullah] dari [Ibnu Abbas] dia berkata, \"Rasulullah shallallahu 'alaihi wasallam di beri susu, sedangkan di sisi kanan beliau ada Ibnu Abbas dan di sisi kiri beliau Khalid bin Walid, Rasulullah shallallahu 'alaihi wasallam lalu bersabda kepada Ibnu Abbas: \"Apakah kamu mengizinkanku memberikan minuman ini kepada Khalid?\" Ibnu Abbas menjawab, \"Aku tidak suka sekiranya aku memberikan sisa minuman Rasulullah shallallahu 'alaihi wasallam selain kepada diriku.\" Lantas Ibnu Abbas mengambil dan meminumnya, baru kemudian dia memberikan sisa minuman itu kepada Khalid",
+          "tr": "İbn-i Abbâs (r.a.)'dan; Şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem)'e bir mikdar süt ikram edildi. Sağında İbn-i Abbâs, solunda da Hâlid bin el Velîd bulunuyordu. O, (sütten içtikten sonra) İbni Abbâs\"a: «Bana (önce) Hâlid'e içirmem için izin verir misin?» buyurdu. İbn-i Abbâs (r.a.): Resulullah (Sallallahu Aleyhi ve Sellem)'in artığı hususunda hiç bir kimseyi kendi nefsime tercih etmemi arzulamam, dedi. Bunun üzerine İbn-i Abbâs (süt kabını) alıp içti. (Sonra) Hâlid de içti"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 30,
+        "hadith": 56
+      }
+    },
+    {
+      "hadithNumber": 3427,
+      "arabicNumber": 3427,
+      "book": 30,
+      "hadithInBook": 57,
+      "text": {
+        "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا دَاوُدُ بْنُ عَبْدِ اللَّهِ، عَنْ عَبْدِ الْعَزِيزِ بْنِ مُحَمَّدٍ، عَنِ الْحَارِثِ بْنِ أَبِي ذُبَابٍ، عَنْ عَمِّهِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏ \"‏ إِذَا شَرِبَ أَحَدُكُمْ فَلاَ يَتَنَفَّسْ فِي الإِنَاءِ فَإِذَا أَرَادَ أَنْ يَعُودَ فَلْيُنَحِّ الإِنَاءَ ثُمَّ لْيَعُدْ إِنْ كَانَ يُرِيدُ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated from Abu Hurairah that the Messenger of Allah (ﷺ) said:“When anyone of you drinks, let him not breathe into the vessel. If he wants to continue drinking, let him move the vessel away (in order to breathe) then bring it back, if he wants.”",
+          "ur": "ابوہریرہ رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: جب تم میں سے کوئی کچھ پئے تو برتن میں سانس نہ لے، اور اگر سانس لینا چاہے تو برتن کو منہ سے علیحدہ کر لے، پھر اگر چاہے تو دوبارہ پئے ۔",
+          "fr": "Rapporté par Abu Hurairah : Le Messager d’Allah (ﷺ) a dit : “Quand l’un de vous boit, qu’il ne souffle pas dans le récipient. S’il veut continuer à boire, qu’il éloigne le récipient pour respirer, puis le ramène s’il le souhaite.”",
+          "id": "Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Daud bin Abdullah] dari [Abdul Aziz bin Muhammad] dari [Al Harits bin Abu Dzubab] dari [Pamannya] dari [Abu Hurairah] dia berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Apabila salah seorang dari kalian minum maka janganlah ia bernapas dalam bejana. Jika ingin mengulanginya, maka hendaknya ia menjauhkan bejananya sebentar lalu meminumnya jika ia menginginkan",
+          "tr": "Ebu Hureyre (r.a.)'den rivayet edildiğine göre Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: «Biriniz (su ve benzeri bir şey) içtiği zaman kabın içinde teneffüs etmesin (nefes alıp vermesin). (Bir nefeste içtikten sonra) Tekrar içmek istediği zaman kabı (ağzından) uzaklaştıran (da kabın dışında nefes aldıktan) sonra isterse tekrar içsin.» Not: Zevaid'de şöyle denilmiştir: Ebü Hureyre'nin bu hadisi sahih olup ravlleri güvenilir zatlardır"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 30,
+        "hadith": 57
+      }
+    },
+    {
+      "hadithNumber": 3428,
+      "arabicNumber": 3428,
+      "book": 30,
+      "hadithInBook": 58,
+      "text": {
+        "arabic": "حَدَّثَنَا بَكْرُ بْنُ خَلَفٍ أَبُو بِشْرٍ، حَدَّثَنَا يَزِيدُ بْنُ زُرَيْعٍ، عَنْ خَالِدٍ الْحَذَّاءِ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، قَالَ نَهَى رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ عَنِ التَّنَفُّسِ فِي الإِنَاءِ ‏.‏",
+        "translations": {
+          "en": "It was narrated that Ibn ‘Abbas said:“The Messenger of Allah (ﷺ) forbade breathing into the vessel.”",
+          "ur": "عبداللہ بن عباس رضی اللہ عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے برتن میں سانس لینے سے منع فرمایا۔",
+          "fr": "Rapporté par Ibn ‘Abbas : Le Messager d’Allah (ﷺ) a interdit de souffler dans le récipient",
+          "id": "Telah menceritakan kepada kami [Bakr bin Khalaf Abu Bisyr] telah menceritakan kepada kami [Yazid bin Zurai'] dari [Khalid Al Hadzdza`] dari ['Ikrimah] dari [Ibnu Abbas] dia berkata, \"Rasulullah shallallahu 'alaihi wasallam melarang bernafas dalam bejana (ketika minum)",
+          "tr": "İbn-i Abbâs (r.a.)'dan; Şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem) (bir şey içilirken) kabın içinde (yâni kabı ağızdan uzaklaştırmadan) nefes alıp vermeyi yasakladı"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 30,
+        "hadith": 58
+      }
+    },
+    {
+      "hadithNumber": 3429,
+      "arabicNumber": 3429,
+      "book": 30,
+      "hadithInBook": 59,
+      "text": {
+        "arabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ خَلاَّدٍ الْبَاهِلِيُّ، حَدَّثَنَا سُفْيَانُ، عَنْ عَبْدِ الْكَرِيمِ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، قَالَ نَهَى رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ أَنْ يُنْفَخَ فِي الإِنَاءِ ‏.‏",
+        "translations": {
+          "en": "It was narrated that Ibn ‘Abbas said:“The Messenger of Allah (ﷺ) forbade blowing into the vessel.”",
+          "ur": "عبداللہ بن عباس رضی اللہ عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے برتن میں پھونک مارنے سے منع فرمایا ہے۔",
+          "fr": "Rapporté par Ibn ‘Abbas : Le Messager d’Allah (ﷺ) a interdit de souffler dans le récipient",
+          "id": "Telah menceritakan kepada kami [Abu Bakar bin Khallad Al Bahili] telah menceritakan kepada kami [Sufyan] dari [Abdul Karim] dari ['Ikrimah] dari [Ibnu Abbas] dia berkata, \"Rasulullah shallallahu 'alaihi wasallam melarang meniup dalam bejana (saat minum)",
+          "tr": "İbn-i Abbâs (r.a.)'dan rivayet edildiğine göre: Resulullah (Sallallahu Aleyhi ve Sellem) kab'ın içine üflemeyi yasaklamıştır"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 30,
+        "hadith": 59
+      }
+    },
+    {
+      "hadithNumber": 3430,
+      "arabicNumber": 3430,
+      "book": 30,
+      "hadithInBook": 60,
+      "text": {
+        "arabic": "حَدَّثَنَا أَبُو كُرَيْبٍ، حَدَّثَنَا عَبْدُ الرَّحِيمِ بْنُ عَبْدِ الرَّحْمَنِ الْمُحَارِبِيُّ، عَنْ شَرِيكٍ، عَنْ عَبْدِ الْكَرِيمِ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، قَالَ لَمْ يَكُنْ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ يَنْفُخُ فِي الشَّرَابِ ‏.‏",
+        "translations": {
+          "en": "It was narrated that Ibn ‘Abbas said:“The Messenger of Allah (ﷺ) did not blow into his drinks.”",
+          "ur": "عبداللہ بن عباس رضی اللہ عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم مشروب میں پھونک نہیں مارتے تھے۔",
+          "fr": "Rapporté par Ibn ‘Abbas : Le Messager d’Allah (ﷺ) ne soufflait pas dans ses boissons",
+          "id": "Telah menceritakan kepada kami [Abu Kuraib] telah menceritakan kepada kami [Abdurrahim bin Abdurrahman Al Muharibi] dari [Syarik] dari [Abdul Karim] dari ['Ikrimah] dari [Ibnu Abbas] dia berkata, \"Rasulullah shallallahu 'alaihi wasallam tidak pernah meniup dalam bejana",
+          "tr": "İbn-i Abbâs (r.a.)'dan rivayet edildiğine göre: Resulullah (Sallallahu Aleyhi ve Sellem) içeceğe üflemezdi"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 30,
+        "hadith": 60
+      }
+    },
+    {
+      "hadithNumber": 3431,
+      "arabicNumber": 3431,
+      "book": 30,
+      "hadithInBook": 61,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُصَفَّى الْحِمْصِيُّ، حَدَّثَنَا بَقِيَّةُ، عَنْ مُسْلِمِ بْنِ عَبْدِ اللَّهِ، عَنْ زِيَادِ بْنِ عَبْدِ اللَّهِ، عَنْ عَاصِمِ بْنِ مُحَمَّدِ بْنِ زَيْدِ بْنِ عَبْدِ اللَّهِ بْنِ عُمَرَ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، قَالَ نَهَانَا رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ أَنْ نَشْرَبَ عَلَى بُطُونِنَا وَهُوَ الْكَرْعُ وَنَهَانَا أَنْ نَغْتَرِفَ بِالْيَدِ الْوَاحِدَةِ وَقَالَ ‏ \"‏ لاَ يَلَغْ أَحَدُكُمْ كَمَا يَلَغُ الْكَلْبُ وَلاَ يَشْرَبْ بِالْيَدِ الْوَاحِدَةِ كَمَا يَشْرَبُ الْقَوْمُ الَّذِينَ سَخِطَ اللَّهُ عَلَيْهِمْ وَلاَ يَشْرَبْ بِاللَّيْلِ مِنْ إِنَاءٍ حَتَّى يُحَرِّكَهُ إِلاَّ أَنْ يَكُونَ إِنَاءً مُخَمَّرًا وَمَنْ شَرِبَ بِيَدِهِ وَهُوَ يَقْدِرُ عَلَى إِنَاءٍ يُرِيدُ التَّوَاضُعَ كَتَبَ اللَّهُ لَهُ بِعَدَدِ أَصَابِعِهِ حَسَنَاتٍ وَهُوَ إِنَاءُ عِيسَى ابْنِ مَرْيَمَ عَلَيْهِمَا السَّلاَمُ إِذْ طَرَحَ الْقَدَحَ فَقَالَ أُفٍّ هَذَا مَعَ الدُّنْيَا ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated from ‘Asim bin Muhammad bin Zaid bin ‘Abdullah, from his father, that his grandfather said:“The Messenger of Allah (ﷺ) forbade us to drink while (lying) on our bellies, lapping up water, and he forbade us to drink from one hand only. He said: ‘None of you should lap up water as a dog does, and he should not drink water from one hand as the people with whom Allah is angry do, and he should not drink from a vessel at night without stirring it first, unless the vessel was covered. Whoever drinks from his hand when he is able to drink from a vessel, with the intention of humility, Allah will record good deeds equivalent to the number of fingers for him. It (i.e., the hand) is the vessel of ‘Eisa bin Maryam, (as) when he threw away the cup and said: ‘Ugh! That belongs to this world.’”",
+          "ur": "عبداللہ بن عمر رضی اللہ عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے ہمیں اوندھے منہ پیٹ کے بل لیٹ کر پینے سے منع فرمایا ہے، اور یہی «کرع» ہے، اور ہمیں اس بات سے بھی منع فرمایا کہ ایک ہاتھ سے چلو لیں، اور ارشاد فرمایا: تم میں سے کوئی کتے کی طرح برتن میں منہ نہ ڈالے، اور نہ ایک ہاتھ سے پئے، جیسا کہ وہ لوگ پیا کرتے تھے جن سے اللہ ناراض ہوا، رات میں برتن کو ہلائے بغیر اس میں سے نہ پئے مگر یہ کہ وہ ڈھکا ہوا ہو، اور جو شخص محض عاجزی و انکساری کی وجہ سے اپنے ہاتھ سے پانی پیتا ہے حالانکہ وہ برتن سے پینے کی استطاعت رکھتا ہے تو اللہ تعالیٰ اس کے لیے اس کی انگلیوں کی تعداد کے برابر نیکیاں لکھتا ہے، یہی عیسیٰ بن مریم علیہما السلام کا برتن تھا جب انہوں نے یہ کہہ کر پیالہ پھینک دیا: اف! یہ بھی دنیا کا سامان ہے ۔",
+          "fr": "Rapporté par ‘Asim bin Muhammad bin Zaid bin ‘Abdullah, de la part de son père, que son grand-père a dit : Le Messager d’Allah (ﷺ) nous a interdit de boire allongés sur le ventre, en lapant l’eau, et il nous a interdit de boire avec une seule main. Il a dit : “Aucun de vous ne doit laper l’eau comme le fait un chien, et il ne doit pas boire de l’eau avec une seule main comme le font les gens contre qui Allah est en colère, et il ne doit pas boire d’un récipient la nuit sans l’avoir remué d’abord, sauf si le récipient est couvert. Celui qui boit avec sa main alors qu’il peut boire dans un récipient, avec l’intention d’être humble, Allah lui inscrira autant de bonnes actions que de doigts. La main est le récipient de ‘Issa bin Maryam, car il a jeté la coupe en disant : “Beurk ! Cela appartient à ce monde.””",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Al Mushaffa Al Himshi] telah menceritakan kepada kami [Baqiyah] dari [Muslim bin Abdullah] dari [Ziyad bin Abdullah] dari ['Ashim bin Muhammad bin Zaid bin Abdullah bin Umar] dari [Ayahnya] dari [Kakeknya] dia berkata, \"Rasulullah shallallahu 'alaihi wasallam melarang kami minum langsung dengan mulut dalam bejana dan melarang mengambil air dengan tangan. Beliau bersabda: \"Janganlah salah seorang dari kalian menjilat sebagaimana anjing menjilat dan jangan minum dengan tangan satu sebagaimana kaum yang Allah murkai. Janganlah minum dalam bejana di malam hari sehingga ia menggoyang-goyangnya terlebih dahulu, kecuali jika bejananya tertutup. Barangsiapa minum dengan tangannya padahal ia mampu minum dengan bejana karena rasa tawadlu', maka Allah akan menuliskan setiap bilangan jarinya dengan kebaikan, dan itu adalah bejana Isa bin Maryam 'Alaihimassalaam, ketika dia melemparkan gelas dan berkata, 'Ah, ini adalah dunia",
+          "tr": "Abdullah bin Ömer (r.a.)'dan; Şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem) bizi yüzükoyun yatarak dudaklarla (yâni bardaksız ve avuçlamaksızın) su içmekten men etti ve tek elin avucuyla suyu avuçlayıp içmemizi yasakladı ve şöyle buyurdu: «Herhangi biriniz köpeğin su içtiği gibi (kabsız ve avuçsuz) dudakları ile su içmesin ve Allah'ın kızdığı kavmin içtiği gibi tek elin avucu ile içmesin. Geceleyin de kabı hareket ettirip kontrol etmedikçe ondan içmesin. Meğer ki kabın üstü ve ağzı iyice örtülü ola. Kim bir kab'dan içebildiği halde tevazu niyetiyle avuçlarıyla su içerse Allah ona parmakları sayısınca sevablar yazar. Avuç, Meryem oğlu İsâ aleyhisselâm'ın kabıdır. Çünkü İsa, bardağı atarak: Öf, bu dünya ile beraberdir, (Veya dünya ile beraber buna öf) dedi. Not: Zevaid'de şöyle denilmiştir: Bunun senedinde Bakiyye bulunur. Bu ravi tedlisçidir ve bu hadisi an'ane ile rivayet etmiştir. Ed-Oümeyrl de: Bu, münker bir hadistir. Yalnız müellif tarafından rivayet edilınşştir. Senedde anılan Zlyad bin Abdiilah tanınacak gibi değildir. Müellif onun yalnız bu hadisini rivayet etmiştir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Very Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 30,
+        "hadith": 61
+      }
+    },
+    {
+      "hadithNumber": 3432,
+      "arabicNumber": 3432,
+      "book": 30,
+      "hadithInBook": 62,
+      "text": {
+        "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ مَنْصُورٍ أَبُو بَكْرٍ، حَدَّثَنَا يُونُسُ بْنُ مُحَمَّدٍ، حَدَّثَنَا فُلَيْحُ بْنُ سُلَيْمَانَ، عَنْ سَعِيدِ بْنِ الْحَارِثِ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، قَالَ دَخَلَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ عَلَى رَجُلٍ مِنَ الأَنْصَارِ وَهُوَ يُحَوِّلُ الْمَاءَ فِي حَائِطِهِ فَقَالَ لَهُ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏ \"‏ إِنْ كَانَ عِنْدَكَ مَاءٌ بَاتَ فِي شَنٍّ فَاسْقِنَا وَإِلاَّ كَرَعْنَا ‏\"‏ ‏.‏ قَالَ عِنْدِي مَاءٌ بَاتَ فِي شَنٍّ ‏.‏ فَانْطَلَقَ وَانْطَلَقْنَا مَعَهُ إِلَى الْعَرِيشِ فَحَلَبَ لَهُ شَاةً عَلَى مَاءٍ بَاتَ فِي شَنٍّ فَشَرِبَ ثُمَّ فَعَلَ مِثْلَ ذَلِكَ بِصَاحِبِهِ الَّذِي مَعَهُ ‏.‏",
+        "translations": {
+          "en": "It was narrated that Jabir bin ‘Abdullah said:“The Messenger of Allah (ﷺ) entered upon a man among the Ansar when he was watering his garden. The Messenger of Allah (ﷺ) said to him: ‘If you have any water that has been kept overnight in a water skin, then give us some to drink, otherwise we will drink by putting out mouths in the basin.’ He said: ‘I have water that has been kept in a water skin. So he went and we went with him, to the shelter, where he milked a sheep for him and (mixed it with) the water that had been kept overnight in a water skin. He drank from it, then he did likewise for his Companion who was with him.”",
+          "ur": "جابر بن عبداللہ رضی اللہ عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم انصار کے ایک شخص کے پاس تشریف لے گئے، وہ اپنے باغ میں پانی دے رہا تھا، رسول اللہ صلی اللہ علیہ وسلم نے اس سے فرمایا: اگر تمہارے پاس مشک میں باسی پانی ہو تو ہمیں پلاؤ، ورنہ ہم بہتے پانی میں منہ لگا کر پئیں گے، اس نے جواب دیا: میرے پاس مشک میں باسی پانی ہے، چنانچہ وہ اور اس کے ساتھ ساتھ ہم چھپر کی طرف گئے، تو اس نے نبی اکرم صلی اللہ علیہ وسلم کی خاطر بکری کا دودھ دوھ کر اس باسی پانی میں ملایا جو مشک میں رکھا ہوا تھا، چنانچہ آپ صلی اللہ علیہ وسلم نے اسے پیا، پھر اس نے ایسا ہی آپ کے ساتھ موجود صحابی کے ساتھ کیا ۱؎۔",
+          "fr": "Rapporté par Jabir bin ‘Abdullah : Le Messager d’Allah (ﷺ) est entré chez un homme parmi les Ansar alors qu’il arrosait son jardin. Le Messager d’Allah (ﷺ) lui a dit : “Si tu as de l’eau qui a passé la nuit dans une outre, donne-nous-en à boire, sinon nous boirons en mettant notre bouche dans le bassin.” Il a répondu : “J’ai de l’eau qui a passé la nuit dans une outre.” Alors il est allé, et nous l’avons suivi jusqu’à l’abri, où il a trait une brebis pour lui et a mélangé le lait avec l’eau qui avait passé la nuit dans l’outre. Il en a bu, puis il a fait de même pour son compagnon qui était avec lui",
+          "id": "Telah menceritakan kepada kami [Ahmad bin Manshur Abu Bakar] telah menceritakan kepada kami [Yunus bin Muhammad] telah menceritakan kepada kami [Fulaih bin Sulaiman] dari [Sa'id bin Al Harits] dari [Jabir bin Abdullah] dia berkata, \"Rasulullah shallallahu 'alaihi wasallam mendatangi seorang laki-laki Anshar yang sedang membenahi aliran air di kebunnya. Rasulullah shallallahu 'alaihi wasallam lalu bersabda kepadanya: \"Jika kamu memiliki air yang yang ada dalam wadah maka berilah kami minum, jika tidak memiliki maka biarkanlah kami meminumnya langsung dari dalam aliran air yang ada.\" Laki-laki itu menjawab, \"Aku memiliki air yang ada dalam wadah.\" Laki-laki itu kemudian berlalu dan kami mengikutinya menuju sebuah gubuk (tempat berteduh), lalu ia memerah susu domba sebagai ganti air yang ada dalam bejana, beliau lalu meminumnya. Dan laki-laki itu juga melakukan hal yang serupa untuk sahabat yang bersama beliau",
+          "tr": "Câbir bin Abdülah (r.a.)'dan; Şöyle demiştir: Ensâr'dan bir adam (Ebü'l-Heysem) bostanında su'yu bir taraftan diğer bir taraf'a çevirmekte iken Resulullah (Sallallahu Aleyhi ve Sellem) (beraberinde Ebû Bekir (r.a.) olduğu halde) adam'ın bostanına girdi ve Resulullah (Sallallahu Aleyhi ve Sellem) adama: «Eğer senin yanında eski bir tulumda gecelemiş (yâni soğmuş) su varsa bize içir, yoksa biz şu sudan (bardaksız ve avuçlamaksızm) dudaklarımızla içeriz» buyurdu. Bostan sahibi: Yanımda eski bir tulumda gecelemiş su var, diyerek çardağa doğru yürüdü. Biz de onunla beraber gittik. Bostan sahibi eski bir tulumda gecelemiş bir mikdar su (yu bir bardağa koydu ve) üzerine Resulullah (Sallallahu Aleyhi ve Sellem) için bir koyun'un sütünden sağdı. Resulullah (Sallallahu Aleyhi ve Sellem) da (bunu) içti. Sonra bostan sahibi aynı şeyi O'nun beraberinde bulunan dostu (Ebû Bekir) için de yaptı"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 30,
+        "hadith": 62
+      }
+    },
+    {
+      "hadithNumber": 3433,
+      "arabicNumber": 3433,
+      "book": 30,
+      "hadithInBook": 63,
+      "text": {
+        "arabic": "حَدَّثَنَا وَاصِلُ بْنُ عَبْدِ الأَعْلَى، حَدَّثَنَا ابْنُ فُضَيْلٍ، عَنْ لَيْثٍ، عَنْ سَعِيدِ بْنِ عَامِرٍ، عَنِ ابْنِ عُمَرَ، قَالَ مَرَرْنَا عَلَى بِرْكَةٍ فَجَعَلْنَا نَكْرَعُ فِيهَا فَقَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏ \"‏ لاَ تَكْرَعُوا وَلَكِنِ اغْسِلُوا أَيْدِيَكُمْ ثُمَّ اشْرَبُوا فِيهَا فَإِنَّهُ لَيْسَ إِنَاءٌ أَطْيَبَ مِنَ الْيَدِ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated that Ibn ‘Umar said:“We passed by a pond and we started to lap up water from it. The Messenger of Allah (ﷺ) said: ‘Do not lap up the water, rather wash your hands then drink from them, for there is no better vessel than the hand.’”",
+          "ur": "عبداللہ بن عمر رضی اللہ عنہما کہتے ہیں کہ ایک حوض کے پاس سے ہمارا گزر ہوا تو ہم منہ لگا کے پانی پینے لگے، رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: منہ لگا کر پانی نہ پیو، بلکہ اپنے ہاتھوں کو دھو لو پھر ان سے پیو، اس لیے کہ ہاتھ سے زیادہ پاکیزہ کوئی برتن نہیں ۱؎۔",
+          "fr": "Rapporté par Ibn ‘Umar : Nous sommes passés près d’un bassin et nous avons commencé à laper l’eau. Le Messager d’Allah (ﷺ) a dit : “Ne lapez pas l’eau, lavez plutôt vos mains puis buvez avec elles, car il n’y a pas de meilleur récipient que la main.”",
+          "id": "Telah menceritakan kepada kami [Washil bin Abdul A'la] telah menceritakan kepada kami [Ibnu Fudlail] dari [Laits] dari [Sa'id bin 'Amir] dari [Ibnu Umar] dia berkata, \"Saat kami melewati suatu kolam, maka kami pun langsung minum dengan mulut ke dalam kolam tersebut. Rasulullah shallallahu 'alaihi wasallam lalu bersabda: \"Janganlah kalian minum langsung dengan mulut (ke dalam kolam), tetapi cucilah tangan-tangan kalian kemudian minumlah dengan tangan. Sesungguhnya tidak ada bejana yang lebih baik daripada tangan",
+          "tr": "İbn-i Ömer (r.a.)'dzn; Şöyle demiştir: Biz (bir yolculuk esnasında) bir havuza uğradık da ondan (kabsız ve avuçsuz) dudaklarımızla su içmeye başladık. Bunun üzerine Resulullah (Sallallahu Aleyhi ve Sellem): «(Kabsız ve avuçlamaksızın) dudaklarınızla içmeyiniz. Lakin ellerinizi (iyice) yıkayınız. Sonra avuçlarınızdan içiniz. Çünkü elden daha iyi bir kab yoktur» buyurdu"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 30,
+        "hadith": 63
+      }
+    },
+    {
+      "hadithNumber": 3434,
+      "arabicNumber": 3434,
+      "book": 30,
+      "hadithInBook": 64,
+      "text": {
+        "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ عَبْدَةَ، وَسُوَيْدُ بْنُ سَعِيدٍ، قَالاَ حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، عَنْ ثَابِتٍ الْبُنَانِيِّ، عَنْ عَبْدِ اللَّهِ بْنِ رَبَاحٍ، عَنْ أَبِي قَتَادَةَ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ ‏ \"‏ سَاقِي الْقَوْمِ آخِرُهُمْ شُرْبًا ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "It was narrated from Abu Qatadah that the Messenger of Allah (ﷺ) said:“The oen who serves water to others should be the last one to drink from it.”",
+          "ur": "ابوقتادہ رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: قوم کا ساقی ( پلانے والا ) سب سے آخر میں پیتا ہے ۔",
+          "fr": "Rapporté par Abu Qatadah : Le Messager d’Allah (ﷺ) a dit : “Celui qui sert de l’eau aux autres doit être le dernier à en boire.”",
+          "id": "Telah menceritakan kepada kami [Ahmad bin 'Abdah] dan [Suwaid bin Sa'id] keduanya berkata; telah menceritakan kepada kami [Hammad bin Zaid] dari [Tsabit Al Bunani] dari [Abdullah bin Rabah] dari [Abu Qatadah] dia berkata, \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Orang yang memberi minum kepada suatu kaum, maka ia adalah orang yang terakhir minum dari mereka",
+          "tr": "Ebû Katâde (r.a.)'den rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: «Topluluğa su ve benzeri meşrubatı sunan kişi içmek bakımından onların sonuncusudur.»"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 30,
+        "hadith": 64
+      }
+    },
+    {
+      "hadithNumber": 3435,
+      "arabicNumber": 3435,
+      "book": 30,
+      "hadithInBook": 65,
+      "text": {
+        "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ سِنَانٍ، حَدَّثَنَا زَيْدُ بْنُ الْحُبَابِ، حَدَّثَنَا مِنْدَلُ بْنُ عَلِيٍّ، عَنْ مُحَمَّدِ بْنِ إِسْحَاقَ، عَنِ الزُّهْرِيِّ، عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ، عَنِ ابْنِ عَبَّاسٍ، قَالَ كَانَ لِرَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ قَدَحٌ مِنْ قَوَارِيرَ يَشْرَبُ فِيهِ ‏.‏",
+        "translations": {
+          "en": "It was narrated that Ibn ‘Abbas said:“The Messenger of Allah (ﷺ) had a glass cup from which he would drink.”",
+          "ur": "عبداللہ بن عباس رضی اللہ عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم کے پاس شیشے کا ایک پیالہ تھا جس میں آپ پیتے تھے۔",
+          "fr": "Rapporté par Ibn ‘Abbas : Le Messager d’Allah (ﷺ) avait un gobelet en verre dans lequel il buvait",
+          "id": "Telah menceritakan kepada kami [Ahmad bin Sinan] telah menceritakan kepada kami [Zaid bin Al Hubbab] telah menceritakan kepada kami [Mandal bin Ali] dari [Muhammad bin Ishaq] dari [Az Zuhri] dari ['Ubaidullah bin Abdullah] dari [Ibnu Abbas] dia berkata, \"Rasulullah shallallahu 'alaihi wasallam memiliki gelas dari kaca yang digunakan untuk minum",
+          "tr": "İbn-i Abbâs (r.a.)'dan; Şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem)'in bir cam bardağı vardı, onda içiyordu.*' Not: Zevaid'de şöyle denilmiştir: Bunun senedinde Mendel bin Ali ve Muhammed bin İshak bulunur. Bu iki ravi de zayıftır"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Fouad Abd al-Baqi",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "majah",
+        "book": 30,
+        "hadith": 65
+      }
+    }
+  ],
+  "metadata": {
+    "averageLength": "medium",
+    "size": "44KB"
+  }
+}

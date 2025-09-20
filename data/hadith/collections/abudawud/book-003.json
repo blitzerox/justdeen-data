@@ -1,0 +1,1533 @@
+{
+  "collection": "abudawud",
+  "book": 3,
+  "name": {
+    "arabic": "كتاب The Book Of The Prayer For Rain (Kitab al-Istisqa')",
+    "transliteration": "kitab the prayer for rain (kitab al-istisqa')",
+    "translation": "The Book Of The Prayer For Rain (Kitab al-Istisqa')"
+  },
+  "totalHadith": 37,
+  "hadithNumberRange": {
+    "first": 1161,
+    "last": 1197
+  },
+  "content": [
+    {
+      "hadithNumber": 1161,
+      "arabicNumber": 1161,
+      "book": 3,
+      "hadithInBook": 1,
+      "text": {
+        "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ مُحَمَّدِ بْنِ ثَابِتٍ الْمَرْوَزِيُّ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، عَنْ عَبَّادِ بْنِ تَمِيمٍ، عَنْ عَمِّهِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم خَرَجَ بِالنَّاسِ لِيَسْتَسْقِيَ فَصَلَّى بِهِمْ رَكْعَتَيْنِ جَهَرَ بِالْقِرَاءَةِ فِيهِمَا وَحَوَّلَ رِدَاءَهُ وَرَفَعَ يَدَيْهِ فَدَعَا وَاسْتَسْقَى وَاسْتَقْبَلَ الْقِبْلَةَ ‏.‏",
+        "translations": {
+          "en": "Abbad b. Tamim (al-Muzini) reported on the authority of his uncle:The Messenger of Allah (ﷺ) took the people out (to the place of prayer) and prayed for rain. He led them in two rak'ahs of prayer in the course of which he recited from the Qur'an in a loud voice. He turned around his cloak and raised his hands, prayed for rain and faced the qiblah",
+          "ur": "عبداللہ بن زید بن عاصم رضی اللہ عنہ روایت کرتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم لوگوں کے ساتھ نماز استسقا کے لیے نکلے، تو آپ نے انہیں دو رکعت پڑھائی، جن میں بلند آواز سے قرأت کی اور اپنی چادر پلٹی اور قبلہ رخ ہو کر بارش کے لیے دونوں ہاتھ اٹھا کر دعا کی ۱؎۔",
+          "fr": "Abbad b. Tamim (al-Muzini) a rapporté de la part de son oncle : Le Messager d’Allah ﷺ a fait sortir les gens (vers le lieu de prière) et a prié pour demander la pluie. Il leur a fait faire deux rak‘as de prière pendant lesquelles il récitait le Coran à haute voix. Il a retourné son manteau, levé les mains, prié pour la pluie et s’est tourné vers la qibla",
+          "id": "Telah menceritakan kepada kami [Ahmad bin Muhammad bin Tsabit Al Mawarzi] telah menceritakan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari ['Abbad bin Tamim] dari [pamannya] bahwa Rasulullah shallallahu 'alaihi wasallam keluar bersama orang-orang untuk memohon hujan, lalu beliau shalat dua raka'at dengan mengeraskan bacaan pada raka'at tersebut, beliau membalik kain selendangnya sambil berdo'a dan memohon supaya di turunkan hujan dengan menghadap ke arah Kiblat",
+          "tr": "Abbâd b. Temîm, amcası (Abdullah b. Zeyd b. Âsim -r.a.-)'dan rivayet ettiğine göre; Resûlullah (S.A.V.) ashabı ile birlikte (namazgah'a) yağmur duasına çıkıp onlara iki rekat namaz kıldırdı. Bu rekatlerde kıbleye karşı durdu açıktan okudu, ridâsını ters çevirdi. Ellerini kaldırıp duâ etti ve yağmur istedi"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (1023) Sahih Muslim (894)"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 3,
+        "hadith": 1
+      }
+    },
+    {
+      "hadithNumber": 1162,
+      "arabicNumber": 1162,
+      "book": 3,
+      "hadithInBook": 2,
+      "text": {
+        "arabic": "حَدَّثَنَا ابْنُ السَّرْحِ، وَسُلَيْمَانُ بْنُ دَاوُدَ، قَالاَ أَخْبَرَنَا ابْنُ وَهْبٍ، قَالَ أَخْبَرَنِي ابْنُ أَبِي ذِئْبٍ، وَيُونُسُ، عَنِ ابْنِ شِهَابٍ، قَالَ أَخْبَرَنِي عَبَّادُ بْنُ تَمِيمٍ الْمَازِنِيُّ، أَنَّهُ سَمِعَ عَمَّهُ، - وَكَانَ مِنْ أَصْحَابِ رَسُولِ اللَّهِ صلى الله عليه وسلم يَقُولُ خَرَجَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَوْمًا يَسْتَسْقِي فَحَوَّلَ إِلَى النَّاسِ ظَهْرَهُ يَدْعُو اللَّهَ عَزَّ وَجَلَّ - قَالَ سُلَيْمَانُ بْنُ دَاوُدَ وَاسْتَقْبَلَ الْقِبْلَةَ وَحَوَّلَ رِدَاءَهُ ثُمَّ صَلَّى رَكْعَتَيْنِ - قَالَ ابْنُ أَبِي ذِئْبٍ - وَقَرَأَ فِيهِمَا زَادَ ابْنُ السَّرْحِ يُرِيدُ الْجَهْرَ ‏.‏",
+        "translations": {
+          "en": "Abbad b. Tamim al Mazini said on the authority of his uncle (Abd Allah b. Zaid b Asim) who was a Companion of the Messenger of Allah (ﷺ):One day the Messenger of Allah (ﷺ) went out to make supplication for rain. He turned his back towards the people praying to Allah, the Exalted. The narrator Sulaiman b. Dawud said: He faced the qiblah and turned around his cloak and then offered two rak'ahs of prayer. The narrator Ibn Abi Dhi'b said: He recited from the Qur'an in both of them. The version of Ibn al-Sarh adds: By it he means in a loud voice",
+          "ur": "ابن شہاب زہری کہتے ہیں کہ مجھے عباد بن تمیم مازنی نے خبر دی ہے کہ انہوں نے اپنے چچا ( عبداللہ بن زید بن عاصم رضی اللہ عنہ ) سے ( جو صحابی رسول تھے ) سنا کہ ایک روز رسول اللہ صلی اللہ علیہ وسلم لوگوں کو ساتھ لے کر نماز استسقا کے لیے نکلے اور لوگوں کی طرف اپنی پیٹھ کر کے اللہ عزوجل سے دعا کرتے رہے۔ سلیمان بن داود کی روایت میں ہے کہ آپ نے قبلہ کا استقبال کیا اور اپنی چادر پلٹی پھر دو رکعتیں پڑھیں۔ اور ابن ابی ذئب کی روایت میں ہے کہ آپ نے ان دونوں میں قرآت کی۔ ابن سرح نے یہ اضافہ کیا ہے کہ قرآت سے ان کی مراد جہری قرآت ہے۔",
+          "fr": "Abbad b. Tamim al-Mazini a dit au nom de son oncle (Abd Allah b. Zaid b. Asim), qui était Compagnon du Messager d’Allah ﷺ : Un jour, le Messager d’Allah ﷺ est sorti pour invoquer la pluie. Il s’est tourné le dos vers les gens en priant Allah, le Très-Haut. Le narrateur Sulaiman b. Dawud a dit : Il s’est tourné vers la qibla et a retourné son manteau, puis il a fait deux rak‘as de prière. Le narrateur Ibn Abi Dhi‘b a dit : Il a récité le Coran dans les deux rak‘as. La version d’Ibn al-Sarh ajoute : Cela signifie qu’il a récité à haute voix",
+          "id": "Telah menceritakan kepada kami [Ibnu As Sarh] dan [Sulaiman bin Daud] keduanya berkata; telah mengabarkan kepada kami [Ibnu Wahb] dia berkata; telah mengabarkan kepadaku [Ibnu Abu Dzi`b] dan [Yunus] dari [Ibnu Syihab] dia berkata; telah mengabarkan kepadaku ['Abbad bin Tamim Al Mazini] bahwa dia mendengar [pamannya] -dia termasuk dari salah seorang sahabat Rasulullah shallallahu 'alaihi wasallam- dia berkata; \"Pada suatu hari, Rasulullah shallallahu 'alaihi wasallam keluar untuk memohon hujan, lalu beliau membalikkan punggungnya dari orang-orang, beliau berdo'a kepada Allah 'azza wajalla.\" Sulaiman bin Daud mengatakan; \"Dengan menghadap ke arah Kiblat, kemudian beliau merubah posisi selendangnya, lalu shalat dua raka'at.\" Ibnu Abu Dzi`b berkata; \"…… dalam dua raka'at tersebut, beliau membaca (surat Al Qur'an).\" Ibnu Sarh menambahkan; \"Maksudnya dengan jelas.\" Telah menceritakan kepada kami [Muhammad bin 'Auf] dia berkata; \"Aku membaca di kitabnya ['Amru bin Al Harits yaitu Al Himshi] dari [Abdullah bin Salim] dari [Az Zubaidi] dari [Muhammad bin Muslim] seperti hadits ini berserta sanadnya, namun dia tidak menyebutkan 'Shalat', katanya; \"Kemudian beliau merubah posisi selendangnya, hingga ujung selendang kanannya di sebelah pundak kiri, dan ujung selendang di sebelah kiri menjadi di sebelah kanan, kemudian beliau berdo'a kepada Allah 'azza wajalla",
+          "tr": "Abbâd b. Temîm el-Mâzinî'den rivayet edildiğine göre; ashâbdan olan amcasını şöyle derken işitmiş: Bir gün Resûlullah (S.A.V.) yağmur duasına çıktı. Allah (c,c.)’ya duâ eder(ken), insanlara sırtını çevirerek -Süleyman b. Davud'un dedi(ğine göre), kıbleye döndü- elbisesini ters çevirdi. Sonra da iki rekat namaz kıldı. izah: Müslim, istiskâ; Tahâvî, Şerhu Meâni'l-âsâr, I, 324. Îbn Ebi Zi'b(rivayetinde) \"Resûlullah bu rekatlarde okudu\" de­di. Îbnu's-Serh de (İbn Ebi Zi'b'in bununla) \"açıktan okumayı\" kast ettiğini ilâve etti.[11] Hadisin senedine bakıldığı takdirde râvîlerin bazı tabakalarda birden fazla olduğu görülür. Bu durum, hadisin naklinde bazı farklılıkların ortaya çıkmasına sebeb olmuştur. Metindeki \"kıbleye döndü\" cümlesi müellifin şeyhlerinden Süleyman b. Davud'un rivayetinde olduğu hal­de, Îbnu's-Serh'in rivayetinde yer almamıştır. Hadisi îbn Şihâb'dan duyan râvîlerden Yûnus, H'z. Peygamberin istiska duâsındaki namazda birşey oku­duğuna dair hiçbir nakilde bulunmamış: İbn Ebî Zi'b ise, Efendimizin na­mazda okuduğunu haber vermiştir. tbnu's-Serh bu kıraatin cehri olduğunu söylemiştir. Hadis-i şerifin Müslim'deki rivayetinde de kıraatten hiç söz edilmemek­tedir. Geride kalan kısımda, oradaki ifadelerle, Ebü Dâvûd'daki ifadeler ara­sında pek fark göze çarpmamaktadır. Hz. Peygamber'in dua ederken sırtını insanlara döndü,meşine sebep kıb­leyi önüne alma arzusudur. Anlaşıldığına göre Efendimizin durduğu yer, ce­maatle kıblenin arasına düşüyordu. Onun için Resûlullah namazda olduğu gibi sırtını cemaate çevirmek zorunda kaldı. Hadiste \"sırtını cemaate verdi\" ifâdesinin yanında, \"kıbleye döndü\" sözünün zaid olduğu hatıra gelebilir. Ama İbn Hacer'in beyânına göre, bunlar arasında fark vardır. Sırtım cema­ate verdiği halde, tam kıbleye yönelmemesi bunun için de yönünü biraz da­ha çevirmiş olması muhtemeldir. Hz. Peygamberin bu hareketi, duâ esnasında kıbleye karşı durmanın sünnet olduğunu gösterir. Metinde de görüldüğü üzere, bu rivâyetde Fahr-i Kâinat Efendimizin çıktığı bir yağmur duasında duanın yanı sıra elbisesini ters çevirdiği ve iki rek'at namaz kıldığı haber verilmektedir. Bu hususlar hakkında bir önceki hadiste yeterli bilgi verilmiştir. Ancak yukarıdaki rivayette önce namaz da­ha sonra da dua zikredilmişti. Burada ise, Efendimizin evvelâ dua edip son­ra namaz kıldıkları beyân edilmektedir. Fakat bu farklılık hadisler arasında bir tezat olduğunu göstermez. Çünkü Resûlullah'm birden çok yağmur dua­sına çıkıp her iki rivayette belirtilen şekilleri uygulamış olması mümkündür"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (1023) Sahih Muslim (894)"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 3,
+        "hadith": 2
+      }
+    },
+    {
+      "hadithNumber": 1163,
+      "arabicNumber": 1163,
+      "book": 3,
+      "hadithInBook": 3,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عَوْفٍ، قَالَ قَرَأْتُ فِي كِتَابِ عَمْرِو بْنِ الْحَارِثِ - يَعْنِي الْحِمْصِيَّ - عَنْ عَبْدِ اللَّهِ بْنِ سَالِمٍ، عَنِ الزُّبَيْدِيِّ، عَنْ مُحَمَّدِ بْنِ مُسْلِمٍ، بِهَذَا الْحَدِيثِ بِإِسْنَادِهِ لَمْ يَذْكُرِ الصَّلاَةَ قَالَ وَحَوَّلَ رِدَاءَهُ فَجَعَلَ عِطَافَهُ الأَيْمَنَ عَلَى عَاتِقِهِ الأَيْسَرِ وَجَعَلَ عِطَافَهُ الأَيْسَرَ عَلَى عَاتِقِهِ الأَيْمَنِ ثُمَّ دَعَا اللَّهَ عَزَّ وَجَلَّ ‏.‏",
+        "translations": {
+          "en": "The above-mentioned tradition has also been transmitted by Muhammad b. Muslim through a different chain of narrators. But there is no mention of prayer in this version. The version adds:\"He turned around his cloak, putting its right side on his left shoulder and its left side on his right shoulder. Thereafter he made supplication to Allah",
+          "ur": "اس طریق سے بھی محمد بن مسلم (ابن شہاب زہری) سے سابقہ سند سے یہی حدیث مروی ہے اس میں راوی نے نماز کا ذکر نہیں کیا ہے اس میں ہے: آپ صلی اللہ علیہ وسلم نے اپنی چادر پلٹی تو چادر کا داہنا کنارہ اپنے بائیں کندھے پر اور بایاں کنارہ اپنے داہنے کندھے پر کر لیا، پھر اللہ عزوجل سے دعا کی۔",
+          "fr": "La tradition mentionnée ci-dessus a aussi été transmise par Muhammad b. Muslim par une autre chaîne de rapporteurs. Mais cette version ne mentionne pas la prière. Elle ajoute : « Il a retourné son manteau, mettant le côté droit sur son épaule gauche et le côté gauche sur son épaule droite. Ensuite, il a invoqué Allah. »",
+          "tr": "(Muhammed b. Velîd) ez-Zübeydî, bu (önce geçen 1162.) hadisi, Muhammed b. Müslim'den aynı senedle rivayet etmiş, namazı (Resûlullah'ın namaz kıldığını) zikretmemiştir. (Zübeydî rivayetinde) şöyle dedi: Resûlullah (S.A.V.) ridâsını çevirip, sağ tarafını sol omuzu üzerine, sol tarafını da sağ omuzu üzerine koydu. Sonra Azîz ve Ccelîl olan ALLAH'A dua etti"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 3,
+        "hadith": 3
+      }
+    },
+    {
+      "hadithNumber": 1164,
+      "arabicNumber": 1164,
+      "book": 3,
+      "hadithInBook": 4,
+      "text": {
+        "arabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا عَبْدُ الْعَزِيزِ، عَنْ عُمَارَةَ بْنِ غَزِيَّةَ، عَنْ عَبَّادِ بْنِ تَمِيمٍ، أَنَّ عَبْدَ اللَّهِ بْنَ زَيْدٍ، قَالَ اسْتَسْقَى رَسُولُ اللَّهِ صلى الله عليه وسلم وَعَلَيْهِ خَمِيصَةٌ لَهُ سَوْدَاءُ فَأَرَادَ رَسُولُ اللَّهِ صلى الله عليه وسلم أَنْ يَأْخُذَ بِأَسْفَلِهَا فَيَجْعَلَهُ أَعْلاَهَا فَلَمَّا ثَقُلَتْ قَلَبَهَا عَلَى عَاتِقِهِ ‏.‏",
+        "translations": {
+          "en": "Abd Allah b. Zaid said:The Messenger of Allah (pbuh)prayed for rain wearing a black robe with ornamented border. The Messenger of Allah (pbuh)wanted to reverse it from bottom to top by holding the bottom. But when it was too heavy he turned it round on his shoulders",
+          "ur": "عبداللہ بن زید رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے نماز استسقا پڑھی، آپ صلی اللہ علیہ وسلم کے اوپر ایک سیاہ چادر تھی تو آپ نے اس کے نچلے کنارے کو پکڑنے اور پلٹ کر اسے اوپر کرنے کا ارادہ کیا جب وہ بھاری لگی تو اسے اپنے کندھے ہی پر پلٹ لیا۔",
+          "fr": "Rapporté par Abd Allah b. Zaid : Le Messager d’Allah ﷺ a prié pour la pluie en portant un manteau noir à bordure décorée. Il a voulu le retourner de bas en haut en tenant le bas, mais comme il était trop lourd, il l’a simplement tourné sur ses épaules",
+          "id": "Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Abdul Aziz] dari ['Umarah bin Ghaziyah] dari ['Abbad bin Tamim] bahwa [Abdullah bin Zaid] berkata; \"Rasulullah shallallahu 'alaihi wasallam memohon di turunkannya hujan, sedangkan waktu itu beliau memakai pakaian berwarna hitam, beliau keberatan ketika hendak meletakkan bagian kain yang ada di bawah ke atas, maka beliau membaliknya di atas pundak",
+          "tr": "Abdullah b. Zeyd (r.a.)'den; demiştir ki: Resûlullah (S.A.V.) üzerinde Hamîsa denilen siyah elbisesi olduğu halde yağmur duasına çıktı. Resûlullah (önce) elbisesinin aşağısını yukarıya koymak istedi. Fakat ağır gelince, sağ tarafını sol, sol tarafını da sağ omuzu üzerine koydu"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 3,
+        "hadith": 4
+      }
+    },
+    {
+      "hadithNumber": 1165,
+      "arabicNumber": 1165,
+      "book": 3,
+      "hadithInBook": 5,
+      "text": {
+        "arabic": "حَدَّثَنَا النُّفَيْلِيُّ، وَعُثْمَانُ بْنُ أَبِي شَيْبَةَ، نَحْوَهُ قَالاَ حَدَّثَنَا حَاتِمُ بْنُ إِسْمَاعِيلَ، حَدَّثَنَا هِشَامُ بْنُ إِسْحَاقَ بْنِ عَبْدِ اللَّهِ بْنِ كِنَانَةَ، قَالَ أَخْبَرَنِي أَبِي قَالَ، أَرْسَلَنِي الْوَلِيدُ بْنُ عُتْبَةَ - قَالَ عُثْمَانُ ابْنُ عُقْبَةَ وَكَانَ أَمِيرَ الْمَدِينَةِ - إِلَى ابْنِ عَبَّاسٍ أَسْأَلُهُ عَنْ صَلاَةِ، رَسُولِ اللَّهِ صلى الله عليه وسلم فِي الاِسْتِسْقَاءِ فَقَالَ خَرَجَ رَسُولُ اللَّهِ صلى الله عليه وسلم مُتَبَذِّلاً مُتَوَاضِعًا مُتَضَرِّعًا حَتَّى أَتَى الْمُصَلَّى - زَادَ عُثْمَانُ فَرَقِيَ عَلَى الْمِنْبَرِ ثُمَّ اتَّفَقَا - وَلَمْ يَخْطُبْ خُطَبَكُمْ هَذِهِ وَلَكِنْ لَمْ يَزَلْ فِي الدُّعَاءِ وَالتَّضَرُّعِ وَالتَّكْبِيرِ ثُمَّ صَلَّى رَكْعَتَيْنِ كَمَا يُصَلِّي فِي الْعِيدِ ‏.‏ قَالَ أَبُو دَاوُدَ وَالإِخْبَارُ لِلنُّفَيْلِيِّ وَالصَّوَابُ ابْنُ عُتْبَةَ ‏.‏",
+        "translations": {
+          "en": "Narrated Abdullah ibn Abbas: Ishaq ibn Abdullah ibn Kinanah reported: Al-Walid ibn Utbah or (according to the version of Uthman) al-Walid ibn Uqbah, the then governor of Medina, sent me to Ibn Abbas to ask him about the prayer for rain offered by the Messenger of Allah (ﷺ). He said: The Messenger of Allah (ﷺ) went out wearing old clothes in a humble and lowly manner until he reached the place of prayer. He then ascended the pulpit, but he did not deliver the sermon as you deliver (usually). He remained engaged in making supplication, showing humbleness (to Allah) and uttering the takbir (Allah is most great). He then offered two rak'ahs of prayer as done on the 'Id (festival). Abu Dawud said: This is the version of al-Nufail. What is correct is Ibn Utbah's",
+          "ur": "ہشام بن اسحاق بن عبداللہ بن کنانہ کہتے ہیں کہ میرے والد نے مجھے خبر دی ہے کہ مجھے ولید بن عتبہ نے ( عثمان کی روایت میں ولید بن عقبہ ہے، جو مدینہ کے حاکم تھے ) ابن عباس رضی اللہ عنہما کے پاس بھیجا کہ میں جا کر ان سے رسول اللہ صلی اللہ علیہ وسلم کی نماز استسقا کے بارے پوچھوں تو انہوں نے کہا: رسول اللہ صلی اللہ علیہ وسلم پھٹے پرانے لباس میں عاجزی کے ساتھ گریہ وزاری کرتے ہوئے عید گاہ تک تشریف لائے، عثمان بن ابی شیبہ کی روایت میں اتنا اضافہ ہے کہ آپ منبر پر چڑھے، آگے دونوں راوی روایت میں متفق ہیں: آپ نے تمہارے ان خطبوں کی طرح خطبہ نہیں دیا، بلکہ آپ برابر دعا، گریہ وزاری اور تکبیر میں لگے رہے، پھر دو رکعتیں پڑھیں جیسے عید میں دو رکعتیں پڑھتے ہیں۔ ابوداؤد کہتے ہیں: روایت نفیلی کی ہے اور صحیح ولید بن عقبہ ہے۔",
+          "fr": "Rapporté par Abdullah ibn Abbas : Ishaq ibn Abdullah ibn Kinanah a rapporté : Al-Walid ibn Utbah (ou, selon la version de Uthman, al-Walid ibn Uqbah), alors gouverneur de Médine, m’a envoyé chez Ibn Abbas pour lui demander comment le Messager d’Allah ﷺ priait pour la pluie. Il a répondu : Le Messager d’Allah ﷺ est sorti en portant de vieux vêtements, avec humilité, jusqu’au lieu de prière. Il est ensuite monté sur le minbar, mais il n’a pas prononcé le sermon comme vous le faites habituellement. Il s’est contenté d’invoquer Allah, montrant son humilité et disant le takbir (Allah est le plus Grand). Ensuite, il a fait deux rak‘as de prière comme pour l’Aïd. Abu Dawud a dit : Ceci est la version d’al-Nufail. Ce qui est correct, c’est la version d’Ibn Utbah",
+          "id": "Telah menceritakan kepada kami [An Nufaili] dan [Utsman bin Abu Syaibah] semisalnya, keduanya berkata; telah menceritakan kepada kami [Hatim bin Ismail] telah berkata kepada kami [Hisyam bin Ishak bin Abdullah bin Kinanah] dia berkata; telah mengabarkan kepadau [ayahku] dia berkata; bahwa AlWalid bin Utbah-atau Utsman bin Uqbah- gubernur Madinah mengutus aku untuk menemui Ibnu Abbas untuk menanyakan kepadanya tentang shalat istisqa yang dilakukan Rasulullah Shollallahu alaihi wasallam, maka [Ibnu Abbas] menjawab bahwa Rasulullah Shollallahu alaihi wasallam keluar untuk melaksanakan shalat istisqa dalam keadaan lusuh, tawadhu' dan khusyu' hingga beliau sampai di tempat shalat- Utsman menambahkan- kemudian beliau naik mimbar -dan keduanya sepakat bahwa- beliau tidak khutbah, akan tetapi beliau berdo'a dan betul-betul khusyu' dalam berdo'a dan beliau bertakbir kemudian beliau shalat dua rakaat sebagaimana shalat Ied. Abu Daud berkata ikhbar bagi Nufaili dan yang benar adalah Ibnu Uqbah",
+          "tr": "İshak b. Abdullah b. Kinâne'den; demiştir ki: Velid b. Utbe -Osman'ın dediğine göre Velid b. Ukbe- Medine valisi iken, beni Resûlullah (S.A.V.)'in yağmur duasında (kıldığı) namazını sormam için İbn Abbâs (r.anhumâ)'ya gönderdi. (Gidib İbn Abbâs'a sordum) o da şöyle dedi: Resûlullah (S.A.V.) iş (eski) elbisesini giymiş, mütevâzı bir vaziyette tezarru içinde musallaya kadar geldi. -Osman, \"Minberin üzerine çıktı\" cümlesini ilâve etti- sizin şu hutbeniz gibi hutbe okumadı. Fakat dua, tazarru ve tekbire devam etti. Sonra bayramda kıldığı gibi iki rekat namaz kıldı. Ebû Dâvûd dedi ki: Seneddeki (İshâk b. Abdullah'ın söylediği) ifâdesi, Nufeyli’ye aittir. Doğrusu îbn Ukbe değil, İbn Utbe’dir. Diğer tahric: Tirmizî, cuma; Nesaî, istiskâ; ibn Mâce, ikâme; Ahmed b. Hanbel, I, 23, 269, 355; Dârekutnî, Sünen II, 68; Beyhakî, es-Sünenu'l-kubrâ, III, 347; Hâkim, el-Musiedrek, I"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 3,
+        "hadith": 5
+      },
+      "narrator": {
+        "en": "Abdullah ibn Abbas"
+      }
+    },
+    {
+      "hadithNumber": 1166,
+      "arabicNumber": 1166,
+      "book": 3,
+      "hadithInBook": 6,
+      "text": {
+        "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، حَدَّثَنَا سُلَيْمَانُ، - يَعْنِي ابْنَ بِلاَلٍ - عَنْ يَحْيَى، عَنْ أَبِي بَكْرِ بْنِ مُحَمَّدٍ، عَنْ عَبَّادِ بْنِ تَمِيمٍ، أَنَّ عَبْدَ اللَّهِ بْنَ زَيْدٍ، أَخْبَرَهُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم خَرَجَ إِلَى الْمُصَلَّى يَسْتَسْقِي وَأَنَّهُ لَمَّا أَرَادَ أَنْ يَدْعُوَ اسْتَقْبَلَ الْقِبْلَةَ ثُمَّ حَوَّلَ رِدَاءَهُ ‏.‏",
+        "translations": {
+          "en": "Abd Allah b. Zaid said:The Messenger of Allah (pbuh)went out to the place of prayer to pray for rain. When he wanted to make supplication, he faced the qiblah and turned around his cloak",
+          "ur": "عبداللہ بن زید رضی اللہ عنہ سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم عید گاہ کی طرف بارش طلب کرنے کی غرض سے نکلے، جب آپ نے دعا کرنے کا ارادہ کیا تو قبلہ رخ ہوئے پھر اپنی چادر پلٹی۔",
+          "fr": "Rapporté par Abd Allah b. Zaid : Le Messager d’Allah ﷺ est sorti au lieu de prière pour demander la pluie. Quand il a voulu invoquer, il s’est tourné vers la qibla et a retourné son manteau",
+          "id": "Telah menceritakan kepada kami [Abdullah bin Maslamah] telah menceritakan kepada kami [Sulaiman yaitu Ibnu Bilal] dari [Yahya] dari [Abu Bakr bin Muhammad] dari ['Abbad bin Tamim] bahwa [Abdullah bin Zaid] telah mengabarkan kepadanya, bahwa Rasulullah shallallahu 'alaihi wasallam keluar menuju Mushalla (tempat shalat) memohon di turunkannya hujan, dan ketika beliau hendak berdo'a, beliau menghadap kiblat sambil merubah posisi selendangnya",
+          "tr": "Abdullah b. Zeyd (r.a.)'in haber verdiğine göre; Resûlullah (S.A.V.) yağmur duası için musallaya çıktı, duâ etmek isteyince kıbleye döndü sonra da ridâsım ters çevirdi. Ayrıca bakınız: 1161 numaralı hadisin kaynakları"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (1023) Sahih Muslim (894)"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 3,
+        "hadith": 6
+      }
+    },
+    {
+      "hadithNumber": 1167,
+      "arabicNumber": 1167,
+      "book": 3,
+      "hadithInBook": 7,
+      "text": {
+        "arabic": "حَدَّثَنَا الْقَعْنَبِيُّ، عَنْ مَالِكٍ، عَنْ عَبْدِ اللَّهِ بْنِ أَبِي بَكْرٍ، أَنَّهُ سَمِعَ عَبَّادَ بْنَ تَمِيمٍ، يَقُولُ سَمِعْتُ عَبْدَ اللَّهِ بْنَ زَيْدٍ الْمَازِنِيَّ، يَقُولُ خَرَجَ رَسُولُ اللَّهِ صلى الله عليه وسلم إِلَى الْمُصَلَّى فَاسْتَسْقَى وَحَوَّلَ رِدَاءَهُ حِينَ اسْتَقْبَلَ الْقِبْلَةَ ‏.‏",
+        "translations": {
+          "en": "Narrated Abd Allah b. Zaid al Mazini:Abd Allah b. Zaid al Mazini said: The Messenger of Allah (pbuh) went out to the place of prayer and made supplication or rain, and turned around his cloak when the faced the qiblah",
+          "ur": "عبداللہ بن زید مازنی رضی اللہ عنہ سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم عید گاہ کی طرف نکلے، اور ( اللہ تعالیٰ سے ) بارش طلب کی، اور جس وقت قبلہ رخ ہوئے، اپنی چادر پلٹی۔",
+          "fr": "Rapporté par Abd Allah b. Zaid al-Mazini : Le Messager d’Allah ﷺ est sorti au lieu de prière pour demander la pluie, et il a retourné son manteau lorsqu’il s’est tourné vers la qibla",
+          "id": "Telah menceritakan kepada kami [Al Qa'nabi] dari [Malik] dari [Abdullah bin Abu Bakr] bahwa dia mendengar ['Abbad bin Tamim] berkata; saya mendengar [Abdullah bin Zaid Al Mazini] berkata; \"Rasulullah shallallahu 'alaihi wasallam keluar menuju mushalla (tempat shalat), kemudian beliau (berdo'a) memohon di turunkannya hujan, beliau merubah posisi selendangnya sambil menghadap ke Kiblat",
+          "tr": "Abdullah b. Zeyd el-Mâzinî şöyle der: Resûlullah (S.A.V.) musallaya çıkıp yağmur duası yaptı. Kıbleye döndüğü zaman ridâ (cübbe)sini ters çevirdi"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (1023) Sahih Muslim (894)"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 3,
+        "hadith": 7
+      },
+      "narrator": {
+        "en": "Abd Allah b. Zaid al Mazini"
+      }
+    },
+    {
+      "hadithNumber": 1168,
+      "arabicNumber": 1168,
+      "book": 3,
+      "hadithInBook": 8,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ سَلَمَةَ الْمُرَادِيُّ، أَخْبَرَنَا ابْنُ وَهْبٍ، عَنْ حَيْوَةَ، وَعُمَرَ بْنِ مَالِكٍ، عَنِ ابْنِ الْهَادِ، عَنْ مُحَمَّدِ بْنِ إِبْرَاهِيمَ، عَنْ عُمَيْرٍ، مَوْلَى بَنِي آبِي اللَّحْمِ أَنَّهُ رَأَى النَّبِيَّ صلى الله عليه وسلم يَسْتَسْقِي عِنْدَ أَحْجَارِ الزَّيْتِ قَرِيبًا مِنَ الزَّوْرَاءِ قَائِمًا يَدْعُو يَسْتَسْقِي رَافِعًا يَدَيْهِ قِبَلَ وَجْهِهِ لاَ يُجَاوِزُ بِهِمَا رَأْسَهُ ‏.‏",
+        "translations": {
+          "en": "Narrated Umayr, the client of AbulLahm: Umayr saw the Prophet (ﷺ) praying for rain at Ahjar az-Zayt near az-Zawra', standing, making supplication, praying for rain and raising his hands in front of his face, but not lifting them above his head",
+          "ur": "عمیر مولیٰ آبی اللحم رضی اللہ عنہ سے روایت ہے کہ انہوں نے نبی اکرم صلی اللہ علیہ وسلم کو زوراء کے قریب احجار زیت کے پاس کھڑے ہو کر ( اللہ تعالیٰ سے ) بارش طلب کرتے ہوئے دیکھا، آپ صلی اللہ علیہ وسلم اپنے دونوں ہاتھ چہرے کی طرف اٹھائے بارش کے لیے دعا کر رہے تھے اور انہیں اپنے سر سے اوپر نہیں ہونے دیتے تھے۔",
+          "fr": "Rapporté par Umayr, le client d’Abu Lahm : Umayr a vu le Prophète ﷺ prier pour la pluie à Ahjar az-Zayt près de az-Zawra‘, debout, invoquant Allah, priant pour la pluie et levant les mains devant son visage, sans les élever au-dessus de sa tête",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Salamah Al Muradi] telah mengabarkan kepada kami [Ibnu wahb] dari [Haiwah] dan [Umar bin Malik] dari [Ibnul Had] dari [Muhammad bin Ibrahim] dari ['Umair bekas budak Bani Abu Lahm] bahwa dia melihat Nabi shallallahu 'alaihi wasallam memohon supaya di turunkannya hujan di Ahjaruz Zait dekat Zaura` dengan berdiri sambil berdo'a memohon diturunkannya hujan seraya mengangkat kedua tangannya ke depan dan tidak melebihi kepalanya",
+          "tr": "Ben-i Âbî'l-Lahm'ın azadlısı Umeyr'den; Resûlullah (S.A.V.)'i Ahcaru'z-zeyt'de Zevrâ'ya yakın bir yerde ayakta durarak ellerini başına kadar yükseltmeden yüzüne doğru kaldırmış bir vaziyette yağmur için dua ederken gördüğü rivayet edilmiştir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 3,
+        "hadith": 8
+      },
+      "narrator": {
+        "en": "Umayr, the client of AbulLahm"
+      }
+    },
+    {
+      "hadithNumber": 1169,
+      "arabicNumber": 1169,
+      "book": 3,
+      "hadithInBook": 9,
+      "text": {
+        "arabic": "حَدَّثَنَا ابْنُ أَبِي خَلَفٍ، حَدَّثَنَا مُحَمَّدُ بْنُ عُبَيْدٍ، حَدَّثَنَا مِسْعَرٌ، عَنْ يَزِيدَ الْفَقِيرِ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، قَالَ أَتَتِ النَّبِيَّ صلى الله عليه وسلم بَوَاكِي فَقَالَ ‏ \"‏ اللَّهُمَّ اسْقِنَا غَيْثًا مُغِيثًا مَرِيئًا مَرِيعاً نَافِعًا غَيْرَ ضَارٍّ عَاجِلاً غَيْرَ آجِلٍ ‏\"‏ ‏.‏ قَالَ فَأَطْبَقَتْ عَلَيْهِمُ السَّمَاءُ ‏.‏",
+        "translations": {
+          "en": "Narrated Jabir ibn Abdullah: The people came to the Prophet (ﷺ) weeping (due to drought). He said (making supplication): O Allah! give us rain which will replenish us, abundant, fertilising and profitable, not injurious, granting it now without delay. He (the narrator) said: Thereupon the sky became overcast",
+          "fr": "Rapporté par Jabir ibn Abdullah : Les gens sont venus voir le Prophète ﷺ en pleurant à cause de la sécheresse. Il a alors invoqué : « Ô Allah ! Donne-nous une pluie qui nous redonne des forces, abondante, féconde et bénéfique, sans nous nuire, accorde-la-nous sans tarder. » Le narrateur dit : À ce moment-là, le ciel s’est couvert de nuages",
+          "id": "Telah menceritakan kepada kami [Ibnu Abu Khalaf] telah menceritakan kepada kami [Muhammad bin 'Ubaid] telah menceritakan kepada kami [Mis'ar] dari [Yazid Al Faqir] dari [Jabir bin Abdillah] dia berkata; \"Beberapa wanita mendatangi Rasulullah shallallahu 'alaihi wasallam sambil menangis (karena kekeringan), kemudian beliau berdo'a: \"Allahummasqina ghaitsan mughitsan mari'an nafi'an ghair dharrin 'ajilan ghaira ajilin\" (ya Allah, turunkanlah kepada kami hujan yang dapat menolong kami, yang menyenangkan kami, menyuburkan lagi bermanfaat dan tidak membahayakan, segera jangan ditunda-tunda).\" Seketika itu juga, langit menurunkan hujannya atas mereka",
+          "tr": "Cabir b. Abdillah (r.a.)'den; demiştir ki: Nebiyyi zîşan (S.A.V.)'e ağlayan kadınlar geldiler (başlarına gelen kuraklığın sona ermesi için duâ etmesini istediler). Bunun üzerine Resûl-i Ekrem (Sallallahu aleyhi ve Sellem): \"Allah'ım! Bize yardım eden, bereketli otu bol, zararlı değil yararlı, vadeli değil acele yağmur ihsan et\" diye duâ etti. Akabinde gökyüzü kat kat oldu (bulutlarla doldu)"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 3,
+        "hadith": 9
+      },
+      "narrator": {
+        "en": "Jabir ibn Abdullah"
+      }
+    },
+    {
+      "hadithNumber": 1170,
+      "arabicNumber": 1170,
+      "book": 3,
+      "hadithInBook": 10,
+      "text": {
+        "arabic": "حَدَّثَنَا نَصْرُ بْنُ عَلِيٍّ، أَخْبَرَنَا يَزِيدُ بْنُ زُرَيْعٍ، حَدَّثَنَا سَعِيدٌ، عَنْ قَتَادَةَ، عَنْ أَنَسٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ لاَ يَرْفَعُ يَدَيْهِ فِي شَىْءٍ مِنَ الدُّعَاءِ إِلاَّ فِي الاِسْتِسْقَاءِ فَإِنَّهُ كَانَ يَرْفَعُ يَدَيْهِ حَتَّى يُرَى بَيَاضُ إِبْطَيْهِ ‏.‏",
+        "translations": {
+          "en": "Narrated Anas:The Prophet (peace be upon him) was not accustomed to raise his hands in any supplication he made except when praying for rain. He would then raise them high enough so much so that the whiteness of his armpits was visible",
+          "ur": "انس رضی اللہ عنہ وہ کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم استسقا کے علاوہ کسی دعا میں ( اتنا ) ہاتھ نہیں اٹھاتے تھے ( اس موقعہ پر ) آپ اپنے دونوں ہاتھ اتنا اٹھاتے کہ آپ کی بغلوں کی سفیدی دیکھی جا سکتی تھی ۱؎۔",
+          "fr": "Rapporté par Anas : Le Prophète ﷺ n’avait pas l’habitude de lever les mains dans ses invocations, sauf lorsqu’il priait pour la pluie. Alors il les levait si haut qu’on voyait la blancheur de ses aisselles",
+          "id": "Telah menceritakan kepada kami [Nashr bin Ali] telah mengabarkan kepada kami [Yazid bin Zurai'] telah menceritakan kepada kami [Sa'id] dari [Qatadah] dari [Anas] bahwa Nabi shallallahu 'alaihi wasallam tidak pernah mengangkat kedua tangannya ketika berdo'a kecuali ketika meminta hujan, ketika itu beliau mengangkat kedua tangan beliau sehingga terlihat putih ketiaknya",
+          "tr": "Enes (r.a.)’den rivayet edildiğine göre; Resûlullah (S.A.V.) istiskanın haricindeki hiçbir duada ellerini kaldırmazdı. (İstiskâda ise) koltuklarının beyazı görününceye kadar (ellerini) kaldırırdı"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (3565) Sahih Muslim (896)"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 3,
+        "hadith": 10
+      },
+      "narrator": {
+        "en": "Anas"
+      }
+    },
+    {
+      "hadithNumber": 1171,
+      "arabicNumber": 1171,
+      "book": 3,
+      "hadithInBook": 11,
+      "text": {
+        "arabic": "حَدَّثَنَا الْحَسَنُ بْنُ مُحَمَّدٍ الزَّعْفَرَانِيُّ، حَدَّثَنَا عَفَّانُ، حَدَّثَنَا حَمَّادٌ، أَخْبَرَنَا ثَابِتٌ، عَنْ أَنَسٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ يَسْتَسْقِي هَكَذَا يَعْنِي وَمَدَّ يَدَيْهِ وَجَعَلَ بُطُونَهُمَا مِمَّا يَلِي الأَرْضَ حَتَّى رَأَيْتُ بَيَاضَ إِبْطَيْهِ ‏.‏",
+        "translations": {
+          "en": "Narrated Anas:The Prophet (ﷺ) used to make supplication for rain in this manner. he spread his hands keeping the inner side (of hands) towards the earth, so I witnessed the whiteness of his armpits",
+          "fr": "Rapporté par Anas : Le Prophète ﷺ invoquait pour la pluie de cette manière : il étendait les mains, paumes tournées vers la terre, si bien que j’ai vu la blancheur de ses aisselles",
+          "id": "Telah menceritakan kepada kami [Al Hasan bin Muhammad Az Za'farani] telah menceritakan kepada kami ['Affan] telah menceritakan kepada kami [Hammad] telah mengabarkan kepada kami [Tsabit] dari [Anas] bahwa Nabi shallallahu 'alaihi wasallam meminta hujan dengan begini maksudnya beliau memanjangkan kedua tangannya dengan menjadikan punggung telapak tangannya menghadap ke arah bumi, sehingga aku melihat putih ketiaknya",
+          "tr": "Enes (r.a.)'den rivayet edildiğine göre (demiş ki); Resûlullah (S.A.V.) şöyle yağmur duası yapardı. (Yani) ellerini ben koltuklarının beyazını görünceye kadar uzatır, kaldırır avuçlarını yere doğru tutardı"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim (896)"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 3,
+        "hadith": 11
+      },
+      "narrator": {
+        "en": "Anas"
+      }
+    },
+    {
+      "hadithNumber": 1172,
+      "arabicNumber": 1172,
+      "book": 3,
+      "hadithInBook": 12,
+      "text": {
+        "arabic": "حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا شُعْبَةُ، عَنْ عَبْدِ رَبِّهِ بْنِ سَعِيدٍ، عَنْ مُحَمَّدِ بْنِ إِبْرَاهِيمَ، أَخْبَرَنِي مَنْ، رَأَى النَّبِيَّ صلى الله عليه وسلم يَدْعُو عِنْدَ أَحْجَارِ الزَّيْتِ بَاسِطًا كَفَّيْهِ ‏.‏",
+        "translations": {
+          "en": "Narrated Muhammad b. Ibrahim:A man who witnessed the Prophet (ﷺ) reported to me that he saw the Prophet (ﷺ) praying at Ahjar al-Zait spreading his hands",
+          "ur": "محمد بن ابراہیم (تیمی) کہتے ہیں مجھے اس شخص نے خبر دی ہے جس نے نبی اکرم صلی اللہ علیہ وسلم کو دیکھا ہے کہ آپ احجار زیت کے پاس اپنی دونوں ہتھیلیاں پھیلائے دعا فرما رہے تھے۔",
+          "fr": "Rapporté par Muhammad b. Ibrahim : Un homme qui a vu le Prophète ﷺ m’a rapporté qu’il l’a vu prier à Ahjar al-Zayt en écartant les mains",
+          "id": "Telah menceritakan kepada kami [Muslim bin Ibrahim] telah menceritakan kepada kami [Syu'bah] dari ['Abdi Rabbihi bin Sa'id] dari [Muhammad bin Ibrahim] telah mengabarkan kepadaku [seorang yang pernah melihat Nabi shallallahu 'alaihi wasallam] bahwa beliau pernah berdo'a dekat Ahjaariz Zait sambil membentangkan kedua telapak tangan beliau",
+          "tr": "Muhammed b. İbrahim şöyle der: Birisi Resûlullah (S.A.V.)'i Ahcâru'z-zeyt'te avuçlarını yayarak duâ\" ettiğini gördüğünü bana haber verdi"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 3,
+        "hadith": 12
+      },
+      "narrator": {
+        "en": "Muhammad b. Ibrahim"
+      }
+    },
+    {
+      "hadithNumber": 1173,
+      "arabicNumber": 1173,
+      "book": 3,
+      "hadithInBook": 13,
+      "text": {
+        "arabic": "حَدَّثَنَا هَارُونُ بْنُ سَعِيدٍ الأَيْلِيُّ، حَدَّثَنَا خَالِدُ بْنُ نِزَارٍ، حَدَّثَنِي الْقَاسِمُ بْنُ مَبْرُورٍ، عَنْ يُونُسَ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، - رضى الله عنها - قَالَتْ شَكَى النَّاسُ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم قُحُوطَ الْمَطَرِ فَأَمَرَ بِمِنْبَرٍ فَوُضِعَ لَهُ فِي الْمُصَلَّى وَوَعَدَ النَّاسَ يَوْمًا يَخْرُجُونَ فِيهِ قَالَتْ عَائِشَةُ فَخَرَجَ رَسُولُ اللَّهِ صلى الله عليه وسلم حِينَ بَدَا حَاجِبُ الشَّمْسِ فَقَعَدَ عَلَى الْمِنْبَرِ فَكَبَّرَ صلى الله عليه وسلم وَحَمِدَ اللَّهَ عَزَّ وَجَلَّ ثُمَّ قَالَ ‏\"‏ إِنَّكُمْ شَكَوْتُمْ جَدْبَ دِيَارِكُمْ وَاسْتِئْخَارَ الْمَطَرِ عَنْ إِبَّانِ زَمَانِهِ عَنْكُمْ وَقَدْ أَمَرَكُمُ اللَّهُ عَزَّ وَجَلَّ أَنْ تَدْعُوهُ وَوَعَدَكُمْ أَنْ يَسْتَجِيبَ لَكُمْ ‏\"‏ ‏.‏ ثُمَّ قَالَ ‏\"‏ ‏{‏ الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ * الرَّحْمَنِ الرَّحِيمِ * مَلِكِ يَوْمِ الدِّينِ ‏}‏ لاَ إِلَهَ إِلاَّ اللَّهُ يَفْعَلُ مَا يُرِيدُ اللَّهُمَّ أَنْتَ اللَّهُ لاَ إِلَهَ إِلاَّ أَنْتَ الْغَنِيُّ وَنَحْنُ الْفُقَرَاءُ أَنْزِلْ عَلَيْنَا الْغَيْثَ وَاجْعَلْ مَا أَنْزَلْتَ لَنَا قُوَّةً وَبَلاَغًا إِلَى حِينٍ ‏\"‏ ‏.‏ ثُمَّ رَفَعَ يَدَيْهِ فَلَمْ يَزَلْ فِي الرَّفْعِ حَتَّى بَدَا بَيَاضُ إِبْطَيْهِ ثُمَّ حَوَّلَ عَلَى النَّاسِ ظَهْرَهُ وَقَلَّبَ أَوْ حَوَّلَ رِدَاءَهُ وَهُوَ رَافِعٌ يَدَيْهِ ثُمَّ أَقْبَلَ عَلَى النَّاسِ وَنَزَلَ فَصَلَّى رَكْعَتَيْنِ فَأَنْشَأَ اللَّهُ سَحَابَةً فَرَعَدَتْ وَبَرَقَتْ ثُمَّ أَمْطَرَتْ بِإِذْنِ اللَّهِ فَلَمْ يَأْتِ مَسْجِدَهُ حَتَّى سَالَتِ السُّيُولُ فَلَمَّا رَأَى سُرْعَتَهُمْ إِلَى الْكِنِّ ضَحِكَ صلى الله عليه وسلم حَتَّى بَدَتْ نَوَاجِذُهُ فَقَالَ ‏\"‏ أَشْهَدُ أَنَّ اللَّهَ عَلَى كُلِّ شَىْءٍ قَدِيرٌ وَأَنِّي عَبْدُ اللَّهِ وَرَسُولُهُ ‏\"‏ ‏.‏ قَالَ أَبُو دَاوُدَ وَهَذَا حَدِيثٌ غَرِيبٌ إِسْنَادُهُ جَيِّدٌ أَهْلُ الْمَدِينَةِ يَقْرَءُونَ ‏{‏ مَلِكِ يَوْمِ الدِّينِ ‏}‏ وَإِنَّ هَذَا الْحَدِيثَ حُجَّةٌ لَهُمْ ‏.‏",
+        "translations": {
+          "en": "Narrated Aisha, Ummul Mu'minin: The people complained to the Messenger of Allah (ﷺ) of the lack of rain, so he gave an order for a pulpit. It was then set up for him in the place of prayer. He fixed a day for the people on which they should come out. Aisha said: The Messenger of Allah (ﷺ), when the rim of the sun appeared, sat down on the pulpit, and having pronounced the greatness of Allah and expressed His praise, he said: You have complained of drought in your homes, and of the delay in receiving rain at the beginning of its season. Allah has ordered you to supplicate Him has and promised that He will answer your prayer. Then he said: Praise be to Allah, the Lord of the Universe, the Compassionate, the Merciful, the Master of the Day of Judgment. There is no god but Allah Who does what He wishes. O Allah, Thou art Allah, there is no deity but Thou, the Rich, while we are the poor. Send down the rain upon us and make what Thou sendest down a strength and satisfaction for a time. He then raised his hands, and kept raising them till the whiteness under his armpits was visible. He then turned his back to the people and inverted or turned round his cloak while keeping his hands aloft. He then faced the people, descended and prayed two rak'ahs. Allah then produced a cloud, and the storm of thunder and lightning came on. Then the rain fell by Allah's permission, and before he reached his mosque streams were flowing. When he saw the speed with which the people were seeking shelter, he (ﷺ) laughed till his back teeth were visible. Then he said: I testify that Allah is Omnipotent and that I am Allah's servant and apostle. Abu Dawud said: This is a ghraib (rate) tradition, but its chain is sound. The people of Medina recite \"maliki\" (instead of maaliki) yawm al-din\" (the master of the Day of Judgement). But this tradition (in which the word maalik occurs) is an evidence for them",
+          "ur": "ام المؤمنین عائشہ رضی اللہ عنہا کہتی ہیں کہ لوگوں نے رسول اللہ صلی اللہ علیہ وسلم سے بارش نہ ہونے کی شکایت کی تو آپ نے منبر ( رکھنے ) کا حکم دیا تو وہ آپ کے لیے عید گاہ میں لا کر رکھا گیا، آپ صلی اللہ علیہ وسلم نے لوگوں سے ایک دن عید گاہ کی طرف نکلنے کا وعدہ لیا، تو رسول اللہ صلی اللہ علیہ وسلم ( حجرہ سے ) اس وقت نکلے جب کہ آفتاب کا کنارہ ظاہر ہو گیا، آپ صلی اللہ علیہ وسلم منبر پر بیٹھے، اللہ تعالیٰ کی تکبیر و تحمید کی پھر فرمایا: تم لوگوں نے بارش میں تاخیر کی وجہ سے اپنی آبادیوں میں قحط سالی کی شکایت کی ہے، اللہ تعالیٰ نے تمہیں یہ حکم دیا ہے کہ تم اس سے دعا کرو اور اس نے تم سے یہ وعدہ کیا ہے کہ ( اگر تم اسے پکارو گے ) تو وہ تمہاری دعا قبول کرے گا ، اس کے بعد آپ صلی اللہ علیہ وسلم نے یہ دعا فرمائی: «الحمد لله رب العالمين * الرحمن الرحيم * ملك يوم الدين ‏، لا إله إلا الله يفعل ما يريد اللهم أنت الله لا إله إلا أنت الغني ونحن الفقراء أنزل علينا الغيث واجعل ما أنزلت لنا قوة وبلاغا إلى حين» یعنی تمام تعریفیں اللہ رب العالمین کے لیے ہیں جو رحمن و رحیم ہے اور روز جزا کا مالک ہے، اللہ کے سوا کوئی معبود برحق نہیں، وہ جو چاہتا ہے، کرتا ہے، اے اللہ! تو ہی معبود حقیقی ہے، تیرے سوا کوئی معبود نہیں، تو غنی ہے اور ہم فقیر ہیں، تو ہم پر باران رحمت نازل فرما اور جو تو نازل فرما اسے ہمارے لیے قوت ( رزق ) بنا دے اور ایک مدت تک اس سے فائدہ پہنچا ۔ پھر آپ صلی اللہ علیہ وسلم نے اپنے ہاتھوں کو اٹھایا اور اتنا اوپر اٹھایا کہ آپ کے بغلوں کی سفیدی ظاہر ہونے لگی، پھر حاضرین کی طرف پشت کر کے اپنی چادر کو پلٹا، آپ اپنے ہاتھ اٹھائے ہوئے تھے، پھر لوگوں کی طرف متوجہ ہوئے اور اتر کر دو رکعت پڑھی، اسی وقت ( اللہ کے حکم سے ) آسمان سے بادل اٹھے، جن میں گرج اور چمک تھی، پھر اللہ کے حکم سے بارش ہوئی تو ابھی آپ صلی اللہ علیہ وسلم اپنی مسجد نہیں آ سکے تھے کہ بارش کی کثرت سے نالے بہنے لگے، جب آپ نے لوگوں کو سائبانوں کی طرف بڑھتے دیکھا تو ہنسے یہاں تک کہ آپ صلی اللہ علیہ وسلم کے دندان مبارک ظاہر ہو گئے اور فرمایا: میں گواہی دیتا ہوں کہ بیشک اللہ تعالیٰ ہر چیز پر قادر ہے اور میں اللہ کا بندہ اور اس کا رسول ہوں ۔ ابوداؤد کہتے ہیں: یہ حدیث غریب ہے اور اس کی سند جید ( عمدہ ) ہے، اہل مدینہ «ملك يوم الدين» پڑھتے ہیں اور یہی حدیث ان کی دلیل ہے۔",
+          "fr": "Rapporté par Aïsha, la mère des croyants رضي الله عنها : Les gens se sont plaints auprès du Messager d’Allah ﷺ du manque de pluie. Il a alors demandé qu’on lui prépare un minbar, qui a été installé au lieu de prière. Il a fixé un jour pour que les gens sortent. Aïsha a dit : Lorsque le bord du soleil est apparu, le Messager d’Allah ﷺ s’est assis sur le minbar, a proclamé la grandeur d’Allah et l’a loué, puis il a dit : « Vous vous êtes plaints de la sécheresse dans vos foyers et du retard de la pluie au début de la saison. Allah vous a ordonné de L’invoquer et a promis de répondre à vos prières. » Puis il a dit : « Louange à Allah, Seigneur de l’univers, le Clément, le Miséricordieux, le Maître du Jour du Jugement. Il n’y a pas de divinité en dehors d’Allah, qui fait ce qu’Il veut. Ô Allah, Tu es Allah, il n’y a pas de divinité en dehors de Toi, le Riche, et nous sommes les pauvres. Fais descendre la pluie sur nous et que ce que Tu fais descendre soit une force et une satisfaction pour un temps. » Il a ensuite levé les mains, les gardant élevées jusqu’à ce que la blancheur sous ses aisselles soit visible. Puis il a tourné le dos aux gens et a retourné son manteau tout en gardant les mains levées. Ensuite, il s’est tourné vers les gens, est descendu et a prié deux rak‘as. Allah a alors fait apparaître un nuage, et un orage avec tonnerre et éclairs est arrivé. Puis la pluie est tombée par la permission d’Allah, et avant qu’il n’atteigne sa mosquée, les ruisseaux coulaient. Voyant la rapidité avec laquelle les gens cherchaient un abri, il ﷺ a souri jusqu’à ce que ses dents du fond soient visibles. Puis il a dit : « J’atteste qu’Allah est Tout-Puissant et que je suis le serviteur et le messager d’Allah. » Abu Dawud a dit : Il s’agit d’une tradition rare, mais sa chaîne est authentique. Les gens de Médine récitent « maliki » (au lieu de « maaliki ») yawm ad-din (le Maître du Jour du Jugement). Mais cette tradition (où le mot « maalik » apparaît) leur sert de preuve",
+          "id": "Telah menceritakan kepada kami [Harun bin Sa'id Al Aili] telah menceritakan kepada kami [Khalid bin Nizar] telah menceritakan kepadaku [Al Qasim bin Mabrur] dari [Yunus] dari [Hisyam bin 'Urwah] dari [ayahnya] dari [Aisyah] dia berkata; \"Orang-orang mengadu kepada Rasulullah shallallahu 'alaihi wasallam tentang musim kemarau yang panjang, maka beliau memerintahkan untuk meletakkan mimbar di tempat shalat (tanah lapang), lalu beliau berjanji kepada orang-orang untuk bertemu pada suatu hari yang telah di tentukan.\" Aisyah berkata; \"Maka Rasulullah shallallahu 'alaihi wasallam keluar ketika matahari mulai terlihat, lalu beliau duduk di mimbar, beliau shallallahu 'alaihi wasallam bertakbir dan memuji Allah Azza Wa Jalla, lalu bersabda: \"Sesungguhnya kalian mengadu kepadaku tentang kegersangan negeri kalian dan keterlambatan turunnya hujan dari musimnya, padahal Allah Azza Wa Jalla telah memerintahkan kalian agar kalian memohon kepadanya, dan berjanji akan mengabulkan do'a kalian, kemudian beliau mengucapkan: \"Segala puji bagi Allah, Rabb semesta alam, Maha Pemurah lagi Maha Penyayang. Dzat yang menguasai hari Pembalasan. (AlFatihah: 2-4). Tidak ada ilah yang berhak disembah kecuali Dia, Dia melakukan apa saja yang dikehendaki. Ya Allah, Engkau adalah Allah, tidak ada tuhan ilah yang berhak disembah kecuali Engkau, Maha kaya sementara kami yang membutuhkan, maka turunkanlah hujan kepada kami dan jadikanlah apa yang telah Engkau turunkan kekuatan bagi kami dan sebagai bekal di hari yang di tetapkan.\" kemudian beliau mengangkat kedua tangannya, dan senantiasa mengangkat kedua tangannya hingga terlihat putih ketiak beliau, kemudian beliau membalikkan punggungnya membelakangi orang-orang dan merubah posisi selendangnya, sedangkan beliau masih mengangkat kedua tangannya. Kemudian beliau menghadap ke orang-orang, lalu beliau turun dari mimbar dan shalat dua raka'at. Seketika itu Allah mendatangkan awan yang di sertai dengan gemuruh dan kilat, Maka turunlah hujan dengan izin Allah, beliau tidak kembali menuju masjid sampai air bah mengalir (di sekitarnya), ketika beliau melihat orang-orang berdesak-desakan mencari tempat berteduh, beliau tersenyum hingga terlihat gigi gerahamnya, lalu bersabda: \"Aku bersaksi bahwa Allah adalah Maha kuasa atas segala sesuatu dan aku adalah hamba dan rasul-Nya.\" Abu Daud berkata; \"Ini adalah hadits gharib, tapi sanadnya bagus, penduduk Madinah mambaca \"Malikiyaumid-din\" dan hadits ini juga menjadi argumentasi mereka",
+          "tr": "Aişe (r.anhâ)'dan; demiştir ki: İnsanlar Resûlullah (S.A.V.)'e kuraklıktan şikâyet ettiler. Bunun üzerine Efendimiz, bir minber konulmasını emretti ve musallaya kendisi için bir minber konuldu. Yağmur duasına çıkacağı günü ahaliye bildirdi. (Kararlaştırılan gün gelince) Peygamber (S.A.V.) güneşin kaşı (ilk ışınları) görününce gidip minberin üzerine çıktı. Tekbir aldı. Allah azze ve celleye hamdetti, sonra; \"Siz memleketinizin kuraklığından ve yağmurun ilk zamanından geciktiğinden şikâyet ettiniz. Halbuki Allah azze ve Celle size, kendisine duâ etmenizi emretti ve duanızı kabul edeceğini vâdetti\" buyurdu. Sonra da şöyle devam etti: \"Hamd âlemlerin rabbi, rahim ve rahman, kıyamet gününün tek hâkimi olan Allah'a mahsustur. Allah'tan başka ilâh yoktur. O dilediğini yapar. \"Ey Rabbim! Sen Allahsın, senden başka ilâh yok. Sen zenginsin biz muhtacız, bize yağmur indir. İndirdiğini bize kuvvet ve bir zamana ulaştıracak azık kıl.” Sonra Resûlullah (S.A.V.) ellerini kaldırdı, bu kaldırışa koltuklarının beyazı görününceye kadar devam etti. Bilâhere sırtını cemaate döndü, cübbesini ters çevirdi. Bunları yaparken elleri hâlâ kalkıktı. Daha sonra insanlara doğru döndü, minberden inip iki rekat namaz kıldırdı. Hemen akabinde Allah bir bulut meydana getirdi bunun peşinden gök gürledi, şimşek çaktı, sonra Allah'ın izni ile yağmur yağdı. Peygamber (yollardan) seller akmcaya kadar mescidine gelmedi. İnsanların (yağmurdan korunmak için) kuytuya koştuğunu görünce azı dişleri görünceye kadar güldü ve şöyle buyurdu: \"Şehâdet ederim ki Allah, herşeye kadirdir, ben de Allah'ın kulu ve resulüyüm.\" Ebu Davud dediki: Bu, isnadı güzel, garib bir hadistir. Medineliler okurlar. Bu hadis onlar için bir hüccettir. Diğer tahric: Hâkim el-Miistedrek, I, 328. Hakim Hadisin Şeybânın şartlarına uyduğunu söyler. Beyhakî, es-Sünenüi-kiibrâ, III"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 3,
+        "hadith": 13
+      },
+      "narrator": {
+        "en": "Aisha, Ummul Mu'minin"
+      }
+    },
+    {
+      "hadithNumber": 1174,
+      "arabicNumber": 1174,
+      "book": 3,
+      "hadithInBook": 14,
+      "text": {
+        "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، عَنْ عَبْدِ الْعَزِيزِ بْنِ صُهَيْبٍ، عَنْ أَنَسِ بْنِ مَالِكٍ، وَيُونُسُ بْنُ عُبَيْدٍ، عَنْ ثَابِتٍ، عَنْ أَنَسٍ، قَالَ أَصَابَ أَهْلَ الْمَدِينَةِ قَحْطٌ عَلَى عَهْدِ رَسُولِ اللَّهِ صلى الله عليه وسلم فَبَيْنَمَا هُوَ يَخْطُبُنَا يَوْمَ جُمُعَةٍ إِذْ قَامَ رَجُلٌ فَقَالَ يَا رَسُولَ اللَّهِ هَلَكَ الْكُرَاعُ هَلَكَ الشَّاءُ فَادْعُ اللَّهَ أَنْ يَسْقِيَنَا فَمَدَّ يَدَيْهِ وَدَعَا قَالَ أَنَسٌ وَإِنَّ السَّمَاءَ لَمِثْلُ الزُّجَاجَةِ فَهَاجَتْ رِيحٌ ثُمَّ أَنْشَأَتْ سَحَابَةً ثُمَّ اجْتَمَعَتْ ثُمَّ أَرْسَلَتِ السَّمَاءُ عَزَالِيَهَا فَخَرَجْنَا نَخُوضُ الْمَاءَ حَتَّى أَتَيْنَا مَنَازِلَنَا فَلَمْ يَزَلِ الْمَطَرُ إِلَى الْجُمُعَةِ الأُخْرَى فَقَامَ إِلَيْهِ ذَلِكَ الرَّجُلُ أَوْ غَيْرُهُ فَقَالَ يَا رَسُولَ اللَّهِ تَهَدَّمَتِ الْبُيُوتُ فَادْعُ اللَّهَ أَنْ يَحْبِسَهُ فَتَبَسَّمَ رَسُولُ اللَّهِ صلى الله عليه وسلم ثُمَّ قَالَ ‏ \"‏ حَوَالَيْنَا وَلاَ عَلَيْنَا ‏\"‏ ‏.‏ فَنَظَرْتُ إِلَى السَّحَابِ يَتَصَدَّعُ حَوْلَ الْمَدِينَةِ كَأَنَّهُ إِكْلِيلٌ ‏.‏",
+        "translations": {
+          "en": "Narrated Anas ibn Malik: The people of Medina had a drought during the time of the Prophet (ﷺ). While he was preaching on a Friday, a man stood up and said: Messenger of Allah, the horses have perished, the goats have perished, pray to Allah to give us water. He spread his hands and prayed. Anas said: The sky was like a mirror (there was no cloud). Then the wind rose; a cloud appeared (in the sky) and it spread : the sky poured down the water. We came out (from the mosque after the prayer) passing through the water till we reached our homes. The rain continued till the following Friday. The same or some other person stood up and said: Messenger of Allah, the houses have been demolished, pray to Allah to stop it. The Messenger of Allah (ﷺ) smiled and said: (O Allah), the rain may fall around us but not upon us. Then I looked at the cloud which dispersed around Medina just like a crown",
+          "ur": "انس رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم کے زمانے میں اہل مدینہ قحط میں مبتلا ہوئے، اسی دوران کہ آپ جمعہ کے دن ہمیں خطبہ دے رہے تھے کہ ایک شخص کھڑا ہو اور عرض کیا کہ اللہ کے رسول! گھوڑے مر گئے، بکریاں ہلاک ہو گئیں، آپ اللہ تعالیٰ سے دعا کیجئے کہ وہ ہمیں سیراب کرے، چنانچہ آپ صلی اللہ علیہ وسلم نے اپنے دونوں ہاتھوں کو پھیلایا اور دعا کی۔ انس رضی اللہ عنہ کہتے ہیں: اس وقت آسمان آئینہ کی طرح صاف تھا، اتنے میں ہوا چلنے لگی پھر بدلی اٹھی اور گھنی ہو گئی پھر آسمان نے اپنا دہانہ کھول دیا، پھر جب ہم ( نماز پڑھ کر ) واپس ہونے لگے تو پانی میں ہو کر اپنے گھروں کو گئے اور آنے والے دوسرے جمعہ تک برابر بارش کا سلسلہ جاری رہا، پھر وہی شخص یا دوسرا کوئی آپ صلی اللہ علیہ وسلم کے سامنے کھڑا ہوا اور اس نے عرض کیا: اللہ کے رسول! گھر گر گئے، اللہ سے دعا کیجئے کہ وہ بارش بند کر دے، ( یہ سن کر ) آپ صلی اللہ علیہ وسلم مسکرائے پھر فرمایا: اے اللہ! تو ہمارے اردگرد بارش نازل فرما اور ہم پر نہ نازل فرما ۔ انس رضی اللہ عنہ کہتے ہیں: تو میں نے بادل کو دیکھا وہ مدینہ کے اردگرد سے چھٹ رہا تھا گویا وہ تاج ہے۔",
+          "fr": "Rapporté par Anas ibn Malik : Les habitants de Médine ont connu une sécheresse à l’époque du Prophète ﷺ. Alors qu’il prêchait un vendredi, un homme s’est levé et a dit : « Messager d’Allah, les chevaux sont morts, les chèvres sont mortes, prie Allah pour qu’Il nous donne de l’eau. » Il a alors étendu les mains et invoqué. Anas a dit : Le ciel était comme un miroir (sans nuage). Puis le vent s’est levé, un nuage est apparu et s’est étendu : le ciel a versé la pluie. Nous sommes sortis (de la mosquée après la prière) en traversant l’eau jusqu’à nos maisons. La pluie a continué jusqu’au vendredi suivant. La même personne ou une autre s’est levée et a dit : « Messager d’Allah, les maisons s’effondrent, prie Allah pour que la pluie s’arrête. » Le Messager d’Allah ﷺ a souri et a dit : « (Ô Allah), que la pluie tombe autour de nous et non sur nous. » Alors j’ai vu le nuage se disperser autour de Médine comme une couronne",
+          "id": "Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Hammad bin Zaid] dari [Abdul Aziz bin Shuhaib] dari [Anas bin Malik], dan [Yunus bin 'Ubaid] dari [Tsabit] dari [Anas] dia berkata; \"Penduduk Madinah pernah di timpa bencana kekeringan pada masa Rasulullah shallallahu 'alaihi wasallam, ketika beliau tengah menyampaikan khutbah Jum'at, tiba-tiba seorang laki-laki berdiri seraya berkata; \"Wahai Rasulullah, telah binasa kuda dan kambing, oleh karena itu, berdo'alah kepada Allah agar menurunkan hujan kepada kami.\" Lalu beliau merenggangkan kedua tangannya dan berdo'a.\" Anas berkata; \"Saat itu, langit sangat cerah laksana kaca, lalu angin bertiaup yang membawa awan yang menggumpal, setelah itu langit menurunkan hujan, lalu kami keluar mencebur ke air hujan, sehingga kami tiba di rumah kami, dan hujan senantiasa turun hingga jum'at berikutnya, maka laki-laki itu atau laki-laki lain berdiri sambil berkata; \"Wahai Rasulullah, rumah-rumah kami (hampir) roboh (karena hujan kebat), oleh karena itu, berdo'alah kepada Allah agar hujan di hentikan!.\" Maka Rasulullah shallallahu 'alaihi wasallam tersenyum kemudian bersabda: \"Turunkanlah hujan ini di sekeliling kami, dan jangan sampai ia membawa petaka bagi kami.\" Lalu aku melihat awan tersebut terputus-putus di sekitar Madinah, seolah-olah bagaikan Mahkota (maksudnya hujan turun menyebar di seluruh Madinah).\" Telah menceritakan kepada kami [Isa bin Hammad] telah mengabarkan kepada kami [Al Laits] dari [Sa'id Al Maqburi] dari [Syarik bin Abdullah bin Abu Namir] bahwa dia mendengar [Anas] berkata; …\" kemudian dia menyebutkan sebagaimana hadits Abdul Aziz katanya; \"Maka Rasulullah shallallahu 'alaihi wasallam mengangkat kedua tangannya sejajar dengan wajah beliau seraya mengucapkan: \"Ya Allah turunkanlah hujan kepada kami…\" kemudian dia melanjutkan hadits seperti di atas",
+          "tr": "Enes (r.a.)'den; demiştir ki: Resûlullah (S.A.V.) zamanında Medine'lilere kıtlık isabet etti. Efendimiz bir cuma günü bize hutbe irad ederken aniden bir adam kılkıp: Yâ Resulallah! Beygir sürüleri, koyunlar helak oldu. Bize yağmur yağdırması için Allah'a dua ediver, dedi. Bunun üzerine Hz. Peygamber ellerini uzattı (kaldırdı) ve duâ etti. -Enes (devamla) dedi ki:-(O esnada) gökyüzü cam gibi (parlak) idi. Bir rüzgâr esti, bir bulut meydana getirdi. Sonra bulutlar bir araya toplandı ve semâ ağzını açıverdi. (Yağdırdıkça yağdırdı). Biz (mescitten) çıktık evlerimize gelinceye kadar suyun içinde yürüdük. Sonraki cumaya kadar yağmur yağmaya devam etti. Bu sefer yine aynı adam veya bir başkası kalkıp; - Ya Resûlullah! Evler yıkıldı. Allah'a dua ediversen de yağmuru durdursa, dedi, Efendimiz gülümsedi, sonra; \"üstümüze değil, etrafımıza\" dedi. Akabinde bulutlara baktım, sanki bir tâç gibi Medine'nin etrafına doğru yayılıyordu"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (932)"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 3,
+        "hadith": 14
+      },
+      "narrator": {
+        "en": "Anas ibn Malik"
+      }
+    },
+    {
+      "hadithNumber": 1175,
+      "arabicNumber": 1175,
+      "book": 3,
+      "hadithInBook": 15,
+      "text": {
+        "arabic": "حَدَّثَنَا عِيسَى بْنُ حَمَّادٍ، أَخْبَرَنَا اللَّيْثُ، عَنْ سَعِيدٍ الْمَقْبُرِيِّ، عَنْ شَرِيكِ بْنِ عَبْدِ اللَّهِ بْنِ أَبِي نَمِرٍ، عَنْ أَنَسٍ، أَنَّهُ سَمِعَهُ يَقُولُ فَذَكَرَ نَحْوَ حَدِيثِ عَبْدِ الْعَزِيزِ قَالَ فَرَفَعَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَدَيْهِ بِحِذَاءِ وَجْهِهِ فَقَالَ ‏ \"‏ اللَّهُمَّ اسْقِنَا ‏\"‏ ‏.‏ وَسَاقَ نَحْوَهُ ‏.‏",
+        "translations": {
+          "en": "Narrated The above mentioned tradition has been narrated by Anas through a different chain of transmitters:The Messenger of Allah (ﷺ) raised his hands in front of his face and said: O Allah! Give us water. the narrator then reported then reported the tradition like the former",
+          "ur": "شریک بن عبداللہ بن ابی نمر سے روایت ہے کہ انہوں نے انس رضی اللہ عنہ کو کہتے ہوئے سنا، پھر راوی نے عبدالعزیز کی روایت کی طرح ذکر کیا اور کہا: رسول اللہ صلی اللہ علیہ وسلم نے اپنے ہاتھوں کو اپنے چہرہ کے بالمقابل اٹھایا اور یہ دعا کی «اللهم اسقنا» اے اللہ! ہمیں سیراب فرما اور آگے انہوں نے اسی جیسی حدیث ذکر کی",
+          "fr": "Rapporté par Anas par une autre chaîne de transmission : Le Messager d’Allah ﷺ a levé les mains devant son visage et a dit : « Ô Allah ! Donne-nous de l’eau. » Le narrateur a ensuite rapporté la tradition comme précédemment",
+          "tr": "Şerîk b. Abdullah b. Ebî Nemir, Enes (r.a.)'i (bir önceki 1174.) Abdülaziz hadisinin benzerini söylerken işittiğini bildirdi. (Farklı olarak Şerîk) şöyle dedi; Resûlullah (S.A.V.) ellerini yüzünün hizasına kadar kaldırıp; \"Ey Allah'ım!... Bize yağmur yağdır...\" diye dua etti. Şerîk (bundan sonra) Abdülazîz hadisinin benzerini nakletti"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (1013) Sahih Muslim (897)"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 3,
+        "hadith": 15
+      },
+      "narrator": {
+        "en": "The above mentioned tradition has been narrated by Anas through a different chain of transmitters"
+      }
+    },
+    {
+      "hadithNumber": 1176,
+      "arabicNumber": 1176,
+      "book": 3,
+      "hadithInBook": 16,
+      "text": {
+        "arabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، عَنْ مَالِكٍ، عَنْ يَحْيَى بْنِ سَعِيدٍ، عَنْ عَمْرِو بْنِ شُعَيْبٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ يَقُولُ ح وَحَدَّثَنَا سَهْلُ بْنُ صَالِحٍ حَدَّثَنَا عَلِيُّ بْنُ قَادِمٍ أَخْبَرَنَا سُفْيَانُ عَنْ يَحْيَى بْنِ سَعِيدٍ عَنْ عَمْرِو بْنِ شُعَيْبٍ عَنْ أَبِيهِ عَنْ جَدِّهِ قَالَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم إِذَا اسْتَسْقَى قَالَ ‏ \"‏ اللَّهُمَّ اسْقِ عِبَادَكَ وَبَهَائِمَكَ وَانْشُرْ رَحْمَتَكَ وَأَحْىِ بَلَدَكَ الْمَيِّتَ ‏\"‏ ‏.‏ هَذَا لَفْظُ حَدِيثِ مَالِكٍ ‏.‏",
+        "translations": {
+          "en": "Narrated 'Amr b. Suh'aib: On his father's authority, quoted his grandfather as saying: When the Messenger of Allah (ﷺ) prayed for rain, he said: O Allah! Provide water for Your servants and Your cattle, display Your mercy and give life to Your dead land. This is the wording of Malik",
+          "ur": "عبداللہ بن عمرو رضی اللہ عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم جب بارش کے لیے دعا مانگتے تو فرماتے: «اللهم اسق عبادك وبهائمك، وانشر رحمتك، وأحي بلدك الميت» اے اللہ! تو اپنے بندوں اور چوپایوں کو سیراب کر، اور اپنی رحمت عام کر دے، اور اپنے مردہ شہر کو زندگی عطا فرما ( یہ مالک کی روایت کے الفاظ ہیں ) ۔",
+          "fr": "Rapporté par 'Amr b. Suh'aib, d'après son père, qui le tenait de son grand-père : Lorsque le Messager d’Allah ﷺ invoquait la pluie, il disait : « Ô Allah ! Donne de l’eau à Tes serviteurs et à Tes bêtes, manifeste Ta miséricorde et redonne vie à Ta terre morte. » Ceci est la formulation de Malik",
+          "id": "Telah menceritakan kepada kami [Abdullah bin Maslamah] dari [Malik] dari [Yahya bin Sa'id] dari ['Amru bin Syu'aib] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: …\" dan telah di riwayatkan dari jalur lain, telah menceritakan kepada kami [Sahl bin Shalih] telah menceritakan kepada kami [Ali bin Qadim] telah mengabarkan kepada kami [Sufyan] dari [Yahya bin Sa'id] dari ['Amru bin Syu'aib] dari [ayahnya] dari [kakeknya] dia berkata; \"Apabila Nabi shallallahu 'alaihi wasallam memohon turunnya hujan, beliau mengucapkan: \"Ya Allah, hujanilah hamba-hamba-Mu, binatang-binatang ternak-Mu dan tebarkanlah rahmat-Mu serta hidupkanlah tanah-Mu yang tandus.\" Lafadz ini dari hadits Malik",
+          "tr": "Amr b. Şuayb babası (Şuayb) vasıtasıyla dedesi (Abdullah b. Amr b. el-As)'ın şöyle dediğini haber verdi: Resûlullah (S.A.V.) yağmur duası yaptığı zaman: \"Ya Rabbi! Kullarını ve hayvanlarını sula (yağmur ver), rahmetini yay ve ölü memleketini ihya et\" derdi. Bu lâfız (râvî) Mâlik'in rivayetidir. Hadis-i şerif, müellife iki ayrı yoldan İntikal etmiştir. Bunlar Yahya b. Said'de birleşmekle beraber, Yahya'dan sonra Mâlik ve Sufyan olmak üzere ayrılıyorlar. Bu metin, Mâlik'in rivayet eîtiği oluyor. Diğer tahric: Muvatta', istiskâ"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 3,
+        "hadith": 16
+      },
+      "narrator": {
+        "en": "'Amr b. Suh'aib"
+      }
+    },
+    {
+      "hadithNumber": 1177,
+      "arabicNumber": 1177,
+      "book": 3,
+      "hadithInBook": 17,
+      "text": {
+        "arabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا إِسْمَاعِيلُ ابْنُ عُلَيَّةَ، عَنِ ابْنِ جُرَيْجٍ، عَنْ عَطَاءٍ، عَنْ عُبَيْدِ بْنِ عُمَيْرٍ، أَخْبَرَنِي مَنْ، أُصَدِّقُ وَظَنَنْتُ أَنَّهُ يُرِيدُ عَائِشَةَ قَالَ كُسِفَتِ الشَّمْسُ عَلَى عَهْدِ النَّبِيِّ صلى الله عليه وسلم فَقَامَ النَّبِيُّ صلى الله عليه وسلم قِيَامًا شَدِيدًا يَقُومُ بِالنَّاسِ ثُمَّ يَرْكَعُ ثُمَّ يَقُومُ ثُمَّ يَرْكَعُ ثُمَّ يَقُومُ ثُمَّ يَرْكَعُ فَرَكَعَ رَكْعَتَيْنِ فِي كُلِّ رَكْعَةٍ ثَلاَثُ رَكَعَاتٍ يَرْكَعُ الثَّالِثَةَ ثُمَّ يَسْجُدُ حَتَّى إِنَّ رِجَالاً يَوْمَئِذٍ لَيُغْشَى عَلَيْهِمْ مِمَّا قَامَ بِهِمْ حَتَّى إِنَّ سِجَالَ الْمَاءِ لَتُصَبُّ عَلَيْهِمْ يَقُولُ إِذَا رَكَعَ ‏\"‏ اللَّهُ أَكْبَرُ ‏\"‏ ‏.‏ وَإِذَا رَفَعَ ‏\"‏ سَمِعَ اللَّهُ لِمَنْ حَمِدَهُ ‏\"‏ ‏.‏ حَتَّى تَجَلَّتِ الشَّمْسُ ثُمَّ قَالَ ‏\"‏ إِنَّ الشَّمْسَ وَالْقَمَرَ لاَ يَنْكَسِفَانِ لِمَوْتِ أَحَدٍ وَلاَ لِحَيَاتِهِ وَلَكِنَّهُمَا آيَتَانِ مِنْ آيَاتِ اللَّهِ عَزَّ وَجَلَّ يُخَوِّفُ بِهِمَا عِبَادَهُ فَإِذَا كُسِفَا فَافْزَعُوا إِلَى الصَّلاَةِ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Narrated A'ishah (May Allah be pleased with her):There was an eclipse of the sun in the time of the Prophet (ﷺ). The Prophet stood for a long time, accompanied by the people. He then bowed, then raised his head, then he bowed and then he raised his head, and again he bowed and prayed two rak'ahs of prayer. In each rak'ah he bowed three times. After bowing for the third time he prostrated himself. He stood for such a long time that some people became unconscious on that occasion and buckets of water had to be poured on them. When he bowed, he said, Allah is most great; and when he raised his head, he said, Allah listens to him who praises Him, till the sun became bright. then he said: The sun and the moon are not eclipsed on account of anyone's death or on account of anyone's birth, but they are two of Allah's signs, He produces dread in His servants by means of them. When they are eclipsed, hasten to prayer",
+          "ur": "عبید بن عمیر سے روایت ہے کہ مجھے اس شخص نے خبر دی ہے جس کو میں سچا جانتا ہوں ( عطا کہتے ہیں کہ میرا خیال ہے کہ اس سے ان کی مراد عائشہ رضی اللہ عنہا ہیں ) کہ نبی اکرم صلی اللہ علیہ وسلم کے زمانہ میں سورج گرہن لگا تو آپ صلی اللہ علیہ وسلم نے لمبا قیام کیا، آپ لوگوں کے ساتھ قیام میں رہے پھر رکوع میں رہے، پھر قیام میں رہے پھر رکوع میں رہے پھر قیام میں رہے پھر رکوع میں رہے اس طرح آپ صلی اللہ علیہ وسلم نے دو رکعتیں پڑھیں ہر رکعت میں آپ نے تین تین رکوع کیا ۱؎ آپ صلی اللہ علیہ وسلم تیسرا رکوع کرتے پھر سجدہ کرتے یہاں تک کہ آپ کے لمبے قیام کے باعث اس دن کچھ لوگوں کو ( کھڑے کھڑے ) غشی طاری ہو گئی اور ان پر پانی کے ڈول ڈالے گئے، جب آپ صلی اللہ علیہ وسلم رکوع کرتے تو «الله أكبر» کہتے اور جب رکوع سے سر اٹھاتے تو «سمع الله لمن حمده» کہتے یہاں تک کہ سورج روشن ہو گیا پھر آپ صلی اللہ علیہ وسلم نے فرمایا: کسی کے مرنے یا جینے کی وجہ سے سورج یا چاند میں گرہن نہیں لگتا بلکہ یہ دونوں اللہ کی نشانیاں ہیں، ان کے ذریعہ اللہ تعالیٰ اپنے بندوں کو ڈراتا ہے لہٰذا جب ان دونوں میں گرہن لگے تو تم نماز کی طرف دوڑو ۔",
+          "fr": "Rapporté par Aïcha (la mère des croyants) رضي الله عنها : Il y eut une éclipse du soleil à l’époque du Prophète ﷺ. Le Prophète ﷺ se leva longtemps pour prier, accompagné des gens. Ensuite, il s’inclina, releva la tête, puis s’inclina à nouveau, releva la tête, et s’inclina encore, accomplissant ainsi deux unités de prière. Dans chaque unité, il s’inclina trois fois. Après la troisième inclinaison, il se prosterna. Il resta debout si longtemps que certaines personnes perdirent connaissance et on dut leur verser des seaux d’eau. À chaque inclinaison, il disait : « Allah est le plus grand » ; et lorsqu’il relevait la tête, il disait : « Allah entend celui qui Le loue », jusqu’à ce que le soleil redevienne clair. Puis il dit : « Le soleil et la lune ne s’éclipsent pas à cause de la mort ou de la naissance de quelqu’un, ce sont deux signes d’Allah, par lesquels Il fait craindre Ses serviteurs. Quand vous voyez cela, empressez-vous de prier. »",
+          "id": "Telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepada kami [Isma'il bin 'Ulayyah] dari [Ibnu Juraij] dari ['Atha`] dari ['Ubaid bin 'Umair] telah mengabarkan kepadaku [seseorang yang aku percaya] -aku kira yang di maksud oleh 'Ubaid adalah Aisyah- dia berkata; \"Telah terjadi gerhana matahari pada masa Rasulullah shallallahu 'alaihi wasallam, maka Nabi shallallahu 'alaihi wasallam berdiri lama sekali bersama orang-orang. Kemudian beliau ruku', lalu berdiri dan ruku' lagi kemudian berdiri lalu ruku' lagi. Beliau mengerjakan shalat dua raka'at, yang setiap raka'atnya tiga kali ruku'. Setelah ruku' yang ketiga baru beliau sujud. Beberapa orang ketika itu pingsan karena lamanya beliau berdiri bersama mereka, sehingga seember air di percikkan ke tubuh mereka. Apabila ruku' beliau mengucapkan: \"Allahu akbar.\" Dan apabila mengangkat kepala (I'tidal) beliau mengucapkan: \"Sami'allahu liman hamidah\" sehingga matahari kembali terang. Kemudian berliau bersabda: 'Sesungguhnya gerhana matahari dan bulan terjadi bukan karena matinya atau hidupnya seseorang, akan tetapi keduanya merupakan tanda-tanda kebesaran Allah Azza Wa Jalla untuk memberi peringatan kepada para hamba-Nya, apabila terjadi gerhana, maka bersegeralah kalian melaksanakan shalat",
+          "tr": "Âişe (r.anha)'den; demiştir ki: Resûlullah (S.A.V.) zamanında güneş tutuldu. Bunun üzerine Efendimiz uzun müddet kıyamda kaldı. (Namaz kıldı) insanlara da kıyam yaptırıyor, sonra rükûa varıp doğruluyor, sonra tekrar rükû'a varıp yine doğruluyor, sonunda tekrar rükû'a varıp -her rekatte üç rükû olmak ve üçüncü rükûdan sonra secdeye varmak suretiyle- iki rekat na­maz kıl(ıyor)dı. Hatta o gün kıyamın uzunluğundan dolayı (bazı) insanlar bayılır da üzerlerine su kovaları dökülürdü. Resûl-i Ekrem (bu namazda) rükû'a vardığı zaman \"Allahu Ekber\", doğrulduğu zaman da \"Semiallahü Iimen hamideh\" derdi. Hz. Peygamber'in bu namazı güneş açılıncaya kadar devam etti. Sonunda Efendimiz şöyle buyururdu: \"Şüphesiz güneş ve ay bir kimsenin ölümü ya da hayatı (doğumu) için tutulmazlar. Ama onlar Allah azze ve celle'nin âyet (alametlerinden iki âyettirler. Allah onlarla kullarım korkutur. O halde ay ve güneş tutulursa hemen namaza sığınınız)"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Shadh"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim (901)"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 3,
+        "hadith": 17
+      },
+      "narrator": {
+        "en": "A'ishah (May Allah be pleased with her)"
+      }
+    },
+    {
+      "hadithNumber": 1178,
+      "arabicNumber": 1178,
+      "book": 3,
+      "hadithInBook": 18,
+      "text": {
+        "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ حَنْبَلٍ، حَدَّثَنَا يَحْيَى، عَنْ عَبْدِ الْمَلِكِ، حَدَّثَنِي عَطَاءٌ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، قَالَ كُسِفَتِ الشَّمْسُ عَلَى عَهْدِ رَسُولِ اللَّهِ صلى الله عليه وسلم وَكَانَ ذَلِكَ فِي الْيَوْمِ الَّذِي مَاتَ فِيهِ إِبْرَاهِيمُ ابْنُ رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَ النَّاسُ إِنَّمَا كُسِفَتْ لِمَوْتِ إِبْرَاهِيمَ ابْنِهِ صلى الله عليه وسلم فَقَامَ النَّبِيُّ صلى الله عليه وسلم فَصَلَّى بِالنَّاسِ سِتَّ رَكَعَاتٍ فِي أَرْبَعِ سَجَدَاتٍ كَبَّرَ ثُمَّ قَرَأَ فَأَطَالَ الْقِرَاءَةَ ثُمَّ رَكَعَ نَحْوًا مِمَّا قَامَ ثُمَّ رَفَعَ رَأْسَهُ فَقَرَأَ دُونَ الْقِرَاءَةِ الأُولَى ثُمَّ رَكَعَ نَحْوًا مِمَّا قَامَ ثُمَّ رَفَعَ رَأْسَهُ فَقَرَأَ الْقِرَاءَةَ الثَّالِثَةَ دُونَ الْقِرَاءَةِ الثَّانِيَةِ ثُمَّ رَكَعَ نَحْوًا مِمَّا قَامَ ثُمَّ رَفَعَ رَأْسَهُ فَانْحَدَرَ لِلسُّجُودِ فَسَجَدَ سَجْدَتَيْنِ ثُمَّ قَامَ فَرَكَعَ ثَلاَثَ رَكَعَاتٍ قَبْلَ أَنْ يَسْجُدَ لَيْسَ فِيهَا رَكْعَةٌ إِلاَّ الَّتِي قَبْلَهَا أَطْوَلُ مِنَ الَّتِي بَعْدَهَا إِلاَّ أَنَّ رُكُوعَهُ نَحْوٌ مِنْ قِيَامِهِ قَالَ ثُمَّ تَأَخَّرَ فِي صَلاَتِهِ فَتَأَخَّرَتِ الصُّفُوفُ مَعَهُ ثُمَّ تَقَدَّمَ فَقَامَ فِي مَقَامِهِ وَتَقَدَّمَتِ الصُّفُوفُ فَقَضَى الصَّلاَةَ وَقَدْ طَلَعَتِ الشَّمْسُ فَقَالَ ‏ \"‏ يَا أَيُّهَا النَّاسُ إِنَّ الشَّمْسَ وَالْقَمَرَ آيَتَانِ مِنْ آيَاتِ اللَّهِ عَزَّ وَجَلَّ لاَ يَنْكَسِفَانِ لِمَوْتِ بَشَرٍ فَإِذَا رَأَيْتُمْ شَيْئًا مِنْ ذَلِكَ فَصَلُّوا حَتَّى تَنْجَلِيَ ‏\"‏ ‏.‏ وَسَاقَ بَقِيَّةَ الْحَدِيثِ ‏.‏",
+        "translations": {
+          "en": "Narrated Jabir b. Abd Allah:There was an eclipse of the sun in the time of the Messenger of Allah (ﷺ) had died. The people began to to say that there was an eclipse on account of the death of Ibrahim. The Prophet (ﷺ) stood up and led the people in prayer performing six bowings and four prostrations. he said: Allah is most great, and then recited from the Qur'an and prolonged the recitation. He then bowed nearly as long as he stood. He then raised his head and recited from the Qur'an but it was less than the first (recitation). He then bowed nearly as long as he stood. He then raised his head and then recited from the Quran for the third time, but it was less than the second recitation. He then bowed nearly as long as he stood. he then raised his head and then recited from the Qur'an for the third time, but it was less than the second recitation. he then bowed nearly as long as he stood. Then he raised his head and went down for prostration. he made two prostrations. He then stood and made three bowings before prostrating himself, the preceding bowing being more lengthy than the following, but he bowed nearly as long as he stood. He then stepped back during the prayer and the rows (of the people) too stepped back along with him. Then he stepped forward and stood in his place, and the rows too stepped forward. he then finished the prayer and the sun had become bright. He said: O people, the sun and the moon are two of Allah's signs; they are not eclipsed on account of a man's death. So when you see anything of that nature, offer prayer until the sun becomes bright. The narrator then narrated the rest of the tradition",
+          "ur": "جابر بن عبداللہ رضی اللہ عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم کے زمانے میں سورج گرہن لگا، یہ اسی دن کا واقعہ ہے جس دن رسول اللہ صلی اللہ علیہ وسلم کے صاحبزادے ابراہیم کی وفات ہوئی، لوگ کہنے لگے کہ آپ کے صاحبزادے ابراہیم کی وفات کی وجہ سے سورج گرہن لگا ہے، نبی اکرم صلی اللہ علیہ وسلم کھڑے ہوئے اور لوگوں کو نماز ( کسوف ) پڑھائی، چار سجدوں میں چھ رکوع کیا ۱؎، اللہ اکبر کہا، پھر قرآت کی اور دیر تک قرآت کرتے رہے، پھر اتنی ہی دیر تک رکوع کیا جتنی دیر تک قیام کیا تھا، پھر رکوع سے سر اٹھایا اور پہلی قرآت کی بہ نسبت مختصر قرآت کی پھر اتنی ہی دیر تک رکوع کیا جتنی دیر تک قیام کیا تھا، پھر رکوع سے سر اٹھایا پھر تیسری قرآت کی جو دوسری قرآت کے بہ نسبت مختصر تھی اور اتنی دیر تک رکوع کیا جتنی دیر تک قیام کیا تھا، پھر رکوع سے سر اٹھایا، اس کے بعد سجدے کے لیے جھکے اور دو سجدے کئے، پھر کھڑے ہوئے اور سجدے سے پہلے تین رکوع کیے، ہر رکوع اپنے بعد والے سے زیادہ لمبا ہوتا تھا، البتہ رکوع قیام کے برابر ہوتا تھا۔ آپ صلی اللہ علیہ وسلم نماز میں پیچھے ہٹے تو صفیں بھی آپ کے ساتھ پیچھے ہٹیں، پھر آپ آگے بڑھے اور اپنی جگہ چلے گئے تو صفیں بھی آگے بڑھ گئیں پھر آپ نماز سے فارغ ہوئے تو سورج ( صاف ہو کر ) نکل چکا تھا۔ آپ صلی اللہ علیہ وسلم نے فرمایا: لوگو! سورج اور چاند اللہ تعالیٰ کی نشانیوں میں سے دو نشانیاں ہیں، کسی انسان کے مرنے کی وجہ سے ان میں گرہن نہیں لگتا، لہٰذا جب تم اس میں سے کچھ دیکھو تو نماز میں مشغول ہو جاؤ، یہاں تک کہ وہ صاف ہو کر روشن ہو جائے ، اور راوی نے بقیہ حدیث بیان کی۔",
+          "fr": "Rapporté par Jabir b. Abd Allah رضي الله عنه : Il y eut une éclipse du soleil à l’époque du Messager d’Allah ﷺ, le jour où son fils Ibrahim mourut. Les gens dirent que l’éclipse était due à la mort d’Ibrahim. Le Prophète ﷺ se leva et dirigea la prière, accomplissant six inclinaisons et quatre prosternations. Il disait : « Allah est le plus grand », puis récitait longuement le Coran. Ensuite, il s’inclinait presque aussi longtemps qu’il était resté debout. Il relevait la tête, récitait à nouveau, mais moins longtemps que la première fois, puis s’inclinait de nouveau presque aussi longtemps qu’il était resté debout. Il relevait la tête et récitait une troisième fois, mais moins longtemps que la deuxième, puis s’inclinait encore presque aussi longtemps qu’il était resté debout. Après cela, il se prosternait deux fois. Il se leva ensuite pour la deuxième unité et fit trois autres inclinaisons avant de se prosterner, chaque inclinaison étant un peu plus courte que la précédente, mais presque aussi longue que le temps passé debout. Pendant la prière, il fit un pas en arrière, et les rangs firent de même, puis il avança et les rangs avancèrent aussi. À la fin de la prière, le soleil était redevenu clair. Il dit alors : « Ô gens, le soleil et la lune sont deux signes d’Allah ; ils ne s’éclipsent pas à cause de la mort d’un homme. Quand vous voyez cela, priez jusqu’à ce que le soleil redevienne clair. » Le narrateur a ensuite rapporté la suite du récit",
+          "id": "Telah menceritakan kepada kami [Ahmad bin Hanbal] telah menceritakan kepada kami [Yahya] dari [Abdul Malik] telah menceritakan kepadaku ['Atha`] dari [Jabir bin Abdullah] dia berkata; \"Pernah terjadi gerhana Matahari pada masa Rasulullah shallallahu 'alaihi wasallam, waktu itu bertepatan dengan wafatnya Ibrahim putra Rasulullah shallallahu 'alaihi wasallam, maka orang-orang berkata; \"Gerhana terjadi karena wafatnya Ibrahim putra beliau shallallahu 'alaihi wasallam.\" Mendengar itu, Nabi shallallahu 'alaihi wasallam berdiri untuk mengerjakan shalat bersama orang-orang dengan enam kali ruku', dan empat kali sujud (dua raka'at). Beliau kemudian bertakbir, lalu membaca (surat al Qur'an) dengan memanjangkan bacaannya, lalu ruku' lama seperti lama beliau berdiri, kemudian beliau mengangkat kepalanya (i'tidal) tanpa membaca (surat Al Qur'an) sebagaimana yang pertama, setelah itu beliau ruku' lama seperti lamanya beliau berdiri, lalu mengangkat kepalanya dan membaca (surat al Qur'an) yang ketiga kali (beliau berdiri) tidak sebagaimana bacaan yang kedua, kemudian ruku' lama seperti lama berdiri, lalu i'tidal dengan mengangkat kepala, lalu turun sujud dua kali. Setelah itu beliau berdiri kembali, lalu ruku' tiga sebelum sujud. Dalam shalat ini, raka'at pertama lebih panjang daripada raka'at sesudahnya (kedua), akan tetapi beliau ruku' sama lamanya dengan berdiri.\" Jabir berkata; \"Setelah itu, beliau mundur dalam shaf shalatnya, maka shaf-shaf shalat yang berada di belakang beliau pun turut mundur, kemudian beliau maju di tempat semula, maka shaf-shaf yang ada di belakang beliau turut maju ke depan. Seusai beliau shalat, ternyata matahari muncul kembali, lalu beliau bersabda; \"wahai sekalian manusia, sesungguhnya matahari dan bulan adalah salah satu tanda dari beberapa tanda kekuasaan Allah Azza Wa Jalla, tidaklah keduanya mengalami gerhana karena kematian seseorang, oleh karena itu, apabila kalian melihat suatu kejadian padanya, hendaklah kalian melaksanakan shalat sampai (matahari dan bulan) terang kembali…\" kemudian Perawi melanjutkan sisa dari hadits ini. telah menceritakan kepada kami [Mu`ammal bin Hisyam] telah menceritakan kepada kami [Isma'il] dari [Hisyam] telah menceritakan kepada kami [Abu Az Zubair] dari [Jabir] dia berkata; \"Pernah terjadi gerhana matahari pada masa Rasulullah shallallahu 'alaihi wasallam yaitu ketika hari sangat terik, maka Rasulullah shallallahu 'alaihi wasallam mengerjakan shalat bersama para sahabatnya, beliau berdiri sangat lama sehingga sebagian mereka tersungkur jatuh, kemudian beliau ruku' hingga lama, lalu berdiri lagi hingga lama, kemudian beliau ruku' lagi hingga lama, lalu beliau sujud dua kali, setelah itu beliau bangkit (berdiri). Lalu beliau mengerjakan yang demikian itu (pada raka'at kedua) sebagaimana raka'at pertama, yaitu dengan empat kali ruku' dan empat kali sujud",
+          "tr": "Câbir b. Abdillah'den; demiştir ki: Resûlullah (S.A.V.) zamanında güneş tutuldu. Bu, Peygamber (S.A.V.)'in oğlu İbrahim öldüğü gün olmuştu. İnsanlar, \"Güneş ancak İbrahim öldüğü için tutuldu\" dediler. Bunun üzerine Peygamber (S.A.V.) kalkıp cemaate dört secdede (iki rekatte) altı rükû' ile namaz kıldırdı. (Bu namazda) önce tekbir aldı, sonra (Kur'ân) okuyup kıraati uzattı. Sonra rükû'a eğilip kıyamda kaldığı kadar rüku'da kaldı. Bilâhere başını kaldırıp önceki kıraatten biraz daha az okudu. Tekrar rükû'a va­rıp kıyamdaki kadar kaldı. Sonra yine başını kaldırıp ikincisinden az olmak üzere üçüncü defa okudu. Yine başını kaldırıp secdeye kapandı. İki kere secde yapıp ayağa kalktı. (İkinci rekatte de) secde etmeden önce üç defa rükû' yaptı. Bu rükûların her biri kendisinden sonraki rükûdan daha uzundu. Ancak bunlar, kıyamı kadarlardı. Resûlullah (bundan) sonra namazda olduğu yerinden biraz geriledi. Bunu gören cemaat de onunla birlikte geriledi. Sonra ilerleyip yine eski yerine durdu. Bunun üzerine saflar (cemaat) da ilerlediler. Resûlullah, güneş doğarken namazını tamamlayarak (cemaate) şöyle hitab etti: \"Ey insanlar! Şüphesiz güneş ve ay Allah'ın kudretine (delâlet eden) âyetlerinden iki âyettirler. Bir beşerin ölümünden dolayı tutulmazlar. O halde siz bunu (güneş veya ay tutulmasını) gördüğünüz za­man (açılıncaya kadar) namaz kılınız.\" (Râvi Ahmed b. Hanbel) bundan sonra hadisin kalanını söyledi"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Shadh"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim (904)"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 3,
+        "hadith": 18
+      },
+      "narrator": {
+        "en": "Jabir b. Abd Allah"
+      }
+    },
+    {
+      "hadithNumber": 1179,
+      "arabicNumber": 1179,
+      "book": 3,
+      "hadithInBook": 19,
+      "text": {
+        "arabic": "حَدَّثَنَا مُؤَمَّلُ بْنُ هِشَامٍ، حَدَّثَنَا إِسْمَاعِيلُ، عَنْ هِشَامٍ، حَدَّثَنَا أَبُو الزُّبَيْرِ، عَنْ جَابِرٍ، قَالَ كُسِفَتِ الشَّمْسُ عَلَى عَهْدِ رَسُولِ اللَّهِ صلى الله عليه وسلم فِي يَوْمٍ شَدِيدِ الْحَرِّ فَصَلَّى رَسُولُ اللَّهِ صلى الله عليه وسلم بِأَصْحَابِهِ فَأَطَالَ الْقِيَامَ حَتَّى جَعَلُوا يَخِرُّونَ ثُمَّ رَكَعَ فَأَطَالَ ثُمَّ رَفَعَ فَأَطَالَ ثُمَّ رَكَعَ فَأَطَالَ ثُمَّ رَفَعَ فَأَطَالَ ثُمَّ سَجَدَ سَجْدَتَيْنِ ثُمَّ قَامَ فَصَنَعَ نَحْوًا مِنْ ذَلِكَ فَكَانَ أَرْبَعَ رَكَعَاتٍ وَأَرْبَعَ سَجَدَاتٍ ‏.‏ وَسَاقَ الْحَدِيثَ ‏.‏",
+        "translations": {
+          "en": "Narrated Jabir:There was an eclipse of the sun in the time of the Messenger of Allah (ﷺ) on a hot day. The Messenger of Allah (ﷺ)led his Companions in prayer and prolonged the standing until the people began to fall down. He then bowed and prolonged it; then he raised his head and prolonged (the stay); then he bowed and prolonged it; then he raised his head and prolonged (the stay); then he made two prostrations and then stood up; then he did in the same manner. He thus performed four bowings and four prostrations. Then the narrator narrated the rest of the tradition",
+          "ur": "جابر رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم کے عہد میں سخت گرمی کے دن میں سورج گرہن لگا تو رسول اللہ صلی اللہ علیہ وسلم نے صحابہ کرام کو نماز کسوف پڑھائی، ( اس میں ) آپ نے لمبا قیام کیا یہاں تک کہ لوگ گرنے لگے پھر آپ نے رکوع کیا تو لمبا ( رکوع ) کیا پھر رکوع سے سر اٹھایا تو لمبا قیام کیا، پھر رکوع کیا تو لمبا رکوع کیا، پھر رکوع سے سر اٹھایا تو لمبا ( قیام ) کیا، پھر دو سجدے کئے پھر ( دوسری رکعت کے لیے ) کھڑے ہوئے تو ویسے ہی کیا، اس طرح ( دو رکعت میں ) چار رکوع اور چار سجدے ہوئے اور راوی نے پوری حدیث بیان کی ۱؎۔",
+          "fr": "Rapporté par Jabir رضي الله عنه : Il y eut une éclipse du soleil à l’époque du Messager d’Allah ﷺ, un jour de grande chaleur. Le Messager d’Allah ﷺ dirigea la prière avec ses Compagnons et prolongea la station debout jusqu’à ce que certains commencent à tomber. Il s’inclina longuement, releva la tête et resta debout longtemps, puis s’inclina de nouveau longuement, releva la tête et resta debout longtemps, puis fit deux prosternations et se releva ; il fit de même pour la deuxième unité. Ainsi, il accomplit quatre inclinaisons et quatre prosternations. Le narrateur a ensuite rapporté la suite du récit",
+          "tr": "Cabir (r.a.)'den; demiştir ki: Resûlullah (S.A.V.) zamanımda çok sıcak bir günde güneş tutuldu. Bunun üzerine Resûlullah (S.A.V.) ashabına namaz kıldırdı. Kıyamı o kadar uzattı ki sahabîler (yere) düşmeye başladılar. Sonra rükû' edip (onu da) uzattı. Sonra doğrulup uzun süre durdu. Sonra yine rüku edib uzun süre (rükû'da) kaldı. Bilâhere yine doğrulup onu da uzattı. Daha sonra iki defa secde edip kalktı ve bunların (ilk rekatte yaptıklarının) aynısını yaptı. (Böylece) Hz. Peygamberin namazı dört rükû ve dört secde (olmuş) oldu. (Ravi bundan) sonra hadisin devamını zikretti"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih Lighairihi"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim (904)"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 3,
+        "hadith": 19
+      },
+      "narrator": {
+        "en": "Jabir"
+      }
+    },
+    {
+      "hadithNumber": 1180,
+      "arabicNumber": 1180,
+      "book": 3,
+      "hadithInBook": 20,
+      "text": {
+        "arabic": "حَدَّثَنَا ابْنُ السَّرْحِ، أَخْبَرَنَا ابْنُ وَهْبٍ، ح وَحَدَّثَنَا مُحَمَّدُ بْنُ سَلَمَةَ الْمُرَادِيُّ، حَدَّثَنَا ابْنُ وَهْبٍ، عَنْ يُونُسَ، عَنِ ابْنِ شِهَابٍ، أَخْبَرَنِي عُرْوَةُ بْنُ الزُّبَيْرِ، عَنْ عَائِشَةَ، زَوْجِ النَّبِيِّ صلى الله عليه وسلم قَالَتْ خُسِفَتِ الشَّمْسُ فِي حَيَاةِ رَسُولِ اللَّهِ صلى الله عليه وسلم فَخَرَجَ رَسُولُ اللَّهِ صلى الله عليه وسلم إِلَى الْمَسْجِدِ فَقَامَ فَكَبَّرَ وَصَفَّ النَّاسُ وَرَاءَهُ فَاقْتَرَأَ رَسُولُ اللَّهِ صلى الله عليه وسلم قِرَاءَةً طَوِيلَةً ثُمَّ كَبَّرَ فَرَكَعَ رُكُوعًا طَوِيلاً ثُمَّ رَفَعَ رَأْسَهُ فَقَالَ ‏\"‏ سَمِعَ اللَّهُ لِمَنْ حَمِدَهُ رَبَّنَا وَلَكَ الْحَمْدُ ‏\"‏ ‏.‏ ثُمَّ قَامَ فَاقْتَرَأَ قِرَاءَةً طَوِيلَةً هِيَ أَدْنَى مِنَ الْقِرَاءَةِ الأُولَى ثُمَّ كَبَّرَ فَرَكَعَ رُكُوعًا طَوِيلاً هُوَ أَدْنَى مِنَ الرُّكُوعِ الأَوَّلِ ثُمَّ قَالَ ‏\"‏ سَمِعَ اللَّهُ لِمَنْ حَمِدَهُ رَبَّنَا وَلَكَ الْحَمْدُ ‏\"‏ ‏.‏ ثُمَّ فَعَلَ فِي الرَّكْعَةِ الأُخْرَى مِثْلَ ذَلِكَ فَاسْتَكْمَلَ أَرْبَعَ رَكَعَاتٍ وَأَرْبَعَ سَجَدَاتٍ وَانْجَلَتِ الشَّمْسُ قَبْلَ أَنْ يَنْصَرِفَ ‏.‏",
+        "translations": {
+          "en": "Narrated A'ishah (May Allah be pleased with her):There was an eclipse of the sun during the lifetime of the Messenger of Allah (ﷺ)came tot he mosque; he stood up and uttered the takbir (Allah is great); the people stood in rows behind him; the Messenger of Allah (ﷺ) recited from the Quran for a long time; then he uttered the takbir (Allah is most great) and performed bowing for a long time, then he raised his head and said: Allah listens to him who praises Him; our Lord, and to Thee be praise; then he stood up and recited from the Qur'an for a long time, but it was less than the first (recitation); he then bowed for a long time, but it was less than the first bowing; he then said, Allah listens to him who praises Him; our Lord, and to Thee be praise. he then did so in the second rak'ah. he thus completed four bowings and four prostrations. The sun had become bright before he departed",
+          "ur": "ام المؤمنین عائشہ رضی اللہ عنہا کہتی ہیں کہ رسول اللہ صلی اللہ علیہ وسلم کی زندگی میں سورج گرہن لگا تو آپ مسجد کی طرف نکلے اور ( نماز کے لیے ) کھڑے ہوئے، آپ صلی اللہ علیہ وسلم نے «الله أكبر» کہا اور لوگوں نے آپ کے پیچھے صف لگائی، آپ صلی اللہ علیہ وسلم نے لمبی قرات کی پھر «الله أكبر» کہہ کر لمبا رکوع کیا، پھر اپنا سر اٹھایا اور «سمع الله لمن حمده ربنا ولك الحمد» کہا، پھر کھڑے رہے اور لمبی قرآت کی، اور یہ پہلی قرآت سے کچھ مختصر تھی، پھر آپ صلی اللہ علیہ وسلم نے «الله أكبر» کہہ کر لمبا رکوع کیا، اور یہ پہلے رکوع سے کچھ مختصر تھا، ( پھر رکوع سے سر اٹھایا ) اور «سمع الله لمن حمده ربنا ولك الحمد» کہا، پھر دوسری رکعت میں بھی آپ صلی اللہ علیہ وسلم نے ایسا ہی کیا اس طرح ( دو رکعت میں ) آپ نے پورے چار رکوع اور چار سجدے کئے، اور آپ کے نماز سے فارغ ہونے سے پہلے سورج روشن ہو گیا۔",
+          "fr": "Rapporté par Aïcha (la mère des croyants) رضي الله عنها : Il y eut une éclipse du soleil du vivant du Messager d’Allah ﷺ. Il se rendit à la mosquée, se leva et prononça le takbir (Allah est le plus grand) ; les gens se mirent en rangs derrière lui. Le Messager d’Allah ﷺ récita longuement le Coran, puis il fit le takbir et s’inclina longuement, releva la tête en disant : « Allah entend celui qui Le loue ; notre Seigneur, à Toi la louange », puis il se remit debout et récita à nouveau longuement, mais moins que la première fois. Il s’inclina de nouveau longuement, mais moins que la première inclinaison, puis dit : « Allah entend celui qui Le loue ; notre Seigneur, à Toi la louange. » Il fit de même lors de la deuxième unité. Il accomplit ainsi quatre inclinaisons et quatre prosternations. Le soleil redevint clair avant qu’il ne termine",
+          "id": "Telah menceritakan kepada kami [Ibnu As Sarh] telah mengabarkan kepada kami [Ibnu Wahb]. Dan telah di riwayatkan dari jalur lain, telah menceritakan kepada kami [Muhammad bin Salamah Al Muradi] telah menceritakan kepada kami [Ibnu Wahb] dari [Yunus] dari [Ibnu Syihab] telah mengabarkan kepadaku ['Urwah bin Az Zubair] dari ['Aisyah istri Nabi shallallahu 'alaihi wasallam] dia berkata; \"Pernah terjadi gerhana matahari ketika Rasulullah shallallahu 'alaihi wasallam masih hidup, maka Rasulullah shallallahu 'alaihi wasallam keluar menuju masjid, kemudian beliau berdiri dan bertakbir, dan orang-orang juga ikut berbaris di belakang beliau, kemudian Rasulullah shallallahu 'alaihi wasallam memanjangkan bacaannya, lalu beliau bertakbir, kemudian ruku' hingga lama, setelah itu beliau mengangkat kepala (i'tidal) sambil membaca; 'samiallahu liman hamidah, rabbanaa walakal hamdu. ' Kemudian beliau berdiri dan memanjangkan bacaannya (Al Fatihah dan surat Al Qur'an), namun agak pendek dari bacaan yang pertama. Kemudian beliau bertakbir dan ruku' hingga lama, namun ia lebih pendek daripada ruku' yang pertama, lalu beliau mengucapkan 'sami'allahu liman hamidah, rabbanaa walakal hamdu', kemudian ia mengerjakan seperti itu pada raka'at kedua, maka sempurnalah empat kali ruku' dan empat kali sujud. Dan ternyata matahari telah terang kembali sebelum beliau beranjak pergi.\" Telah menceritakan kepada kami [Ahmad bin Shalih] telah menceritakan kepada kami ['Anbasah] telah menceritakan kepada kami [Yunus] dari [Ibnu Syihab] dia berkata; [Katsir bin 'Abbas] pernah bercerita bahwa [Abdullah bin 'Abbas] pernah bercerita bahwa Rasulullah shallallahu 'alaihi wasallam shalat gerhana matahari…\" kemudian Perawi menyebutkan seperti hadits 'Urwah dari Aisyah dari Rasulullah shallallahu 'alaihi wasallam, bahwa beliau shalat dua raka'at, dan di setiap raka'at, beliau mengerjakan dua kali ruku",
+          "tr": "Nebi (S.A.V.)'in hanımı Âişe (r.anha)'dan; demiştir ki: Resûlullah (S.A.V.)'in sağlığında güneş tutuldu. Efendimiz hemen mescide gidib (namaza) durdu ve tekbir aldı. İnsanlar da onun peşinde saf tuttular. Hz. Peygamber uzun uzun okudu, sonra tekbir alıp rükû'a vardı (ve) uzun zaman rükû'da kaldı. Sonra başını kaldırıp \"Semiallahu limen-hamideh, Rabbena ve leke'I-hamd\" dedi ve kıyama durdu. Yine uzun uzun okudu, (ama) bu ilk kıraatten daha az idi. Bilâhere tekrar tekbir alıp uzun bir rükû' yaptı. Bu rükû evvelkinden daha kısa idi. Sonra \"Semiallahu limen hamideh Rabbena ve leke'I-hamd\" dedi. Diğer rekâtte de bunlar (ilk rekattakiler) gibi yapıp dört rükû ve dört secdeye tamamladı. Resûlullah namazdan ayrılmadan önce güneş açıldı"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (1046) Sahih Muslim (901)"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 3,
+        "hadith": 20
+      },
+      "narrator": {
+        "en": "A'ishah (May Allah be pleased with her)"
+      }
+    },
+    {
+      "hadithNumber": 1181,
+      "arabicNumber": 1181,
+      "book": 3,
+      "hadithInBook": 21,
+      "text": {
+        "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ صَالِحٍ، حَدَّثَنَا عَنْبَسَةُ، حَدَّثَنَا يُونُسُ، عَنِ ابْنِ شِهَابٍ، قَالَ كَانَ كَثِيرُ بْنُ عَبَّاسٍ يُحَدِّثُ أَنَّ عَبْدَ اللَّهِ بْنَ عَبَّاسٍ، كَانَ يُحَدِّثُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم صَلَّى فِي كُسُوفِ الشَّمْسِ مِثْلَ حَدِيثِ عُرْوَةَ عَنْ عَائِشَةَ عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم أَنَّهُ صَلَّى رَكْعَتَيْنِ فِي كُلِّ رَكْعَةٍ رَكْعَتَيْنِ ‏.‏",
+        "translations": {
+          "en": "Narrated Abd Allah b. 'Abbas:The Messenger of Allah (ﷺ) prayed at the solar eclipse as reported in the tradition narrated by 'Urwah from Aishah from the Messenger of Allah (ﷺ) that he offered two rak'ahs of prayer bowing twice in each rak'ah",
+          "ur": "عبداللہ بن عباس رضی اللہ عنہما بیان کرتے تھے کہ رسول اللہ صلی اللہ علیہ وسلم نے سورج گرہن کی نماز پڑھی، جیسے عروہ ام المؤمنین عائشہ رضی اللہ عنہا سے اور ام المؤمنین عائشہ رضی اللہ عنہا رسول اللہ صلی اللہ علیہ وسلم سے روایت کرتی ہیں کہ آپ نے دو رکعت پڑھی اور ہر رکعت میں دو رکوع کیا۔",
+          "fr": "Rapporté par Abd Allah b. 'Abbas رضي الله عنه : Le Messager d’Allah ﷺ a prié lors d’une éclipse solaire, comme cela a été rapporté dans le récit transmis par 'Urwah d’après Aïcha, du Messager d’Allah ﷺ, qu’il accomplit deux unités de prière, s’inclinant deux fois dans chaque unité",
+          "tr": "Abdullah b. Abbâs (r.anhumâ), Resûlullah (S.A.V.)'in güneş tutulduğunda namaz kıldığını haber verirdi. (Abdullah) Urve'nin, Hz. Âişe'den onun da Peygamber (S.A.V.)'den rivayet ettiği hadis gibi Resûlullah (S.A.V.)'in her rekatte iki rükû’ olmak üzere, iki rekat namaz kıldığını bildirirdi"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (1046) Sahih Muslim (902)"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 3,
+        "hadith": 21
+      },
+      "narrator": {
+        "en": "Abd Allah b. 'Abbas"
+      }
+    },
+    {
+      "hadithNumber": 1182,
+      "arabicNumber": 1182,
+      "book": 3,
+      "hadithInBook": 22,
+      "text": {
+        "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ الْفُرَاتِ بْنِ خَالِدٍ أَبُو مَسْعُودٍ الرَّازِيُّ، أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ أَبِي جَعْفَرٍ الرَّازِيُّ، عَنْ أَبِيهِ، عَنْ أَبِي جَعْفَرٍ الرَّازِيِّ، قَالَ أَبُو دَاوُدَ وَحُدِّثْتُ عَنْ عُمَرَ بْنِ شَقِيقٍ، حَدَّثَنَا أَبُو جَعْفَرٍ الرَّازِيُّ، - وَهَذَا لَفْظُهُ وَهُوَ أَتَمُّ - عَنِ الرَّبِيعِ بْنِ أَنَسٍ، عَنْ أَبِي الْعَالِيَةِ، عَنْ أُبَىِّ بْنِ كَعْبٍ، قَالَ انْكَسَفَتِ الشَّمْسُ عَلَى عَهْدِ رَسُولِ اللَّهِ صلى الله عليه وسلم وَإِنَّ النَّبِيَّ صلى الله عليه وسلم صَلَّى بِهِمْ فَقَرَأَ بِسُورَةٍ مِنَ الطُّوَلِ وَرَكَعَ خَمْسَ رَكَعَاتٍ وَسَجَدَ سَجْدَتَيْنِ ثُمَّ قَامَ الثَّانِيَةَ فَقَرَأَ سُورَةً مِنَ الطُّوَلِ وَرَكَعَ خَمْسَ رَكَعَاتٍ وَسَجَدَ سَجْدَتَيْنِ ثُمَّ جَلَسَ كَمَا هُوَ مُسْتَقْبِلَ الْقِبْلَةِ يَدْعُو حَتَّى انْجَلَى كُسُوفُهَا ‏.‏",
+        "translations": {
+          "en": "Narrated Ubayy b. Ka'b:An eclipse of the sun took place in the time of the Messenger of Allah (ﷺ). The Prophet (ﷺ) led them in prayer. He recited one of the long surahs, bowing five times and prostrating himself twice. He then stood up for the second rak'ah, recited one of the long surahs, bowed five times, prostrated himself twice, then sat where he was facing the qiblah and made the supplication till the eclipse was over",
+          "ur": "ابی بن کعب رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم کے زمانہ میں سورج گرہن لگا اور نبی اکرم صلی اللہ علیہ وسلم نے انہیں ( دو رکعت ) پڑھائی تو آپ نے لمبی سورتوں میں سے ایک سورۃ کی قرآت کی اور پانچ رکوع اور دو سجدے کئے، پھر دوسری رکعت کے لیے کھڑے ہوئے تو اس میں بھی لمبی سورتوں میں سے ایک سورت کی قرآت فرمائی اور پانچ رکوع اور دو سجدے کئے، پھر قبلہ رخ بیٹھے دعا کرتے رہے یہاں تک کہ گرہن چھٹ گیا۔",
+          "fr": "Rapporté par Ubayy b. Ka'b رضي الله عنه : Une éclipse du soleil eut lieu à l’époque du Messager d’Allah ﷺ. Le Prophète ﷺ dirigea la prière. Il récita l’une des longues sourates, s’inclina cinq fois et se prosterna deux fois. Ensuite, il se leva pour la deuxième unité, récita l’une des longues sourates, s’inclina cinq fois, se prosterna deux fois, puis s’assit en direction de la qibla et fit des invocations jusqu’à la fin de l’éclipse",
+          "id": "Telah menceritakan kepada kami [Ahmad bin Furat bin Khalid Abu Mas'ud Ar Razi] telah mengabarkan kepada kami [Muhammad bin Abdullah bin Abu Ja'far Ar Razi] dari [ayahnya] dari [Abu Ja'far Ar Razi] dia berkata; Abu Daud mengatakan; \"aku telah di beritahu dari [Umar bin Syaqiq] telah menceritakan kepada kami [Abu Ja'far Ar Razi] dan ini dari lafadznya yang lebih sempurna. Dari [Ar Rabi' bin Anas] dari [Abu 'Aliyah] dari [Ubay bin Ka'b] dia berkata; \"Pernah terjadi gerhana matahari pada masa Rasulullah shallallahu 'alaihi wasallam, lalu Nabi shallallahu 'alaihi wasallam mengerjakan shalat bersama mereka, beliau membaca surat-surat yang di baca panjang dengan lima kali ruku' dan dua kali sujud, setelah itu beliau berdiri di raka'at kedua, lalu membaca surat-surat yang di baca panjang, dengan lima kali ruku' dan dua kali sujud, kemudian beliau duduk menghadap Kiblat sambil berdo'a, sampai gerhana hilang",
+          "tr": "Ubeyy b. Ka'b (r.a.)'dan; demiştir ki: Resûlullah (S.A.V.) zamanında güneş tutuldu. Efendimiz cemaate namaz kaldırarak uzun sûrelerden birini okudu ve beş defa rükû yaptı, îki kere secde etti ve ikinci rekate kalkıp yine uzunlardan bir sûre okudu ve yine beş defa rükû yaptı, iki kere secde etti, sonra güneşin tutulması açılıncaya kadar duâ ederek olduğu halde kıbleye karşı oturdu"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 3,
+        "hadith": 22
+      },
+      "narrator": {
+        "en": "Ubayy b. Ka'b"
+      }
+    },
+    {
+      "hadithNumber": 1183,
+      "arabicNumber": 1183,
+      "book": 3,
+      "hadithInBook": 23,
+      "text": {
+        "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنْ سُفْيَانَ، حَدَّثَنَا حَبِيبُ بْنُ أَبِي ثَابِتٍ، عَنْ طَاوُسٍ، عَنِ ابْنِ عَبَّاسٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم أَنَّهُ صَلَّى فِي كُسُوفِ الشَّمْسِ فَقَرَأَ ثُمَّ رَكَعَ ثُمَّ قَرَأَ ثُمَّ رَكَعَ ثُمَّ قَرَأَ ثُمَّ رَكَعَ ثُمَّ قَرَأَ ثُمَّ رَكَعَ ثُمَّ سَجَدَ وَالأُخْرَى مِثْلُهَا ‏.‏",
+        "translations": {
+          "en": "Narrated Ibn 'Abbas:The Prophet (ﷺ) prayed at solar eclipse; he recited from the Qur'an and then bowed; then he recited from the Qur'an and then bowed; he then recited from the Qur'an and bowed; he then recited fromt eh Qur'an and bowed. Then he prostrated himself and performed the second rak'ah similar to the first",
+          "ur": "عبداللہ بن عباس رضی اللہ عنہما نبی اکرم صلی اللہ علیہ وسلم سے روایت کرتے ہیں کہ آپ نے سورج گرہن کی نماز پڑھی تو قرآت کی، پھر رکوع کیا، پھر قرآت کی، پھر رکوع کیا، پھر قرآت کی، پھر رکوع کیا، پھر قرآت کی، پھر رکوع کیا، پھر سجدہ کیا، اور دوسری ( رکعت ) بھی اسی طرح پڑھی۔",
+          "fr": "Rapporté par Ibn 'Abbas رضي الله عنه : Le Prophète ﷺ a prié lors d’une éclipse solaire ; il a récité le Coran, puis s’est incliné, puis a récité à nouveau et s’est incliné, puis a récité et s’est incliné, puis a récité et s’est incliné. Ensuite, il s’est prosterné et a accompli la deuxième unité de la même manière que la première",
+          "id": "Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari [Sufyan] telah menceritakan kepada kami [Habib bin Abu Tsabit] dari [Thawus] dari [Ibnu Abbas] dari Nabi shallallahu 'alaihi wasallam bahwa beliau mengerjakan shalat gerhana, lalu beliau membaca (Al Fatihah dan surat Al Qur'an) lalu ruku', kemudian membaca, kemudian ruku', kemudian membaca, kemudian ruku', kemudian membaca, kemudian ruku', kemudian sujud. Beliau mengerjakan seperti itu di raka'at berikutnya (raka'at kedua)",
+          "tr": "İbn Abbâs (r.anhumâ); Resıuullah (s.a.v:) güneş tutulduğunda namazı kıldı. Bu namazda, (Kur'ân'dan) okudu.Sonra rükû' yaptı sonra yine okudu ve yine rükû’ yaptı, sonra tekrar okuyup rükû' yaptı, sonra yine okudu ve rükû'a vardı. Daha sonra da secdeye kapandı. İkinci rekatı de aynen böyle kıldı., demiştir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Munkar"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim (909)"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 3,
+        "hadith": 23
+      },
+      "narrator": {
+        "en": "Ibn 'Abbas"
+      }
+    },
+    {
+      "hadithNumber": 1184,
+      "arabicNumber": 1184,
+      "book": 3,
+      "hadithInBook": 24,
+      "text": {
+        "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ يُونُسَ، حَدَّثَنَا زُهَيْرٌ، حَدَّثَنَا الأَسْوَدُ بْنُ قَيْسٍ، حَدَّثَنِي ثَعْلَبَةُ بْنُ عِبَادٍ الْعَبْدِيُّ، مِنْ أَهْلِ الْبَصْرَةِ أَنَّهُ شَهِدَ خُطْبَةً يَوْمًا لِسَمُرَةَ بْنِ جُنْدُبٍ قَالَ قَالَ سَمُرَةُ بَيْنَمَا أَنَا وَغُلاَمٌ مِنَ الأَنْصَارِ نَرْمِي غَرَضَيْنِ لَنَا حَتَّى إِذَا كَانَتِ الشَّمْسُ قِيدَ رُمْحَيْنِ أَوْ ثَلاَثَةٍ فِي عَيْنِ النَّاظِرِ مِنَ الأُفُقِ اسْوَدَّتْ حَتَّى آضَتْ كَأَنَّهَا تَنُّومَةٌ فَقَالَ أَحَدُنَا لِصَاحِبِهِ انْطَلِقْ بِنَا إِلَى الْمَسْجِدِ فَوَاللَّهِ لَيُحْدِثَنَّ شَأْنُ هَذِهِ الشَّمْسِ لِرَسُولِ اللَّهِ صلى الله عليه وسلم فِي أُمَّتِهِ حَدَثًا قَالَ فَدَفَعْنَا فَإِذَا هُوَ بَارِزٌ فَاسْتَقْدَمَ فَصَلَّى فَقَامَ بِنَا كَأَطْوَلِ مَا قَامَ بِنَا فِي صَلاَةٍ قَطُّ لاَ نَسْمَعُ لَهُ صَوْتًا قَالَ ثُمَّ رَكَعَ بِنَا كَأَطْوَلِ مَا رَكَعَ بِنَا فِي صَلاَةٍ قَطُّ لاَ نَسْمَعُ لَهُ صَوْتًا ثُمَّ سَجَدَ بِنَا كَأَطْوَلِ مَا سَجَدَ بِنَا فِي صَلاَةٍ قَطُّ لاَ نَسْمَعُ لَهُ صَوْتًا ‏.‏ ثُمَّ فَعَلَ فِي الرَّكْعَةِ الأُخْرَى مِثْلَ ذَلِكَ قَالَ فَوَافَقَ تَجَلِّي الشَّمْسِ جُلُوسَهُ فِي الرَّكْعَةِ الثَّانِيَةِ قَالَ ثُمَّ سَلَّمَ ثُمَّ قَامَ فَحَمِدَ اللَّهَ وَأَثْنَى عَلَيْهِ وَشَهِدَ أَنْ لاَ إِلَهَ إِلاَّ اللَّهُ وَشَهِدَ أَنَّهُ عَبْدُهُ وَرَسُولُهُ ثُمَّ سَاقَ أَحْمَدُ بْنُ يُونُسَ خُطْبَةَ النَّبِيِّ صلى الله عليه وسلم ‏.‏",
+        "translations": {
+          "en": "Narrated Samurah ibn Jundub: When, a boy from the Ansar and I were shooting (arrows) towards two of our targets, the sun was sighted by the people at the height of two or three lances above the horizon. It became black like the black herb called tannumah. One of us said to his companion: Let us go to the mosque; by Allah, this incident of the sun will surely bring something new in the community of the Messenger of Allah (ﷺ). As we reached it, we suddenly saw that he (the Prophet) had already come out (of his house). He stepped forward for a long time as much as he could do so in the prayer. But we did not hear his voice. He then performed a bowing and prolonged it as much as he could do in the prayer. But we did not hear his voice. He then prostrated himself with us and prolonged it which he never did in the prayer before. But we did not hear his voice. He then did similarly in the second rak'ah. The sun became bright when he sat after the second rak'ah. Then he uttered the salutation. He then stood up, praised Allah, and extolled Him, and testified that there was no god but Allah and testified that he was His servant and apostle. Ahmad ibn Yunus then narrated the address of the Prophet (ﷺ)",
+          "ur": "اسود بن قیس کہتے ہیں کہ ثعلبہ بن عباد عبدی (جو اہل بصرہ میں سے ہیں) نے بیان کیا ہے کہ وہ ایک دن سمرہ بن جندب رضی اللہ عنہ کے خطبہ میں حاضر رہے، سمرہ رضی اللہ عنہ نے ( خطبہ میں ) کہا: میں اور ایک انصاری لڑکا دونوں تیر سے اپنا اپنا نشانہ لگا رہے تھے یہاں تک کہ جب دیکھنے والوں کی نظر میں سورج دو نیزہ یا تین نیزہ کے برابر رہ گیا تو اسی دوران وہ دفعۃً سیاہ ہو گیا پھر گویا وہ تنومہ ۱؎ ہو گیا، تو ہم میں سے ایک نے اپنے ساتھی سے کہا: تم ہمارے ساتھ مسجد چلو کیونکہ اللہ کی قسم سورج کا یہ حال ہونا رسول اللہ صلی اللہ علیہ وسلم کی امت میں کوئی نیا واقعہ رونما کرے گا، تو ہم چلے تو دیکھتے ہیں کہ مسجد بھری ۲؎ ہے پھر نبی اکرم صلی اللہ علیہ وسلم آگے بڑھے اور آپ نے نماز پڑھائی، اور ہمارے ساتھ اتنا لمبا قیام کیا کہ آپ صلی اللہ علیہ وسلم نے کبھی بھی کسی نماز میں اتنا لمبا قیام نہیں کیا تھا، ہمیں آپ کی آواز سنائی نہیں دے رہی تھی، پھر آپ صلی اللہ علیہ وسلم نے ہمارے ساتھ اتنا لمبا رکوع کیا کہ اتنا لمبا رکوع کسی نماز میں نہیں کیا تھا، ہمیں آپ کی آواز سنائی نہیں دے رہی تھی ۳؎ پھر آپ صلی اللہ علیہ وسلم نے اتنا لمبا سجدہ کیا کہ اتنا لمبا سجدہ آپ نے کبھی بھی کسی نماز میں ہمارے ساتھ نہیں کیا تھا اور ہمیں آپ کی آواز سنائی نہیں دے رہی تھی، پھر آپ صلی اللہ علیہ وسلم نے دوسری رکعت میں بھی ایسا ہی کیا۔ سمرہ بن جندب رضی اللہ عنہ کہتے ہیں: دوسری رکعت پڑھ کر آپ صلی اللہ علیہ وسلم کے بیٹھنے کے ساتھ ہی سورج روشن ہو گیا، پھر آپ نے سلام پھیرا، پھر کھڑے ہوئے تو اللہ کی حمد و ثنا بیان کی اور گواہی دی کہ اللہ کے علاوہ کوئی معبود برحق نہیں اور آپ اللہ کے بندے اور اس کے رسول ہیں ، پھر احمد بن یونس نے نبی اکرم صلی اللہ علیہ وسلم کا پورا خطبہ بیان کیا۔",
+          "fr": "Rapporté par Samurah ibn Jundub رضي الله عنه : Alors qu’un garçon des Ansar et moi tirions des flèches sur deux cibles, les gens aperçurent le soleil à deux ou trois lances au-dessus de l’horizon. Il devint noir comme l’herbe noire appelée tannumah. L’un de nous dit à l’autre : « Allons à la mosquée ; par Allah, cet événement du soleil va sûrement annoncer quelque chose de nouveau dans la communauté du Messager d’Allah ﷺ. » En arrivant, nous vîmes que le Prophète était déjà sorti. Il avança longuement dans la prière, mais nous n’entendions pas sa voix. Il s’inclina longuement, mais nous n’entendions pas sa voix. Il se prosterna avec nous, prolongeant la prosternation plus que jamais auparavant, mais nous n’entendions pas sa voix. Il fit de même lors de la deuxième unité. Le soleil redevint clair lorsqu’il s’assit après la deuxième unité, puis il prononça la salutation. Ensuite, il se leva, loua Allah, Le glorifia, attesta qu’il n’y a de dieu qu’Allah et qu’il était Son serviteur et Son Messager. Ahmad ibn Yunus a ensuite rapporté le sermon du Prophète ﷺ",
+          "id": "Telah menceritakan kepada kami [Ahmad bin Yunus] telah menceritakan kepada kami [Zuhair] telah menceritakan kepada kami [Al Aswad bin Qais] telah menceritakan kepadaku [Tsa'labah bin 'Ibad Al 'Abdi] -dari penduduk Bashrah- bahwa suatu hari, dia pernah mendengarkan khutbahnya [Samurah bin Jundub]. Kata Samurah; \"Ketika aku dan seorang pemuda dari Anshar sedang memanah pada dua target kami, tiba-tiba matahari -yang terlihat berada seukuran dua tombak atau tiga tombak- diatas kami, berubah menjadi hitam seperti pohon tanumah (pohon hitam dan buahnya juga hitam). Salah seorang dari kami berkata: mari kita pergi ke masjid! Demi Allah, Rasulullah shallallahu 'alaihi wasallam pasti akan memberitahukan peristiwa ini kepada umatnya!\" Maka kami pun berangkat, (sesampainya di masjid) ternyata beliau sudah bersiap-siap dan maju, lalu beliau shalat. Beliau berdiri tersebut lama sekali dalam shalat tersebut, sepertinya shalat ini yang paling panjang beliau lakukan bersama kami, hingga kami tidak mendengar suara dari beliau. kemudian beliau ruku' dengan ruku' yang panjang juga dan kami tidak mendengar suara dari beliau, kemudian beliau sujud dengan sujud yang panjang juga dan kami tidak mendengar suara dari beliau. Dan beliau melakukan hal yang sama pada raka'at kedua. Samurah berkata; 'Duduk beliau pada raka'at kedua bersamaan dengan terangnya matahari. ' Kemudian beliau mengucapkan salam dan memuji Allah, bersaksi bahwa tiada ilah yang berhak disembah selainNya dan bersaksi bahwa beliau adalah hamba dan utusan-Nya.\"kemudian Ahmad bin Yunus melanjutkan khutbah Nabi shallallahu 'alaihi wasallam",
+          "tr": "Semure b. Cündüb (r.a.)'den; demiştir kî: Ben ve Ensârdan bir çocuk hedeflerimize ok atarken güneş bakanın gözünde iki veya üç mızrak kadar olunca, Tennûme bitkisi gibi oluncaya kadar karardı. Birimiz arkadaşına; \"Haydi mescide gidelim. Vallahi güneşin şu hali, Resûlullah (S.A.V.) de ümmeti hakkında yeni bir şey meydana getirecek\" dedi ve koşarak gittik. Bir de gördük ki Resûlullah (S.A.V.) mescide çıkmış. Efendimiz öne geçip namaz kıldırdı. Bizi daha önceki namazlarındaki en uzun kıyamı gibi kıyamda tuttu. Sesini işitmiyorduk. Sonra bize önceki namazlarındaki en uzun secdesi gibi secde ettirdi. (Burada da) sesini işitmedik. Diğer rekatte de aynen bunun gibi yaptı. Güneşin açılması ikinci rekattaki oturuşuna denk geldi. Sonra selam verdi. Daha sonra kalkıp Allah'a hamd ve sena etti. Allah'tan başka ilâh olmadığına ve kendisinin O'nun kulu ve Resulü olduğuna şehâdet etti. Bundan sonra Ahmed b. Yûnus, Resûlullah (s.a.v.)'in hutbesini zikretti"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 3,
+        "hadith": 24
+      },
+      "narrator": {
+        "en": "Samurah ibn Jundub"
+      }
+    },
+    {
+      "hadithNumber": 1185,
+      "arabicNumber": 1185,
+      "book": 3,
+      "hadithInBook": 25,
+      "text": {
+        "arabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا وُهَيْبٌ، حَدَّثَنَا أَيُّوبُ، عَنْ أَبِي قِلاَبَةَ، عَنْ قَبِيصَةَ الْهِلاَلِيِّ، قَالَ كُسِفَتِ الشَّمْسُ عَلَى عَهْدِ رَسُولِ اللَّهِ صلى الله عليه وسلم فَخَرَجَ فَزِعًا يَجُرُّ ثَوْبَهُ وَأَنَا مَعَهُ يَوْمَئِذٍ بِالْمَدِينَةِ فَصَلَّى رَكْعَتَيْنِ فَأَطَالَ فِيهِمَا الْقِيَامَ ثُمَّ انْصَرَفَ وَانْجَلَتْ فَقَالَ ‏ \"‏ إِنَّمَا هَذِهِ الآيَاتُ يُخَوِّفُ اللَّهُ بِهَا فَإِذَا رَأَيْتُمُوهَا فَصَلُّوا كَأَحْدَثِ صَلاَةٍ صَلَّيْتُمُوهَا مِنَ الْمَكْتُوبَةِ ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Narrated Qabisah al-Hilali: There was an eclipse of the sun in the time of the Messenger of Allah (ﷺ). He came out bewildered pulling his garment, and I was in his company at Medina. He prayed two rak'ahs and stood for a long time in them. He then departed and the sun became bright. He then said: There are the signs by means of which Allah, the Exalted, produces dread (in His servants). When you see anything of this nature, then pray as you are praying a fresh obligatory prayer",
+          "ur": "قبیصہ بن مخارق ہلالی رضی اللہ عنہ کہتے ہیں رسول اللہ صلی اللہ علیہ وسلم کے زمانہ میں سورج گرہن لگا تو آپ گھبرا کر اپنا کپڑا گھسیٹتے ہوئے نکلے اس دن میں آپ کے ساتھ مدینہ ہی میں تھا، آپ صلی اللہ علیہ وسلم نے دو رکعت نماز پڑھائی اور ان میں لمبا قیام فرمایا، پھر نماز سے فارغ ہوئے اور سورج روشن ہو گیا، اس کے بعد آپ صلی اللہ علیہ وسلم نے فرمایا: بیشک یہ نشانیاں ہیں، جن کے ذریعہ اللہ ( بندوں کو ) ڈراتا ہے لہٰذا جب تم ایسا دیکھو تو نماز پڑھو جیسے تم نے قریب کی فرض نماز پڑھی ہو ۱؎ ۔",
+          "fr": "Rapporté par Qabisah al-Hilali رضي الله عنه : Il y eut une éclipse du soleil à l’époque du Messager d’Allah ﷺ. Il sortit, l’air préoccupé, tirant son vêtement, et j’étais avec lui à Médine. Il pria deux unités et resta longtemps debout dans chacune. Ensuite, il partit et le soleil redevint clair. Il dit alors : « Ce sont des signes par lesquels Allah, le Très-Haut, fait naître la crainte chez Ses serviteurs. Quand vous voyez cela, priez comme vous priez une prière obligatoire. »",
+          "id": "Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Wuhaib] telah menceritakan kepada kami [Ayyub] dari [Abu Qilabah] dari [Qabishah Al Hilali] dia berkata; \"Telah terjadi gerhana Matahari pada masa Rasulullah shallallahu 'alaihi wasallam, maka beliau bergegas keluar sambil menyingsingkan lengan bajunya, ketika itu aku bersama beliau di Madinah. Lalu beliau shalat dua raka'at dengan memanjangkan berdiri, seusainya beliau melaksanakan shalat, matahari sudah cerah lagi, lalu beliau bersabda: \"Sesungguhnya ini merupakan tanda dari tanda-tanda kebesaran Allah, dan dengannya Allah membuat hamba-Nya takut, apabila kalian melihat peristiwa itu, hendaklah kalian shalat seperti kalian melaksanakan shalat wajib.\" Telah menceritakan kepada kami [Ahmad bin Ibrahim], telah menceritakan kepada kami [Raihan bin Sa'id] telah menceritakan kepada kami ['Abbad bin Manshur] dari [Ayyub] dari [Abu Qilabah] dari [Hilal bin 'Amir] bahwa [Qabishah Al Hilali] bercerita kepadanya, bahwa telah terjadi gerhana matahari..,. seperti makna hadits Musa, katanya \"… hingga bintang terlihat",
+          "tr": "Kabîsa el-Hilâlî'den; demiştir ki: Resulullah (S.A.V.) zamanında güneş tutuldu. Bunun üzerine Hz. Peygamber (S.A.V.) telaşla ve sür'atle çıktı. O gün ben de Medine'de onunla beraberdim- iki rekat namaz kıldırıp ikisinde de kıyamı uzattı. Sonra (namazdan) ayrıldı ve güneş açıldı. Akabinde Efendimiz şöyle buyurdu: \"Bunlar (güneş ve ay tutulmaları) ancak Allah'ın kendileri ile korkuttuğu alâmetlerdir. Onları gördüğünüz zaman en yeni (son) kıldığınız farz namaz gibi namaz kılınız"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 3,
+        "hadith": 25
+      },
+      "narrator": {
+        "en": "Qabisah al-Hilali"
+      }
+    },
+    {
+      "hadithNumber": 1186,
+      "arabicNumber": 1186,
+      "book": 3,
+      "hadithInBook": 26,
+      "text": {
+        "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا رَيْحَانُ بْنُ سَعِيدٍ، حَدَّثَنَا عَبَّادُ بْنُ مَنْصُورٍ، عَنْ أَيُّوبَ، عَنْ أَبِي قِلاَبَةَ، عَنْ هِلاَلِ بْنِ عَامِرٍ، أَنَّ قَبِيصَةَ الْهِلاَلِيَّ، حَدَّثَهُ أَنَّ الشَّمْسَ كُسِفَتْ بِمَعْنَى حَدِيثِ مُوسَى قَالَ حَتَّى بَدَتِ النُّجُومُ ‏.‏",
+        "translations": {
+          "en": "Narrated Qabisah al Hilali:The solar eclipse took place... The narrator then narrated the tradition like that of Musa. The narrator again said: Until the stars appear (in the heaven)",
+          "ur": "ہلال بن عامر سے روایت ہے کہ قبیصہ ہلالی نے ان سے بیان کیا ہے کہ سورج میں گرہن لگا، پھر انہوں نے موسیٰ کی روایت کے ہم معنی روایت ذکر کی، اس میں ہے: یہاں تک کہ ستارے دکھائی دینے لگے۔",
+          "fr": "Rapporté par Qabisah al-Hilali رضي الله عنه : L’éclipse solaire eut lieu… Le narrateur a ensuite rapporté le récit comme celui de Mousa. Le narrateur ajouta : « Jusqu’à ce que les étoiles apparaissent dans le ciel. »",
+          "tr": "Kabisa el-Hiiali, \"Şüphesiz güneş tutuldu\" (diye başlayıp) Musa (b. İsmail) hadîsinin manasını rivâyet etti. (Ahmed b. İbrahim bu rivâtette); \"Resûluilah devrinde güneş tutuldu) o kadar ki, yıldızlar göründü” demiştir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 3,
+        "hadith": 26
+      },
+      "narrator": {
+        "en": "Qabisah al Hilali"
+      }
+    },
+    {
+      "hadithNumber": 1187,
+      "arabicNumber": 1187,
+      "book": 3,
+      "hadithInBook": 27,
+      "text": {
+        "arabic": "حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ سَعْدٍ، حَدَّثَنَا عَمِّي، حَدَّثَنَا أَبِي، عَنْ مُحَمَّدِ بْنِ إِسْحَاقَ، حَدَّثَنِي هِشَامُ بْنُ عُرْوَةَ، وَعَبْدُ اللَّهِ بْنُ أَبِي سَلَمَةَ، وَسُلَيْمَانُ بْنُ يَسَارٍ، كُلُّهُمْ قَدْ حَدَّثَنِي عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، قَالَتْ كُسِفَتِ الشَّمْسُ عَلَى عَهْدِ رَسُولِ اللَّهِ صلى الله عليه وسلم فَخَرَجَ رَسُولُ اللَّهِ صلى الله عليه وسلم فَصَلَّى بِالنَّاسِ فَقَامَ فَحَزَرْتُ قِرَاءَتَهُ فَرَأَيْتُ أَنَّهُ قَرَأَ بِسُورَةِ الْبَقَرَةِ - وَسَاقَ الْحَدِيثَ - ثُمَّ سَجَدَ سَجْدَتَيْنِ ثُمَّ قَامَ فَأَطَالَ الْقِرَاءَةَ فَحَزَرْتُ قِرَاءَتَهُ فَرَأَيْتُ أَنَّهُ قَرَأَ بِسُورَةِ آلِ عِمْرَانَ ‏.‏",
+        "translations": {
+          "en": "Narrated Aishah:There was an eclipse of the sun in the time of the Messenger of Allah (ﷺ). The Messenger of Allah (ﷺ) came out and led the people in prayer. he stood up and I guessed that he recited Surah al-Baqarah. The narrator then further transmitted the tradition. He (the Prophet) then prostrated himself twice, and then stood up and prolonged the recitation. then I guessed his recitation and knew that he recited Surah Al-i-Imran",
+          "ur": "ام المؤمنین عائشہ رضی اللہ عنہا کہتی ہیں کہ رسول اللہ صلی اللہ علیہ وسلم کے زمانہ میں سورج گرہن لگا تو آپ نکلے اور لوگوں کو نماز پڑھائی، آپ صلی اللہ علیہ وسلم نے قیام کیا تو میں نے آپ کی قرآت کا اندازہ لگایا تو مجھے لگا کہ آپ نے سورۃ البقرہ کی قرآت کی ہے، پھر راوی نے پوری حدیث بیان کی، اس میں ہے: پھر آپ صلی اللہ علیہ وسلم نے دو سجدے کئے پھر کھڑے ہوئے اور لمبی قرآت کی، میں نے آپ کی قرآت کا اندازہ کیا کہ آپ نے سورۃ آل عمران کی قرآت کی ہے۔",
+          "fr": "Rapporté par Aïcha رضي الله عنها : Il y eut une éclipse du soleil à l’époque du Messager d’Allah ﷺ. Le Messager d’Allah ﷺ sortit et dirigea la prière. Il resta debout et j’ai pensé qu’il récitait la sourate al-Baqarah. Le narrateur poursuivit le récit. Le Prophète ﷺ se prosterna deux fois, puis se releva et prolongea la récitation. J’ai alors deviné qu’il récitait la sourate Al-i-Imran",
+          "id": "Telah menceritakan kepada kami ['Ubaidullah bin Sa'd] telah menceritakan kepada kami [pamanku] telah menceritakan kepada kami [ayahku] dari [Muhammad bin Ishaq] telah menceritakan kepadaku [Hisyam bin 'Urwah] dan [Abdullah bin Abu Salamah] dari [Sulaiman bin Yasar], semuanya telah menceritakan kepadaku, dari ['Urwah] dari [Aisyah] dia berkata; \"Terjadi gerhana Matahari pada masa Rasulullah shallallahu 'alaihi wasallam, maka Rasulullah shallallahu 'alaihi wasallam keluar untuk mengerjakan shalat bersama orang-orang, setelah itu beliau berdiri. Maka aku memperkirakan bacaan beliau, bahwa beliau membaca surat Al Baqarah …\" kemudian dia melanjutkan hadits tersebut -\"lalu beliau sujud dua kali, kemudian beliau berdiri dan memanjangkan bacaannya, maka aku memperkirakan bacaan beliau, bahwa beliau membaca surat Ali Imran",
+          "tr": "Âişe (r.anhâ)'den; demiştir ki: Resûlullah (S.A.V.) zamanında güneş tutuldu. Bunun üzerine Peygamber (mescide) çıkıp cemaate namaz kıldırdı. (Bu namazda) kıyama durdu. (Kıyamdaki) kıraatini tahmîn ettim. Bakara Sûresi (kadarı)nı okuduğunu zannettim. Râvi hadisi sevkedip şöyle devam etti: Sonra iki defa secde yaptı, sonra kalkıp kıraati yine uzattı. Onun buradaki okuyuşunu da tahmin ettim. Âl-i İmran Suresi (kadarı)nı okuduğunu zannettim"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 3,
+        "hadith": 27
+      },
+      "narrator": {
+        "en": "Aishah"
+      }
+    },
+    {
+      "hadithNumber": 1188,
+      "arabicNumber": 1188,
+      "book": 3,
+      "hadithInBook": 28,
+      "text": {
+        "arabic": "حَدَّثَنَا الْعَبَّاسُ بْنُ الْوَلِيدِ بْنِ مَزْيَدٍ، أَخْبَرَنِي أَبِي، حَدَّثَنَا الأَوْزَاعِيُّ، أَخْبَرَنِي الزُّهْرِيُّ، أَخْبَرَنِي عُرْوَةُ بْنُ الزُّبَيْرِ، عَنْ عَائِشَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَرَأَ قِرَاءَةً طَوِيلَةً فَجَهَرَ بِهَا يَعْنِي فِي صَلاَةِ الْكُسُوفِ ‏.‏",
+        "translations": {
+          "en": "Narrated A'ishah (May Allah be pleased with her):The Messenger of Allah (may peace be upon on him) recited from teh Qur'an in a loud voice in the prayer at an eclipse",
+          "ur": "ام المؤمنین عائشہ رضی اللہ عنہا فرماتی ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے لمبی قرآت کی اور اس میں جہر کیا یعنی نماز کسوف میں ۱؎۔",
+          "fr": "Rapporté par Aïcha (la mère des croyants) رضي الله عنها : Le Messager d’Allah ﷺ récitait le Coran à haute voix lors de la prière de l’éclipse",
+          "id": "Telah menceritakan kepada kami [Al 'Abbas bin Al Walid bin Mazyad] telah mengabarkan kepadaku [ayahku] telah menceritakan kepadaku [Al Auza'i] telah mengabarkan kepadaku [Az Zuhri] telah mengabarkan kepadaku ['Urwah bin Az Zubair] dari ['Aisyah] bahwa Rasulullah shallallahu 'alaihi wasallam membaca dalam bacaan panjangnya sambil mengeraskan (bacaannya), yaitu dalam shalat gerhana",
+          "tr": "Âişe (r.anha)'den rivayet edildiğine göre; Resûlullah (S.A.V.) (küsûf namazında) kıraati uzun tutmuş ve açıktan okumuştur"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 3,
+        "hadith": 28
+      },
+      "narrator": {
+        "en": "A'ishah (May Allah be pleased with her)"
+      }
+    },
+    {
+      "hadithNumber": 1189,
+      "arabicNumber": 1189,
+      "book": 3,
+      "hadithInBook": 29,
+      "text": {
+        "arabic": "حَدَّثَنَا الْقَعْنَبِيُّ، عَنْ مَالِكٍ، عَنْ زَيْدِ بْنِ أَسْلَمَ، عَنْ عَطَاءِ بْنِ يَسَارٍ، عَنْ أَبِي هُرَيْرَةَ، - كَذَا عِنْدَ الْقَاضِي وَالصَّوَابُ عَنِ ابْنِ عَبَّاسٍ، - قَالَ خُسِفَتِ الشَّمْسُ فَصَلَّى رَسُولُ اللَّهِ صلى الله عليه وسلم وَالنَّاسُ مَعَهُ فَقَامَ قِيَامًا طَوِيلاً بِنَحْوٍ مِنْ سُورَةِ الْبَقَرَةِ ثُمَّ رَكَعَ وَسَاقَ الْحَدِيثَ ‏.‏",
+        "translations": {
+          "en": "Narrated Ibn 'Abbas:An eclipse of the sun took place. the Messenger of Allah (ﷺ) prayed along with the people. He stood up for a long time nearly equal to the recitation of Surah al Baqarah. H then bowed. The narrator then transmitted the rest of the tradition",
+          "ur": "عبداللہ بن عباس رضی اللہ عنہما کہتے ہیں کہ سورج گرہن لگا تو رسول اللہ صلی اللہ علیہ وسلم نے گرہن کی نماز پڑھی اور آپ کے ساتھ لوگوں نے بھی، آپ صلی اللہ علیہ وسلم نے سورۃ البقرہ کی قرآت کے برابر طویل قیام کیا، پھر رکوع کیا، پھر راوی نے پوری حدیث بیان کی۔",
+          "fr": "Rapporté par Ibn 'Abbas رضي الله عنه : Il y eut une éclipse du soleil. Le Messager d’Allah ﷺ pria avec les gens. Il resta debout longtemps, presque le temps de la récitation de la sourate al-Baqarah. Ensuite, il s’inclina. Le narrateur a ensuite rapporté la suite du récit",
+          "id": "Telah menceritakan kepada kami [Al Qa'nabi] dari [Malik] dari [Zaid bin Aslam] dari ['Atha` bin Yasar] dari [Ibnu Abbas] dia berkata; \"Telah terjadi gerhana Matahari, lalu Rasulullah shallallahu 'alaihi wasallam mengerjakan shalat bersama orang-orang, beliau berdiri lama (dalam shalat) kira-kira membaca surat Al Baqarah, kemudian beliau ruku'…\" kemudian (perawi) melanjutkan hadits tersebut",
+          "tr": "İbn Abbâs (r.a.)'dan; demiştir ki: Güneş tutuldu. Bunun üzerine Resûlullah (S.A.V.) insanlarla birlikte namaz kıldı. (Bu namazda) kalkıp uzun (müddet) ayakta durdu. (Bu duruş) Bakara Suresi(ni okuyacak) kadardı. Sonra rükû yaptı. Râvî (bundan sonra) hadisin kalanını aktardı"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (1052) Sahih Muslim (907)"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 3,
+        "hadith": 29
+      },
+      "narrator": {
+        "en": "Ibn 'Abbas"
+      }
+    },
+    {
+      "hadithNumber": 1190,
+      "arabicNumber": 1190,
+      "book": 3,
+      "hadithInBook": 30,
+      "text": {
+        "arabic": "حَدَّثَنَا عَمْرُو بْنُ عُثْمَانَ، حَدَّثَنَا الْوَلِيدُ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ نَمِرٍ، أَنَّهُ سَأَلَ الزُّهْرِيَّ فَقَالَ الزُّهْرِيُّ أَخْبَرَنِي عُرْوَةُ، عَنْ عَائِشَةَ، قَالَتْ كُسِفَتِ الشَّمْسُ فَأَمَرَ رَسُولُ اللَّهِ صلى الله عليه وسلم رَجُلاً فَنَادَى أَنَّ الصَّلاَةَ جَامِعَةٌ ‏.‏",
+        "translations": {
+          "en": "Narrated A'ishah (May Allah be pleased with her):There was an eclipse of the sun. The Messenger of Allah (ﷺ) commanded a man who summoned: \"The prayer will be held in congregation",
+          "ur": "ام المؤمنین عائشہ رضی اللہ عنہا کہتی ہیں کہ سورج گرہن لگا تو رسول اللہ صلی اللہ علیہ وسلم نے ایک شخص کو حکم دیا تو اس نے اعلان کیا کہ نماز ( کسوف ) جماعت سے ہو گی۔",
+          "fr": "Rapporté par Aïcha (la mère des croyants) رضي الله عنها : Il y eut une éclipse du soleil. Le Messager d’Allah ﷺ ordonna à un homme d’annoncer : « La prière sera accomplie en groupe. »",
+          "id": "Telah menceritakan kepada kami ['Amru bin Utsman] telah menceritakan kepada kami [Al Walid] telah menceritakan kepada kami [Abdurrahman bin Namir] bahwa dia bertanya kepada [Az Zuhri], maka [Az Zuhri] menjawab; telah mengabarkan kepadaku ['Urwah] dari ['Asiyah] dia berkata; \"Gerhana matahari telah terjadi, maka Rasulullah shallallahu 'alaihi wasallam memerintahkan seseorang untuk menyerukan shalat berjama'ah",
+          "tr": "Âişe (r.anhâ)'den; demiştir ki: Güneş tutuldu, bunun üzerine Resûlullah (S.A.V.) bir adam'a emretti, o da, \"şüphesiz namaz toplayıcıdır\" diye nida etti"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (1066) Sahih Muslim (901)"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 3,
+        "hadith": 30
+      },
+      "narrator": {
+        "en": "A'ishah (May Allah be pleased with her)"
+      }
+    },
+    {
+      "hadithNumber": 1191,
+      "arabicNumber": 1191,
+      "book": 3,
+      "hadithInBook": 31,
+      "text": {
+        "arabic": "حَدَّثَنَا الْقَعْنَبِيُّ، عَنْ مَالِكٍ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏ \"‏ الشَّمْسُ وَالْقَمَرُ لاَ يُخْسَفَانِ لِمَوْتِ أَحَدٍ وَلاَ لِحَيَاتِهِ فَإِذَا رَأَيْتُمْ ذَلِكَ فَادْعُوا اللَّهَ عَزَّ وَجَلَّ وَكَبِّرُوا وَتَصَدَّقُوا ‏\"‏ ‏.‏",
+        "translations": {
+          "en": "Narrated A'ishah (May Allah be pleased with her):The sun and the moon are not eclipsed on account of anyone's death or on account of anyone's birth. So when you see that, supplicate Allah, declare His greatness, and give alms",
+          "ur": "ام المؤمنین عائشہ رضی اللہ عنہا فرماتی ہیں کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: سورج اور چاند میں گرہن کسی کے مرنے یا جینے سے نہیں لگتا ہے، جب تم اسے دیکھو تو اللہ عزوجل سے دعا کرو اور اس کی بڑائی بیان کرو اور صدقہ و خیرات کرو ۔",
+          "fr": "Rapporté par Aïcha (la mère des croyants) رضي الله عنها : Le soleil et la lune ne s’éclipsent pas à cause de la mort ou de la naissance de quelqu’un. Lorsque vous voyez cela, invoquez Allah, proclamez Sa grandeur et faites l’aumône",
+          "id": "Telah menceritakan kepada kami [Al Qa'nabi] dari [Malik] dari [Hisyam bin 'Urwah] dari ['Urwah] dari ['Aisyah] bahwa Nabi shallallahu 'alaihi wasallam bersabda: \"Terjadinya gerhana Matahari dan bulan bukanlah karena mati atau hidupnya salah seorang, apabila kalian melihat hal itu, maka berdo'alah kepada Allah 'azza wajalla, bertakbirlah serta perbanyak sedekah",
+          "tr": "Âişe (r.anhâ)'den; rivayet edildiğine göre, Nebi (S.A.V.) şöyle buyurmuştur: \"Güneş ve ay, bir kimsenin ölümü veya hayatı için tutulmazlar. O halele tutulduklarını gördüğünüz zaman Allah azze ve celle'ye dua ediniz, tekbir getiriniz ve sadaka veriniz.”"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (1044) Sahih Muslim (901)"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 3,
+        "hadith": 31
+      },
+      "narrator": {
+        "en": "A'ishah (May Allah be pleased with her)"
+      }
+    },
+    {
+      "hadithNumber": 1192,
+      "arabicNumber": 1192,
+      "book": 3,
+      "hadithInBook": 32,
+      "text": {
+        "arabic": "حَدَّثَنَا زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا مُعَاوِيَةُ بْنُ عَمْرٍو، حَدَّثَنَا زَائِدَةُ، عَنْ هِشَامٍ، عَنْ فَاطِمَةَ، عَنْ أَسْمَاءَ، قَالَتْ كَانَ النَّبِيُّ صلى الله عليه وسلم يَأْمُرُ بِالْعَتَاقَةِ فِي صَلاَةِ الْكُسُوفِ ‏.‏",
+        "translations": {
+          "en": "Narrated Asma:The Prophet (peace be upon him) used to command us to free slaves on the occasion of an eclipse",
+          "ur": "اسماء رضی اللہ عنہا کہتی ہیں کہ نبی اکرم نبی اکرم صلی اللہ علیہ وسلم نماز کسوف میں غلام آزاد کرنے کا حکم دیتے تھے۔",
+          "fr": "Rapporté par Asma رضي الله عنها : Le Prophète ﷺ nous ordonnait d’affranchir des esclaves lors d’une éclipse",
+          "id": "Telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Mu'awiyah bin 'Amru] telah menceritakan kepada kami [Za`idah] dari [Hisyam] dari [Fathimah] dari [Asma`] dia berkata; \"Nabi shallallahu 'alaihi wasallam memerintahkan untuk membebaskan budak pada waktu shalat (khutbah) gerhana",
+          "tr": "Esma (bint Ebî Bekir)'den; demiştir ki: Resûlullah (S.A.V.) küsûf namazı ile birlikte köle azad edilmesini emr ederdi"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Bukhari (2519)"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 3,
+        "hadith": 32
+      },
+      "narrator": {
+        "en": "Asma"
+      }
+    },
+    {
+      "hadithNumber": 1193,
+      "arabicNumber": 1193,
+      "book": 3,
+      "hadithInBook": 33,
+      "text": {
+        "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ أَبِي شُعَيْبٍ الْحَرَّانِيُّ، حَدَّثَنِي الْحَارِثُ بْنُ عُمَيْرٍ الْبَصْرِيُّ، عَنْ أَيُّوبَ السَّخْتِيَانِيِّ، عَنْ أَبِي قِلاَبَةَ، عَنِ النُّعْمَانِ بْنِ بَشِيرٍ، قَالَ كُسِفَتِ الشَّمْسُ عَلَى عَهْدِ رَسُولِ اللَّهِ صلى الله عليه وسلم فَجَعَلَ يُصَلِّي رَكْعَتَيْنِ رَكْعَتَيْنِ وَيَسْأَلُ عَنْهَا حَتَّى انْجَلَتْ ‏.‏",
+        "translations": {
+          "en": "Narrated An-Nu'man ibn Bashir: There was an eclipse of the sun in the time of the Prophet (ﷺ). He began to pray a series of pairs of rak'ahs enquiring about the sun (at the end of them) till it became clear",
+          "ur": "نعمان بن بشیر رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم کے زمانہ میں سورج گرہن لگا تو آپ دو دو رکعتیں پڑھتے جاتے اور سورج کے متعلق پوچھتے جاتے یہاں تک کہ وہ صاف ہو گیا۔",
+          "fr": "Rapporté par An-Nu’man ibn Bashir رضي الله عنه : Il y eut une éclipse du soleil à l’époque du Prophète ﷺ. Il commença à prier une série de deux unités, en s’enquérant de l’état du soleil à la fin de chaque prière, jusqu’à ce qu’il redevienne clair",
+          "id": "Telah menceritakan kepada kami [Ahmad bin Abu Syu'aib Al Harrani] telah menceritakan kepadaku [Al Harits bin 'Umair Al Bahsri] dari [Ayyub As Sakhtiyani] dari [Abu Qilabah] dari [An Nu'man bin Basyir] dia berkata; \"Telah terjadi gerhana Matahari pada zaman Rasulullah shallallahu 'alaihi wasallam, beliau mengerjakan shalat dua raka'at, dua raka'at, dan beliau bertanya (tentang gerhana) hingga gerhana selesai",
+          "tr": "en-Nu'mân b. Beşîr'den; demiştir ki: Resûlullah (S.A.V.) zamanında güneş tutuldu. Bunun üzerine, Hz. Peygamber güneş açılıncaya kadar iki rekat, iki rekat namaz kılmaya başladı. (Her iki rekatın bitiminde) güneşin açılıp açılmadığını (cemaate) soruyor(du)"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Munkar"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Munkar"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 3,
+        "hadith": 33
+      },
+      "narrator": {
+        "en": "An-Nu'man ibn Bashir"
+      }
+    },
+    {
+      "hadithNumber": 1194,
+      "arabicNumber": 1194,
+      "book": 3,
+      "hadithInBook": 34,
+      "text": {
+        "arabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا حَمَّادٌ، عَنْ عَطَاءِ بْنِ السَّائِبِ، عَنْ أَبِيهِ، عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو، قَالَ انْكَسَفَتِ الشَّمْسُ عَلَى عَهْدِ رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَامَ رَسُولُ اللَّهِ صلى الله عليه وسلم فَلَمْ يَكَدْ يَرْكَعُ ثُمَّ رَكَعَ فَلَمْ يَكَدْ يَرْفَعُ ثُمَّ رَفَعَ فَلَمْ يَكَدْ يَسْجُدُ ثُمَّ سَجَدَ فَلَمْ يَكَدْ يَرْفَعُ ثُمَّ رَفَعَ فَلَمْ يَكَدْ يَسْجُدُ ثُمَّ سَجَدَ فَلَمْ يَكَدْ يَرْفَعُ ثُمَّ رَفَعَ وَفَعَلَ فِي الرَّكْعَةِ الأُخْرَى مِثْلَ ذَلِكَ ثُمَّ نَفَخَ فِي آخِرِ سُجُودِهِ فَقَالَ ‏\"‏ أُفْ أُفْ ‏\"‏ ‏.‏ ثُمَّ قَالَ ‏\"‏ رَبِّ أَلَمْ تَعِدْنِي أَنْ لاَ تُعَذِّبَهُمْ وَأَنَا فِيهِمْ أَلَمْ تَعِدْنِي أَنْ لاَ تُعَذِّبَهُمْ وَهُمْ يَسْتَغْفِرُونَ ‏\"‏ ‏.‏ فَفَرَغَ رَسُولُ اللَّهِ صلى الله عليه وسلم مِنْ صَلاَتِهِ وَقَدْ أَمْحَصَتِ الشَّمْسُ وَسَاقَ الْحَدِيثَ ‏.‏",
+        "translations": {
+          "en": "Narrated Abdullah ibn Amr ibn al-'As: There was an eclipse of the sun in the time of the Messenger of Allah (ﷺ). The Messenger of Allah (ﷺ) stood up and he was not going to perform bowing till he bowed; and he was not going to raise his head till he raised (after bowing); and he was not going to prostrate himself till he prostrated himself; and he was not going to raise his head till he raised (at the end of prostration); he did similarly in the second rak'ah, he then puffed in the last prostration saying; Fie, Fie! He then said: My Lord, didst Thou not promise me that Thou wouldst not punish them so long as I will remain among them? Didst Thou not promise me that Thou will not punish them so long as they continue to beg pardon of Thee. The Messenger of Allah (ﷺ) finished the prayer, and the sun was clear. The narrator then narrated the tradition (in full)",
+          "ur": "عبداللہ بن عمرو رضی اللہ عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم کے زمانہ میں سورج گرہن لگا، تو آپ نماز کسوف کے لیے کھڑے ہوئے تو ایسا لگا کہ آپ صلی اللہ علیہ وسلم رکوع ہی نہیں کریں گے، پھر رکوع کیا تو ایسا لگا کہ آپ صلی اللہ علیہ وسلم رکوع سے سر اٹھائیں گے ہی نہیں، پھر سر اٹھایا تو ایسا لگا کہ آپ صلی اللہ علیہ وسلم سجدہ ہی نہیں کریں گے، پھر سجدہ کیا تو ایسا لگا کہ آپ صلی اللہ علیہ وسلم سجدے سے سر ہی نہیں اٹھائیں گے، پھر سجدے سے سر اٹھایا تو ایسا لگا کہ آپ صلی اللہ علیہ وسلم سجدہ ہی نہیں کریں گے، پھر سجدہ کیا تو ایسا لگا کہ آپ صلی اللہ علیہ وسلم سجدے سے سر ہی نہیں اٹھائیں گے، پھر آپ صلی اللہ علیہ وسلم نے سجدہ سے سر اٹھایا، پھر دوسری رکعت میں بھی ایسے ہی کیا، پھر اخیر سجدے میں آپ صلی اللہ علیہ وسلم نے پھونک ماری اور اف اف کہا: پھر فرمایا: اے میرے رب! کیا تو نے مجھ سے یہ وعدہ نہیں کیا ہے کہ تو انہیں عذاب نہیں دے گا جب تک میں ان میں رہوں گا؟ کیا تو نے مجھ سے یہ وعدہ نہیں کیا ہے کہ تو انہیں عذاب نہیں دے گا جب تک وہ استغفار کرتے رہیں گے؟ ، پھر رسول اللہ صلی اللہ علیہ وسلم نماز سے فارغ ہوئے اور حال یہ تھا کہ سورج بالکل صاف ہو گیا تھا، پھر راوی نے پوری حدیث بیان کی۔",
+          "fr": "Rapporté par Abdullah ibn Amr ibn al-‘As رضي الله عنه : Il y eut une éclipse du soleil à l’époque du Messager d’Allah ﷺ. Le Messager d’Allah ﷺ se leva et ne s’inclinait que lorsqu’il devait s’incliner, ne relevait la tête qu’au moment de le faire, ne se prosternait que lorsqu’il devait se prosterner, et ne relevait la tête qu’à la fin de la prosternation ; il fit de même lors de la deuxième unité. Lors de la dernière prosternation, il souffla en disant : « Fi, Fi ! » Puis il dit : « Mon Seigneur, ne m’as-Tu pas promis que Tu ne les punirais pas tant que je serai parmi eux ? Ne m’as-Tu pas promis que Tu ne les punirais pas tant qu’ils demanderont pardon ? » Le Messager d’Allah ﷺ termina la prière, et le soleil redevint clair. Le narrateur a ensuite rapporté le récit en entier",
+          "id": "Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Hammad] dari ['Atha` bin As Sa`ib] dari [ayahnya] dari [Abdullah bin 'Amru] dia berkata; \"Pernah terjadi gerhana Matahari pada masa Rasulullah shallallahu 'alaihi wasallam, maka Rasulullah shallallahu 'alaihi wasallam berdiri (lama) seakan-akan tidak ruku', lalu ruku' (lama) seakan-akan tidak mengangkat kepala, kemudian mengangkat kepala, seakan-akan tidak sujud, kemudian sujud, seakan-akan tidak mengangkat kepala (duduk di antara dua sujud), kemudian mengangkat kepala (duduk di antara dua sujud) seakan-akan tidak sujud, kemudian sujud seakan-akan tidak bangkit, setelah itu beliau berdiri, beliau juga mengerjakan seperti itu di raka'at berikutnya, kemudian di akhir sujudnya beliau menghembuskan nafas sambil mengucapkan: \"Uf, uf.\" Lalu beliau berdo'a: \"Wahai Rabbku, bukankah Engkau telah berjanji kepadaku, bahwa Engkau tidak akan menyiksa mereka, sedangkan aku bersama mereka?, bukankah Engkau telah berjanji kepadaku, bahwa Engkau tidak akan menyiksa mereka, sedangkan mereka memohon ampunan?.\" Seusainya Rasulullah shallallahu 'alaihi wasallam melaksanakan shalat, matahari menjadi cerah kembali.\" …kemudian perawi melanjutkan hadits tersebut",
+          "tr": "Abdullah b. Amr (b. el-Âs)'den; demiştir ki: Resûlullah (S.A.V.) zamanında güneş tutuldu. Bunun üzerine Efendimiz (namaza) durdu. (Kıyamı o kadar uzattı ki) nerdeyse rükû'a eğilmeyecekti. Sonra sanki doğrulmayacakmış gibi (uzun) bir rükû yaptı. Daha sonra başım kaldırdı (ve) secdeye varmayacakmış gibi (ayakta kaldı). Sonunda secdeye kapandı, bunu da sanki başını kaldırmayacakmış gibi uzattı. Sonra (secdeden) kalkıp aynı şekilde uzun zaman oturarak kaldı. Akabinde (ikinci) secdeyi yapıp, kafasını kaldırmayacakmış gibi bunu da uzattı. Sonra doğruldu. (İkinci rekate kalktı) diğer (ikinci) rekatte de aynen böyle yaptı ve secdesinin sonunda \"Üf üf” diye üfledi. Sonra da; \"Ey Rabbim! Sen, ben aralarında iken onlara azab etmeyeceğini va'detmedin mi? Onlar istiğfara devam ettikçe kendilerine âzab etmeyeceğini va'd etmedin mî?\" deyip namazını bitirdi. Bu esnada güneş de açılmıştı. Bundan sonra (Saib b. Mâlik) hadisin kalan, kısmını zikretti"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 3,
+        "hadith": 34
+      },
+      "narrator": {
+        "en": "Abdullah ibn Amr ibn al-'As"
+      }
+    },
+    {
+      "hadithNumber": 1195,
+      "arabicNumber": 1195,
+      "book": 3,
+      "hadithInBook": 35,
+      "text": {
+        "arabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا بِشْرُ بْنُ الْمُفَضَّلِ، حَدَّثَنَا الْجُرَيْرِيُّ، عَنْ حَيَّانَ بْنِ عُمَيْرٍ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ سَمُرَةَ، قَالَ بَيْنَمَا أَنَا أَتَرَمَّى، بِأَسْهُمٍ فِي حَيَاةِ رَسُولِ اللَّهِ صلى الله عليه وسلم إِذْ كُسِفَتِ الشَّمْسُ فَنَبَذْتُهُنَّ وَقُلْتُ لأَنْظُرَنَّ مَا أُحْدِثَ لِرَسُولِ اللَّهِ صلى الله عليه وسلم فِي كُسُوفِ الشَّمْسِ الْيَوْمَ فَانْتَهَيْتُ إِلَيْهِ وَهُوَ رَافِعٌ يَدَيْهِ يُسَبِّحُ وَيُحَمِّدُ وَيُهَلِّلُ وَيَدْعُو حَتَّى حُسِرَ عَنِ الشَّمْسِ فَقَرَأَ بِسُورَتَيْنِ وَرَكَعَ رَكْعَتَيْنِ ‏.‏",
+        "translations": {
+          "en": "Narrated 'Abd al-Rahman b. Samurah :During the lifetime of the Messenger of Allah (peace be upon him) I was shooting some arrows when an eclipse of the sun tok place. I, therefore , threw them (the arrows) away and said: I must see how the Messenger of Allah (ﷺ) acts in a solar eclipse today. So I came to him; he was standing (in prayer) raising his hands, glorifying Allah, praising Him, acknowledging that He is the only Deity, and making supplication till the sun was clear. He then recited two surahs and prayed two rak'ahs",
+          "ur": "عبدالرحمٰن بن سمرہ رضی اللہ عنہ کہتے ہیں میں رسول اللہ صلی اللہ علیہ وسلم کی زندگی میں تیر اندازی کی مشق کر رہا تھا کہ اسی دوران سورج گرہن لگا تو میں نے انہیں پھینک دیا اور کہا کہ میں ضرور دیکھوں گا کہ رسول اللہ صلی اللہ علیہ وسلم کے لیے یہ سورج گرہن آج کیا نیا واقعہ رونما کرے گا، تو میں آپ صلی اللہ علیہ وسلم کے پاس پہنچا اور آپ دونوں ہاتھ اٹھائے اللہ کی تسبیح، تحمید اور تہلیل اور دعا کر رہے تھے یہاں تک کہ سورج سے گرہن چھٹ گیا، اس وقت آپ نے ( نماز کسوف کی دونوں رکعتوں ) میں دو سورتیں پڑھیں اور دو رکوع کئے۔",
+          "fr": "Rapporté par 'Abd al-Rahman b. Samurah رضي الله عنه : Du vivant du Messager d’Allah ﷺ, je tirais des flèches lorsqu’il y eut une éclipse du soleil. J’ai donc posé mon arc en disant : « Je dois voir comment le Messager d’Allah ﷺ agit aujourd’hui lors d’une éclipse solaire. » Je suis allé le voir ; il était debout en prière, levant les mains, glorifiant Allah, Le louant, affirmant qu’Il est l’unique Divinité, et invoquant jusqu’à ce que le soleil redevienne clair. Ensuite, il récita deux sourates et pria deux unités",
+          "id": "Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Bisr bin Al Mufadlal] telah menceritakan kepada kami [Al Jurairi] dari [Hayyan bin 'Umair] dari [Abdurrahman bin Samurah] dia berkata; \"Ketika kami melepaskan anak panah di masa hidupnya Rasulullah shallallahu 'alaihi wasallam, tiba-tiba terjadi gerhana Matahari, lalu aku segera meletakkan anak panah tersebut dan berkata; \"Sungguh aku akan melihat kejadian apa yang akan menimpa Rasulullah shallallahu 'alaihi wasallam pada hari terjadinya gerhana Matahari ini.\" lalu aku menemui beliau, ternyata beliau sedang mengangkat kedua tangannya sambil bertasbih, tahmid dan bertahlil serta berdo'a hingga gerhana hilang dari matahari. Beliau membaca dua surat dan shalat dua raka'at",
+          "tr": "Abdurrahman b. Semure (r.a.)'den; demiştir ki: Resûlullah (S.A.V.)'in sağlığında ben ok atarken birden bire güneş tutuldu. Hemen okları (yere) attım ve (kendi kendime) \"güneş tutulması bugün Resûlullah (S.A.V.)'e neler yaptıracak bakacağım\" deyip doğru ona gittim. Peygamber (S.A.V.) ellerini kaldırmış tesbih, tahmid ediyor, tehlîl getiriyor ve dua ediyordu. Bu, güneş açılıncaya kadar devam et­ti. (Efendimiz) iki sûre okudu ve iki rekat namaz kıldı"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih Muslim (913)"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 3,
+        "hadith": 35
+      },
+      "narrator": {
+        "en": "'Abd al-Rahman b. Samurah"
+      }
+    },
+    {
+      "hadithNumber": 1196,
+      "arabicNumber": 1196,
+      "book": 3,
+      "hadithInBook": 36,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عَمْرِو بْنِ جَبَلَةَ بْنِ أَبِي رَوَّادٍ، حَدَّثَنِي حَرَمِيُّ بْنُ عُمَارَةَ، عَنْ عُبَيْدِ اللَّهِ بْنِ النَّضْرِ، حَدَّثَنِي أَبِي قَالَ، كَانَتْ ظُلْمَةٌ عَلَى عَهْدِ أَنَسِ بْنِ مَالِكٍ - قَالَ - فَأَتَيْتُ أَنَسًا فَقُلْتُ يَا أَبَا حَمْزَةَ هَلْ كَانَ يُصِيبُكُمْ مِثْلُ هَذَا عَلَى عَهْدِ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ مَعَاذَ اللَّهِ إِنْ كَانَتِ الرِّيحُ لَتَشْتَدُّ فَنُبَادِرُ الْمَسْجِدَ مَخَافَةَ الْقِيَامَةِ ‏.‏",
+        "translations": {
+          "en": "Narrated Anas ibn Malik: Ubaydullah ibn an-Nadr reported on the authority of his father: Darkness prevailed in the time of Anas ibn Malik, I came to Anas and said (to him): AbuHamzah, did anything like this happen to you in the time of the Messenger of Allah (ﷺ)? He replied: Take refuge in Allah. If the wind blew violently, we would run quickly towards the mosque for fear of the coming of the Day of Judgment",
+          "ur": "نضر کہتے ہیں کہ مجھ سے میرے والد نے بیان کیا کہ انس بن مالک رضی اللہ عنہ کے زمانہ میں تاریکی چھا گئی، تو میں آپ کے پاس آیا اور کہا: ابوحمزہ! کیا رسول اللہ صلی اللہ علیہ وسلم کے زمانہ میں بھی آپ لوگوں پر اس طرح کی صورت حال پیش آئی تھی؟ انہوں نے کہا: اللہ کی پناہ، اگر ہوا ذرا زور سے چلنے لگتی تو ہم قیامت کے خوف سے بھاگ کر مسجد آ جاتے تھے۔",
+          "fr": "Rapporté par Anas ibn Malik رضي الله عنه : Ubaydullah ibn an-Nadr a rapporté d’après son père : Il y eut une obscurité à l’époque d’Anas ibn Malik. Je suis allé voir Anas et lui ai demandé : « Abu Hamzah, as-tu déjà vécu quelque chose de semblable à l’époque du Messager d’Allah ﷺ ? » Il répondit : « Cherche refuge auprès d’Allah. Si le vent soufflait violemment, nous courions vite à la mosquée, de peur que le Jour du Jugement n’arrive. »",
+          "id": "Telah menceritakan kepada kami [Muhammad bin 'Amru bin Jabalah bin Abu Rawwad] telah menceritakan kepadaku [Harami bin 'umarah] dari ['Ubaidullah bin An Nadlr] telah menceritakan kepadaku [ayahku] dia berkata; \"Telah terjadi kegelapan yang sangat pada masa [Anas bin Malik], maka aku mendatangi Anas dan berkata kepadanya; \"Wahai Abu Hamzah, apakah kalian pernah mengalami kejadian seperti ini pada zaman Rasulullah shallallahu 'alaihi wasallam?\" Dia menjawab; \"Aku berlindung kepada Allah! Apabila angin berhembus dengan kencang, maka kami segera bergegas ke masjid, khawatir kalau terjadi kiamat",
+          "tr": "Ubeydullah b. Nadr, babası (Nadr)'ın şöyle dediğini rivayet etmiştir: Enes b. Mâlik zamanında (şiddetli) bir karanlık oldu. Bunun üzerine Enes'e gelip: Ya Ebâ Hamza [Ebu Hamza Enes r.a.'tır] Resûlullah (S.A.V.) zamanında böyle birşey başınıza gelir miydi?, dedim. Allah korusun. (Bazan) rüzgâr şiddetlenirdi de kıyametin (kopacağı) korkusuyla mescide koşardık, karşılığını verdi"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Daif"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 3,
+        "hadith": 36
+      },
+      "narrator": {
+        "en": "Anas ibn Malik"
+      }
+    },
+    {
+      "hadithNumber": 1197,
+      "arabicNumber": 1197,
+      "book": 3,
+      "hadithInBook": 37,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عُثْمَانَ بْنِ أَبِي صَفْوَانَ الثَّقَفِيُّ، حَدَّثَنَا يَحْيَى بْنُ كَثِيرٍ، حَدَّثَنَا سَلْمُ بْنُ جَعْفَرٍ، عَنِ الْحَكَمِ بْنِ أَبَانَ، عَنْ عِكْرِمَةَ، قَالَ قِيلَ لاِبْنِ عَبَّاسٍ مَاتَتْ فُلاَنَةُ بَعْضُ أَزْوَاجِ النَّبِيِّ صلى الله عليه وسلم فَخَرَّ سَاجِدًا فَقِيلَ لَهُ أَتَسْجُدُ هَذِهِ السَّاعَةَ فَقَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ إِذَا رَأَيْتُمْ آيَةً فَاسْجُدُوا ‏\"‏ ‏.‏ وَأَىُّ آيَةٍ أَعْظَمُ مِنْ ذَهَابِ أَزْوَاجِ النَّبِيِّ صلى الله عليه وسلم",
+        "translations": {
+          "en": "Ikrimah said:Ibn Abbas was informed that so-and-so, a certain wife of the Prophet (ﷺ), had died. He fell down prostrating himself. He was questioned: Why do you prostrate yourself this moment? He said: The Messenger of Allah (ﷺ) said: When you see a portent (an accident), prostrate yourselves. And which portent (accident) can be greater than the death of a wife of the Prophet (ﷺ)",
+          "ur": "عکرمہ کہتے ہیں کہ ابن عباس رضی اللہ عنہما سے کہا گیا کہ نبی اکرم صلی اللہ علیہ وسلم کی فلاں بیوی کا انتقال ہو گیا ہے، تو وہ یہ سن کر سجدے میں گر پڑے، ان سے کہا گیا: کیا اس وقت آپ سجدہ کر رہے ہیں؟ تو انہوں نے کہا: رسول اللہ صلی اللہ علیہ وسلم نے فرمایا ہے کہ جب تم کوئی نشانی ( یعنی بڑا حادثہ ) دیکھو تو سجدہ کرو اور رسول اللہ صلی اللہ علیہ وسلم کی بیویوں کی موت سے بڑھ کر کون سی نشانی ہو سکتی ہے؟ ۔",
+          "fr": "Ikrimah a dit : On informa Ibn Abbas رضي الله عنه que telle épouse du Prophète ﷺ était décédée. Il se prosterna immédiatement. On lui demanda : « Pourquoi te prosternes-tu en ce moment ? » Il répondit : « Le Messager d’Allah ﷺ a dit : “Lorsque vous voyez un signe (un événement inhabituel), prosternez-vous.” Et quel signe peut être plus grand que la mort d’une épouse du Prophète ﷺ ? »",
+          "id": "Telah menceritakan kepada kami [Muhammad bin 'Utsman bin Abu Shafwan Ats Tsaqafi] telah menceritakan kepada kami [Yahya bin Katsir] telah menceritakan kepada kami [Salm bin Ja'far] dari [Al Hakam bin Aban] dari [Ikrimah] dia berkata; pernah di beritahukan kepada [Ibnu Abbas] bahwa fulanah -salah seorang dari istri Nabi shallallahu 'alaihi wasallam meninggal dunia-, lalu dia tersungkur sujud, dia ditanya; \"Apakah kamu sujud karena hal ini?\" Dia menjawab; \"Rasulullah shallallahu 'alaihi wasallam bersabda: \"Apabila kalian melihat tanda-tanda kebesaran Allah, maka sujudlah!.\" Dan tanda kebesaran Allah yang manakah yang lebih besar dari pada wafatnya salah seorang dari istri Nabi shallallahu 'alaihi wasallam?",
+          "tr": "İkrime'den; demiştir ki: İbn Abbâs (r.anhümâ)'ya; \"Resûl-i Ekrem'in hanımlarından falan öldü\" denildi. Bunun üzerine hemen secdeye kapandı. Kendisine: Şu saatte secde mi yapıyorsun? denildi. Şu karşılığı verdi: Resûlullah (Sallallahu aleyhi ve Sellem), \"Önemli bir hâdise gördüğünüz zaman secde ediniz\" buyurdu. Resul-i Ekrem'in hanımlarının gitmesinden daha büyük hangi hadise vardır?"
+        }
+      },
+      "grades": [
+        {
+          "name": "Al-Albani",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Shuaib Al Arnaut",
+          "grade": "Hasan"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Hasan"
+        }
+      ],
+      "reference": {
+        "collection": "abudawud",
+        "book": 3,
+        "hadith": 37
+      }
+    }
+  ],
+  "metadata": {
+    "averageLength": "long",
+    "size": "34KB"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "collection": "tirmidhi",
+  "name": {
+    "arabic": "جامع الترمذي",
+    "transliteration": "Jami' at-Tirmidhi",
+    "translation": "The Collection of at-Tirmidhi"
+  },
+  "compiler": {
+    "arabic": "محمد بن عيسى الترمذي",
+    "transliteration": "Muhammad ibn Isa at-Tirmidhi",
+    "dates": "209-279 AH"
+  },
+  "authenticity": "hasan-sahih",
+  "totalBooks": 49,
+  "totalHadith": 3998,
+  "metadata": {
+    "extractedFrom": "ara-tirmidhi",
+    "sourceFormat": "hadith-api-1",
+    "extractionDate": "2025-09-19T23:58:45.373Z",
+    "description": "Comprehensive collection with authenticity grading",
+    "priority": 2
+  }
+}

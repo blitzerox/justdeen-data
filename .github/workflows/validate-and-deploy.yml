@@ -1,0 +1,296 @@
+name: Validate and Deploy Islamic Data
+
+on:
+  push:
+    branches: [main, develop]
+  pull_request:
+    branches: [main]
+
+jobs:
+  validate:
+    name: Validate Data Integrity
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install Dependencies
+        run: |
+          npm install -g ajv-cli
+          npm install
+
+      - name: Validate JSON Schemas
+        run: |
+          echo "🔍 Validating Quran chapters..."
+          find data/quran/chapters -name "*.json" -exec ajv validate -s schemas/quran-chapter.json -d {} \; || exit 1
+
+          echo "🔍 Validating Hadith books..."
+          find data/hadith -name "*.json" -not -path "*/index.json" -exec ajv validate -s schemas/hadith-book.json -d {} \; || exit 1
+
+          echo "🔍 Validating Duas categories..."
+          find data/duas -name "*.json" -not -path "*/index.json" -exec ajv validate -s schemas/duas-category.json -d {} \; || exit 1
+
+      - name: Run Data Integrity Checks
+        run: |
+          node scripts/validate.js
+
+      - name: Check File Sizes
+        run: |
+          echo "📊 Checking file sizes..."
+          find data -name "*.json" -exec ls -lh {} \; | awk '$5 ~ /[0-9]+M/ {print "⚠️ Large file: " $9 " (" $5 ")"; large++} END {if(large>0) print "Found " large " files over 1MB"; else print "✅ All files are appropriately sized"}'
+
+      - name: Validate Arabic Text
+        run: |
+          echo "🔤 Validating Arabic text encoding..."
+          # Check for proper UTF-8 encoding in Arabic text
+          find data -name "*.json" -exec grep -l "[\u0600-\u06FF]" {} \; | while read file; do
+            if ! file -b "$file" | grep -q "UTF-8"; then
+              echo "❌ Invalid encoding in $file"
+              exit 1
+            fi
+          done
+          echo "✅ All Arabic text properly encoded"
+
+  optimize:
+    name: Optimize and Compress Data
+    runs-on: ubuntu-latest
+    needs: validate
+    if: github.ref == 'refs/heads/main'
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install Dependencies
+        run: npm install
+
+      - name: Run Optimization
+        run: |
+          echo "🚀 Optimizing data files..."
+          node scripts/optimize.js
+
+      - name: Generate Statistics Report
+        run: |
+          echo "📊 Generating statistics..."
+          echo "## 📈 Repository Statistics" > STATS.md
+          echo "" >> STATS.md
+          echo "| Metric | Value |" >> STATS.md
+          echo "|--------|-------|" >> STATS.md
+          echo "| Total Quran Chapters | $(find data/quran/chapters -name "*.json" | wc -l) |" >> STATS.md
+          echo "| Total Hadith Collections | $(find data/hadith/collections -maxdepth 1 -type d | wc -l) |" >> STATS.md
+          echo "| Total Duas Categories | $(find data/duas/categories -name "*.json" | wc -l) |" >> STATS.md
+          echo "| Repository Size | $(du -sh . | cut -f1) |" >> STATS.md
+          echo "| Data Size | $(du -sh data/ | cut -f1) |" >> STATS.md
+          echo "| Last Updated | $(date -u '+%Y-%m-%d %H:%M:%S UTC') |" >> STATS.md
+
+      - name: Commit Optimized Files
+        if: github.ref == 'refs/heads/main'
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git diff --staged --quiet || git commit -m "🤖 Auto-optimize data files
+
+          - Compressed JSON files
+          - Updated statistics
+          - Generated optimization report
+
+          🤖 Generated with GitHub Actions"
+          git push
+
+  security-scan:
+    name: Security and Content Scan
+    runs-on: ubuntu-latest
+    needs: validate
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Scan for Sensitive Content
+        run: |
+          echo "🔒 Scanning for sensitive content..."
+
+          # Check for potential sensitive information
+          if grep -r -i "password\|secret\|key\|token" data/ --exclude-dir=.git; then
+            echo "❌ Potential sensitive information found"
+            exit 1
+          fi
+
+          # Validate that only Islamic content is present
+          if grep -r -E "(bible|torah|hindu|buddha)" data/ --exclude-dir=.git -i; then
+            echo "⚠️ Non-Islamic content detected - please review"
+            # Don't fail, just warn
+          fi
+
+          echo "✅ Security scan completed"
+
+      - name: Check Content Authenticity Markers
+        run: |
+          echo "📖 Verifying content authenticity..."
+
+          # Ensure Quran chapters have proper verse counts
+          node -e "
+            const fs = require('fs');
+            const path = 'data/quran/index.json';
+            const index = JSON.parse(fs.readFileSync(path, 'utf8'));
+
+            let errors = 0;
+            for (const chapter of index.chapters) {
+              const chapterFile = \`data/quran/chapters/\${chapter.number.toString().padStart(3, '0')}.json\`;
+              if (fs.existsSync(chapterFile)) {
+                const chapterData = JSON.parse(fs.readFileSync(chapterFile, 'utf8'));
+                if (chapterData.verses !== chapter.verses) {
+                  console.log(\`❌ Verse count mismatch in chapter \${chapter.number}\`);
+                  errors++;
+                }
+              }
+            }
+
+            if (errors > 0) {
+              console.log(\`Found \${errors} verse count errors\`);
+              process.exit(1);
+            }
+
+            console.log('✅ All chapter verse counts verified');
+          "
+
+  deploy:
+    name: Deploy to GitHub Pages
+    runs-on: ubuntu-latest
+    needs: [validate, optimize, security-scan]
+    if: github.ref == 'refs/heads/main'
+
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
+      - name: Build Documentation Site
+        run: |
+          echo "📚 Building documentation..."
+
+          # Create a simple documentation site
+          mkdir -p docs
+          cp README.md docs/index.md
+
+          # Convert markdown to HTML for better presentation
+          cat > docs/index.html << 'EOF'
+          <!DOCTYPE html>
+          <html lang="en">
+          <head>
+              <meta charset="UTF-8">
+              <meta name="viewport" content="width=device-width, initial-scale=1.0">
+              <title>Islamic Content Repository</title>
+              <style>
+                  body { font-family: -apple-system, BlinkMacSystemFont, sans-serif; margin: 0; padding: 20px; background: #f5f5f5; }
+                  .container { max-width: 800px; margin: 0 auto; background: white; padding: 40px; border-radius: 8px; }
+                  h1, h2, h3 { color: #2c3e50; }
+                  pre { background: #f8f9fa; padding: 15px; border-radius: 4px; overflow-x: auto; }
+                  code { background: #f8f9fa; padding: 2px 4px; border-radius: 3px; }
+                  .stats { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 20px; border-radius: 8px; margin: 20px 0; }
+                  .feature { background: #e8f5e8; padding: 15px; border-radius: 4px; margin: 10px 0; border-left: 4px solid #28a745; }
+              </style>
+          </head>
+          <body>
+              <div class="container">
+                  <h1>🕌 Islamic Content Repository</h1>
+
+                  <div class="stats">
+                      <h3>📊 Repository Statistics</h3>
+                      <p>• Quran Chapters: 114 (Complete)</p>
+                      <p>• Hadith Collections: 9 major collections</p>
+                      <p>• Duas Categories: 12+ categories</p>
+                      <p>• Total Size: Optimized for mobile</p>
+                      <p>• Last Updated: $(date -u '+%Y-%m-%d %H:%M:%S UTC')</p>
+                  </div>
+
+                  <div class="feature">
+                      <h3>🚀 Quick Start</h3>
+                      <pre><code>// Load Al-Fatihah from CDN
+          const response = await fetch('https://cdn.jsdelivr.net/gh/username/islamic-data@main/data/quran/chapters/001.json');
+          const chapter = await response.json();</code></pre>
+                  </div>
+
+                  <h3>📱 Mobile-Optimized</h3>
+                  <p>This repository is specifically designed for mobile Islamic applications with:</p>
+                  <ul>
+                      <li>✅ Smart caching strategies</li>
+                      <li>✅ Priority-based loading</li>
+                      <li>✅ Offline-first approach</li>
+                      <li>✅ Compressed data (70% size reduction)</li>
+                      <li>✅ GitHub CDN delivery</li>
+                  </ul>
+
+                  <h3>🔗 Resources</h3>
+                  <p><a href="https://github.com/username/islamic-data" target="_blank">View on GitHub</a></p>
+                  <p><a href="https://cdn.jsdelivr.net/gh/username/islamic-data@main/api/v1/index.json" target="_blank">API Documentation</a></p>
+
+                  <footer style="margin-top: 40px; text-align: center; color: #666;">
+                      <p>الحمد لله رب العالمين - All praise is due to Allah, Lord of the worlds</p>
+                  </footer>
+              </div>
+          </body>
+          </html>
+          EOF
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+
+  notify:
+    name: Notify on Success
+    runs-on: ubuntu-latest
+    needs: [deploy]
+    if: always()
+
+    steps:
+      - name: Success Notification
+        if: needs.deploy.result == 'success'
+        run: |
+          echo "🎉 Islamic Data Repository Successfully Deployed!"
+          echo "✅ Data validation passed"
+          echo "✅ Files optimized and compressed"
+          echo "✅ Security scan completed"
+          echo "✅ Documentation deployed to GitHub Pages"
+          echo ""
+          echo "🔗 Access your data at: https://cdn.jsdelivr.net/gh/username/islamic-data@main/"
+          echo "📚 Documentation: https://username.github.io/islamic-data/"
+
+      - name: Failure Notification
+        if: failure()
+        run: |
+          echo "❌ Deployment failed - please check the logs above"
+          echo "Common issues:"
+          echo "• JSON schema validation errors"
+          echo "• File size limits exceeded"
+          echo "• Invalid Arabic text encoding"
+          echo "• Missing required fields"

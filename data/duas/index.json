@@ -1,0 +1,129 @@
+{
+  "duas": {
+    "version": "1.0.0",
+    "lastUpdated": "2025-09-16T12:05:22.074Z",
+    "totalCategories": 5,
+    "totalDuas": 97,
+    "languages": {
+      "translations": [
+        "en"
+      ],
+      "transliterations": [
+        "en"
+      ]
+    }
+  },
+  "categories": [
+    {
+      "id": "daily",
+      "name": {
+        "arabic": "الأدعية اليومية",
+        "transliteration": "Al-Ad'iyah al-Yawmiyyah",
+        "translation": "Daily Supplications"
+      },
+      "totalDuas": 38,
+      "url": "data/duas/categories/daily.json",
+      "priority": 1,
+      "description": "Essential daily supplications for various activities",
+      "occasions": [
+        "morning",
+        "evening",
+        "eating",
+        "sleeping",
+        "bathroom"
+      ]
+    },
+    {
+      "id": "morning",
+      "name": {
+        "arabic": "أذكار الصباح",
+        "transliteration": "Adhkar as-Sabah",
+        "translation": "Morning Remembrances"
+      },
+      "totalDuas": 19,
+      "url": "data/duas/categories/morning.json",
+      "priority": 1,
+      "description": "Morning dhikr and remembrances to start the day",
+      "occasions": [
+        "morning"
+      ]
+    },
+    {
+      "id": "evening",
+      "name": {
+        "arabic": "أذكار المساء",
+        "transliteration": "Adhkar al-Masa'",
+        "translation": "Evening Remembrances"
+      },
+      "totalDuas": 19,
+      "url": "data/duas/categories/evening.json",
+      "priority": 1,
+      "description": "Evening dhikr and remembrances for protection",
+      "occasions": [
+        "evening"
+      ]
+    },
+    {
+      "id": "prayer",
+      "name": {
+        "arabic": "أذكار بعد الصلاة",
+        "transliteration": "Adhkar Ba'd as-Salah",
+        "translation": "Remembrances After Prayer"
+      },
+      "totalDuas": 13,
+      "url": "data/duas/categories/prayer.json",
+      "priority": 1,
+      "description": "Remembrances and supplications after daily prayers",
+      "occasions": [
+        "prayer"
+      ]
+    },
+    {
+      "id": "essential",
+      "name": {
+        "arabic": "الأدعية المختارة",
+        "transliteration": "Al-Ad'iyah al-Mukhtarah",
+        "translation": "Essential Supplications"
+      },
+      "totalDuas": 8,
+      "url": "data/duas/categories/essential.json",
+      "priority": 1,
+      "description": "Important duas for various life situations",
+      "occasions": [
+        "various"
+      ]
+    }
+  ],
+  "loadingStrategy": {
+    "priority1": [
+      "daily",
+      "morning",
+      "evening",
+      "prayer",
+      "essential"
+    ],
+    "priority2": [],
+    "priority3": "remaining"
+  },
+  "searchIndex": {
+    "occasions": [
+      "morning",
+      "evening",
+      "eating",
+      "sleeping",
+      "bathroom",
+      "prayer",
+      "various"
+    ],
+    "sources": [
+      "quran",
+      "hadith",
+      "prophetic"
+    ],
+    "difficulties": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ]
+  }
+}

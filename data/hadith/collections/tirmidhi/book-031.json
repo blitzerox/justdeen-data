@@ -1,0 +1,311 @@
+{
+  "collection": "tirmidhi",
+  "book": 31,
+  "name": {
+    "arabic": "كتاب Chapters On Wala' And Gifts",
+    "transliteration": "chapters on wala' and gifts",
+    "translation": "Chapters On Wala' And Gifts"
+  },
+  "totalHadith": 8,
+  "hadithNumberRange": {
+    "first": 2125,
+    "last": 2132
+  },
+  "content": [
+    {
+      "hadithNumber": 2125,
+      "arabicNumber": 2125,
+      "book": 31,
+      "hadithInBook": 1,
+      "text": {
+        "arabic": "حَدَّثَنَا بُنْدَارٌ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ، حَدَّثَنَا سُفْيَانُ، عَنْ مَنْصُورٍ، عَنْ إِبْرَاهِيمَ، عَنِ الأَسْوَدِ، عَنْ عَائِشَةَ، أَنَّهَا أَرَادَتْ أَنْ تَشْتَرِيَ، بَرِيرَةَ فَاشْتَرَطُوا الْوَلاَءَ فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏ \"‏ الْوَلاَءُ لِمَنْ أَعْطَى الثَّمَنَ أَوْ لِمَنْ وَلِيَ النِّعْمَةَ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى وَفِي الْبَابِ عَنِ ابْنِ عُمَرَ وَأَبِي هُرَيْرَةَ ‏.‏ وَهَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏ وَالْعَمَلُ عَلَى هَذَا عِنْدَ أَهْلِ الْعِلْمِ ‏.‏",
+        "translations": {
+          "en": "Aishah narrated that she wanted to buy Barrirah but (her owners) stipulated that they should have her Wala', so the Prophet (s.a.w) said:\"The Wala' is for the one who gives the price, or for the one who grants the favor.\" [Abu 'Eisa said:] There are narrations on this topic from Ibn 'Umar and Abu Hurairah. This Hadith is Hasan Sahih, and this is acted upon according to the people of knowledge",
+          "ur": "ام المؤمنین عائشہ رضی الله عنہا سے روایت ہے کہ انہوں نے بریرہ کو خریدنے ( اور آزاد کرنے ) کا ارادہ کیا تو بریرہ کے گھر والوں نے ولاء ( میراث ) کی شرط رکھی، نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: ”ولاء ( میراث ) کا حق اسی کو حاصل ہے جو قیمت ادا کرے یا آزاد کرنے کی نعمت کا مالک ہو“ ۱؎۔ امام ترمذی کہتے ہیں: ۱- یہ حدیث حسن صحیح ہے، ۲- اس باب میں ابن عمر اور ابوہریرہ رضی الله عنہم سے بھی احادیث آئی ہیں، ۳- اہل علم کا اسی پر عمل ہے۔",
+          "id": "Telah menceritakan kepada kami [Bundar]; telah menceritakan kepada kami ['Abdurrahman bin Mahdi]; telah menceritakan kepada kami [Sufyan] dari [Manshur] dari [Ibrahim] dari [Al Aswad] dari ['Aisyah] bahwasanya; Ia ingin membeli Barirah, namun majikannya mempersyaratkan Al Wala` (kepemilikan tetap terhadap mereka), maka Nabi shallallahu 'alaihi wasallam bersabda: \"Sesungguhnya perwalian (hak milik) itu adalah bagi yang membayar, atau bagi waliyun ni'mah (yang merdekakan).\" Abu Isa berkata; Hadits semakna juga diriwayatkan dari Ibnu Umar dan Abu Hurairah. Dan ini adalah hadits Hasan Shahih. Dan menurut Ahlul Ilmi, hadits ini diamalkan",
+          "tr": "Âişe (r.anha)’dan rivâyete göre, Bizzat kendisi Berire’yi satın almak istemiş ve Berire’nin ailesi vela hakkının kendilerine ait olmasını istemişlerdi, bunun üzerine Rasûlullah (s.a.v.) şöyle buyurdu: “Vela hakkı satış bedelini ödeyen kimsenin veya azâd ederek hürriyet nimetine kavuşturan kimsenindir.” Diğer tahric: Müslim, Itk; Nesâî, Kasame Tirmizî: Bu konuda İbn Ömer, Ebû Hüreyre’den de hadis rivâyet edilmiştir. Bu hadis hasen sahihtir. İlim adamlarının uygulamaları bu hadise göredir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Bukhari And Muslim"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 31,
+        "hadith": 1
+      }
+    },
+    {
+      "hadithNumber": 2126,
+      "arabicNumber": 2126,
+      "book": 31,
+      "hadithInBook": 2,
+      "text": {
+        "arabic": "حَدَّثَنَا ابْنُ أَبِي عُمَرَ، حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ دِينَارٍ، سَمِعَ عَبْدَ اللَّهِ بْنَ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى عَنْ بَيْعِ الْوَلاَءِ وَعَنْ هِبَتِهِ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ لاَ نَعْرِفُهُ إِلاَّ مِنْ حَدِيثِ عَبْدِ اللَّهِ بْنِ دِينَارٍ عَنِ ابْنِ عُمَرَ عَنِ النَّبِيِّ صلى الله عليه وسلم أَنَّهُ نَهَى عَنْ بَيْعِ الْوَلاَءِ وَعَنْ هِبَتِهِ وَقَدْ رَوَاهُ شُعْبَةُ وَسُفْيَانُ الثَّوْرِيُّ وَمَالِكُ بْنُ أَنَسٍ عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ ‏.‏ وَيُرْوَى عَنْ شُعْبَةَ قَالَ لَوَدِدْتُ أَنَّ عَبْدَ اللَّهِ بْنَ دِينَارٍ حِينَ حَدَّثَ بِهَذَا الْحَدِيثِ أَذِنَ لِي حَتَّى كُنْتُ أَقُومُ إِلَيْهِ فَأُقَبِّلُ رَأْسَهُ ‏.‏ وَرَوَى يَحْيَى بْنُ سُلَيْمٍ هَذَا الْحَدِيثَ عَنْ عُبَيْدِ اللَّهِ بْنِ عُمَرَ عَنْ نَافِعٍ عَنِ ابْنِ عُمَرَ عَنِ النَّبِيِّ صلى الله عليه وسلم وَهُوَ وَهَمٌ وَهِمَ فِيهِ يَحْيَى بْنُ سُلَيْمٍ وَالصَّحِيحُ عَنْ عُبَيْدِ اللَّهِ بْنِ عُمَرَ عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ عَنِ ابْنِ عُمَرَ عَنِ النَّبِيِّ صلى الله عليه وسلم ‏.‏ هَكَذَا رَوَاهُ غَيْرُ وَاحِدٍ عَنْ عُبَيْدِ اللَّهِ بْنِ عُمَرَ ‏.‏ قَالَ أَبُو عِيسَى وَتَفَرَّدَ عَبْدُ اللَّهِ بْنُ دِينَارٍ بِهَذَا الْحَدِيثِ ‏.‏",
+        "translations": {
+          "en": "Abdullah bin 'Umar narrated that : the Messenger of Allah (ﷺ) prohibited selling the Wala' and [from] conferring it. [Abu 'Eisa said:] This Hadith is Hasan Sahih. We do not know of it except as a narration of 'Abdullah bin Dinar from Ibn 'Umar from the Prophet (ﷺ). Shu'bah, Sufyan Ath-Thawri, and Malik bin Anas (also) reported it from 'Abdullah bin Dinar. It has been related that Shu'bah said: \"I so wished that 'Abdullah bin Dinar would permit me when he narrated this Hadith that I stand-up, so that I kiss his head.\" And Yahya bin Sulaim reported this Hadith from 'Ubaidullah bin 'Umar from Nafi', from Ibn 'Umar from the Prophet (ﷺ). But this is mistaken, Yahya bin Sulaim erred in it, what is correct is: \"From 'Ubaidullah bin 'Umar, from 'Abdullah bin Dinar, from Ibn 'Umar from the Prophet (ﷺ). This is how it is reported by more than one narrator from 'Ubaidullah bin 'Umar. [Abu 'Eisa said:] And 'Abdullah bin Dinar is alone with this Hadith",
+          "ur": "عبداللہ بن عمر رضی الله عنہما سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے ولاء کے بیچنے اور اسے ہبہ کرنے سے منع فرمایا۔ امام ترمذی کہتے ہیں: ۱- یہ حدیث حسن صحیح ہے، ۲- ہم اسے صرف عبداللہ بن دینار کے واسطہ سے ابن عمر کی روایت سے جانتے ہیں، اور وہ نبی اکرم صلی اللہ علیہ وسلم سے روایت کرتے ہیں، آپ نے ولاء بیچنے اور اسے ہبہ کرنے سے منع فرمایا۔ شعبہ، سفیان ثوری اور مالک بن انس نے بھی یہ حدیث عبداللہ بن دینار سے روایت ہے۔ شعبہ سے مروی ہے، انہوں نے کہا: میری خواہش تھی کہ عبداللہ بن دینار اس حدیث کو بیان کرتے وقت مجھے اجازت دے دیتے اور میں کھڑا ہو کر ان کا سر چوم لیتا، ۳- یحییٰ بن سلیم نے اس حدیث کی روایت کرتے وقت سند یوں بیان کی ہے «عن عبيد الله بن عمر عن نافع عن ابن عمر عن النبي صلى الله عليه وسلم» لیکن اس سند میں وہم ہے اور یہ وہم یحییٰ بن سلیم کی جانب سے ہوا ہے، صحیح سند یوں ہے «عن عبيد الله بن عمر عن عبد الله بن دينار عن ابن عمر عن النبي صلى الله عليه وسلم» ۱؎ عبیداللہ بن عمر سے اسی طرح کئی لوگوں نے روایت کی ہے۔ امام ترمذی کہتے ہیں: عبیداللہ بن دینار اس حدیث کی روایت کرنے میں منفرد ہیں۔",
+          "id": "Telah menceritakan kepada kami [Ibnu Abu 'Umar]; telah menceritakan kepada kami [Sufyan bin 'Uyainah]; telah menceritakan kepada kami ['Abdullah bin Dinar] dia mendengar ['Abdullah bin 'Umar] bahwasanya Rasulullah shallallahu 'alaihi wasallam melarang penjualan Al Wala` (kepemilikan) dan juga menghibahkannya. Abu Isa berkata; Ini adalah hadits Hasan Shahih, kami tidak mengetahuinya kecuali dari haditsnya Abdullah bin Dinar dari Ibnu Umar dari Nabi shallallahu 'alaihi wasallam bahwasanya, beliau melarang penjualan Al Wala` atau pun menghibahkannya. Hadits ini juga telah diriwayatkan oleh [Syu'bah], [Sufyan Ats Tsauri] dan [Malik bin Anas] dari [Abdullah bin Dinar]. Dan diriwayatkan pula dari Syu'bah, ia berkata, \"Sungguh, aku berkeinginan bahwa Abdullah bin Dinar ketika meriwayatkan hadits ini untuk mengizinkan kepadaku agar aku mencium kepalanya. [Yahya bin Sulaim] juga meriwayatkan hadits ini dari [Ubaidullah bin Umar], dari [Nafi'] dari [Ibnu Umar] dari Nabi shallallahu 'alaihi wasallam, namun di dalamnya terdapat Wahm. Yang shahih adalah dari Ubaidullah bin Umar dari Abdullah bin Dinar dari Ibnu Umar dari Nabi shallallahu 'alaihi wasallam. Dan seperti ini pula yang diriwayatkan oleh lebih dari satu perawi dari Ubaidullah bin Umar. Abu Isa berkata; Abdullah bin Umar bersendirian dalam meriwayatkan hadits ini",
+          "tr": "Abdullah b. Ömer (radıyallahü anh)’den rivâyete göre, Rasûlüllah (sallallahü aleyhi ve sellem) şöyle buyurmuştur: “Vela hakkının satılması ve bağışlanması yasaktır.” (Müslim, Itk: 2; Nesâî, Kasame: 8) Bu hadis hasen sahihtir. Bu hadisi sadece Abdullah b. Dinar’ın, İbn Ömer’den rivâyetiyle bilmekteyiz bu rivâyette de Rasûlüllah (sallallahü aleyhi ve sellem) vela hakkını satma ve hibe etmeyi yasakladı. Sûfyân es Sevrî ve Mâlik b. Enes bu hadisi Abdullah b. Dinar’dan rivâyet etmişlerdir. Şu’be’den şöyle dediği rivâyet ediliyor: “Abdullah b. Dinar bu hadisi rivâyet ederken kalkıp alnından öpmeye izin vermesini candan diledim.” Yahya b. Selîm aynı hadisi Ubeydullah b. Ömer’den Nafi’den, İbn Ömer’den rivâyet etmektedir. Oysa bu rivâyet Vehİm’den ibarettir. Yahya b. Süleym burada yanılmıştır. Sahih olan rivâyet Ubeydullah b. Ömer’den böylece rivâyet etmiştir. Abdullah b. Dinar bu hadiste tek kalmıştır"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 31,
+        "hadith": 2
+      }
+    },
+    {
+      "hadithNumber": 2127,
+      "arabicNumber": 2127,
+      "book": 31,
+      "hadithInBook": 3,
+      "text": {
+        "arabic": "حَدَّثَنَا هَنَّادٌ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ، عَنْ إِبْرَاهِيمَ التَّيْمِيِّ، عَنْ أَبِيهِ، قَالَ خَطَبَنَا عَلِيٌّ فَقَالَ مَنْ زَعَمَ أَنَّ عِنْدَنَا شَيْئًا نَقْرَؤُهُ إِلاَّ كِتَابَ اللَّهِ وَهَذِهِ الصَّحِيفَةَ صَحِيفَةٌ فِيهَا أَسْنَانُ الإِبِلِ وَأَشْيَاءُ مِنَ الْجِرَاحَاتِ فَقَدْ كَذَبَ وَقَالَ فِيهَا قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ الْمَدِينَةُ حَرَامٌ مَا بَيْنَ عَيْرٍ إِلَى ثَوْرٍ فَمَنْ أَحْدَثَ فِيهَا حَدَثًا أَوْ آوَى مُحْدِثًا فَعَلَيْهِ لَعْنَةُ اللَّهِ وَالْمَلاَئِكَةِ وَالنَّاسِ أَجْمَعِينَ لاَ يَقْبَلُ اللَّهُ مِنْهُ يَوْمَ الْقِيَامَةِ صَرْفًا وَلاَ عَدْلاً وَمَنِ ادَّعَى إِلَى غَيْرِ أَبِيهِ أَوْ تَوَلَّى غَيْرَ مَوَالِيهِ فَعَلَيْهِ لَعْنَةُ اللَّهِ وَالْمَلاَئِكَةِ وَالنَّاسِ أَجْمَعِينَ لاَ يُقْبَلُ مِنْهُ صَرْفٌ وَلاَ عَدْلٌ وَذِمَّةُ الْمُسْلِمِينَ وَاحِدَةٌ يَسْعَى بِهَا أَدْنَاهُمْ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ وَقَدْ رُوِيَ مِنْ غَيْرِ وَجْهٍ عَنْ عَلِيٍّ عَنِ النَّبِيِّ صلى الله عليه وسلم ‏.‏ قَالَ أَبُو عِيسَى وَرَوَى بَعْضُهُمْ عَنِ الأَعْمَشِ عَنْ إِبْرَاهِيمَ التَّيْمِيِّ عَنِ الْحَارِثِ بْنِ سُوَيْدٍ عَنْ عَلِيٍّ نَحْوَهُ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ وَقَدْ رُوِيَ مِنْ غَيْرِ وَجْهٍ عَنْ عَلِيٍّ عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ",
+        "translations": {
+          "en": "Ibrahim At-Taimi narrated from his father: \"'Ali delivered a Khutbah for us in which he said: 'Whoever claims that we have some book to read other than Allah's Book and this paper, which include camel's ages and things related to (relatiation for) wounds, then he has lied.\" And he said in it: \"Al-Madinah is sacred, what is between 'Air to Thawr, so whoever introduces in it any innovation or shelters an innovator then upon him is the curse of Allah, the angels, and all people. On the Day of Judgment, Allah will not accept his compulsory nor optional good deeds. And whoever claims someone else to be his father, or claims Wala' for someone other than his Mawali, then upon him is the curse of Allah, the angels, and the people; his compulsory and optional good deeds shall not be accepted. The covenants of the Muslims are one, it covers the rest of them. [Abu 'Eisa said:] This Hadith is Hasan Sahih. Some of them reported it similarly from Al-A'mash, from Ibrahim At-Taimi, from Al-Harith bin Suwaid from 'Ali. [Abu 'Eisa said:] It has been reported through more than one route from 'Ali [from the Prophet (ﷺ]",
+          "ur": "یزید بن شریک تیمی کہتے ہیں کہ علی رضی الله عنہ نے ہمارے درمیان خطبہ دیا اور کہا: جو کہتا ہے کہ ہمارے پاس اللہ کی کتاب اور اس صحیفہ – جس کے اندر اونٹوں کی عمر اور جراحات ( زخموں ) کے احکام ہیں – کے علاوہ کوئی اور چیز ہے جسے ہم پڑھتے ہیں تو وہ جھوٹ کہتا ہے ۱؎ علی رضی الله عنہ نے کہا: اس صحیفہ میں یہ بھی ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”عیر سے لے کر ثور تک مدینہ حرم ہے ۲؎ جو شخص اس کے اندر کوئی بدعت ایجاد کرے یا بدعت ایجاد کرنے والے کو پناہ دے، اس پر اللہ، اس کے فرشتے اور تمام لوگوں کی لعنت ہو، قیامت کے دن اللہ تعالیٰ اس آدمی کی نہ کوئی فرض عبادت قبول کرے گا اور نہ نفل اور جو شخص دوسرے کے باپ کی طرف اپنی نسبت کرے یا اپنے آزاد کرنے والے کے علاوہ کو اپنا مالک بنائے اس کے اوپر اللہ، اس کے فرشتے اور تمام لوگوں کی لعنت ہو، اس کی نہ فرض عبادت قبول ہو گی اور نہ نفل، مسلمانوں کی طرف سے دی جانے والی پناہ ایک ہے ان کا معمولی شخص بھی اس پناہ کا مالک ہے“ ۳؎۔ امام ترمذی کہتے ہیں: ۱- یہ حدیث حسن صحیح ہے، ۲- بعض لوگوں نے «عن الأعمش عن إبراهيم التيمي عن الحارث بن سويد عن علي» کی سند سے اسی جیسی حدیث روایت کی ہے، ۳- یہ حدیث کئی سندوں سے علی کے واسطہ سے نبی اکرم صلی اللہ علیہ وسلم سے آئی ہے۔",
+          "id": "Telah menceritakan kepada kami [Hannad]; telah menceritakan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dari [Ibrahim At Taimi] dari [bapaknya] dia berkata; [Ali] pernah menyampaikan khuthbah kepada kami seraya berkata, \"Barangsiapa yang menyangka, bahwa kami memiliki sesuatu yang kami baca kecuali Kitabullah (Al Qur`an) dan di dalam Shahifah ini gigi unta, atau pun sesuatu dari batu-batu, maka sungguh ia telah berdusta.\" Dan di dalam khuthbahnya, ia juga berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Kota Madinah adalah haram (suci), yakni daerah antara 'Air dan Tsaur. Maka barangsiapa yang berbuat kejahatan di dalamnya, atau berniat hendak melakukan kejahatan di dalamnya, niscaya laknat Allah, para Malaikat dan laknat seluruh manusia akan tertimpa atasnya. Allah tidak akan menerima darinya, baik itu amalan wajib atau pun amalan sunnahnya. Dan barangisapa yang bernasab kepada selain bapaknya, atau berwali kepada selain walinya, maka laknat Allah, para Malaikat dan laknat seluruh manusia akan tertimpa atasnya, tidak akan diterima lagi darinya, baik itu amalan wajib atau pun amalan sunnahnya. Dzimmah kaum muslimin adalah satu. Dan akan lebih tinggi lagi, orang-orang yang paling rendah dari mereka.\" Abu Isa berkata; Sebagian mereka meriwayatkan dari [Al A'masy] dari [Ibrahim At Tamimi], dari [Al Harits bin Suwaid], dari [Ali] dengan hadits semisalnya. Abu Isa berkata; Ini adalah hadits hasan shahih. Dan telah pula diriwayatkan lebih dari satu jalur dari Ali dari Nabi shallallahu 'alaihi wasallam",
+          "tr": "İbrahim et Teymî (r.a.)’ın babasından rivâyete göre, şöyle demiştir: Ali (r.a.) bize birgün hutbe vererek şöyle dedi: Yanımızda Allah’ın kitabından ve içinde deve yaşlarından ve birtakım yaralamalara ait hükümleri içeren şu sahifeden başka biz ehli beyt’e mahsus okuduğumuz bir belge olduğunu iddia edenler muhakkak ki yalancıdırlar, diyerek hutbesini şöyle devam ettirdi: Medîne Ayr dağı ile Sevr dağı arasına kadar Harem sayılır; Kim burada bir bidat ortaya çıkarır veya bir bidata kucak açarsa Allah’ın, Meleklerin ve tüm insanların laneti onun üzerinedir. Kıyamet gününde Allah o kimsenin ne tevbesini ne de fidyesini veya o kimsenin farz ve nafile ibadetlerini kabul etmeyecektir. Kim babasından başkasına babası olduğunu iddia eder veya bir köle efendisinden başka birini kendi efendisi kabul ederse Allah’ın, meleklerin ve tüm insanların laneti bu kimseler üzerine olup Allah bu kimselerin de ne farz nede nafilelerini kabul etmeyecek veya bunlardan tevbe ve fidye de kabul edilmeyecektir. Müslümanların zimmeti yani taahhüt edip koruması altına aldığı konudaki garantisi birdir. En aşağı durumda olanları dahi aynı durumdadır.” Diğer tahric: Müslim, itk Tirmizî: Bazıları A’meş’den, İbrahim et Teymî’den, Harîs b. Süveyd’den ve Ali’den bu hadisin bir benzerini bize aktarmışlardır. Tirmizî: Bu hadis hasen sahihtir. Değişik şekillerde yine Ali’den rivâyet edilmiştir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 31,
+        "hadith": 3
+      }
+    },
+    {
+      "hadithNumber": 2128,
+      "arabicNumber": 2128,
+      "book": 31,
+      "hadithInBook": 4,
+      "text": {
+        "arabic": "حَدَّثَنَا عَبْدُ الْجَبَّارِ بْنُ الْعَلاَءِ بْنِ عَبْدِ الْجَبَّارِ الْعَطَّارُ، وَسَعِيدُ بْنُ عَبْدِ الرَّحْمَنِ الْمَخْزُومِيُّ، قَالاَ حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ جَاءَ رَجُلٌ مِنْ بَنِي فَزَارَةَ إِلَى النَّبِيِّ صلى الله عليه وسلم فَقَالَ يَا رَسُولَ اللَّهِ إِنَّ امْرَأَتِي وَلَدَتْ غُلاَمًا أَسْوَدَ ‏.‏ فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ هَلْ لَكَ مِنْ إِبِلٍ ‏\"‏ ‏.‏ قَالَ نَعَمْ ‏.‏ قَالَ ‏\"‏ فَمَا أَلْوَانُهَا ‏\"‏ ‏.‏ قَالَ حُمْرٌ ‏.‏ قَالَ ‏\"‏ فَهَلْ فِيهَا أَوْرَقُ ‏\"‏ ‏.‏ قَالَ نَعَمْ إِنَّ فِيهَا لَوُرْقًا ‏.‏ قَالَ ‏\"‏ أَنَّى أَتَاهَا ذَلِكَ ‏\"‏ ‏.‏ قَالَ لَعَلَّ عِرْقًا نَزَعَهَا ‏.‏ قَالَ ‏\"‏ فَهَذَا لَعَلَّ عِرْقًا نَزَعَهُ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏",
+        "translations": {
+          "en": "Abu Hurairah narrated : \"that a man from [Banu] Fazarah came to the Prophet (ﷺ) and said: 'O Messenger of Allah (ﷺ)! My wife gave birth to black boy.\" So the Prophet (s.a.w) said: \"[Do you have any camels?]\" He said: 'Yes.\" He said: \"Then what are their colors?\" He said: \"Red.\" He said: \"Is there a gray one among them?\" He said: \"Yes, there is a grey one among them.\" He said: \"From where does that come?\" He said: \"Perhaps it is hereditary.\" He said: \"Then in the same way, perhaps it is his heredity.\" [Abu 'Eisa said:] This Hadith is Hasan Sahih",
+          "ur": "ابوہریرہ رضی الله عنہ کہتے ہیں کہ بنی فزارہ کے ایک آدمی نے نبی اکرم صلی اللہ علیہ وسلم کے پاس آ کر عرض کیا: اللہ کے رسول! میری بیوی سے ایک کالا بچہ پیدا ہوا ہے؟ نبی اکرم صلی اللہ علیہ وسلم نے اس سے پوچھا: ”تمہارے پاس اونٹ ہیں؟“ اس نے کہا: ہاں، آپ نے پوچھا: ”وہ کس رنگ کے ہیں؟“ اس نے کہا: سرخ۔ آپ نے پوچھا: ”کیا اس میں کوئی مٹمیلے رنگ کا بھی ہے؟“ اس نے کہا: ہاں، اس میں ایک خاکستری رنگ کا بھی ہے۔ آپ نے پوچھا: ”وہ کہاں سے آیا؟“ اس نے کہا: شاید وہ کوئی خاندانی رگ کھینچ لایا ہو گا ۱؎، آپ نے فرمایا: ”اس لڑکے نے بھی شاید کوئی خاندانی رگ کھینچ لائی ہو اور کالے رنگ کا ہو“۔ امام ترمذی کہتے ہیں: یہ حدیث حسن صحیح ہے۔",
+          "id": "Telah menceritakan kepada kami ['Abdul Jabbar bin Al 'Ala bin 'Abdul Jabbar Al 'Aththar] dan [Sa'id bin 'Abdurrahman Al Makhzumi] mereka berdua berkata; telah menceritakan kepada kami [Sufyan] dari [Az Zuhri] dari [Sa'id bin Al Musayyab] dari [Abu Hurairah] dia berkata; Ada seorang laki-laki Bani Fararah datang kepada Rasulullah shallallahu 'alaihi wasallam dan berkata, \"Wahai Rasulullah, sesungguhnya isteri telah melahirkan seorang anak yang hitam.\" Maka Nabi shallallahu 'alaihi wasallam bertanya: \"Apakah kamu memiliki beberapa ekor unta?\" Laki-laki itu menjawab, \"Ya.\" Beliau bertanya lagi: \"Lalu apa sajakah warna-warna kulitnya?\" Laki-laki itu menjawab, \"Merah.\" Beliau bertanya lagi: \"Apakah diantaranya ada yang berwarna hijau?\" laki-laki itu menjawab, \"Ya.\" Beliau bertanya lagi: \"Lantas darimana warna itu datang?\" Laki-laki itu pun menjawab, \"Mungkin saja dari akar yang ia cabut.\" Akhirnya beliau pun bersabda: \"Maka demikian pula halnya dengan ini, mungkin saja dari akar yang ia cabut.\" Abu Isa berkata; Ini adalah hadits hasan shahih",
+          "tr": "Ebû Hureyre (r.a.)’den rivâyete göre, şöyle demiştir: Fezare kabilesinden bir adam Rasûlullah (s.a.v.)’e gelerek şöyle dedi: “Ey Allah’ın Rasûlü! Karım kendisi beyaz renkli olmasına rağmen siyah bir çocuk doğurdu nedendir bu?” Rasûlullah (s.a.v.), O adama “Develerin var mı?” dedi. Adam: “Evet” dedi. “Renkleri nasıldır” dedi. Adam “kızıl” dedi. Peygamber (s.a.v.): “İçersinde boz develer var mı?” dedi. Adam “Evet içinde boz develer var” dedi. Peygamber (s.a.v.): “Bu boz renk onlara nereden geldi?” Buyurdu. Adam: “Belki onlara çeken bir damar vardır” dedi. Peygamber (s.a.v.): “İşte bu siyah renkli oğlunda da siyaha çeken bir damar vardır” buyurdular. Diğer tahric: Nesâî, Talak Tirmizî: Bu hadis hasen sahihtir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Sahih - Agreed Upon"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 31,
+        "hadith": 4
+      }
+    },
+    {
+      "hadithNumber": 2129,
+      "arabicNumber": 2129,
+      "book": 31,
+      "hadithInBook": 5,
+      "text": {
+        "arabic": "",
+        "translations": {
+          "ur": "ام المؤمنین عائشہ رضی الله عنہا کہتی ہیں کہ نبی اکرم صلی اللہ علیہ وسلم خوشی خوشی ان کے پاس تشریف لائے، آپ کے چہرے کے خطوط چمک رہے تھے، آپ صلی اللہ علیہ وسلم نے فرمایا: ”تم نے دیکھا نہیں، ابھی ابھی مجزز نے زید بن حارثہ اور اسامہ بن زید کو دیکھ کر کہا ہے کہ یہ قدم ( یعنی ان کا رشتہ ) ایک دوسرے سے ہیں ۱؎۔ امام ترمذی کہتے ہیں: ۱- یہ حدیث حسن صحیح ہے، ۲- ابن عیینہ نے یہ حدیث «عن الزهري عن عروة عن عائشة» کی سند سے روایت کی ہے۔ اور اس میں یہ اضافہ کیا ہے، آپ نے فرمایا: ”کیا تم نے نہیں دیکھا کہ مجزز، زید بن حارثہ اور اسامہ بن زید رضی الله عنہ کے پاس سے گزرا، اس وقت وہ دونوں اپنا سر ڈھانپے ہوئے تھے اور ان کے پیر کھلے ہوئے تھے تو اس نے کہا: ان قدموں ( کا رشتہ ) ایک دوسرے سے ہیں، ۳- اسی طرح ہم سے سعید بن عبدالرحمٰن اور کئی لوگوں نے یہ حدیث «عن سفيان بن عيينة هذا الحديث عن الزهري عن عروة عن عائشة» کی سند سے بیان کی ہے، یہ حدیث حسن صحیح ہے، ۴- بعض اہل علم نے اس حدیث سے قیافہ کے معتبر ہونے پر استدلال کیا ہے۔",
+          "id": "Telah menceritakan kepada kami [Qutaibah]; telah menceritakan kepada kami [Al Laits] dari [Ibnu Syihab] dari ['Urwah] dari ['Aisyah] bahwasanya Nabi shallallahu 'alaihi wasallam pernah menemuinya dalam keadaan senang dengan wajah yang berseri-seri seraya bersabda: \"Apakah kamu tidak memperhatikan bahwa tadi Mujazziz melihat ke arah Zaid bin Haritsah dan Usamah bin Zaid?\" Beliau berkata lagi, \"Sesungguhnya kaki ini, sebagiannya bersal dari sebagian yang lain.\" Abu Isa berkata; Ini adalah hadits hasan shahih. Ibnu Uyainah telah meriwayatkan hadits ini dari Az Zuhri dari Urwah dari 'Aisyah, dan ia menambahkan di dalamnya; \"Tidakkah kamu perhatikan, bahwa Mujazziz melewati Zaid bin Haritsah dan Usamah bin Zaid yang keduanya telah menutupi kepalanya, sementara kaki-kakitnya terlihat?\" kemudian beliau bersabda: \"Sesungguhnya kaki-kaki ini, sebagiannya berasal dari sebagian yang lain.\" Dan seperti ini pula, [Sa'id bin Abdurrahman] dan yang lainnya meriwayatkan hadits ini dari [Sufyan bin Uyainah] dari [Zuhri] dari [Urwah] dari [Aisyah]. Dan hadits ini adalah hasan shahih. Sebagian Ulama telah berdalih dengan hadits ini, yakni terkait dengan perintah untuk menegakkan perkara Al Qafah",
+          "tr": "Âişe (radıyallahü anha)’dan rivâyete göre, bir gün; Rasûlüllah (sallallahü aleyhi ve sellem), Âişe’nin yanına sevinçli olarak girdi yüzü parıl parıl parlamaktaydı ve Âişe’ye şöyle dedi: “Duymadın mı? Mücezziz isimli kimse âni bir bakışla aynı renklerde olan Zeyd b. Harîse ile Üsâme b. Zeyd’in ayaklarına bakarak bu ayaklar birbirlerindendir, yani bunlar baba oğuldur demişti.” (Nesâî, Talak: 51) Bu hadis hasen sahihtir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 31,
+        "hadith": 5
+      }
+    },
+    {
+      "hadithNumber": 2130,
+      "arabicNumber": 2130,
+      "book": 31,
+      "hadithInBook": 7,
+      "text": {
+        "arabic": "حَدَّثَنَا أَزْهَرُ بْنُ مَرْوَانَ الْبَصْرِيُّ، حَدَّثَنَا مُحَمَّدُ بْنُ سَوَاءٍ، حَدَّثَنَا أَبُو مَعْشَرٍ، عَنْ سَعِيدٍ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ تَهَادَوْا فَإِنَّ الْهَدِيَّةَ تُذْهِبُ وَحَرَ الصَّدْرِ وَلاَ تَحْقِرَنَّ جَارَةٌ لِجَارَتِهَا وَلَوْ شِقَّ فِرْسِنِ شَاةٍ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ غَرِيبٌ مِنْ هَذَا الْوَجْهِ ‏.‏ وَأَبُو مَعْشَرٍ اسْمُهُ نَجِيحٌ مَوْلَى بَنِي هَاشِمٍ وَقَدْ تَكَلَّمَ فِيهِ بَعْضُ أَهْلِ الْعِلْمِ مِنْ قِبَلِ حِفْظِهِ ‏.‏",
+        "translations": {
+          "en": "Abu Hurairah narrated that the Prophet (s.a.w) said:\"Give gifts, for indeed the gift removes bad feelings from the chest. And let the neighbor not look down upon (the gift of) her neighbor, even if it be the lower shanks of sheep.\" [Abu 'Eisa said:] This Hadith is Gharib from this route. Abu Ma'shar's name is Najih, the freed slave of Banu Hisham. Some of the people of knowledge criticized him due to his poor memory",
+          "ur": "ابوہریرہ رضی الله عنہ سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: ”تم لوگ ایک دوسرے کو ہدیہ دیا کرو، اس لیے کہ ہدیہ دل کی کدورت کو دور کرتا ہے، کوئی پڑوسن اپنی پڑوسن کے ہدیہ کو حقیر نہ سمجھے اگرچہ وہ بکری کے کھر کا ایک ٹکڑا ہی کیوں نہ ہو“ ۱؎۔ امام ترمذی کہتے ہیں: ۱- یہ حدیث اس سند سے غریب ہے، ۲- ابومعشر کا نام نجیح ہے وہ بنی ہاشم کے ( آزاد کردہ ) غلام ہیں، ان کے حافظے کے تعلق سے بعض اہل علم نے ان کے بارے میں کلام کیا ہے",
+          "id": "Telah menceritakan kepada kami [Azhar bin Marwan Al Bashri]; telah menceritakan kepada kami [Muhammad bin Sawa']; telah menceritakan kepada kami [Abu Ma'syar] dari [Sa'id] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: \"Hendaknya kalian saling memberikan hadiah, karena hadiah dapat menghilangkan sifat benci dalam dada, dan janganlah seseorang meremehkan pemberian tetangganya walaupun hanya secuil kaki kambing.\" Abu Isa berkata; Hadits ini gharib bila ditinjau dari jalur sanad ini. Adapun Abu Mi'syar namanya adalah Najih, yakni bekas budaknya Bani Hasyim, dan sebagian ahli ilmu telah membicarakannya dari sisi hafalannya",
+          "tr": "Ebû Hureyre (r.a.)’den rivâyete göre, Rasûlullah (s.a.v.) buyurdular ki: “Karşılıklı hediyeleşin, çünkü hediye kalpten kini giderir. Bir komşu kadın; komşusu olan kadına koyun paçasından bir parça bile olsa hediye olarak vermeyi küçük görmesin.” Diğer tahric: Buhârî, Hibe Tirmizî: Bu hadis bu şekliyle garibtir. Ebû Ma’şer’in ismi Beni Haşim’in azâdlısı Necîh’tir. Bazı hadis bilginleri hafızası yönünden bu kimseyi tenkid etmişlerdir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Daif"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Daif"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Daif"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 31,
+        "hadith": 7
+      }
+    },
+    {
+      "hadithNumber": 2131,
+      "arabicNumber": 2131,
+      "book": 31,
+      "hadithInBook": 8,
+      "text": {
+        "arabic": "حَدَّثَنَا أَحْمَدُ بْنُ مَنِيعٍ، حَدَّثَنَا إِسْحَاقُ بْنُ يُوسُفَ الأَزْرَقُ، حَدَّثَنَا حُسَيْنٌ الْمُكْتِبُ، عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ طَاوُسٍ، عَنِ ابْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ مَثَلُ الَّذِي يُعْطِي الْعَطِيَّةَ ثُمَّ يَرْجِعُ فِيهَا كَالْكَلْبِ أَكَلَ حَتَّى إِذَا شَبِعَ قَاءَ ثُمَّ عَادَ فَرَجَعَ فِي قَيْئِهِ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى وَفِي الْبَابِ عَنِ ابْنِ عَبَّاسٍ وَعَبْدِ اللَّهِ بْنِ عَمْرٍو ‏.‏",
+        "translations": {
+          "en": "Ibn 'Umar narrated that the Messenger of Allah (S.A.W)said:\"The parable of the one who gives a gift, and then takes it back, is that of a dog who eats until he is full, and vomits, then he returns to [take back] his vomit.\" [Abu 'Eisa said:] There are narrations on this topic from Ibn 'Abbas and 'Abdullah bin 'Amr",
+          "ur": "عبداللہ بن عمر رضی الله عنہما سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”جو شخص ہدیہ دے کر پھر واپس لے لے اس کی مثال اس کتے کی طرح ہے جو کھاتا رہے یہاں تک کہ جب وہ آسودہ ہو جائے تو قے کرے، پھر اسے چاٹ لے“۔ امام ترمذی کہتے ہیں: اس باب میں ابن عباس اور عبداللہ بن عمرو رضی الله عنہم سے بھی احادیث آئی ہیں۔",
+          "id": "Telah menceritakan kepada kami [Ahmad bin Mani']; telah menceritakan kepada kami [Ishaq bin Yusuf Al Azraq]; telah menceritakan kepada kami [Husain Al Mukattab] dari ['Amr bin Syu'aib] dari [Thawus] dari [Ibnu 'Umar] bahwasanya Rasulullah shallallahu 'alaihi wasallam bersabda: \"Perumpaan orang yang memberikan suatu pemberian lalu mengambilnya kembali adalah seperti seekor anjing yang makan hingga kekenyangan dan memuntahkannya, lalu ia kembali memakannya.\" Abu Isa berkata; Hadits semakna juga diriwayatkan dari Ibnu Abbas dan Abdullah bin Amru",
+          "tr": "İbn Ömer (r.a.)’den rivâyet edildiğine göre, Rasûlullah (s.a.v.) şöyle buyurmuştur: “Bir bağış yapıp ta sonra bağışından dönen kimse doyuncaya kadar yiyip sonra kusan ve sonra kustuğuna dönüp onu yiyen köpek gibidir.” Diğer tahric: Müslim, Hıbât Tirmizî: Bu konuda İbn Abbâs ve Abdullah b. Amr’dan da hadis rivâyet edilmiştir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 31,
+        "hadith": 8
+      }
+    },
+    {
+      "hadithNumber": 2132,
+      "arabicNumber": 2132,
+      "book": 31,
+      "hadithInBook": 9,
+      "text": {
+        "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ، عَنْ حُسَيْنٍ الْمُعَلِّمِ، عَنْ عَمْرِو بْنِ شُعَيْبٍ، حَدَّثَنِي طَاوُسٌ، عَنِ ابْنِ عُمَرَ، وَابْنِ، عَبَّاسٍ يَرْفَعَانِ الْحَدِيثَ قَالَ ‏ \"‏ لاَ يَحِلُّ لِلرَّجُلِ أَنْ يُعْطِيَ عَطِيَّةً ثُمَّ يَرْجِعَ فِيهَا إِلاَّ الْوَالِدَ فِيمَا يُعْطِي وَلَدَهُ وَمَثَلُ الَّذِي يُعْطِي الْعَطِيَّةَ ثُمَّ يَرْجِعُ فِيهَا كَمَثَلِ الْكَلْبِ أَكَلَ حَتَّى إِذَا شَبِعَ قَاءَ ثُمَّ عَادَ فِي قَيْئِهِ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏ قَالَ الشَّافِعِيُّ لاَ يَحِلُّ لِمَنْ وَهَبَ هِبَةً أَنْ يَرْجِعَ فِيهَا إِلاَّ الْوَالِدَ فَلَهُ أَنْ يَرْجِعَ فِيمَا أَعْطَى وَلَدَهُ ‏.‏ وَاحْتَجَّ بِهَذَا الْحَدِيثِ ‏",
+        "translations": {
+          "en": "Ibn 'Umar and Ibn 'Abbas narrated the Marfu Hadith:\"It is not lawful for a man to give a gift and then take it back, except in the case of the father with what he gave to his son. And the parable of the one who gives a gift, and then takes it back, is that of a dog who eats until he is full, and vomits, then he returns to his vomit.\" [Abu 'Eisa said:] This Hadith is Hasan Sahih. Ash-Shafi'i said: \"It is not lawful for one who confers something to take it back, except in the case of the father. He may take back what he gave his son\" and he used this Hadith as proof",
+          "ur": "عبداللہ بن عمر اور عبداللہ بن عباس رضی الله عنہم سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: ”کسی آدمی کے لیے جائز نہیں کہ کوئی ہدیہ دے، پھر اسے واپس لے لے، سوائے باپ کے جو اپنے بیٹے کو دیتا ہے ( وہ اسے واپس لے سکتا ہے ) اور جو شخص کوئی عطیہ دے پھر واپس لے لے اس کی مثال اس کتے کی طرح ہے جو کھاتا رہے یہاں تک کہ جب آسودہ ہو جائے تو قے کرے، پھر اپنا قے کھا لے“۔ امام ترمذی کہتے ہیں: ۱- یہ حدیث حسن صحیح ہے، ۲- شافعی کہتے ہیں: کسی ہدیہ دینے والے کے لیے جائز نہیں کہ ہدیہ واپس لے لے سوائے باپ کے، کیونکہ اس کے لیے جائز ہے کہ جو ہدیہ اپنے بیٹے کو دیا ہے اسے واپس لے لے، انہوں نے اسی حدیث سے استدلال کیا ہے۔",
+          "id": "Telah menceritakan kepada kami [Muhammad bin Basysyar]; telah menceritakan kepada kami [Ibnu Abu 'Adi] dari [Husain Al Mu'allim] dari ['Amr bin Syu'aib]; telah menceritakan kepadaku [Thawus] dari [Ibnu 'Umar] dan [Ibnu Abbas] - keduanya memarfukkan hadits ini- ia berkata, \"Tidak halal bagi seseorang untuk memberikan pemberian kemudian ia menariknya kembali. Kecuali bagi seorang bapak terhadap apa yang diberikannya pada anaknya. Dan perumpamaan seorang yang memberikan pemberian, lalu ia menariknya kembali, adalah seperti seekor kambing yang makan hingga kekenyangan dan muntah, lalu memakan muntahannya kembali.\" Abu Isa berkata; Ini adalah hadits Hasan Shahih. Asy Syafi'i berkata, \"Tidak halal, bagi seorang yang telah menghibahkan sesuatu, lalu ia menariknya kembali. Kecuali bagi seorang bapak, maka ia boleh mengambil kembali apa yang telah diberikannya pada anaknya.\" Kemudian ia berdalik dengan hadits ini",
+          "tr": "İbn Ömer ve İbn Abbâs (r.anhûma)’dan merfu olarak rivâyete göre, Rasûlullah (s.a.v.) şöyle buyurmuştur: “Bir kimsenin bağışta bulunup bağışından dönmesi caiz değildir. Ancak baba çocuğuna verdiği bağıştan dönebilir. Bağış yapıp ta sonra bağışından dönen kimse doyuncaya kadar yiyip kusan sonra dönüp kustuğunu yiyen köpeğe benzer.” Diğer tahric: Müslim, Hibat Tirmizî: Bu hadis hasen sahihtir. Şâfii diyor ki: Bağış yapanın bağışından dönmesi caiz olmayıp ancak baba çocuğuna yaptığı bağıştan dönebilir. Şâfii bu görüşüne bu hadisi delil olarak göstermektedir"
+        }
+      },
+      "grades": [
+        {
+          "name": "Ahmad Muhammad Shakir",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Al-Albani",
+          "grade": "Sahih"
+        },
+        {
+          "name": "Bashar Awad Maarouf",
+          "grade": "Hasan Sahih"
+        },
+        {
+          "name": "Zubair Ali Zai",
+          "grade": "Isnaad Sahih"
+        }
+      ],
+      "reference": {
+        "collection": "tirmidhi",
+        "book": 31,
+        "hadith": 9
+      }
+    }
+  ],
+  "metadata": {
+    "averageLength": "long",
+    "size": "8KB"
+  }
+}
